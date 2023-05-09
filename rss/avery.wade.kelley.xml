@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-05-09T13:07:52+00:00</updated>
+  <updated>2023-05-09T16:40:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7229093915524074794</id>
-    <title>This. #fyp #trans </title>
-    <updated>2023-05-03T22:56:40+00:00</updated>
-    <content>This. #fyp #trans </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7229093915524074794" rel="alternate"/>
-    <published>2023-05-03T22:56:40+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7229318758182014254</id>
-    <title>This is the last thing I wanted to do... But, it looks like it might have to be in the cards... I will keep you updated as always. Thank you so much for your love and support, y'all mean so much to me. 🖤 #fyp #trans </title>
-    <updated>2023-05-04T13:29:40+00:00</updated>
-    <content>This is the last thing I wanted to do... But, it looks like it might have to be in the cards... I will keep you updated as always. Thank you so much for your love and support, y'all mean so much to me. 🖤 #fyp #trans </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7229318758182014254" rel="alternate"/>
-    <published>2023-05-04T13:29:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7229711308319542574</id>
     <title>Surprised at actually liking my glasses with this filter. Lol. #fyp </title>
@@ -91,5 +75,21 @@
     <content>Just a little time for yourself. Enjoy the sweet cover of Coldplay - Yellow by my sister @Adriana Nightmare . #fyp #mentalhealth </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7231168699527351595" rel="alternate"/>
     <published>2023-05-09T13:07:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7231192329070103850</id>
+    <title>It's happening. We can't ignore it anymore. It's fucking happening. #fyp #trans </title>
+    <updated>2023-05-09T14:39:39+00:00</updated>
+    <content>It's happening. We can't ignore it anymore. It's fucking happening. #fyp #trans </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7231192329070103850" rel="alternate"/>
+    <published>2023-05-09T14:39:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7231223596587240746</id>
+    <title>#duet with @hioutthereitsmesteve Steve. Help us any way you can, please. #fyp #trans </title>
+    <updated>2023-05-09T16:40:57+00:00</updated>
+    <content>#duet with @hioutthereitsmesteve Steve. Help us any way you can, please. #fyp #trans </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7231223596587240746" rel="alternate"/>
+    <published>2023-05-09T16:40:57+00:00</published>
   </entry>
 </feed>
