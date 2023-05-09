@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@claudcirillo</id>
   <title>@claudcirillo | TikTok</title>
-  <updated>2023-05-07T20:23:04+00:00</updated>
+  <updated>2023-05-09T20:36:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @claudcirillo</subtitle>
-  <entry>
-    <id>https://tiktok.com/@claudcirillo/video/7226096025776229634</id>
-    <title>#pov : 2 years earlier, she had stumbled upon a wishing well and made a wish #fyp #foryou #foryoupage </title>
-    <updated>2023-04-25T21:03:18+00:00</updated>
-    <content>#pov : 2 years earlier, she had stumbled upon a wishing well and made a wish #fyp #foryou #foryoupage </content>
-    <link href="https://tiktok.com/@claudcirillo/video/7226096025776229634" rel="alternate"/>
-    <published>2023-04-25T21:03:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@claudcirillo/video/7226113551746829570</id>
     <title>#pov : The Villain give The Hero a choice (alt ending) #fyp #foryou #villainpov #heropov </title>
@@ -91,5 +83,13 @@
     <content>Style my @MOTEL Sevila Mini Dress with me #motelrocks #fyp #foryou #foryoupage </content>
     <link href="https://tiktok.com/@claudcirillo/video/7230538649224449281" rel="alternate"/>
     <published>2023-05-07T20:23:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@claudcirillo/video/7231284225121553666</id>
+    <title>#pov : The Mum Friend shoos away a random man #fyp #foryou #foryoupage </title>
+    <updated>2023-05-09T20:36:10+00:00</updated>
+    <content>#pov : The Mum Friend shoos away a random man #fyp #foryou #foryoupage </content>
+    <link href="https://tiktok.com/@claudcirillo/video/7231284225121553666" rel="alternate"/>
+    <published>2023-05-09T20:36:10+00:00</published>
   </entry>
 </feed>

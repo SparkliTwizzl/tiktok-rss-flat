@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@charlesthegr8</id>
   <title>@charlesthegr8 | TikTok</title>
-  <updated>2023-05-09T07:27:49+00:00</updated>
+  <updated>2023-05-09T19:54:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @charlesthegr8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7229155827985173806</id>
-    <title>✌️✌️✌️#iykyk #4u #charlesthegr8 </title>
-    <updated>2023-05-04T02:57:00+00:00</updated>
-    <content>✌️✌️✌️#iykyk #4u #charlesthegr8 </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7229155827985173806" rel="alternate"/>
-    <published>2023-05-04T02:57:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@charlesthegr8/video/7229172050236132651</id>
     <title>No im never getting off 😏😏😏#iykyk #4u #charlesthegr8 </title>
@@ -91,5 +83,13 @@
     <content>I be overthinking like a mf #fypシ #iykyk #mommy #charlesthegr8 </content>
     <link href="https://tiktok.com/@charlesthegr8/video/7231080776899579178" rel="alternate"/>
     <published>2023-05-09T07:27:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7231273466853428526</id>
+    <title>You can never stay mad around me #fypシ #iykyk #charlesthegr8 </title>
+    <updated>2023-05-09T19:54:24+00:00</updated>
+    <content>You can never stay mad around me #fypシ #iykyk #charlesthegr8 </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7231273466853428526" rel="alternate"/>
+    <published>2023-05-09T19:54:24+00:00</published>
   </entry>
 </feed>
