@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-05-08T19:42:23+00:00</updated>
+  <updated>2023-05-09T01:34:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7227632362069249286</id>
-    <title>Sometimes, it's easier to just be quiet and go offline for a bit ❤️ sing @christian french  #dragmakeup #dragmakeuplook #dragking #drag #glumthesupernaturalhitman </title>
-    <updated>2023-04-30T00:25:01+00:00</updated>
-    <content>Sometimes, it's easier to just be quiet and go offline for a bit ❤️ sing @christian french  #dragmakeup #dragmakeuplook #dragking #drag #glumthesupernaturalhitman </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7227632362069249286" rel="alternate"/>
-    <published>2023-04-30T00:25:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7228752906206416134</id>
     <title>yep 😅😆   voice @Max  #sonethingwrongwithme #lifetruth  #glumthesupernaturalhitman #dragking #drag #dragmakeuplook #dragmakeup </title>
@@ -91,5 +83,13 @@
     <content>feel free to duet and join inbonbthe dysfunction 😅🤣 #maladytheclown #thegoldengirls #comedy #clownmakeup </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7230899305278721286" rel="alternate"/>
     <published>2023-05-08T19:42:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7230989960562724101</id>
+    <title>dont mess with me 💖😘 song @Emily Ann Roberts  #maladytheclown #hesetheroff #clownmakeup </title>
+    <updated>2023-05-09T01:34:13+00:00</updated>
+    <content>dont mess with me 💖😘 song @Emily Ann Roberts  #maladytheclown #hesetheroff #clownmakeup </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7230989960562724101" rel="alternate"/>
+    <published>2023-05-09T01:34:13+00:00</published>
   </entry>
 </feed>
