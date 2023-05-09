@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maladytheclown</id>
   <title>@maladytheclown | TikTok</title>
-  <updated>2023-04-15T18:07:44+00:00</updated>
+  <updated>2023-05-09T16:01:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maladytheclown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maladytheclown/video/7215772524259396869</id>
-    <title>#dragmakeup #dancesinshadows #altstyle #altmakeup #maladytheclown </title>
-    <updated>2023-03-29T01:22:48+00:00</updated>
-    <content>#dragmakeup #dancesinshadows #altstyle #altmakeup #maladytheclown </content>
-    <link href="https://tiktok.com/@maladytheclown/video/7215772524259396869" rel="alternate"/>
-    <published>2023-03-29T01:22:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maladytheclown/video/7217222343037340934</id>
     <title>#dragkingmakeup #dragking #dragmakeup #mischiefthedemon #drag</title>
@@ -91,5 +83,13 @@
     <content>voice @Jax 🌸   #dancesinshadows #makeuplooks #makeupartist #cosplay </content>
     <link href="https://tiktok.com/@maladytheclown/video/7222339955769494790" rel="alternate"/>
     <published>2023-04-15T18:07:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maladytheclown/video/7231213508468198661</id>
+    <title>just a reminder...😘  song @mari$a maino  #maladytheclown #makeupartist #cosplay #clown </title>
+    <updated>2023-05-09T16:01:39+00:00</updated>
+    <content>just a reminder...😘  song @mari$a maino  #maladytheclown #makeupartist #cosplay #clown </content>
+    <link href="https://tiktok.com/@maladytheclown/video/7231213508468198661" rel="alternate"/>
+    <published>2023-05-09T16:01:39+00:00</published>
   </entry>
 </feed>
