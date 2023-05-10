@@ -10,7 +10,6 @@
 - [claudcirillo](https://tiktokrss.uselesslesbians.gay/rss/claudcirillo.xml)
 - [dancesinshadows](https://tiktokrss.uselesslesbians.gay/rss/dancesinshadows.xml)
 - [dannyphantom.exe](https://tiktokrss.uselesslesbians.gay/rss/dannyphantom.exe.xml)
-- [grizzoworld](https://tiktokrss.uselesslesbians.gay/rss/grizzoworld.xml)
 - [grouch_thebird](https://tiktokrss.uselesslesbians.gay/rss/grouch_thebird.xml)
 - [itspeachyfr](https://tiktokrss.uselesslesbians.gay/rss/itspeachyfr.xml)
 - [itsyaboygriffin](https://tiktokrss.uselesslesbians.gay/rss/itsyaboygriffin.xml)
