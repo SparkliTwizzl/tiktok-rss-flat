@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ohgobliin</id>
   <title>@ohgobliin | TikTok</title>
-  <updated>2023-05-03T18:31:52+00:00</updated>
+  <updated>2023-05-10T21:07:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ohgobliin</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ohgobliin/video/7215735218181819653</id>
-    <title>stay a sec?</title>
-    <updated>2023-03-28T22:57:59+00:00</updated>
-    <content>stay a sec?</content>
-    <link href="https://tiktok.com/@ohgobliin/video/7215735218181819653" rel="alternate"/>
-    <published>2023-03-28T22:57:59+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@ohgobliin/video/7218740279145204998</id>
-    <title>my always. @Kay </title>
-    <updated>2023-04-06T01:19:12+00:00</updated>
-    <content>my always. @Kay </content>
-    <link href="https://tiktok.com/@ohgobliin/video/7218740279145204998" rel="alternate"/>
-    <published>2023-04-06T01:19:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ohgobliin/video/7219469443317976326</id>
     <title>@Kay  </title>
@@ -91,5 +75,21 @@
     <content>@Kay </content>
     <link href="https://tiktok.com/@ohgobliin/video/7229025668607020314" rel="alternate"/>
     <published>2023-05-03T18:31:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ohgobliin/video/7231648530048224539</id>
+    <title>i live to be your big sister</title>
+    <updated>2023-05-10T20:09:51+00:00</updated>
+    <content>i live to be your big sister</content>
+    <link href="https://tiktok.com/@ohgobliin/video/7231648530048224539" rel="alternate"/>
+    <published>2023-05-10T20:09:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ohgobliin/video/7231663293822143771</id>
+    <title>not a clue mate</title>
+    <updated>2023-05-10T21:07:17+00:00</updated>
+    <content>not a clue mate</content>
+    <link href="https://tiktok.com/@ohgobliin/video/7231663293822143771" rel="alternate"/>
+    <published>2023-05-10T21:07:17+00:00</published>
   </entry>
 </feed>
