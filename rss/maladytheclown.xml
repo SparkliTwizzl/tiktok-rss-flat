@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maladytheclown</id>
   <title>@maladytheclown | TikTok</title>
-  <updated>2023-05-09T16:01:39+00:00</updated>
+  <updated>2023-05-11T12:30:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maladytheclown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maladytheclown/video/7212448980586761478</id>
-    <title>malady is the hardest makeup on my face, hence why I haven't been doing her looks as often ❤️#kissfromarose #maladytheclown #dancesinshadows #cosplay #canadiancosplayer #clown</title>
-    <updated>2023-03-20T02:25:48+00:00</updated>
-    <content>malady is the hardest makeup on my face, hence why I haven't been doing her looks as often ❤️#kissfromarose #maladytheclown #dancesinshadows #cosplay #canadiancosplayer #clown</content>
-    <link href="https://tiktok.com/@maladytheclown/video/7212448980586761478" rel="alternate"/>
-    <published>2023-03-20T02:25:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maladytheclown/video/7213430102829354245</id>
     <title>new look, now that my eyes are cooperating ❤️ #dancesinshadows #maladytheclown #hush #altmakeup #altstyle </title>
@@ -171,5 +163,13 @@
     <content>just a reminder...😘  song @mari$a maino  #maladytheclown #makeupartist #cosplay #clown </content>
     <link href="https://tiktok.com/@maladytheclown/video/7231213508468198661" rel="alternate"/>
     <published>2023-05-09T16:01:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maladytheclown/video/7231901386097593605</id>
+    <title>#onthisday #maladytheclown </title>
+    <updated>2023-05-11T12:30:58+00:00</updated>
+    <content>#onthisday #maladytheclown </content>
+    <link href="https://tiktok.com/@maladytheclown/video/7231901386097593605" rel="alternate"/>
+    <published>2023-05-11T12:30:58+00:00</published>
   </entry>
 </feed>
