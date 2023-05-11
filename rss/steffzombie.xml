@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@steffzombie</id>
   <title>@steffzombie | TikTok</title>
-  <updated>2023-05-09T00:14:25+00:00</updated>
+  <updated>2023-05-11T06:27:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @steffzombie</subtitle>
-  <entry>
-    <id>https://tiktok.com/@steffzombie/video/7198970407171607854</id>
-    <title>#fy </title>
-    <updated>2023-02-11T18:42:06+00:00</updated>
-    <content>#fy </content>
-    <link href="https://tiktok.com/@steffzombie/video/7198970407171607854" rel="alternate"/>
-    <published>2023-02-11T18:42:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@steffzombie/video/7199394114478132523</id>
     <title>Replying to @sweetiebuns_  #fy #fem </title>
@@ -171,5 +163,13 @@
     <content>Replying to @ambypanby I love all yall  🥺</content>
     <link href="https://tiktok.com/@steffzombie/video/7230969378538310954" rel="alternate"/>
     <published>2023-05-09T00:14:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@steffzombie/video/7231807336661273902</id>
+    <title>Late night post  #fy </title>
+    <updated>2023-05-11T06:27:13+00:00</updated>
+    <content>Late night post  #fy </content>
+    <link href="https://tiktok.com/@steffzombie/video/7231807336661273902" rel="alternate"/>
+    <published>2023-05-11T06:27:13+00:00</published>
   </entry>
 </feed>
