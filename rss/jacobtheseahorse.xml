@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jacobtheseahorse</id>
   <title>@jacobtheseahorse | TikTok</title>
-  <updated>2023-05-10T21:05:28+00:00</updated>
+  <updated>2023-05-11T08:01:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jacobtheseahorse</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7217520521414544645</id>
-    <title>Replying to @planetspidermonkey it's so important that we don't erase women. all women.  #trans #lgbt #queertok #women #nonbinary</title>
-    <updated>2023-04-02T18:25:52+00:00</updated>
-    <content>Replying to @planetspidermonkey it's so important that we don't erase women. all women.  #trans #lgbt #queertok #women #nonbinary</content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7217520521414544645" rel="alternate"/>
-    <published>2023-04-02T18:25:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jacobtheseahorse/video/7217585131165371654</id>
     <title>Replying to @mickey_lou I wasn't born in the wrong body, all of me is trans. I love my trans body. I love that I can grow a beard and grow a baby.  I have been able to access care to help me feel really good in my body - something all trans people (and ev</title>
@@ -171,5 +163,13 @@
     <content>Replying to @evolution_kickboxing thank you for asking, I hope this explains what you wanted to know, I'm always happy to answer more questions! #trans #transpregnancy #edit #transition #gender #gendereuphoria #genderdysphoria #transgender #education #lgbt #fertility </content>
     <link href="https://tiktok.com/@jacobtheseahorse/video/7231662792003161371" rel="alternate"/>
     <published>2023-05-10T21:05:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7231831822412320027</id>
+    <title>Replying to @kismetkat22 thanks for the question, I think some people want to cause dissent and so are giving the impression that trans people are forcing things on women, when that's the last thing we want! we are allies in the fight against patriarchy. </title>
+    <updated>2023-05-11T08:01:15+00:00</updated>
+    <content>Replying to @kismetkat22 thanks for the question, I think some people want to cause dissent and so are giving the impression that trans people are forcing things on women, when that's the last thing we want! we are allies in the fight against patriarchy. we are just asking to be included, especially in perinatal spaces where we (and our babies) are more at risk of exclusion.  #trans #ally #chestfeeding #breastfeeding #humanmilk #chestsurgery #infantfeeding #women #midwives #healthvisitors #feminism #intersectionalfeminism </content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7231831822412320027" rel="alternate"/>
+    <published>2023-05-11T08:01:15+00:00</published>
   </entry>
 </feed>
