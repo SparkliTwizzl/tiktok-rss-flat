@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pinkmantaray</id>
   <title>@pinkmantaray | TikTok</title>
-  <updated>2023-05-09T19:34:38+00:00</updated>
+  <updated>2023-05-10T23:06:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @pinkmantaray</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pinkmantaray/video/7213929895536184618</id>
-    <title>Let’s flip it… Everyone please do your part in this crucial race wisdems.org/cheddarstorm And Wisconsin, please get out the vote!🙏🏼</title>
-    <updated>2023-03-24T02:12:24+00:00</updated>
-    <content>Let’s flip it… Everyone please do your part in this crucial race wisdems.org/cheddarstorm And Wisconsin, please get out the vote!🙏🏼</content>
-    <link href="https://tiktok.com/@pinkmantaray/video/7213929895536184618" rel="alternate"/>
-    <published>2023-03-24T02:12:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pinkmantaray/video/7214527431657524526</id>
     <title>World Athletics' ban is transphobia, misogynistic, racist, discriminatory, and harmful. President Sebastian Coe claims that this is in effort to protect women and women's category, but excluding trans women threatens all women in the entire women's catego</title>
@@ -171,5 +163,13 @@
     <content>Some quick travel thoughts for you 🏳️‍⚧️💕 #transgender #trans #genderliteracy #science </content>
     <link href="https://tiktok.com/@pinkmantaray/video/7231268362192719150" rel="alternate"/>
     <published>2023-05-09T19:34:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pinkmantaray/video/7231693986187070762</id>
+    <title>It was such a joy to sit down with @Dylan Mulvaney and chat about how we hold onto ourselves, our truths, and our joy as openly trans people in this often very transphobic world. Take a listen to this newest episode of DEAR SCHUYLER anywhere you get your </title>
+    <updated>2023-05-10T23:06:18+00:00</updated>
+    <content>It was such a joy to sit down with @Dylan Mulvaney and chat about how we hold onto ourselves, our truths, and our joy as openly trans people in this often very transphobic world. Take a listen to this newest episode of DEAR SCHUYLER anywhere you get your podcasts! And if you have a question you'd like me to address, send me a voice note here or at dearschuyler.com 🙏🏼💕🏳️‍⚧️ Brought to you by @Diversion Audio  🎤 #dearschuyler #transgender #boundaries #dylanmulvaney</content>
+    <link href="https://tiktok.com/@pinkmantaray/video/7231693986187070762" rel="alternate"/>
+    <published>2023-05-10T23:06:18+00:00</published>
   </entry>
 </feed>

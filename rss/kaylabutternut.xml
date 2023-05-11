@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-05-09T19:43:42+00:00</updated>
+  <updated>2023-05-11T03:22:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7229866907028114734</id>
-    <title>Agree or disagree </title>
-    <updated>2023-05-06T00:56:13+00:00</updated>
-    <content>Agree or disagree </content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7229866907028114734" rel="alternate"/>
-    <published>2023-05-06T00:56:13+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7229875567271611690</id>
     <title>Or we could cuddle</title>
@@ -171,5 +163,13 @@
     <content>Should i dye my hair purple or red</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7231270714999885099" rel="alternate"/>
     <published>2023-05-09T19:43:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7231759997636463914</id>
+    <title>Its been a while @Bryce </title>
+    <updated>2023-05-11T03:22:26+00:00</updated>
+    <content>Its been a while @Bryce </content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7231759997636463914" rel="alternate"/>
+    <published>2023-05-11T03:22:26+00:00</published>
   </entry>
 </feed>
