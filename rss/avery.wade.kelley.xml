@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-05-12T01:09:48+00:00</updated>
+  <updated>2023-05-12T17:46:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7230837072763014446</id>
-    <title>My tattoos are for me. They may scare some people, but fear is from misunderstanding and prejudgement. If you saw me work, you wouldn't even see my tattoos. I don't want to work for anyone who has a problem with them. Period. #fyp </title>
-    <updated>2023-05-08T15:41:07+00:00</updated>
-    <content>My tattoos are for me. They may scare some people, but fear is from misunderstanding and prejudgement. If you saw me work, you wouldn't even see my tattoos. I don't want to work for anyone who has a problem with them. Period. #fyp </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7230837072763014446" rel="alternate"/>
-    <published>2023-05-08T15:41:07+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7230941457740303662</id>
-    <title>Passing the time. #fyp </title>
-    <updated>2023-05-08T22:26:00+00:00</updated>
-    <content>Passing the time. #fyp </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7230941457740303662" rel="alternate"/>
-    <published>2023-05-08T22:26:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7231163356458110250</id>
     <title>#duet with @Adriana Nightmare LOL. #fyp </title>
@@ -91,5 +75,21 @@
     <content>My heart is overflowing. Our gofundme is in my bio in the linktree! #fyp #trans </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7232096919835757866" rel="alternate"/>
     <published>2023-05-12T01:09:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7232350550728232234</id>
+    <title>Have to remember to take breaks for yourself and your healing. #fyp #trans </title>
+    <updated>2023-05-12T17:34:23+00:00</updated>
+    <content>Have to remember to take breaks for yourself and your healing. #fyp #trans </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7232350550728232234" rel="alternate"/>
+    <published>2023-05-12T17:34:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7232353673651817771</id>
+    <title>The sheer amount of love on this app is breathtaking. Y'all have such big hearts. 🖤 #fyp #trans </title>
+    <updated>2023-05-12T17:46:30+00:00</updated>
+    <content>The sheer amount of love on this app is breathtaking. Y'all have such big hearts. 🖤 #fyp #trans </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7232353673651817771" rel="alternate"/>
+    <published>2023-05-12T17:46:30+00:00</published>
   </entry>
 </feed>
