@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-05-11T23:12:33+00:00</updated>
+  <updated>2023-05-12T02:48:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7230745174454832426</id>
-    <title>444</title>
-    <updated>2023-05-08T09:44:28+00:00</updated>
-    <content>444</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7230745174454832426" rel="alternate"/>
-    <published>2023-05-08T09:44:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7230822480351366443</id>
     <title>The no makeup version is so cute</title>
@@ -91,5 +83,13 @@
     <content>Sunburn</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7232066709518159146" rel="alternate"/>
     <published>2023-05-11T23:12:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7232122369710755118</id>
+    <title>Last one </title>
+    <updated>2023-05-12T02:48:36+00:00</updated>
+    <content>Last one </content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7232122369710755118" rel="alternate"/>
+    <published>2023-05-12T02:48:36+00:00</published>
   </entry>
 </feed>
