@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-05-11T18:32:28+00:00</updated>
+  <updated>2023-05-12T00:05:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7230461098372107525</id>
-    <title>beware the mad hatter... 2 wonderland characters down, 2 more to go.. .#wonderland #wonderlandapocalypse #wonderlandcosplay #madhatter #madhattercosplay </title>
-    <updated>2023-05-07T15:21:54+00:00</updated>
-    <content>beware the mad hatter... 2 wonderland characters down, 2 more to go.. .#wonderland #wonderlandapocalypse #wonderlandcosplay #madhatter #madhattercosplay </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7230461098372107525" rel="alternate"/>
-    <published>2023-05-07T15:21:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7230602535537495301</id>
     <title>beware the Hatter. his lantern will not guide you home.  #madhattercosplay #madhatter #wonderlandcosplay #wonderlandapocalypse #wonderland </title>
@@ -91,5 +83,13 @@
     <content>yep #maladytheclown  #comedy #clownmakeup #cosplay </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7231994538347318534" rel="alternate"/>
     <published>2023-05-11T18:32:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7232080349797321989</id>
+    <title>don't let the madness get you...  #madhatter #madhattercosplay #steampunk #cosplay #aliceinwonderland #plageudoctor </title>
+    <updated>2023-05-12T00:05:26+00:00</updated>
+    <content>don't let the madness get you...  #madhatter #madhattercosplay #steampunk #cosplay #aliceinwonderland #plageudoctor </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7232080349797321989" rel="alternate"/>
+    <published>2023-05-12T00:05:26+00:00</published>
   </entry>
 </feed>
