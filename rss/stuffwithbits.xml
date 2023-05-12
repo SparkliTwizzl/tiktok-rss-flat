@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-05-11T19:36:47+00:00</updated>
+  <updated>2023-05-12T17:09:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7230508601717116203</id>
-    <title>Some days be like #solardidsystem #sszenith </title>
-    <updated>2023-05-07T18:26:28+00:00</updated>
-    <content>Some days be like #solardidsystem #sszenith </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7230508601717116203" rel="alternate"/>
-    <published>2023-05-07T18:26:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7230510553284775210</id>
     <title>cashapp and Venmo are our username 😅 #solardidsystem #sszenith </title>
@@ -91,5 +83,13 @@
     <content>THE BEST PUPDATE #solardidsystem #ssryn #vetmed </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7232011066824330539" rel="alternate"/>
     <published>2023-05-11T19:36:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7232344053940079915</id>
+    <title>The call is coming from inside the house #solardidsystem #dissociativeidentitydisorder #ssdevereaux </title>
+    <updated>2023-05-12T17:09:05+00:00</updated>
+    <content>The call is coming from inside the house #solardidsystem #dissociativeidentitydisorder #ssdevereaux </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7232344053940079915" rel="alternate"/>
+    <published>2023-05-12T17:09:05+00:00</published>
   </entry>
 </feed>

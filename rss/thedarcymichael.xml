@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-05-10T14:06:41+00:00</updated>
+  <updated>2023-05-12T19:32:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7227555621338467590</id>
-    <title>Hes very jealous, you can tell #marriedlife #couplegoals #CapCut </title>
-    <updated>2023-04-29T19:27:12+00:00</updated>
-    <content>Hes very jealous, you can tell #marriedlife #couplegoals #CapCut </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7227555621338467590" rel="alternate"/>
-    <published>2023-04-29T19:27:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7228591789832195334</id>
     <title>Theres gonna be crumbs all over his plants #plants #couples #adhd #neurospicy #marriedlife #plantdaddy </title>
@@ -91,5 +83,13 @@
     <content>Replying to @user5119228028924 🙃🙃🙃</content>
     <link href="https://tiktok.com/@thedarcymichael/video/7231554966333263110" rel="alternate"/>
     <published>2023-05-10T14:06:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7232381018299288837</id>
+    <title>We see each other ✨differently✨ #marriedlife #coupleschallenge #couplesgoals #darcyandjer </title>
+    <updated>2023-05-12T19:32:12+00:00</updated>
+    <content>We see each other ✨differently✨ #marriedlife #coupleschallenge #couplesgoals #darcyandjer </content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7232381018299288837" rel="alternate"/>
+    <published>2023-05-12T19:32:12+00:00</published>
   </entry>
 </feed>
