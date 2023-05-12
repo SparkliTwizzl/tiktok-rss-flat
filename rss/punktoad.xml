@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-05-08T02:15:06+00:00</updated>
+  <updated>2023-05-12T12:54:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7227844048369814826</id>
-    <title>tendies please #chickentenders #benstiller #fyp  </title>
-    <updated>2023-04-30T14:06:42+00:00</updated>
-    <content>tendies please #chickentenders #benstiller #fyp  </content>
-    <link href="https://tiktok.com/@punktoad/video/7227844048369814826" rel="alternate"/>
-    <published>2023-04-30T14:06:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7228178361821023530</id>
     <title>Dont do it, it aint worth it #couplescomedy #bobodenkirkedit #fyp </title>
@@ -91,5 +83,13 @@
     <content>its about to go down #d&amp;d #dungeonsanddragons #dndtiktok #dragon #nerdtok </content>
     <link href="https://tiktok.com/@punktoad/video/7230629375354408235" rel="alternate"/>
     <published>2023-05-08T02:15:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7232278435928837418</id>
+    <title>Creator’s Block sucks #creatorblock #brainnowork #fyp </title>
+    <updated>2023-05-12T12:54:13+00:00</updated>
+    <content>Creator’s Block sucks #creatorblock #brainnowork #fyp </content>
+    <link href="https://tiktok.com/@punktoad/video/7232278435928837418" rel="alternate"/>
+    <published>2023-05-12T12:54:13+00:00</published>
   </entry>
 </feed>
