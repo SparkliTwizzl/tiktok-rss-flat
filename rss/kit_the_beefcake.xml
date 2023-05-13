@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kit_the_beefcake</id>
   <title>@kit_the_beefcake | TikTok</title>
-  <updated>2023-05-11T13:08:03+00:00</updated>
+  <updated>2023-05-13T02:15:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -13,20 +13,12 @@
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kit_the_beefcake</subtitle>
   <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7229840518354717995</id>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7229228602636782891</id>
     <title>#kitthebeefcake </title>
-    <updated>2023-05-05T23:13:50+00:00</updated>
+    <updated>2023-05-04T07:40:35+00:00</updated>
     <content>#kitthebeefcake </content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7229840518354717995" rel="alternate"/>
-    <published>2023-05-05T23:13:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7230022176806833454</id>
-    <title>[no title]</title>
-    <updated>2023-05-06T11:00:24+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7230022176806833454" rel="alternate"/>
-    <published>2023-05-06T11:00:24+00:00</published>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7229228602636782891" rel="alternate"/>
+    <published>2023-05-04T07:40:35+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7230225048009854251</id>
@@ -45,28 +37,12 @@
     <published>2023-05-07T13:24:56+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7230993954362101038</id>
-    <title>#kitthebeefcake </title>
-    <updated>2023-05-09T01:49:47+00:00</updated>
-    <content>#kitthebeefcake </content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7230993954362101038" rel="alternate"/>
-    <published>2023-05-09T01:49:47+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7231109866608168234</id>
     <title>#kitthebeefcake </title>
     <updated>2023-05-09T09:20:55+00:00</updated>
     <content>#kitthebeefcake </content>
     <link href="https://tiktok.com/@kit_the_beefcake/video/7231109866608168234" rel="alternate"/>
     <published>2023-05-09T09:20:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7231319550812228910</id>
-    <title>#kitthebeefcake </title>
-    <updated>2023-05-09T22:53:13+00:00</updated>
-    <content>#kitthebeefcake </content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7231319550812228910" rel="alternate"/>
-    <published>2023-05-09T22:53:13+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7231503172836003114</id>
@@ -91,5 +67,29 @@
     <content>#kitthebeefcake </content>
     <link href="https://tiktok.com/@kit_the_beefcake/video/7231910784635391274" rel="alternate"/>
     <published>2023-05-11T13:08:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7232097352528432426</id>
+    <title>#kitthebeefcake it was a Wes Anderson video thank God 😂</title>
+    <updated>2023-05-12T01:11:28+00:00</updated>
+    <content>#kitthebeefcake it was a Wes Anderson video thank God 😂</content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7232097352528432426" rel="alternate"/>
+    <published>2023-05-12T01:11:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7232246630802623786</id>
+    <title>your guess is as good as mine #kitthebeefcake </title>
+    <updated>2023-05-12T10:50:51+00:00</updated>
+    <content>your guess is as good as mine #kitthebeefcake </content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7232246630802623786" rel="alternate"/>
+    <published>2023-05-12T10:50:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7232484849544695082</id>
+    <title>#kitthebeefcake </title>
+    <updated>2023-05-13T02:15:15+00:00</updated>
+    <content>#kitthebeefcake </content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7232484849544695082" rel="alternate"/>
+    <published>2023-05-13T02:15:15+00:00</published>
   </entry>
 </feed>
