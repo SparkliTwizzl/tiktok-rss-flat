@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-05-12T17:09:05+00:00</updated>
+  <updated>2023-05-12T22:26:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7230510553284775210</id>
-    <title>cashapp and Venmo are our username 😅 #solardidsystem #sszenith </title>
-    <updated>2023-05-07T18:33:56+00:00</updated>
-    <content>cashapp and Venmo are our username 😅 #solardidsystem #sszenith </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7230510553284775210" rel="alternate"/>
-    <published>2023-05-07T18:33:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7230516212579437867</id>
     <title>We're different parts of the same brain but we are not the same identity #solardidsystem #sszenith #dissociativeidentitydisorder </title>
@@ -91,5 +83,13 @@
     <content>The call is coming from inside the house #solardidsystem #dissociativeidentitydisorder #ssdevereaux </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7232344053940079915" rel="alternate"/>
     <published>2023-05-12T17:09:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7232425999001046318</id>
+    <title>Thank you Kaedyn and Fenrir System! #dissociativeidentitydisorder #solardidsystem #sszephyr </title>
+    <updated>2023-05-12T22:26:53+00:00</updated>
+    <content>Thank you Kaedyn and Fenrir System! #dissociativeidentitydisorder #solardidsystem #sszephyr </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7232425999001046318" rel="alternate"/>
+    <published>2023-05-12T22:26:53+00:00</published>
   </entry>
 </feed>
