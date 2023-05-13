@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@charlesthegr8</id>
   <title>@charlesthegr8 | TikTok</title>
-  <updated>2023-05-11T20:44:30+00:00</updated>
+  <updated>2023-05-13T17:01:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @charlesthegr8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7229573848683875626</id>
-    <title>Waste of my dang tim!!! 😤 #iykyk #4u #charlesthegr8 </title>
-    <updated>2023-05-05T05:59:10+00:00</updated>
-    <content>Waste of my dang tim!!! 😤 #iykyk #4u #charlesthegr8 </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7229573848683875626" rel="alternate"/>
-    <published>2023-05-05T05:59:10+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7229595696167456042</id>
-    <title>Couldnt let that one slide!😤 #iykyk #4u #charlesthegr8 </title>
-    <updated>2023-05-05T07:23:54+00:00</updated>
-    <content>Couldnt let that one slide!😤 #iykyk #4u #charlesthegr8 </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7229595696167456042" rel="alternate"/>
-    <published>2023-05-05T07:23:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7229887587996110126</id>
-    <title>Mhm 😒 #iykyk #4u #charlesthegr8 </title>
-    <updated>2023-05-06T02:16:28+00:00</updated>
-    <content>Mhm 😒 #iykyk #4u #charlesthegr8 </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7229887587996110126" rel="alternate"/>
-    <published>2023-05-06T02:16:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@charlesthegr8/video/7230236074163965227</id>
     <title>Mhm 😒 #iykyk #4u #charlesthegr8 </title>
@@ -91,5 +67,29 @@
     <content>Send this to someone you appreciate!!! 😂 #4u #plottwist #charlesthegr8 </content>
     <link href="https://tiktok.com/@charlesthegr8/video/7232028526977977646" rel="alternate"/>
     <published>2023-05-11T20:44:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7232700826106465582</id>
+    <title>Its eating me alive!!! #4u #iykyk #charlesthegr8 </title>
+    <updated>2023-05-13T16:13:20+00:00</updated>
+    <content>Its eating me alive!!! #4u #iykyk #charlesthegr8 </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7232700826106465582" rel="alternate"/>
+    <published>2023-05-13T16:13:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7232705589921467691</id>
+    <title>Bad timing!!! #iykyk #4u #charlesthegr8 </title>
+    <updated>2023-05-13T16:31:52+00:00</updated>
+    <content>Bad timing!!! #iykyk #4u #charlesthegr8 </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7232705589921467691" rel="alternate"/>
+    <published>2023-05-13T16:31:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7232713304802626862</id>
+    <title>Almost told on myself 😂😂😂 #iykyk #4u #charlesthegr8 </title>
+    <updated>2023-05-13T17:01:44+00:00</updated>
+    <content>Almost told on myself 😂😂😂 #iykyk #4u #charlesthegr8 </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7232713304802626862" rel="alternate"/>
+    <published>2023-05-13T17:01:44+00:00</published>
   </entry>
 </feed>
