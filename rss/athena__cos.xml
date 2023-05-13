@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-05-11T20:45:21+00:00</updated>
+  <updated>2023-05-12T20:03:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7228725609231322411</id>
-    <title>Its funny because thats what im actually doing </title>
-    <updated>2023-05-02T23:07:27+00:00</updated>
-    <content>Its funny because thats what im actually doing </content>
-    <link href="https://tiktok.com/@athena__cos/video/7228725609231322411" rel="alternate"/>
-    <published>2023-05-02T23:07:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7229032142964133166</id>
     <title>Just trying to be handsome the way women are  #korracosplay #avatarcosplay #avatarkorra #legendofkorra #avatar #buffwomen </title>
@@ -91,5 +83,13 @@
     <content>I love it when i get the chance to dance with @Bella LeBaron 💜 #knightcosplay #fantasy #fantasycosplay #ladyknight #womeninarmor #wlw </content>
     <link href="https://tiktok.com/@athena__cos/video/7232028713607515434" rel="alternate"/>
     <published>2023-05-11T20:45:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7232388939548609835</id>
+    <title>Catching up with old friends @@The Adventurer ##lotr##fantasycosplay##ladyknight##womeninarmor##knightcore##knightcosplay##wlw</title>
+    <updated>2023-05-12T20:03:14+00:00</updated>
+    <content>Catching up with old friends @@The Adventurer ##lotr##fantasycosplay##ladyknight##womeninarmor##knightcore##knightcosplay##wlw</content>
+    <link href="https://tiktok.com/@athena__cos/video/7232388939548609835" rel="alternate"/>
+    <published>2023-05-12T20:03:14+00:00</published>
   </entry>
 </feed>
