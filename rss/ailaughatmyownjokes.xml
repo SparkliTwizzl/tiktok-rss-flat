@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ailaughatmyownjokes</id>
   <title>@ailaughatmyownjokes | TikTok</title>
-  <updated>2023-05-10T18:41:41+00:00</updated>
+  <updated>2023-05-13T20:41:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ailaughatmyownjokes</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ailaughatmyownjokes/video/7221621163431136538</id>
-    <title>I can't tell you how grateful I am. Thank you so much❤ life has been rough but making videos for you guys has always helped me and some people commented that it has helped them too and that is my motivation❤️  I wish I could cook for all of you guys. But </title>
-    <updated>2023-04-13T19:38:35+00:00</updated>
-    <content>I can't tell you how grateful I am. Thank you so much❤ life has been rough but making videos for you guys has always helped me and some people commented that it has helped them too and that is my motivation❤️  I wish I could cook for all of you guys. But then again I'm not too good at it. So maybe don't eat it. Just look at it.</content>
-    <link href="https://tiktok.com/@ailaughatmyownjokes/video/7221621163431136538" rel="alternate"/>
-    <published>2023-04-13T19:38:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ailaughatmyownjokes/video/7222313238388542746</id>
     <title>He jinxed it....  #titanic #skit #comedy</title>
@@ -91,5 +83,13 @@
     <content>You forgot your wallet but don't worry, I put it on your pillow before you got home&lt;3 #pov #skit #comedy </content>
     <link href="https://tiktok.com/@ailaughatmyownjokes/video/7231625802314468634" rel="alternate"/>
     <published>2023-05-10T18:41:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ailaughatmyownjokes/video/7232769858147028251</id>
+    <title>Ruggero and I got kicked out of the group. #thewalkingdead #skit #comedy #twd </title>
+    <updated>2023-05-13T20:41:13+00:00</updated>
+    <content>Ruggero and I got kicked out of the group. #thewalkingdead #skit #comedy #twd </content>
+    <link href="https://tiktok.com/@ailaughatmyownjokes/video/7232769858147028251" rel="alternate"/>
+    <published>2023-05-13T20:41:13+00:00</published>
   </entry>
 </feed>
