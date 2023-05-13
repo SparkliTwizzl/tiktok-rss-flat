@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thehistorywizard</id>
   <title>@thehistorywizard | TikTok</title>
-  <updated>2023-05-13T00:08:26+00:00</updated>
+  <updated>2023-05-13T15:17:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thehistorywizard</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thehistorywizard/video/7230190510445579563</id>
-    <title>Replying to @mentalroamer22 Your turn. #thehistorywizard #historytiktok #edutok #learnontiktok #wizardcommunism #handstand </title>
-    <updated>2023-05-06T21:52:03+00:00</updated>
-    <content>Replying to @mentalroamer22 Your turn. #thehistorywizard #historytiktok #edutok #learnontiktok #wizardcommunism #handstand </content>
-    <link href="https://tiktok.com/@thehistorywizard/video/7230190510445579563" rel="alternate"/>
-    <published>2023-05-06T21:52:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thehistorywizard/video/7230439158571994410</id>
     <title>Replying to @cjohns005 Trans people are experiencing a few of these methods. #thehistorywizard #historytiktok #edutok #learnontiktok #wizardcommunism </title>
@@ -91,5 +83,13 @@
     <content>Replying to @trollinforclout888 Enjoy. #thehistorywizard #historytiktok #edutok #learnontiktok #wizardcommunism </content>
     <link href="https://tiktok.com/@thehistorywizard/video/7232452175530659114" rel="alternate"/>
     <published>2023-05-13T00:08:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thehistorywizard/video/7232686437903109419</id>
+    <title>Replying to @sebbyonthespice No. #thehistorywizard #historytiktok #edutok #learnontiktok #wizardcommunism </title>
+    <updated>2023-05-13T15:17:32+00:00</updated>
+    <content>Replying to @sebbyonthespice No. #thehistorywizard #historytiktok #edutok #learnontiktok #wizardcommunism </content>
+    <link href="https://tiktok.com/@thehistorywizard/video/7232686437903109419" rel="alternate"/>
+    <published>2023-05-13T15:17:32+00:00</published>
   </entry>
 </feed>
