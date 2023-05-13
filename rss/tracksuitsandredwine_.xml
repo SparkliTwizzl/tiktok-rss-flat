@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@tracksuitsandredwine_</id>
   <title>@tracksuitsandredwine_ | TikTok</title>
-  <updated>2023-05-11T14:04:32+00:00</updated>
+  <updated>2023-05-13T12:41:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @tracksuitsandredwine_</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tracksuitsandredwine_/video/7228084247452470530</id>
-    <title>anotha draft x</title>
-    <updated>2023-05-01T05:38:34+00:00</updated>
-    <content>anotha draft x</content>
-    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7228084247452470530" rel="alternate"/>
-    <published>2023-05-01T05:38:34+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@tracksuitsandredwine_/video/7228530481732619521</id>
-    <title>ella enchanted is quite possibly the best film ever made</title>
-    <updated>2023-05-02T10:30:12+00:00</updated>
-    <content>ella enchanted is quite possibly the best film ever made</content>
-    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7228530481732619521" rel="alternate"/>
-    <published>2023-05-02T10:30:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tracksuitsandredwine_/video/7229215796277415170</id>
     <title>bimbo</title>
@@ -91,5 +75,21 @@
     <content>bro is ruining my life in the best way. </content>
     <link href="https://tiktok.com/@tracksuitsandredwine_/video/7231925486891339010" rel="alternate"/>
     <published>2023-05-11T14:04:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tracksuitsandredwine_/video/7232639434649324801</id>
+    <title>Replying to @saladdaddy22 back at it 🏴‍☠️ </title>
+    <updated>2023-05-13T12:15:01+00:00</updated>
+    <content>Replying to @saladdaddy22 back at it 🏴‍☠️ </content>
+    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7232639434649324801" rel="alternate"/>
+    <published>2023-05-13T12:15:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tracksuitsandredwine_/video/7232646330965822721</id>
+    <title>k im done i think :))</title>
+    <updated>2023-05-13T12:41:46+00:00</updated>
+    <content>k im done i think :))</content>
+    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7232646330965822721" rel="alternate"/>
+    <published>2023-05-13T12:41:46+00:00</published>
   </entry>
 </feed>
