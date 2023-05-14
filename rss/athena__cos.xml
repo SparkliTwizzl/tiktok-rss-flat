@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-05-13T21:32:09+00:00</updated>
+  <updated>2023-05-14T20:27:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7229412050416454955</id>
-    <title>Korra editon!  Looking to make a lot of upgrades to cosplays including Korra 👀 #korracosplay #avatar #avatarcosplay #korra #legendofkorra #avatarkorra #buffwomen </title>
-    <updated>2023-05-04T19:31:20+00:00</updated>
-    <content>Korra editon!  Looking to make a lot of upgrades to cosplays including Korra 👀 #korracosplay #avatar #avatarcosplay #korra #legendofkorra #avatarkorra #buffwomen </content>
-    <link href="https://tiktok.com/@athena__cos/video/7229412050416454955" rel="alternate"/>
-    <published>2023-05-04T19:31:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7229495031378513198</id>
     <title>Replying to @Dylanpool behind the scenes waiting for the sound to start </title>
@@ -91,5 +83,13 @@
     <content>Just some Avatar aesthetic  #avatar #avataraesthetic #korra #korracosplay </content>
     <link href="https://tiktok.com/@athena__cos/video/7232782980547087659" rel="alternate"/>
     <published>2023-05-13T21:32:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7233137489748299051</id>
+    <title>There’s just something about him 😩@Dylanpool #deadpool </title>
+    <updated>2023-05-14T20:27:54+00:00</updated>
+    <content>There’s just something about him 😩@Dylanpool #deadpool </content>
+    <link href="https://tiktok.com/@athena__cos/video/7233137489748299051" rel="alternate"/>
+    <published>2023-05-14T20:27:54+00:00</published>
   </entry>
 </feed>
