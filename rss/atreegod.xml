@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@atreegod</id>
   <title>@atreegod | TikTok</title>
-  <updated>2023-05-12T00:15:49+00:00</updated>
+  <updated>2023-05-15T16:19:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @atreegod</subtitle>
-  <entry>
-    <id>https://tiktok.com/@atreegod/video/7228356664104144170</id>
-    <title>The duality is insane #wlw #lgbtq </title>
-    <updated>2023-05-01T23:15:44+00:00</updated>
-    <content>The duality is insane #wlw #lgbtq </content>
-    <link href="https://tiktok.com/@atreegod/video/7228356664104144170" rel="alternate"/>
-    <published>2023-05-01T23:15:44+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@atreegod/video/7229745578995977515</id>
-    <title>#wlw </title>
-    <updated>2023-05-05T17:05:28+00:00</updated>
-    <content>#wlw </content>
-    <link href="https://tiktok.com/@atreegod/video/7229745578995977515" rel="alternate"/>
-    <published>2023-05-05T17:05:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@atreegod/video/7229885185267879211</id>
     <title>My thirst trap of the month lol #wlw </title>
@@ -91,5 +75,21 @@
     <content>Like im hot in new york where are you? #wlw #lgbtq </content>
     <link href="https://tiktok.com/@atreegod/video/7232083012777676074" rel="alternate"/>
     <published>2023-05-12T00:15:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7233442824212041002</id>
+    <title>Just woke up vs otw to work #wlw #masc </title>
+    <updated>2023-05-15T16:12:42+00:00</updated>
+    <content>Just woke up vs otw to work #wlw #masc </content>
+    <link href="https://tiktok.com/@atreegod/video/7233442824212041002" rel="alternate"/>
+    <published>2023-05-15T16:12:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7233444462008077614</id>
+    <title>Nessa slayed w this one im ngl #wlw #lgbtq #masc #newyork </title>
+    <updated>2023-05-15T16:19:01+00:00</updated>
+    <content>Nessa slayed w this one im ngl #wlw #lgbtq #masc #newyork </content>
+    <link href="https://tiktok.com/@atreegod/video/7233444462008077614" rel="alternate"/>
+    <published>2023-05-15T16:19:01+00:00</published>
   </entry>
 </feed>
