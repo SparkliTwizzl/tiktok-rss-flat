@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@tracksuitsandredwine_</id>
   <title>@tracksuitsandredwine_ | TikTok</title>
-  <updated>2023-05-14T09:11:18+00:00</updated>
+  <updated>2023-05-15T12:02:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @tracksuitsandredwine_</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tracksuitsandredwine_/video/7230421334201732353</id>
-    <title>[no title]</title>
-    <updated>2023-05-07T12:47:40+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7230421334201732353" rel="alternate"/>
-    <published>2023-05-07T12:47:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tracksuitsandredwine_/video/7230564606744268033</id>
     <title>my fyp is entirely ella enchanted edits. </title>
@@ -91,5 +83,13 @@
     <content>i would not. trust</content>
     <link href="https://tiktok.com/@tracksuitsandredwine_/video/7232963177393229058" rel="alternate"/>
     <published>2023-05-14T09:11:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tracksuitsandredwine_/video/7233378330177834242</id>
+    <title>[no title]</title>
+    <updated>2023-05-15T12:02:16+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7233378330177834242" rel="alternate"/>
+    <published>2023-05-15T12:02:16+00:00</published>
   </entry>
 </feed>
