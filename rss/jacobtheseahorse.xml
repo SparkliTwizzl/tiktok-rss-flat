@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jacobtheseahorse</id>
   <title>@jacobtheseahorse | TikTok</title>
-  <updated>2023-05-15T10:07:21+00:00</updated>
+  <updated>2023-05-15T14:17:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jacobtheseahorse</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7228913813716880666</id>
-    <title>#stitch with @Arctic Harmacist  let's keep these conversations going and flip the narrative so Autism and ADHD are understood from within and not without. my understanding of what it means to be neurodivergent has completely changed thanks to community an</title>
-    <updated>2023-05-03T11:17:50+00:00</updated>
-    <content>#stitch with @Arctic Harmacist  let's keep these conversations going and flip the narrative so Autism and ADHD are understood from within and not without. my understanding of what it means to be neurodivergent has completely changed thanks to community and social media.  I am working in my internalised ableism which makes me want to mask at my own expense and allowing myself to be inconvenient.  #actuallyautistic #audhd #adhd #neurospicy #neurospicycrew #queer #lgbt #trans #inconvenient </content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7228913813716880666" rel="alternate"/>
-    <published>2023-05-03T11:17:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jacobtheseahorse/video/7229400553275641114</id>
     <title>if you're going to require that people have ID to vote then at the very least you need to make ID free to get and easily accessible (which it's not) and even then trans folks are at a disadvantage. #vote #voting #labour #trans #lgbt #leftist #socialism #l</title>
@@ -91,5 +83,13 @@
     <content>There are days that I can't do things, days that I can and days that I pay the price for trying. I have breathing pattern disorder from having Covid and because that hasn't been treated I can't access the Long Covid Physio that I've waited so long for. this is a vulnerable moment for me but I know I'm not alone in having a hidden disability and how impactful it is. please be kind #longcovid #covid #migraines #breathing #airhunger #fatigue #brainfog #physio #physiotherapy #emotional #hiddendisabilities #adhd #audhd #capcut #lgbt #transgender </content>
     <link href="https://tiktok.com/@jacobtheseahorse/video/7233348684337941786" rel="alternate"/>
     <published>2023-05-15T10:07:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7233413194168012059</id>
+    <title>Replying to @kinj.apan I could only make drops at a time because chest surgery removed a significant amount of my breast tissue, but it's still a miracle that it could happen at all! many trans guys feed from their bodies in one way or another, often usin</title>
+    <updated>2023-05-15T14:17:38+00:00</updated>
+    <content>Replying to @kinj.apan I could only make drops at a time because chest surgery removed a significant amount of my breast tissue, but it's still a miracle that it could happen at all! many trans guys feed from their bodies in one way or another, often using an SNS system or similar to supplement what they make with their body. #trans #infantfeeding #chestfeeding #breastfeeding #lgbt #transgender #humanmilk #lactation #chestsurgery </content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7233413194168012059" rel="alternate"/>
+    <published>2023-05-15T14:17:38+00:00</published>
   </entry>
 </feed>

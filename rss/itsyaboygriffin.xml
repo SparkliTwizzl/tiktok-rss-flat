@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@itsyaboygriffin</id>
   <title>@itsyaboygriffin | TikTok</title>
-  <updated>2023-05-01T19:26:45+00:00</updated>
+  <updated>2023-05-15T16:32:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @itsyaboygriffin</subtitle>
-  <entry>
-    <id>https://tiktok.com/@itsyaboygriffin/video/7062126163828952366</id>
-    <title>im not dead, just very busy lol, hope y'all didn't miss me too much</title>
-    <updated>2022-02-08T00:16:21+00:00</updated>
-    <content>im not dead, just very busy lol, hope y'all didn't miss me too much</content>
-    <link href="https://tiktok.com/@itsyaboygriffin/video/7062126163828952366" rel="alternate"/>
-    <published>2022-02-08T00:16:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@itsyaboygriffin/video/7076529974160788778</id>
     <title>TI-84 gang #engineering</title>
@@ -91,5 +83,13 @@
     <content>Impossible</content>
     <link href="https://tiktok.com/@itsyaboygriffin/video/7228297628834909486" rel="alternate"/>
     <published>2023-05-01T19:26:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@itsyaboygriffin/video/7233447858127605034</id>
+    <title>Literally so easy, first try #betterthanyou #genius </title>
+    <updated>2023-05-15T16:32:12+00:00</updated>
+    <content>Literally so easy, first try #betterthanyou #genius </content>
+    <link href="https://tiktok.com/@itsyaboygriffin/video/7233447858127605034" rel="alternate"/>
+    <published>2023-05-15T16:32:12+00:00</published>
   </entry>
 </feed>
