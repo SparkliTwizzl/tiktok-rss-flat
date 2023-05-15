@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jacobtheseahorse</id>
   <title>@jacobtheseahorse | TikTok</title>
-  <updated>2023-05-12T15:09:23+00:00</updated>
+  <updated>2023-05-15T10:07:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jacobtheseahorse</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7228898622752967963</id>
-    <title>don't see many of these on beards and I think I can see why 🤔🧔🏻 #cartoonify #beard #trans #cute #lgbt #rainbow #filter </title>
-    <updated>2023-05-03T10:18:50+00:00</updated>
-    <content>don't see many of these on beards and I think I can see why 🤔🧔🏻 #cartoonify #beard #trans #cute #lgbt #rainbow #filter </content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7228898622752967963" rel="alternate"/>
-    <published>2023-05-03T10:18:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jacobtheseahorse/video/7228913813716880666</id>
     <title>#stitch with @Arctic Harmacist  let's keep these conversations going and flip the narrative so Autism and ADHD are understood from within and not without. my understanding of what it means to be neurodivergent has completely changed thanks to community an</title>
@@ -91,5 +83,13 @@
     <content>#stitch with @Sam 🏳️‍🌈  for context - my grandparents raised me so coming out to them was a big deal! my grandfather was quite lecherous to women (and to me pre-transition 🙃) which is why I suspect he was bi, but perhaps that was a misogenistic performance. who knows 🤷🏻‍♂️ #gay #lgbt #queer #family #bisexual #pansexual #comingout #90s #grandparents #trauma</content>
     <link href="https://tiktok.com/@jacobtheseahorse/video/7232313269246119194" rel="alternate"/>
     <published>2023-05-12T15:09:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7233348684337941786</id>
+    <title>There are days that I can't do things, days that I can and days that I pay the price for trying. I have breathing pattern disorder from having Covid and because that hasn't been treated I can't access the Long Covid Physio that I've waited so long for. th</title>
+    <updated>2023-05-15T10:07:21+00:00</updated>
+    <content>There are days that I can't do things, days that I can and days that I pay the price for trying. I have breathing pattern disorder from having Covid and because that hasn't been treated I can't access the Long Covid Physio that I've waited so long for. this is a vulnerable moment for me but I know I'm not alone in having a hidden disability and how impactful it is. please be kind #longcovid #covid #migraines #breathing #airhunger #fatigue #brainfog #physio #physiotherapy #emotional #hiddendisabilities #adhd #audhd #capcut #lgbt #transgender </content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7233348684337941786" rel="alternate"/>
+    <published>2023-05-15T10:07:21+00:00</published>
   </entry>
 </feed>
