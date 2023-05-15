@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jacobtheseahorse</id>
   <title>@jacobtheseahorse | TikTok</title>
-  <updated>2023-05-15T14:17:38+00:00</updated>
+  <updated>2023-05-15T19:07:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jacobtheseahorse</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7229400553275641114</id>
-    <title>if you're going to require that people have ID to vote then at the very least you need to make ID free to get and easily accessible (which it's not) and even then trans folks are at a disadvantage. #vote #voting #labour #trans #lgbt #leftist #socialism #l</title>
-    <updated>2023-05-04T18:46:39+00:00</updated>
-    <content>if you're going to require that people have ID to vote then at the very least you need to make ID free to get and easily accessible (which it's not) and even then trans folks are at a disadvantage. #vote #voting #labour #trans #lgbt #leftist #socialism #localpolitics </content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7229400553275641114" rel="alternate"/>
-    <published>2023-05-04T18:46:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jacobtheseahorse/video/7230692215885008155</id>
     <title>we fight to support trans kids because we were queer kids! gender affirming healthcare is life saving. #CapCut #spongebob #youngandhappy #compare #spongebobmeme #trans #lgbt #transrights #transyouth #thenandnow #transition</title>
@@ -91,5 +83,13 @@
     <content>Replying to @kinj.apan I could only make drops at a time because chest surgery removed a significant amount of my breast tissue, but it's still a miracle that it could happen at all! many trans guys feed from their bodies in one way or another, often using an SNS system or similar to supplement what they make with their body. #trans #infantfeeding #chestfeeding #breastfeeding #lgbt #transgender #humanmilk #lactation #chestsurgery </content>
     <link href="https://tiktok.com/@jacobtheseahorse/video/7233413194168012059" rel="alternate"/>
     <published>2023-05-15T14:17:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7233487862279277851</id>
+    <title>a really lovely OT reached out to me to offer support on a tiktok earlier and my first response was a trauma response because of this experience. one of many instances of medical trauma that I've experienced over the years. sorry to be a Debby Downer but </title>
+    <updated>2023-05-15T19:07:24+00:00</updated>
+    <content>a really lovely OT reached out to me to offer support on a tiktok earlier and my first response was a trauma response because of this experience. one of many instances of medical trauma that I've experienced over the years. sorry to be a Debby Downer but my guess is I'm not the only one on here who has these kinds of experiences. the intersection of ADHD, autism, menstrual health and mental health all coincidence here and with distanced hindsight of nearly 20 years I can see how vulnerable my young self was. they deserved better. #ot #medical #medicaltrauma #lgbt #period #pmdd #depression #mentalhealth #pms </content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7233487862279277851" rel="alternate"/>
+    <published>2023-05-15T19:07:24+00:00</published>
   </entry>
 </feed>
