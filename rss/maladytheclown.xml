@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maladytheclown</id>
   <title>@maladytheclown | TikTok</title>
-  <updated>2023-05-13T01:06:53+00:00</updated>
+  <updated>2023-05-14T15:14:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maladytheclown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maladytheclown/video/7218344631493299461</id>
-    <title>#duet with @maladytheclown #miniseries #dancesinshadows #dragmakeup #mischiefthedemon #dragking #dragkingmakeup #maddamcure </title>
-    <updated>2023-04-04T23:43:50+00:00</updated>
-    <content>#duet with @maladytheclown #miniseries #dancesinshadows #dragmakeup #mischiefthedemon #dragking #dragkingmakeup #maddamcure </content>
-    <link href="https://tiktok.com/@maladytheclown/video/7218344631493299461" rel="alternate"/>
-    <published>2023-04-04T23:43:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maladytheclown/video/7218733898799369478</id>
     <title>#drag #dragkingmakeup #dragkingsoftiktok #dancesinshadows #glumthesupernaturalhitman #icouldbeabetterboyfriendthanhim </title>
@@ -91,5 +83,13 @@
     <content>#onthisday #maladytheclown </content>
     <link href="https://tiktok.com/@maladytheclown/video/7232467264753241350" rel="alternate"/>
     <published>2023-05-13T01:06:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maladytheclown/video/7233056804844997893</id>
+    <title>#onthisday #maladytheclown #maladyandglum #makeupartist #cosplay </title>
+    <updated>2023-05-14T15:14:35+00:00</updated>
+    <content>#onthisday #maladytheclown #maladyandglum #makeupartist #cosplay </content>
+    <link href="https://tiktok.com/@maladytheclown/video/7233056804844997893" rel="alternate"/>
+    <published>2023-05-14T15:14:35+00:00</published>
   </entry>
 </feed>
