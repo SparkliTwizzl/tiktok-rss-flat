@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ratatootle</id>
   <title>@ratatootle | TikTok</title>
-  <updated>2023-05-14T14:05:09+00:00</updated>
+  <updated>2023-05-15T13:10:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ratatootle</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ratatootle/video/7228619050769780010</id>
-    <title>The world revolves around The Detective i hope you understand </title>
-    <updated>2023-05-02T16:14:19+00:00</updated>
-    <content>The world revolves around The Detective i hope you understand </content>
-    <link href="https://tiktok.com/@ratatootle/video/7228619050769780010" rel="alternate"/>
-    <published>2023-05-02T16:14:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ratatootle/video/7229413010010377515</id>
     <title>Severely underestimated how hard this would be im gonna get full hops in here  gimme a day</title>
@@ -91,5 +83,13 @@
     <content>The art of being a hater is deeply refined </content>
     <link href="https://tiktok.com/@ratatootle/video/7233038834894916910" rel="alternate"/>
     <published>2023-05-14T14:05:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ratatootle/video/7233395753417297194</id>
+    <title>thank u for ur service @Bear Naked </title>
+    <updated>2023-05-15T13:10:05+00:00</updated>
+    <content>thank u for ur service @Bear Naked </content>
+    <link href="https://tiktok.com/@ratatootle/video/7233395753417297194" rel="alternate"/>
+    <published>2023-05-15T13:10:05+00:00</published>
   </entry>
 </feed>
