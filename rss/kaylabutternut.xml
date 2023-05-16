@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-05-15T23:39:34+00:00</updated>
+  <updated>2023-05-16T02:37:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7232160404351487278</id>
-    <title>[no title]</title>
-    <updated>2023-05-12T05:16:16+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7232160404351487278" rel="alternate"/>
-    <published>2023-05-12T05:16:16+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7232161385180974382</id>
     <title>[no title]</title>
@@ -91,5 +83,13 @@
     <content>There were 2 ducks and 2 strangers watching me film this </content>
     <link href="https://tiktok.com/@kaylabutternut/video/7233558012223556910" rel="alternate"/>
     <published>2023-05-15T23:39:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7233603792602664238</id>
+    <title>I like this one better</title>
+    <updated>2023-05-16T02:37:19+00:00</updated>
+    <content>I like this one better</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7233603792602664238" rel="alternate"/>
+    <published>2023-05-16T02:37:19+00:00</published>
   </entry>
 </feed>
