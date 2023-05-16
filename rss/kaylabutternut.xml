@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-05-14T19:52:08+00:00</updated>
+  <updated>2023-05-15T23:39:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7232122369710755118</id>
-    <title>Last one </title>
-    <updated>2023-05-12T02:48:36+00:00</updated>
-    <content>Last one </content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7232122369710755118" rel="alternate"/>
-    <published>2023-05-12T02:48:36+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7232156994843610414</id>
-    <title>This took so much focus </title>
-    <updated>2023-05-12T05:03:00+00:00</updated>
-    <content>This took so much focus </content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7232156994843610414" rel="alternate"/>
-    <published>2023-05-12T05:03:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7232160404351487278</id>
     <title>[no title]</title>
@@ -91,5 +75,21 @@
     <content>I personally needed this</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7233128291341733166" rel="alternate"/>
     <published>2023-05-14T19:52:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7233553341677194542</id>
+    <title>POV: you’re a tree holding up my phone</title>
+    <updated>2023-05-15T23:21:29+00:00</updated>
+    <content>POV: you’re a tree holding up my phone</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7233553341677194542" rel="alternate"/>
+    <published>2023-05-15T23:21:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7233558012223556910</id>
+    <title>There were 2 ducks and 2 strangers watching me film this </title>
+    <updated>2023-05-15T23:39:34+00:00</updated>
+    <content>There were 2 ducks and 2 strangers watching me film this </content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7233558012223556910" rel="alternate"/>
+    <published>2023-05-15T23:39:34+00:00</published>
   </entry>
 </feed>
