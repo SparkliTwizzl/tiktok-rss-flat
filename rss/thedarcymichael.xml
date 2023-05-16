@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-05-13T13:59:25+00:00</updated>
+  <updated>2023-05-16T16:03:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7228736925438463238</id>
-    <title>The way he grabbed the phone at the end! #CapCut </title>
-    <updated>2023-05-02T23:51:18+00:00</updated>
-    <content>The way he grabbed the phone at the end! #CapCut </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7228736925438463238" rel="alternate"/>
-    <published>2023-05-02T23:51:18+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7228967038134373638</id>
-    <title>As we prepare for the onslaught of rainbow washing, we only work with the companies that put the effort in year round and ignore the fast buck from the june only members. Creators, take pride in your choices, saying no to someone “until they do the work” </title>
-    <updated>2023-05-03T14:44:12+00:00</updated>
-    <content>As we prepare for the onslaught of rainbow washing, we only work with the companies that put the effort in year round and ignore the fast buck from the june only members. Creators, take pride in your choices, saying no to someone “until they do the work” beyond june, can be such a great feeling.  #pridemonth🏳️‍🌈 #rainbowwashing #pride #CapCut </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7228967038134373638" rel="alternate"/>
-    <published>2023-05-03T14:44:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7229355607852158213</id>
     <title>It’s his routine every time #adhd #neurospicy #busydonkey #capcut </title>
@@ -91,5 +75,21 @@
     <content>A week of wrangling Darcy and 20 other neurodivergents was an adventure!! Two years ago we signed up to do a fan trip to Greece and after many delays it finally happened.  Taking a trip with 20 strangers from the internet was easily the scariest leap of faith I've ever done and in the end, it turned out we were all meant to be together. I've always known Darcy's energy attracts amazing people into our orbit, but this week just solidified that what you put out into the world comes back tenfold.  I'm constantly in awe of the opportunities we have and as I reflect today on this past week I sit with so much gratitude for everyone that's welcomed us into their lives. Thank you to our motley crew for such an adventure, and thank you to everyone that continues to support us, we love you. #busydonkey #adhd #neurospicy #darcyandjer </content>
     <link href="https://tiktok.com/@thedarcymichael/video/7232666350790003973" rel="alternate"/>
     <published>2023-05-13T13:59:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7233738182506941702</id>
+    <title>Yall better beware, he talked about these poor cacti for hours afterwards. #plants #plantdad #gardenersoftiktok #CapCut </title>
+    <updated>2023-05-16T11:18:40+00:00</updated>
+    <content>Yall better beware, he talked about these poor cacti for hours afterwards. #plants #plantdad #gardenersoftiktok #CapCut </content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7233738182506941702" rel="alternate"/>
+    <published>2023-05-16T11:18:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7233811488899632389</id>
+    <title>🙃😬🙃</title>
+    <updated>2023-05-16T16:03:09+00:00</updated>
+    <content>🙃😬🙃</content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7233811488899632389" rel="alternate"/>
+    <published>2023-05-16T16:03:09+00:00</published>
   </entry>
 </feed>
