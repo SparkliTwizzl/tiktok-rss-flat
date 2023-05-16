@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-05-15T20:09:06+00:00</updated>
+  <updated>2023-05-16T20:50:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7229819043799239979</id>
-    <title>When i heard this audio, it resonated with me personally. So i wanted to show it through a character it fits so well #korra #korracosplay </title>
-    <updated>2023-05-05T21:50:30+00:00</updated>
-    <content>When i heard this audio, it resonated with me personally. So i wanted to show it through a character it fits so well #korra #korracosplay </content>
-    <link href="https://tiktok.com/@athena__cos/video/7229819043799239979" rel="alternate"/>
-    <published>2023-05-05T21:50:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7230489810094361898</id>
     <title>Just a ranger taking her princess for a stroll  The beautiful elf is @𝐊𝐢𝐤𝐢 𝐌𝐨𝐫𝐚 ! #elfcosplay #fantasy #fantasycosplay #knightcore #ranger #rangercosplay #ladyknight #wlw #fantasyaesthetic </title>
@@ -91,5 +83,13 @@
     <content>They are also all oversized #jujutsukaisen #jjk #gojo #sukuna #yuji </content>
     <link href="https://tiktok.com/@athena__cos/video/7233503776961760554" rel="alternate"/>
     <published>2023-05-15T20:09:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7233885386144042283</id>
+    <title>Fantasy moment with my love @April Draven #fantasy#fantasycosplay #knightcore #knightcosplay #ladyknight </title>
+    <updated>2023-05-16T20:50:02+00:00</updated>
+    <content>Fantasy moment with my love @April Draven #fantasy#fantasycosplay #knightcore #knightcosplay #ladyknight </content>
+    <link href="https://tiktok.com/@athena__cos/video/7233885386144042283" rel="alternate"/>
+    <published>2023-05-16T20:50:02+00:00</published>
   </entry>
 </feed>

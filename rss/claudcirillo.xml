@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@claudcirillo</id>
   <title>@claudcirillo | TikTok</title>
-  <updated>2023-05-15T20:39:37+00:00</updated>
+  <updated>2023-05-16T19:46:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @claudcirillo</subtitle>
-  <entry>
-    <id>https://tiktok.com/@claudcirillo/video/7227240286232120577</id>
-    <title>#pov : Her boyfriend tries to expose her for cheating with lyrics, so she flips the script… (ib: @Noah Jay Wood @Miuka.Povs) #fyp #foryou #foryoupage </title>
-    <updated>2023-04-28T23:03:58+00:00</updated>
-    <content>#pov : Her boyfriend tries to expose her for cheating with lyrics, so she flips the script… (ib: @Noah Jay Wood @Miuka.Povs) #fyp #foryou #foryoupage </content>
-    <link href="https://tiktok.com/@claudcirillo/video/7227240286232120577" rel="alternate"/>
-    <published>2023-04-28T23:03:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@claudcirillo/video/7228339472818048258</id>
     <title>#pov : After they flirt with another girl, you confess you dont want your relationship to be a secret anymore #fyp #foryou #foryoupage </title>
@@ -91,5 +83,13 @@
     <content>#pov : Be careful who you claim to be (ib: @🌹GOOD_LEV 🌹) #fyp #foryoupage #foryou </content>
     <link href="https://tiktok.com/@claudcirillo/video/7233511615277157633" rel="alternate"/>
     <published>2023-05-15T20:39:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@claudcirillo/video/7233869023702682881</id>
+    <title>#pov : She has a specific type #fyp #foryoupage #foryou </title>
+    <updated>2023-05-16T19:46:29+00:00</updated>
+    <content>#pov : She has a specific type #fyp #foryoupage #foryou </content>
+    <link href="https://tiktok.com/@claudcirillo/video/7233869023702682881" rel="alternate"/>
+    <published>2023-05-16T19:46:29+00:00</published>
   </entry>
 </feed>
