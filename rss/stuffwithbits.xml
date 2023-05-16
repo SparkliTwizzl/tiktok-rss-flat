@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-05-14T00:45:18+00:00</updated>
+  <updated>2023-05-15T22:27:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7230887798201388330</id>
-    <title>I am in disbelief #solardidsystem #ssdevereaux </title>
-    <updated>2023-05-08T18:57:49+00:00</updated>
-    <content>I am in disbelief #solardidsystem #ssdevereaux </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7230887798201388330" rel="alternate"/>
-    <published>2023-05-08T18:57:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7230901205931756846</id>
     <title>This is no shade at all to those who do choose to share those moments. If that is empowering and validating for you, go for it. Either way, I'm proud of you for surviving. #solardidsystem #ssdevereaux </title>
@@ -91,5 +83,13 @@
     <content>#solardidsystem #ssnightshade </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7232832771599715627" rel="alternate"/>
     <published>2023-05-14T00:45:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7233539444446383403</id>
+    <title>I guess Kestrel's kinda here too @Tally Mark System  #solardidsystem #ssellie #dreaming </title>
+    <updated>2023-05-15T22:27:32+00:00</updated>
+    <content>I guess Kestrel's kinda here too @Tally Mark System  #solardidsystem #ssellie #dreaming </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7233539444446383403" rel="alternate"/>
+    <published>2023-05-15T22:27:32+00:00</published>
   </entry>
 </feed>
