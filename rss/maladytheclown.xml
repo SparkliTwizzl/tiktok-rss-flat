@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maladytheclown</id>
   <title>@maladytheclown | TikTok</title>
-  <updated>2023-05-14T15:14:35+00:00</updated>
+  <updated>2023-05-17T13:41:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maladytheclown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maladytheclown/video/7218733898799369478</id>
-    <title>#drag #dragkingmakeup #dragkingsoftiktok #dancesinshadows #glumthesupernaturalhitman #icouldbeabetterboyfriendthanhim </title>
-    <updated>2023-04-06T00:54:24+00:00</updated>
-    <content>#drag #dragkingmakeup #dragkingsoftiktok #dancesinshadows #glumthesupernaturalhitman #icouldbeabetterboyfriendthanhim </content>
-    <link href="https://tiktok.com/@maladytheclown/video/7218733898799369478" rel="alternate"/>
-    <published>2023-04-06T00:54:24+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@maladytheclown/video/7219348475136331014</id>
-    <title>a rare interview with Maddam Cure. Feel free to duet #makeuplooks #makeupartist #dancesinshadows #maddamcure </title>
-    <updated>2023-04-07T16:39:16+00:00</updated>
-    <content>a rare interview with Maddam Cure. Feel free to duet #makeuplooks #makeupartist #dancesinshadows #maddamcure </content>
-    <link href="https://tiktok.com/@maladytheclown/video/7219348475136331014" rel="alternate"/>
-    <published>2023-04-07T16:39:16+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maladytheclown/video/7219835314859216134</id>
     <title>oh no...  #cosplay #dancesinshadows #maddamcure #makeupartist #miniseries </title>
@@ -91,5 +75,21 @@
     <content>#onthisday #maladytheclown #maladyandglum #makeupartist #cosplay </content>
     <link href="https://tiktok.com/@maladytheclown/video/7233056804844997893" rel="alternate"/>
     <published>2023-05-14T15:14:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maladytheclown/video/7234135023769799942</id>
+    <title>new costumes and characters coming ❤️ #onthisday #maladytheclown #clown #cosplay</title>
+    <updated>2023-05-17T12:58:36+00:00</updated>
+    <content>new costumes and characters coming ❤️ #onthisday #maladytheclown #clown #cosplay</content>
+    <link href="https://tiktok.com/@maladytheclown/video/7234135023769799942" rel="alternate"/>
+    <published>2023-05-17T12:58:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maladytheclown/video/7234146063567932678</id>
+    <title>its been a while... #maladytheclown #clown #cosplay #lipsync </title>
+    <updated>2023-05-17T13:41:26+00:00</updated>
+    <content>its been a while... #maladytheclown #clown #cosplay #lipsync </content>
+    <link href="https://tiktok.com/@maladytheclown/video/7234146063567932678" rel="alternate"/>
+    <published>2023-05-17T13:41:26+00:00</published>
   </entry>
 </feed>
