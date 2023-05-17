@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@adriananightmare</id>
   <title>@adriananightmare | TikTok</title>
-  <updated>2023-05-16T20:49:32+00:00</updated>
+  <updated>2023-05-17T05:48:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @adriananightmare</subtitle>
-  <entry>
-    <id>https://tiktok.com/@adriananightmare/video/7230118932064095530</id>
-    <title>grateful. </title>
-    <updated>2023-05-06T17:14:18+00:00</updated>
-    <content>grateful. </content>
-    <link href="https://tiktok.com/@adriananightmare/video/7230118932064095530" rel="alternate"/>
-    <published>2023-05-06T17:14:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@adriananightmare/video/7232330054745804074</id>
     <title>[no title]</title>
@@ -91,5 +83,13 @@
     <content>#duet with @sarah who is mine? #godlyparent </content>
     <link href="https://tiktok.com/@adriananightmare/video/7233885281026313515" rel="alternate"/>
     <published>2023-05-16T20:49:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@adriananightmare/video/7234024032704662826</id>
+    <title>#godlyparent #ai #trend #fyp </title>
+    <updated>2023-05-17T05:48:26+00:00</updated>
+    <content>#godlyparent #ai #trend #fyp </content>
+    <link href="https://tiktok.com/@adriananightmare/video/7234024032704662826" rel="alternate"/>
+    <published>2023-05-17T05:48:26+00:00</published>
   </entry>
 </feed>
