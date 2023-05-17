@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-05-17T01:04:55+00:00</updated>
+  <updated>2023-05-17T12:56:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7232292156822605061</id>
-    <title>#duet with @Mysterions strange and unusual  a preview of something to come.... #hauntedtiktok #haunteddoll #haunteddolls  #cosplay #creepytok </title>
-    <updated>2023-05-12T13:47:22+00:00</updated>
-    <content>#duet with @Mysterions strange and unusual  a preview of something to come.... #hauntedtiktok #haunteddoll #haunteddolls  #cosplay #creepytok </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7232292156822605061" rel="alternate"/>
-    <published>2023-05-12T13:47:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7232292518090575109</id>
     <title>anoyher throwback  #onthisday #maladytheclown #clown #clownmakeup </title>
@@ -91,5 +83,13 @@
     <content>#duet with @Angel 2 down.... #wonderland #wonderlandcosplay #madhatter </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7233951088708160774" rel="alternate"/>
     <published>2023-05-17T01:04:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7234134414618348805</id>
+    <title>#maladytheclown #personalityyoucanthandle #clown #personality </title>
+    <updated>2023-05-17T12:56:14+00:00</updated>
+    <content>#maladytheclown #personalityyoucanthandle #clown #personality </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7234134414618348805" rel="alternate"/>
+    <published>2023-05-17T12:56:14+00:00</published>
   </entry>
 </feed>
