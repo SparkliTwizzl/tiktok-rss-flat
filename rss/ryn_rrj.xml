@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ryn_rrj</id>
   <title>@ryn_rrj | TikTok</title>
-  <updated>2023-05-16T21:52:53+00:00</updated>
+  <updated>2023-05-17T15:51:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ryn_rrj</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ryn_rrj/video/7213052767882202414</id>
-    <title>The “sudden loud and constant audio direct in your headphones” panic is a different kind of panic #CapCut #audio #editing #mixing #protools #daw #joke #funny #shortcuts </title>
-    <updated>2023-03-21T17:29:06+00:00</updated>
-    <content>The “sudden loud and constant audio direct in your headphones” panic is a different kind of panic #CapCut #audio #editing #mixing #protools #daw #joke #funny #shortcuts </content>
-    <link href="https://tiktok.com/@ryn_rrj/video/7213052767882202414" rel="alternate"/>
-    <published>2023-03-21T17:29:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ryn_rrj/video/7214610350937804074</id>
     <title>Go read “&amp; This is How to Stay Alive” by Shingai Njeri Kagunda. Thank you @alasdairstuart for featuring this in The Full Lid, so glad i checked it out! Also, stealing his content warnings for the book: suicide, homophobia, and grief  #books #booktok #reco</title>
@@ -91,5 +83,13 @@
     <content>And honestly? I needed that reminder. . . . #music #musician #piano #live #performance #composer #clairdelune #debussy #classical #passion #joy #beauty #purpose </content>
     <link href="https://tiktok.com/@ryn_rrj/video/7233901600975408430" rel="alternate"/>
     <published>2023-05-16T21:52:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ryn_rrj/video/7234179471924907307</id>
+    <title>Especially if you haven’t played it in a while and you simply…. Run out. #musician #piano #pianist #performance #memory #funny #viralaudio </title>
+    <updated>2023-05-17T15:51:16+00:00</updated>
+    <content>Especially if you haven’t played it in a while and you simply…. Run out. #musician #piano #pianist #performance #memory #funny #viralaudio </content>
+    <link href="https://tiktok.com/@ryn_rrj/video/7234179471924907307" rel="alternate"/>
+    <published>2023-05-17T15:51:16+00:00</published>
   </entry>
 </feed>
