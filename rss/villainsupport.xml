@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@villainsupport</id>
   <title>@villainsupport | TikTok</title>
-  <updated>2023-05-16T23:28:11+00:00</updated>
+  <updated>2023-05-17T21:59:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @villainsupport</subtitle>
-  <entry>
-    <id>https://tiktok.com/@villainsupport/video/7230180971113450795</id>
-    <title>#allforone #mha #gohan #buu #dbz #anime #acmetok #acmevillainsupport </title>
-    <updated>2023-05-06T21:15:03+00:00</updated>
-    <content>#allforone #mha #gohan #buu #dbz #anime #acmetok #acmevillainsupport </content>
-    <link href="https://tiktok.com/@villainsupport/video/7230180971113450795" rel="alternate"/>
-    <published>2023-05-06T21:15:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@villainsupport/video/7230541948078181678</id>
     <title>#allforone #overhaul #mha #gohan #buu #dbz #anime #acmetok #acmevillainsupport </title>
@@ -91,5 +83,13 @@
     <content>#onepunchman #saitama #boros #anime #acmetok #acmevillainsupport </content>
     <link href="https://tiktok.com/@villainsupport/video/7233926153793359150" rel="alternate"/>
     <published>2023-05-16T23:28:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@villainsupport/video/7234274309492002091</id>
+    <title>#onepunchman #saitama #anime #acmetok #acmevillainsupport </title>
+    <updated>2023-05-17T21:59:12+00:00</updated>
+    <content>#onepunchman #saitama #anime #acmetok #acmevillainsupport </content>
+    <link href="https://tiktok.com/@villainsupport/video/7234274309492002091" rel="alternate"/>
+    <published>2023-05-17T21:59:12+00:00</published>
   </entry>
 </feed>
