@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ryn_rrj</id>
   <title>@ryn_rrj | TikTok</title>
-  <updated>2023-05-09T19:51:05+00:00</updated>
+  <updated>2023-05-16T21:52:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ryn_rrj</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ryn_rrj/video/7211943543101852971</id>
-    <title>Plz comment your fave combos I am indecisive and struggling #clothes #fashion #photo #photoshoot #headshots #lgbt #transmasc </title>
-    <updated>2023-03-18T17:44:29+00:00</updated>
-    <content>Plz comment your fave combos I am indecisive and struggling #clothes #fashion #photo #photoshoot #headshots #lgbt #transmasc </content>
-    <link href="https://tiktok.com/@ryn_rrj/video/7211943543101852971" rel="alternate"/>
-    <published>2023-03-18T17:44:29+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ryn_rrj/video/7213052767882202414</id>
     <title>The “sudden loud and constant audio direct in your headphones” panic is a different kind of panic #CapCut #audio #editing #mixing #protools #daw #joke #funny #shortcuts </title>
@@ -91,5 +83,13 @@
     <content>A gentle reminder that you can only make good art if you’re still alive and well enough to do so. Take care of yourself first, ALWAYS. The work can wait. #mentalhealth #film #music #filmscoring #industry #worklifebalance #grind #grindset #filmindustry #musicindustry #art #creator #itshardtobelieve #artist </content>
     <link href="https://tiktok.com/@ryn_rrj/video/7231272598460550442" rel="alternate"/>
     <published>2023-05-09T19:51:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ryn_rrj/video/7233901600975408430</id>
+    <title>And honestly? I needed that reminder. . . . #music #musician #piano #live #performance #composer #clairdelune #debussy #classical #passion #joy #beauty #purpose </title>
+    <updated>2023-05-16T21:52:53+00:00</updated>
+    <content>And honestly? I needed that reminder. . . . #music #musician #piano #live #performance #composer #clairdelune #debussy #classical #passion #joy #beauty #purpose </content>
+    <link href="https://tiktok.com/@ryn_rrj/video/7233901600975408430" rel="alternate"/>
+    <published>2023-05-16T21:52:53+00:00</published>
   </entry>
 </feed>
