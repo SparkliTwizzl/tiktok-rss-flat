@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maladytheclown</id>
   <title>@maladytheclown | TikTok</title>
-  <updated>2023-05-17T13:41:26+00:00</updated>
+  <updated>2023-05-17T21:33:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maladytheclown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maladytheclown/video/7219835314859216134</id>
-    <title>oh no...  #cosplay #dancesinshadows #maddamcure #makeupartist #miniseries </title>
-    <updated>2023-04-09T00:08:27+00:00</updated>
-    <content>oh no...  #cosplay #dancesinshadows #maddamcure #makeupartist #miniseries </content>
-    <link href="https://tiktok.com/@maladytheclown/video/7219835314859216134" rel="alternate"/>
-    <published>2023-04-09T00:08:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maladytheclown/video/7220045136829435142</id>
     <title>#makeup #cosplay #makeupartist #makeuplooks #spring #dancesinshadows </title>
@@ -91,5 +83,13 @@
     <content>its been a while... #maladytheclown #clown #cosplay #lipsync </content>
     <link href="https://tiktok.com/@maladytheclown/video/7234146063567932678" rel="alternate"/>
     <published>2023-05-17T13:41:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maladytheclown/video/7234267661603998982</id>
+    <title>still going through drafts... #glumthesupernaturalhitman #skeletonmakeup #skeletonboy #skullmakeup </title>
+    <updated>2023-05-17T21:33:19+00:00</updated>
+    <content>still going through drafts... #glumthesupernaturalhitman #skeletonmakeup #skeletonboy #skullmakeup </content>
+    <link href="https://tiktok.com/@maladytheclown/video/7234267661603998982" rel="alternate"/>
+    <published>2023-05-17T21:33:19+00:00</published>
   </entry>
 </feed>
