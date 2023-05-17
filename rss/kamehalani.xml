@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kamehalani</id>
   <title>@kamehalani | TikTok</title>
-  <updated>2023-05-17T04:24:09+00:00</updated>
+  <updated>2023-05-16T17:42:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,22 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kamehalani</subtitle>
+  <entry>
+    <id>https://tiktok.com/@kamehalani/video/7230967941964074283</id>
+    <title>But i was alone so it doesnt count </title>
+    <updated>2023-05-09T00:08:54+00:00</updated>
+    <content>But i was alone so it doesnt count </content>
+    <link href="https://tiktok.com/@kamehalani/video/7230967941964074283" rel="alternate"/>
+    <published>2023-05-09T00:08:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kamehalani/video/7231598884299033898</id>
+    <title>GUYSSSSS LOOK AT THESE PICS #dollyparton #dolly </title>
+    <updated>2023-05-10T16:57:30+00:00</updated>
+    <content>GUYSSSSS LOOK AT THESE PICS #dollyparton #dolly </content>
+    <link href="https://tiktok.com/@kamehalani/video/7231598884299033898" rel="alternate"/>
+    <published>2023-05-10T16:57:30+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@kamehalani/video/7231607913003912490</id>
     <title>Yikes #aapiheritagemonth #aapifamily #kanaka #nativehawaiian #liloandstitch #nanipelekai #hawaiian   </title>
@@ -75,21 +91,5 @@
     <content>Replying to @shandybrook #greenscreen thanks for playing! Next! #dollyparton #dolly #politics </content>
     <link href="https://tiktok.com/@kamehalani/video/7233837161605385518" rel="alternate"/>
     <published>2023-05-16T17:42:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kamehalani/video/7234001856866045230</id>
-    <title>#stitch with @Jaja! What in the jimmy nuetron </title>
-    <updated>2023-05-17T04:22:16+00:00</updated>
-    <content>#stitch with @Jaja! What in the jimmy nuetron </content>
-    <link href="https://tiktok.com/@kamehalani/video/7234001856866045230" rel="alternate"/>
-    <published>2023-05-17T04:22:16+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kamehalani/video/7234002386132421931</id>
-    <title>#stitch with @Jaja! Omggggggh @Qori </title>
-    <updated>2023-05-17T04:24:09+00:00</updated>
-    <content>#stitch with @Jaja! Omggggggh @Qori </content>
-    <link href="https://tiktok.com/@kamehalani/video/7234002386132421931" rel="alternate"/>
-    <published>2023-05-17T04:24:09+00:00</published>
   </entry>
 </feed>
