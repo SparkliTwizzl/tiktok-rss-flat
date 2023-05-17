@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avocadosnaliens</id>
   <title>@avocadosnaliens | TikTok</title>
-  <updated>2023-05-17T01:07:52+00:00</updated>
+  <updated>2023-05-17T20:11:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avocadosnaliens</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avocadosnaliens/video/7229152206317014318</id>
-    <title>Ive given up if you havent noticed #dayinthelifeofaphotographer #editingday #weddingphotographer </title>
-    <updated>2023-05-04T02:42:54+00:00</updated>
-    <content>Ive given up if you havent noticed #dayinthelifeofaphotographer #editingday #weddingphotographer </content>
-    <link href="https://tiktok.com/@avocadosnaliens/video/7229152206317014318" rel="alternate"/>
-    <published>2023-05-04T02:42:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avocadosnaliens/video/7229422900724583722</id>
     <title>#wiwuad #ootd #pentaxk1000 #citifiedcountryboy </title>
@@ -91,5 +83,13 @@
     <content>#screammovie #aifilter </content>
     <link href="https://tiktok.com/@avocadosnaliens/video/7233951844152724778" rel="alternate"/>
     <published>2023-05-17T01:07:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7234246562367474990</id>
+    <title>I just wantes the moss one</title>
+    <updated>2023-05-17T20:11:33+00:00</updated>
+    <content>I just wantes the moss one</content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7234246562367474990" rel="alternate"/>
+    <published>2023-05-17T20:11:33+00:00</published>
   </entry>
 </feed>
