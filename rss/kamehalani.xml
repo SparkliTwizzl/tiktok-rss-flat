@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kamehalani</id>
   <title>@kamehalani | TikTok</title>
-  <updated>2023-05-18T16:18:56+00:00</updated>
+  <updated>2023-05-18T18:20:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kamehalani</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kamehalani/video/7231598884299033898</id>
-    <title>GUYSSSSS LOOK AT THESE PICS #dollyparton #dolly </title>
-    <updated>2023-05-10T16:57:30+00:00</updated>
-    <content>GUYSSSSS LOOK AT THESE PICS #dollyparton #dolly </content>
-    <link href="https://tiktok.com/@kamehalani/video/7231598884299033898" rel="alternate"/>
-    <published>2023-05-10T16:57:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kamehalani/video/7231607913003912490</id>
     <title>Yikes #aapiheritagemonth #aapifamily #kanaka #nativehawaiian #liloandstitch #nanipelekai #hawaiian   </title>
@@ -91,5 +83,13 @@
     <content>Replying to @BeardedTransBear #greenscreen i feel like im confused by the intention of the comment. Maybe im misreading and im not lecturing anyone </content>
     <link href="https://tiktok.com/@kamehalani/video/7234557687030238507" rel="alternate"/>
     <published>2023-05-18T16:18:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kamehalani/video/7234588928471354667</id>
+    <title>#stitch with @Taongcouiy yall jk or am i? #timcurry #rhps </title>
+    <updated>2023-05-18T18:20:10+00:00</updated>
+    <content>#stitch with @Taongcouiy yall jk or am i? #timcurry #rhps </content>
+    <link href="https://tiktok.com/@kamehalani/video/7234588928471354667" rel="alternate"/>
+    <published>2023-05-18T18:20:10+00:00</published>
   </entry>
 </feed>
