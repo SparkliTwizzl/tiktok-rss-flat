@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-05-16T16:28:43+00:00</updated>
+  <updated>2023-05-17T23:41:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7228561436220493102</id>
-    <title>how could you? #bestfriendscheck #dontcry #fyp </title>
-    <updated>2023-05-02T12:30:42+00:00</updated>
-    <content>how could you? #bestfriendscheck #dontcry #fyp </content>
-    <link href="https://tiktok.com/@punktoad/video/7228561436220493102" rel="alternate"/>
-    <published>2023-05-02T12:30:42+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7228784169239727402</id>
-    <title>ill never get my full range of hearing back #videogamememes #warzone #fyp </title>
-    <updated>2023-05-03T02:54:48+00:00</updated>
-    <content>ill never get my full range of hearing back #videogamememes #warzone #fyp </content>
-    <link href="https://tiktok.com/@punktoad/video/7228784169239727402" rel="alternate"/>
-    <published>2023-05-03T02:54:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7228937023988550958</id>
     <title>i miss the trees #hermit #leavecapitalismbehind #fyp </title>
@@ -91,5 +75,21 @@
     <content>Thats just the way it is #dadsoftiktok #momsoftiktok #21jumpstreet #fyp </content>
     <link href="https://tiktok.com/@punktoad/video/7233818044651326762" rel="alternate"/>
     <published>2023-05-16T16:28:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7234277705989098795</id>
+    <title>Facts about The Black Dahlia pt. 1  • • • #truecrime #truecrimetiktok #theblackdahlia #elizabethshort #unsolved #spooky </title>
+    <updated>2023-05-17T22:12:25+00:00</updated>
+    <content>Facts about The Black Dahlia pt. 1  • • • #truecrime #truecrimetiktok #theblackdahlia #elizabethshort #unsolved #spooky </content>
+    <link href="https://tiktok.com/@punktoad/video/7234277705989098795" rel="alternate"/>
+    <published>2023-05-17T22:12:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7234300589574982958</id>
+    <title>Favts about The Black Dahlia pt. 2 #truecrime #truecrimetiktok #theblackdahlia #elizabethshort #unsolved </title>
+    <updated>2023-05-17T23:41:09+00:00</updated>
+    <content>Favts about The Black Dahlia pt. 2 #truecrime #truecrimetiktok #theblackdahlia #elizabethshort #unsolved </content>
+    <link href="https://tiktok.com/@punktoad/video/7234300589574982958" rel="alternate"/>
+    <published>2023-05-17T23:41:09+00:00</published>
   </entry>
 </feed>

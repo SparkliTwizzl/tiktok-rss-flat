@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-05-16T21:59:17+00:00</updated>
+  <updated>2023-05-18T00:15:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7233539444446383403</id>
-    <title>I guess Kestrel's kinda here too @Tally Mark System  #solardidsystem #ssellie #dreaming </title>
-    <updated>2023-05-15T22:27:32+00:00</updated>
-    <content>I guess Kestrel's kinda here too @Tally Mark System  #solardidsystem #ssellie #dreaming </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7233539444446383403" rel="alternate"/>
-    <published>2023-05-15T22:27:32+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7233825582100860206</id>
-    <title>Daybreak and Nightshade are both partners and non speaking. They have roles and identities but are not considered fully elaborated alters. #solardidsystem #ssdaybreak #dissociativeidentitydisorder </title>
-    <updated>2023-05-16T16:57:57+00:00</updated>
-    <content>Daybreak and Nightshade are both partners and non speaking. They have roles and identities but are not considered fully elaborated alters. #solardidsystem #ssdaybreak #dissociativeidentitydisorder </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7233825582100860206" rel="alternate"/>
-    <published>2023-05-16T16:57:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7233829409923271978</id>
     <title>Replying to @themiguy1 #reply #solardidsystem #sszenith </title>
@@ -91,5 +75,21 @@
     <content>Replying to @cakeyeater #reply We are one person with many identities. Dissociated identities, if you will. #solardidsystem #sszenith #ssneptune #dissociativeidentitydisorder </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7233903236472933678" rel="alternate"/>
     <published>2023-05-16T21:59:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7234289969806724395</id>
+    <title>Soulmates 🥰 #solardidsystem #ladybug </title>
+    <updated>2023-05-17T22:59:58+00:00</updated>
+    <content>Soulmates 🥰 #solardidsystem #ladybug </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7234289969806724395" rel="alternate"/>
+    <published>2023-05-17T22:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7234309541356113195</id>
+    <title>it's exhausting #solardidsystem #dissociativeidentitydisorder </title>
+    <updated>2023-05-18T00:15:53+00:00</updated>
+    <content>it's exhausting #solardidsystem #dissociativeidentitydisorder </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7234309541356113195" rel="alternate"/>
+    <published>2023-05-18T00:15:53+00:00</published>
   </entry>
 </feed>
