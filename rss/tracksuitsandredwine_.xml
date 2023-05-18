@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@tracksuitsandredwine_</id>
   <title>@tracksuitsandredwine_ | TikTok</title>
-  <updated>2023-05-17T15:17:55+00:00</updated>
+  <updated>2023-05-18T03:21:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @tracksuitsandredwine_</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tracksuitsandredwine_/video/7230756417769131266</id>
-    <title>[no title]</title>
-    <updated>2023-05-08T10:27:55+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7230756417769131266" rel="alternate"/>
-    <published>2023-05-08T10:27:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@tracksuitsandredwine_/video/7231072248524836097</id>
-    <title>[no title]</title>
-    <updated>2023-05-09T06:53:32+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7231072248524836097" rel="alternate"/>
-    <published>2023-05-09T06:53:32+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tracksuitsandredwine_/video/7231779810320682241</id>
     <title>I DID NOT GO OVER THE WALL. SHUT UP. RN. STOP IT. SOBBING. </title>
@@ -91,5 +75,21 @@
     <content>gn 💪</content>
     <link href="https://tiktok.com/@tracksuitsandredwine_/video/7234170913241992450" rel="alternate"/>
     <published>2023-05-17T15:17:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tracksuitsandredwine_/video/7234351970826374402</id>
+    <title>[no title]</title>
+    <updated>2023-05-18T03:00:31+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7234351970826374402" rel="alternate"/>
+    <published>2023-05-18T03:00:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tracksuitsandredwine_/video/7234357387736534274</id>
+    <title>take your time though man</title>
+    <updated>2023-05-18T03:21:34+00:00</updated>
+    <content>take your time though man</content>
+    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7234357387736534274" rel="alternate"/>
+    <published>2023-05-18T03:21:34+00:00</published>
   </entry>
 </feed>
