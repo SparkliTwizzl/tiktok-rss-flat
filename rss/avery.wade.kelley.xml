@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-05-18T15:44:12+00:00</updated>
+  <updated>2023-05-18T19:38:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7232096919835757866</id>
-    <title>My heart is overflowing. Our gofundme is in my bio in the linktree! #fyp #trans </title>
-    <updated>2023-05-12T01:09:48+00:00</updated>
-    <content>My heart is overflowing. Our gofundme is in my bio in the linktree! #fyp #trans </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7232096919835757866" rel="alternate"/>
-    <published>2023-05-12T01:09:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7232350550728232234</id>
     <title>Have to remember to take breaks for yourself and your healing. #fyp #trans </title>
@@ -91,5 +83,13 @@
     <content>Replying to @brandierodrigues I'm so sorry.. #fyp #trans </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7234548736427461934" rel="alternate"/>
     <published>2023-05-18T15:44:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7234609140822330667</id>
+    <title>#duet with @Zane🏳️‍⚧️⚧️ Be Proud, my brothers. #fyp #trans </title>
+    <updated>2023-05-18T19:38:33+00:00</updated>
+    <content>#duet with @Zane🏳️‍⚧️⚧️ Be Proud, my brothers. #fyp #trans </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7234609140822330667" rel="alternate"/>
+    <published>2023-05-18T19:38:33+00:00</published>
   </entry>
 </feed>

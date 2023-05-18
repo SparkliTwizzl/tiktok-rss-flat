@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@charlesthegr8</id>
   <title>@charlesthegr8 | TikTok</title>
-  <updated>2023-05-18T11:42:24+00:00</updated>
+  <updated>2023-05-15T10:50:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @charlesthegr8</subtitle>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7230720473296899370</id>
+    <title>#fypシ </title>
+    <updated>2023-05-08T08:08:39+00:00</updated>
+    <content>#fypシ </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7230720473296899370" rel="alternate"/>
+    <published>2023-05-08T08:08:39+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@charlesthegr8/video/7230886943028956459</id>
     <title>All that power for a hefty cost!!! 👀 #fypシ #iykyk #sharinggan #uchia #anime #charlesthegr8 </title>
@@ -83,13 +91,5 @@
     <content>Absolute torture #iykyk #4u #charlesthegr8 </content>
     <link href="https://tiktok.com/@charlesthegr8/video/7233359528367082798" rel="alternate"/>
     <published>2023-05-15T10:50:07+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7234486434172914990</id>
-    <title>If you dont know that classic then we cant be friends😅 #iykyk #4u #charlesthegr8 </title>
-    <updated>2023-05-18T11:42:24+00:00</updated>
-    <content>If you dont know that classic then we cant be friends😅 #iykyk #4u #charlesthegr8 </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7234486434172914990" rel="alternate"/>
-    <published>2023-05-18T11:42:24+00:00</published>
   </entry>
 </feed>
