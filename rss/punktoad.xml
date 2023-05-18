@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-05-18T10:27:46+00:00</updated>
+  <updated>2023-05-18T21:24:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7229676157363424558</id>
-    <title>I’ll never stop #icedcoffee #eminem #insomnia #fyp </title>
-    <updated>2023-05-05T12:36:06+00:00</updated>
-    <content>I’ll never stop #icedcoffee #eminem #insomnia #fyp </content>
-    <link href="https://tiktok.com/@punktoad/video/7229676157363424558" rel="alternate"/>
-    <published>2023-05-05T12:36:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7229806922462170414</id>
     <title>Gilgo Beach Five • • • #truecrime #truecrimecommunity #truecrimepodcast #crime #murder #podcast #truecrimeaddict #serialkiller #serialkillers #truecrimejunkie #horror #unsolved #murderino #podcastersofinstagram #truecrimeobsessed #mystery #ssdgm #truecrim</title>
@@ -91,5 +83,13 @@
     <content>stop thinking like a predator #weneedtodobetter </content>
     <link href="https://tiktok.com/@punktoad/video/7234467178127412523" rel="alternate"/>
     <published>2023-05-18T10:27:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7234636348093762862</id>
+    <title>Vanilla Iced Latte with oatmilk, please #starbucks #icedcoffee #amaricanpsycho </title>
+    <updated>2023-05-18T21:24:06+00:00</updated>
+    <content>Vanilla Iced Latte with oatmilk, please #starbucks #icedcoffee #amaricanpsycho </content>
+    <link href="https://tiktok.com/@punktoad/video/7234636348093762862" rel="alternate"/>
+    <published>2023-05-18T21:24:06+00:00</published>
   </entry>
 </feed>
