@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-05-16T16:03:09+00:00</updated>
+  <updated>2023-05-18T14:33:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7229355607852158213</id>
-    <title>It’s his routine every time #adhd #neurospicy #busydonkey #capcut </title>
-    <updated>2023-05-04T15:52:03+00:00</updated>
-    <content>It’s his routine every time #adhd #neurospicy #busydonkey #capcut </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7229355607852158213" rel="alternate"/>
-    <published>2023-05-04T15:52:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7229670884863118597</id>
     <title>This was the best of 30 takes. Anyways, we’re on an adventure for a few weeks. Follow along here and all those other places. #darcyandjer #travel #london #CapCut </title>
@@ -91,5 +83,13 @@
     <content>🙃😬🙃</content>
     <link href="https://tiktok.com/@thedarcymichael/video/7233811488899632389" rel="alternate"/>
     <published>2023-05-16T16:03:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7234530618049039621</id>
+    <title>Wait for the ending 🫣 #capcut #adhd #manchild </title>
+    <updated>2023-05-18T14:33:43+00:00</updated>
+    <content>Wait for the ending 🫣 #capcut #adhd #manchild </content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7234530618049039621" rel="alternate"/>
+    <published>2023-05-18T14:33:43+00:00</published>
   </entry>
 </feed>
