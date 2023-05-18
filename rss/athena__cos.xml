@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-05-17T21:13:47+00:00</updated>
+  <updated>2023-05-18T21:30:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7230611587487468846</id>
-    <title>Pov the devil tried making a deal with the lawful good ranger feat @jenningsbrower 🖤 #devil #ranger </title>
-    <updated>2023-05-08T01:06:02+00:00</updated>
-    <content>Pov the devil tried making a deal with the lawful good ranger feat @jenningsbrower 🖤 #devil #ranger </content>
-    <link href="https://tiktok.com/@athena__cos/video/7230611587487468846" rel="alternate"/>
-    <published>2023-05-08T01:06:02+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7230922914420247851</id>
-    <title>“Ill swim and sail on savage seas…” Lady knights taking a moment to dance after the storm (literally it was thunder and rain right before this) #ladyknight #knightcore #ranger #fantasy #fantasycosplay with @Bella LeBaron and @The Adventurer </title>
-    <updated>2023-05-08T21:14:09+00:00</updated>
-    <content>“Ill swim and sail on savage seas…” Lady knights taking a moment to dance after the storm (literally it was thunder and rain right before this) #ladyknight #knightcore #ranger #fantasy #fantasycosplay with @Bella LeBaron and @The Adventurer </content>
-    <link href="https://tiktok.com/@athena__cos/video/7230922914420247851" rel="alternate"/>
-    <published>2023-05-08T21:14:09+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7231660059133087019</id>
     <title>10/10 would reccomend them to a spartan army  In order: @The Adventurer @Raine Emery @April Draven @Bella LeBaron  #ladyknight #knightcosplay #fantasy #fantasycosplay #lotr #womeninarmor </title>
@@ -91,5 +75,21 @@
     <content>Whos ready for more Kassandra content coming soon?? 👀 #avatar #korracosplay #avatarcosplay </content>
     <link href="https://tiktok.com/@athena__cos/video/7234262613398490411" rel="alternate"/>
     <published>2023-05-17T21:13:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7234616458033073450</id>
+    <title>@Shay 🦊prototype fox  head nuzzles are everything to me 💜💜 #rwby #rwbycosplay #wlw #yangcosplay #blakecosplay </title>
+    <updated>2023-05-18T20:06:57+00:00</updated>
+    <content>@Shay 🦊prototype fox  head nuzzles are everything to me 💜💜 #rwby #rwbycosplay #wlw #yangcosplay #blakecosplay </content>
+    <link href="https://tiktok.com/@athena__cos/video/7234616458033073450" rel="alternate"/>
+    <published>2023-05-18T20:06:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7234637938506796334</id>
+    <title>The spring version of my dance with bella with my og knight dance partner!  #ladyknight #knightcore #knightcosplay #fantasy #wlw </title>
+    <updated>2023-05-18T21:30:17+00:00</updated>
+    <content>The spring version of my dance with bella with my og knight dance partner!  #ladyknight #knightcore #knightcosplay #fantasy #wlw </content>
+    <link href="https://tiktok.com/@athena__cos/video/7234637938506796334" rel="alternate"/>
+    <published>2023-05-18T21:30:17+00:00</published>
   </entry>
 </feed>

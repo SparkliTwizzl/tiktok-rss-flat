@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@claudcirillo</id>
   <title>@claudcirillo | TikTok</title>
-  <updated>2023-05-18T00:04:54+00:00</updated>
+  <updated>2023-05-18T20:43:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @claudcirillo</subtitle>
-  <entry>
-    <id>https://tiktok.com/@claudcirillo/video/7230538649224449281</id>
-    <title>Style my @MOTEL Sevila Mini Dress with me #motelrocks #fyp #foryou #foryoupage </title>
-    <updated>2023-05-07T20:23:04+00:00</updated>
-    <content>Style my @MOTEL Sevila Mini Dress with me #motelrocks #fyp #foryou #foryoupage </content>
-    <link href="https://tiktok.com/@claudcirillo/video/7230538649224449281" rel="alternate"/>
-    <published>2023-05-07T20:23:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@claudcirillo/video/7231284225121553666</id>
     <title>#pov : The Mum Friend shoos away a random man #fyp #foryou #foryoupage </title>
@@ -91,5 +83,13 @@
     <content>Replying to @Claudia I always follow through #fyp #foryou </content>
     <link href="https://tiktok.com/@claudcirillo/video/7234306673748348161" rel="alternate"/>
     <published>2023-05-18T00:04:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@claudcirillo/video/7234625864971980034</id>
+    <title>#pov : An old friend almost blows your cover whilst undercover #fyp #foryou #foryoupage </title>
+    <updated>2023-05-18T20:43:26+00:00</updated>
+    <content>#pov : An old friend almost blows your cover whilst undercover #fyp #foryou #foryoupage </content>
+    <link href="https://tiktok.com/@claudcirillo/video/7234625864971980034" rel="alternate"/>
+    <published>2023-05-18T20:43:26+00:00</published>
   </entry>
 </feed>

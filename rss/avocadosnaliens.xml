@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avocadosnaliens</id>
   <title>@avocadosnaliens | TikTok</title>
-  <updated>2023-05-17T20:11:33+00:00</updated>
+  <updated>2023-05-18T22:05:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avocadosnaliens</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avocadosnaliens/video/7229422900724583722</id>
-    <title>#wiwuad #ootd #pentaxk1000 #citifiedcountryboy </title>
-    <updated>2023-05-04T20:13:22+00:00</updated>
-    <content>#wiwuad #ootd #pentaxk1000 #citifiedcountryboy </content>
-    <link href="https://tiktok.com/@avocadosnaliens/video/7229422900724583722" rel="alternate"/>
-    <published>2023-05-04T20:13:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avocadosnaliens/video/7229573671793200427</id>
     <title>Replying to @kayceekillah pants are boy scouts of america</title>
@@ -91,5 +83,13 @@
     <content>I just wantes the moss one</content>
     <link href="https://tiktok.com/@avocadosnaliens/video/7234246562367474990" rel="alternate"/>
     <published>2023-05-17T20:11:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7234646957338250539</id>
+    <title>#realtalk dont buy a landline</title>
+    <updated>2023-05-18T22:05:16+00:00</updated>
+    <content>#realtalk dont buy a landline</content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7234646957338250539" rel="alternate"/>
+    <published>2023-05-18T22:05:16+00:00</published>
   </entry>
 </feed>
