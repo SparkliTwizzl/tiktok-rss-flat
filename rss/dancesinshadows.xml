@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-05-17T21:34:55+00:00</updated>
+  <updated>2023-05-18T13:04:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7232867712060443909</id>
-    <title>cant believe its been 3 yrs.. #onthisday #clownmakeup #clown #maladytheclown </title>
-    <updated>2023-05-14T03:00:50+00:00</updated>
-    <content>cant believe its been 3 yrs.. #onthisday #clownmakeup #clown #maladytheclown </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7232867712060443909" rel="alternate"/>
-    <published>2023-05-14T03:00:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7233054967047736581</id>
     <title>#onthisday #maladytheclown #clown #hotshowers </title>
@@ -91,5 +83,13 @@
     <content>#glumthesupernaturalhitman </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7234268070192188677" rel="alternate"/>
     <published>2023-05-17T21:34:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7234507682349108486</id>
+    <title>[no title]</title>
+    <updated>2023-05-18T13:04:43+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7234507682349108486" rel="alternate"/>
+    <published>2023-05-18T13:04:43+00:00</published>
   </entry>
 </feed>
