@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-05-18T20:31:38+00:00</updated>
+  <updated>2023-05-19T19:48:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7232366043765755178</id>
-    <title>Replying to @0llie0x3nfree Help as many people as you can! However you can, even if it's just sharing their story. #fyp #trans </title>
-    <updated>2023-05-12T18:34:24+00:00</updated>
-    <content>Replying to @0llie0x3nfree Help as many people as you can! However you can, even if it's just sharing their story. #fyp #trans </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7232366043765755178" rel="alternate"/>
-    <published>2023-05-12T18:34:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7233048387216592171</id>
     <title>The gender euphoria... #fyp #trans </title>
@@ -91,5 +83,13 @@
     <content>#duet with @Royal &amp; the Serpent O pledge allegiance... #fyp #trans </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7234622822621056302" rel="alternate"/>
     <published>2023-05-18T20:31:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7234982757926047022</id>
+    <title>Taking a break to see some awesome bands at Rockville and trying to enjoy my life. #from #trans </title>
+    <updated>2023-05-19T19:48:26+00:00</updated>
+    <content>Taking a break to see some awesome bands at Rockville and trying to enjoy my life. #from #trans </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7234982757926047022" rel="alternate"/>
+    <published>2023-05-19T19:48:26+00:00</published>
   </entry>
 </feed>

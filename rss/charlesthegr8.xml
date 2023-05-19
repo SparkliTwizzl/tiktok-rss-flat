@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@charlesthegr8</id>
   <title>@charlesthegr8 | TikTok</title>
-  <updated>2023-05-19T13:04:50+00:00</updated>
+  <updated>2023-05-19T19:50:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @charlesthegr8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7231080776899579178</id>
-    <title>I be overthinking like a mf #fypシ #iykyk #mommy #charlesthegr8 </title>
-    <updated>2023-05-09T07:27:49+00:00</updated>
-    <content>I be overthinking like a mf #fypシ #iykyk #mommy #charlesthegr8 </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7231080776899579178" rel="alternate"/>
-    <published>2023-05-09T07:27:49+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7231273466853428526</id>
-    <title>You can never stay mad around me #fypシ #iykyk #charlesthegr8 </title>
-    <updated>2023-05-09T19:54:24+00:00</updated>
-    <content>You can never stay mad around me #fypシ #iykyk #charlesthegr8 </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7231273466853428526" rel="alternate"/>
-    <published>2023-05-09T19:54:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@charlesthegr8/video/7232028526977977646</id>
     <title>Send this to someone you appreciate!!! 😂 #4u #plottwist #charlesthegr8 </title>
@@ -91,5 +75,21 @@
     <content>Freedom #iykyk #4u #charlesthegr8 </content>
     <link href="https://tiktok.com/@charlesthegr8/video/7234878693372480811" rel="alternate"/>
     <published>2023-05-19T13:04:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7234958135176334635</id>
+    <title>I think we found it 😂 #iykyk #4u #spark #charlesthegr8 </title>
+    <updated>2023-05-19T18:13:04+00:00</updated>
+    <content>I think we found it 😂 #iykyk #4u #spark #charlesthegr8 </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7234958135176334635" rel="alternate"/>
+    <published>2023-05-19T18:13:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7234983344478489898</id>
+    <title>I even can tell her steps are hers #iykyk #4u #charlesthegr8 </title>
+    <updated>2023-05-19T19:50:44+00:00</updated>
+    <content>I even can tell her steps are hers #iykyk #4u #charlesthegr8 </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7234983344478489898" rel="alternate"/>
+    <published>2023-05-19T19:50:44+00:00</published>
   </entry>
 </feed>
