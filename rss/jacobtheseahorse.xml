@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jacobtheseahorse</id>
   <title>@jacobtheseahorse | TikTok</title>
-  <updated>2023-05-16T08:54:10+00:00</updated>
+  <updated>2023-05-15T19:07:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jacobtheseahorse</subtitle>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7230692215885008155</id>
+    <title>we fight to support trans kids because we were queer kids! gender affirming healthcare is life saving. #CapCut #spongebob #youngandhappy #compare #spongebobmeme #trans #lgbt #transrights #transyouth #thenandnow #transition</title>
+    <updated>2023-05-08T06:18:51+00:00</updated>
+    <content>we fight to support trans kids because we were queer kids! gender affirming healthcare is life saving. #CapCut #spongebob #youngandhappy #compare #spongebobmeme #trans #lgbt #transrights #transyouth #thenandnow #transition</content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7230692215885008155" rel="alternate"/>
+    <published>2023-05-08T06:18:51+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@jacobtheseahorse/video/7231662792003161371</id>
     <title>Replying to @evolution_kickboxing thank you for asking, I hope this explains what you wanted to know, I'm always happy to answer more questions! #trans #transpregnancy #edit #transition #gender #gendereuphoria #genderdysphoria #transgender #education #lgb</title>
@@ -83,13 +91,5 @@
     <content>a really lovely OT reached out to me to offer support on a tiktok earlier and my first response was a trauma response because of this experience. one of many instances of medical trauma that I've experienced over the years. sorry to be a Debby Downer but my guess is I'm not the only one on here who has these kinds of experiences. the intersection of ADHD, autism, menstrual health and mental health all coincidence here and with distanced hindsight of nearly 20 years I can see how vulnerable my young self was. they deserved better. #ot #medical #medicaltrauma #lgbt #period #pmdd #depression #mentalhealth #pms </content>
     <link href="https://tiktok.com/@jacobtheseahorse/video/7233487862279277851" rel="alternate"/>
     <published>2023-05-15T19:07:24+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7233700895723130139</id>
-    <title>I won't be using this as my pfp any time soon 🤔 #aistyle #savage #savagelove #pfp</title>
-    <updated>2023-05-16T08:54:10+00:00</updated>
-    <content>I won't be using this as my pfp any time soon 🤔 #aistyle #savage #savagelove #pfp</content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7233700895723130139" rel="alternate"/>
-    <published>2023-05-16T08:54:10+00:00</published>
   </entry>
 </feed>
