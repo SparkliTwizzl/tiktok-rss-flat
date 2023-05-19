@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@tracksuitsandredwine_</id>
   <title>@tracksuitsandredwine_ | TikTok</title>
-  <updated>2023-05-19T06:05:23+00:00</updated>
+  <updated>2023-05-19T13:08:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @tracksuitsandredwine_</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tracksuitsandredwine_/video/7232639434649324801</id>
-    <title>Replying to @saladdaddy22 back at it 🏴‍☠️ </title>
-    <updated>2023-05-13T12:15:01+00:00</updated>
-    <content>Replying to @saladdaddy22 back at it 🏴‍☠️ </content>
-    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7232639434649324801" rel="alternate"/>
-    <published>2023-05-13T12:15:01+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@tracksuitsandredwine_/video/7232646330965822721</id>
-    <title>k im done i think :))</title>
-    <updated>2023-05-13T12:41:46+00:00</updated>
-    <content>k im done i think :))</content>
-    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7232646330965822721" rel="alternate"/>
-    <published>2023-05-13T12:41:46+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@tracksuitsandredwine_/video/7232963177393229058</id>
-    <title>i would not. trust</title>
-    <updated>2023-05-14T09:11:18+00:00</updated>
-    <content>i would not. trust</content>
-    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7232963177393229058" rel="alternate"/>
-    <published>2023-05-14T09:11:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tracksuitsandredwine_/video/7233378330177834242</id>
     <title>[no title]</title>
@@ -91,5 +67,29 @@
     <content>back when my curtains were curtaining </content>
     <link href="https://tiktok.com/@tracksuitsandredwine_/video/7234770701394152705" rel="alternate"/>
     <published>2023-05-19T06:05:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tracksuitsandredwine_/video/7234872494736395522</id>
+    <title>so many posts i am so sorry x</title>
+    <updated>2023-05-19T12:40:24+00:00</updated>
+    <content>so many posts i am so sorry x</content>
+    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7234872494736395522" rel="alternate"/>
+    <published>2023-05-19T12:40:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tracksuitsandredwine_/video/7234878095390543106</id>
+    <title>one thing ab me is i WILL chat w the moon</title>
+    <updated>2023-05-19T13:02:08+00:00</updated>
+    <content>one thing ab me is i WILL chat w the moon</content>
+    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7234878095390543106" rel="alternate"/>
+    <published>2023-05-19T13:02:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tracksuitsandredwine_/video/7234879788710776065</id>
+    <title>this look and this filter ahhh</title>
+    <updated>2023-05-19T13:08:44+00:00</updated>
+    <content>this look and this filter ahhh</content>
+    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7234879788710776065" rel="alternate"/>
+    <published>2023-05-19T13:08:44+00:00</published>
   </entry>
 </feed>
