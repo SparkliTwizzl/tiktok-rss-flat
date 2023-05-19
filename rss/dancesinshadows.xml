@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-05-19T00:52:38+00:00</updated>
+  <updated>2023-05-19T12:57:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7233525455536540934</id>
-    <title>#onthisday #maladytheclown #clown #muffintime </title>
-    <updated>2023-05-15T21:33:11+00:00</updated>
-    <content>#onthisday #maladytheclown #clown #muffintime </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7233525455536540934" rel="alternate"/>
-    <published>2023-05-15T21:33:11+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7233561694885154053</id>
     <title>Shadow is one fluffy, happy sky puppy. This is how he asks for attention 😅😆❤️ He may never fly again, but that doesn't stop him from living a good life. #petpigeon #pigeon #shadowthepigeon #petlove #birdsoftiktok </title>
@@ -91,5 +83,13 @@
     <content>❤️❤️❤️ #glumthesupernaturalhitman #notallroads #enby #nonbinary #genderfluid </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7234690105510841605" rel="alternate"/>
     <published>2023-05-19T00:52:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7234876986030591238</id>
+    <title>usually, its the boring normies who take issue. not like i want to hang w them and do boring shiz anyways #maladytheclown #clown #lipsync </title>
+    <updated>2023-05-19T12:57:47+00:00</updated>
+    <content>usually, its the boring normies who take issue. not like i want to hang w them and do boring shiz anyways #maladytheclown #clown #lipsync </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7234876986030591238" rel="alternate"/>
+    <published>2023-05-19T12:57:47+00:00</published>
   </entry>
 </feed>
