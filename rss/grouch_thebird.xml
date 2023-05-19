@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@grouch_thebird</id>
   <title>@grouch_thebird | TikTok</title>
-  <updated>2023-05-19T04:55:15+00:00</updated>
+  <updated>2023-05-19T07:05:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -69,14 +69,6 @@
     <published>2023-05-19T03:31:06+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@grouch_thebird/video/7234741783723396398</id>
-    <title>[no title]</title>
-    <updated>2023-05-19T04:13:16+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@grouch_thebird/video/7234741783723396398" rel="alternate"/>
-    <published>2023-05-19T04:13:16+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@grouch_thebird/video/7234750469300669739</id>
     <title>[no title]</title>
     <updated>2023-05-19T04:47:03+00:00</updated>
@@ -91,5 +83,13 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@grouch_thebird/video/7234752596295028010" rel="alternate"/>
     <published>2023-05-19T04:55:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grouch_thebird/video/7234786133291617582</id>
+    <title>me convincing the grippy sock doctor I don't need to be there ( I do )</title>
+    <updated>2023-05-19T07:05:29+00:00</updated>
+    <content>me convincing the grippy sock doctor I don't need to be there ( I do )</content>
+    <link href="https://tiktok.com/@grouch_thebird/video/7234786133291617582" rel="alternate"/>
+    <published>2023-05-19T07:05:29+00:00</published>
   </entry>
 </feed>
