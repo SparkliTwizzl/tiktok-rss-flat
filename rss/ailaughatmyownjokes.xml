@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ailaughatmyownjokes</id>
   <title>@ailaughatmyownjokes | TikTok</title>
-  <updated>2023-05-13T20:41:13+00:00</updated>
+  <updated>2023-05-18T16:28:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ailaughatmyownjokes</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ailaughatmyownjokes/video/7222313238388542746</id>
-    <title>He jinxed it....  #titanic #skit #comedy</title>
-    <updated>2023-04-15T16:24:12+00:00</updated>
-    <content>He jinxed it....  #titanic #skit #comedy</content>
-    <link href="https://tiktok.com/@ailaughatmyownjokes/video/7222313238388542746" rel="alternate"/>
-    <published>2023-04-15T16:24:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ailaughatmyownjokes/video/7223055642293013787</id>
     <title>felt inspired, might delete later 👉🏻👈🏻</title>
@@ -91,5 +83,13 @@
     <content>Ruggero and I got kicked out of the group. #thewalkingdead #skit #comedy #twd </content>
     <link href="https://tiktok.com/@ailaughatmyownjokes/video/7232769858147028251" rel="alternate"/>
     <published>2023-05-13T20:41:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ailaughatmyownjokes/video/7234560240111439130</id>
+    <title>Can't even sing my favourite song in peace smh. It's called Sangria and it's about Sangria. #harrypotter #skit #comedy #hogwarts </title>
+    <updated>2023-05-18T16:28:46+00:00</updated>
+    <content>Can't even sing my favourite song in peace smh. It's called Sangria and it's about Sangria. #harrypotter #skit #comedy #hogwarts </content>
+    <link href="https://tiktok.com/@ailaughatmyownjokes/video/7234560240111439130" rel="alternate"/>
+    <published>2023-05-18T16:28:46+00:00</published>
   </entry>
 </feed>
