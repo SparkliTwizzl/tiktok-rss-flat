@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-05-19T00:08:19+00:00</updated>
+  <updated>2023-05-19T16:27:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7233837003643653422</id>
-    <title>Ask a question, receive a LIE. I want to be super clear that no questions asked on this video will be answered seriously. Replies will be posted in a separate video. #solardidsystem #sszenith </title>
-    <updated>2023-05-16T17:42:15+00:00</updated>
-    <content>Ask a question, receive a LIE. I want to be super clear that no questions asked on this video will be answered seriously. Replies will be posted in a separate video. #solardidsystem #sszenith </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7233837003643653422" rel="alternate"/>
-    <published>2023-05-16T17:42:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7233839942663785770</id>
     <title>#answer to @hello_there_im_not_here #sszenith #solardidsystem #dissociativeidentitydisorder </title>
@@ -91,5 +83,13 @@
     <content>We haven't been able to tell ourselves apart all day so we're just kinda both of us rn #solardidsystem #ssdevereaux #sszephyr #mariobrothers #mario </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7234678676170755374" rel="alternate"/>
     <published>2023-05-19T00:08:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7234931026840096043</id>
+    <title>It's been a rough morning #solardidsystem #sszephyr </title>
+    <updated>2023-05-19T16:27:49+00:00</updated>
+    <content>It's been a rough morning #solardidsystem #sszephyr </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7234931026840096043" rel="alternate"/>
+    <published>2023-05-19T16:27:49+00:00</published>
   </entry>
 </feed>
