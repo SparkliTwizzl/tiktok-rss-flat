@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@tracksuitsandredwine_</id>
   <title>@tracksuitsandredwine_ | TikTok</title>
-  <updated>2023-05-19T13:08:44+00:00</updated>
+  <updated>2023-05-20T14:11:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @tracksuitsandredwine_</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tracksuitsandredwine_/video/7233378330177834242</id>
-    <title>[no title]</title>
-    <updated>2023-05-15T12:02:16+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7233378330177834242" rel="alternate"/>
-    <published>2023-05-15T12:02:16+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@tracksuitsandredwine_/video/7233412916932775170</id>
-    <title>hi ma, no i didn’t post this :)</title>
-    <updated>2023-05-15T14:16:29+00:00</updated>
-    <content>hi ma, no i didn’t post this :)</content>
-    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7233412916932775170" rel="alternate"/>
-    <published>2023-05-15T14:16:29+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tracksuitsandredwine_/video/7234170913241992450</id>
     <title>gn 💪</title>
@@ -91,5 +75,21 @@
     <content>this look and this filter ahhh</content>
     <link href="https://tiktok.com/@tracksuitsandredwine_/video/7234879788710776065" rel="alternate"/>
     <published>2023-05-19T13:08:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tracksuitsandredwine_/video/7235246124825595137</id>
+    <title>lia doing makeup two days in a row. unbelievable. baffling. astounding. </title>
+    <updated>2023-05-20T12:50:18+00:00</updated>
+    <content>lia doing makeup two days in a row. unbelievable. baffling. astounding. </content>
+    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7235246124825595137" rel="alternate"/>
+    <published>2023-05-20T12:50:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tracksuitsandredwine_/video/7235267145377041665</id>
+    <title>#duet with @lia :) starcrossed</title>
+    <updated>2023-05-20T14:11:53+00:00</updated>
+    <content>#duet with @lia :) starcrossed</content>
+    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7235267145377041665" rel="alternate"/>
+    <published>2023-05-20T14:11:53+00:00</published>
   </entry>
 </feed>
