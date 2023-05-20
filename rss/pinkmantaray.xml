@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pinkmantaray</id>
   <title>@pinkmantaray | TikTok</title>
-  <updated>2023-05-20T15:43:48+00:00</updated>
+  <updated>2023-05-20T22:43:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @pinkmantaray</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pinkmantaray/video/7225774812738669870</id>
-    <title>Announcing my podcast, DEAR SCHUYLER! Episode 1 (with my dad) and Episode 2 (with Lia ThomS) are live now anywhere you get podcasts! This first episode with my dad is near and dear to my heart. He and my mom have been my biggest cheerleaders and grounding</title>
-    <updated>2023-04-25T00:16:51+00:00</updated>
-    <content>Announcing my podcast, DEAR SCHUYLER! Episode 1 (with my dad) and Episode 2 (with Lia ThomS) are live now anywhere you get podcasts! This first episode with my dad is near and dear to my heart. He and my mom have been my biggest cheerleaders and grounding forces in my life - and it's taken work to get here. I hope you love the conversation as much as I did. Spoiler alert. We both did some crying. #transgender #trans #dearschuyler #podcast #gender #transpodcast #transkids #transman #parentsoftranskids #comingout #lgbtq #pride </content>
-    <link href="https://tiktok.com/@pinkmantaray/video/7225774812738669870" rel="alternate"/>
-    <published>2023-04-25T00:16:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pinkmantaray/video/7226036955526483242</id>
     <title>Every media outlet has tried to tell Lia's story for her. It's time for Lia to tell it herself. Check out Episode 2 of DEAR SCHUYLER with Lia Thomas on Spotify, Apple Podcasts, YouTube, or anywhere you get your podcasts. For anyone wondering about fairnes</title>
@@ -91,5 +83,13 @@
     <content>Replying to @𝐀𝐫𝐜𝐡𝐞𝐫 more on science supporting trans people! If you're looking for more resources, check out my upcoming workshop TRANS ATHLETES BELONG IN SPORT - register at pinkmantaray.com/workshops! #transgender #trans #transathlete #gender #sports #womensports #transathletesbelonginsports #lettranskidsplay </content>
     <link href="https://tiktok.com/@pinkmantaray/video/7235290804779060523" rel="alternate"/>
     <published>2023-05-20T15:43:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pinkmantaray/video/7235398992056700203</id>
+    <title>More science! Hat by @Greyson 💕🏳️‍⚧️ #transathlete #lettranskidsplay #transgender #transathletics #womenssports #transmen #transwomen #trans #gender #lgbtq </title>
+    <updated>2023-05-20T22:43:39+00:00</updated>
+    <content>More science! Hat by @Greyson 💕🏳️‍⚧️ #transathlete #lettranskidsplay #transgender #transathletics #womenssports #transmen #transwomen #trans #gender #lgbtq </content>
+    <link href="https://tiktok.com/@pinkmantaray/video/7235398992056700203" rel="alternate"/>
+    <published>2023-05-20T22:43:39+00:00</published>
   </entry>
 </feed>
