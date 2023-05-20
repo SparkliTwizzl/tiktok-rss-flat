@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-05-19T12:57:47+00:00</updated>
+  <updated>2023-05-20T01:42:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7233561694885154053</id>
-    <title>Shadow is one fluffy, happy sky puppy. This is how he asks for attention 😅😆❤️ He may never fly again, but that doesn't stop him from living a good life. #petpigeon #pigeon #shadowthepigeon #petlove #birdsoftiktok </title>
-    <updated>2023-05-15T23:53:50+00:00</updated>
-    <content>Shadow is one fluffy, happy sky puppy. This is how he asks for attention 😅😆❤️ He may never fly again, but that doesn't stop him from living a good life. #petpigeon #pigeon #shadowthepigeon #petlove #birdsoftiktok </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7233561694885154053" rel="alternate"/>
-    <published>2023-05-15T23:53:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7233566874473204998</id>
     <title>wish it was so easy 😅#maladytheclown #goldengirls #aging #clown </title>
@@ -91,5 +83,13 @@
     <content>usually, its the boring normies who take issue. not like i want to hang w them and do boring shiz anyways #maladytheclown #clown #lipsync </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7234876986030591238" rel="alternate"/>
     <published>2023-05-19T12:57:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7235074129924214022</id>
+    <title>back to work.... #wonderland #wonderlandcosplay #madhattercosplay #glumthesupernaturalhitman #madhatter </title>
+    <updated>2023-05-20T01:42:49+00:00</updated>
+    <content>back to work.... #wonderland #wonderlandcosplay #madhattercosplay #glumthesupernaturalhitman #madhatter </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7235074129924214022" rel="alternate"/>
+    <published>2023-05-20T01:42:49+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dannyphantom.exe</id>
   <title>@dannyphantom.exe | TikTok</title>
-  <updated>2023-05-19T02:17:57+00:00</updated>
+  <updated>2023-05-20T02:17:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dannyphantom.exe</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7233598179462237486</id>
-    <title>im taking ur dog @Julia Maggio @Lloyd Pitts </title>
-    <updated>2023-05-16T02:15:32+00:00</updated>
-    <content>im taking ur dog @Julia Maggio @Lloyd Pitts </content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7233598179462237486" rel="alternate"/>
-    <published>2023-05-16T02:15:32+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7233598803624955178</id>
-    <title>tag someone who’s nurodivergent </title>
-    <updated>2023-05-16T02:17:57+00:00</updated>
-    <content>tag someone who’s nurodivergent </content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7233598803624955178" rel="alternate"/>
-    <published>2023-05-16T02:17:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dannyphantom.exe/video/7233969473001213227</id>
     <title>[no title]</title>
@@ -91,5 +75,21 @@
     <content>tag someone w ADHD</content>
     <link href="https://tiktok.com/@dannyphantom.exe/video/7234712072259456298" rel="alternate"/>
     <published>2023-05-19T02:17:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7235082708676971822</id>
+    <title>tag ur siblings </title>
+    <updated>2023-05-20T02:16:16+00:00</updated>
+    <content>tag ur siblings </content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7235082708676971822" rel="alternate"/>
+    <published>2023-05-20T02:16:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7235082986822159658</id>
+    <title>Jing Yuan is now here! Play Honkai: Star Rail for free and try him out yourself using the link in bio - Download the game and get an extra 50 Stellar Jades using the promo code: HSRVER10JYTGHC #honkaistarrail #jingyuan #whattoplay</title>
+    <updated>2023-05-20T02:17:20+00:00</updated>
+    <content>Jing Yuan is now here! Play Honkai: Star Rail for free and try him out yourself using the link in bio - Download the game and get an extra 50 Stellar Jades using the promo code: HSRVER10JYTGHC #honkaistarrail #jingyuan #whattoplay</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7235082986822159658" rel="alternate"/>
+    <published>2023-05-20T02:17:20+00:00</published>
   </entry>
 </feed>
