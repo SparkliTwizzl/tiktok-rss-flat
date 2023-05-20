@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@atreegod</id>
   <title>@atreegod | TikTok</title>
-  <updated>2023-05-20T02:22:04+00:00</updated>
+  <updated>2023-05-20T18:29:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @atreegod</subtitle>
-  <entry>
-    <id>https://tiktok.com/@atreegod/video/7231739391893441835</id>
-    <title>#wlw #newyork </title>
-    <updated>2023-05-11T02:02:30+00:00</updated>
-    <content>#wlw #newyork </content>
-    <link href="https://tiktok.com/@atreegod/video/7231739391893441835" rel="alternate"/>
-    <published>2023-05-11T02:02:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@atreegod/video/7231960152394468650</id>
     <title>Ignore all the lint on my shirt lol #wlw #lgbtq </title>
@@ -91,5 +83,13 @@
     <content>Somebody take this kids phone away #wlw #lgbtq #lesbian </content>
     <link href="https://tiktok.com/@atreegod/video/7235084212632571182" rel="alternate"/>
     <published>2023-05-20T02:22:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7235333395566349610</id>
+    <title>I dont even know how that first girl is tbh #wlw #lgbtq #masc </title>
+    <updated>2023-05-20T18:29:05+00:00</updated>
+    <content>I dont even know how that first girl is tbh #wlw #lgbtq #masc </content>
+    <link href="https://tiktok.com/@atreegod/video/7235333395566349610" rel="alternate"/>
+    <published>2023-05-20T18:29:05+00:00</published>
   </entry>
 </feed>
