@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-05-19T21:24:45+00:00</updated>
+  <updated>2023-05-20T20:55:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7232028713607515434</id>
-    <title>I love it when i get the chance to dance with @Bella LeBaron 💜 #knightcosplay #fantasy #fantasycosplay #ladyknight #womeninarmor #wlw </title>
-    <updated>2023-05-11T20:45:21+00:00</updated>
-    <content>I love it when i get the chance to dance with @Bella LeBaron 💜 #knightcosplay #fantasy #fantasycosplay #ladyknight #womeninarmor #wlw </content>
-    <link href="https://tiktok.com/@athena__cos/video/7232028713607515434" rel="alternate"/>
-    <published>2023-05-11T20:45:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7232388939548609835</id>
     <title>Catching up with old friends @@The Adventurer ##lotr##fantasycosplay##ladyknight##womeninarmor##knightcore##knightcosplay##wlw</title>
@@ -91,5 +83,13 @@
     <content>Our recreation of the reunion scene in volume 8 💜❤️💛 #rwby #rwbycosplay </content>
     <link href="https://tiktok.com/@athena__cos/video/7235007575320939822" rel="alternate"/>
     <published>2023-05-19T21:24:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7235371052334091566</id>
+    <title>Insert ironic caption here #kassandracosplay #kassandra #acoddessey #assassinscreedcosplay #sparta #spartancosplay </title>
+    <updated>2023-05-20T20:55:15+00:00</updated>
+    <content>Insert ironic caption here #kassandracosplay #kassandra #acoddessey #assassinscreedcosplay #sparta #spartancosplay </content>
+    <link href="https://tiktok.com/@athena__cos/video/7235371052334091566" rel="alternate"/>
+    <published>2023-05-20T20:55:15+00:00</published>
   </entry>
 </feed>
