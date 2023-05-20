@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-05-19T22:32:15+00:00</updated>
+  <updated>2023-05-20T11:26:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7230070147233369386</id>
-    <title>we’re all a little strange on night shift #thirdshift #workmemes #fyp #grandmasboy </title>
-    <updated>2023-05-06T14:05:07+00:00</updated>
-    <content>we’re all a little strange on night shift #thirdshift #workmemes #fyp #grandmasboy </content>
-    <link href="https://tiktok.com/@punktoad/video/7230070147233369386" rel="alternate"/>
-    <published>2023-05-06T14:05:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7230158126459424046</id>
     <title>whoops #festival #drumandbass #fyp </title>
@@ -91,5 +83,13 @@
     <content>#stitch with @Snap Crackle Pop Chiropractics #please #massage </content>
     <link href="https://tiktok.com/@punktoad/video/7235024968336084267" rel="alternate"/>
     <published>2023-05-19T22:32:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7235224246832745771</id>
+    <title>Re-upping this because its my favorite piece of content that I’ve ever made #boburnham #latestagecapitalism #howtheworldworks   </title>
+    <updated>2023-05-20T11:26:36+00:00</updated>
+    <content>Re-upping this because its my favorite piece of content that I’ve ever made #boburnham #latestagecapitalism #howtheworldworks   </content>
+    <link href="https://tiktok.com/@punktoad/video/7235224246832745771" rel="alternate"/>
+    <published>2023-05-20T11:26:36+00:00</published>
   </entry>
 </feed>
