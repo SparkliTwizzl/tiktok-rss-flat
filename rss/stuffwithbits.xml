@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-05-20T20:17:16+00:00</updated>
+  <updated>2023-05-20T21:53:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7234289969806724395</id>
-    <title>Soulmates 🥰 #solardidsystem #ladybug </title>
-    <updated>2023-05-17T22:59:58+00:00</updated>
-    <content>Soulmates 🥰 #solardidsystem #ladybug </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7234289969806724395" rel="alternate"/>
-    <published>2023-05-17T22:59:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7234309541356113195</id>
     <title>it's exhausting #solardidsystem #dissociativeidentitydisorder </title>
@@ -91,5 +83,13 @@
     <content>please be kind #dissociativeidentitydisorder #sszephyr #solardidsystem </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7235361277206334762" rel="alternate"/>
     <published>2023-05-20T20:17:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7235386139098500395</id>
+    <title>#stitch with @Misha a client gave me a dirty look today because I asked her to weigh her dog 😭 at the VET 😭😭😭 #solardidsystem #sszephyr </title>
+    <updated>2023-05-20T21:53:41+00:00</updated>
+    <content>#stitch with @Misha a client gave me a dirty look today because I asked her to weigh her dog 😭 at the VET 😭😭😭 #solardidsystem #sszephyr </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7235386139098500395" rel="alternate"/>
+    <published>2023-05-20T21:53:41+00:00</published>
   </entry>
 </feed>
