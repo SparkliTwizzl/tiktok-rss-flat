@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@atreegod</id>
   <title>@atreegod | TikTok</title>
-  <updated>2023-05-21T00:59:13+00:00</updated>
+  <updated>2023-05-21T18:59:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @atreegod</subtitle>
-  <entry>
-    <id>https://tiktok.com/@atreegod/video/7232083012777676074</id>
-    <title>Like im hot in new york where are you? #wlw #lgbtq </title>
-    <updated>2023-05-12T00:15:49+00:00</updated>
-    <content>Like im hot in new york where are you? #wlw #lgbtq </content>
-    <link href="https://tiktok.com/@atreegod/video/7232083012777676074" rel="alternate"/>
-    <published>2023-05-12T00:15:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@atreegod/video/7233442824212041002</id>
     <title>Just woke up vs otw to work #wlw #masc </title>
@@ -91,5 +83,13 @@
     <content>This is a draft i actually moved out of the place a bit ago but I miss everything about it #wlw #lgbtq #gay </content>
     <link href="https://tiktok.com/@atreegod/video/7235433951492476206" rel="alternate"/>
     <published>2023-05-21T00:59:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7235712204585094443</id>
+    <title>Should i bring the little streak back or whatttt #wlw </title>
+    <updated>2023-05-21T18:59:03+00:00</updated>
+    <content>Should i bring the little streak back or whatttt #wlw </content>
+    <link href="https://tiktok.com/@atreegod/video/7235712204585094443" rel="alternate"/>
+    <published>2023-05-21T18:59:03+00:00</published>
   </entry>
 </feed>
