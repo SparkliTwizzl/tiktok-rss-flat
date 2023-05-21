@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ryn_rrj</id>
   <title>@ryn_rrj | TikTok</title>
-  <updated>2023-05-17T15:51:16+00:00</updated>
+  <updated>2023-05-21T16:51:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ryn_rrj</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ryn_rrj/video/7214610350937804074</id>
-    <title>Go read “&amp; This is How to Stay Alive” by Shingai Njeri Kagunda. Thank you @alasdairstuart for featuring this in The Full Lid, so glad i checked it out! Also, stealing his content warnings for the book: suicide, homophobia, and grief  #books #booktok #reco</title>
-    <updated>2023-03-25T22:13:04+00:00</updated>
-    <content>Go read “&amp; This is How to Stay Alive” by Shingai Njeri Kagunda. Thank you @alasdairstuart for featuring this in The Full Lid, so glad i checked it out! Also, stealing his content warnings for the book: suicide, homophobia, and grief  #books #booktok #recommendations #read </content>
-    <link href="https://tiktok.com/@ryn_rrj/video/7214610350937804074" rel="alternate"/>
-    <published>2023-03-25T22:13:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ryn_rrj/video/7216072790988967214</id>
     <title>I work from home so uhhhh yeah i have discovered that I do not, in fact, like shirts #trans #transjoy #lgbt #transmasc #ftm #topsurgery #catchmeifyoucan #shirt </title>
@@ -91,5 +83,13 @@
     <content>Especially if you haven’t played it in a while and you simply…. Run out. #musician #piano #pianist #performance #memory #funny #viralaudio </content>
     <link href="https://tiktok.com/@ryn_rrj/video/7234179471924907307" rel="alternate"/>
     <published>2023-05-17T15:51:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ryn_rrj/video/7235679327256399150</id>
+    <title>It’s the little things. Transition saves lives, including mine. #trans #transmasc #transjoy #lgbt #pride #transpride #ftm #topsurgery #transition #beach #joy</title>
+    <updated>2023-05-21T16:51:29+00:00</updated>
+    <content>It’s the little things. Transition saves lives, including mine. #trans #transmasc #transjoy #lgbt #pride #transpride #ftm #topsurgery #transition #beach #joy</content>
+    <link href="https://tiktok.com/@ryn_rrj/video/7235679327256399150" rel="alternate"/>
+    <published>2023-05-21T16:51:29+00:00</published>
   </entry>
 </feed>
