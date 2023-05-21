@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-05-20T20:55:15+00:00</updated>
+  <updated>2023-05-21T21:02:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7232388939548609835</id>
-    <title>Catching up with old friends @@The Adventurer ##lotr##fantasycosplay##ladyknight##womeninarmor##knightcore##knightcosplay##wlw</title>
-    <updated>2023-05-12T20:03:14+00:00</updated>
-    <content>Catching up with old friends @@The Adventurer ##lotr##fantasycosplay##ladyknight##womeninarmor##knightcore##knightcosplay##wlw</content>
-    <link href="https://tiktok.com/@athena__cos/video/7232388939548609835" rel="alternate"/>
-    <published>2023-05-12T20:03:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7232782980547087659</id>
     <title>Just some Avatar aesthetic  #avatar #avataraesthetic #korra #korracosplay </title>
@@ -91,5 +83,13 @@
     <content>Insert ironic caption here #kassandracosplay #kassandra #acoddessey #assassinscreedcosplay #sparta #spartancosplay </content>
     <link href="https://tiktok.com/@athena__cos/video/7235371052334091566" rel="alternate"/>
     <published>2023-05-20T20:55:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7235744009191230762</id>
+    <title>When the fight scene pulls you in 👀 @The Adventurer had the amazing idea for this transition with a twist!! #ladyknight #knightcosplay #knights #wlw #fight #booktok </title>
+    <updated>2023-05-21T21:02:29+00:00</updated>
+    <content>When the fight scene pulls you in 👀 @The Adventurer had the amazing idea for this transition with a twist!! #ladyknight #knightcosplay #knights #wlw #fight #booktok </content>
+    <link href="https://tiktok.com/@athena__cos/video/7235744009191230762" rel="alternate"/>
+    <published>2023-05-21T21:02:29+00:00</published>
   </entry>
 </feed>
