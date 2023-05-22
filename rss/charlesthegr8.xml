@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@charlesthegr8</id>
   <title>@charlesthegr8 | TikTok</title>
-  <updated>2023-05-20T10:49:01+00:00</updated>
+  <updated>2023-05-22T01:02:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @charlesthegr8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7232700826106465582</id>
-    <title>Its eating me alive!!! #4u #iykyk #charlesthegr8 </title>
-    <updated>2023-05-13T16:13:20+00:00</updated>
-    <content>Its eating me alive!!! #4u #iykyk #charlesthegr8 </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7232700826106465582" rel="alternate"/>
-    <published>2023-05-13T16:13:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@charlesthegr8/video/7232705589921467691</id>
     <title>Bad timing!!! #iykyk #4u #charlesthegr8 </title>
@@ -91,5 +83,13 @@
     <content>Had to help her find it #iykyk #4u #spark #charlesthegr8 </content>
     <link href="https://tiktok.com/@charlesthegr8/video/7235214484753780014" rel="alternate"/>
     <published>2023-05-20T10:49:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7235805845873773870</id>
+    <title>The betrayal 😂 #iykyk #4u #charlesthegr8 </title>
+    <updated>2023-05-22T01:02:21+00:00</updated>
+    <content>The betrayal 😂 #iykyk #4u #charlesthegr8 </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7235805845873773870" rel="alternate"/>
+    <published>2023-05-22T01:02:21+00:00</published>
   </entry>
 </feed>
