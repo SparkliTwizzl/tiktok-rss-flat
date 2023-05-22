@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@juliafox038711</id>
   <title>@juliafox038711 | TikTok</title>
-  <updated>2023-05-18T04:20:22+00:00</updated>
+  <updated>2023-05-22T03:49:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juliafox038711</subtitle>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7227669026867072298</id>
-    <title>90210 90210 </title>
-    <updated>2023-04-30T02:47:23+00:00</updated>
-    <content>90210 90210 </content>
-    <link href="https://tiktok.com/@juliafox038711/video/7227669026867072298" rel="alternate"/>
-    <published>2023-04-30T02:47:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@juliafox038711/video/7227677764428533038</id>
     <title>a beautiful love if you do ask me😚</title>
@@ -91,5 +83,13 @@
     <content>#darksouls #bosslevel </content>
     <link href="https://tiktok.com/@juliafox038711/video/7234372532550241578" rel="alternate"/>
     <published>2023-05-18T04:20:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7235848996261072171</id>
+    <title>in love with my hair</title>
+    <updated>2023-05-22T03:49:57+00:00</updated>
+    <content>in love with my hair</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7235848996261072171" rel="alternate"/>
+    <published>2023-05-22T03:49:57+00:00</published>
   </entry>
 </feed>
