@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@villainsupport</id>
   <title>@villainsupport | TikTok</title>
-  <updated>2023-05-21T22:05:02+00:00</updated>
+  <updated>2023-05-22T20:28:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @villainsupport</subtitle>
-  <entry>
-    <id>https://tiktok.com/@villainsupport/video/7232025987695922478</id>
-    <title>#allforone #mha #buu #dbz #kirby #nintendo #wong #marvel #sorcerorsupreme #acmetok #anime #acmevillainsupport </title>
-    <updated>2023-05-11T20:34:42+00:00</updated>
-    <content>#allforone #mha #buu #dbz #kirby #nintendo #wong #marvel #sorcerorsupreme #acmetok #anime #acmevillainsupport </content>
-    <link href="https://tiktok.com/@villainsupport/video/7232025987695922478" rel="alternate"/>
-    <published>2023-05-11T20:34:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@villainsupport/video/7232398403110571306</id>
     <title>#allforone #mha #buu #dbz #kirby #nintendo #anime #acmetok #acmevillainsupport </title>
@@ -91,5 +83,13 @@
     <content>#gozer #ghostbusters #zuul #vinzclortho #acmetok #ghost #god #acmevillainsupport </content>
     <link href="https://tiktok.com/@villainsupport/video/7235760136562740523" rel="alternate"/>
     <published>2023-05-21T22:05:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@villainsupport/video/7236106419664129322</id>
+    <title>I know… I forgot about Darkshine. But y’all know I’m talking about Saitama #saitama #onepunchman #lordboros #acmetok #acmevillainsupport #anime </title>
+    <updated>2023-05-22T20:28:49+00:00</updated>
+    <content>I know… I forgot about Darkshine. But y’all know I’m talking about Saitama #saitama #onepunchman #lordboros #acmetok #acmevillainsupport #anime </content>
+    <link href="https://tiktok.com/@villainsupport/video/7236106419664129322" rel="alternate"/>
+    <published>2023-05-22T20:28:49+00:00</published>
   </entry>
 </feed>
