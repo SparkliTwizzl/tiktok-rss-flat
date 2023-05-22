@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-05-21T00:06:22+00:00</updated>
+  <updated>2023-05-22T14:05:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7233951088708160774</id>
-    <title>#duet with @Angel 2 down.... #wonderland #wonderlandcosplay #madhatter </title>
-    <updated>2023-05-17T01:04:55+00:00</updated>
-    <content>#duet with @Angel 2 down.... #wonderland #wonderlandcosplay #madhatter </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7233951088708160774" rel="alternate"/>
-    <published>2023-05-17T01:04:55+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7234134414618348805</id>
     <title>#maladytheclown #personalityyoucanthandle #clown #personality </title>
@@ -91,5 +83,13 @@
     <content>feel free to duet ❤️ #maladytheclown #clown #dailylife #irrational  #that70sshow </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7235420349867805958" rel="alternate"/>
     <published>2023-05-21T00:06:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7236007598984580357</id>
+    <title>she used to have props, and the app got all upset and gave me strikes #onthisday #maladytheclown #whentiktokwasfun </title>
+    <updated>2023-05-22T14:05:09+00:00</updated>
+    <content>she used to have props, and the app got all upset and gave me strikes #onthisday #maladytheclown #whentiktokwasfun </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7236007598984580357" rel="alternate"/>
+    <published>2023-05-22T14:05:09+00:00</published>
   </entry>
 </feed>
