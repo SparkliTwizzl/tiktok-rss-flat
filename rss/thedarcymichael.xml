@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-05-20T11:06:48+00:00</updated>
+  <updated>2023-05-22T09:02:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7229728381728804102</id>
-    <title>Replying to @Beau sorry Chucky, these queens have other plans. </title>
-    <updated>2023-05-05T15:58:35+00:00</updated>
-    <content>Replying to @Beau sorry Chucky, these queens have other plans. </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7229728381728804102" rel="alternate"/>
-    <published>2023-05-05T15:58:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7230437643883007237</id>
     <title>Oh. #busydonkey #CapCut </title>
@@ -91,5 +83,13 @@
     <content>A wee bit drafty in here </content>
     <link href="https://tiktok.com/@thedarcymichael/video/7235219465875606790" rel="alternate"/>
     <published>2023-05-20T11:06:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7235929616911830278</id>
+    <title>Congrats on your marriage you hypcrite. I love you @Daniel_Sloss </title>
+    <updated>2023-05-22T09:02:35+00:00</updated>
+    <content>Congrats on your marriage you hypcrite. I love you @Daniel_Sloss </content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7235929616911830278" rel="alternate"/>
+    <published>2023-05-22T09:02:35+00:00</published>
   </entry>
 </feed>
