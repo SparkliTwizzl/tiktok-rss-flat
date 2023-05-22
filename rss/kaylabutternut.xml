@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-05-22T02:15:09+00:00</updated>
+  <updated>2023-05-22T07:13:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7232913779775016238</id>
-    <title>POV: you’re the reasonable one </title>
-    <updated>2023-05-14T05:59:58+00:00</updated>
-    <content>POV: you’re the reasonable one </content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7232913779775016238" rel="alternate"/>
-    <published>2023-05-14T05:59:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7232953270359330094</id>
     <title>3:33</title>
@@ -91,5 +83,13 @@
     <content>True story</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7235824579879505195" rel="alternate"/>
     <published>2023-05-22T02:15:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7235901186451246379</id>
+    <title>I’m just building the economy </title>
+    <updated>2023-05-22T07:13:12+00:00</updated>
+    <content>I’m just building the economy </content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7235901186451246379" rel="alternate"/>
+    <published>2023-05-22T07:13:12+00:00</published>
   </entry>
 </feed>
