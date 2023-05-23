@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dannyphantom.exe</id>
   <title>@dannyphantom.exe | TikTok</title>
-  <updated>2023-05-22T02:19:24+00:00</updated>
+  <updated>2023-05-23T02:20:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dannyphantom.exe</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7234340958190685486</id>
-    <title>TIME TO MEET THE PARENTS </title>
-    <updated>2023-05-18T02:17:51+00:00</updated>
-    <content>TIME TO MEET THE PARENTS </content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7234340958190685486" rel="alternate"/>
-    <published>2023-05-18T02:17:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7234711584092802350</id>
-    <title>tag someone who would do this</title>
-    <updated>2023-05-19T02:16:03+00:00</updated>
-    <content>tag someone who would do this</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7234711584092802350" rel="alternate"/>
-    <published>2023-05-19T02:16:03+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7234711660777278766</id>
-    <title>[no title]</title>
-    <updated>2023-05-19T02:16:19+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7234711660777278766" rel="alternate"/>
-    <published>2023-05-19T02:16:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dannyphantom.exe/video/7234712072259456298</id>
     <title>tag someone w ADHD</title>
@@ -91,5 +67,29 @@
     <content>tag someone who foes this</content>
     <link href="https://tiktok.com/@dannyphantom.exe/video/7235825685871234346" rel="alternate"/>
     <published>2023-05-22T02:19:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7236196297613643051</id>
+    <title>tag someone who jeeds to hear this</title>
+    <updated>2023-05-23T02:17:30+00:00</updated>
+    <content>tag someone who jeeds to hear this</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7236196297613643051" rel="alternate"/>
+    <published>2023-05-23T02:17:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7236196419101527339</id>
+    <title>tag your best friend </title>
+    <updated>2023-05-23T02:17:58+00:00</updated>
+    <content>tag your best friend </content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7236196419101527339" rel="alternate"/>
+    <published>2023-05-23T02:17:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7236196971466231083</id>
+    <title>on a serious note respect your partner’s boundaries. be kind and listen to each ither, and only be disrespectful when they want you to ;)</title>
+    <updated>2023-05-23T02:20:08+00:00</updated>
+    <content>on a serious note respect your partner’s boundaries. be kind and listen to each ither, and only be disrespectful when they want you to ;)</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7236196971466231083" rel="alternate"/>
+    <published>2023-05-23T02:20:08+00:00</published>
   </entry>
 </feed>
