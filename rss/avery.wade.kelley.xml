@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-05-23T13:56:56+00:00</updated>
+  <updated>2023-05-23T18:15:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7233803181728255278</id>
-    <title>#stitch with @Avery Wade Damn app making me realize shit about myself, how dare it. #fyp #trans </title>
-    <updated>2023-05-16T15:31:02+00:00</updated>
-    <content>#stitch with @Avery Wade Damn app making me realize shit about myself, how dare it. #fyp #trans </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7233803181728255278" rel="alternate"/>
-    <published>2023-05-16T15:31:02+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7234182806434319662</id>
     <title>Update... This is so surreal. My doctor was 10 minutes away from being able to give me a refill, and 10 minutes later, she wasn't legally allowed. We are tentatively watching how this will effect our every day lives, and if we have to leave sooner than Oc</title>
@@ -91,5 +83,13 @@
     <content>Replying to @amoryslaysvamps Thank you. #fyp #trans </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7236376515838086446" rel="alternate"/>
     <published>2023-05-23T13:56:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7236443178616868139</id>
+    <title>Thought this was a neat trend. #fyp </title>
+    <updated>2023-05-23T18:15:32+00:00</updated>
+    <content>Thought this was a neat trend. #fyp </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7236443178616868139" rel="alternate"/>
+    <published>2023-05-23T18:15:32+00:00</published>
   </entry>
 </feed>
