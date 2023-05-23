@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kit_the_beefcake</id>
   <title>@kit_the_beefcake | TikTok</title>
-  <updated>2023-05-23T11:09:36+00:00</updated>
+  <updated>2023-05-23T22:41:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kit_the_beefcake</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7231910784635391274</id>
-    <title>#kitthebeefcake </title>
-    <updated>2023-05-11T13:08:03+00:00</updated>
-    <content>#kitthebeefcake </content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7231910784635391274" rel="alternate"/>
-    <published>2023-05-11T13:08:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7232097352528432426</id>
     <title>#kitthebeefcake it was a Wes Anderson video thank God 😂</title>
@@ -91,5 +83,13 @@
     <content>Replying to @uncleankh #kitthebeefcake </content>
     <link href="https://tiktok.com/@kit_the_beefcake/video/7236333393124904234" rel="alternate"/>
     <published>2023-05-23T11:09:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7236511610905382190</id>
+    <title>#kitthebeefcake </title>
+    <updated>2023-05-23T22:41:03+00:00</updated>
+    <content>#kitthebeefcake </content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7236511610905382190" rel="alternate"/>
+    <published>2023-05-23T22:41:03+00:00</published>
   </entry>
 </feed>
