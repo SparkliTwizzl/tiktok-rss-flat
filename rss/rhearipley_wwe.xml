@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@rhearipley_wwe</id>
   <title>@rhearipley_wwe | TikTok</title>
-  <updated>2023-05-22T18:26:26+00:00</updated>
+  <updated>2023-05-23T20:50:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @rhearipley_wwe</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rhearipley_wwe/video/7217291399467732267</id>
-    <title>#AndNew ⚖️ #WrestleMania </title>
-    <updated>2023-04-02T03:36:54+00:00</updated>
-    <content>#AndNew ⚖️ #WrestleMania </content>
-    <link href="https://tiktok.com/@rhearipley_wwe/video/7217291399467732267" rel="alternate"/>
-    <published>2023-04-02T03:36:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rhearipley_wwe/video/7226508059915406635</id>
     <title>Back day ✨</title>
@@ -91,5 +83,13 @@
     <content>Bringing that HEAT!! 🔥🌹</content>
     <link href="https://tiktok.com/@rhearipley_wwe/video/7236074833224895790" rel="alternate"/>
     <published>2023-05-22T18:26:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rhearipley_wwe/video/7236483077696949546</id>
+    <title>Full course meal 🔥😈</title>
+    <updated>2023-05-23T20:50:21+00:00</updated>
+    <content>Full course meal 🔥😈</content>
+    <link href="https://tiktok.com/@rhearipley_wwe/video/7236483077696949546" rel="alternate"/>
+    <published>2023-05-23T20:50:21+00:00</published>
   </entry>
 </feed>
