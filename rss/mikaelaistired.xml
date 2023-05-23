@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@mikaelaistired</id>
   <title>@mikaelaistired | TikTok</title>
-  <updated>2023-05-23T12:00:10+00:00</updated>
+  <updated>2023-05-23T19:55:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @mikaelaistired</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mikaelaistired/video/7234623339543743790</id>
-    <title>Nailed it</title>
-    <updated>2023-05-18T20:33:37+00:00</updated>
-    <content>Nailed it</content>
-    <link href="https://tiktok.com/@mikaelaistired/video/7234623339543743790" rel="alternate"/>
-    <published>2023-05-18T20:33:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mikaelaistired/video/7234862004693945646</id>
     <title>How strange</title>
@@ -91,5 +83,13 @@
     <content>Its over now </content>
     <link href="https://tiktok.com/@mikaelaistired/video/7236346429835414830" rel="alternate"/>
     <published>2023-05-23T12:00:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mikaelaistired/video/7236468973213142318</id>
+    <title>#greenscreen i win?</title>
+    <updated>2023-05-23T19:55:35+00:00</updated>
+    <content>#greenscreen i win?</content>
+    <link href="https://tiktok.com/@mikaelaistired/video/7236468973213142318" rel="alternate"/>
+    <published>2023-05-23T19:55:35+00:00</published>
   </entry>
 </feed>
