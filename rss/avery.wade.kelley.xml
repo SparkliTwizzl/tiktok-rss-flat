@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-05-22T20:41:24+00:00</updated>
+  <updated>2023-05-23T13:56:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7233482782100458795</id>
-    <title>Might try to use this to help me with characters. Haha. #fyp </title>
-    <updated>2023-05-15T18:47:42+00:00</updated>
-    <content>Might try to use this to help me with characters. Haha. #fyp </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7233482782100458795" rel="alternate"/>
-    <published>2023-05-15T18:47:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7233803181728255278</id>
     <title>#stitch with @Avery Wade Damn app making me realize shit about myself, how dare it. #fyp #trans </title>
@@ -91,5 +83,13 @@
     <content>#duet with @Brian Lange USN(retired) They can't pretend they're not targeting us anymore. They fucking can't. #fyp #trans </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7236109659982023982" rel="alternate"/>
     <published>2023-05-22T20:41:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7236376515838086446</id>
+    <title>Replying to @amoryslaysvamps Thank you. #fyp #trans </title>
+    <updated>2023-05-23T13:56:56+00:00</updated>
+    <content>Replying to @amoryslaysvamps Thank you. #fyp #trans </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7236376515838086446" rel="alternate"/>
+    <published>2023-05-23T13:56:56+00:00</published>
   </entry>
 </feed>
