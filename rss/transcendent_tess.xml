@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@transcendent_tess</id>
   <title>@transcendent_tess | TikTok</title>
-  <updated>2023-05-18T10:42:16+00:00</updated>
+  <updated>2023-05-22T22:19:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @transcendent_tess</subtitle>
-  <entry>
-    <id>https://tiktok.com/@transcendent_tess/video/7214208717502565674</id>
-    <title>#duet with @SEAN </title>
-    <updated>2023-03-24T20:14:23+00:00</updated>
-    <content>#duet with @SEAN </content>
-    <link href="https://tiktok.com/@transcendent_tess/video/7214208717502565674" rel="alternate"/>
-    <published>2023-03-24T20:14:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@transcendent_tess/video/7214523842180549930</id>
     <title>#duet with @three raccoons in a trenchcoat I can take it or leave it honestly.</title>
@@ -91,5 +83,13 @@
     <content>#stitch with @Date Right Stuff </content>
     <link href="https://tiktok.com/@transcendent_tess/video/7234470932364971310" rel="alternate"/>
     <published>2023-05-18T10:42:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@transcendent_tess/video/7236134835041996074</id>
+    <title>The next person who says this to me is getting slapped/j 🙃 #rant #cispeoplebelike #mtftrans #transtrucker #mtf #trans #lgbt #lgbt🏳️‍🌈 #alphabetmafia🌈 #protecttranskids #funny #fyp </title>
+    <updated>2023-05-22T22:19:08+00:00</updated>
+    <content>The next person who says this to me is getting slapped/j 🙃 #rant #cispeoplebelike #mtftrans #transtrucker #mtf #trans #lgbt #lgbt🏳️‍🌈 #alphabetmafia🌈 #protecttranskids #funny #fyp </content>
+    <link href="https://tiktok.com/@transcendent_tess/video/7236134835041996074" rel="alternate"/>
+    <published>2023-05-22T22:19:08+00:00</published>
   </entry>
 </feed>
