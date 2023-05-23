@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-05-22T23:30:16+00:00</updated>
+  <updated>2023-05-23T03:31:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7233678610744216874</id>
-    <title>Pulling an all nighter</title>
-    <updated>2023-05-16T07:28:16+00:00</updated>
-    <content>Pulling an all nighter</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7233678610744216874" rel="alternate"/>
-    <published>2023-05-16T07:28:16+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7233680207230651694</id>
     <title>[no title]</title>
@@ -91,5 +83,13 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7236153190268308779" rel="alternate"/>
     <published>2023-05-22T23:30:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7236215270547803438</id>
+    <title>Back in the hot tub</title>
+    <updated>2023-05-23T03:31:07+00:00</updated>
+    <content>Back in the hot tub</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7236215270547803438" rel="alternate"/>
+    <published>2023-05-23T03:31:07+00:00</published>
   </entry>
 </feed>
