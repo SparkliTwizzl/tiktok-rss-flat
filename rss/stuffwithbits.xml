@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-05-23T15:24:23+00:00</updated>
+  <updated>2023-05-23T17:53:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7235315486295133483</id>
-    <title>Replying to @thesilentone762 #reply #solardidsystem #sszephyr #dissociativeidentitydisorder </title>
-    <updated>2023-05-20T17:19:36+00:00</updated>
-    <content>Replying to @thesilentone762 #reply #solardidsystem #sszephyr #dissociativeidentitydisorder </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7235315486295133483" rel="alternate"/>
-    <published>2023-05-20T17:19:36+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7235361277206334762</id>
-    <title>please be kind #dissociativeidentitydisorder #sszephyr #solardidsystem </title>
-    <updated>2023-05-20T20:17:16+00:00</updated>
-    <content>please be kind #dissociativeidentitydisorder #sszephyr #solardidsystem </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7235361277206334762" rel="alternate"/>
-    <published>2023-05-20T20:17:16+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7235386139098500395</id>
     <title>#stitch with @Misha a client gave me a dirty look today because I asked her to weigh her dog 😭 at the VET 😭😭😭 #solardidsystem #sszephyr </title>
@@ -91,5 +75,21 @@
     <content>Replying to @jadyn_sage #reply #solardidsystem #ssperegrine #dissociativeidentitydisorder #PDID </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7236399077288594730" rel="alternate"/>
     <published>2023-05-23T15:24:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7236419842268597546</id>
+    <title>heya 👋 you can call me Perry 😊 #solardidsystem #ssperegrine #dissociativeidentitydisorder </title>
+    <updated>2023-05-23T16:45:01+00:00</updated>
+    <content>heya 👋 you can call me Perry 😊 #solardidsystem #ssperegrine #dissociativeidentitydisorder </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7236419842268597546" rel="alternate"/>
+    <published>2023-05-23T16:45:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7236437399851781422</id>
+    <title>#stitch with @KingForJesus how was it? since it was yesterday apparently. sorry you're still here 🤣 #ssperegrine #solardidsystem </title>
+    <updated>2023-05-23T17:53:08+00:00</updated>
+    <content>#stitch with @KingForJesus how was it? since it was yesterday apparently. sorry you're still here 🤣 #ssperegrine #solardidsystem </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7236437399851781422" rel="alternate"/>
+    <published>2023-05-23T17:53:08+00:00</published>
   </entry>
 </feed>
