@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-05-21T21:02:29+00:00</updated>
+  <updated>2023-05-24T00:29:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7232782980547087659</id>
-    <title>Just some Avatar aesthetic  #avatar #avataraesthetic #korra #korracosplay </title>
-    <updated>2023-05-13T21:32:09+00:00</updated>
-    <content>Just some Avatar aesthetic  #avatar #avataraesthetic #korra #korracosplay </content>
-    <link href="https://tiktok.com/@athena__cos/video/7232782980547087659" rel="alternate"/>
-    <published>2023-05-13T21:32:09+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7233137489748299051</id>
     <title>There’s just something about him 😩@Dylanpool #deadpool </title>
@@ -91,5 +83,13 @@
     <content>When the fight scene pulls you in 👀 @The Adventurer had the amazing idea for this transition with a twist!! #ladyknight #knightcosplay #knights #wlw #fight #booktok </content>
     <link href="https://tiktok.com/@athena__cos/video/7235744009191230762" rel="alternate"/>
     <published>2023-05-21T21:02:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7236539619490221354</id>
+    <title>Had to try this template with one of the vids from my last Kassandra shoot #kassandracosplay #assassinsceed #assassinscreedcosplay #oddysey #sparta  </title>
+    <updated>2023-05-24T00:29:46+00:00</updated>
+    <content>Had to try this template with one of the vids from my last Kassandra shoot #kassandracosplay #assassinsceed #assassinscreedcosplay #oddysey #sparta  </content>
+    <link href="https://tiktok.com/@athena__cos/video/7236539619490221354" rel="alternate"/>
+    <published>2023-05-24T00:29:46+00:00</published>
   </entry>
 </feed>
