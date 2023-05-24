@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@juliafox038711</id>
   <title>@juliafox038711 | TikTok</title>
-  <updated>2023-05-24T15:28:37+00:00</updated>
+  <updated>2023-05-24T02:45:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juliafox038711</subtitle>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7227702965551762734</id>
+    <title>over 2 year difference 🫢crazyyy</title>
+    <updated>2023-04-30T04:59:09+00:00</updated>
+    <content>over 2 year difference 🫢crazyyy</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7227702965551762734" rel="alternate"/>
+    <published>2023-04-30T04:59:09+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@juliafox038711/video/7228673065712946475</id>
     <title>shoutout to the guy whome ive never sloken to that told me i had a final today that i was not aware of having </title>
@@ -83,13 +91,5 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@juliafox038711/video/7236574546827169070" rel="alternate"/>
     <published>2023-05-24T02:45:25+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7236771239287672106</id>
-    <title>not that anyone asked but heres my day, well this was yesterday speaking in terms of now</title>
-    <updated>2023-05-24T15:28:37+00:00</updated>
-    <content>not that anyone asked but heres my day, well this was yesterday speaking in terms of now</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7236771239287672106" rel="alternate"/>
-    <published>2023-05-24T15:28:37+00:00</published>
   </entry>
 </feed>
