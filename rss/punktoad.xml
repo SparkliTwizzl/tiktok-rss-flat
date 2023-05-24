@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-05-24T10:57:09+00:00</updated>
+  <updated>2023-05-24T19:44:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7233818044651326762</id>
-    <title>Thats just the way it is #dadsoftiktok #momsoftiktok #21jumpstreet #fyp </title>
-    <updated>2023-05-16T16:28:43+00:00</updated>
-    <content>Thats just the way it is #dadsoftiktok #momsoftiktok #21jumpstreet #fyp </content>
-    <link href="https://tiktok.com/@punktoad/video/7233818044651326762" rel="alternate"/>
-    <published>2023-05-16T16:28:43+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7234277705989098795</id>
     <title>Facts about The Black Dahlia pt. 1  • • • #truecrime #truecrimetiktok #theblackdahlia #elizabethshort #unsolved #spooky </title>
@@ -91,5 +83,13 @@
     <content>OC: @Punx_OG_  #aoc #aoc2024 #alexandriaocasiocortez #inlove </content>
     <link href="https://tiktok.com/@punktoad/video/7236701281845267758" rel="alternate"/>
     <published>2023-05-24T10:57:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7236837248942066986</id>
+    <title>Only posers die #slcpunk #wemissyoubob #matthewlillard #heartbroken  #greenscreen #greenscreenvideo </title>
+    <updated>2023-05-24T19:44:44+00:00</updated>
+    <content>Only posers die #slcpunk #wemissyoubob #matthewlillard #heartbroken  #greenscreen #greenscreenvideo </content>
+    <link href="https://tiktok.com/@punktoad/video/7236837248942066986" rel="alternate"/>
+    <published>2023-05-24T19:44:44+00:00</published>
   </entry>
 </feed>
