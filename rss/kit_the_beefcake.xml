@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kit_the_beefcake</id>
   <title>@kit_the_beefcake | TikTok</title>
-  <updated>2023-05-23T22:41:03+00:00</updated>
+  <updated>2023-05-24T07:02:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -61,14 +61,6 @@
     <published>2023-05-21T10:04:34+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7235784258290224427</id>
-    <title>[no title]</title>
-    <updated>2023-05-21T23:38:38+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7235784258290224427" rel="alternate"/>
-    <published>2023-05-21T23:38:38+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7236265555055922478</id>
     <title>#kitthebeefcake </title>
     <updated>2023-05-23T06:46:20+00:00</updated>
@@ -91,5 +83,13 @@
     <content>#kitthebeefcake </content>
     <link href="https://tiktok.com/@kit_the_beefcake/video/7236511610905382190" rel="alternate"/>
     <published>2023-05-23T22:41:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7236640695539322154</id>
+    <title>#kitthebeefcake </title>
+    <updated>2023-05-24T07:02:56+00:00</updated>
+    <content>#kitthebeefcake </content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7236640695539322154" rel="alternate"/>
+    <published>2023-05-24T07:02:56+00:00</published>
   </entry>
 </feed>
