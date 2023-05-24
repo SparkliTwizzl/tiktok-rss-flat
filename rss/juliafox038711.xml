@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@juliafox038711</id>
   <title>@juliafox038711 | TikTok</title>
-  <updated>2023-05-22T03:49:57+00:00</updated>
+  <updated>2023-05-24T02:45:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juliafox038711</subtitle>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7227677764428533038</id>
-    <title>a beautiful love if you do ask me😚</title>
-    <updated>2023-04-30T03:21:16+00:00</updated>
-    <content>a beautiful love if you do ask me😚</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7227677764428533038" rel="alternate"/>
-    <published>2023-04-30T03:21:16+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7227680109270977834</id>
-    <title>last one but this one is my favorite #foryou #foryou #foryou </title>
-    <updated>2023-04-30T03:30:23+00:00</updated>
-    <content>last one but this one is my favorite #foryou #foryou #foryou </content>
-    <link href="https://tiktok.com/@juliafox038711/video/7227680109270977834" rel="alternate"/>
-    <published>2023-04-30T03:30:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@juliafox038711/video/7227702965551762734</id>
     <title>over 2 year difference 🫢crazyyy</title>
@@ -91,5 +75,21 @@
     <content>in love with my hair</content>
     <link href="https://tiktok.com/@juliafox038711/video/7235848996261072171" rel="alternate"/>
     <published>2023-05-22T03:49:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7236563915142860078</id>
+    <title>#VideoAleatorio i love this freaking video, my dad recorded me going down the stairs when i was in school cuz i was so sore from working out, was in so much pain</title>
+    <updated>2023-05-24T02:04:09+00:00</updated>
+    <content>#VideoAleatorio i love this freaking video, my dad recorded me going down the stairs when i was in school cuz i was so sore from working out, was in so much pain</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7236563915142860078" rel="alternate"/>
+    <published>2023-05-24T02:04:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7236574546827169070</id>
+    <title>[no title]</title>
+    <updated>2023-05-24T02:45:25+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7236574546827169070" rel="alternate"/>
+    <published>2023-05-24T02:45:25+00:00</published>
   </entry>
 </feed>
