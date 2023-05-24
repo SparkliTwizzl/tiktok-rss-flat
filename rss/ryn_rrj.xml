@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ryn_rrj</id>
   <title>@ryn_rrj | TikTok</title>
-  <updated>2023-05-21T16:51:29+00:00</updated>
+  <updated>2023-05-24T17:21:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ryn_rrj</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ryn_rrj/video/7216072790988967214</id>
-    <title>I work from home so uhhhh yeah i have discovered that I do not, in fact, like shirts #trans #transjoy #lgbt #transmasc #ftm #topsurgery #catchmeifyoucan #shirt </title>
-    <updated>2023-03-29T20:48:01+00:00</updated>
-    <content>I work from home so uhhhh yeah i have discovered that I do not, in fact, like shirts #trans #transjoy #lgbt #transmasc #ftm #topsurgery #catchmeifyoucan #shirt </content>
-    <link href="https://tiktok.com/@ryn_rrj/video/7216072790988967214" rel="alternate"/>
-    <published>2023-03-29T20:48:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ryn_rrj/video/7219015804560444714</id>
     <title>Heck Capitalism #buynothing #capitalism #gift #gifteconomy #community #support </title>
@@ -91,5 +83,13 @@
     <content>It’s the little things. Transition saves lives, including mine. #trans #transmasc #transjoy #lgbt #pride #transpride #ftm #topsurgery #transition #beach #joy</content>
     <link href="https://tiktok.com/@ryn_rrj/video/7235679327256399150" rel="alternate"/>
     <published>2023-05-21T16:51:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ryn_rrj/video/7236800416871206187</id>
+    <title>Bless you, whoever you are . . . . . #trans #gender #lgbt #queer #ftm #pronouns </title>
+    <updated>2023-05-24T17:21:52+00:00</updated>
+    <content>Bless you, whoever you are . . . . . #trans #gender #lgbt #queer #ftm #pronouns </content>
+    <link href="https://tiktok.com/@ryn_rrj/video/7236800416871206187" rel="alternate"/>
+    <published>2023-05-24T17:21:52+00:00</published>
   </entry>
 </feed>
