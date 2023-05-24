@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-05-23T19:42:07+00:00</updated>
+  <updated>2023-05-24T13:48:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7234548736427461934</id>
-    <title>Replying to @brandierodrigues I'm so sorry.. #fyp #trans </title>
-    <updated>2023-05-18T15:44:12+00:00</updated>
-    <content>Replying to @brandierodrigues I'm so sorry.. #fyp #trans </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7234548736427461934" rel="alternate"/>
-    <published>2023-05-18T15:44:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7234609140822330667</id>
     <title>#duet with @Zane🏳️‍⚧️⚧️ Be Proud, my brothers. #fyp #trans </title>
@@ -91,5 +83,13 @@
     <content>There should be warnings on these things. Lol. #fyp </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7236465485414485290" rel="alternate"/>
     <published>2023-05-23T19:42:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7236745353817591082</id>
+    <title>I seriously can't say enough words to thank you. Please, if there are stories I can share, people I can help, please point me to them. I want to pass this forward and help others, just as you've been helping my family and I. Thank you... #fyp #trans </title>
+    <updated>2023-05-24T13:48:12+00:00</updated>
+    <content>I seriously can't say enough words to thank you. Please, if there are stories I can share, people I can help, please point me to them. I want to pass this forward and help others, just as you've been helping my family and I. Thank you... #fyp #trans </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7236745353817591082" rel="alternate"/>
+    <published>2023-05-24T13:48:12+00:00</published>
   </entry>
 </feed>
