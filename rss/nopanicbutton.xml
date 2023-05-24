@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@nopanicbutton</id>
   <title>@nopanicbutton | TikTok</title>
-  <updated>2023-05-22T22:44:15+00:00</updated>
+  <updated>2023-05-24T21:41:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @nopanicbutton</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nopanicbutton/video/7228296596360940842</id>
-    <title>www.thesurvivalcrate.com Wonderful toys, great snackage! Not every good knife has to be handmade!</title>
-    <updated>2023-05-01T19:22:47+00:00</updated>
-    <content>www.thesurvivalcrate.com Wonderful toys, great snackage! Not every good knife has to be handmade!</content>
-    <link href="https://tiktok.com/@nopanicbutton/video/7228296596360940842" rel="alternate"/>
-    <published>2023-05-01T19:22:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nopanicbutton/video/7228993493069352235</id>
     <title>If y'all are just making these orders to test me, I'll take yer money every time! #paytoplay #cashisking #notgonnamakemeblush </title>
@@ -91,5 +83,13 @@
     <content>Ever seen a mountain of a man hit a Mariah Carey high note? #arachnids #obt #funtimes #whereditgo </content>
     <link href="https://tiktok.com/@nopanicbutton/video/7236141317246438698" rel="alternate"/>
     <published>2023-05-22T22:44:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nopanicbutton/video/7236867241399029034</id>
+    <title>Snacks make everything better. NOT a paid ad. I love this stuff! #righteousfelon @Righteous Felon #damngoodeats </title>
+    <updated>2023-05-24T21:41:05+00:00</updated>
+    <content>Snacks make everything better. NOT a paid ad. I love this stuff! #righteousfelon @Righteous Felon #damngoodeats </content>
+    <link href="https://tiktok.com/@nopanicbutton/video/7236867241399029034" rel="alternate"/>
+    <published>2023-05-24T21:41:05+00:00</published>
   </entry>
 </feed>
