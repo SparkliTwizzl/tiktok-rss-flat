@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avocadosnaliens</id>
   <title>@avocadosnaliens | TikTok</title>
-  <updated>2023-05-21T18:36:49+00:00</updated>
+  <updated>2023-05-24T19:38:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avocadosnaliens</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avocadosnaliens/video/7230125940767083818</id>
-    <title>I cant take this anymore *continues to take it* #grwm #photographerlife #weddingphotographer #honkeytonkin #goodamerican </title>
-    <updated>2023-05-06T17:41:27+00:00</updated>
-    <content>I cant take this anymore *continues to take it* #grwm #photographerlife #weddingphotographer #honkeytonkin #goodamerican </content>
-    <link href="https://tiktok.com/@avocadosnaliens/video/7230125940767083818" rel="alternate"/>
-    <published>2023-05-06T17:41:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avocadosnaliens/video/7230919143825100078</id>
     <title>#greenscreen #sephora </title>
@@ -91,5 +83,13 @@
     <content>Been getting so much hate on these videos. I think ill make a few more #whatiwear #foryou </content>
     <link href="https://tiktok.com/@avocadosnaliens/video/7235706458824887595" rel="alternate"/>
     <published>2023-05-21T18:36:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7236835576492739883</id>
+    <title>#greenscreenvideo im just waking up and i just wanted to get a few things off my chest  #mattrife #bertkreischer #realtalk </title>
+    <updated>2023-05-24T19:38:14+00:00</updated>
+    <content>#greenscreenvideo im just waking up and i just wanted to get a few things off my chest  #mattrife #bertkreischer #realtalk </content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7236835576492739883" rel="alternate"/>
+    <published>2023-05-24T19:38:14+00:00</published>
   </entry>
 </feed>

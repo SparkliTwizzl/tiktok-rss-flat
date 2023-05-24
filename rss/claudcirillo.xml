@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@claudcirillo</id>
   <title>@claudcirillo | TikTok</title>
-  <updated>2023-05-23T19:59:27+00:00</updated>
+  <updated>2023-05-24T19:49:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @claudcirillo</subtitle>
-  <entry>
-    <id>https://tiktok.com/@claudcirillo/video/7232405997858442497</id>
-    <title>#pov: Ghostface got her… #fyp #foryou #foryouoage</title>
-    <updated>2023-05-12T21:09:21+00:00</updated>
-    <content>#pov: Ghostface got her… #fyp #foryou #foryouoage</content>
-    <link href="https://tiktok.com/@claudcirillo/video/7232405997858442497" rel="alternate"/>
-    <published>2023-05-12T21:09:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@claudcirillo/video/7232760497643326722</id>
     <title>#pov : a store manager gets into an argument with a younger customer #fyp #foryou #foryoupage </title>
@@ -91,5 +83,13 @@
     <content>#pov : Your housemate has a sudden issue with other men in your life #fyp #foryou #foryoupage </content>
     <link href="https://tiktok.com/@claudcirillo/video/7236469961227554049" rel="alternate"/>
     <published>2023-05-23T19:59:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@claudcirillo/video/7236838351477755138</id>
+    <title>#pov : You’re literally JUST friends #fyp #foryou #foryoupage </title>
+    <updated>2023-05-24T19:49:00+00:00</updated>
+    <content>#pov : You’re literally JUST friends #fyp #foryou #foryoupage </content>
+    <link href="https://tiktok.com/@claudcirillo/video/7236838351477755138" rel="alternate"/>
+    <published>2023-05-24T19:49:00+00:00</published>
   </entry>
 </feed>

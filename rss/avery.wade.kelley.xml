@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-05-24T13:48:12+00:00</updated>
+  <updated>2023-05-24T19:02:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7234609140822330667</id>
-    <title>#duet with @Zane🏳️‍⚧️⚧️ Be Proud, my brothers. #fyp #trans </title>
-    <updated>2023-05-18T19:38:33+00:00</updated>
-    <content>#duet with @Zane🏳️‍⚧️⚧️ Be Proud, my brothers. #fyp #trans </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7234609140822330667" rel="alternate"/>
-    <published>2023-05-18T19:38:33+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7234619594495773994</id>
-    <title>#duet with @King💅🏾Femme Thank you, friend. #fyp #trans </title>
-    <updated>2023-05-18T20:19:04+00:00</updated>
-    <content>#duet with @King💅🏾Femme Thank you, friend. #fyp #trans </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7234619594495773994" rel="alternate"/>
-    <published>2023-05-18T20:19:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7234622822621056302</id>
     <title>#duet with @Royal &amp; the Serpent O pledge allegiance... #fyp #trans </title>
@@ -91,5 +75,21 @@
     <content>I seriously can't say enough words to thank you. Please, if there are stories I can share, people I can help, please point me to them. I want to pass this forward and help others, just as you've been helping my family and I. Thank you... #fyp #trans </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7236745353817591082" rel="alternate"/>
     <published>2023-05-24T13:48:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7236823695673576746</id>
+    <title>Meh. Acting/kinda accurate. #fyp #trans </title>
+    <updated>2023-05-24T18:52:09+00:00</updated>
+    <content>Meh. Acting/kinda accurate. #fyp #trans </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7236823695673576746" rel="alternate"/>
+    <published>2023-05-24T18:52:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7236826384360836398</id>
+    <title>Stay safe, FL siblings. 🖤🏳️‍⚧️ #fyp #trans </title>
+    <updated>2023-05-24T19:02:32+00:00</updated>
+    <content>Stay safe, FL siblings. 🖤🏳️‍⚧️ #fyp #trans </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7236826384360836398" rel="alternate"/>
+    <published>2023-05-24T19:02:32+00:00</published>
   </entry>
 </feed>
