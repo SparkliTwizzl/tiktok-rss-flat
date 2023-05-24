@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@manic.toxicity</id>
   <title>@manic.toxicity | TikTok</title>
-  <updated>2023-05-23T16:14:47+00:00</updated>
+  <updated>2023-05-24T15:30:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @manic.toxicity</subtitle>
-  <entry>
-    <id>https://tiktok.com/@manic.toxicity/video/7233799649834863914</id>
-    <title>puppy luv &lt;3 #fyp #foryou </title>
-    <updated>2023-05-16T15:17:20+00:00</updated>
-    <content>puppy luv &lt;3 #fyp #foryou </content>
-    <link href="https://tiktok.com/@manic.toxicity/video/7233799649834863914" rel="alternate"/>
-    <published>2023-05-16T15:17:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@manic.toxicity/video/7233820667513310510</id>
     <title>brain do be a big ole meanie sometimes :,)) #fyp #foryou </title>
@@ -91,5 +83,13 @@
     <content>accept this drafts of me saving a sound to use later :) #fyp #foryou </content>
     <link href="https://tiktok.com/@manic.toxicity/video/7236412067069037866" rel="alternate"/>
     <published>2023-05-23T16:14:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@manic.toxicity/video/7236771832785898795</id>
+    <title>(i promise i am completely okay! i am just actung out how i see this being said! :) ) #fyp #foryou </title>
+    <updated>2023-05-24T15:30:58+00:00</updated>
+    <content>(i promise i am completely okay! i am just actung out how i see this being said! :) ) #fyp #foryou </content>
+    <link href="https://tiktok.com/@manic.toxicity/video/7236771832785898795" rel="alternate"/>
+    <published>2023-05-24T15:30:58+00:00</published>
   </entry>
 </feed>
