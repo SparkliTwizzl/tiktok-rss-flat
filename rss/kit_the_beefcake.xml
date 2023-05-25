@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kit_the_beefcake</id>
   <title>@kit_the_beefcake | TikTok</title>
-  <updated>2023-05-25T14:39:21+00:00</updated>
+  <updated>2023-05-25T22:44:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kit_the_beefcake</subtitle>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7234673400306781483</id>
+    <title>@𝔱𝔬𝔞𝔰𝔱 is my only buddy #kitthebeefcake </title>
+    <updated>2023-05-18T23:47:52+00:00</updated>
+    <content>@𝔱𝔬𝔞𝔰𝔱 is my only buddy #kitthebeefcake </content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7234673400306781483" rel="alternate"/>
+    <published>2023-05-18T23:47:52+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7234851987173657902</id>
     <title>#kitthebeefcake </title>
@@ -53,22 +61,6 @@
     <published>2023-05-23T11:09:36+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7236511610905382190</id>
-    <title>#kitthebeefcake </title>
-    <updated>2023-05-23T22:41:03+00:00</updated>
-    <content>#kitthebeefcake </content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7236511610905382190" rel="alternate"/>
-    <published>2023-05-23T22:41:03+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7236640695539322154</id>
-    <title>#kitthebeefcake </title>
-    <updated>2023-05-24T07:02:56+00:00</updated>
-    <content>#kitthebeefcake </content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7236640695539322154" rel="alternate"/>
-    <published>2023-05-24T07:02:56+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7236918374821973294</id>
     <title>#kitthebeefcake </title>
     <updated>2023-05-25T00:59:34+00:00</updated>
@@ -91,5 +83,13 @@
     <content>probably not what you thought... </content>
     <link href="https://tiktok.com/@kit_the_beefcake/video/7237129573492690219" rel="alternate"/>
     <published>2023-05-25T14:39:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7237254611168529706</id>
+    <title>I started beating the guy who had been sailing most of his life and things got rough from there. And then I moved to Australia!!! so all good. #kitthebeefcake </title>
+    <updated>2023-05-25T22:44:18+00:00</updated>
+    <content>I started beating the guy who had been sailing most of his life and things got rough from there. And then I moved to Australia!!! so all good. #kitthebeefcake </content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7237254611168529706" rel="alternate"/>
+    <published>2023-05-25T22:44:18+00:00</published>
   </entry>
 </feed>
