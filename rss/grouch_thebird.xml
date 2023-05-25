@@ -13,6 +13,14 @@
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @grouch_thebird</subtitle>
   <entry>
+    <id>https://tiktok.com/@grouch_thebird/video/7234752596295028010</id>
+    <title>[no title]</title>
+    <updated>2023-05-19T04:55:15+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@grouch_thebird/video/7234752596295028010" rel="alternate"/>
+    <published>2023-05-19T04:55:15+00:00</published>
+  </entry>
+  <entry>
     <id>https://tiktok.com/@grouch_thebird/video/7235429791216700715</id>
     <title>shhhh the spiders are just finishing up </title>
     <updated>2023-05-21T00:43:03+00:00</updated>
@@ -35,14 +43,6 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@grouch_thebird/video/7236288515812674862" rel="alternate"/>
     <published>2023-05-23T08:15:30+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@grouch_thebird/video/7236487981790399787</id>
-    <title>[no title]</title>
-    <updated>2023-05-23T21:09:22+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@grouch_thebird/video/7236487981790399787" rel="alternate"/>
-    <published>2023-05-23T21:09:22+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@grouch_thebird/video/7236849783548284202</id>
