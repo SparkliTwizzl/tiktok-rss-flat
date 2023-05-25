@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@charlesthegr8</id>
   <title>@charlesthegr8 | TikTok</title>
-  <updated>2023-05-24T13:48:57+00:00</updated>
+  <updated>2023-05-23T13:44:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,38 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @charlesthegr8</subtitle>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7233354456681762091</id>
+    <title>Had to make us learn the hard way 🤮 #coach #conditioning #iykyk #charlesthgr8 </title>
+    <updated>2023-05-15T10:30:46+00:00</updated>
+    <content>Had to make us learn the hard way 🤮 #coach #conditioning #iykyk #charlesthgr8 </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7233354456681762091" rel="alternate"/>
+    <published>2023-05-15T10:30:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7233359528367082798</id>
+    <title>Absolute torture #iykyk #4u #charlesthegr8 </title>
+    <updated>2023-05-15T10:50:07+00:00</updated>
+    <content>Absolute torture #iykyk #4u #charlesthegr8 </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7233359528367082798" rel="alternate"/>
+    <published>2023-05-15T10:50:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7234864204535270702</id>
+    <title>Uncultured smh!!!  #iykyk #4u #charlesthegr8 </title>
+    <updated>2023-05-19T12:08:41+00:00</updated>
+    <content>Uncultured smh!!!  #iykyk #4u #charlesthegr8 </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7234864204535270702" rel="alternate"/>
+    <published>2023-05-19T12:08:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7234878693372480811</id>
+    <title>Freedom #iykyk #4u #charlesthegr8 </title>
+    <updated>2023-05-19T13:04:50+00:00</updated>
+    <content>Freedom #iykyk #4u #charlesthegr8 </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7234878693372480811" rel="alternate"/>
+    <published>2023-05-19T13:04:50+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@charlesthegr8/video/7234983344478489898</id>
     <title>I even can tell her steps are hers #iykyk #4u #charlesthegr8 </title>
@@ -53,43 +85,11 @@
     <published>2023-05-22T21:09:37+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7236125201334013230</id>
-    <title>Thats not even a reason #4u #iykyk #charlesthegr8 </title>
-    <updated>2023-05-22T21:41:44+00:00</updated>
-    <content>Thats not even a reason #4u #iykyk #charlesthegr8 </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7236125201334013230" rel="alternate"/>
-    <published>2023-05-22T21:41:44+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@charlesthegr8/video/7236373234625662251</id>
     <title>Yall dont know the struggle!!! #4u #iykyk #charlesthegr8 </title>
     <updated>2023-05-23T13:44:10+00:00</updated>
     <content>Yall dont know the struggle!!! #4u #iykyk #charlesthegr8 </content>
     <link href="https://tiktok.com/@charlesthegr8/video/7236373234625662251" rel="alternate"/>
     <published>2023-05-23T13:44:10+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7236441352752532782</id>
-    <title>Yall not really family #iykyk #fyp #charlesthegr8 </title>
-    <updated>2023-05-23T18:08:30+00:00</updated>
-    <content>Yall not really family #iykyk #fyp #charlesthegr8 </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7236441352752532782" rel="alternate"/>
-    <published>2023-05-23T18:08:30+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7236442228762135854</id>
-    <title>Older siblings where you at 😂 #iykyk #fyp #charlesthegr8 </title>
-    <updated>2023-05-23T18:11:51+00:00</updated>
-    <content>Older siblings where you at 😂 #iykyk #fyp #charlesthegr8 </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7236442228762135854" rel="alternate"/>
-    <published>2023-05-23T18:11:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7236745536437620014</id>
-    <title>Let me know who!!! 🧐 #iykyk #fyp #charlesthegr8 </title>
-    <updated>2023-05-24T13:48:57+00:00</updated>
-    <content>Let me know who!!! 🧐 #iykyk #fyp #charlesthegr8 </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7236745536437620014" rel="alternate"/>
-    <published>2023-05-24T13:48:57+00:00</published>
   </entry>
 </feed>
