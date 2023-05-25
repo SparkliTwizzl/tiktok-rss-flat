@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@claudcirillo</id>
   <title>@claudcirillo | TikTok</title>
-  <updated>2023-05-24T19:49:00+00:00</updated>
+  <updated>2023-05-25T19:51:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @claudcirillo</subtitle>
-  <entry>
-    <id>https://tiktok.com/@claudcirillo/video/7232760497643326722</id>
-    <title>#pov : a store manager gets into an argument with a younger customer #fyp #foryou #foryoupage </title>
-    <updated>2023-05-13T20:04:59+00:00</updated>
-    <content>#pov : a store manager gets into an argument with a younger customer #fyp #foryou #foryoupage </content>
-    <link href="https://tiktok.com/@claudcirillo/video/7232760497643326722" rel="alternate"/>
-    <published>2023-05-13T20:04:59+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@claudcirillo/video/7233511615277157633</id>
     <title>#pov : Be careful who you claim to be (ib: @🌹GOOD_LEV 🌹) #fyp #foryoupage #foryou </title>
@@ -91,5 +83,13 @@
     <content>#pov : You’re literally JUST friends #fyp #foryou #foryoupage </content>
     <link href="https://tiktok.com/@claudcirillo/video/7236838351477755138" rel="alternate"/>
     <published>2023-05-24T19:49:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@claudcirillo/video/7237210190729219329</id>
+    <title>#pov : Your boyfriend doesn’t want to admit you’re together at a party #fyp #foryou #foryoupage </title>
+    <updated>2023-05-25T19:51:55+00:00</updated>
+    <content>#pov : Your boyfriend doesn’t want to admit you’re together at a party #fyp #foryou #foryoupage </content>
+    <link href="https://tiktok.com/@claudcirillo/video/7237210190729219329" rel="alternate"/>
+    <published>2023-05-25T19:51:55+00:00</published>
   </entry>
 </feed>
