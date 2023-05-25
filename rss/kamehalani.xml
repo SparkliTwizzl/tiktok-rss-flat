@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kamehalani</id>
   <title>@kamehalani | TikTok</title>
-  <updated>2023-05-18T18:20:10+00:00</updated>
+  <updated>2023-05-25T16:33:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kamehalani</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kamehalani/video/7231607913003912490</id>
-    <title>Yikes #aapiheritagemonth #aapifamily #kanaka #nativehawaiian #liloandstitch #nanipelekai #hawaiian   </title>
-    <updated>2023-05-10T17:32:31+00:00</updated>
-    <content>Yikes #aapiheritagemonth #aapifamily #kanaka #nativehawaiian #liloandstitch #nanipelekai #hawaiian   </content>
-    <link href="https://tiktok.com/@kamehalani/video/7231607913003912490" rel="alternate"/>
-    <published>2023-05-10T17:32:31+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kamehalani/video/7231630928445967662</id>
-    <title>Replying to @(((alitza/sybil))) im confused #aapiheritagemonth #aapifamily #kanaka #nativehawaiian #nanipelekai #liloandstitch #hawaiian #kanaka </title>
-    <updated>2023-05-10T19:01:39+00:00</updated>
-    <content>Replying to @(((alitza/sybil))) im confused #aapiheritagemonth #aapifamily #kanaka #nativehawaiian #nanipelekai #liloandstitch #hawaiian #kanaka </content>
-    <link href="https://tiktok.com/@kamehalani/video/7231630928445967662" rel="alternate"/>
-    <published>2023-05-10T19:01:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kamehalani/video/7231642803120688430</id>
     <title>Replying to @(((alitza/sybil))) #greenscreen please get it together. #aapifamily #aapiheritagemonth #jewish #nativehawaiian #kanaka #jewtok </title>
@@ -91,5 +75,21 @@
     <content>#stitch with @Taongcouiy yall jk or am i? #timcurry #rhps </content>
     <link href="https://tiktok.com/@kamehalani/video/7234588928471354667" rel="alternate"/>
     <published>2023-05-18T18:20:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kamehalani/video/7237155346576395562</id>
+    <title>Happy 7 years of surviving to me. Thank you all for giving me a space to speak about this #saawareness </title>
+    <updated>2023-05-25T16:19:21+00:00</updated>
+    <content>Happy 7 years of surviving to me. Thank you all for giving me a space to speak about this #saawareness </content>
+    <link href="https://tiktok.com/@kamehalani/video/7237155346576395562" rel="alternate"/>
+    <published>2023-05-25T16:19:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kamehalani/video/7237159011072757034</id>
+    <title>Yeah…</title>
+    <updated>2023-05-25T16:33:29+00:00</updated>
+    <content>Yeah…</content>
+    <link href="https://tiktok.com/@kamehalani/video/7237159011072757034" rel="alternate"/>
+    <published>2023-05-25T16:33:29+00:00</published>
   </entry>
 </feed>
