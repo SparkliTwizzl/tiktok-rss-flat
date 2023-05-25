@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pinkmantaray</id>
   <title>@pinkmantaray | TikTok</title>
-  <updated>2023-05-24T01:37:27+00:00</updated>
+  <updated>2023-05-25T20:51:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @pinkmantaray</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pinkmantaray/video/7229500892725251371</id>
-    <title>Unsurprisingly, we received many comments arguing about the fairness of including trans women in women's sports. So I sat down with scientist, researcher, and doctoral candidate Joanna Harper to discuss! Take a listen to this DEAR SCHUYLER episode on Spot</title>
-    <updated>2023-05-05T01:15:59+00:00</updated>
-    <content>Unsurprisingly, we received many comments arguing about the fairness of including trans women in women's sports. So I sat down with scientist, researcher, and doctoral candidate Joanna Harper to discuss! Take a listen to this DEAR SCHUYLER episode on Spotify, Apple Podcasts, YouTube, or wherever you get your podcasts! And, if you're looking for a deeper dive on how to have these conversations about trans athletes, sign up for a workshop at pinkmantaray.com/workshops 🏳️‍⚧️🙏🏼💕 #dearschuyler #podcast #transgender </content>
-    <link href="https://tiktok.com/@pinkmantaray/video/7229500892725251371" rel="alternate"/>
-    <published>2023-05-05T01:15:59+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pinkmantaray/video/7231268362192719150</id>
     <title>Some quick travel thoughts for you 🏳️‍⚧️💕 #transgender #trans #genderliteracy #science </title>
@@ -91,5 +83,13 @@
     <content>A really special experience and honor to give the keynote addresss today at Harvard's 3rd Lavender Graduation. Congratulations class of 2023 🙏🏼🏳️‍⚧️💕🏳️‍🌈 #lavendergraduation #queer #trans #graduation #transgenderspeaker #harvardgraduation #pride #harvard #lgbtq  </content>
     <link href="https://tiktok.com/@pinkmantaray/video/7236557045514702122" rel="alternate"/>
     <published>2023-05-24T01:37:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pinkmantaray/video/7237225494532623662</id>
+    <title>Let's talk about trans people &amp; bathrooms — with science and research instead of with lies and transphobia! #transgender #bathrooms #gender #transmen #transwomen #transrights #desantisisdangerous #queer #florida #equalityflorida #transphobia #lgbtq </title>
+    <updated>2023-05-25T20:51:19+00:00</updated>
+    <content>Let's talk about trans people &amp; bathrooms — with science and research instead of with lies and transphobia! #transgender #bathrooms #gender #transmen #transwomen #transrights #desantisisdangerous #queer #florida #equalityflorida #transphobia #lgbtq </content>
+    <link href="https://tiktok.com/@pinkmantaray/video/7237225494532623662" rel="alternate"/>
+    <published>2023-05-25T20:51:19+00:00</published>
   </entry>
 </feed>
