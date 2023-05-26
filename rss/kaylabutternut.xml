@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-05-26T08:01:31+00:00</updated>
+  <updated>2023-05-26T10:52:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7235901186451246379</id>
-    <title>I’m just building the economy </title>
-    <updated>2023-05-22T07:13:12+00:00</updated>
-    <content>I’m just building the economy </content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7235901186451246379" rel="alternate"/>
-    <published>2023-05-22T07:13:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7235977818101026094</id>
     <title>Inspo @islamoon.98 </title>
@@ -91,5 +83,13 @@
     <content>Jumpscare </content>
     <link href="https://tiktok.com/@kaylabutternut/video/7237398159436336430" rel="alternate"/>
     <published>2023-05-26T08:01:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7237442152920272170</id>
+    <title>Good morning do you want anything from mcdeez</title>
+    <updated>2023-05-26T10:52:07+00:00</updated>
+    <content>Good morning do you want anything from mcdeez</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7237442152920272170" rel="alternate"/>
+    <published>2023-05-26T10:52:07+00:00</published>
   </entry>
 </feed>
