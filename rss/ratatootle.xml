@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ratatootle</id>
   <title>@ratatootle | TikTok</title>
-  <updated>2023-05-25T13:11:34+00:00</updated>
+  <updated>2023-05-26T13:32:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ratatootle</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ratatootle/video/7230459240870104362</id>
-    <title>Im pretty impressed tbh minus the lack of plie and trash timing</title>
-    <updated>2023-05-07T15:14:48+00:00</updated>
-    <content>Im pretty impressed tbh minus the lack of plie and trash timing</content>
-    <link href="https://tiktok.com/@ratatootle/video/7230459240870104362" rel="alternate"/>
-    <published>2023-05-07T15:14:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ratatootle/video/7230558454635564331</id>
     <title>I did not get emotionally attached idk what youre talking about. Come back tomorrow for a deeply unhinged love story between me and @Barebells.usa this is not spons i am just insane</title>
@@ -91,5 +83,13 @@
     <content>Society is a  construct 😡</content>
     <link href="https://tiktok.com/@ratatootle/video/7237106905234132267" rel="alternate"/>
     <published>2023-05-25T13:11:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ratatootle/video/7237483495361137963</id>
+    <title>On my way to gossip w my therapist </title>
+    <updated>2023-05-26T13:32:30+00:00</updated>
+    <content>On my way to gossip w my therapist </content>
+    <link href="https://tiktok.com/@ratatootle/video/7237483495361137963" rel="alternate"/>
+    <published>2023-05-26T13:32:30+00:00</published>
   </entry>
 </feed>
