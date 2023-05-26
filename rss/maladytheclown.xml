@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maladytheclown</id>
   <title>@maladytheclown | TikTok</title>
-  <updated>2023-05-25T23:56:20+00:00</updated>
+  <updated>2023-05-26T12:35:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maladytheclown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maladytheclown/video/7233056804844997893</id>
-    <title>#onthisday #maladytheclown #maladyandglum #makeupartist #cosplay </title>
-    <updated>2023-05-14T15:14:35+00:00</updated>
-    <content>#onthisday #maladytheclown #maladyandglum #makeupartist #cosplay </content>
-    <link href="https://tiktok.com/@maladytheclown/video/7233056804844997893" rel="alternate"/>
-    <published>2023-05-14T15:14:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maladytheclown/video/7234135023769799942</id>
     <title>new costumes and characters coming ❤️ #onthisday #maladytheclown #clown #cosplay</title>
@@ -91,5 +83,13 @@
     <content>#onthisday #maladytheclown </content>
     <link href="https://tiktok.com/@maladytheclown/video/7237273199342275845" rel="alternate"/>
     <published>2023-05-25T23:56:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maladytheclown/video/7237468933106830597</id>
+    <title>#onthisday #clown #maladytheclown #petpuppies #cosplay #comedy</title>
+    <updated>2023-05-26T12:35:54+00:00</updated>
+    <content>#onthisday #clown #maladytheclown #petpuppies #cosplay #comedy</content>
+    <link href="https://tiktok.com/@maladytheclown/video/7237468933106830597" rel="alternate"/>
+    <published>2023-05-26T12:35:54+00:00</published>
   </entry>
 </feed>
