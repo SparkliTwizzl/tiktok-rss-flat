@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avocadosnaliens</id>
   <title>@avocadosnaliens | TikTok</title>
-  <updated>2023-05-24T19:38:14+00:00</updated>
+  <updated>2023-05-26T02:34:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avocadosnaliens</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avocadosnaliens/video/7230919143825100078</id>
-    <title>#greenscreen #sephora </title>
-    <updated>2023-05-08T20:59:27+00:00</updated>
-    <content>#greenscreen #sephora </content>
-    <link href="https://tiktok.com/@avocadosnaliens/video/7230919143825100078" rel="alternate"/>
-    <published>2023-05-08T20:59:27+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@avocadosnaliens/video/7231614964308380974</id>
-    <title>This is ur sign that life is a simulation and also to dress like your 6th grade art teacher. Also im ur dAAAAAAAAAD</title>
-    <updated>2023-05-10T17:59:38+00:00</updated>
-    <content>This is ur sign that life is a simulation and also to dress like your 6th grade art teacher. Also im ur dAAAAAAAAAD</content>
-    <link href="https://tiktok.com/@avocadosnaliens/video/7231614964308380974" rel="alternate"/>
-    <published>2023-05-10T17:59:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avocadosnaliens/video/7232021498578488619</id>
     <title>Who remembers this heartbreaker bop? #grwm #photographersoftiktok </title>
@@ -91,5 +75,21 @@
     <content>#greenscreenvideo im just waking up and i just wanted to get a few things off my chest  #mattrife #bertkreischer #realtalk </content>
     <link href="https://tiktok.com/@avocadosnaliens/video/7236835576492739883" rel="alternate"/>
     <published>2023-05-24T19:38:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7237295456068439339</id>
+    <title>Sorry i had to reupload😭</title>
+    <updated>2023-05-26T01:22:48+00:00</updated>
+    <content>Sorry i had to reupload😭</content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7237295456068439339" rel="alternate"/>
+    <published>2023-05-26T01:22:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7237313807717223726</id>
+    <title>Should i?</title>
+    <updated>2023-05-26T02:34:00+00:00</updated>
+    <content>Should i?</content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7237313807717223726" rel="alternate"/>
+    <published>2023-05-26T02:34:00+00:00</published>
   </entry>
 </feed>
