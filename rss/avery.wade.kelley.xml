@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-05-24T19:02:32+00:00</updated>
+  <updated>2023-05-26T14:23:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7234622822621056302</id>
-    <title>#duet with @Royal &amp; the Serpent O pledge allegiance... #fyp #trans </title>
-    <updated>2023-05-18T20:31:38+00:00</updated>
-    <content>#duet with @Royal &amp; the Serpent O pledge allegiance... #fyp #trans </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7234622822621056302" rel="alternate"/>
-    <published>2023-05-18T20:31:38+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7234982757926047022</id>
-    <title>Taking a break to see some awesome bands at Rockville and trying to enjoy my life. #from #trans </title>
-    <updated>2023-05-19T19:48:26+00:00</updated>
-    <content>Taking a break to see some awesome bands at Rockville and trying to enjoy my life. #from #trans </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7234982757926047022" rel="alternate"/>
-    <published>2023-05-19T19:48:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7235329950411132203</id>
     <title>If you see a negative comment or person saying some fuckshit, tag me in their comment and I will block them. Don't waste your time on close minded people. #fyp #trans </title>
@@ -91,5 +75,21 @@
     <content>Stay safe, FL siblings. 🖤🏳️‍⚧️ #fyp #trans </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7236826384360836398" rel="alternate"/>
     <published>2023-05-24T19:02:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7237495544778689838</id>
+    <title>If we accept our differences, and live and let live, we would truly know what humanity means. #fyp </title>
+    <updated>2023-05-26T14:19:17+00:00</updated>
+    <content>If we accept our differences, and live and let live, we would truly know what humanity means. #fyp </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7237495544778689838" rel="alternate"/>
+    <published>2023-05-26T14:19:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7237496539906805038</id>
+    <title>Colorized. #fyp #trans </title>
+    <updated>2023-05-26T14:23:14+00:00</updated>
+    <content>Colorized. #fyp #trans </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7237496539906805038" rel="alternate"/>
+    <published>2023-05-26T14:23:14+00:00</published>
   </entry>
 </feed>
