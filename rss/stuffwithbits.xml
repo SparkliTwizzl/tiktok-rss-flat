@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-05-25T23:32:41+00:00</updated>
+  <updated>2023-05-26T10:44:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7236191995109248302</id>
-    <title>It looks like Kuiper and Kestrel's cottage! #solardidsystem #ssperegrine IB: @Mångata System </title>
-    <updated>2023-05-23T02:00:47+00:00</updated>
-    <content>It looks like Kuiper and Kestrel's cottage! #solardidsystem #ssperegrine IB: @Mångata System </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7236191995109248302" rel="alternate"/>
-    <published>2023-05-23T02:00:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7236380943785692458</id>
     <title>#solardidsystem #aifilter #tattoos </title>
@@ -91,5 +83,13 @@
     <content>Don't worry if we don't post this weekend. We need to rest our mind and body so the brain can finish whatever the hell it's doing. Therapy is Tuesday. -Peregrine (yes, I'm still front stuck) #solardidsystem </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7237267073599147306" rel="alternate"/>
     <published>2023-05-25T23:32:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7237440266511355182</id>
+    <title>🙃 -Peregrine (they/them) #solardidsystem #ssperegrine </title>
+    <updated>2023-05-26T10:44:54+00:00</updated>
+    <content>🙃 -Peregrine (they/them) #solardidsystem #ssperegrine </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7237440266511355182" rel="alternate"/>
+    <published>2023-05-26T10:44:54+00:00</published>
   </entry>
 </feed>
