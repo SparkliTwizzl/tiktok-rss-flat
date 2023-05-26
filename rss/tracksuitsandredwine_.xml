@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@tracksuitsandredwine_</id>
   <title>@tracksuitsandredwine_ | TikTok</title>
-  <updated>2023-05-23T23:32:12+00:00</updated>
+  <updated>2023-05-26T04:27:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @tracksuitsandredwine_</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tracksuitsandredwine_/video/7234770701394152705</id>
-    <title>back when my curtains were curtaining </title>
-    <updated>2023-05-19T06:05:23+00:00</updated>
-    <content>back when my curtains were curtaining </content>
-    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7234770701394152705" rel="alternate"/>
-    <published>2023-05-19T06:05:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tracksuitsandredwine_/video/7234872494736395522</id>
     <title>so many posts i am so sorry x</title>
@@ -91,5 +83,13 @@
     <content>🦛 </content>
     <link href="https://tiktok.com/@tracksuitsandredwine_/video/7236524749868764418" rel="alternate"/>
     <published>2023-05-23T23:32:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tracksuitsandredwine_/video/7237343062102396161</id>
+    <title>draft xx</title>
+    <updated>2023-05-26T04:27:29+00:00</updated>
+    <content>draft xx</content>
+    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7237343062102396161" rel="alternate"/>
+    <published>2023-05-26T04:27:29+00:00</published>
   </entry>
 </feed>
