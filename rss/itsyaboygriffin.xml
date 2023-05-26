@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@itsyaboygriffin</id>
   <title>@itsyaboygriffin | TikTok</title>
-  <updated>2023-05-15T21:32:36+00:00</updated>
+  <updated>2023-05-26T16:15:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @itsyaboygriffin</subtitle>
-  <entry>
-    <id>https://tiktok.com/@itsyaboygriffin/video/7077686287569816875</id>
-    <title>I tried this like 10 times and this was the best I could get 😐</title>
-    <updated>2022-03-21T22:37:34+00:00</updated>
-    <content>I tried this like 10 times and this was the best I could get 😐</content>
-    <link href="https://tiktok.com/@itsyaboygriffin/video/7077686287569816875" rel="alternate"/>
-    <published>2022-03-21T22:37:34+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@itsyaboygriffin/video/7080953372702068014</id>
     <title>being the villain &gt; being the hero</title>
@@ -91,5 +83,13 @@
     <content>looking blessed 🙏🙏</content>
     <link href="https://tiktok.com/@itsyaboygriffin/video/7233525289509276970" rel="alternate"/>
     <published>2023-05-15T21:32:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@itsyaboygriffin/video/7237525564284767534</id>
+    <title>This is my content now</title>
+    <updated>2023-05-26T16:15:44+00:00</updated>
+    <content>This is my content now</content>
+    <link href="https://tiktok.com/@itsyaboygriffin/video/7237525564284767534" rel="alternate"/>
+    <published>2023-05-26T16:15:44+00:00</published>
   </entry>
 </feed>
