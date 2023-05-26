@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@grouch_thebird</id>
   <title>@grouch_thebird | TikTok</title>
-  <updated>2023-05-25T04:37:47+00:00</updated>
+  <updated>2023-05-26T21:14:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @grouch_thebird</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grouch_thebird/video/7234750469300669739</id>
-    <title>[no title]</title>
-    <updated>2023-05-19T04:47:03+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@grouch_thebird/video/7234750469300669739" rel="alternate"/>
-    <published>2023-05-19T04:47:03+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@grouch_thebird/video/7234752596295028010</id>
-    <title>[no title]</title>
-    <updated>2023-05-19T04:55:15+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@grouch_thebird/video/7234752596295028010" rel="alternate"/>
-    <published>2023-05-19T04:55:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grouch_thebird/video/7235429791216700715</id>
     <title>shhhh the spiders are just finishing up </title>
@@ -91,5 +75,21 @@
     <content>just keep suppressing just keep suppressing</content>
     <link href="https://tiktok.com/@grouch_thebird/video/7236974575991442731" rel="alternate"/>
     <published>2023-05-25T04:37:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grouch_thebird/video/7237601189360291118</id>
+    <title>[no title]</title>
+    <updated>2023-05-26T21:09:13+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@grouch_thebird/video/7237601189360291118" rel="alternate"/>
+    <published>2023-05-26T21:09:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grouch_thebird/video/7237602649745460522</id>
+    <title>[no title]</title>
+    <updated>2023-05-26T21:14:50+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@grouch_thebird/video/7237602649745460522" rel="alternate"/>
+    <published>2023-05-26T21:14:50+00:00</published>
   </entry>
 </feed>
