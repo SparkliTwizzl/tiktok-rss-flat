@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kamehalani</id>
   <title>@kamehalani | TikTok</title>
-  <updated>2023-05-25T16:33:29+00:00</updated>
+  <updated>2023-05-26T05:42:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kamehalani</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kamehalani/video/7231642803120688430</id>
-    <title>Replying to @(((alitza/sybil))) #greenscreen please get it together. #aapifamily #aapiheritagemonth #jewish #nativehawaiian #kanaka #jewtok </title>
-    <updated>2023-05-10T19:47:52+00:00</updated>
-    <content>Replying to @(((alitza/sybil))) #greenscreen please get it together. #aapifamily #aapiheritagemonth #jewish #nativehawaiian #kanaka #jewtok </content>
-    <link href="https://tiktok.com/@kamehalani/video/7231642803120688430" rel="alternate"/>
-    <published>2023-05-10T19:47:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kamehalani/video/7231974294790704427</id>
     <title>Omg Dolly please release the part here about the politicians #dollyparton #politics @Dolly Parton </title>
@@ -91,5 +83,13 @@
     <content>Yeah…</content>
     <link href="https://tiktok.com/@kamehalani/video/7237159011072757034" rel="alternate"/>
     <published>2023-05-25T16:33:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kamehalani/video/7237362390114028846</id>
+    <title>New skin who dis? #saawareness #sasurvivor </title>
+    <updated>2023-05-26T05:42:38+00:00</updated>
+    <content>New skin who dis? #saawareness #sasurvivor </content>
+    <link href="https://tiktok.com/@kamehalani/video/7237362390114028846" rel="alternate"/>
+    <published>2023-05-26T05:42:38+00:00</published>
   </entry>
 </feed>
