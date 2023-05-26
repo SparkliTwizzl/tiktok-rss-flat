@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-05-25T20:53:46+00:00</updated>
+  <updated>2023-05-26T20:02:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7233885386144042283</id>
-    <title>Fantasy moment with my love @April Draven #fantasy#fantasycosplay #knightcore #knightcosplay #ladyknight </title>
-    <updated>2023-05-16T20:50:02+00:00</updated>
-    <content>Fantasy moment with my love @April Draven #fantasy#fantasycosplay #knightcore #knightcosplay #ladyknight </content>
-    <link href="https://tiktok.com/@athena__cos/video/7233885386144042283" rel="alternate"/>
-    <published>2023-05-16T20:50:02+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7234262613398490411</id>
     <title>Whos ready for more Kassandra content coming soon?? 👀 #avatar #korracosplay #avatarcosplay </title>
@@ -91,5 +83,13 @@
     <content>I heard someone describe this trend as “dress for the job you want” #kassandracosplay #assassinscreedcosplay #assassinscreedodysey </content>
     <link href="https://tiktok.com/@athena__cos/video/7237226134746959150" rel="alternate"/>
     <published>2023-05-25T20:53:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7237584087127510318</id>
+    <title>Honorable mention, is somehow teleporting to her spear when she throws it #assassinscreedcosplay #assassinscreedodyyssey #kassandracosplay #womenwithswords #gamer </title>
+    <updated>2023-05-26T20:02:50+00:00</updated>
+    <content>Honorable mention, is somehow teleporting to her spear when she throws it #assassinscreedcosplay #assassinscreedodyyssey #kassandracosplay #womenwithswords #gamer </content>
+    <link href="https://tiktok.com/@athena__cos/video/7237584087127510318" rel="alternate"/>
+    <published>2023-05-26T20:02:50+00:00</published>
   </entry>
 </feed>

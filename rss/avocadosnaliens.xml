@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avocadosnaliens</id>
   <title>@avocadosnaliens | TikTok</title>
-  <updated>2023-05-26T02:34:00+00:00</updated>
+  <updated>2023-05-26T19:06:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avocadosnaliens</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avocadosnaliens/video/7232021498578488619</id>
-    <title>Who remembers this heartbreaker bop? #grwm #photographersoftiktok </title>
-    <updated>2023-05-11T20:17:16+00:00</updated>
-    <content>Who remembers this heartbreaker bop? #grwm #photographersoftiktok </content>
-    <link href="https://tiktok.com/@avocadosnaliens/video/7232021498578488619" rel="alternate"/>
-    <published>2023-05-11T20:17:16+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@avocadosnaliens/video/7232386458105957675</id>
-    <title>[no title]</title>
-    <updated>2023-05-12T19:53:30+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@avocadosnaliens/video/7232386458105957675" rel="alternate"/>
-    <published>2023-05-12T19:53:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avocadosnaliens/video/7233951844152724778</id>
     <title>#screammovie #aifilter </title>
@@ -91,5 +75,21 @@
     <content>Should i?</content>
     <link href="https://tiktok.com/@avocadosnaliens/video/7237313807717223726" rel="alternate"/>
     <published>2023-05-26T02:34:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7237567057569565994</id>
+    <title>#stitch with @Tarotsdiviner6 </title>
+    <updated>2023-05-26T18:56:44+00:00</updated>
+    <content>#stitch with @Tarotsdiviner6 </content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7237567057569565994" rel="alternate"/>
+    <published>2023-05-26T18:56:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7237569567420157227</id>
+    <title>Am i being haunted?</title>
+    <updated>2023-05-26T19:06:31+00:00</updated>
+    <content>Am i being haunted?</content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7237569567420157227" rel="alternate"/>
+    <published>2023-05-26T19:06:31+00:00</published>
   </entry>
 </feed>
