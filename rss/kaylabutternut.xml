@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-05-24T19:56:37+00:00</updated>
+  <updated>2023-05-26T02:49:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7235401756409187627</id>
-    <title>Rare car content on main</title>
-    <updated>2023-05-20T22:54:18+00:00</updated>
-    <content>Rare car content on main</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7235401756409187627" rel="alternate"/>
-    <published>2023-05-20T22:54:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7235405022635461934</id>
     <title>[no title]</title>
@@ -91,5 +83,13 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7236840319801740590" rel="alternate"/>
     <published>2023-05-24T19:56:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7237317905606757678</id>
+    <title>[no title]</title>
+    <updated>2023-05-26T02:49:58+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7237317905606757678" rel="alternate"/>
+    <published>2023-05-26T02:49:58+00:00</published>
   </entry>
 </feed>
