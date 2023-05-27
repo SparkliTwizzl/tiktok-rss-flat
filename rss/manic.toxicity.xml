@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@manic.toxicity</id>
   <title>@manic.toxicity | TikTok</title>
-  <updated>2023-05-27T02:15:17+00:00</updated>
+  <updated>2023-05-27T20:24:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @manic.toxicity</subtitle>
-  <entry>
-    <id>https://tiktok.com/@manic.toxicity/video/7234637306395626795</id>
-    <title>if my skin continued to break out, i will promptly find the fastest ongoing train to give a lil kiss to #fyp #foryou </title>
-    <updated>2023-05-18T21:27:49+00:00</updated>
-    <content>if my skin continued to break out, i will promptly find the fastest ongoing train to give a lil kiss to #fyp #foryou </content>
-    <link href="https://tiktok.com/@manic.toxicity/video/7234637306395626795" rel="alternate"/>
-    <published>2023-05-18T21:27:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@manic.toxicity/video/7234994197953432878</id>
     <title>i am in PAIN. i wanna go HOME. #fyp #foryou </title>
@@ -91,5 +83,13 @@
     <content>taste of her cherry capstick  #fyp #foryou </content>
     <link href="https://tiktok.com/@manic.toxicity/video/7237680055449619754" rel="alternate"/>
     <published>2023-05-27T02:15:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@manic.toxicity/video/7237960755285347626</id>
+    <title>pray for us #fyp #foryou </title>
+    <updated>2023-05-27T20:24:31+00:00</updated>
+    <content>pray for us #fyp #foryou </content>
+    <link href="https://tiktok.com/@manic.toxicity/video/7237960755285347626" rel="alternate"/>
+    <published>2023-05-27T20:24:31+00:00</published>
   </entry>
 </feed>
