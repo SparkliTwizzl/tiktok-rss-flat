@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-05-26T13:15:08+00:00</updated>
+  <updated>2023-05-27T02:40:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7234507682349108486</id>
-    <title>[no title]</title>
-    <updated>2023-05-18T13:04:43+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7234507682349108486" rel="alternate"/>
-    <published>2023-05-18T13:04:43+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7234659533262572806</id>
     <title>😝 #mushroomcosplay #mushroomdance #mariomushrooms </title>
@@ -91,5 +83,13 @@
     <content>#onthisday #maladytheclown #clown #somepeople</content>
     <link href="https://tiktok.com/@dancesinshadows/video/7237479052200938757" rel="alternate"/>
     <published>2023-05-26T13:15:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7237686687319756037</id>
+    <title>#clown #maladytheclown #goldengirls </title>
+    <updated>2023-05-27T02:40:54+00:00</updated>
+    <content>#clown #maladytheclown #goldengirls </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7237686687319756037" rel="alternate"/>
+    <published>2023-05-27T02:40:54+00:00</published>
   </entry>
 </feed>
