@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-05-26T10:44:54+00:00</updated>
+  <updated>2023-05-27T18:46:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7236380943785692458</id>
-    <title>#solardidsystem #aifilter #tattoos </title>
-    <updated>2023-05-23T14:14:03+00:00</updated>
-    <content>#solardidsystem #aifilter #tattoos </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7236380943785692458" rel="alternate"/>
-    <published>2023-05-23T14:14:03+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7236399077288594730</id>
-    <title>Replying to @jadyn_sage #reply #solardidsystem #ssperegrine #dissociativeidentitydisorder #PDID </title>
-    <updated>2023-05-23T15:24:23+00:00</updated>
-    <content>Replying to @jadyn_sage #reply #solardidsystem #ssperegrine #dissociativeidentitydisorder #PDID </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7236399077288594730" rel="alternate"/>
-    <published>2023-05-23T15:24:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7236419842268597546</id>
     <title>heya 👋 you can call me Perry 😊 #solardidsystem #ssperegrine #dissociativeidentitydisorder </title>
@@ -91,5 +75,21 @@
     <content>🙃 -Peregrine (they/them) #solardidsystem #ssperegrine </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7237440266511355182" rel="alternate"/>
     <published>2023-05-26T10:44:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7237925416105741614</id>
+    <title>#answer to @rebeccaweerts The fog is gone and hopefully that means we're out of this. Still taking this weekend to rest, but wanted to update y'all. #solardidsystem #ssjynx #dissociativeidentitydisorder </title>
+    <updated>2023-05-27T18:07:23+00:00</updated>
+    <content>#answer to @rebeccaweerts The fog is gone and hopefully that means we're out of this. Still taking this weekend to rest, but wanted to update y'all. #solardidsystem #ssjynx #dissociativeidentitydisorder </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7237925416105741614" rel="alternate"/>
+    <published>2023-05-27T18:07:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7237935297760087339</id>
+    <title>Replying to @stuffwithbits The Solar System as of May 27, 2023 #solardidsystem #dissociativeidentitydisorder </title>
+    <updated>2023-05-27T18:46:16+00:00</updated>
+    <content>Replying to @stuffwithbits The Solar System as of May 27, 2023 #solardidsystem #dissociativeidentitydisorder </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7237935297760087339" rel="alternate"/>
+    <published>2023-05-27T18:46:16+00:00</published>
   </entry>
 </feed>
