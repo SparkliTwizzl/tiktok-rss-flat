@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-05-27T22:12:34+00:00</updated>
+  <updated>2023-05-28T00:06:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7236109659982023982</id>
-    <title>#duet with @Brian Lange USN(retired) They can't pretend they're not targeting us anymore. They fucking can't. #fyp #trans </title>
-    <updated>2023-05-22T20:41:24+00:00</updated>
-    <content>#duet with @Brian Lange USN(retired) They can't pretend they're not targeting us anymore. They fucking can't. #fyp #trans </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7236109659982023982" rel="alternate"/>
-    <published>2023-05-22T20:41:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7236376515838086446</id>
     <title>Replying to @amoryslaysvamps Thank you. #fyp #trans </title>
@@ -91,5 +83,13 @@
     <content>Thank you. #fyp #mentalhealth </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7237988571414646059" rel="alternate"/>
     <published>2023-05-27T22:12:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7238017867520806187</id>
+    <title>#duet with @Skulls </title>
+    <updated>2023-05-28T00:06:10+00:00</updated>
+    <content>#duet with @Skulls </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7238017867520806187" rel="alternate"/>
+    <published>2023-05-28T00:06:10+00:00</published>
   </entry>
 </feed>
