@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-05-27T18:46:16+00:00</updated>
+  <updated>2023-05-28T17:07:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7236419842268597546</id>
-    <title>heya 👋 you can call me Perry 😊 #solardidsystem #ssperegrine #dissociativeidentitydisorder </title>
-    <updated>2023-05-23T16:45:01+00:00</updated>
-    <content>heya 👋 you can call me Perry 😊 #solardidsystem #ssperegrine #dissociativeidentitydisorder </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7236419842268597546" rel="alternate"/>
-    <published>2023-05-23T16:45:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7236437399851781422</id>
     <title>#stitch with @KingForJesus how was it? since it was yesterday apparently. sorry you're still here 🤣 #ssperegrine #solardidsystem </title>
@@ -91,5 +83,13 @@
     <content>Replying to @stuffwithbits The Solar System as of May 27, 2023 #solardidsystem #dissociativeidentitydisorder </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7237935297760087339" rel="alternate"/>
     <published>2023-05-27T18:46:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7238281012747193646</id>
+    <title>I'm proud of you! #solardidsystem #ssjynx #food #eating </title>
+    <updated>2023-05-28T17:07:20+00:00</updated>
+    <content>I'm proud of you! #solardidsystem #ssjynx #food #eating </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7238281012747193646" rel="alternate"/>
+    <published>2023-05-28T17:07:20+00:00</published>
   </entry>
 </feed>
