@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-05-28T05:26:49+00:00</updated>
+  <updated>2023-05-28T09:27:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7237317905606757678</id>
-    <title>[no title]</title>
-    <updated>2023-05-26T02:49:58+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7237317905606757678" rel="alternate"/>
-    <published>2023-05-26T02:49:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7237359779931278638</id>
     <title>[no title]</title>
@@ -91,5 +83,13 @@
     <content>Do you put anything special in your ramen</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7238100456977812779" rel="alternate"/>
     <published>2023-05-28T05:26:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7238162200798432555</id>
+    <title>Chose happiness </title>
+    <updated>2023-05-28T09:27:14+00:00</updated>
+    <content>Chose happiness </content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7238162200798432555" rel="alternate"/>
+    <published>2023-05-28T09:27:14+00:00</published>
   </entry>
 </feed>
