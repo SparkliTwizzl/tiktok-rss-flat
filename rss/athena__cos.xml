@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-05-27T20:33:24+00:00</updated>
+  <updated>2023-05-28T17:39:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7234616458033073450</id>
-    <title>@Shay 🦊prototype fox  head nuzzles are everything to me 💜💜 #rwby #rwbycosplay #wlw #yangcosplay #blakecosplay </title>
-    <updated>2023-05-18T20:06:57+00:00</updated>
-    <content>@Shay 🦊prototype fox  head nuzzles are everything to me 💜💜 #rwby #rwbycosplay #wlw #yangcosplay #blakecosplay </content>
-    <link href="https://tiktok.com/@athena__cos/video/7234616458033073450" rel="alternate"/>
-    <published>2023-05-18T20:06:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7234637938506796334</id>
     <title>The spring version of my dance with bella with my og knight dance partner!  #ladyknight #knightcore #knightcosplay #fantasy #wlw </title>
@@ -91,5 +83,13 @@
     <content>This quote fits Sukuna so well!!  #jujutsukaisen #jujutsukaisencosplay #animecosplay #sukuna #sukunacosplay #gojousatoru #jjk #animegirl </content>
     <link href="https://tiktok.com/@athena__cos/video/7237963032595320106" rel="alternate"/>
     <published>2023-05-27T20:33:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7238289358220987690</id>
+    <title>The fit was sponsored by @nevstudio 🖤🖤 #streetwear #techwear #animeedit #jjk #jjkcosplay </title>
+    <updated>2023-05-28T17:39:46+00:00</updated>
+    <content>The fit was sponsored by @nevstudio 🖤🖤 #streetwear #techwear #animeedit #jjk #jjkcosplay </content>
+    <link href="https://tiktok.com/@athena__cos/video/7238289358220987690" rel="alternate"/>
+    <published>2023-05-28T17:39:46+00:00</published>
   </entry>
 </feed>
