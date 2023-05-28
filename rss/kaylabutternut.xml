@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-05-26T21:45:12+00:00</updated>
+  <updated>2023-05-28T03:13:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7236112316037664042</id>
-    <title>[no title]</title>
-    <updated>2023-05-22T20:51:43+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7236112316037664042" rel="alternate"/>
-    <published>2023-05-22T20:51:43+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7236153190268308779</id>
-    <title>[no title]</title>
-    <updated>2023-05-22T23:30:16+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7236153190268308779" rel="alternate"/>
-    <published>2023-05-22T23:30:16+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7236215270547803438</id>
-    <title>Back in the hot tub</title>
-    <updated>2023-05-23T03:31:07+00:00</updated>
-    <content>Back in the hot tub</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7236215270547803438" rel="alternate"/>
-    <published>2023-05-23T03:31:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7236840319801740590</id>
     <title>[no title]</title>
@@ -91,5 +67,29 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7237610462052011310" rel="alternate"/>
     <published>2023-05-26T21:45:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7238043760829992235</id>
+    <title>Back in my room</title>
+    <updated>2023-05-28T01:46:41+00:00</updated>
+    <content>Back in my room</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7238043760829992235" rel="alternate"/>
+    <published>2023-05-28T01:46:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7238049824526978347</id>
+    <title>If you remember this song I’ll marry you</title>
+    <updated>2023-05-28T02:10:13+00:00</updated>
+    <content>If you remember this song I’ll marry you</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7238049824526978347" rel="alternate"/>
+    <published>2023-05-28T02:10:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7238066025336622382</id>
+    <title>I put a funny voice over it so I’d stop crying</title>
+    <updated>2023-05-28T03:13:04+00:00</updated>
+    <content>I put a funny voice over it so I’d stop crying</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7238066025336622382" rel="alternate"/>
+    <published>2023-05-28T03:13:04+00:00</published>
   </entry>
 </feed>
