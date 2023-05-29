@@ -7,7 +7,6 @@
 - [avery.wade.kelley](https://tiktokrss.uselesslesbians.gay/rss/avery.wade.kelley.xml)
 - [avocadosnaliens](https://tiktokrss.uselesslesbians.gay/rss/avocadosnaliens.xml)
 - [charlesthegr8](https://tiktokrss.uselesslesbians.gay/rss/charlesthegr8.xml)
-- [claudcirillo](https://tiktokrss.uselesslesbians.gay/rss/claudcirillo.xml)
 - [dancesinshadows](https://tiktokrss.uselesslesbians.gay/rss/dancesinshadows.xml)
 - [dannyphantom.exe](https://tiktokrss.uselesslesbians.gay/rss/dannyphantom.exe.xml)
 - [grouch_thebird](https://tiktokrss.uselesslesbians.gay/rss/grouch_thebird.xml)
