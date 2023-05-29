@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-05-29T01:01:26+00:00</updated>
+  <updated>2023-05-29T04:31:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7237442152920272170</id>
-    <title>Good morning do you want anything from mcdeez</title>
-    <updated>2023-05-26T10:52:07+00:00</updated>
-    <content>Good morning do you want anything from mcdeez</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7237442152920272170" rel="alternate"/>
-    <published>2023-05-26T10:52:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7237610462052011310</id>
     <title>[no title]</title>
@@ -91,5 +83,13 @@
     <content>Someone said spicy spongebob and I cant unsee it</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7238403194257198379" rel="alternate"/>
     <published>2023-05-29T01:01:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7238457279798840618</id>
+    <title>Fyp asleep? Is anyone there?</title>
+    <updated>2023-05-29T04:31:27+00:00</updated>
+    <content>Fyp asleep? Is anyone there?</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7238457279798840618" rel="alternate"/>
+    <published>2023-05-29T04:31:27+00:00</published>
   </entry>
 </feed>
