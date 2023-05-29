@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-05-29T04:31:27+00:00</updated>
+  <updated>2023-05-29T07:22:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7237610462052011310</id>
-    <title>[no title]</title>
-    <updated>2023-05-26T21:45:12+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7237610462052011310" rel="alternate"/>
-    <published>2023-05-26T21:45:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7238043760829992235</id>
     <title>Back in my room</title>
@@ -91,5 +83,13 @@
     <content>Fyp asleep? Is anyone there?</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7238457279798840618" rel="alternate"/>
     <published>2023-05-29T04:31:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7238501206895709482</id>
+    <title>2:22</title>
+    <updated>2023-05-29T07:22:27+00:00</updated>
+    <content>2:22</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7238501206895709482" rel="alternate"/>
+    <published>2023-05-29T07:22:27+00:00</published>
   </entry>
 </feed>
