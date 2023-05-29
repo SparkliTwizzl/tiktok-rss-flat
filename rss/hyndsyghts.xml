@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@hyndsyghts</id>
   <title>@hyndsyghts | TikTok</title>
-  <updated>2023-05-29T17:57:57+00:00</updated>
+  <updated>2023-05-29T20:31:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @hyndsyghts</subtitle>
-  <entry>
-    <id>https://tiktok.com/@hyndsyghts/video/7234255429079960874</id>
-    <title>#therapy #lgbtq </title>
-    <updated>2023-05-17T20:45:58+00:00</updated>
-    <content>#therapy #lgbtq </content>
-    <link href="https://tiktok.com/@hyndsyghts/video/7234255429079960874" rel="alternate"/>
-    <published>2023-05-17T20:45:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@hyndsyghts/video/7234290314733817130</id>
     <title>"impaired ability to be aware of, explicitly identify, and describe one's feelings" #alexithymia #actuallyautistic #lgbtq </title>
@@ -91,5 +83,13 @@
     <content>#careerchange #selfimprovement #lgbtq #wlw #tech </content>
     <link href="https://tiktok.com/@hyndsyghts/video/7238665155104689454" rel="alternate"/>
     <published>2023-05-29T17:57:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@hyndsyghts/video/7238704641142312234</id>
+    <title>#masking #actuallyautistic #lgbtq </title>
+    <updated>2023-05-29T20:31:20+00:00</updated>
+    <content>#masking #actuallyautistic #lgbtq </content>
+    <link href="https://tiktok.com/@hyndsyghts/video/7238704641142312234" rel="alternate"/>
+    <published>2023-05-29T20:31:20+00:00</published>
   </entry>
 </feed>
