@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-05-28T20:39:23+00:00</updated>
+  <updated>2023-05-29T01:01:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7237362124039654698</id>
-    <title>Bruh should I tag them</title>
-    <updated>2023-05-26T05:41:33+00:00</updated>
-    <content>Bruh should I tag them</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7237362124039654698" rel="alternate"/>
-    <published>2023-05-26T05:41:33+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7237398159436336430</id>
-    <title>Jumpscare </title>
-    <updated>2023-05-26T08:01:31+00:00</updated>
-    <content>Jumpscare </content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7237398159436336430" rel="alternate"/>
-    <published>2023-05-26T08:01:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7237442152920272170</id>
     <title>Good morning do you want anything from mcdeez</title>
@@ -91,5 +75,21 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7238335653124279598" rel="alternate"/>
     <published>2023-05-28T20:39:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7238399482088410410</id>
+    <title>I’m going swimming :)</title>
+    <updated>2023-05-29T00:47:03+00:00</updated>
+    <content>I’m going swimming :)</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7238399482088410410" rel="alternate"/>
+    <published>2023-05-29T00:47:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7238403194257198379</id>
+    <title>Someone said spicy spongebob and I cant unsee it</title>
+    <updated>2023-05-29T01:01:26+00:00</updated>
+    <content>Someone said spicy spongebob and I cant unsee it</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7238403194257198379" rel="alternate"/>
+    <published>2023-05-29T01:01:26+00:00</published>
   </entry>
 </feed>
