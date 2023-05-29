@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dannyphantom.exe</id>
   <title>@dannyphantom.exe | TikTok</title>
-  <updated>2023-05-28T02:19:47+00:00</updated>
+  <updated>2023-05-29T02:16:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dannyphantom.exe</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7236196971466231083</id>
-    <title>on a serious note respect your partner’s boundaries. be kind and listen to each ither, and only be disrespectful when they want you to ;)</title>
-    <updated>2023-05-23T02:20:08+00:00</updated>
-    <content>on a serious note respect your partner’s boundaries. be kind and listen to each ither, and only be disrespectful when they want you to ;)</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7236196971466231083" rel="alternate"/>
-    <published>2023-05-23T02:20:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dannyphantom.exe/video/7236566851541568814</id>
     <title>tag the ADHD friend </title>
@@ -91,5 +83,13 @@
     <content>tag ur best friend </content>
     <link href="https://tiktok.com/@dannyphantom.exe/video/7238052304778333486" rel="alternate"/>
     <published>2023-05-28T02:19:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7238422594075086126</id>
+    <title>tag ur best friend @Arny </title>
+    <updated>2023-05-29T02:16:41+00:00</updated>
+    <content>tag ur best friend @Arny </content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7238422594075086126" rel="alternate"/>
+    <published>2023-05-29T02:16:41+00:00</published>
   </entry>
 </feed>
