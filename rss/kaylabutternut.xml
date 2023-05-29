@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-05-29T07:22:27+00:00</updated>
+  <updated>2023-05-29T21:12:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7238043760829992235</id>
-    <title>Back in my room</title>
-    <updated>2023-05-28T01:46:41+00:00</updated>
-    <content>Back in my room</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7238043760829992235" rel="alternate"/>
-    <published>2023-05-28T01:46:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7238049824526978347</id>
     <title>If you remember this song I’ll marry you</title>
@@ -91,5 +83,13 @@
     <content>2:22</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7238501206895709482" rel="alternate"/>
     <published>2023-05-29T07:22:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7238715305273396522</id>
+    <title>I’m moving soon 👀</title>
+    <updated>2023-05-29T21:12:37+00:00</updated>
+    <content>I’m moving soon 👀</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7238715305273396522" rel="alternate"/>
+    <published>2023-05-29T21:12:37+00:00</published>
   </entry>
 </feed>
