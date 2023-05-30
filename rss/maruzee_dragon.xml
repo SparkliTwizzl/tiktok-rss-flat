@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maruzee_dragon</id>
   <title>@maruzee_dragon | TikTok</title>
-  <updated>2023-05-27T14:18:00+00:00</updated>
+  <updated>2023-05-30T02:22:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maruzee_dragon</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maruzee_dragon/video/7233032776377715974</id>
-    <title>Unleash your creativity with Life Makeover - The dress-up game that lets you style your way to the top! Download now and experience endless fashion possibilities!🤩 Use Code: LM510 Luck draw on Facebook Page!  #LifeMakeover #makeover #fashion #simulationga</title>
-    <updated>2023-05-14T20:06:34+00:00</updated>
-    <content>Unleash your creativity with Life Makeover - The dress-up game that lets you style your way to the top! Download now and experience endless fashion possibilities!🤩 Use Code: LM510 Luck draw on Facebook Page!  #LifeMakeover #makeover #fashion #simulationgame </content>
-    <link href="https://tiktok.com/@maruzee_dragon/video/7233032776377715974" rel="alternate"/>
-    <published>2023-05-14T20:06:34+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maruzee_dragon/video/7233967440399437062</id>
     <title>Réponse à @emmerseless  I wish!🥲...But thank you! #natasharomanoff #blackwidow #avengers #martialarts #skills </title>
@@ -91,5 +83,13 @@
     <content>I'm struggling to decide which tricks I'll do for my next transition...🤔 #martialarts #kicks </content>
     <link href="https://tiktok.com/@maruzee_dragon/video/7237866335403855109" rel="alternate"/>
     <published>2023-05-27T14:18:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maruzee_dragon/video/7238795259214318853</id>
+    <title>Red hair Chun-Li 🤔 #transition #videogames #gamer #streetfighter  #martialarts </title>
+    <updated>2023-05-30T02:22:43+00:00</updated>
+    <content>Red hair Chun-Li 🤔 #transition #videogames #gamer #streetfighter  #martialarts </content>
+    <link href="https://tiktok.com/@maruzee_dragon/video/7238795259214318853" rel="alternate"/>
+    <published>2023-05-30T02:22:43+00:00</published>
   </entry>
 </feed>
