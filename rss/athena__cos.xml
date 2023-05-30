@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-05-28T17:39:46+00:00</updated>
+  <updated>2023-05-30T20:43:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7234637938506796334</id>
-    <title>The spring version of my dance with bella with my og knight dance partner!  #ladyknight #knightcore #knightcosplay #fantasy #wlw </title>
-    <updated>2023-05-18T21:30:17+00:00</updated>
-    <content>The spring version of my dance with bella with my og knight dance partner!  #ladyknight #knightcore #knightcosplay #fantasy #wlw </content>
-    <link href="https://tiktok.com/@athena__cos/video/7234637938506796334" rel="alternate"/>
-    <published>2023-05-18T21:30:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7235007575320939822</id>
     <title>Our recreation of the reunion scene in volume 8 💜❤️💛 #rwby #rwbycosplay </title>
@@ -91,5 +83,13 @@
     <content>The fit was sponsored by @nevstudio 🖤🖤 #streetwear #techwear #animeedit #jjk #jjkcosplay </content>
     <link href="https://tiktok.com/@athena__cos/video/7238289358220987690" rel="alternate"/>
     <published>2023-05-28T17:39:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7239078914356677931</id>
+    <title>Yuji is my favorite character, but OH how Sukuna has a chokehold on me 😂  #streetwear #techwear #jjk #darkwear #jujutsukaisen #jujutsukaisencosplay #anime </title>
+    <updated>2023-05-30T20:43:31+00:00</updated>
+    <content>Yuji is my favorite character, but OH how Sukuna has a chokehold on me 😂  #streetwear #techwear #jjk #darkwear #jujutsukaisen #jujutsukaisencosplay #anime </content>
+    <link href="https://tiktok.com/@athena__cos/video/7239078914356677931" rel="alternate"/>
+    <published>2023-05-30T20:43:31+00:00</published>
   </entry>
 </feed>
