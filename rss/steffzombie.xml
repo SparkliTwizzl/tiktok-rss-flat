@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@steffzombie</id>
   <title>@steffzombie | TikTok</title>
-  <updated>2023-05-30T01:55:27+00:00</updated>
+  <updated>2023-05-30T03:37:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @steffzombie</subtitle>
-  <entry>
-    <id>https://tiktok.com/@steffzombie/video/7207113505541999915</id>
-    <title>Nonbinary people come in so many ways. Those who arent into us are just hating on our identity.  #fy #enbytok </title>
-    <updated>2023-03-05T17:21:32+00:00</updated>
-    <content>Nonbinary people come in so many ways. Those who arent into us are just hating on our identity.  #fy #enbytok </content>
-    <link href="https://tiktok.com/@steffzombie/video/7207113505541999915" rel="alternate"/>
-    <published>2023-03-05T17:21:32+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@steffzombie/video/7207632124109688110</id>
     <title>Their bodies their choice ❤️. If it was a guy did it it would be praised.  #fy </title>
@@ -91,5 +83,13 @@
     <content>Can never be average.  #fyp #fy </content>
     <link href="https://tiktok.com/@steffzombie/video/7238788195826158894" rel="alternate"/>
     <published>2023-05-30T01:55:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@steffzombie/video/7238814504769998126</id>
+    <title>Spy Queer </title>
+    <updated>2023-05-30T03:37:35+00:00</updated>
+    <content>Spy Queer </content>
+    <link href="https://tiktok.com/@steffzombie/video/7238814504769998126" rel="alternate"/>
+    <published>2023-05-30T03:37:35+00:00</published>
   </entry>
 </feed>
