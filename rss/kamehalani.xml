@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kamehalani</id>
   <title>@kamehalani | TikTok</title>
-  <updated>2023-05-26T05:42:38+00:00</updated>
+  <updated>2023-05-30T15:45:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kamehalani</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kamehalani/video/7231974294790704427</id>
-    <title>Omg Dolly please release the part here about the politicians #dollyparton #politics @Dolly Parton </title>
-    <updated>2023-05-11T17:14:20+00:00</updated>
-    <content>Omg Dolly please release the part here about the politicians #dollyparton #politics @Dolly Parton </content>
-    <link href="https://tiktok.com/@kamehalani/video/7231974294790704427" rel="alternate"/>
-    <published>2023-05-11T17:14:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kamehalani/video/7232067541852556586</id>
     <title>Omg yes! #dollyparton #politics #dolly @Dolly Parton </title>
@@ -91,5 +83,13 @@
     <content>New skin who dis? #saawareness #sasurvivor </content>
     <link href="https://tiktok.com/@kamehalani/video/7237362390114028846" rel="alternate"/>
     <published>2023-05-26T05:42:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kamehalani/video/7239002021381049642</id>
+    <title>This life and the last. Always and forever #wlw #lgbt </title>
+    <updated>2023-05-30T15:45:12+00:00</updated>
+    <content>This life and the last. Always and forever #wlw #lgbt </content>
+    <link href="https://tiktok.com/@kamehalani/video/7239002021381049642" rel="alternate"/>
+    <published>2023-05-30T15:45:12+00:00</published>
   </entry>
 </feed>
