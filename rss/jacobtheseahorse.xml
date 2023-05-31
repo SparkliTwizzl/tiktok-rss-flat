@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jacobtheseahorse</id>
   <title>@jacobtheseahorse | TikTok</title>
-  <updated>2023-05-31T10:15:29+00:00</updated>
+  <updated>2023-05-31T10:43:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jacobtheseahorse</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7231831822412320027</id>
-    <title>Replying to @kismetkat22 thanks for the question, I think some people want to cause dissent and so are giving the impression that trans people are forcing things on women, when that's the last thing we want! we are allies in the fight against patriarchy. </title>
-    <updated>2023-05-11T08:01:15+00:00</updated>
-    <content>Replying to @kismetkat22 thanks for the question, I think some people want to cause dissent and so are giving the impression that trans people are forcing things on women, when that's the last thing we want! we are allies in the fight against patriarchy. we are just asking to be included, especially in perinatal spaces where we (and our babies) are more at risk of exclusion.  #trans #ally #chestfeeding #breastfeeding #humanmilk #chestsurgery #infantfeeding #women #midwives #healthvisitors #feminism #intersectionalfeminism </content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7231831822412320027" rel="alternate"/>
-    <published>2023-05-11T08:01:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jacobtheseahorse/video/7231928724923436315</id>
     <title>Replying to @j.j_ghostly there's no guarantees, it really depends on your surgery and recovery as well as how hormones affect you. also don't forget if you have taken testosterone it's important to stop to get pregnant 🏳️‍⚧️ #trans #transman #chestsurgery</title>
@@ -91,5 +83,13 @@
     <content>Replying to @sarasaur89 you're right I guess? but probably not in the way you think you are. #trans #autonomy #freedom #choice #gender #joy #lgbt #pride </content>
     <link href="https://tiktok.com/@jacobtheseahorse/video/7239288115121229083" rel="alternate"/>
     <published>2023-05-31T10:15:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7239295404192451866</id>
+    <title>my next hyperfocus was designing t-shirts so expect to hear about that soon 👀 but seriously... how do I get this focus back to make a  flower picture for my MIL?! ahhhh! #adhd #audhd #actuallyautistic #hyperfocus #timeblindness </title>
+    <updated>2023-05-31T10:43:38+00:00</updated>
+    <content>my next hyperfocus was designing t-shirts so expect to hear about that soon 👀 but seriously... how do I get this focus back to make a  flower picture for my MIL?! ahhhh! #adhd #audhd #actuallyautistic #hyperfocus #timeblindness </content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7239295404192451866" rel="alternate"/>
+    <published>2023-05-31T10:43:38+00:00</published>
   </entry>
 </feed>
