@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@steffzombie</id>
   <title>@steffzombie | TikTok</title>
-  <updated>2023-05-30T03:37:35+00:00</updated>
+  <updated>2023-05-31T18:24:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @steffzombie</subtitle>
-  <entry>
-    <id>https://tiktok.com/@steffzombie/video/7207632124109688110</id>
-    <title>Their bodies their choice ❤️. If it was a guy did it it would be praised.  #fy </title>
-    <updated>2023-03-07T02:53:57+00:00</updated>
-    <content>Their bodies their choice ❤️. If it was a guy did it it would be praised.  #fy </content>
-    <link href="https://tiktok.com/@steffzombie/video/7207632124109688110" rel="alternate"/>
-    <published>2023-03-07T02:53:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@steffzombie/video/7207645567294393646</id>
     <title>Comment uour favorite queer tv show. Series. Characters. #fy #lgbt </title>
@@ -91,5 +83,13 @@
     <content>Spy Queer </content>
     <link href="https://tiktok.com/@steffzombie/video/7238814504769998126" rel="alternate"/>
     <published>2023-05-30T03:37:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@steffzombie/video/7239414196419448107</id>
+    <title>Facts. I thought yall knew ?  #fy </title>
+    <updated>2023-05-31T18:24:34+00:00</updated>
+    <content>Facts. I thought yall knew ?  #fy </content>
+    <link href="https://tiktok.com/@steffzombie/video/7239414196419448107" rel="alternate"/>
+    <published>2023-05-31T18:24:34+00:00</published>
   </entry>
 </feed>
