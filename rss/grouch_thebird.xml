@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@grouch_thebird</id>
   <title>@grouch_thebird | TikTok</title>
-  <updated>2023-05-27T22:59:10+00:00</updated>
+  <updated>2023-05-31T02:04:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @grouch_thebird</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grouch_thebird/video/7236284885336444202</id>
-    <title>gotta have that homie with back problems </title>
-    <updated>2023-05-23T08:01:24+00:00</updated>
-    <content>gotta have that homie with back problems </content>
-    <link href="https://tiktok.com/@grouch_thebird/video/7236284885336444202" rel="alternate"/>
-    <published>2023-05-23T08:01:24+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@grouch_thebird/video/7236288515812674862</id>
-    <title>[no title]</title>
-    <updated>2023-05-23T08:15:30+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@grouch_thebird/video/7236288515812674862" rel="alternate"/>
-    <published>2023-05-23T08:15:30+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@grouch_thebird/video/7236849783548284202</id>
-    <title>you're just jealous </title>
-    <updated>2023-05-24T20:33:24+00:00</updated>
-    <content>you're just jealous </content>
-    <link href="https://tiktok.com/@grouch_thebird/video/7236849783548284202" rel="alternate"/>
-    <published>2023-05-24T20:33:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grouch_thebird/video/7236874526708059435</id>
     <title>my friend lost her bird (small green boi) and we've been looking everywhere and using different techniques and even had someone say that they saw him flattened out somewhere and we checked and didn't see so hopefully he finds people and comes home soon🙏💚💚</title>
@@ -91,5 +67,29 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@grouch_thebird/video/7238000590838664491" rel="alternate"/>
     <published>2023-05-27T22:59:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grouch_thebird/video/7239158161981263150</id>
+    <title>[no title]</title>
+    <updated>2023-05-31T01:51:08+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@grouch_thebird/video/7239158161981263150" rel="alternate"/>
+    <published>2023-05-31T01:51:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grouch_thebird/video/7239159084405017898</id>
+    <title>[no title]</title>
+    <updated>2023-05-31T01:54:44+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@grouch_thebird/video/7239159084405017898" rel="alternate"/>
+    <published>2023-05-31T01:54:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grouch_thebird/video/7239161605102210350</id>
+    <title>I have a Chaos magnetic field</title>
+    <updated>2023-05-31T02:04:27+00:00</updated>
+    <content>I have a Chaos magnetic field</content>
+    <link href="https://tiktok.com/@grouch_thebird/video/7239161605102210350" rel="alternate"/>
+    <published>2023-05-31T02:04:27+00:00</published>
   </entry>
 </feed>
