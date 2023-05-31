@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@juliafox038711</id>
   <title>@juliafox038711 | TikTok</title>
-  <updated>2023-05-24T02:45:25+00:00</updated>
+  <updated>2023-05-31T20:09:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juliafox038711</subtitle>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7227702965551762734</id>
-    <title>over 2 year difference 🫢crazyyy</title>
-    <updated>2023-04-30T04:59:09+00:00</updated>
-    <content>over 2 year difference 🫢crazyyy</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7227702965551762734" rel="alternate"/>
-    <published>2023-04-30T04:59:09+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7228673065712946475</id>
-    <title>shoutout to the guy whome ive never sloken to that told me i had a final today that i was not aware of having </title>
-    <updated>2023-05-02T19:43:40+00:00</updated>
-    <content>shoutout to the guy whome ive never sloken to that told me i had a final today that i was not aware of having </content>
-    <link href="https://tiktok.com/@juliafox038711/video/7228673065712946475" rel="alternate"/>
-    <published>2023-05-02T19:43:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@juliafox038711/video/7229019642730286382</id>
     <title>🤷🏼‍♀️😋🥴😋😍</title>
@@ -91,5 +75,21 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@juliafox038711/video/7236574546827169070" rel="alternate"/>
     <published>2023-05-24T02:45:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7239434632247217451</id>
+    <title>and now im back to only thinking, breathing, and talking about fnaf</title>
+    <updated>2023-05-31T19:43:55+00:00</updated>
+    <content>and now im back to only thinking, breathing, and talking about fnaf</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7239434632247217451" rel="alternate"/>
+    <published>2023-05-31T19:43:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7239441108072271147</id>
+    <title>we love bleaching curly hair untill it just ends ip frizzing with no curl🥲</title>
+    <updated>2023-05-31T20:09:00+00:00</updated>
+    <content>we love bleaching curly hair untill it just ends ip frizzing with no curl🥲</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7239441108072271147" rel="alternate"/>
+    <published>2023-05-31T20:09:00+00:00</published>
   </entry>
 </feed>
