@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-05-29T18:08:37+00:00</updated>
+  <updated>2023-05-31T02:32:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7232381018299288837</id>
-    <title>We see each other ✨differently✨ #marriedlife #coupleschallenge #couplesgoals #darcyandjer </title>
-    <updated>2023-05-12T19:32:12+00:00</updated>
-    <content>We see each other ✨differently✨ #marriedlife #coupleschallenge #couplesgoals #darcyandjer </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7232381018299288837" rel="alternate"/>
-    <published>2023-05-12T19:32:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7232666350790003973</id>
     <title>A week of wrangling Darcy and 20 other neurodivergents was an adventure!! Two years ago we signed up to do a fan trip to Greece and after many delays it finally happened.  Taking a trip with 20 strangers from the internet was easily the scariest leap of f</title>
@@ -91,5 +83,13 @@
     <content>Believe it or not, darcy loves an early night. Gives him more time the next day to find what he lost the day before. #adhd #neurospicy </content>
     <link href="https://tiktok.com/@thedarcymichael/video/7238667929435344134" rel="alternate"/>
     <published>2023-05-29T18:08:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7239168896878529797</id>
+    <title>Anyways, dont worry were annoucing 30 more cities next week so hopefully pittsburgh will make the cut 🤷🏻#greenscreen </title>
+    <updated>2023-05-31T02:32:36+00:00</updated>
+    <content>Anyways, dont worry were annoucing 30 more cities next week so hopefully pittsburgh will make the cut 🤷🏻#greenscreen </content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7239168896878529797" rel="alternate"/>
+    <published>2023-05-31T02:32:36+00:00</published>
   </entry>
 </feed>
