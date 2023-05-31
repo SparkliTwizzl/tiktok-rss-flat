@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@tracksuitsandredwine_</id>
   <title>@tracksuitsandredwine_ | TikTok</title>
-  <updated>2023-05-30T05:09:25+00:00</updated>
+  <updated>2023-05-31T04:34:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @tracksuitsandredwine_</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tracksuitsandredwine_/video/7235267145377041665</id>
-    <title>#duet with @lia :) starcrossed</title>
-    <updated>2023-05-20T14:11:53+00:00</updated>
-    <content>#duet with @lia :) starcrossed</content>
-    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7235267145377041665" rel="alternate"/>
-    <published>2023-05-20T14:11:53+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tracksuitsandredwine_/video/7235272134577212673</id>
     <title>last one from last night i swear gn ily xx</title>
@@ -91,5 +83,13 @@
     <content>romance </content>
     <link href="https://tiktok.com/@tracksuitsandredwine_/video/7238838182677171457" rel="alternate"/>
     <published>2023-05-30T05:09:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tracksuitsandredwine_/video/7239200246830484738</id>
+    <title>another draft?!!! crazy</title>
+    <updated>2023-05-31T04:34:21+00:00</updated>
+    <content>another draft?!!! crazy</content>
+    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7239200246830484738" rel="alternate"/>
+    <published>2023-05-31T04:34:21+00:00</published>
   </entry>
 </feed>
