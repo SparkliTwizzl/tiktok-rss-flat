@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-06-01T14:54:37+00:00</updated>
+  <updated>2023-06-01T18:19:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7236816547543665966</id>
-    <title>Replying to @raen.tortuga #reply #solardidsystem #ssperegrine </title>
-    <updated>2023-05-24T18:24:24+00:00</updated>
-    <content>Replying to @raen.tortuga #reply #solardidsystem #ssperegrine </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7236816547543665966" rel="alternate"/>
-    <published>2023-05-24T18:24:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7236818716929854763</id>
     <title>Y'all really can't leave us alone can y'all. That's fan behavior on your part. #solardidsystem #ssperegrine </title>
@@ -91,5 +83,13 @@
     <content>I do not know anything about the hair except that it was probably Jynx or Sakura #solardidsystem #ssperegrine #pride #pridemonth </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7239731164674542890" rel="alternate"/>
     <published>2023-06-01T14:54:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7239784070048124206</id>
+    <title>#stitch with @JD Roninstone The way boomers make fun of younger people for their own failures is actually really annoying and hypocritical. #solardidsystem #ssperegrine </title>
+    <updated>2023-06-01T18:19:52+00:00</updated>
+    <content>#stitch with @JD Roninstone The way boomers make fun of younger people for their own failures is actually really annoying and hypocritical. #solardidsystem #ssperegrine </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7239784070048124206" rel="alternate"/>
+    <published>2023-06-01T18:19:52+00:00</published>
   </entry>
 </feed>
