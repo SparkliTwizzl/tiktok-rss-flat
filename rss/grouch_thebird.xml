@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@grouch_thebird</id>
   <title>@grouch_thebird | TikTok</title>
-  <updated>2023-05-31T21:20:01+00:00</updated>
+  <updated>2023-06-01T02:52:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @grouch_thebird</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grouch_thebird/video/7236908735073881386</id>
-    <title>[no title]</title>
-    <updated>2023-05-25T00:22:12+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@grouch_thebird/video/7236908735073881386" rel="alternate"/>
-    <published>2023-05-25T00:22:12+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@grouch_thebird/video/7236951808025840942</id>
-    <title>I dont wanna know if it gets worse</title>
-    <updated>2023-05-25T03:09:19+00:00</updated>
-    <content>I dont wanna know if it gets worse</content>
-    <link href="https://tiktok.com/@grouch_thebird/video/7236951808025840942" rel="alternate"/>
-    <published>2023-05-25T03:09:19+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@grouch_thebird/video/7236974575991442731</id>
-    <title>just keep suppressing just keep suppressing</title>
-    <updated>2023-05-25T04:37:47+00:00</updated>
-    <content>just keep suppressing just keep suppressing</content>
-    <link href="https://tiktok.com/@grouch_thebird/video/7236974575991442731" rel="alternate"/>
-    <published>2023-05-25T04:37:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grouch_thebird/video/7237601189360291118</id>
     <title>[no title]</title>
@@ -85,11 +61,35 @@
     <published>2023-05-31T02:04:27+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@grouch_thebird/video/7239459394545552683</id>
+    <id>https://tiktok.com/@grouch_thebird/video/7239534959776566571</id>
     <title>[no title]</title>
-    <updated>2023-05-31T21:20:01+00:00</updated>
+    <updated>2023-06-01T02:13:17+00:00</updated>
     <content>[no description]</content>
-    <link href="https://tiktok.com/@grouch_thebird/video/7239459394545552683" rel="alternate"/>
-    <published>2023-05-31T21:20:01+00:00</published>
+    <link href="https://tiktok.com/@grouch_thebird/video/7239534959776566571" rel="alternate"/>
+    <published>2023-06-01T02:13:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grouch_thebird/video/7239536622365084970</id>
+    <title>I have this song on repeat when I work</title>
+    <updated>2023-06-01T02:19:44+00:00</updated>
+    <content>I have this song on repeat when I work</content>
+    <link href="https://tiktok.com/@grouch_thebird/video/7239536622365084970" rel="alternate"/>
+    <published>2023-06-01T02:19:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grouch_thebird/video/7239542517601996074</id>
+    <title>went green 7 summers ago after being hospitalized ~ never went back &gt;:)</title>
+    <updated>2023-06-01T02:42:36+00:00</updated>
+    <content>went green 7 summers ago after being hospitalized ~ never went back &gt;:)</content>
+    <link href="https://tiktok.com/@grouch_thebird/video/7239542517601996074" rel="alternate"/>
+    <published>2023-06-01T02:42:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grouch_thebird/video/7239545184600493355</id>
+    <title>Replying to @_..z0mb13.._ well yes, but actually yes</title>
+    <updated>2023-06-01T02:52:56+00:00</updated>
+    <content>Replying to @_..z0mb13.._ well yes, but actually yes</content>
+    <link href="https://tiktok.com/@grouch_thebird/video/7239545184600493355" rel="alternate"/>
+    <published>2023-06-01T02:52:56+00:00</published>
   </entry>
 </feed>
