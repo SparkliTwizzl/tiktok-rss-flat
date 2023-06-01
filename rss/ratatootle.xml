@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ratatootle</id>
   <title>@ratatootle | TikTok</title>
-  <updated>2023-05-28T13:33:33+00:00</updated>
+  <updated>2023-06-01T13:17:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ratatootle</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ratatootle/video/7230782026876521771</id>
-    <title>WHAT DO I DO LMFAO IT WONT OPEN AGAIN I BROKE IT </title>
-    <updated>2023-05-08T12:07:24+00:00</updated>
-    <content>WHAT DO I DO LMFAO IT WONT OPEN AGAIN I BROKE IT </content>
-    <link href="https://tiktok.com/@ratatootle/video/7230782026876521771" rel="alternate"/>
-    <published>2023-05-08T12:07:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ratatootle/video/7230847180766989610</id>
     <title>Got sent a weird thing in the mail and developed an emotional attachment. This is my formal submission to be the new face of @Barebells.usa, go try the limited time pb protein bar, this is #notspons, but it is a very tasty snack. @Barebells </title>
@@ -91,5 +83,13 @@
     <content>I have the wrong socks on so theres really no salvaging this :/</content>
     <link href="https://tiktok.com/@ratatootle/video/7238225851890797866" rel="alternate"/>
     <published>2023-05-28T13:33:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ratatootle/video/7239706063467990315</id>
+    <title>Breakup sponsored by @Noah Kahan also all love to lego man it was a wonderful era </title>
+    <updated>2023-06-01T13:17:13+00:00</updated>
+    <content>Breakup sponsored by @Noah Kahan also all love to lego man it was a wonderful era </content>
+    <link href="https://tiktok.com/@ratatootle/video/7239706063467990315" rel="alternate"/>
+    <published>2023-06-01T13:17:13+00:00</published>
   </entry>
 </feed>

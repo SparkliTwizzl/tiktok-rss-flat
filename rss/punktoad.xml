@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-06-01T01:14:49+00:00</updated>
+  <updated>2023-06-01T10:52:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7237219624037715243</id>
-    <title>#stitch with @Drip King nope #busytoday #oberon #partytime </title>
-    <updated>2023-05-25T20:28:31+00:00</updated>
-    <content>#stitch with @Drip King nope #busytoday #oberon #partytime </content>
-    <link href="https://tiktok.com/@punktoad/video/7237219624037715243" rel="alternate"/>
-    <published>2023-05-25T20:28:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7237321734716673323</id>
     <title>#stitch with @Enjoy my Entertaining Post🖐🏾  i said what i said #millennial #genz #boomers </title>
@@ -91,5 +83,13 @@
     <content>Replying to @Maz True Crime Trivia pt. 3 #truecrime #trivia </content>
     <link href="https://tiktok.com/@punktoad/video/7239519882423897387" rel="alternate"/>
     <published>2023-06-01T01:14:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7239668699270090026</id>
+    <title>i have no idea what im doing #bobsburgers #datinginyour30s #tinabelcher </title>
+    <updated>2023-06-01T10:52:20+00:00</updated>
+    <content>i have no idea what im doing #bobsburgers #datinginyour30s #tinabelcher </content>
+    <link href="https://tiktok.com/@punktoad/video/7239668699270090026" rel="alternate"/>
+    <published>2023-06-01T10:52:20+00:00</published>
   </entry>
 </feed>
