@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@liil.dork.alex</id>
   <title>@liil.dork.alex | TikTok</title>
-  <updated>2023-05-31T17:50:56+00:00</updated>
+  <updated>2023-05-20T00:07:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @liil.dork.alex</subtitle>
+  <entry>
+    <id>https://tiktok.com/@liil.dork.alex/video/7222406179631271211</id>
+    <title>Anndd the colors back 💁🏼‍♀️</title>
+    <updated>2023-04-15T22:24:54+00:00</updated>
+    <content>Anndd the colors back 💁🏼‍♀️</content>
+    <link href="https://tiktok.com/@liil.dork.alex/video/7222406179631271211" rel="alternate"/>
+    <published>2023-04-15T22:24:54+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@liil.dork.alex/video/7222490594445167915</id>
     <title>Like it was nothin 😭</title>
@@ -83,13 +91,5 @@
     <content>Whole thing, ill blow it 💁🏼‍♀️</content>
     <link href="https://tiktok.com/@liil.dork.alex/video/7235049466326158635" rel="alternate"/>
     <published>2023-05-20T00:07:14+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@liil.dork.alex/video/7239405512310345006</id>
-    <title>Unless its covered in fur and barks or meows. Im okay 😮‍💨👏🏼</title>
-    <updated>2023-05-31T17:50:56+00:00</updated>
-    <content>Unless its covered in fur and barks or meows. Im okay 😮‍💨👏🏼</content>
-    <link href="https://tiktok.com/@liil.dork.alex/video/7239405512310345006" rel="alternate"/>
-    <published>2023-05-31T17:50:56+00:00</published>
   </entry>
 </feed>
