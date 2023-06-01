@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@tracksuitsandredwine_</id>
   <title>@tracksuitsandredwine_ | TikTok</title>
-  <updated>2023-05-31T04:34:21+00:00</updated>
+  <updated>2023-06-01T08:21:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @tracksuitsandredwine_</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tracksuitsandredwine_/video/7235272134577212673</id>
-    <title>last one from last night i swear gn ily xx</title>
-    <updated>2023-05-20T14:31:15+00:00</updated>
-    <content>last one from last night i swear gn ily xx</content>
-    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7235272134577212673" rel="alternate"/>
-    <published>2023-05-20T14:31:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tracksuitsandredwine_/video/7235995334202100994</id>
     <title>paper crown and lewis (skull) stole the show</title>
@@ -91,5 +83,13 @@
     <content>another draft?!!! crazy</content>
     <link href="https://tiktok.com/@tracksuitsandredwine_/video/7239200246830484738" rel="alternate"/>
     <published>2023-05-31T04:34:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tracksuitsandredwine_/video/7239629901194628353</id>
+    <title>💪🤩🤘🫸</title>
+    <updated>2023-06-01T08:21:34+00:00</updated>
+    <content>💪🤩🤘🫸</content>
+    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7239629901194628353" rel="alternate"/>
+    <published>2023-06-01T08:21:34+00:00</published>
   </entry>
 </feed>
