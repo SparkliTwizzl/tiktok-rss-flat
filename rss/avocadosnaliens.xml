@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avocadosnaliens</id>
   <title>@avocadosnaliens | TikTok</title>
-  <updated>2023-06-01T00:03:31+00:00</updated>
+  <updated>2023-06-01T21:19:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avocadosnaliens</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avocadosnaliens/video/7232021498578488619</id>
-    <title>Who remembers this heartbreaker bop? #grwm #photographersoftiktok </title>
-    <updated>2023-05-11T20:17:16+00:00</updated>
-    <content>Who remembers this heartbreaker bop? #grwm #photographersoftiktok </content>
-    <link href="https://tiktok.com/@avocadosnaliens/video/7232021498578488619" rel="alternate"/>
-    <published>2023-05-11T20:17:16+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avocadosnaliens/video/7232386458105957675</id>
     <title>[no title]</title>
@@ -91,5 +83,13 @@
     <content>#greenscreen when i was in my last relationship, my ex took this photo of me at a fancy restaurant in malibu. I was drunk almost everyday. My face was inflamed, i was 30 lbs heavier, i had so much brain fog, constantly anxious. I had myself convinced that a relationship would fix all of my problems. I cut myself off from everything when i broke things off with him. I stopped drinking. I hid myself in my apartment. Worked on my business. Worked on being a better mother. I was lonely. The loneliest i had ever been. But it took a long time to realize that lonliness does not equate unhappiness. I got used to being by myself. And it forced me to find happiness in myself. Dude-not every day is perfect. But i have found that my comfort comes from within me and me only. And i hope this sparks some inspiration in others who feel like they have to seek that feeling in other places🫶</content>
     <link href="https://tiktok.com/@avocadosnaliens/video/7239501508289645866" rel="alternate"/>
     <published>2023-06-01T00:03:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7239830245841407274</id>
+    <title>No undergarments needed. This dress makes you look so curvey and pulls everything in. Gotchu girl 😘 #aritzia #littleblackdress #summerlooks </title>
+    <updated>2023-06-01T21:19:06+00:00</updated>
+    <content>No undergarments needed. This dress makes you look so curvey and pulls everything in. Gotchu girl 😘 #aritzia #littleblackdress #summerlooks </content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7239830245841407274" rel="alternate"/>
+    <published>2023-06-01T21:19:06+00:00</published>
   </entry>
 </feed>
