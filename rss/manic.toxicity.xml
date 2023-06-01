@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@manic.toxicity</id>
   <title>@manic.toxicity | TikTok</title>
-  <updated>2023-05-31T18:25:44+00:00</updated>
+  <updated>2023-06-01T20:27:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @manic.toxicity</subtitle>
-  <entry>
-    <id>https://tiktok.com/@manic.toxicity/video/7236412067069037866</id>
-    <title>accept this drafts of me saving a sound to use later :) #fyp #foryou </title>
-    <updated>2023-05-23T16:14:47+00:00</updated>
-    <content>accept this drafts of me saving a sound to use later :) #fyp #foryou </content>
-    <link href="https://tiktok.com/@manic.toxicity/video/7236412067069037866" rel="alternate"/>
-    <published>2023-05-23T16:14:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@manic.toxicity/video/7236771832785898795</id>
     <title>(i promise i am completely okay! i am just actung out how i see this being said! :) ) #fyp #foryou </title>
@@ -91,5 +83,13 @@
     <content>i am so, extremely, late to this trend (psst its an old draft) #fyp #foryou </content>
     <link href="https://tiktok.com/@manic.toxicity/video/7239414484924927278" rel="alternate"/>
     <published>2023-05-31T18:25:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@manic.toxicity/video/7239817007569521966</id>
+    <title>fuck this. #fyp #foryou</title>
+    <updated>2023-06-01T20:27:42+00:00</updated>
+    <content>fuck this. #fyp #foryou</content>
+    <link href="https://tiktok.com/@manic.toxicity/video/7239817007569521966" rel="alternate"/>
+    <published>2023-06-01T20:27:42+00:00</published>
   </entry>
 </feed>
