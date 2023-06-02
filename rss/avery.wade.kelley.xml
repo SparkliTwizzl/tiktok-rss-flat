@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-06-01T23:19:20+00:00</updated>
+  <updated>2023-06-02T14:34:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7237496539906805038</id>
-    <title>Colorized. #fyp #trans </title>
-    <updated>2023-05-26T14:23:14+00:00</updated>
-    <content>Colorized. #fyp #trans </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7237496539906805038" rel="alternate"/>
-    <published>2023-05-26T14:23:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7237988571414646059</id>
     <title>Thank you. #fyp #mentalhealth </title>
@@ -91,5 +83,13 @@
     <content>I can't even anymore. 🤣 #fyp #trans </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7239861242574196010" rel="alternate"/>
     <published>2023-06-01T23:19:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7240096942318046506</id>
+    <title>I'm on another one today. #fyp #trans </title>
+    <updated>2023-06-02T14:34:03+00:00</updated>
+    <content>I'm on another one today. #fyp #trans </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7240096942318046506" rel="alternate"/>
+    <published>2023-06-02T14:34:03+00:00</published>
   </entry>
 </feed>
