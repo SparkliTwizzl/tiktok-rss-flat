@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@nopanicbutton</id>
   <title>@nopanicbutton | TikTok</title>
-  <updated>2023-05-31T21:07:07+00:00</updated>
+  <updated>2023-06-02T21:19:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @nopanicbutton</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nopanicbutton/video/7231674908114275626</id>
-    <title>My shop is gonna end up cursed... #witchtok #spells #hopeJdoesntendupwithabewitchedpepe </title>
-    <updated>2023-05-10T21:52:20+00:00</updated>
-    <content>My shop is gonna end up cursed... #witchtok #spells #hopeJdoesntendupwithabewitchedpepe </content>
-    <link href="https://tiktok.com/@nopanicbutton/video/7231674908114275626" rel="alternate"/>
-    <published>2023-05-10T21:52:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nopanicbutton/video/7232315943467224363</id>
     <title>For those thinking about getting into raising quail....  #quailarmy #somuchpoop #paininthearse </title>
@@ -91,5 +83,13 @@
     <content>No measure is too extreme for killing skeeters! #bugzapper #skeeter #mosquito #deathtoskeeters </content>
     <link href="https://tiktok.com/@nopanicbutton/video/7239456087160786219" rel="alternate"/>
     <published>2023-05-31T21:07:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nopanicbutton/video/7240201452856249646</id>
+    <title>I wish people would just leave my balls alone! #handsoff #nonosquare #notouchie </title>
+    <updated>2023-06-02T21:19:41+00:00</updated>
+    <content>I wish people would just leave my balls alone! #handsoff #nonosquare #notouchie </content>
+    <link href="https://tiktok.com/@nopanicbutton/video/7240201452856249646" rel="alternate"/>
+    <published>2023-06-02T21:19:41+00:00</published>
   </entry>
 </feed>
