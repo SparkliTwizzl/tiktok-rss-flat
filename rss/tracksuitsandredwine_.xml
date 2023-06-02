@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@tracksuitsandredwine_</id>
   <title>@tracksuitsandredwine_ | TikTok</title>
-  <updated>2023-06-01T08:21:34+00:00</updated>
+  <updated>2023-06-02T11:14:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @tracksuitsandredwine_</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tracksuitsandredwine_/video/7235995334202100994</id>
-    <title>paper crown and lewis (skull) stole the show</title>
-    <updated>2023-05-22T13:17:35+00:00</updated>
-    <content>paper crown and lewis (skull) stole the show</content>
-    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7235995334202100994" rel="alternate"/>
-    <published>2023-05-22T13:17:35+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@tracksuitsandredwine_/video/7236020430203571457</id>
-    <title>pity party</title>
-    <updated>2023-05-22T14:54:58+00:00</updated>
-    <content>pity party</content>
-    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7236020430203571457" rel="alternate"/>
-    <published>2023-05-22T14:54:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tracksuitsandredwine_/video/7236524749868764418</id>
     <title>🦛 </title>
@@ -91,5 +75,21 @@
     <content>💪🤩🤘🫸</content>
     <link href="https://tiktok.com/@tracksuitsandredwine_/video/7239629901194628353" rel="alternate"/>
     <published>2023-06-01T08:21:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tracksuitsandredwine_/video/7240042488042441986</id>
+    <title>[no title]</title>
+    <updated>2023-06-02T11:02:38+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7240042488042441986" rel="alternate"/>
+    <published>2023-06-02T11:02:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tracksuitsandredwine_/video/7240045449267154177</id>
+    <title>[no title]</title>
+    <updated>2023-06-02T11:14:07+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7240045449267154177" rel="alternate"/>
+    <published>2023-06-02T11:14:07+00:00</published>
   </entry>
 </feed>
