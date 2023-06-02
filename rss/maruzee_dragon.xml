@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maruzee_dragon</id>
   <title>@maruzee_dragon | TikTok</title>
-  <updated>2023-05-30T19:31:41+00:00</updated>
+  <updated>2023-06-02T02:09:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maruzee_dragon</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maruzee_dragon/video/7234689202082876678</id>
-    <title>Villain? #fyp #acting #lipsync </title>
-    <updated>2023-05-19T00:49:09+00:00</updated>
-    <content>Villain? #fyp #acting #lipsync </content>
-    <link href="https://tiktok.com/@maruzee_dragon/video/7234689202082876678" rel="alternate"/>
-    <published>2023-05-19T00:49:09+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maruzee_dragon/video/7235081902628162821</id>
     <title>Bringing Mileena to life! Who's ready to see me take on Scorpion next?! #videogames #martialarts #fyp </title>
@@ -91,5 +83,13 @@
     <content>Guess who's prowling into Genshin Impact? Catch a glimpse of this mysterious feline's playful antics #GenshinImpact37 #GenshinImpact @GenshinImpact_En </content>
     <link href="https://tiktok.com/@maruzee_dragon/video/7238987387861290245" rel="alternate"/>
     <published>2023-05-30T19:31:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maruzee_dragon/video/7239905066688236805</id>
+    <title>New Mortal Kombat Intro? #trainedprofessional #martialarts #cosplay #videogames </title>
+    <updated>2023-06-02T02:09:21+00:00</updated>
+    <content>New Mortal Kombat Intro? #trainedprofessional #martialarts #cosplay #videogames </content>
+    <link href="https://tiktok.com/@maruzee_dragon/video/7239905066688236805" rel="alternate"/>
+    <published>2023-06-02T02:09:21+00:00</published>
   </entry>
 </feed>
