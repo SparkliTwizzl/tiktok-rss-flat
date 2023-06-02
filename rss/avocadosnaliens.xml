@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avocadosnaliens</id>
   <title>@avocadosnaliens | TikTok</title>
-  <updated>2023-06-01T21:19:06+00:00</updated>
+  <updated>2023-06-02T03:57:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avocadosnaliens</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avocadosnaliens/video/7232386458105957675</id>
-    <title>[no title]</title>
-    <updated>2023-05-12T19:53:30+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@avocadosnaliens/video/7232386458105957675" rel="alternate"/>
-    <published>2023-05-12T19:53:30+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@avocadosnaliens/video/7233951844152724778</id>
-    <title>#screammovie #aifilter </title>
-    <updated>2023-05-17T01:07:52+00:00</updated>
-    <content>#screammovie #aifilter </content>
-    <link href="https://tiktok.com/@avocadosnaliens/video/7233951844152724778" rel="alternate"/>
-    <published>2023-05-17T01:07:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avocadosnaliens/video/7234646957338250539</id>
     <title>#realtalk dont buy a landline</title>
@@ -91,5 +75,21 @@
     <content>No undergarments needed. This dress makes you look so curvey and pulls everything in. Gotchu girl 😘 #aritzia #littleblackdress #summerlooks </content>
     <link href="https://tiktok.com/@avocadosnaliens/video/7239830245841407274" rel="alternate"/>
     <published>2023-06-01T21:19:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7239917879641099563</id>
+    <title>[no title]</title>
+    <updated>2023-06-02T02:59:07+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7239917879641099563" rel="alternate"/>
+    <published>2023-06-02T02:59:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7239933039881489706</id>
+    <title>[no title]</title>
+    <updated>2023-06-02T03:57:58+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7239933039881489706" rel="alternate"/>
+    <published>2023-06-02T03:57:58+00:00</published>
   </entry>
 </feed>
