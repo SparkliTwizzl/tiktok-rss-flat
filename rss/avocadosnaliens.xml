@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avocadosnaliens</id>
   <title>@avocadosnaliens | TikTok</title>
-  <updated>2023-06-02T03:57:58+00:00</updated>
+  <updated>2023-06-02T05:19:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avocadosnaliens</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avocadosnaliens/video/7234646957338250539</id>
-    <title>#realtalk dont buy a landline</title>
-    <updated>2023-05-18T22:05:16+00:00</updated>
-    <content>#realtalk dont buy a landline</content>
-    <link href="https://tiktok.com/@avocadosnaliens/video/7234646957338250539" rel="alternate"/>
-    <published>2023-05-18T22:05:16+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avocadosnaliens/video/7234722877323463979</id>
     <title>[no title]</title>
@@ -91,5 +83,13 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@avocadosnaliens/video/7239933039881489706" rel="alternate"/>
     <published>2023-06-02T03:57:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7239953919361994030</id>
+    <title>[no title]</title>
+    <updated>2023-06-02T05:19:03+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7239953919361994030" rel="alternate"/>
+    <published>2023-06-02T05:19:03+00:00</published>
   </entry>
 </feed>
