@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jacobtheseahorse</id>
   <title>@jacobtheseahorse | TikTok</title>
-  <updated>2023-06-02T11:54:34+00:00</updated>
+  <updated>2023-06-02T14:05:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jacobtheseahorse</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7231940496317287707</id>
-    <title>Replying to @emenopi i should be clear that this is my experience but other trans folks have different things that trigger dysphoria and it can be unexpected what will impact you.  I also think I would have had a different response if I'd have been pregna</title>
-    <updated>2023-05-11T15:02:49+00:00</updated>
-    <content>Replying to @emenopi i should be clear that this is my experience but other trans folks have different things that trigger dysphoria and it can be unexpected what will impact you.  I also think I would have had a different response if I'd have been pregnant before ever taking testosterone as I stayed looked pretty masculine throughout #trans #transpregnancy #pregnancy #dysphoria </content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7231940496317287707" rel="alternate"/>
-    <published>2023-05-11T15:02:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jacobtheseahorse/video/7232289367799205147</id>
     <title>Replying to @kismetkat22 when looking at maternity, of course it's language that has previously only been for women, but saying that trans inclusion only ever impacts language for women is untrue (for example when we talk about healthcare for anyone with </title>
@@ -91,5 +83,13 @@
     <content>ok so I'm rambling but I'm very excited! #trans #nonbinary #queer #lgbt #shop #business #tshirts #ally #merch #pridemerch #pride </content>
     <link href="https://tiktok.com/@jacobtheseahorse/video/7240055868107017498" rel="alternate"/>
     <published>2023-06-02T11:54:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7240089589178715419</id>
+    <title>everything I sell goes towards the work I do at Transparent Change - the non profit I run that provides training about trans inclusion. bit dot ly slash seahorseshop or check my link in b¡o.  #trans #nonbinary #nonprofit #cic #inclusion #ally #pride #merc</title>
+    <updated>2023-06-02T14:05:28+00:00</updated>
+    <content>everything I sell goes towards the work I do at Transparent Change - the non profit I run that provides training about trans inclusion. bit dot ly slash seahorseshop or check my link in b¡o.  #trans #nonbinary #nonprofit #cic #inclusion #ally #pride #merch </content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7240089589178715419" rel="alternate"/>
+    <published>2023-06-02T14:05:28+00:00</published>
   </entry>
 </feed>
