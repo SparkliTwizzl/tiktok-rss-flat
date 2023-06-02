@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jacobtheseahorse</id>
   <title>@jacobtheseahorse | TikTok</title>
-  <updated>2023-06-02T14:05:28+00:00</updated>
+  <updated>2023-06-02T18:11:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jacobtheseahorse</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7232289367799205147</id>
-    <title>Replying to @kismetkat22 when looking at maternity, of course it's language that has previously only been for women, but saying that trans inclusion only ever impacts language for women is untrue (for example when we talk about healthcare for anyone with </title>
-    <updated>2023-05-12T13:36:38+00:00</updated>
-    <content>Replying to @kismetkat22 when looking at maternity, of course it's language that has previously only been for women, but saying that trans inclusion only ever impacts language for women is untrue (for example when we talk about healthcare for anyone with a prostate). but focusing only on women is part of a wider tactic that paints trans people as powerful monsters and women as victims.  please know I'm not accusing you (commentor) with this, but your questions are phrased in a way that suggests you've been exposed to this narrative. when trans people are included it destabilises the power of cis men who want to keep us down so they are seeking to divide us and make us fear each other, instead of the true people with power. #trans #feminism #lgbt #feminism #feminist #intersectionalfeminism #transgender #queertok #queer #ally #translivesmatter #transwomenarewomen </content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7232289367799205147" rel="alternate"/>
-    <published>2023-05-12T13:36:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jacobtheseahorse/video/7232313269246119194</id>
     <title>#stitch with @Sam 🏳️‍🌈  for context - my grandparents raised me so coming out to them was a big deal! my grandfather was quite lecherous to women (and to me pre-transition 🙃) which is why I suspect he was bi, but perhaps that was a misogenistic performanc</title>
@@ -91,5 +83,13 @@
     <content>everything I sell goes towards the work I do at Transparent Change - the non profit I run that provides training about trans inclusion. bit dot ly slash seahorseshop or check my link in b¡o.  #trans #nonbinary #nonprofit #cic #inclusion #ally #pride #merch </content>
     <link href="https://tiktok.com/@jacobtheseahorse/video/7240089589178715419" rel="alternate"/>
     <published>2023-06-02T14:05:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7240153029972970779</id>
+    <title>Replying to @xfoxyfox69 I don't have another pen but I do have something else that could help! #trans #pen #analogy #transpender #ink #lgbt #pride </title>
+    <updated>2023-06-02T18:11:42+00:00</updated>
+    <content>Replying to @xfoxyfox69 I don't have another pen but I do have something else that could help! #trans #pen #analogy #transpender #ink #lgbt #pride </content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7240153029972970779" rel="alternate"/>
+    <published>2023-06-02T18:11:42+00:00</published>
   </entry>
 </feed>
