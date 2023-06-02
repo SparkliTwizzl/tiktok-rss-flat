@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-06-01T18:49:15+00:00</updated>
+  <updated>2023-06-02T17:09:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7237267073599147306</id>
-    <title>Don't worry if we don't post this weekend. We need to rest our mind and body so the brain can finish whatever the hell it's doing. Therapy is Tuesday. -Peregrine (yes, I'm still front stuck) #solardidsystem </title>
-    <updated>2023-05-25T23:32:41+00:00</updated>
-    <content>Don't worry if we don't post this weekend. We need to rest our mind and body so the brain can finish whatever the hell it's doing. Therapy is Tuesday. -Peregrine (yes, I'm still front stuck) #solardidsystem </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7237267073599147306" rel="alternate"/>
-    <published>2023-05-25T23:32:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7237440266511355182</id>
     <title>🙃 -Peregrine (they/them) #solardidsystem #ssperegrine </title>
@@ -91,5 +83,13 @@
     <content>Replying to @aquariuseevee #reply If we feel one coming on we'll play a favorite game or play with sensory toys #solardidsystem #ssperegrine </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7239791632932031786" rel="alternate"/>
     <published>2023-06-01T18:49:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7240137042489920810</id>
+    <title>#stitch with @Ryan Foley one of the few things I'm good at #solardidsystem #sszephyr </title>
+    <updated>2023-06-02T17:09:43+00:00</updated>
+    <content>#stitch with @Ryan Foley one of the few things I'm good at #solardidsystem #sszephyr </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7240137042489920810" rel="alternate"/>
+    <published>2023-06-02T17:09:43+00:00</published>
   </entry>
 </feed>
