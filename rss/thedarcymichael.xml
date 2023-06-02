@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-06-01T18:47:59+00:00</updated>
+  <updated>2023-06-02T14:31:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7234530618049039621</id>
-    <title>Wait for the ending 🫣 #capcut #adhd #manchild </title>
-    <updated>2023-05-18T14:33:43+00:00</updated>
-    <content>Wait for the ending 🫣 #capcut #adhd #manchild </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7234530618049039621" rel="alternate"/>
-    <published>2023-05-18T14:33:43+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7235219465875606790</id>
     <title>A wee bit drafty in here </title>
@@ -91,5 +83,13 @@
     <content>This is how we do #PRIDE !  We wanted to partner with a brand that has a long history of supporting our community year-round and who better than our friends at Trojan Canada @Trojan Brand Condoms  - thanks for celebrating, educating, and protecting our community.</content>
     <link href="https://tiktok.com/@thedarcymichael/video/7239791332468837637" rel="alternate"/>
     <published>2023-06-01T18:47:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7240096417174342917</id>
+    <title>Darcy remembered to film this every day for 23 days 👏👏👏 </title>
+    <updated>2023-06-02T14:31:52+00:00</updated>
+    <content>Darcy remembered to film this every day for 23 days 👏👏👏 </content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7240096417174342917" rel="alternate"/>
+    <published>2023-06-02T14:31:52+00:00</published>
   </entry>
 </feed>
