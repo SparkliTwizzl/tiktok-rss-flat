@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@itspeachyfr</id>
   <title>@itspeachyfr | TikTok</title>
-  <updated>2023-05-04T20:56:34+00:00</updated>
+  <updated>2023-06-01T23:52:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @itspeachyfr</subtitle>
+  <entry>
+    <id>https://tiktok.com/@itspeachyfr/video/7227181066958785835</id>
+    <title>#CapCut thats crazy- </title>
+    <updated>2023-04-28T19:13:56+00:00</updated>
+    <content>#CapCut thats crazy- </content>
+    <link href="https://tiktok.com/@itspeachyfr/video/7227181066958785835" rel="alternate"/>
+    <published>2023-04-28T19:13:56+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@itspeachyfr/video/7227509729642269998</id>
     <title>[no title]</title>
@@ -69,14 +77,6 @@
     <published>2023-05-04T00:18:38+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@itspeachyfr/video/7229117412833037610</id>
-    <title>I mean get that tip tho</title>
-    <updated>2023-05-04T00:27:51+00:00</updated>
-    <content>I mean get that tip tho</content>
-    <link href="https://tiktok.com/@itspeachyfr/video/7229117412833037610" rel="alternate"/>
-    <published>2023-05-04T00:27:51+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@itspeachyfr/video/7229360855282994475</id>
     <title>I love noses </title>
     <updated>2023-05-04T16:12:51+00:00</updated>
@@ -85,11 +85,11 @@
     <published>2023-05-04T16:12:51+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@itspeachyfr/video/7229434025704770858</id>
-    <title>I just have to know </title>
-    <updated>2023-05-04T20:56:34+00:00</updated>
-    <content>I just have to know </content>
-    <link href="https://tiktok.com/@itspeachyfr/video/7229434025704770858" rel="alternate"/>
-    <published>2023-05-04T20:56:34+00:00</published>
+    <id>https://tiktok.com/@itspeachyfr/video/7239869775458110766</id>
+    <title>I LOVE HER #EXPLORE #spiderman </title>
+    <updated>2023-06-01T23:52:31+00:00</updated>
+    <content>I LOVE HER #EXPLORE #spiderman </content>
+    <link href="https://tiktok.com/@itspeachyfr/video/7239869775458110766" rel="alternate"/>
+    <published>2023-06-01T23:52:31+00:00</published>
   </entry>
 </feed>
