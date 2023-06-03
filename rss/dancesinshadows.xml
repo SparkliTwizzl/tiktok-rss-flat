@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-06-01T12:06:26+00:00</updated>
+  <updated>2023-06-03T00:43:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7235074129924214022</id>
-    <title>back to work.... #wonderland #wonderlandcosplay #madhattercosplay #glumthesupernaturalhitman #madhatter </title>
-    <updated>2023-05-20T01:42:49+00:00</updated>
-    <content>back to work.... #wonderland #wonderlandcosplay #madhattercosplay #glumthesupernaturalhitman #madhatter </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7235074129924214022" rel="alternate"/>
-    <published>2023-05-20T01:42:49+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7235420349867805958</id>
-    <title>feel free to duet ❤️ #maladytheclown #clown #dailylife #irrational  #that70sshow </title>
-    <updated>2023-05-21T00:06:22+00:00</updated>
-    <content>feel free to duet ❤️ #maladytheclown #clown #dailylife #irrational  #that70sshow </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7235420349867805958" rel="alternate"/>
-    <published>2023-05-21T00:06:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7236007598984580357</id>
     <title>she used to have props, and the app got all upset and gave me strikes #onthisday #maladytheclown #whentiktokwasfun </title>
@@ -91,5 +75,21 @@
     <content>#maladytheclown #onthisday </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7239687858896768262" rel="alternate"/>
     <published>2023-06-01T12:06:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7240249376776473862</id>
+    <title>feel free to duet #wonderlandcosplay #costumedesign #darkwonderland #wonderland </title>
+    <updated>2023-06-03T00:25:30+00:00</updated>
+    <content>feel free to duet #wonderlandcosplay #costumedesign #darkwonderland #wonderland </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7240249376776473862" rel="alternate"/>
+    <published>2023-06-03T00:25:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7240253974874475782</id>
+    <title>nope, not a boy...😆  #captainhook #captainhookcosplay #onceuponatime #dragking </title>
+    <updated>2023-06-03T00:43:23+00:00</updated>
+    <content>nope, not a boy...😆  #captainhook #captainhookcosplay #onceuponatime #dragking </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7240253974874475782" rel="alternate"/>
+    <published>2023-06-03T00:43:23+00:00</published>
   </entry>
 </feed>
