@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@manic.toxicity</id>
   <title>@manic.toxicity | TikTok</title>
-  <updated>2023-06-02T05:04:29+00:00</updated>
+  <updated>2023-06-03T03:33:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @manic.toxicity</subtitle>
-  <entry>
-    <id>https://tiktok.com/@manic.toxicity/video/7237364124836023595</id>
-    <title>a little gambling #fyp #foryou </title>
-    <updated>2023-05-26T05:49:20+00:00</updated>
-    <content>a little gambling #fyp #foryou </content>
-    <link href="https://tiktok.com/@manic.toxicity/video/7237364124836023595" rel="alternate"/>
-    <published>2023-05-26T05:49:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@manic.toxicity/video/7237565612434705706</id>
     <title>youre getting all worked up over *nothing* #fyp #foryou</title>
@@ -91,5 +83,13 @@
     <content>enjoy ! (i just wanted to finish the sound at the end 💀💀)  goodnight, loves :) &lt;3  #fyp #foryou #nughtroutine #qna </content>
     <link href="https://tiktok.com/@manic.toxicity/video/7239950173168799022" rel="alternate"/>
     <published>2023-06-02T05:04:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@manic.toxicity/video/7240297747772017966</id>
+    <title>i fucking wishhh #fyp #foryou </title>
+    <updated>2023-06-03T03:33:21+00:00</updated>
+    <content>i fucking wishhh #fyp #foryou </content>
+    <link href="https://tiktok.com/@manic.toxicity/video/7240297747772017966" rel="alternate"/>
+    <published>2023-06-03T03:33:21+00:00</published>
   </entry>
 </feed>
