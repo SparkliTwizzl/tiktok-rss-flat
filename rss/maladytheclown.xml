@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maladytheclown</id>
   <title>@maladytheclown | TikTok</title>
-  <updated>2023-05-26T12:35:54+00:00</updated>
+  <updated>2023-06-03T00:35:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maladytheclown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maladytheclown/video/7234135023769799942</id>
-    <title>new costumes and characters coming ❤️ #onthisday #maladytheclown #clown #cosplay</title>
-    <updated>2023-05-17T12:58:36+00:00</updated>
-    <content>new costumes and characters coming ❤️ #onthisday #maladytheclown #clown #cosplay</content>
-    <link href="https://tiktok.com/@maladytheclown/video/7234135023769799942" rel="alternate"/>
-    <published>2023-05-17T12:58:36+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@maladytheclown/video/7234146063567932678</id>
-    <title>its been a while... #maladytheclown #clown #cosplay #lipsync </title>
-    <updated>2023-05-17T13:41:26+00:00</updated>
-    <content>its been a while... #maladytheclown #clown #cosplay #lipsync </content>
-    <link href="https://tiktok.com/@maladytheclown/video/7234146063567932678" rel="alternate"/>
-    <published>2023-05-17T13:41:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maladytheclown/video/7234267661603998982</id>
     <title>still going through drafts... #glumthesupernaturalhitman #skeletonmakeup #skeletonboy #skullmakeup </title>
@@ -91,5 +75,21 @@
     <content>#onthisday #clown #maladytheclown #petpuppies #cosplay #comedy</content>
     <link href="https://tiktok.com/@maladytheclown/video/7237468933106830597" rel="alternate"/>
     <published>2023-05-26T12:35:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maladytheclown/video/7240250084439379206</id>
+    <title>feel free to duet. #maladytheclown </title>
+    <updated>2023-06-03T00:28:15+00:00</updated>
+    <content>feel free to duet. #maladytheclown </content>
+    <link href="https://tiktok.com/@maladytheclown/video/7240250084439379206" rel="alternate"/>
+    <published>2023-06-03T00:28:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maladytheclown/video/7240251901248343301</id>
+    <title>don't forget. . #imaghost  #glumthesupernaturalhitman #skeletonmakeup #dragking #drag </title>
+    <updated>2023-06-03T00:35:18+00:00</updated>
+    <content>don't forget. . #imaghost  #glumthesupernaturalhitman #skeletonmakeup #dragking #drag </content>
+    <link href="https://tiktok.com/@maladytheclown/video/7240251901248343301" rel="alternate"/>
+    <published>2023-06-03T00:35:18+00:00</published>
   </entry>
 </feed>
