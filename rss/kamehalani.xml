@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kamehalani</id>
   <title>@kamehalani | TikTok</title>
-  <updated>2023-06-01T15:52:55+00:00</updated>
+  <updated>2023-06-03T01:45:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kamehalani</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kamehalani/video/7233788256515591467</id>
-    <title>#stitch with @Jaja! Help me! Idk </title>
-    <updated>2023-05-16T14:33:08+00:00</updated>
-    <content>#stitch with @Jaja! Help me! Idk </content>
-    <link href="https://tiktok.com/@kamehalani/video/7233788256515591467" rel="alternate"/>
-    <published>2023-05-16T14:33:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kamehalani/video/7233837161605385518</id>
     <title>Replying to @shandybrook #greenscreen thanks for playing! Next! #dollyparton #dolly #politics </title>
@@ -91,5 +83,13 @@
     <content>#stitch with @Kelly Cadigan we cannot erase what you participated in #pride #lgbt </content>
     <link href="https://tiktok.com/@kamehalani/video/7239746193289694510" rel="alternate"/>
     <published>2023-06-01T15:52:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kamehalani/video/7240269858133396778</id>
+    <title>Sorry bout it</title>
+    <updated>2023-06-03T01:45:05+00:00</updated>
+    <content>Sorry bout it</content>
+    <link href="https://tiktok.com/@kamehalani/video/7240269858133396778" rel="alternate"/>
+    <published>2023-06-03T01:45:05+00:00</published>
   </entry>
 </feed>
