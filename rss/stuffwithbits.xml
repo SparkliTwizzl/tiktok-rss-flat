@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-06-02T21:31:35+00:00</updated>
+  <updated>2023-06-03T01:08:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7237925416105741614</id>
-    <title>#answer to @rebeccaweerts The fog is gone and hopefully that means we're out of this. Still taking this weekend to rest, but wanted to update y'all. #solardidsystem #ssjynx #dissociativeidentitydisorder </title>
-    <updated>2023-05-27T18:07:23+00:00</updated>
-    <content>#answer to @rebeccaweerts The fog is gone and hopefully that means we're out of this. Still taking this weekend to rest, but wanted to update y'all. #solardidsystem #ssjynx #dissociativeidentitydisorder </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7237925416105741614" rel="alternate"/>
-    <published>2023-05-27T18:07:23+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7237935297760087339</id>
-    <title>Replying to @stuffwithbits The Solar System as of May 27, 2023 #solardidsystem #dissociativeidentitydisorder </title>
-    <updated>2023-05-27T18:46:16+00:00</updated>
-    <content>Replying to @stuffwithbits The Solar System as of May 27, 2023 #solardidsystem #dissociativeidentitydisorder </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7237935297760087339" rel="alternate"/>
-    <published>2023-05-27T18:46:16+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7238281012747193646</id>
-    <title>I'm proud of you! #solardidsystem #ssjynx #food #eating </title>
-    <updated>2023-05-28T17:07:20+00:00</updated>
-    <content>I'm proud of you! #solardidsystem #ssjynx #food #eating </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7238281012747193646" rel="alternate"/>
-    <published>2023-05-28T17:07:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7238293066606611758</id>
     <title>[no title]</title>
@@ -91,5 +67,29 @@
     <content>Replying to @elia.arson.cop #reply Make it so! #solardidsystem #sszephyr #usethissound </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7240204542048996651" rel="alternate"/>
     <published>2023-06-02T21:31:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7240234043143408938</id>
+    <title>Replying to @oliviawrites15 #reply #solardidsystem #sszenith </title>
+    <updated>2023-06-02T23:26:07+00:00</updated>
+    <content>Replying to @oliviawrites15 #reply #solardidsystem #sszenith </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7240234043143408938" rel="alternate"/>
+    <published>2023-06-02T23:26:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7240245379214773550</id>
+    <title>the original got shadowbanned for some reason #solardidsystem #sszenith </title>
+    <updated>2023-06-03T00:10:04+00:00</updated>
+    <content>the original got shadowbanned for some reason #solardidsystem #sszenith </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7240245379214773550" rel="alternate"/>
+    <published>2023-06-03T00:10:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7240260328679066926</id>
+    <title>There is literally no reason to be unkind in the first place. Kindness should be advantageous. #solardidsystem #sszenith #ssastra </title>
+    <updated>2023-06-03T01:08:10+00:00</updated>
+    <content>There is literally no reason to be unkind in the first place. Kindness should be advantageous. #solardidsystem #sszenith #ssastra </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7240260328679066926" rel="alternate"/>
+    <published>2023-06-03T01:08:10+00:00</published>
   </entry>
 </feed>
