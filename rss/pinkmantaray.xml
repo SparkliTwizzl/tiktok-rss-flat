@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pinkmantaray</id>
   <title>@pinkmantaray | TikTok</title>
-  <updated>2023-05-28T21:21:44+00:00</updated>
+  <updated>2023-06-03T20:52:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @pinkmantaray</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pinkmantaray/video/7231693986187070762</id>
-    <title>It was such a joy to sit down with @Dylan Mulvaney and chat about how we hold onto ourselves, our truths, and our joy as openly trans people in this often very transphobic world. Take a listen to this newest episode of DEAR SCHUYLER anywhere you get your </title>
-    <updated>2023-05-10T23:06:18+00:00</updated>
-    <content>It was such a joy to sit down with @Dylan Mulvaney and chat about how we hold onto ourselves, our truths, and our joy as openly trans people in this often very transphobic world. Take a listen to this newest episode of DEAR SCHUYLER anywhere you get your podcasts! And if you have a question you'd like me to address, send me a voice note here or at dearschuyler.com 🙏🏼💕🏳️‍⚧️ Brought to you by @Diversion Audio  🎤 #dearschuyler #transgender #boundaries #dylanmulvaney</content>
-    <link href="https://tiktok.com/@pinkmantaray/video/7231693986187070762" rel="alternate"/>
-    <published>2023-05-10T23:06:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pinkmantaray/video/7233550163678203182</id>
     <title>New episode of DEAR SCHUYLER with Brendon Ayanbadejo, NFL Super Bowl Champion, is out now! Listen wherever you get your podcasts 🏳️‍⚧️🙌🏼💕 #dearschuyler #transgender #podcast #transpodcast #allyship #ally #lgbtq </title>
@@ -91,5 +83,13 @@
     <content>Replying to @Toad Trans women do NOT threaten women's sports. If you want to learn more, come to my workshop about trans athletes tomorrow at 6pm ET - pinkmantaray.com/workshops to sign up. #transathlete #trans #transgender #womenssports #gender #transwomenarewomen #transwomen #transathletesbelonginsports #inclusion #dei #sports </content>
     <link href="https://tiktok.com/@pinkmantaray/video/7238346587804552490" rel="alternate"/>
     <published>2023-05-28T21:21:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pinkmantaray/video/7240565631320329515</id>
+    <title>Happy, fighting, celebrating, protesting, remembering, paying-tribute-to Pride. Never forget the trans and queer women of color who began Pride. Never forget that Pride began as a riot against police brutality. Never forget that we know who we are. Allies</title>
+    <updated>2023-06-03T20:52:53+00:00</updated>
+    <content>Happy, fighting, celebrating, protesting, remembering, paying-tribute-to Pride. Never forget the trans and queer women of color who began Pride. Never forget that Pride began as a riot against police brutality. Never forget that we know who we are. Allies, get cued into what's going on tomorrow evening at my Trans Activism &amp; You workshop. Register at the link in bio or at pinkmantaray.com/workshops 🏳️‍⚧️💕 #transgender #pride #transpride #transman #transition #genderaffirmation #transisbeautiful #gender #transjoy #transrights </content>
+    <link href="https://tiktok.com/@pinkmantaray/video/7240565631320329515" rel="alternate"/>
+    <published>2023-06-03T20:52:53+00:00</published>
   </entry>
 </feed>
