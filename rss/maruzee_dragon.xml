@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maruzee_dragon</id>
   <title>@maruzee_dragon | TikTok</title>
-  <updated>2023-06-03T14:04:03+00:00</updated>
+  <updated>2023-06-03T02:21:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maruzee_dragon</subtitle>
+  <entry>
+    <id>https://tiktok.com/@maruzee_dragon/video/7235798321925852422</id>
+    <title>Such a poser #martialarts #taekwondo #fitness #fyp </title>
+    <updated>2023-05-22T00:33:04+00:00</updated>
+    <content>Such a poser #martialarts #taekwondo #fitness #fyp </content>
+    <link href="https://tiktok.com/@maruzee_dragon/video/7235798321925852422" rel="alternate"/>
+    <published>2023-05-22T00:33:04+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@maruzee_dragon/video/7236567231109287174</id>
     <title>Réponse à @animegamer1996  I dream of the moment when I'll become a character in a video game!🥹🎮 #videogames #transition </title>
@@ -83,13 +91,5 @@
     <content>Réponse à @anacruz7925  There she is! #videogames #gamer #transition </content>
     <link href="https://tiktok.com/@maruzee_dragon/video/7240279360949800197" rel="alternate"/>
     <published>2023-06-03T02:21:49+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@maruzee_dragon/video/7240460334123797765</id>
-    <title>Réponse à @maseroy123  I had way too much fun doing this! #videogames #edit #gamer </title>
-    <updated>2023-06-03T14:04:03+00:00</updated>
-    <content>Réponse à @maseroy123  I had way too much fun doing this! #videogames #edit #gamer </content>
-    <link href="https://tiktok.com/@maruzee_dragon/video/7240460334123797765" rel="alternate"/>
-    <published>2023-06-03T14:04:03+00:00</published>
   </entry>
 </feed>

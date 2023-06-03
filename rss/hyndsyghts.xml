@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@hyndsyghts</id>
   <title>@hyndsyghts | TikTok</title>
-  <updated>2023-05-29T20:31:20+00:00</updated>
+  <updated>2023-06-03T17:03:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @hyndsyghts</subtitle>
-  <entry>
-    <id>https://tiktok.com/@hyndsyghts/video/7234290314733817130</id>
-    <title>"impaired ability to be aware of, explicitly identify, and describe one's feelings" #alexithymia #actuallyautistic #lgbtq </title>
-    <updated>2023-05-17T23:01:18+00:00</updated>
-    <content>"impaired ability to be aware of, explicitly identify, and describe one's feelings" #alexithymia #actuallyautistic #lgbtq </content>
-    <link href="https://tiktok.com/@hyndsyghts/video/7234290314733817130" rel="alternate"/>
-    <published>2023-05-17T23:01:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@hyndsyghts/video/7234985380905323818</id>
     <title>crystal castles is for the gays &amp; theys #lgbtq #crystalcastles </title>
@@ -91,5 +83,13 @@
     <content>#masking #actuallyautistic #lgbtq </content>
     <link href="https://tiktok.com/@hyndsyghts/video/7238704641142312234" rel="alternate"/>
     <published>2023-05-29T20:31:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@hyndsyghts/video/7240506583250242859</id>
+    <title>filter kinda home of phopic tbh #pridemonth #lgbtq #wlw </title>
+    <updated>2023-06-03T17:03:45+00:00</updated>
+    <content>filter kinda home of phopic tbh #pridemonth #lgbtq #wlw </content>
+    <link href="https://tiktok.com/@hyndsyghts/video/7240506583250242859" rel="alternate"/>
+    <published>2023-06-03T17:03:45+00:00</published>
   </entry>
 </feed>
