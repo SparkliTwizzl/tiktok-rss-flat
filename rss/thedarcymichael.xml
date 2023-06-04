@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-06-02T14:31:52+00:00</updated>
+  <updated>2023-06-04T20:32:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7234530618049039621</id>
-    <title>Wait for the ending 🫣 #capcut #adhd #manchild </title>
-    <updated>2023-05-18T14:33:43+00:00</updated>
-    <content>Wait for the ending 🫣 #capcut #adhd #manchild </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7234530618049039621" rel="alternate"/>
-    <published>2023-05-18T14:33:43+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7235219465875606790</id>
     <title>A wee bit drafty in here </title>
@@ -91,5 +83,13 @@
     <content>Darcy remembered to film this every day for 23 days 👏👏👏 </content>
     <link href="https://tiktok.com/@thedarcymichael/video/7240096417174342917" rel="alternate"/>
     <published>2023-06-02T14:31:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7240931591155895558</id>
+    <title>Look our chuck, there’s some new queens in town #travelvlog #pridemonth #pride #june #vlog #london </title>
+    <updated>2023-06-04T20:32:47+00:00</updated>
+    <content>Look our chuck, there’s some new queens in town #travelvlog #pridemonth #pride #june #vlog #london </content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7240931591155895558" rel="alternate"/>
+    <published>2023-06-04T20:32:47+00:00</published>
   </entry>
 </feed>
