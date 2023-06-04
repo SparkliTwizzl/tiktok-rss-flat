@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avocadosnaliens</id>
   <title>@avocadosnaliens | TikTok</title>
-  <updated>2023-06-02T22:01:22+00:00</updated>
+  <updated>2023-06-04T16:34:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avocadosnaliens</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avocadosnaliens/video/7235078778140085547</id>
-    <title>#fyp </title>
-    <updated>2023-05-20T02:01:02+00:00</updated>
-    <content>#fyp </content>
-    <link href="https://tiktok.com/@avocadosnaliens/video/7235078778140085547" rel="alternate"/>
-    <published>2023-05-20T02:01:02+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avocadosnaliens/video/7235706458824887595</id>
     <title>Been getting so much hate on these videos. I think ill make a few more #whatiwear #foryou </title>
@@ -91,5 +83,13 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@avocadosnaliens/video/7240212190811409710" rel="alternate"/>
     <published>2023-06-02T22:01:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7240870212214459694</id>
+    <title>What the hell else were we supposed to do in jersey?</title>
+    <updated>2023-06-04T16:34:44+00:00</updated>
+    <content>What the hell else were we supposed to do in jersey?</content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7240870212214459694" rel="alternate"/>
+    <published>2023-06-04T16:34:44+00:00</published>
   </entry>
 </feed>
