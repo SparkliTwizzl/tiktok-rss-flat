@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-06-03T12:41:21+00:00</updated>
+  <updated>2023-06-04T11:34:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7237580584053378350</id>
-    <title>yummy #icedcoffee #vanillalatte #coffee </title>
-    <updated>2023-05-26T19:49:14+00:00</updated>
-    <content>yummy #icedcoffee #vanillalatte #coffee </content>
-    <link href="https://tiktok.com/@punktoad/video/7237580584053378350" rel="alternate"/>
-    <published>2023-05-26T19:49:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7237968120827219242</id>
     <title>Caught him staring again 👀 #jackdaniels #thegoodstuff #staring </title>
@@ -91,5 +83,13 @@
     <content>i always try to be supportive of my friends … endeavors #goodfriend  </content>
     <link href="https://tiktok.com/@punktoad/video/7240438874827230510" rel="alternate"/>
     <published>2023-06-03T12:41:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7240792615191317803</id>
+    <title>Happy Pride!! 🎊🎉 #pridemonth #celebration #mothernature </title>
+    <updated>2023-06-04T11:34:18+00:00</updated>
+    <content>Happy Pride!! 🎊🎉 #pridemonth #celebration #mothernature </content>
+    <link href="https://tiktok.com/@punktoad/video/7240792615191317803" rel="alternate"/>
+    <published>2023-06-04T11:34:18+00:00</published>
   </entry>
 </feed>
