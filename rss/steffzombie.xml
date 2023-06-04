@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@steffzombie</id>
   <title>@steffzombie | TikTok</title>
-  <updated>2023-06-03T20:13:49+00:00</updated>
+  <updated>2023-06-03T17:47:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,22 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @steffzombie</subtitle>
+  <entry>
+    <id>https://tiktok.com/@steffzombie/video/7207645567294393646</id>
+    <title>Comment uour favorite queer tv show. Series. Characters. #fy #lgbt </title>
+    <updated>2023-03-07T03:46:12+00:00</updated>
+    <content>Comment uour favorite queer tv show. Series. Characters. #fy #lgbt </content>
+    <link href="https://tiktok.com/@steffzombie/video/7207645567294393646" rel="alternate"/>
+    <published>2023-03-07T03:46:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@steffzombie/video/7209719792138341674</id>
+    <title>Replying to @it.s.brendan  🤫 was in my purple hair era  #lgbt #fy  </title>
+    <updated>2023-03-12T17:55:14+00:00</updated>
+    <content>Replying to @it.s.brendan  🤫 was in my purple hair era  #lgbt #fy  </content>
+    <link href="https://tiktok.com/@steffzombie/video/7209719792138341674" rel="alternate"/>
+    <published>2023-03-12T17:55:14+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@steffzombie/video/7211608370762026282</id>
     <title>Its pretty simple to understand  😅 #fy #nbtok </title>
@@ -75,21 +91,5 @@
     <content>And thats on pride @🌴Natavia Holmes🌴 @Jayson Murphy </content>
     <link href="https://tiktok.com/@steffzombie/video/7240517770193014059" rel="alternate"/>
     <published>2023-06-03T17:47:11+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@steffzombie/video/7240536889504124203</id>
-    <title>Replying to @daddymclovinn420 you dont sound very confident 😅#fyp #lgbt </title>
-    <updated>2023-06-03T19:01:18+00:00</updated>
-    <content>Replying to @daddymclovinn420 you dont sound very confident 😅#fyp #lgbt </content>
-    <link href="https://tiktok.com/@steffzombie/video/7240536889504124203" rel="alternate"/>
-    <published>2023-06-03T19:01:18+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@steffzombie/video/7240555558095375658</id>
-    <title>Its a obsession fursure.  #fyp #lgbt @🌴Natavia Holmes🌴 </title>
-    <updated>2023-06-03T20:13:49+00:00</updated>
-    <content>Its a obsession fursure.  #fyp #lgbt @🌴Natavia Holmes🌴 </content>
-    <link href="https://tiktok.com/@steffzombie/video/7240555558095375658" rel="alternate"/>
-    <published>2023-06-03T20:13:49+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-06-03T01:08:10+00:00</updated>
+  <updated>2023-06-04T02:26:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7238293066606611758</id>
-    <title>[no title]</title>
-    <updated>2023-05-28T17:54:11+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7238293066606611758" rel="alternate"/>
-    <published>2023-05-28T17:54:11+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7238301235521113390</id>
-    <title>Replying to @wolffstar89 #reply #solardidsystem #ssjynx #dissociativeidentitydisorder </title>
-    <updated>2023-05-28T18:25:48+00:00</updated>
-    <content>Replying to @wolffstar89 #reply #solardidsystem #ssjynx #dissociativeidentitydisorder </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7238301235521113390" rel="alternate"/>
-    <published>2023-05-28T18:25:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7239731164674542890</id>
     <title>I do not know anything about the hair except that it was probably Jynx or Sakura #solardidsystem #ssperegrine #pride #pridemonth </title>
@@ -91,5 +75,21 @@
     <content>There is literally no reason to be unkind in the first place. Kindness should be advantageous. #solardidsystem #sszenith #ssastra </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7240260328679066926" rel="alternate"/>
     <published>2023-06-03T01:08:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7240609814118763819</id>
+    <title>You've got our contact info @TikTok #solardidsystem #ssellie #tiktok </title>
+    <updated>2023-06-03T23:44:18+00:00</updated>
+    <content>You've got our contact info @TikTok #solardidsystem #ssellie #tiktok </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7240609814118763819" rel="alternate"/>
+    <published>2023-06-03T23:44:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7240651640087252266</id>
+    <title>#stitch with @hannah I wrote a whole long thing about this and TT fucking deleted it 🤬 Communication is definitely a constant work in progress. We've been self aware almost 2 years and in therapy for a year and a half and sometimes we still just randomly </title>
+    <updated>2023-06-04T02:26:32+00:00</updated>
+    <content>#stitch with @hannah I wrote a whole long thing about this and TT fucking deleted it 🤬 Communication is definitely a constant work in progress. We've been self aware almost 2 years and in therapy for a year and a half and sometimes we still just randomly lose access to each other. Sometimes when we leave the front we don't even go inner world we just kinda disappear. Our hosts disappear a lot when they're inner world. Usually they don't remember much of the inner world. It's very dreamlike for us. Really we are all just continuously learning that we're at the mercy of the subconscious brain. That's one of the hardest parts of DID - the complete lack of control over your own brain. When we're not fronting we have no idea what's happening outside. And if we're fronting, we don't always have communication. It can be really scary, but it's okay to be scared 💝 #solardidsystem #ssellie </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7240651640087252266" rel="alternate"/>
+    <published>2023-06-04T02:26:32+00:00</published>
   </entry>
 </feed>
