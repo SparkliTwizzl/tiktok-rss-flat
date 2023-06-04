@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@juliafox038711</id>
   <title>@juliafox038711 | TikTok</title>
-  <updated>2023-06-02T20:31:24+00:00</updated>
+  <updated>2023-06-04T00:07:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,38 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juliafox038711</subtitle>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7234287321221418286</id>
-    <title>DAYMN #foryou ik ive been absent 🥹</title>
-    <updated>2023-05-17T22:49:45+00:00</updated>
-    <content>DAYMN #foryou ik ive been absent 🥹</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7234287321221418286" rel="alternate"/>
-    <published>2023-05-17T22:49:45+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7234290040388570410</id>
-    <title>#greenscreen ive wanted to grow my hair back out but im scared to be her again</title>
-    <updated>2023-05-17T23:00:14+00:00</updated>
-    <content>#greenscreen ive wanted to grow my hair back out but im scared to be her again</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7234290040388570410" rel="alternate"/>
-    <published>2023-05-17T23:00:14+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7234292423785155886</id>
-    <title>#CapCut last vid in camera roll, little brother was gettin it</title>
-    <updated>2023-05-17T23:09:30+00:00</updated>
-    <content>#CapCut last vid in camera roll, little brother was gettin it</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7234292423785155886" rel="alternate"/>
-    <published>2023-05-17T23:09:30+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7234372532550241578</id>
-    <title>#darksouls #bosslevel </title>
-    <updated>2023-05-18T04:20:22+00:00</updated>
-    <content>#darksouls #bosslevel </content>
-    <link href="https://tiktok.com/@juliafox038711/video/7234372532550241578" rel="alternate"/>
-    <published>2023-05-18T04:20:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@juliafox038711/video/7235848996261072171</id>
     <title>in love with my hair</title>
@@ -91,5 +59,37 @@
     <content>guys.. i finally cleaned my room</content>
     <link href="https://tiktok.com/@juliafox038711/video/7240189034012740910" rel="alternate"/>
     <published>2023-06-02T20:31:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7240608727005498666</id>
+    <title>toes #foryou #unshadowbanmeplstiktok </title>
+    <updated>2023-06-03T23:40:02+00:00</updated>
+    <content>toes #foryou #unshadowbanmeplstiktok </content>
+    <link href="https://tiktok.com/@juliafox038711/video/7240608727005498666" rel="alternate"/>
+    <published>2023-06-03T23:40:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7240611016562838826</id>
+    <title>[no title]</title>
+    <updated>2023-06-03T23:49:01+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7240611016562838826" rel="alternate"/>
+    <published>2023-06-03T23:49:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7240614137838095662</id>
+    <title>i guess its time for a mew white tee</title>
+    <updated>2023-06-04T00:01:03+00:00</updated>
+    <content>i guess its time for a mew white tee</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7240614137838095662" rel="alternate"/>
+    <published>2023-06-04T00:01:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7240615870421077290</id>
+    <title>thank god for communication skills 💪🏼</title>
+    <updated>2023-06-04T00:07:47+00:00</updated>
+    <content>thank god for communication skills 💪🏼</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7240615870421077290" rel="alternate"/>
+    <published>2023-06-04T00:07:47+00:00</published>
   </entry>
 </feed>
