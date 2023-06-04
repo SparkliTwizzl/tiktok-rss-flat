@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@atreegod</id>
   <title>@atreegod | TikTok</title>
-  <updated>2023-06-02T12:41:42+00:00</updated>
+  <updated>2023-06-04T02:50:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @atreegod</subtitle>
-  <entry>
-    <id>https://tiktok.com/@atreegod/video/7235084212632571182</id>
-    <title>Somebody take this kids phone away #wlw #lgbtq #lesbian </title>
-    <updated>2023-05-20T02:22:04+00:00</updated>
-    <content>Somebody take this kids phone away #wlw #lgbtq #lesbian </content>
-    <link href="https://tiktok.com/@atreegod/video/7235084212632571182" rel="alternate"/>
-    <published>2023-05-20T02:22:04+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@atreegod/video/7235333395566349610</id>
-    <title>I dont even know how that first girl is tbh #wlw #lgbtq #masc </title>
-    <updated>2023-05-20T18:29:05+00:00</updated>
-    <content>I dont even know how that first girl is tbh #wlw #lgbtq #masc </content>
-    <link href="https://tiktok.com/@atreegod/video/7235333395566349610" rel="alternate"/>
-    <published>2023-05-20T18:29:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@atreegod/video/7235433951492476206</id>
     <title>This is a draft i actually moved out of the place a bit ago but I miss everything about it #wlw #lgbtq #gay </title>
@@ -91,5 +75,21 @@
     <content>HAPPY PRIDEEEEE #wlw </content>
     <link href="https://tiktok.com/@atreegod/video/7240067990073462059" rel="alternate"/>
     <published>2023-06-02T12:41:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7240657354445049134</id>
+    <title>Happy pride hotties #wlw #masc </title>
+    <updated>2023-06-04T02:48:49+00:00</updated>
+    <content>Happy pride hotties #wlw #masc </content>
+    <link href="https://tiktok.com/@atreegod/video/7240657354445049134" rel="alternate"/>
+    <published>2023-06-04T02:48:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7240657839436418347</id>
+    <title>🤪 #wlw </title>
+    <updated>2023-06-04T02:50:40+00:00</updated>
+    <content>🤪 #wlw </content>
+    <link href="https://tiktok.com/@atreegod/video/7240657839436418347" rel="alternate"/>
+    <published>2023-06-04T02:50:40+00:00</published>
   </entry>
 </feed>
