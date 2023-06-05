@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ailaughatmyownjokes</id>
   <title>@ailaughatmyownjokes | TikTok</title>
-  <updated>2023-05-31T21:33:15+00:00</updated>
+  <updated>2023-06-05T16:45:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ailaughatmyownjokes</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ailaughatmyownjokes/video/7227106940072021274</id>
-    <title>BUT WHEN I WALK AROUND NAKED IT'S A PROBLEM.  #harrypotter #skit #comedy </title>
-    <updated>2023-04-28T14:26:08+00:00</updated>
-    <content>BUT WHEN I WALK AROUND NAKED IT'S A PROBLEM.  #harrypotter #skit #comedy </content>
-    <link href="https://tiktok.com/@ailaughatmyownjokes/video/7227106940072021274" rel="alternate"/>
-    <published>2023-04-28T14:26:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ailaughatmyownjokes/video/7228619215715011866</id>
     <title>Quality permanent marker I must say #harrypotter #skit #comedy </title>
@@ -91,5 +83,13 @@
     <content>Excuse my voice, *coughs twice* I'm sick. #cat #catsoftiktok </content>
     <link href="https://tiktok.com/@ailaughatmyownjokes/video/7239462789562010906" rel="alternate"/>
     <published>2023-05-31T21:33:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ailaughatmyownjokes/video/7241244171992927515</id>
+    <title>The thing was ok👍🏻 My mom was happy I went wirh her... they had free food so I was happy too👍🏻 #makeup #getreadywithme </title>
+    <updated>2023-06-05T16:45:51+00:00</updated>
+    <content>The thing was ok👍🏻 My mom was happy I went wirh her... they had free food so I was happy too👍🏻 #makeup #getreadywithme </content>
+    <link href="https://tiktok.com/@ailaughatmyownjokes/video/7241244171992927515" rel="alternate"/>
+    <published>2023-06-05T16:45:51+00:00</published>
   </entry>
 </feed>
