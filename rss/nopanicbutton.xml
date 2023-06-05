@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@nopanicbutton</id>
   <title>@nopanicbutton | TikTok</title>
-  <updated>2023-06-02T21:19:41+00:00</updated>
+  <updated>2023-06-05T21:47:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @nopanicbutton</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nopanicbutton/video/7232315943467224363</id>
-    <title>For those thinking about getting into raising quail....  #quailarmy #somuchpoop #paininthearse </title>
-    <updated>2023-05-12T15:20:02+00:00</updated>
-    <content>For those thinking about getting into raising quail....  #quailarmy #somuchpoop #paininthearse </content>
-    <link href="https://tiktok.com/@nopanicbutton/video/7232315943467224363" rel="alternate"/>
-    <published>2023-05-12T15:20:02+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nopanicbutton/video/7233432479250582827</id>
     <title>Custom Cornhole anyone? #inadequacy #kinktok #cornhole </title>
@@ -91,5 +83,13 @@
     <content>I wish people would just leave my balls alone! #handsoff #nonosquare #notouchie </content>
     <link href="https://tiktok.com/@nopanicbutton/video/7240201452856249646" rel="alternate"/>
     <published>2023-06-02T21:19:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nopanicbutton/video/7241321880303488298</id>
+    <title>Alcohol just lets you trade one kind of pain for another. #batcheloretteparty </title>
+    <updated>2023-06-05T21:47:28+00:00</updated>
+    <content>Alcohol just lets you trade one kind of pain for another. #batcheloretteparty </content>
+    <link href="https://tiktok.com/@nopanicbutton/video/7241321880303488298" rel="alternate"/>
+    <published>2023-06-05T21:47:28+00:00</published>
   </entry>
 </feed>
