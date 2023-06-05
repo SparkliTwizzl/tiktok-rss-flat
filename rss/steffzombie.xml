@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@steffzombie</id>
   <title>@steffzombie | TikTok</title>
-  <updated>2023-06-04T17:06:08+00:00</updated>
+  <updated>2023-06-03T17:47:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @steffzombie</subtitle>
+  <entry>
+    <id>https://tiktok.com/@steffzombie/video/7207645567294393646</id>
+    <title>Comment uour favorite queer tv show. Series. Characters. #fy #lgbt </title>
+    <updated>2023-03-07T03:46:12+00:00</updated>
+    <content>Comment uour favorite queer tv show. Series. Characters. #fy #lgbt </content>
+    <link href="https://tiktok.com/@steffzombie/video/7207645567294393646" rel="alternate"/>
+    <published>2023-03-07T03:46:12+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@steffzombie/video/7209719792138341674</id>
     <title>Replying to @it.s.brendan  🤫 was in my purple hair era  #lgbt #fy  </title>
@@ -83,13 +91,5 @@
     <content>And thats on pride @🌴Natavia Holmes🌴 @Jayson Murphy </content>
     <link href="https://tiktok.com/@steffzombie/video/7240517770193014059" rel="alternate"/>
     <published>2023-06-03T17:47:11+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@steffzombie/video/7240878291412880683</id>
-    <title>Replying to @erbalcloud  had to do a round 2. @A really basic TikTok page #fy #lgbt </title>
-    <updated>2023-06-04T17:06:08+00:00</updated>
-    <content>Replying to @erbalcloud  had to do a round 2. @A really basic TikTok page #fy #lgbt </content>
-    <link href="https://tiktok.com/@steffzombie/video/7240878291412880683" rel="alternate"/>
-    <published>2023-06-04T17:06:08+00:00</published>
   </entry>
 </feed>
