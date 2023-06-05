@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@grouch_thebird</id>
   <title>@grouch_thebird | TikTok</title>
-  <updated>2023-06-05T03:06:41+00:00</updated>
+  <updated>2023-06-05T04:10:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @grouch_thebird</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grouch_thebird/video/7239534959776566571</id>
-    <title>[no title]</title>
-    <updated>2023-06-01T02:13:17+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@grouch_thebird/video/7239534959776566571" rel="alternate"/>
-    <published>2023-06-01T02:13:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grouch_thebird/video/7239536622365084970</id>
     <title>I have this song on repeat when I work</title>
@@ -91,5 +83,13 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@grouch_thebird/video/7241033057615187246" rel="alternate"/>
     <published>2023-06-05T03:06:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grouch_thebird/video/7241049479166577963</id>
+    <title>a smooth sea never made a skillful sailor</title>
+    <updated>2023-06-05T04:10:32+00:00</updated>
+    <content>a smooth sea never made a skillful sailor</content>
+    <link href="https://tiktok.com/@grouch_thebird/video/7241049479166577963" rel="alternate"/>
+    <published>2023-06-05T04:10:32+00:00</published>
   </entry>
 </feed>
