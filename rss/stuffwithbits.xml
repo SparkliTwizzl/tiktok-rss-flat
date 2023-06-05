@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-06-05T00:35:44+00:00</updated>
+  <updated>2023-06-05T16:45:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7240204542048996651</id>
-    <title>Replying to @elia.arson.cop #reply Make it so! #solardidsystem #sszephyr #usethissound </title>
-    <updated>2023-06-02T21:31:35+00:00</updated>
-    <content>Replying to @elia.arson.cop #reply Make it so! #solardidsystem #sszephyr #usethissound </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7240204542048996651" rel="alternate"/>
-    <published>2023-06-02T21:31:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7240234043143408938</id>
     <title>Replying to @oliviawrites15 #reply #solardidsystem #sszenith </title>
@@ -91,5 +83,13 @@
     <content>spooky #solardidsystem #ssjynx </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7240994157076974890" rel="alternate"/>
     <published>2023-06-05T00:35:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7241243933303508267</id>
+    <title>@target care to explain why you felt the need to fire a disabled person instead of accommodating them? #solardidsystem #ssperegrine #target </title>
+    <updated>2023-06-05T16:45:03+00:00</updated>
+    <content>@target care to explain why you felt the need to fire a disabled person instead of accommodating them? #solardidsystem #ssperegrine #target </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7241243933303508267" rel="alternate"/>
+    <published>2023-06-05T16:45:03+00:00</published>
   </entry>
 </feed>
