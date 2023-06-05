@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@charlesthegr8</id>
   <title>@charlesthegr8 | TikTok</title>
-  <updated>2023-06-04T20:35:31+00:00</updated>
+  <updated>2023-06-05T02:22:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @charlesthegr8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7234878693372480811</id>
-    <title>Freedom #iykyk #4u #charlesthegr8 </title>
-    <updated>2023-05-19T13:04:50+00:00</updated>
-    <content>Freedom #iykyk #4u #charlesthegr8 </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7234878693372480811" rel="alternate"/>
-    <published>2023-05-19T13:04:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7234983344478489898</id>
-    <title>I even can tell her steps are hers #iykyk #4u #charlesthegr8 </title>
-    <updated>2023-05-19T19:50:44+00:00</updated>
-    <content>I even can tell her steps are hers #iykyk #4u #charlesthegr8 </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7234983344478489898" rel="alternate"/>
-    <published>2023-05-19T19:50:44+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7235214484753780014</id>
-    <title>Had to help her find it #iykyk #4u #spark #charlesthegr8 </title>
-    <updated>2023-05-20T10:49:01+00:00</updated>
-    <content>Had to help her find it #iykyk #4u #spark #charlesthegr8 </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7235214484753780014" rel="alternate"/>
-    <published>2023-05-20T10:49:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@charlesthegr8/video/7236116938684943659</id>
     <title>⚽️🥅🧤#iykyk #4u #charlesthegr8 </title>
@@ -91,5 +67,29 @@
     <content>Yeh ok buddy😂 #fypシ #iykyk #charlesthegr8 </content>
     <link href="https://tiktok.com/@charlesthegr8/video/7240932242975903018" rel="alternate"/>
     <published>2023-06-04T20:35:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7240986122497658154</id>
+    <title>Welp it was nice knowing y’all ☠️ #relationship #iykyk #charlesthegr8 </title>
+    <updated>2023-06-05T00:04:36+00:00</updated>
+    <content>Welp it was nice knowing y’all ☠️ #relationship #iykyk #charlesthegr8 </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7240986122497658154" rel="alternate"/>
+    <published>2023-06-05T00:04:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7240996189972319530</id>
+    <title>Duty calls 🦇 #batman #iykyk #charlesthgr8</title>
+    <updated>2023-06-05T00:43:38+00:00</updated>
+    <content>Duty calls 🦇 #batman #iykyk #charlesthgr8</content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7240996189972319530" rel="alternate"/>
+    <published>2023-06-05T00:43:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7241021647451409706</id>
+    <title>Nice knowing y’all ⚰️ #relationship #iykyk #charlesthgr8  </title>
+    <updated>2023-06-05T02:22:21+00:00</updated>
+    <content>Nice knowing y’all ⚰️ #relationship #iykyk #charlesthgr8  </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7241021647451409706" rel="alternate"/>
+    <published>2023-06-05T02:22:21+00:00</published>
   </entry>
 </feed>
