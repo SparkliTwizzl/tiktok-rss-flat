@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-06-06T18:49:59+00:00</updated>
+  <updated>2023-06-06T19:28:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7239369648049982766</id>
-    <title>Pause on the sunset to see what you attribute you can to celebrate. #fyp #mentalhealth </title>
-    <updated>2023-05-31T15:31:45+00:00</updated>
-    <content>Pause on the sunset to see what you attribute you can to celebrate. #fyp #mentalhealth </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7239369648049982766" rel="alternate"/>
-    <published>2023-05-31T15:31:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7239393670997232938</id>
     <title>I haven't been comfortable leaving my house. I'm constantly looking around to see who can tell and who can't. No one should have to live like this. No one. #fyp #trans </title>
@@ -91,5 +83,13 @@
     <content>#duet with @Jackson McMillan We're winning!!! We're still getting out, DeSantis is crazy and we don't want to be in his reign of terror, but this is great news for those who are staying!!! #fyp #trans </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7241647245597232426" rel="alternate"/>
     <published>2023-06-06T18:49:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7241657151649795374</id>
+    <title>[no title]</title>
+    <updated>2023-06-06T19:28:23+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7241657151649795374" rel="alternate"/>
+    <published>2023-06-06T19:28:23+00:00</published>
   </entry>
 </feed>
