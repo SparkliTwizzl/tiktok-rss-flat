@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jacobtheseahorse</id>
   <title>@jacobtheseahorse | TikTok</title>
-  <updated>2023-06-02T18:11:42+00:00</updated>
+  <updated>2023-06-06T13:43:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jacobtheseahorse</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7232313269246119194</id>
-    <title>#stitch with @Sam 🏳️‍🌈  for context - my grandparents raised me so coming out to them was a big deal! my grandfather was quite lecherous to women (and to me pre-transition 🙃) which is why I suspect he was bi, but perhaps that was a misogenistic performanc</title>
-    <updated>2023-05-12T15:09:23+00:00</updated>
-    <content>#stitch with @Sam 🏳️‍🌈  for context - my grandparents raised me so coming out to them was a big deal! my grandfather was quite lecherous to women (and to me pre-transition 🙃) which is why I suspect he was bi, but perhaps that was a misogenistic performance. who knows 🤷🏻‍♂️ #gay #lgbt #queer #family #bisexual #pansexual #comingout #90s #grandparents #trauma</content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7232313269246119194" rel="alternate"/>
-    <published>2023-05-12T15:09:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jacobtheseahorse/video/7233348684337941786</id>
     <title>There are days that I can't do things, days that I can and days that I pay the price for trying. I have breathing pattern disorder from having Covid and because that hasn't been treated I can't access the Long Covid Physio that I've waited so long for. th</title>
@@ -91,5 +83,13 @@
     <content>Replying to @xfoxyfox69 I don't have another pen but I do have something else that could help! #trans #pen #analogy #transpender #ink #lgbt #pride </content>
     <link href="https://tiktok.com/@jacobtheseahorse/video/7240153029972970779" rel="alternate"/>
     <published>2023-06-02T18:11:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7241568261739924763</id>
+    <title>if your feminism is about making out how weak and incapable women are, then it isn't feminism. intersectional feminism is where it's at. #feminism #transphobia #trans #queer #queertok </title>
+    <updated>2023-06-06T13:43:26+00:00</updated>
+    <content>if your feminism is about making out how weak and incapable women are, then it isn't feminism. intersectional feminism is where it's at. #feminism #transphobia #trans #queer #queertok </content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7241568261739924763" rel="alternate"/>
+    <published>2023-06-06T13:43:26+00:00</published>
   </entry>
 </feed>
