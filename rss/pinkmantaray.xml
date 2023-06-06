@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pinkmantaray</id>
   <title>@pinkmantaray | TikTok</title>
-  <updated>2023-06-03T20:52:53+00:00</updated>
+  <updated>2023-06-06T20:28:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @pinkmantaray</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pinkmantaray/video/7233550163678203182</id>
-    <title>New episode of DEAR SCHUYLER with Brendon Ayanbadejo, NFL Super Bowl Champion, is out now! Listen wherever you get your podcasts 🏳️‍⚧️🙌🏼💕 #dearschuyler #transgender #podcast #transpodcast #allyship #ally #lgbtq </title>
-    <updated>2023-05-15T23:09:08+00:00</updated>
-    <content>New episode of DEAR SCHUYLER with Brendon Ayanbadejo, NFL Super Bowl Champion, is out now! Listen wherever you get your podcasts 🏳️‍⚧️🙌🏼💕 #dearschuyler #transgender #podcast #transpodcast #allyship #ally #lgbtq </content>
-    <link href="https://tiktok.com/@pinkmantaray/video/7233550163678203182" rel="alternate"/>
-    <published>2023-05-15T23:09:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pinkmantaray/video/7234335859128995115</id>
     <title>A rally call today and every day as they continue to attack our basic rights to exist &amp; thrive 🏳️‍⚧️ Register for workshops at pinkmantaray.com/workshops 🙏🏼 Shirt by @grxyfit - I love you my friend!💕 #idahtb #transgender #allyship #transman #dayagainsthom</title>
@@ -91,5 +83,13 @@
     <content>Happy, fighting, celebrating, protesting, remembering, paying-tribute-to Pride. Never forget the trans and queer women of color who began Pride. Never forget that Pride began as a riot against police brutality. Never forget that we know who we are. Allies, get cued into what's going on tomorrow evening at my Trans Activism &amp; You workshop. Register at the link in bio or at pinkmantaray.com/workshops 🏳️‍⚧️💕 #transgender #pride #transpride #transman #transition #genderaffirmation #transisbeautiful #gender #transjoy #transrights </content>
     <link href="https://tiktok.com/@pinkmantaray/video/7240565631320329515" rel="alternate"/>
     <published>2023-06-03T20:52:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pinkmantaray/video/7241672754389323051</id>
+    <title>Pride continues and so does the need for education avout trans people BY trans people! #transgender #genderliteracy #gender #transliteracy #lgbtq #transpride #transition #transman #transpeoplearenottheproblem #transisbeautiful #trans </title>
+    <updated>2023-06-06T20:28:56+00:00</updated>
+    <content>Pride continues and so does the need for education avout trans people BY trans people! #transgender #genderliteracy #gender #transliteracy #lgbtq #transpride #transition #transman #transpeoplearenottheproblem #transisbeautiful #trans </content>
+    <link href="https://tiktok.com/@pinkmantaray/video/7241672754389323051" rel="alternate"/>
+    <published>2023-06-06T20:28:56+00:00</published>
   </entry>
 </feed>
