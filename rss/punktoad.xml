@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-06-05T02:16:53+00:00</updated>
+  <updated>2023-06-06T12:39:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7238726090599009578</id>
-    <title>New series? Serial Killer Trivia pt. 1 #trivia #truecrime #serialkillers </title>
-    <updated>2023-05-29T21:54:28+00:00</updated>
-    <content>New series? Serial Killer Trivia pt. 1 #trivia #truecrime #serialkillers </content>
-    <link href="https://tiktok.com/@punktoad/video/7238726090599009578" rel="alternate"/>
-    <published>2023-05-29T21:54:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7238919216999533870</id>
     <title>#stitch with @Lordswatch Ministries dont make me go #florida #repent #americasarmpit </title>
@@ -91,5 +83,13 @@
     <content>Replying to @Samantha Ras Benesch   True Crime Trivia pt. 4 #truecrime #eminem #truecrimecommunity </content>
     <link href="https://tiktok.com/@punktoad/video/7241020225402031406" rel="alternate"/>
     <published>2023-06-05T02:16:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7241551642649234731</id>
+    <title>Hooray! #latestagecapitalism #capitalistnightmare #iwannaleave </title>
+    <updated>2023-06-06T12:39:02+00:00</updated>
+    <content>Hooray! #latestagecapitalism #capitalistnightmare #iwannaleave </content>
+    <link href="https://tiktok.com/@punktoad/video/7241551642649234731" rel="alternate"/>
+    <published>2023-06-06T12:39:02+00:00</published>
   </entry>
 </feed>
