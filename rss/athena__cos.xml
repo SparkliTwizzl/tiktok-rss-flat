@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-06-05T20:54:47+00:00</updated>
+  <updated>2023-06-06T00:31:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7235371052334091566</id>
-    <title>Insert ironic caption here #kassandracosplay #kassandra #acoddessey #assassinscreedcosplay #sparta #spartancosplay </title>
-    <updated>2023-05-20T20:55:15+00:00</updated>
-    <content>Insert ironic caption here #kassandracosplay #kassandra #acoddessey #assassinscreedcosplay #sparta #spartancosplay </content>
-    <link href="https://tiktok.com/@athena__cos/video/7235371052334091566" rel="alternate"/>
-    <published>2023-05-20T20:55:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7235744009191230762</id>
     <title>When the fight scene pulls you in 👀 @The Adventurer had the amazing idea for this transition with a twist!! #ladyknight #knightcosplay #knights #wlw #fight #booktok </title>
@@ -91,5 +83,13 @@
     <content>Fantasy is my safe space  #womeninarmor #knightcosplay #ladyknight #knightcore #fantasy #fantasycosplay #booktok </content>
     <link href="https://tiktok.com/@athena__cos/video/7241308280797105451" rel="alternate"/>
     <published>2023-06-05T20:54:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7241364268161977646</id>
+    <title>Ive wanted to share these beautiful moments for a while now, they’ve just felt so personal i’ve been selfishly keeping them to myself  @Dylanpool </title>
+    <updated>2023-06-06T00:31:55+00:00</updated>
+    <content>Ive wanted to share these beautiful moments for a while now, they’ve just felt so personal i’ve been selfishly keeping them to myself  @Dylanpool </content>
+    <link href="https://tiktok.com/@athena__cos/video/7241364268161977646" rel="alternate"/>
+    <published>2023-06-06T00:31:55+00:00</published>
   </entry>
 </feed>
