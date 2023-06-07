@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kit_the_beefcake</id>
   <title>@kit_the_beefcake | TikTok</title>
-  <updated>2023-06-06T23:15:36+00:00</updated>
+  <updated>2023-06-07T04:18:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kit_the_beefcake</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7239645809841655082</id>
-    <title>#kitthebeefcake </title>
-    <updated>2023-06-01T09:23:31+00:00</updated>
-    <content>#kitthebeefcake </content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7239645809841655082" rel="alternate"/>
-    <published>2023-06-01T09:23:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7239831743233101099</id>
     <title>"That one better pop off. cuz it's got me in it." - Roommate #kitthebeefcake </title>
@@ -91,5 +83,13 @@
     <content>#kitthebeefcake </content>
     <link href="https://tiktok.com/@kit_the_beefcake/video/7241715689638219051" rel="alternate"/>
     <published>2023-06-06T23:15:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7241793758667230506</id>
+    <title>Replying to @morgan_mememan </title>
+    <updated>2023-06-07T04:18:44+00:00</updated>
+    <content>Replying to @morgan_mememan </content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7241793758667230506" rel="alternate"/>
+    <published>2023-06-07T04:18:44+00:00</published>
   </entry>
 </feed>
