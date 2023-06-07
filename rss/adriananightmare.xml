@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@adriananightmare</id>
   <title>@adriananightmare | TikTok</title>
-  <updated>2023-06-03T01:13:45+00:00</updated>
+  <updated>2023-06-06T23:06:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @adriananightmare</subtitle>
-  <entry>
-    <id>https://tiktok.com/@adriananightmare/video/7233862847137140010</id>
-    <title>[no title]</title>
-    <updated>2023-05-16T19:22:29+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@adriananightmare/video/7233862847137140010" rel="alternate"/>
-    <published>2023-05-16T19:22:29+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@adriananightmare/video/7233885281026313515</id>
     <title>#duet with @sarah who is mine? #godlyparent </title>
@@ -91,5 +83,13 @@
     <content>#duet with @Adriana Nightmare @Avery Wade #hoistthecolors #allhands #duet #siblings </content>
     <link href="https://tiktok.com/@adriananightmare/video/7240261787982056750" rel="alternate"/>
     <published>2023-06-03T01:13:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@adriananightmare/video/7241713254806916394</id>
+    <title>#ai #aiart #oc </title>
+    <updated>2023-06-06T23:06:06+00:00</updated>
+    <content>#ai #aiart #oc </content>
+    <link href="https://tiktok.com/@adriananightmare/video/7241713254806916394" rel="alternate"/>
+    <published>2023-06-06T23:06:06+00:00</published>
   </entry>
 </feed>
