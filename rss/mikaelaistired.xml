@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@mikaelaistired</id>
   <title>@mikaelaistired | TikTok</title>
-  <updated>2023-06-07T12:00:15+00:00</updated>
+  <updated>2023-06-07T16:25:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @mikaelaistired</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mikaelaistired/video/7240565538517175595</id>
-    <title>[no title]</title>
-    <updated>2023-06-03T20:52:27+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@mikaelaistired/video/7240565538517175595" rel="alternate"/>
-    <published>2023-06-03T20:52:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mikaelaistired/video/7240842572300766510</id>
     <title>Exactly </title>
@@ -91,5 +83,13 @@
     <content>I get it tho</content>
     <link href="https://tiktok.com/@mikaelaistired/video/7241912620750507307" rel="alternate"/>
     <published>2023-06-07T12:00:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mikaelaistired/video/7241981055484448046</id>
+    <title>The switch up </title>
+    <updated>2023-06-07T16:25:29+00:00</updated>
+    <content>The switch up </content>
+    <link href="https://tiktok.com/@mikaelaistired/video/7241981055484448046" rel="alternate"/>
+    <published>2023-06-07T16:25:29+00:00</published>
   </entry>
 </feed>
