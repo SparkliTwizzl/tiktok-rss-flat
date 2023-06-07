@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-06-06T13:44:49+00:00</updated>
+  <updated>2023-06-07T16:07:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7235929616911830278</id>
-    <title>Congrats on your marriage you hypcrite. I love you @Daniel_Sloss </title>
-    <updated>2023-05-22T09:02:35+00:00</updated>
-    <content>Congrats on your marriage you hypcrite. I love you @Daniel_Sloss </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7235929616911830278" rel="alternate"/>
-    <published>2023-05-22T09:02:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7235991997906046213</id>
     <title>well they tried 🤷🏻 #CapCut  </title>
@@ -91,5 +83,13 @@
     <content>Replying to @beeroom666 sorry pal, I tried to keep it a secret 🤷🏻 #justforlaughs </content>
     <link href="https://tiktok.com/@thedarcymichael/video/7241568638556228869" rel="alternate"/>
     <published>2023-06-06T13:44:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7241976367485652229</id>
+    <title>I think we just had 2 different conversations 🤷🏻</title>
+    <updated>2023-06-07T16:07:03+00:00</updated>
+    <content>I think we just had 2 different conversations 🤷🏻</content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7241976367485652229" rel="alternate"/>
+    <published>2023-06-07T16:07:03+00:00</published>
   </entry>
 </feed>
