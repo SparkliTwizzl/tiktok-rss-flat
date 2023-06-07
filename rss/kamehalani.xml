@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kamehalani</id>
   <title>@kamehalani | TikTok</title>
-  <updated>2023-06-07T17:11:38+00:00</updated>
+  <updated>2023-06-07T20:05:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kamehalani</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kamehalani/video/7234557687030238507</id>
-    <title>Replying to @BeardedTransBear #greenscreen i feel like im confused by the intention of the comment. Maybe im misreading and im not lecturing anyone </title>
-    <updated>2023-05-18T16:18:56+00:00</updated>
-    <content>Replying to @BeardedTransBear #greenscreen i feel like im confused by the intention of the comment. Maybe im misreading and im not lecturing anyone </content>
-    <link href="https://tiktok.com/@kamehalani/video/7234557687030238507" rel="alternate"/>
-    <published>2023-05-18T16:18:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kamehalani/video/7234588928471354667</id>
     <title>#stitch with @Taongcouiy yall jk or am i? #timcurry #rhps </title>
@@ -91,5 +83,13 @@
     <content>Im tired that we have to continue to fight and fight just for us to be tossed aside or h-rmed. These issues have gotten unmanageable. This is concerted #lgbt #pridemonth </content>
     <link href="https://tiktok.com/@kamehalani/video/7241992933959060782" rel="alternate"/>
     <published>2023-06-07T17:11:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kamehalani/video/7242037806929825066</id>
+    <title>Replying to @ScubaSteve   #greenscreen thanks @Emma Mae for pointing this person to me #nativehawaiian #kanaka </title>
+    <updated>2023-06-07T20:05:36+00:00</updated>
+    <content>Replying to @ScubaSteve   #greenscreen thanks @Emma Mae for pointing this person to me #nativehawaiian #kanaka </content>
+    <link href="https://tiktok.com/@kamehalani/video/7242037806929825066" rel="alternate"/>
+    <published>2023-06-07T20:05:36+00:00</published>
   </entry>
 </feed>
