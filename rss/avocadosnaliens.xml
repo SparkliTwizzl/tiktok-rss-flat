@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avocadosnaliens</id>
   <title>@avocadosnaliens | TikTok</title>
-  <updated>2023-06-05T04:48:52+00:00</updated>
+  <updated>2023-06-07T05:32:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avocadosnaliens</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avocadosnaliens/video/7237295456068439339</id>
-    <title>Sorry i had to reupload😭</title>
-    <updated>2023-05-26T01:22:48+00:00</updated>
-    <content>Sorry i had to reupload😭</content>
-    <link href="https://tiktok.com/@avocadosnaliens/video/7237295456068439339" rel="alternate"/>
-    <published>2023-05-26T01:22:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avocadosnaliens/video/7237313807717223726</id>
     <title>Should i?</title>
@@ -91,5 +83,13 @@
     <content>#greenscreenvideo #nofilter #quittingalchohol #healthyskincare #sobrietytok still got that adult acne from time to time but my skin used to be dry/flakey. I had wrinkles and face bloat. All of this from alcohol. </content>
     <link href="https://tiktok.com/@avocadosnaliens/video/7241059380362218795" rel="alternate"/>
     <published>2023-06-05T04:48:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7241812660352830766</id>
+    <title>#stitch with @Katarina Mogus 🤍 </title>
+    <updated>2023-06-07T05:32:10+00:00</updated>
+    <content>#stitch with @Katarina Mogus 🤍 </content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7241812660352830766" rel="alternate"/>
+    <published>2023-06-07T05:32:10+00:00</published>
   </entry>
 </feed>
