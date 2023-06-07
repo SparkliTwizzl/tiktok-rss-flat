@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@steffzombie</id>
   <title>@steffzombie | TikTok</title>
-  <updated>2023-06-06T19:08:23+00:00</updated>
+  <updated>2023-06-07T00:15:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @steffzombie</subtitle>
-  <entry>
-    <id>https://tiktok.com/@steffzombie/video/7209719792138341674</id>
-    <title>Replying to @it.s.brendan  🤫 was in my purple hair era  #lgbt #fy  </title>
-    <updated>2023-03-12T17:55:14+00:00</updated>
-    <content>Replying to @it.s.brendan  🤫 was in my purple hair era  #lgbt #fy  </content>
-    <link href="https://tiktok.com/@steffzombie/video/7209719792138341674" rel="alternate"/>
-    <published>2023-03-12T17:55:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@steffzombie/video/7211608370762026282</id>
     <title>Its pretty simple to understand  😅 #fy #nbtok </title>
@@ -85,11 +77,19 @@
     <published>2023-06-03T17:47:11+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@steffzombie/video/7241651991561112878</id>
-    <title>6’2.. in boots 6’6/ 6’7 ….#fyp #lgbt </title>
-    <updated>2023-06-06T19:08:23+00:00</updated>
-    <content>6’2.. in boots 6’6/ 6’7 ….#fyp #lgbt </content>
-    <link href="https://tiktok.com/@steffzombie/video/7241651991561112878" rel="alternate"/>
-    <published>2023-06-06T19:08:23+00:00</published>
+    <id>https://tiktok.com/@steffzombie/video/7241721541254286635</id>
+    <title>Dc : yours truly 😏 #fy #lgbt </title>
+    <updated>2023-06-06T23:38:17+00:00</updated>
+    <content>Dc : yours truly 😏 #fy #lgbt </content>
+    <link href="https://tiktok.com/@steffzombie/video/7241721541254286635" rel="alternate"/>
+    <published>2023-06-06T23:38:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@steffzombie/video/7241731185590783275</id>
+    <title>Replying to @levixxet  noice @♾️ #lgbt </title>
+    <updated>2023-06-07T00:15:42+00:00</updated>
+    <content>Replying to @levixxet  noice @♾️ #lgbt </content>
+    <link href="https://tiktok.com/@steffzombie/video/7241731185590783275" rel="alternate"/>
+    <published>2023-06-07T00:15:42+00:00</published>
   </entry>
 </feed>

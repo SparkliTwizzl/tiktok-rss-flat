@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-06-06T12:39:02+00:00</updated>
+  <updated>2023-06-07T00:12:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7238919216999533870</id>
-    <title>#stitch with @Lordswatch Ministries dont make me go #florida #repent #americasarmpit </title>
-    <updated>2023-05-30T10:23:56+00:00</updated>
-    <content>#stitch with @Lordswatch Ministries dont make me go #florida #repent #americasarmpit </content>
-    <link href="https://tiktok.com/@punktoad/video/7238919216999533870" rel="alternate"/>
-    <published>2023-05-30T10:23:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7239064530536484138</id>
     <title>OC: @Tales From the Wasteland #fallout4 #falloutseries #bathesdagames </title>
@@ -91,5 +83,13 @@
     <content>Hooray! #latestagecapitalism #capitalistnightmare #iwannaleave </content>
     <link href="https://tiktok.com/@punktoad/video/7241551642649234731" rel="alternate"/>
     <published>2023-06-06T12:39:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7241730484332662062</id>
+    <title>Replying to @Empress of Ozempic hope this helps  </title>
+    <updated>2023-06-07T00:12:59+00:00</updated>
+    <content>Replying to @Empress of Ozempic hope this helps  </content>
+    <link href="https://tiktok.com/@punktoad/video/7241730484332662062" rel="alternate"/>
+    <published>2023-06-07T00:12:59+00:00</published>
   </entry>
 </feed>
