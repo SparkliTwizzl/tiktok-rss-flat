@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kingfemme</id>
   <title>@kingfemme | TikTok</title>
-  <updated>2023-06-06T21:29:36+00:00</updated>
+  <updated>2023-06-07T19:54:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kingfemme</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kingfemme/video/7204899980237098283</id>
-    <title>I got a lil choked up making this video, but I am so unbelievably privileged to have the parents I do 🥹💗💕 #capcut #lgbt #pflag #comingout #trans #nonbinary #topsurgery #pansexual #relgion #lgbtjews #fyp </title>
-    <updated>2023-02-27T18:11:51+00:00</updated>
-    <content>I got a lil choked up making this video, but I am so unbelievably privileged to have the parents I do 🥹💗💕 #capcut #lgbt #pflag #comingout #trans #nonbinary #topsurgery #pansexual #relgion #lgbtjews #fyp </content>
-    <link href="https://tiktok.com/@kingfemme/video/7204899980237098283" rel="alternate"/>
-    <published>2023-02-27T18:11:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kingfemme/video/7206347482211568938</id>
     <title>#CapCut #transformation #transgender #femme #lgbt #nonbinary #gnc #fyp #trans #ftm #mtf #comingout #hrt #makeup </title>
@@ -91,5 +83,13 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@kingfemme/video/7241688393682259243" rel="alternate"/>
     <published>2023-06-06T21:29:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kingfemme/video/7242034884221406506</id>
+    <title>#stitch with @miki ratsula #greenscreen #genderdysphoria #queerwedding #ftm #transmasc #mtf #nonbinary #lgbt #fyp #transgender </title>
+    <updated>2023-06-07T19:54:15+00:00</updated>
+    <content>#stitch with @miki ratsula #greenscreen #genderdysphoria #queerwedding #ftm #transmasc #mtf #nonbinary #lgbt #fyp #transgender </content>
+    <link href="https://tiktok.com/@kingfemme/video/7242034884221406506" rel="alternate"/>
+    <published>2023-06-07T19:54:15+00:00</published>
   </entry>
 </feed>
