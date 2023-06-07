@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@juliafox038711</id>
   <title>@juliafox038711 | TikTok</title>
-  <updated>2023-06-04T00:07:47+00:00</updated>
+  <updated>2023-06-07T21:42:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juliafox038711</subtitle>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7235848996261072171</id>
-    <title>in love with my hair</title>
-    <updated>2023-05-22T03:49:57+00:00</updated>
-    <content>in love with my hair</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7235848996261072171" rel="alternate"/>
-    <published>2023-05-22T03:49:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@juliafox038711/video/7236563915142860078</id>
     <title>#VideoAleatorio i love this freaking video, my dad recorded me going down the stairs when i was in school cuz i was so sore from working out, was in so much pain</title>
@@ -91,5 +83,13 @@
     <content>thank god for communication skills 💪🏼</content>
     <link href="https://tiktok.com/@juliafox038711/video/7240615870421077290" rel="alternate"/>
     <published>2023-06-04T00:07:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7242062881594903851</id>
+    <title>would love a facial piercing but absolutly terrified of them</title>
+    <updated>2023-06-07T21:42:52+00:00</updated>
+    <content>would love a facial piercing but absolutly terrified of them</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7242062881594903851" rel="alternate"/>
+    <published>2023-06-07T21:42:52+00:00</published>
   </entry>
 </feed>
