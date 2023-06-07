@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maruzee_dragon</id>
   <title>@maruzee_dragon | TikTok</title>
-  <updated>2023-06-04T02:07:39+00:00</updated>
+  <updated>2023-06-07T02:33:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maruzee_dragon</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maruzee_dragon/video/7236567231109287174</id>
-    <title>Réponse à @animegamer1996  I dream of the moment when I'll become a character in a video game!🥹🎮 #videogames #transition </title>
-    <updated>2023-05-24T02:16:48+00:00</updated>
-    <content>Réponse à @animegamer1996  I dream of the moment when I'll become a character in a video game!🥹🎮 #videogames #transition </content>
-    <link href="https://tiktok.com/@maruzee_dragon/video/7236567231109287174" rel="alternate"/>
-    <published>2023-05-24T02:16:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maruzee_dragon/video/7236938879025106181</id>
     <title>Réponse à @celticnative2923 What name fits my Mortal Kombat character flawlessly?😎 #videogames #transition #gamer </title>
@@ -91,5 +83,13 @@
     <content>Réponse à @panagiwta.sar_94  🫠 #videogames #gamer #transition </content>
     <link href="https://tiktok.com/@maruzee_dragon/video/7240646800573582598" rel="alternate"/>
     <published>2023-06-04T02:07:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maruzee_dragon/video/7241766663757024517</id>
+    <title>Adding a Martial Arts Twist to this TikTok Dance Trend!🥷 ⚠️PROPS|TRAINED PROFESSIONAL⚠️ #martialarts #trending </title>
+    <updated>2023-06-07T02:33:17+00:00</updated>
+    <content>Adding a Martial Arts Twist to this TikTok Dance Trend!🥷 ⚠️PROPS|TRAINED PROFESSIONAL⚠️ #martialarts #trending </content>
+    <link href="https://tiktok.com/@maruzee_dragon/video/7241766663757024517" rel="alternate"/>
+    <published>2023-06-07T02:33:17+00:00</published>
   </entry>
 </feed>
