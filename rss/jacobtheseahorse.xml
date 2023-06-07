@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jacobtheseahorse</id>
   <title>@jacobtheseahorse | TikTok</title>
-  <updated>2023-06-06T13:43:26+00:00</updated>
+  <updated>2023-06-07T16:25:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jacobtheseahorse</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7233348684337941786</id>
-    <title>There are days that I can't do things, days that I can and days that I pay the price for trying. I have breathing pattern disorder from having Covid and because that hasn't been treated I can't access the Long Covid Physio that I've waited so long for. th</title>
-    <updated>2023-05-15T10:07:21+00:00</updated>
-    <content>There are days that I can't do things, days that I can and days that I pay the price for trying. I have breathing pattern disorder from having Covid and because that hasn't been treated I can't access the Long Covid Physio that I've waited so long for. this is a vulnerable moment for me but I know I'm not alone in having a hidden disability and how impactful it is. please be kind #longcovid #covid #migraines #breathing #airhunger #fatigue #brainfog #physio #physiotherapy #emotional #hiddendisabilities #adhd #audhd #capcut #lgbt #transgender </content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7233348684337941786" rel="alternate"/>
-    <published>2023-05-15T10:07:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jacobtheseahorse/video/7233413194168012059</id>
     <title>Replying to @kinj.apan I could only make drops at a time because chest surgery removed a significant amount of my breast tissue, but it's still a miracle that it could happen at all! many trans guys feed from their bodies in one way or another, often usin</title>
@@ -91,5 +83,13 @@
     <content>if your feminism is about making out how weak and incapable women are, then it isn't feminism. intersectional feminism is where it's at. #feminism #transphobia #trans #queer #queertok </content>
     <link href="https://tiktok.com/@jacobtheseahorse/video/7241568261739924763" rel="alternate"/>
     <published>2023-06-06T13:43:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7241980972676238619</id>
+    <title>#stitch with @Jacob - Papa Seahorse 🏳️‍⚧️ my ink was always pink and my ink was always blue t-shirts are both available now! bit. ly / seahorseshop or check out my l¡nk in bio  there's also t-shirts for the nonbinary universe as well as lots for allies to</title>
+    <updated>2023-06-07T16:25:02+00:00</updated>
+    <content>#stitch with @Jacob - Papa Seahorse 🏳️‍⚧️ my ink was always pink and my ink was always blue t-shirts are both available now! bit. ly / seahorseshop or check out my l¡nk in bio  there's also t-shirts for the nonbinary universe as well as lots for allies too! #trans #merch #transpender #pink #blue #bic </content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7241980972676238619" rel="alternate"/>
+    <published>2023-06-07T16:25:02+00:00</published>
   </entry>
 </feed>
