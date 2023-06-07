@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avocadosnaliens</id>
   <title>@avocadosnaliens | TikTok</title>
-  <updated>2023-06-07T05:32:10+00:00</updated>
+  <updated>2023-06-07T14:30:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avocadosnaliens</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avocadosnaliens/video/7237313807717223726</id>
-    <title>Should i?</title>
-    <updated>2023-05-26T02:34:00+00:00</updated>
-    <content>Should i?</content>
-    <link href="https://tiktok.com/@avocadosnaliens/video/7237313807717223726" rel="alternate"/>
-    <published>2023-05-26T02:34:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avocadosnaliens/video/7239501508289645866</id>
     <title>#greenscreen when i was in my last relationship, my ex took this photo of me at a fancy restaurant in malibu. I was drunk almost everyday. My face was inflamed, i was 30 lbs heavier, i had so much brain fog, constantly anxious. I had myself convinced that</title>
@@ -91,5 +83,13 @@
     <content>#stitch with @Katarina Mogus 🤍 </content>
     <link href="https://tiktok.com/@avocadosnaliens/video/7241812660352830766" rel="alternate"/>
     <published>2023-06-07T05:32:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7241951338953968942</id>
+    <title>So beyond excited for “unknown” to come out. @Hozier you are something special to me. Enjoy all the awkward facial expressions 🤠</title>
+    <updated>2023-06-07T14:30:19+00:00</updated>
+    <content>So beyond excited for “unknown” to come out. @Hozier you are something special to me. Enjoy all the awkward facial expressions 🤠</content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7241951338953968942" rel="alternate"/>
+    <published>2023-06-07T14:30:19+00:00</published>
   </entry>
 </feed>
