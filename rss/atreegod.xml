@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@atreegod</id>
   <title>@atreegod | TikTok</title>
-  <updated>2023-06-04T02:50:40+00:00</updated>
+  <updated>2023-06-08T19:47:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @atreegod</subtitle>
-  <entry>
-    <id>https://tiktok.com/@atreegod/video/7235433951492476206</id>
-    <title>This is a draft i actually moved out of the place a bit ago but I miss everything about it #wlw #lgbtq #gay </title>
-    <updated>2023-05-21T00:59:13+00:00</updated>
-    <content>This is a draft i actually moved out of the place a bit ago but I miss everything about it #wlw #lgbtq #gay </content>
-    <link href="https://tiktok.com/@atreegod/video/7235433951492476206" rel="alternate"/>
-    <published>2023-05-21T00:59:13+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@atreegod/video/7235712204585094443</id>
-    <title>Should i bring the little streak back or whatttt #wlw </title>
-    <updated>2023-05-21T18:59:03+00:00</updated>
-    <content>Should i bring the little streak back or whatttt #wlw </content>
-    <link href="https://tiktok.com/@atreegod/video/7235712204585094443" rel="alternate"/>
-    <published>2023-05-21T18:59:03+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@atreegod/video/7235780113386933550</id>
-    <title>Hi #wlw #lgbtq </title>
-    <updated>2023-05-21T23:22:36+00:00</updated>
-    <content>Hi #wlw #lgbtq </content>
-    <link href="https://tiktok.com/@atreegod/video/7235780113386933550" rel="alternate"/>
-    <published>2023-05-21T23:22:36+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@atreegod/video/7235780259621195051</id>
     <title>Is doja ever releasing again or did she quit fr #wlw #masc #lgbtq </title>
@@ -91,5 +67,29 @@
     <content>🤪 #wlw </content>
     <link href="https://tiktok.com/@atreegod/video/7240657839436418347" rel="alternate"/>
     <published>2023-06-04T02:50:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7242402804273499438</id>
+    <title>🤓 #wlw </title>
+    <updated>2023-06-08T19:41:54+00:00</updated>
+    <content>🤓 #wlw </content>
+    <link href="https://tiktok.com/@atreegod/video/7242402804273499438" rel="alternate"/>
+    <published>2023-06-08T19:41:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7242403983510211883</id>
+    <title>Definitely played a part in mh awakening #wlw #lgbtq </title>
+    <updated>2023-06-08T19:46:28+00:00</updated>
+    <content>Definitely played a part in mh awakening #wlw #lgbtq </content>
+    <link href="https://tiktok.com/@atreegod/video/7242403983510211883" rel="alternate"/>
+    <published>2023-06-08T19:46:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7242404300796857646</id>
+    <title>Ok bye #wlw </title>
+    <updated>2023-06-08T19:47:44+00:00</updated>
+    <content>Ok bye #wlw </content>
+    <link href="https://tiktok.com/@atreegod/video/7242404300796857646" rel="alternate"/>
+    <published>2023-06-08T19:47:44+00:00</published>
   </entry>
 </feed>
