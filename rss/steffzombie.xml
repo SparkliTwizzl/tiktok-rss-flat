@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@steffzombie</id>
   <title>@steffzombie | TikTok</title>
-  <updated>2023-06-08T18:30:40+00:00</updated>
+  <updated>2023-06-08T01:47:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @steffzombie</subtitle>
+  <entry>
+    <id>https://tiktok.com/@steffzombie/video/7211608370762026282</id>
+    <title>Its pretty simple to understand  😅 #fy #nbtok </title>
+    <updated>2023-03-17T20:03:48+00:00</updated>
+    <content>Its pretty simple to understand  😅 #fy #nbtok </content>
+    <link href="https://tiktok.com/@steffzombie/video/7211608370762026282" rel="alternate"/>
+    <published>2023-03-17T20:03:48+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@steffzombie/video/7212408400401943850</id>
     <title>Most powerful Men and Women and non gendered ancestors wore skirts.  #fy #lgbtq </title>
@@ -83,13 +91,5 @@
     <content>Yello is so grungy 🫠</content>
     <link href="https://tiktok.com/@steffzombie/video/7242125925788470574" rel="alternate"/>
     <published>2023-06-08T01:47:30+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@steffzombie/video/7242384447851547950</id>
-    <title>🖤#fyp </title>
-    <updated>2023-06-08T18:30:40+00:00</updated>
-    <content>🖤#fyp </content>
-    <link href="https://tiktok.com/@steffzombie/video/7242384447851547950" rel="alternate"/>
-    <published>2023-06-08T18:30:40+00:00</published>
   </entry>
 </feed>
