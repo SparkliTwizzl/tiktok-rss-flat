@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@charlesthegr8</id>
   <title>@charlesthegr8 | TikTok</title>
-  <updated>2023-06-06T15:29:12+00:00</updated>
+  <updated>2023-06-08T16:12:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @charlesthegr8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7236116938684943659</id>
-    <title>⚽️🥅🧤#iykyk #4u #charlesthegr8 </title>
-    <updated>2023-05-22T21:09:37+00:00</updated>
-    <content>⚽️🥅🧤#iykyk #4u #charlesthegr8 </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7236116938684943659" rel="alternate"/>
-    <published>2023-05-22T21:09:37+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7236373234625662251</id>
-    <title>Yall dont know the struggle!!! #4u #iykyk #charlesthegr8 </title>
-    <updated>2023-05-23T13:44:10+00:00</updated>
-    <content>Yall dont know the struggle!!! #4u #iykyk #charlesthegr8 </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7236373234625662251" rel="alternate"/>
-    <published>2023-05-23T13:44:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@charlesthegr8/video/7238416500330073386</id>
     <title>We I can see where the problem is!!! #4u #iykyk #charlesthegr8 </title>
@@ -91,5 +75,21 @@
     <content>Huge red flag #fypシ  #iykyk #charlesthgr8 </content>
     <link href="https://tiktok.com/@charlesthegr8/video/7241595494844353838" rel="alternate"/>
     <published>2023-06-06T15:29:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7242344617813773611</id>
+    <title>Lets goooo! #fypシ #iykyk #charlesthgr8 #spiderham </title>
+    <updated>2023-06-08T15:56:08+00:00</updated>
+    <content>Lets goooo! #fypシ #iykyk #charlesthgr8 #spiderham </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7242344617813773611" rel="alternate"/>
+    <published>2023-06-08T15:56:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7242348946385898798</id>
+    <title>I cant be the only one #fypシ #iykyk #charlesthgr8 </title>
+    <updated>2023-06-08T16:12:56+00:00</updated>
+    <content>I cant be the only one #fypシ #iykyk #charlesthgr8 </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7242348946385898798" rel="alternate"/>
+    <published>2023-06-08T16:12:56+00:00</published>
   </entry>
 </feed>
