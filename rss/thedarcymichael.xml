@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-06-07T16:07:03+00:00</updated>
+  <updated>2023-06-08T16:31:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7235991997906046213</id>
-    <title>well they tried 🤷🏻 #CapCut  </title>
-    <updated>2023-05-22T13:04:37+00:00</updated>
-    <content>well they tried 🤷🏻 #CapCut  </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7235991997906046213" rel="alternate"/>
-    <published>2023-05-22T13:04:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7237154536287259909</id>
     <title>Replying to @James Bullock just kidding. Were not hetr. </title>
@@ -91,5 +83,13 @@
     <content>I think we just had 2 different conversations 🤷🏻</content>
     <link href="https://tiktok.com/@thedarcymichael/video/7241976367485652229" rel="alternate"/>
     <published>2023-06-07T16:07:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7242353860327509254</id>
+    <title>Surprise! #funny #couple #marriedlife  #CapCut </title>
+    <updated>2023-06-08T16:31:53+00:00</updated>
+    <content>Surprise! #funny #couple #marriedlife  #CapCut </content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7242353860327509254" rel="alternate"/>
+    <published>2023-06-08T16:31:53+00:00</published>
   </entry>
 </feed>
