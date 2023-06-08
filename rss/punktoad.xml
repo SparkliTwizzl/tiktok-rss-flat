@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-06-07T00:12:59+00:00</updated>
+  <updated>2023-06-08T10:58:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7239064530536484138</id>
-    <title>OC: @Tales From the Wasteland #fallout4 #falloutseries #bathesdagames </title>
-    <updated>2023-05-30T19:47:43+00:00</updated>
-    <content>OC: @Tales From the Wasteland #fallout4 #falloutseries #bathesdagames </content>
-    <link href="https://tiktok.com/@punktoad/video/7239064530536484138" rel="alternate"/>
-    <published>2023-05-30T19:47:43+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7239185437938486574</id>
     <title>Replying to @Samantha Ras Benesch How Much Do You Know About Serial Killers pt. 2 #trivia #truecrime </title>
@@ -91,5 +83,13 @@
     <content>Replying to @Empress of Ozempic hope this helps  </content>
     <link href="https://tiktok.com/@punktoad/video/7241730484332662062" rel="alternate"/>
     <published>2023-06-07T00:12:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7242267912235404590</id>
+    <title>this song is too good #i2i #goofymovie #powerline </title>
+    <updated>2023-06-08T10:58:34+00:00</updated>
+    <content>this song is too good #i2i #goofymovie #powerline </content>
+    <link href="https://tiktok.com/@punktoad/video/7242267912235404590" rel="alternate"/>
+    <published>2023-06-08T10:58:34+00:00</published>
   </entry>
 </feed>
