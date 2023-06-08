@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maruzee_dragon</id>
   <title>@maruzee_dragon | TikTok</title>
-  <updated>2023-06-07T02:33:17+00:00</updated>
+  <updated>2023-06-08T02:18:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maruzee_dragon</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maruzee_dragon/video/7236938879025106181</id>
-    <title>Réponse à @celticnative2923 What name fits my Mortal Kombat character flawlessly?😎 #videogames #transition #gamer </title>
-    <updated>2023-05-25T02:19:01+00:00</updated>
-    <content>Réponse à @celticnative2923 What name fits my Mortal Kombat character flawlessly?😎 #videogames #transition #gamer </content>
-    <link href="https://tiktok.com/@maruzee_dragon/video/7236938879025106181" rel="alternate"/>
-    <published>2023-05-25T02:19:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maruzee_dragon/video/7237311387033193734</id>
     <title>Réponse à @therandomartist Mileena vibes hitting hard in this one! #videogames #mortalkombat #transition #gamer </title>
@@ -91,5 +83,13 @@
     <content>Adding a Martial Arts Twist to this TikTok Dance Trend!🥷 ⚠️PROPS|TRAINED PROFESSIONAL⚠️ #martialarts #trending </content>
     <link href="https://tiktok.com/@maruzee_dragon/video/7241766663757024517" rel="alternate"/>
     <published>2023-06-07T02:33:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maruzee_dragon/video/7242133986967817477</id>
+    <title>Réponse à @imbored1878  Listen up😂... I couldn't get my hands on Skarlet's costume that quickly, so I did my best improvising with what I had!! #trending #videogames #gamer </title>
+    <updated>2023-06-08T02:18:40+00:00</updated>
+    <content>Réponse à @imbored1878  Listen up😂... I couldn't get my hands on Skarlet's costume that quickly, so I did my best improvising with what I had!! #trending #videogames #gamer </content>
+    <link href="https://tiktok.com/@maruzee_dragon/video/7242133986967817477" rel="alternate"/>
+    <published>2023-06-08T02:18:40+00:00</published>
   </entry>
 </feed>
