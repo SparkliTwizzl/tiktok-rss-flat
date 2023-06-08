@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@manic.toxicity</id>
   <title>@manic.toxicity | TikTok</title>
-  <updated>2023-06-05T19:53:18+00:00</updated>
+  <updated>2023-06-08T21:46:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @manic.toxicity</subtitle>
-  <entry>
-    <id>https://tiktok.com/@manic.toxicity/video/7239063926657256746</id>
-    <title>her or the sun? #fyp #foryou </title>
-    <updated>2023-05-30T19:45:20+00:00</updated>
-    <content>her or the sun? #fyp #foryou </content>
-    <link href="https://tiktok.com/@manic.toxicity/video/7239063926657256746" rel="alternate"/>
-    <published>2023-05-30T19:45:20+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@manic.toxicity/video/7239414484924927278</id>
-    <title>i am so, extremely, late to this trend (psst its an old draft) #fyp #foryou </title>
-    <updated>2023-05-31T18:25:44+00:00</updated>
-    <content>i am so, extremely, late to this trend (psst its an old draft) #fyp #foryou </content>
-    <link href="https://tiktok.com/@manic.toxicity/video/7239414484924927278" rel="alternate"/>
-    <published>2023-05-31T18:25:44+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@manic.toxicity/video/7239817007569521966</id>
-    <title>fuck this. #fyp #foryou</title>
-    <updated>2023-06-01T20:27:42+00:00</updated>
-    <content>fuck this. #fyp #foryou</content>
-    <link href="https://tiktok.com/@manic.toxicity/video/7239817007569521966" rel="alternate"/>
-    <published>2023-06-01T20:27:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@manic.toxicity/video/7239840805450501418</id>
     <title>a little gamblin’ #fyp #foryou </title>
@@ -91,5 +67,29 @@
     <content>mental health matters, in every aspect of the phrase. no matter how much you feel like you, or what youre going through, doesnt matter… it does. it’s important to recognize your self worth and the things you di and dont deserve in life. you dont deserve every bad thing that happens. i get alot of wuestions about the tattoo ok my collar bone: “no rain, no flowers”. i got that tattoo and associate it with my trauma. good things wont come, until after bad shit does. as much as it sucks going through it, you grow from what you go through. always remmeber to prioritize yourself because its one of the most important things. it can be hard, especialy if you have people pleasing tendencies such as myself, but you have to work through it.  i was clean for five years before my relapse, and it was very hard. remmeber that somrwhere, even if you dont see it, theres always someone who cares about you. if you need to, reach out. reach out to a friend, a loved one, a partner, a coworker, a therapist, anyone that you can get some help from. battling mental illness is such a difficult, long, exhausting journey. as taxing as it feels most of the time, youre making progress and you should always celebrate atleast trying !  i know i dont really use my platform to speak about this alot, honestly ill probably get some rude comments or remarkes, but oh well.  always remember that youre loved and that youre worth living. stay strong, stay gorgeous/handsome, and keep on livin. dont forget to have fun doing it all :)  i love all you nerds &lt;3  (yes i am still sick lmao, im almost completely over it tho!! &lt;3 ) #mentalhealthmatters #fyp #foryou #clean </content>
     <link href="https://tiktok.com/@manic.toxicity/video/7241292452231957803" rel="alternate"/>
     <published>2023-06-05T19:53:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@manic.toxicity/video/7242415030208187691</id>
+    <title>steal all my lines from this guy names brian ;) #fyp #foryou </title>
+    <updated>2023-06-08T20:29:23+00:00</updated>
+    <content>steal all my lines from this guy names brian ;) #fyp #foryou </content>
+    <link href="https://tiktok.com/@manic.toxicity/video/7242415030208187691" rel="alternate"/>
+    <published>2023-06-08T20:29:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@manic.toxicity/video/7242416063239949611</id>
+    <title>sorry, girl, i hope you understand &lt;3 #fyp #foryou </title>
+    <updated>2023-06-08T20:33:21+00:00</updated>
+    <content>sorry, girl, i hope you understand &lt;3 #fyp #foryou </content>
+    <link href="https://tiktok.com/@manic.toxicity/video/7242416063239949611" rel="alternate"/>
+    <published>2023-06-08T20:33:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@manic.toxicity/video/7242434926610533678</id>
+    <title>yeah yeah i did it again  (i get off work at 10pm CST… can we hit 100k by then..? ✨🤯)  #fyp #foryou </title>
+    <updated>2023-06-08T21:46:32+00:00</updated>
+    <content>yeah yeah i did it again  (i get off work at 10pm CST… can we hit 100k by then..? ✨🤯)  #fyp #foryou </content>
+    <link href="https://tiktok.com/@manic.toxicity/video/7242434926610533678" rel="alternate"/>
+    <published>2023-06-08T21:46:32+00:00</published>
   </entry>
 </feed>
