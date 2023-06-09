@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@manic.toxicity</id>
   <title>@manic.toxicity | TikTok</title>
-  <updated>2023-06-09T18:05:13+00:00</updated>
+  <updated>2023-06-09T20:31:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @manic.toxicity</subtitle>
-  <entry>
-    <id>https://tiktok.com/@manic.toxicity/video/7240297747772017966</id>
-    <title>i fucking wishhh #fyp #foryou </title>
-    <updated>2023-06-03T03:33:21+00:00</updated>
-    <content>i fucking wishhh #fyp #foryou </content>
-    <link href="https://tiktok.com/@manic.toxicity/video/7240297747772017966" rel="alternate"/>
-    <published>2023-06-03T03:33:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@manic.toxicity/video/7240539159113354542</id>
     <title>bitches: they come, they go #fyp #foryou #eminem #saturday</title>
@@ -91,5 +83,13 @@
     <content>can i get a kiss? #fyp #foryou </content>
     <link href="https://tiktok.com/@manic.toxicity/video/7242748950300626218" rel="alternate"/>
     <published>2023-06-09T18:05:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@manic.toxicity/video/7242786552235953454</id>
+    <title>i dont wanna dall in love, NOPE #fyp #foryou </title>
+    <updated>2023-06-09T20:31:00+00:00</updated>
+    <content>i dont wanna dall in love, NOPE #fyp #foryou </content>
+    <link href="https://tiktok.com/@manic.toxicity/video/7242786552235953454" rel="alternate"/>
+    <published>2023-06-09T20:31:00+00:00</published>
   </entry>
 </feed>
