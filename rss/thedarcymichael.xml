@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-06-08T16:31:53+00:00</updated>
+  <updated>2023-06-09T01:46:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7237154536287259909</id>
-    <title>Replying to @James Bullock just kidding. Were not hetr. </title>
-    <updated>2023-05-25T16:15:54+00:00</updated>
-    <content>Replying to @James Bullock just kidding. Were not hetr. </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7237154536287259909" rel="alternate"/>
-    <published>2023-05-25T16:15:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7237867065820908805</id>
     <title>He’ll be right back after these important messages 🤷🏻 #neurodivergent #adhd </title>
@@ -91,5 +83,13 @@
     <content>Surprise! #funny #couple #marriedlife  #CapCut </content>
     <link href="https://tiktok.com/@thedarcymichael/video/7242353860327509254" rel="alternate"/>
     <published>2023-06-08T16:31:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7242496800161139974</id>
+    <title>#stitch with @Matty  🫣</title>
+    <updated>2023-06-09T01:46:36+00:00</updated>
+    <content>#stitch with @Matty  🫣</content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7242496800161139974" rel="alternate"/>
+    <published>2023-06-09T01:46:36+00:00</published>
   </entry>
 </feed>
