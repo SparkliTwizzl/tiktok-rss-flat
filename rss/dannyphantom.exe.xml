@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dannyphantom.exe</id>
   <title>@dannyphantom.exe | TikTok</title>
-  <updated>2023-06-08T02:17:04+00:00</updated>
+  <updated>2023-06-09T02:17:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dannyphantom.exe</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7237320845331270955</id>
-    <title>@Arny did we do the walk right? #greenscreenvideo </title>
-    <updated>2023-05-26T03:01:18+00:00</updated>
-    <content>@Arny did we do the walk right? #greenscreenvideo </content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7237320845331270955" rel="alternate"/>
-    <published>2023-05-26T03:01:18+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7237682110339878187</id>
-    <title>tag ur best friend </title>
-    <updated>2023-05-27T02:23:19+00:00</updated>
-    <content>tag ur best friend </content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7237682110339878187" rel="alternate"/>
-    <published>2023-05-27T02:23:19+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7237682332579204398</id>
-    <title>comment which kind of introvert you are @Arny </title>
-    <updated>2023-05-27T02:24:06+00:00</updated>
-    <content>comment which kind of introvert you are @Arny </content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7237682332579204398" rel="alternate"/>
-    <published>2023-05-27T02:24:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dannyphantom.exe/video/7238052304778333486</id>
     <title>tag ur best friend </title>
@@ -91,5 +67,29 @@
     <content>@nick meyer @Offbeat Outlaw happy pride yall</content>
     <link href="https://tiktok.com/@dannyphantom.exe/video/7242133555818564907" rel="alternate"/>
     <published>2023-06-08T02:17:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7242504180852624682</id>
+    <title>tag them</title>
+    <updated>2023-06-09T02:15:21+00:00</updated>
+    <content>tag them</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7242504180852624682" rel="alternate"/>
+    <published>2023-06-09T02:15:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7242504239673576750</id>
+    <title>tag them</title>
+    <updated>2023-06-09T02:15:34+00:00</updated>
+    <content>tag them</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7242504239673576750" rel="alternate"/>
+    <published>2023-06-09T02:15:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7242504632654761259</id>
+    <title>support trans rights :) happy pride month </title>
+    <updated>2023-06-09T02:17:13+00:00</updated>
+    <content>support trans rights :) happy pride month </content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7242504632654761259" rel="alternate"/>
+    <published>2023-06-09T02:17:13+00:00</published>
   </entry>
 </feed>
