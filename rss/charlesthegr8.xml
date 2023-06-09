@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@charlesthegr8</id>
   <title>@charlesthegr8 | TikTok</title>
-  <updated>2023-06-08T16:12:56+00:00</updated>
+  <updated>2023-06-09T13:56:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @charlesthegr8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7238416500330073386</id>
-    <title>We I can see where the problem is!!! #4u #iykyk #charlesthegr8 </title>
-    <updated>2023-05-29T01:53:06+00:00</updated>
-    <content>We I can see where the problem is!!! #4u #iykyk #charlesthegr8 </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7238416500330073386" rel="alternate"/>
-    <published>2023-05-29T01:53:06+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7238676922471845163</id>
-    <title>#thelastofus #fyp #iykykyk  </title>
-    <updated>2023-05-29T18:43:36+00:00</updated>
-    <content>#thelastofus #fyp #iykykyk  </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7238676922471845163" rel="alternate"/>
-    <published>2023-05-29T18:43:36+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@charlesthegr8/video/7238698776297278762</id>
     <title>Tragic #fypシ #iykyk #charlesthegr8 </title>
@@ -91,5 +75,21 @@
     <content>I cant be the only one #fypシ #iykyk #charlesthgr8 </content>
     <link href="https://tiktok.com/@charlesthegr8/video/7242348946385898798" rel="alternate"/>
     <published>2023-06-08T16:12:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7242675361782320426</id>
+    <title>Bros standards are way too high #fypシ #iykyk #charlesthgr8 </title>
+    <updated>2023-06-09T13:20:05+00:00</updated>
+    <content>Bros standards are way too high #fypシ #iykyk #charlesthgr8 </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7242675361782320426" rel="alternate"/>
+    <published>2023-06-09T13:20:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7242684686756023595</id>
+    <title>#iykyk #vine #charlesthgr8 </title>
+    <updated>2023-06-09T13:56:05+00:00</updated>
+    <content>#iykyk #vine #charlesthgr8 </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7242684686756023595" rel="alternate"/>
+    <published>2023-06-09T13:56:05+00:00</published>
   </entry>
 </feed>
