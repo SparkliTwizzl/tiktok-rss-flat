@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@nopanicbutton</id>
   <title>@nopanicbutton | TikTok</title>
-  <updated>2023-06-07T21:17:04+00:00</updated>
+  <updated>2023-06-09T15:52:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @nopanicbutton</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nopanicbutton/video/7234291042399374635</id>
-    <title>First, meet Heimdall. Second, I'd like to file a complaint with the props dept. #servicedog #ptsd #veteran </title>
-    <updated>2023-05-17T23:04:07+00:00</updated>
-    <content>First, meet Heimdall. Second, I'd like to file a complaint with the props dept. #servicedog #ptsd #veteran </content>
-    <link href="https://tiktok.com/@nopanicbutton/video/7234291042399374635" rel="alternate"/>
-    <published>2023-05-17T23:04:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nopanicbutton/video/7235012458589490475</id>
     <title>Atkins always makes me so damn crabby. #diet #atkins #sohangry #needtp </title>
@@ -91,5 +83,13 @@
     <content>What happens when Boss's boss leaves him unsupervised?</content>
     <link href="https://tiktok.com/@nopanicbutton/video/7242056238920535342" rel="alternate"/>
     <published>2023-06-07T21:17:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nopanicbutton/video/7242714744552049962</id>
+    <title>One of the coolest stories behind a blade I forged I've ever heard. #hellyes #needfreshundies #warstories </title>
+    <updated>2023-06-09T15:52:33+00:00</updated>
+    <content>One of the coolest stories behind a blade I forged I've ever heard. #hellyes #needfreshundies #warstories </content>
+    <link href="https://tiktok.com/@nopanicbutton/video/7242714744552049962" rel="alternate"/>
+    <published>2023-06-09T15:52:33+00:00</published>
   </entry>
 </feed>
