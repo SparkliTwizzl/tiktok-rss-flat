@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@villainsupport</id>
   <title>@villainsupport | TikTok</title>
-  <updated>2023-06-08T20:32:59+00:00</updated>
+  <updated>2023-06-09T17:55:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @villainsupport</subtitle>
-  <entry>
-    <id>https://tiktok.com/@villainsupport/video/7238682594731117866</id>
-    <title>#allforone #mha #buu #dbz #kirby #nintendo #acmetok #anime #acmevillainsupport </title>
-    <updated>2023-05-29T19:05:41+00:00</updated>
-    <content>#allforone #mha #buu #dbz #kirby #nintendo #acmetok #anime #acmevillainsupport </content>
-    <link href="https://tiktok.com/@villainsupport/video/7238682594731117866" rel="alternate"/>
-    <published>2023-05-29T19:05:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@villainsupport/video/7238715234708360494</id>
     <title>#redskull #captainamerica #avengers #marvel #acmetok #acmevillainsupport </title>
@@ -91,5 +83,13 @@
     <content>#voldemort #harrypotter #hogwarts #stargate #goauld #starwars #palpatine #acmetok #acmevillainsupport </content>
     <link href="https://tiktok.com/@villainsupport/video/7242415970189315370" rel="alternate"/>
     <published>2023-06-08T20:32:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@villainsupport/video/7242746527507025194</id>
+    <title>#predator #alien #disney #princess #acmetok #acmevillainsupport </title>
+    <updated>2023-06-09T17:55:47+00:00</updated>
+    <content>#predator #alien #disney #princess #acmetok #acmevillainsupport </content>
+    <link href="https://tiktok.com/@villainsupport/video/7242746527507025194" rel="alternate"/>
+    <published>2023-06-09T17:55:47+00:00</published>
   </entry>
 </feed>
