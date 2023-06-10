@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@manic.toxicity</id>
   <title>@manic.toxicity | TikTok</title>
-  <updated>2023-06-09T20:31:00+00:00</updated>
+  <updated>2023-06-10T22:06:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @manic.toxicity</subtitle>
-  <entry>
-    <id>https://tiktok.com/@manic.toxicity/video/7240539159113354542</id>
-    <title>bitches: they come, they go #fyp #foryou #eminem #saturday</title>
-    <updated>2023-06-03T19:10:07+00:00</updated>
-    <content>bitches: they come, they go #fyp #foryou #eminem #saturday</content>
-    <link href="https://tiktok.com/@manic.toxicity/video/7240539159113354542" rel="alternate"/>
-    <published>2023-06-03T19:10:07+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@manic.toxicity/video/7240594404183133486</id>
-    <title>im out of drafts again, so enjoy this old one in which i got distracted and stumbled my words #fyp #foryou  (i am also cutrently sick, so i am sorry for my lack of posting these next few days :)&lt;3)</title>
-    <updated>2023-06-03T22:44:34+00:00</updated>
-    <content>im out of drafts again, so enjoy this old one in which i got distracted and stumbled my words #fyp #foryou  (i am also cutrently sick, so i am sorry for my lack of posting these next few days :)&lt;3)</content>
-    <link href="https://tiktok.com/@manic.toxicity/video/7240594404183133486" rel="alternate"/>
-    <published>2023-06-03T22:44:34+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@manic.toxicity/video/7240930277076536622</id>
-    <title>but not really #fyp #foryou  (im still sick and sad that my veiws have gone down durastically) </title>
-    <updated>2023-06-04T20:27:57+00:00</updated>
-    <content>but not really #fyp #foryou  (im still sick and sad that my veiws have gone down durastically) </content>
-    <link href="https://tiktok.com/@manic.toxicity/video/7240930277076536622" rel="alternate"/>
-    <published>2023-06-04T20:27:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@manic.toxicity/video/7241292452231957803</id>
     <title>mental health matters, in every aspect of the phrase. no matter how much you feel like you, or what youre going through, doesnt matter… it does. it’s important to recognize your self worth and the things you di and dont deserve in life. you dont deserve e</title>
@@ -91,5 +67,29 @@
     <content>i dont wanna dall in love, NOPE #fyp #foryou </content>
     <link href="https://tiktok.com/@manic.toxicity/video/7242786552235953454" rel="alternate"/>
     <published>2023-06-09T20:31:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@manic.toxicity/video/7243178665926774058</id>
+    <title>will everybody please give him a little bit of space #fyp #foryou</title>
+    <updated>2023-06-10T21:52:41+00:00</updated>
+    <content>will everybody please give him a little bit of space #fyp #foryou</content>
+    <link href="https://tiktok.com/@manic.toxicity/video/7243178665926774058" rel="alternate"/>
+    <published>2023-06-10T21:52:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@manic.toxicity/video/7243179494498929962</id>
+    <title>you are a, walking, second place medal.  #fyp #foryou  THANK YOU ALL SO MUCH FOR 100K!! I LOVE YOU ALL SO SO MUCH!!! </title>
+    <updated>2023-06-10T21:55:57+00:00</updated>
+    <content>you are a, walking, second place medal.  #fyp #foryou  THANK YOU ALL SO MUCH FOR 100K!! I LOVE YOU ALL SO SO MUCH!!! </content>
+    <link href="https://tiktok.com/@manic.toxicity/video/7243179494498929962" rel="alternate"/>
+    <published>2023-06-10T21:55:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@manic.toxicity/video/7243182263477882154</id>
+    <title>ima grow up and be an astronaut:)) #fyp #foryou </title>
+    <updated>2023-06-10T22:06:46+00:00</updated>
+    <content>ima grow up and be an astronaut:)) #fyp #foryou </content>
+    <link href="https://tiktok.com/@manic.toxicity/video/7243182263477882154" rel="alternate"/>
+    <published>2023-06-10T22:06:46+00:00</published>
   </entry>
 </feed>
