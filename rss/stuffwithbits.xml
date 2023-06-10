@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-06-09T21:48:55+00:00</updated>
+  <updated>2023-06-09T22:26:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7241243933303508267</id>
-    <title>@target care to explain why you felt the need to fire a disabled person instead of accommodating them? #solardidsystem #ssperegrine #target </title>
-    <updated>2023-06-05T16:45:03+00:00</updated>
-    <content>@target care to explain why you felt the need to fire a disabled person instead of accommodating them? #solardidsystem #ssperegrine #target </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7241243933303508267" rel="alternate"/>
-    <published>2023-06-05T16:45:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7241346309830053163</id>
     <title>Ryn is slow to anger, which makes their anger even more terrifying #solardidsystem #ssjynx </title>
@@ -91,5 +83,13 @@
     <content>Seriously, like why tf would you do that? THAT'S IN OUR BOUNDARIES VIDEO. #solardidsystem #sszenith </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7242806619187219758" rel="alternate"/>
     <published>2023-06-09T21:48:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7242816310609169710</id>
+    <title>#stitch with @👽 It won't stitch the bit we selected. Also the audio is in sync with the captions but video is not because ⏰⏰ hasn't fixed that yet. #solardidsystem #sszenith </title>
+    <updated>2023-06-09T22:26:33+00:00</updated>
+    <content>#stitch with @👽 It won't stitch the bit we selected. Also the audio is in sync with the captions but video is not because ⏰⏰ hasn't fixed that yet. #solardidsystem #sszenith </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7242816310609169710" rel="alternate"/>
+    <published>2023-06-09T22:26:33+00:00</published>
   </entry>
 </feed>

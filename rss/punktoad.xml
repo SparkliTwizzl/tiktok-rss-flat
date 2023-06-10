@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-06-08T21:59:34+00:00</updated>
+  <updated>2023-06-10T01:54:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7239519882423897387</id>
-    <title>Replying to @Maz True Crime Trivia pt. 3 #truecrime #trivia </title>
-    <updated>2023-06-01T01:14:49+00:00</updated>
-    <content>Replying to @Maz True Crime Trivia pt. 3 #truecrime #trivia </content>
-    <link href="https://tiktok.com/@punktoad/video/7239519882423897387" rel="alternate"/>
-    <published>2023-06-01T01:14:49+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7239668699270090026</id>
-    <title>i have no idea what im doing #bobsburgers #datinginyour30s #tinabelcher </title>
-    <updated>2023-06-01T10:52:20+00:00</updated>
-    <content>i have no idea what im doing #bobsburgers #datinginyour30s #tinabelcher </content>
-    <link href="https://tiktok.com/@punktoad/video/7239668699270090026" rel="alternate"/>
-    <published>2023-06-01T10:52:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7240438874827230510</id>
     <title>i always try to be supportive of my friends … endeavors #goodfriend  </title>
@@ -91,5 +75,21 @@
     <content>this wasnt too bad #movietok #blindranking #moviebuff </content>
     <link href="https://tiktok.com/@punktoad/video/7242438277154901294" rel="alternate"/>
     <published>2023-06-08T21:59:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7242835114558885163</id>
+    <title>I tried #aiart #weirdart #punktoad </title>
+    <updated>2023-06-09T23:39:29+00:00</updated>
+    <content>I tried #aiart #weirdart #punktoad </content>
+    <link href="https://tiktok.com/@punktoad/video/7242835114558885163" rel="alternate"/>
+    <published>2023-06-09T23:39:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7242869836857003310</id>
+    <title>Replying to @realkathygriffin  kathy is a real one #kathygriffin #actress #comedian </title>
+    <updated>2023-06-10T01:54:12+00:00</updated>
+    <content>Replying to @realkathygriffin  kathy is a real one #kathygriffin #actress #comedian </content>
+    <link href="https://tiktok.com/@punktoad/video/7242869836857003310" rel="alternate"/>
+    <published>2023-06-10T01:54:12+00:00</published>
   </entry>
 </feed>
