@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-06-09T16:51:04+00:00</updated>
+  <updated>2023-06-10T17:02:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7240308884886277418</id>
-    <title>I never post at midnight, but it's officially my birthday and I'm 30 and I can do whatever I want because I'm an adult. #fyp </title>
-    <updated>2023-06-03T04:16:31+00:00</updated>
-    <content>I never post at midnight, but it's officially my birthday and I'm 30 and I can do whatever I want because I'm an adult. #fyp </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7240308884886277418" rel="alternate"/>
-    <published>2023-06-03T04:16:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7240484551053643054</id>
     <title>1 Year on T, 30 years of growth. I'm overflowing with gratitude and love. #fyp #trans </title>
@@ -91,5 +83,13 @@
     <content>See you there!!! #forbiddenkingdom </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7242729812777831726" rel="alternate"/>
     <published>2023-06-09T16:51:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7243103861404372270</id>
+    <title>Recouping from FK. Haha. #fyp #trans </title>
+    <updated>2023-06-10T17:02:31+00:00</updated>
+    <content>Recouping from FK. Haha. #fyp #trans </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7243103861404372270" rel="alternate"/>
+    <published>2023-06-10T17:02:31+00:00</published>
   </entry>
 </feed>
