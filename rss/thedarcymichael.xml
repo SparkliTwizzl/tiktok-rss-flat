@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-06-09T01:46:36+00:00</updated>
+  <updated>2023-06-10T18:20:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7237867065820908805</id>
-    <title>He’ll be right back after these important messages 🤷🏻 #neurodivergent #adhd </title>
-    <updated>2023-05-27T14:20:50+00:00</updated>
-    <content>He’ll be right back after these important messages 🤷🏻 #neurodivergent #adhd </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7237867065820908805" rel="alternate"/>
-    <published>2023-05-27T14:20:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7238667929435344134</id>
     <title>Believe it or not, darcy loves an early night. Gives him more time the next day to find what he lost the day before. #adhd #neurospicy </title>
@@ -91,5 +83,13 @@
     <content>#stitch with @Matty  🫣</content>
     <link href="https://tiktok.com/@thedarcymichael/video/7242496800161139974" rel="alternate"/>
     <published>2023-06-09T01:46:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7243123935758273797</id>
+    <title>Is it too late to ask for a gift receipt?</title>
+    <updated>2023-06-10T18:20:11+00:00</updated>
+    <content>Is it too late to ask for a gift receipt?</content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7243123935758273797" rel="alternate"/>
+    <published>2023-06-10T18:20:11+00:00</published>
   </entry>
 </feed>
