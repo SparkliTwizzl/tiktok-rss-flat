@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@liil.dork.alex</id>
   <title>@liil.dork.alex | TikTok</title>
-  <updated>2023-06-09T00:45:31+00:00</updated>
+  <updated>2023-06-10T00:44:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @liil.dork.alex</subtitle>
-  <entry>
-    <id>https://tiktok.com/@liil.dork.alex/video/7225646991869480238</id>
-    <title>I learned songs quicker than i learned anything in school 😂</title>
-    <updated>2023-04-24T16:01:03+00:00</updated>
-    <content>I learned songs quicker than i learned anything in school 😂</content>
-    <link href="https://tiktok.com/@liil.dork.alex/video/7225646991869480238" rel="alternate"/>
-    <published>2023-04-24T16:01:03+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@liil.dork.alex/video/7227605352399834414</id>
-    <title>That feelin ya self energy hits different😮‍💨 </title>
-    <updated>2023-04-29T22:40:16+00:00</updated>
-    <content>That feelin ya self energy hits different😮‍💨 </content>
-    <link href="https://tiktok.com/@liil.dork.alex/video/7227605352399834414" rel="alternate"/>
-    <published>2023-04-29T22:40:16+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@liil.dork.alex/video/7227630052454812974</id>
     <title>Good god 😮‍💨 (songs been stuck in my head) </title>
@@ -91,5 +75,21 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@liil.dork.alex/video/7242481033558412587" rel="alternate"/>
     <published>2023-06-09T00:45:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@liil.dork.alex/video/7242815824849849642</id>
+    <title>I cant ignore you </title>
+    <updated>2023-06-09T22:24:37+00:00</updated>
+    <content>I cant ignore you </content>
+    <link href="https://tiktok.com/@liil.dork.alex/video/7242815824849849642" rel="alternate"/>
+    <published>2023-06-09T22:24:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@liil.dork.alex/video/7242851949320834350</id>
+    <title>If i know me 😏</title>
+    <updated>2023-06-10T00:44:50+00:00</updated>
+    <content>If i know me 😏</content>
+    <link href="https://tiktok.com/@liil.dork.alex/video/7242851949320834350" rel="alternate"/>
+    <published>2023-06-10T00:44:50+00:00</published>
   </entry>
 </feed>

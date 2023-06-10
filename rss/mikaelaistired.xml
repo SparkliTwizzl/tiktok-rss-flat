@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@mikaelaistired</id>
   <title>@mikaelaistired | TikTok</title>
-  <updated>2023-06-09T12:00:09+00:00</updated>
+  <updated>2023-06-09T23:04:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @mikaelaistired</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mikaelaistired/video/7241194552827137326</id>
-    <title>Much better </title>
-    <updated>2023-06-05T13:33:36+00:00</updated>
-    <content>Much better </content>
-    <link href="https://tiktok.com/@mikaelaistired/video/7241194552827137326" rel="alternate"/>
-    <published>2023-06-05T13:33:36+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mikaelaistired/video/7241235497408908586</id>
     <title>More fun I guess </title>
@@ -91,5 +83,13 @@
     <content>I dont buy it</content>
     <link href="https://tiktok.com/@mikaelaistired/video/7242654748644592939" rel="alternate"/>
     <published>2023-06-09T12:00:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mikaelaistired/video/7242826013598666027</id>
+    <title>Happy pride</title>
+    <updated>2023-06-09T23:04:11+00:00</updated>
+    <content>Happy pride</content>
+    <link href="https://tiktok.com/@mikaelaistired/video/7242826013598666027" rel="alternate"/>
+    <published>2023-06-09T23:04:11+00:00</published>
   </entry>
 </feed>
