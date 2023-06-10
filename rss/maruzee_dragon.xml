@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maruzee_dragon</id>
   <title>@maruzee_dragon | TikTok</title>
-  <updated>2023-06-09T02:21:48+00:00</updated>
+  <updated>2023-06-10T14:16:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maruzee_dragon</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maruzee_dragon/video/7237679597796543749</id>
-    <title>Réponse à @punisherj1027  Here's Nezuko 🙃 #demonslayer #anime #transition </title>
-    <updated>2023-05-27T02:13:24+00:00</updated>
-    <content>Réponse à @punisherj1027  Here's Nezuko 🙃 #demonslayer #anime #transition </content>
-    <link href="https://tiktok.com/@maruzee_dragon/video/7237679597796543749" rel="alternate"/>
-    <published>2023-05-27T02:13:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maruzee_dragon/video/7237866335403855109</id>
     <title>I'm struggling to decide which tricks I'll do for my next transition...🤔 #martialarts #kicks </title>
@@ -91,5 +83,13 @@
     <content>Hold on, Area Codes &amp; Pony?! #transition #martialarts #tricks </content>
     <link href="https://tiktok.com/@maruzee_dragon/video/7242505874390912261" rel="alternate"/>
     <published>2023-06-09T02:21:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maruzee_dragon/video/7243061029763140869</id>
+    <title>Réponse à @maximusaod All right! Should I use lightsabers next? #transition #martialarts #tricks </title>
+    <updated>2023-06-10T14:16:04+00:00</updated>
+    <content>Réponse à @maximusaod All right! Should I use lightsabers next? #transition #martialarts #tricks </content>
+    <link href="https://tiktok.com/@maruzee_dragon/video/7243061029763140869" rel="alternate"/>
+    <published>2023-06-10T14:16:04+00:00</published>
   </entry>
 </feed>
