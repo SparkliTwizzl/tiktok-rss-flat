@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@juliafox038711</id>
   <title>@juliafox038711 | TikTok</title>
-  <updated>2023-06-09T02:46:11+00:00</updated>
+  <updated>2023-06-11T03:18:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juliafox038711</subtitle>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7236574546827169070</id>
-    <title>[no title]</title>
-    <updated>2023-05-24T02:45:25+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7236574546827169070" rel="alternate"/>
-    <published>2023-05-24T02:45:25+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7239434632247217451</id>
-    <title>and now im back to only thinking, breathing, and talking about fnaf</title>
-    <updated>2023-05-31T19:43:55+00:00</updated>
-    <content>and now im back to only thinking, breathing, and talking about fnaf</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7239434632247217451" rel="alternate"/>
-    <published>2023-05-31T19:43:55+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@juliafox038711/video/7239441108072271147</id>
     <title>we love bleaching curly hair untill it just ends ip frizzing with no curl🥲</title>
@@ -91,5 +75,21 @@
     <content>one of the worst days of my life, will never forget</content>
     <link href="https://tiktok.com/@juliafox038711/video/7242512134792301870" rel="alternate"/>
     <published>2023-06-09T02:46:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7243246842211847470</id>
+    <title>my love for foxy. unreal </title>
+    <updated>2023-06-11T02:17:17+00:00</updated>
+    <content>my love for foxy. unreal </content>
+    <link href="https://tiktok.com/@juliafox038711/video/7243246842211847470" rel="alternate"/>
+    <published>2023-06-11T02:17:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7243262644549995818</id>
+    <title>Replying to @Alex a lovely story of the time i got in trouble cuz my dad went through my phone, there was more to everything that happend but this was the main idea 🥲</title>
+    <updated>2023-06-11T03:18:36+00:00</updated>
+    <content>Replying to @Alex a lovely story of the time i got in trouble cuz my dad went through my phone, there was more to everything that happend but this was the main idea 🥲</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7243262644549995818" rel="alternate"/>
+    <published>2023-06-11T03:18:36+00:00</published>
   </entry>
 </feed>
