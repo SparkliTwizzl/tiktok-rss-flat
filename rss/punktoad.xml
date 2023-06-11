@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-06-10T01:54:12+00:00</updated>
+  <updated>2023-06-11T21:58:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7240438874827230510</id>
-    <title>i always try to be supportive of my friends … endeavors #goodfriend  </title>
-    <updated>2023-06-03T12:41:21+00:00</updated>
-    <content>i always try to be supportive of my friends … endeavors #goodfriend  </content>
-    <link href="https://tiktok.com/@punktoad/video/7240438874827230510" rel="alternate"/>
-    <published>2023-06-03T12:41:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7240792615191317803</id>
     <title>Happy Pride!! 🎊🎉 #pridemonth #celebration #mothernature </title>
@@ -91,5 +83,13 @@
     <content>Replying to @realkathygriffin  kathy is a real one #kathygriffin #actress #comedian </content>
     <link href="https://tiktok.com/@punktoad/video/7242869836857003310" rel="alternate"/>
     <published>2023-06-10T01:54:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7243551175197363498</id>
+    <title>Thanks IBS #irratiblebowelsyndrome #ibs #lactoseintolerant </title>
+    <updated>2023-06-11T21:58:17+00:00</updated>
+    <content>Thanks IBS #irratiblebowelsyndrome #ibs #lactoseintolerant </content>
+    <link href="https://tiktok.com/@punktoad/video/7243551175197363498" rel="alternate"/>
+    <published>2023-06-11T21:58:17+00:00</published>
   </entry>
 </feed>
