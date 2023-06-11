@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-06-04T14:14:11+00:00</updated>
+  <updated>2023-06-11T14:42:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7236044646533647622</id>
-    <title>🩵🩵🩵 #glumthesupernaturalhitman #lipsync #drag #dragking #dragperformer #canadiandrag </title>
-    <updated>2023-05-22T16:28:56+00:00</updated>
-    <content>🩵🩵🩵 #glumthesupernaturalhitman #lipsync #drag #dragking #dragperformer #canadiandrag </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7236044646533647622" rel="alternate"/>
-    <published>2023-05-22T16:28:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7236554631441042693</id>
-    <title>#onthisday #maladytheclown </title>
-    <updated>2023-05-24T01:27:56+00:00</updated>
-    <content>#onthisday #maladytheclown </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7236554631441042693" rel="alternate"/>
-    <published>2023-05-24T01:27:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7237479052200938757</id>
     <title>#onthisday #maladytheclown #clown #somepeople</title>
@@ -91,5 +75,21 @@
     <content>#duet with @Haleylouiser its OK, you can have mine. 😅😘 #maladytheclown #comedy #clown #trauma</content>
     <link href="https://tiktok.com/@dancesinshadows/video/7240834035256216837" rel="alternate"/>
     <published>2023-06-04T14:14:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7243430292139134214</id>
+    <title>Exactly how I felt at the comiccon yesterday. There is a lot of petty drama in the community. I am just a joke to them because I haven't been around as long. It brought me right back to high-school. #thejoker #cosplay #creep </title>
+    <updated>2023-06-11T14:09:00+00:00</updated>
+    <content>Exactly how I felt at the comiccon yesterday. There is a lot of petty drama in the community. I am just a joke to them because I haven't been around as long. It brought me right back to high-school. #thejoker #cosplay #creep </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7243430292139134214" rel="alternate"/>
+    <published>2023-06-11T14:09:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7243438979821931781</id>
+    <title>#duet with @Angel #maladytheclown #beforeandafter #feelgoodvibe </title>
+    <updated>2023-06-11T14:42:42+00:00</updated>
+    <content>#duet with @Angel #maladytheclown #beforeandafter #feelgoodvibe </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7243438979821931781" rel="alternate"/>
+    <published>2023-06-11T14:42:42+00:00</published>
   </entry>
 </feed>
