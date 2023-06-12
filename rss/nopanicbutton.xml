@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@nopanicbutton</id>
   <title>@nopanicbutton | TikTok</title>
-  <updated>2023-06-09T15:52:33+00:00</updated>
+  <updated>2023-06-12T21:25:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @nopanicbutton</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nopanicbutton/video/7235012458589490475</id>
-    <title>Atkins always makes me so damn crabby. #diet #atkins #sohangry #needtp </title>
-    <updated>2023-05-19T21:43:39+00:00</updated>
-    <content>Atkins always makes me so damn crabby. #diet #atkins #sohangry #needtp </content>
-    <link href="https://tiktok.com/@nopanicbutton/video/7235012458589490475" rel="alternate"/>
-    <published>2023-05-19T21:43:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nopanicbutton/video/7236141317246438698</id>
     <title>Ever seen a mountain of a man hit a Mariah Carey high note? #arachnids #obt #funtimes #whereditgo </title>
@@ -91,5 +83,13 @@
     <content>One of the coolest stories behind a blade I forged I've ever heard. #hellyes #needfreshundies #warstories </content>
     <link href="https://tiktok.com/@nopanicbutton/video/7242714744552049962" rel="alternate"/>
     <published>2023-06-09T15:52:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nopanicbutton/video/7243913750523399470</id>
+    <title>Hey J, I know you'll be pissed when you see this but I warned you! #gross #handsoff #stopleavingyourearwaxonmystuff </title>
+    <updated>2023-06-12T21:25:11+00:00</updated>
+    <content>Hey J, I know you'll be pissed when you see this but I warned you! #gross #handsoff #stopleavingyourearwaxonmystuff </content>
+    <link href="https://tiktok.com/@nopanicbutton/video/7243913750523399470" rel="alternate"/>
+    <published>2023-06-12T21:25:11+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jacobtheseahorse</id>
   <title>@jacobtheseahorse | TikTok</title>
-  <updated>2023-06-07T16:25:02+00:00</updated>
+  <updated>2023-06-12T21:24:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jacobtheseahorse</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7233413194168012059</id>
-    <title>Replying to @kinj.apan I could only make drops at a time because chest surgery removed a significant amount of my breast tissue, but it's still a miracle that it could happen at all! many trans guys feed from their bodies in one way or another, often usin</title>
-    <updated>2023-05-15T14:17:38+00:00</updated>
-    <content>Replying to @kinj.apan I could only make drops at a time because chest surgery removed a significant amount of my breast tissue, but it's still a miracle that it could happen at all! many trans guys feed from their bodies in one way or another, often using an SNS system or similar to supplement what they make with their body. #trans #infantfeeding #chestfeeding #breastfeeding #lgbt #transgender #humanmilk #lactation #chestsurgery </content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7233413194168012059" rel="alternate"/>
-    <published>2023-05-15T14:17:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jacobtheseahorse/video/7233487862279277851</id>
     <title>a really lovely OT reached out to me to offer support on a tiktok earlier and my first response was a trauma response because of this experience. one of many instances of medical trauma that I've experienced over the years. sorry to be a Debby Downer but </title>
@@ -91,5 +83,13 @@
     <content>#stitch with @Jacob - Papa Seahorse 🏳️‍⚧️ my ink was always pink and my ink was always blue t-shirts are both available now! bit. ly / seahorseshop or check out my l¡nk in bio  there's also t-shirts for the nonbinary universe as well as lots for allies too! #trans #merch #transpender #pink #blue #bic </content>
     <link href="https://tiktok.com/@jacobtheseahorse/video/7241980972676238619" rel="alternate"/>
     <published>2023-06-07T16:25:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7243913539172191515</id>
+    <title>existing is resisting ✊🏳️‍⚧️ new t-shirt and loads more for queer folks and allies alike, all trans designed (by moi) and with all money made going towards the trans community - please check out my shop! bit (dot) ly (slash) seahorseshop  or check the |in</title>
+    <updated>2023-06-12T21:24:18+00:00</updated>
+    <content>existing is resisting ✊🏳️‍⚧️ new t-shirt and loads more for queer folks and allies alike, all trans designed (by moi) and with all money made going towards the trans community - please check out my shop! bit (dot) ly (slash) seahorseshop  or check the |ink in my b¡o  code SEAHORSE10 will get you 10% off during June too because why the heck not!</content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7243913539172191515" rel="alternate"/>
+    <published>2023-06-12T21:24:18+00:00</published>
   </entry>
 </feed>
