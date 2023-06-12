@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pinkmantaray</id>
   <title>@pinkmantaray | TikTok</title>
-  <updated>2023-06-07T13:55:50+00:00</updated>
+  <updated>2023-06-12T00:03:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @pinkmantaray</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pinkmantaray/video/7234550804143721774</id>
-    <title>That's that!!! @glaad #glaadawards #transgender #protecttranskids </title>
-    <updated>2023-05-18T15:52:12+00:00</updated>
-    <content>That's that!!! @glaad #glaadawards #transgender #protecttranskids </content>
-    <link href="https://tiktok.com/@pinkmantaray/video/7234550804143721774" rel="alternate"/>
-    <published>2023-05-18T15:52:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pinkmantaray/video/7235290804779060523</id>
     <title>Replying to @𝐀𝐫𝐜𝐡𝐞𝐫 more on science supporting trans people! If you're looking for more resources, check out my upcoming workshop TRANS ATHLETES BELONG IN SPORT - register at pinkmantaray.com/workshops! #transgender #trans #transathlete #gender #sports #w</title>
@@ -91,5 +83,13 @@
     <content>Replying to @Ava A few weeks ago, @Dylan Mulvaney and I chatted on my podcast DEAR SCHUYLER about dealing with transphobia as trans people - and grace was Dylan's word of the week. Take a listen to the whole episode at dearschuyler.com or anywhere you get your podcasts! #dearschuyler #podcast #transgender #transpodcast #trans #grace #transphobia #haters #lgbtq #pride </content>
     <link href="https://tiktok.com/@pinkmantaray/video/7241942430516350251" rel="alternate"/>
     <published>2023-06-07T13:55:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pinkmantaray/video/7243583363095792939</id>
+    <title>A message from White House Pride! #transpeoplebelong #transgender #trans #whitehousepride #whitehouse #transpride #pride #queer #inclusion #rachellevine #autonomy #gender #transrights #transathlete </title>
+    <updated>2023-06-12T00:03:08+00:00</updated>
+    <content>A message from White House Pride! #transpeoplebelong #transgender #trans #whitehousepride #whitehouse #transpride #pride #queer #inclusion #rachellevine #autonomy #gender #transrights #transathlete </content>
+    <link href="https://tiktok.com/@pinkmantaray/video/7243583363095792939" rel="alternate"/>
+    <published>2023-06-12T00:03:08+00:00</published>
   </entry>
 </feed>
