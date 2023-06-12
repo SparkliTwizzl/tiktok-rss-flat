@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@mikaelaistired</id>
   <title>@mikaelaistired | TikTok</title>
-  <updated>2023-06-11T20:07:03+00:00</updated>
+  <updated>2023-06-12T14:04:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @mikaelaistired</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mikaelaistired/video/7241981055484448046</id>
-    <title>The switch up </title>
-    <updated>2023-06-07T16:25:29+00:00</updated>
-    <content>The switch up </content>
-    <link href="https://tiktok.com/@mikaelaistired/video/7241981055484448046" rel="alternate"/>
-    <published>2023-06-07T16:25:29+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mikaelaistired/video/7242086934368193838</id>
     <title>Ha ha</title>
@@ -91,5 +83,13 @@
     <content>#stitch with @Mikaela ✨  brb crying</content>
     <link href="https://tiktok.com/@mikaelaistired/video/7243522526658301230" rel="alternate"/>
     <published>2023-06-11T20:07:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mikaelaistired/video/7243800082875764011</id>
+    <title>You’ll learn</title>
+    <updated>2023-06-12T14:04:06+00:00</updated>
+    <content>You’ll learn</content>
+    <link href="https://tiktok.com/@mikaelaistired/video/7243800082875764011" rel="alternate"/>
+    <published>2023-06-12T14:04:06+00:00</published>
   </entry>
 </feed>
