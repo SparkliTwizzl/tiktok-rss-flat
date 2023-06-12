@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-06-09T01:46:36+00:00</updated>
+  <updated>2023-06-12T15:58:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7237867065820908805</id>
-    <title>He’ll be right back after these important messages 🤷🏻 #neurodivergent #adhd </title>
-    <updated>2023-05-27T14:20:50+00:00</updated>
-    <content>He’ll be right back after these important messages 🤷🏻 #neurodivergent #adhd </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7237867065820908805" rel="alternate"/>
-    <published>2023-05-27T14:20:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7238667929435344134</id>
     <title>Believe it or not, darcy loves an early night. Gives him more time the next day to find what he lost the day before. #adhd #neurospicy </title>
@@ -91,5 +83,13 @@
     <content>#stitch with @Matty  🫣</content>
     <link href="https://tiktok.com/@thedarcymichael/video/7242496800161139974" rel="alternate"/>
     <published>2023-06-09T01:46:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7243829485332647174</id>
+    <title>Well, here goes something?  Today, Darcy &amp; Jer announce additional dates to The No Refunds Tour, expanding the run across North America through spring 2024. Bringing their comedy from screen to stage, the additional dates will include fall and winter stop</title>
+    <updated>2023-06-12T15:58:04+00:00</updated>
+    <content>Well, here goes something?  Today, Darcy &amp; Jer announce additional dates to The No Refunds Tour, expanding the run across North America through spring 2024. Bringing their comedy from screen to stage, the additional dates will include fall and winter stops in Toronto, Ottawa, Boston, Los Angeles, New York and more, spreading their unique brand of comedy from coast to coast.   "Jeremy is obsessed with making me work and - although at first I was horrified at the idea of it -  I can't help but be happily overwhelmed at the response to the tour so far,” shares Darcy.   Adds Jeremy, “We can't wait to get on the road and start giving people a reason to dislike us.”   Pre-sale begins Tuesday, June 13th at 10:00 a.m. local time, with public on-sale beginning Friday June, 16th at 10:00 a.m. local time.  #justforlaughs #standupcomedy #busydonkey #adhd #darcyandjer  After just three years of creating content online (and one fateful day in 2021 when Darcy launched a TikTok account), the pair have amassed a combined total of over 5 million cross-platform followers with an average of 50 million views per month. Known for their hilarious videos around their relationship, ADHD, plants and more, Darcy &amp; Jer have quickly become household names with a global audience. </content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7243829485332647174" rel="alternate"/>
+    <published>2023-06-12T15:58:04+00:00</published>
   </entry>
 </feed>
