@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@charlesthegr8</id>
   <title>@charlesthegr8 | TikTok</title>
-  <updated>2023-06-13T20:18:49+00:00</updated>
+  <updated>2023-06-13T21:08:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @charlesthegr8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7241595494844353838</id>
-    <title>Huge red flag #fypシ  #iykyk #charlesthgr8 </title>
-    <updated>2023-06-06T15:29:12+00:00</updated>
-    <content>Huge red flag #fypシ  #iykyk #charlesthgr8 </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7241595494844353838" rel="alternate"/>
-    <published>2023-06-06T15:29:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@charlesthegr8/video/7242344617813773611</id>
     <title>Lets goooo! #fypシ #iykyk #charlesthgr8 #spiderham </title>
@@ -91,5 +83,13 @@
     <content>Must funny dude 😂 #iykyk #fyp #charlesthegr8 </content>
     <link href="https://tiktok.com/@charlesthegr8/video/7244267740620524843" rel="alternate"/>
     <published>2023-06-13T20:18:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7244280638466215214</id>
+    <title>Bro pretty asl talkin bout confidence #iykyk #fyp #bro #charlesthegr8 </title>
+    <updated>2023-06-13T21:08:55+00:00</updated>
+    <content>Bro pretty asl talkin bout confidence #iykyk #fyp #bro #charlesthegr8 </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7244280638466215214" rel="alternate"/>
+    <published>2023-06-13T21:08:55+00:00</published>
   </entry>
 </feed>
