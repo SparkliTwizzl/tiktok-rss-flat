@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@mikaelaistired</id>
   <title>@mikaelaistired | TikTok</title>
-  <updated>2023-06-12T23:28:51+00:00</updated>
+  <updated>2023-06-13T13:27:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @mikaelaistired</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mikaelaistired/video/7242654748644592939</id>
-    <title>I dont buy it</title>
-    <updated>2023-06-09T12:00:09+00:00</updated>
-    <content>I dont buy it</content>
-    <link href="https://tiktok.com/@mikaelaistired/video/7242654748644592939" rel="alternate"/>
-    <published>2023-06-09T12:00:09+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mikaelaistired/video/7242826013598666027</id>
-    <title>Happy pride</title>
-    <updated>2023-06-09T23:04:11+00:00</updated>
-    <content>Happy pride</content>
-    <link href="https://tiktok.com/@mikaelaistired/video/7242826013598666027" rel="alternate"/>
-    <published>2023-06-09T23:04:11+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mikaelaistired/video/7242868949095075118</id>
     <title>What did i miss</title>
@@ -91,5 +75,21 @@
     <content>Maybe it’ll work out</content>
     <link href="https://tiktok.com/@mikaelaistired/video/7243945616060075306" rel="alternate"/>
     <published>2023-06-12T23:28:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mikaelaistired/video/7244140642140523819</id>
+    <title>Deep breaths</title>
+    <updated>2023-06-13T12:05:45+00:00</updated>
+    <content>Deep breaths</content>
+    <link href="https://tiktok.com/@mikaelaistired/video/7244140642140523819" rel="alternate"/>
+    <published>2023-06-13T12:05:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mikaelaistired/video/7244161610397371694</id>
+    <title>Egg-like behavior </title>
+    <updated>2023-06-13T13:27:03+00:00</updated>
+    <content>Egg-like behavior </content>
+    <link href="https://tiktok.com/@mikaelaistired/video/7244161610397371694" rel="alternate"/>
+    <published>2023-06-13T13:27:03+00:00</published>
   </entry>
 </feed>
