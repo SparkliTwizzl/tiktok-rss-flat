@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@sam_breaking_sad</id>
   <title>@sam_breaking_sad | TikTok</title>
-  <updated>2023-04-08T23:08:11+00:00</updated>
+  <updated>2023-06-13T21:01:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @sam_breaking_sad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@sam_breaking_sad/video/7174903048454638853</id>
-    <title>🤠</title>
-    <updated>2022-12-08T22:08:19+00:00</updated>
-    <content>🤠</content>
-    <link href="https://tiktok.com/@sam_breaking_sad/video/7174903048454638853" rel="alternate"/>
-    <published>2022-12-08T22:08:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@sam_breaking_sad/video/7178203435056024838</id>
     <title>😼#fyp </title>
@@ -91,5 +83,13 @@
     <content>Que bendición #fyp #fypシ #androgino #inosuke </content>
     <link href="https://tiktok.com/@sam_breaking_sad/video/7219819786924985606" rel="alternate"/>
     <published>2023-04-08T23:08:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@sam_breaking_sad/video/7244278672843164933</id>
+    <title>He vuelto 😈</title>
+    <updated>2023-06-13T21:01:12+00:00</updated>
+    <content>He vuelto 😈</content>
+    <link href="https://tiktok.com/@sam_breaking_sad/video/7244278672843164933" rel="alternate"/>
+    <published>2023-06-13T21:01:12+00:00</published>
   </entry>
 </feed>

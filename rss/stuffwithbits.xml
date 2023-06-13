@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-06-12T22:56:43+00:00</updated>
+  <updated>2023-06-13T20:18:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7241371435946544430</id>
-    <title>I cry a lot #ssjynx #solardidsystem </title>
-    <updated>2023-06-06T00:59:41+00:00</updated>
-    <content>I cry a lot #ssjynx #solardidsystem </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7241371435946544430" rel="alternate"/>
-    <published>2023-06-06T00:59:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7241375569471016238</id>
     <title>Replying to @archangel72577 #reply always! #solardidsystem #ladybug</title>
@@ -91,5 +83,13 @@
     <content>I love glitz and glam or baggy sweatpants. No in between. #solardidsystem #ssvegas #alterintro </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7243937337804148010" rel="alternate"/>
     <published>2023-06-12T22:56:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7244267657833286958</id>
+    <title>We don't hate our glasses they're just too big #solardidsystem #ssvegas </title>
+    <updated>2023-06-13T20:18:27+00:00</updated>
+    <content>We don't hate our glasses they're just too big #solardidsystem #ssvegas </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7244267657833286958" rel="alternate"/>
+    <published>2023-06-13T20:18:27+00:00</published>
   </entry>
 </feed>

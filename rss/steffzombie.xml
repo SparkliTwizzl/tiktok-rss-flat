@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@steffzombie</id>
   <title>@steffzombie | TikTok</title>
-  <updated>2023-06-13T18:53:27+00:00</updated>
+  <updated>2023-06-13T20:25:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @steffzombie</subtitle>
-  <entry>
-    <id>https://tiktok.com/@steffzombie/video/7240517770193014059</id>
-    <title>And thats on pride @🌴Natavia Holmes🌴 @Jayson Murphy </title>
-    <updated>2023-06-03T17:47:11+00:00</updated>
-    <content>And thats on pride @🌴Natavia Holmes🌴 @Jayson Murphy </content>
-    <link href="https://tiktok.com/@steffzombie/video/7240517770193014059" rel="alternate"/>
-    <published>2023-06-03T17:47:11+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@steffzombie/video/7241731185590783275</id>
     <title>Replying to @levixxet  noice @♾️ #lgbt </title>
@@ -91,5 +83,13 @@
     <content>Replying to @king_juju165  but am i ? #nonbinary #fy </content>
     <link href="https://tiktok.com/@steffzombie/video/7244245747661606186" rel="alternate"/>
     <published>2023-06-13T18:53:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@steffzombie/video/7244269555839765803</id>
+    <title>Im just projecting #fy #enby </title>
+    <updated>2023-06-13T20:25:53+00:00</updated>
+    <content>Im just projecting #fy #enby </content>
+    <link href="https://tiktok.com/@steffzombie/video/7244269555839765803" rel="alternate"/>
+    <published>2023-06-13T20:25:53+00:00</published>
   </entry>
 </feed>
