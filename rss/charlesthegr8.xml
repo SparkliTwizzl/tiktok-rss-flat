@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@charlesthegr8</id>
   <title>@charlesthegr8 | TikTok</title>
-  <updated>2023-06-13T13:35:24+00:00</updated>
+  <updated>2023-06-13T17:28:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @charlesthegr8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7240986122497658154</id>
-    <title>Welp it was nice knowing y’all ☠️ #relationship #iykyk #charlesthegr8 </title>
-    <updated>2023-06-05T00:04:36+00:00</updated>
-    <content>Welp it was nice knowing y’all ☠️ #relationship #iykyk #charlesthegr8 </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7240986122497658154" rel="alternate"/>
-    <published>2023-06-05T00:04:36+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@charlesthegr8/video/7240996189972319530</id>
     <title>Duty calls 🦇 #batman #iykyk #charlesthgr8</title>
@@ -91,5 +83,13 @@
     <content>Preciate the offer #iykyk #4u #charlesthegr8 </content>
     <link href="https://tiktok.com/@charlesthegr8/video/7244163775790599467" rel="alternate"/>
     <published>2023-06-13T13:35:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7244223828891618603</id>
+    <title>Always that on friend #iykyk #block #charlesthegr8 #4u </title>
+    <updated>2023-06-13T17:28:26+00:00</updated>
+    <content>Always that on friend #iykyk #block #charlesthegr8 #4u </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7244223828891618603" rel="alternate"/>
+    <published>2023-06-13T17:28:26+00:00</published>
   </entry>
 </feed>
