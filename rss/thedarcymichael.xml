@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-06-12T15:58:04+00:00</updated>
+  <updated>2023-06-13T19:00:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7238667929435344134</id>
-    <title>Believe it or not, darcy loves an early night. Gives him more time the next day to find what he lost the day before. #adhd #neurospicy </title>
-    <updated>2023-05-29T18:08:37+00:00</updated>
-    <content>Believe it or not, darcy loves an early night. Gives him more time the next day to find what he lost the day before. #adhd #neurospicy </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7238667929435344134" rel="alternate"/>
-    <published>2023-05-29T18:08:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7239791332468837637</id>
     <title>This is how we do #PRIDE !  We wanted to partner with a brand that has a long history of supporting our community year-round and who better than our friends at Trojan Canada @Trojan Brand Condoms  - thanks for celebrating, educating, and protecting our co</title>
@@ -91,5 +83,13 @@
     <content>Well, here goes something?  Today, Darcy &amp; Jer announce additional dates to The No Refunds Tour, expanding the run across North America through spring 2024. Bringing their comedy from screen to stage, the additional dates will include fall and winter stops in Toronto, Ottawa, Boston, Los Angeles, New York and more, spreading their unique brand of comedy from coast to coast.   "Jeremy is obsessed with making me work and - although at first I was horrified at the idea of it -  I can't help but be happily overwhelmed at the response to the tour so far,” shares Darcy.   Adds Jeremy, “We can't wait to get on the road and start giving people a reason to dislike us.”   Pre-sale begins Tuesday, June 13th at 10:00 a.m. local time, with public on-sale beginning Friday June, 16th at 10:00 a.m. local time.  #justforlaughs #standupcomedy #busydonkey #adhd #darcyandjer  After just three years of creating content online (and one fateful day in 2021 when Darcy launched a TikTok account), the pair have amassed a combined total of over 5 million cross-platform followers with an average of 50 million views per month. Known for their hilarious videos around their relationship, ADHD, plants and more, Darcy &amp; Jer have quickly become household names with a global audience. </content>
     <link href="https://tiktok.com/@thedarcymichael/video/7243829485332647174" rel="alternate"/>
     <published>2023-06-12T15:58:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7244247668518587653</id>
+    <title>The way Darcy ended this 🫣#standupcomedy #crowdwork #justforlaughs #onthisday #funny </title>
+    <updated>2023-06-13T19:00:50+00:00</updated>
+    <content>The way Darcy ended this 🫣#standupcomedy #crowdwork #justforlaughs #onthisday #funny </content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7244247668518587653" rel="alternate"/>
+    <published>2023-06-13T19:00:50+00:00</published>
   </entry>
 </feed>
