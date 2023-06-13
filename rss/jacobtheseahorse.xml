@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jacobtheseahorse</id>
   <title>@jacobtheseahorse | TikTok</title>
-  <updated>2023-06-12T21:24:18+00:00</updated>
+  <updated>2023-06-13T16:48:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jacobtheseahorse</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7233487862279277851</id>
-    <title>a really lovely OT reached out to me to offer support on a tiktok earlier and my first response was a trauma response because of this experience. one of many instances of medical trauma that I've experienced over the years. sorry to be a Debby Downer but </title>
-    <updated>2023-05-15T19:07:24+00:00</updated>
-    <content>a really lovely OT reached out to me to offer support on a tiktok earlier and my first response was a trauma response because of this experience. one of many instances of medical trauma that I've experienced over the years. sorry to be a Debby Downer but my guess is I'm not the only one on here who has these kinds of experiences. the intersection of ADHD, autism, menstrual health and mental health all coincidence here and with distanced hindsight of nearly 20 years I can see how vulnerable my young self was. they deserved better. #ot #medical #medicaltrauma #lgbt #period #pmdd #depression #mentalhealth #pms </content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7233487862279277851" rel="alternate"/>
-    <published>2023-05-15T19:07:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jacobtheseahorse/video/7236027075994438938</id>
     <title>Replying to @user9152714924757 it would be unfair to all the women who don't experience pregnancy as a feminine experience to claim that is *has* to be that or you're doing it wrong. that kind of thinking harms more women than it does trans people. (and i</title>
@@ -91,5 +83,13 @@
     <content>existing is resisting ✊🏳️‍⚧️ new t-shirt and loads more for queer folks and allies alike, all trans designed (by moi) and with all money made going towards the trans community - please check out my shop! bit (dot) ly (slash) seahorseshop  or check the |ink in my b¡o  code SEAHORSE10 will get you 10% off during June too because why the heck not!</content>
     <link href="https://tiktok.com/@jacobtheseahorse/video/7243913539172191515" rel="alternate"/>
     <published>2023-06-12T21:24:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7244213448836451610</id>
+    <title>if you are against trans people then you're doing the work of the far right for them. they want us divided because we're stronger together. #trans #feminism #abortion #prochoice #healthcare #rights </title>
+    <updated>2023-06-13T16:48:06+00:00</updated>
+    <content>if you are against trans people then you're doing the work of the far right for them. they want us divided because we're stronger together. #trans #feminism #abortion #prochoice #healthcare #rights </content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7244213448836451610" rel="alternate"/>
+    <published>2023-06-13T16:48:06+00:00</published>
   </entry>
 </feed>
