@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-06-10T21:18:20+00:00</updated>
+  <updated>2023-06-12T22:56:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7241364126210034987</id>
-    <title>#stitch with @Hank Green KING 👑 #solardidsystem #ssjynx </title>
-    <updated>2023-06-06T00:31:25+00:00</updated>
-    <content>#stitch with @Hank Green KING 👑 #solardidsystem #ssjynx </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7241364126210034987" rel="alternate"/>
-    <published>2023-06-06T00:31:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7241371435946544430</id>
     <title>I cry a lot #ssjynx #solardidsystem </title>
@@ -91,5 +83,13 @@
     <content>Replying to @kiwikittennz #solardidsystem #ssjynx #reply </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7243169805576981803" rel="alternate"/>
     <published>2023-06-10T21:18:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7243937337804148010</id>
+    <title>I love glitz and glam or baggy sweatpants. No in between. #solardidsystem #ssvegas #alterintro </title>
+    <updated>2023-06-12T22:56:43+00:00</updated>
+    <content>I love glitz and glam or baggy sweatpants. No in between. #solardidsystem #ssvegas #alterintro </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7243937337804148010" rel="alternate"/>
+    <published>2023-06-12T22:56:43+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@steffzombie</id>
   <title>@steffzombie | TikTok</title>
-  <updated>2023-06-12T18:46:50+00:00</updated>
+  <updated>2023-06-12T22:06:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @steffzombie</subtitle>
-  <entry>
-    <id>https://tiktok.com/@steffzombie/video/7239414196419448107</id>
-    <title>Facts. I thought yall knew ?  #fy </title>
-    <updated>2023-05-31T18:24:34+00:00</updated>
-    <content>Facts. I thought yall knew ?  #fy </content>
-    <link href="https://tiktok.com/@steffzombie/video/7239414196419448107" rel="alternate"/>
-    <published>2023-05-31T18:24:34+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@steffzombie/video/7239443440503721258</id>
     <title>Replying to @leblanc_lena   Is this supposed to be a insult ?   Dc @A really basic TikTok page </title>
@@ -91,5 +83,13 @@
     <content>Its always all talk but no bite  #fy </content>
     <link href="https://tiktok.com/@steffzombie/video/7243872950565309742" rel="alternate"/>
     <published>2023-06-12T18:46:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@steffzombie/video/7243924340792626474</id>
+    <title>Replying to @localgay_tohfan   Im on my way</title>
+    <updated>2023-06-12T22:06:14+00:00</updated>
+    <content>Replying to @localgay_tohfan   Im on my way</content>
+    <link href="https://tiktok.com/@steffzombie/video/7243924340792626474" rel="alternate"/>
+    <published>2023-06-12T22:06:14+00:00</published>
   </entry>
 </feed>
