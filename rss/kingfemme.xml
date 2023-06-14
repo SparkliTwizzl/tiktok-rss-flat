@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kingfemme</id>
   <title>@kingfemme | TikTok</title>
-  <updated>2023-06-08T17:02:14+00:00</updated>
+  <updated>2023-06-14T16:01:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kingfemme</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kingfemme/video/7208573909833157930</id>
-    <title>Welp here we are! #fyp #trans #hrt #testosterone #ftm #nonbinary #lgbt </title>
-    <updated>2023-03-09T15:48:56+00:00</updated>
-    <content>Welp here we are! #fyp #trans #hrt #testosterone #ftm #nonbinary #lgbt </content>
-    <link href="https://tiktok.com/@kingfemme/video/7208573909833157930" rel="alternate"/>
-    <published>2023-03-09T15:48:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kingfemme/video/7209025915731430699</id>
     <title>😅😅😅 #uber #lyft #lgbt #fyp #comedy #lgbt #trans #femmeboy #makeup #nonbinary #gendernonconforming #testosterone #hrt #gay #femme </title>
@@ -91,5 +83,13 @@
     <content>Replying to @bby_kngr #screammovie #ftm #nonbinary #facialhair #hrt #testosteronetherapy #trans #fyp #lgbt #transasc #selfcare </content>
     <link href="https://tiktok.com/@kingfemme/video/7242361655839952170" rel="alternate"/>
     <published>2023-06-08T17:02:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kingfemme/video/7244572580433202475</id>
+    <title>I dont even drink lol i just be passing on the wealth to the community 😂 #fyp #lgbt #trans #gaybar #hrt #ftm #mtf #nonbinary #transmasc #comedy </title>
+    <updated>2023-06-14T16:01:56+00:00</updated>
+    <content>I dont even drink lol i just be passing on the wealth to the community 😂 #fyp #lgbt #trans #gaybar #hrt #ftm #mtf #nonbinary #transmasc #comedy </content>
+    <link href="https://tiktok.com/@kingfemme/video/7244572580433202475" rel="alternate"/>
+    <published>2023-06-14T16:01:56+00:00</published>
   </entry>
 </feed>
