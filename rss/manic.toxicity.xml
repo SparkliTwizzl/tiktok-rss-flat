@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@manic.toxicity</id>
   <title>@manic.toxicity | TikTok</title>
-  <updated>2023-06-14T00:21:27+00:00</updated>
+  <updated>2023-06-14T19:59:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @manic.toxicity</subtitle>
-  <entry>
-    <id>https://tiktok.com/@manic.toxicity/video/7242434926610533678</id>
-    <title>yeah yeah i did it again  (i get off work at 10pm CST… can we hit 100k by then..? ✨🤯)  #fyp #foryou </title>
-    <updated>2023-06-08T21:46:32+00:00</updated>
-    <content>yeah yeah i did it again  (i get off work at 10pm CST… can we hit 100k by then..? ✨🤯)  #fyp #foryou </content>
-    <link href="https://tiktok.com/@manic.toxicity/video/7242434926610533678" rel="alternate"/>
-    <published>2023-06-08T21:46:32+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@manic.toxicity/video/7242741608565771563</id>
     <title>my mental standpoints have changed alot in the past two months and im not wuite sure if its good or bad. ive blocked out alot of things that hurt me consecutively in attempt to better myself   im doing my best to grow as a person, learn my self worth, bat</title>
@@ -91,5 +83,13 @@
     <content>cross my heart #fyp #foryou </content>
     <link href="https://tiktok.com/@manic.toxicity/video/7244330270910893354" rel="alternate"/>
     <published>2023-06-14T00:21:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@manic.toxicity/video/7244633923819506986</id>
+    <title>so what if im fucking crazy? #fyp </title>
+    <updated>2023-06-14T19:59:54+00:00</updated>
+    <content>so what if im fucking crazy? #fyp </content>
+    <link href="https://tiktok.com/@manic.toxicity/video/7244633923819506986" rel="alternate"/>
+    <published>2023-06-14T19:59:54+00:00</published>
   </entry>
 </feed>
