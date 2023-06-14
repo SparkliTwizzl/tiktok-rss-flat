@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-06-12T13:54:23+00:00</updated>
+  <updated>2023-06-14T20:43:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7237885788669709574</id>
-    <title>I've been asked about this filter and my characters...so here is a sample #aifilter #maladytheclown #makeupartist #cosplayer</title>
-    <updated>2023-05-27T15:33:30+00:00</updated>
-    <content>I've been asked about this filter and my characters...so here is a sample #aifilter #maladytheclown #makeupartist #cosplayer</content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7237885788669709574" rel="alternate"/>
-    <published>2023-05-27T15:33:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7239333215658347781</id>
     <title>feel free to duet. thank goodness for this option. I've been too sick to film lately #onthisday #maladytheclown #humor #comedy #cosplayer </title>
@@ -91,5 +83,13 @@
     <content>love this cover ❤️ #maladytheclown #clown #onestepcloser </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7243797616473967878" rel="alternate"/>
     <published>2023-06-12T13:54:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7244645252273802501</id>
+    <title>feel free to duet 🩵 #maladytheclown #clown #findingnemo #comedy</title>
+    <updated>2023-06-14T20:43:42+00:00</updated>
+    <content>feel free to duet 🩵 #maladytheclown #clown #findingnemo #comedy</content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7244645252273802501" rel="alternate"/>
+    <published>2023-06-14T20:43:42+00:00</published>
   </entry>
 </feed>

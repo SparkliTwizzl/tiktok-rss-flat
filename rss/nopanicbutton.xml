@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@nopanicbutton</id>
   <title>@nopanicbutton | TikTok</title>
-  <updated>2023-06-12T21:25:11+00:00</updated>
+  <updated>2023-06-14T20:47:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @nopanicbutton</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nopanicbutton/video/7236141317246438698</id>
-    <title>Ever seen a mountain of a man hit a Mariah Carey high note? #arachnids #obt #funtimes #whereditgo </title>
-    <updated>2023-05-22T22:44:15+00:00</updated>
-    <content>Ever seen a mountain of a man hit a Mariah Carey high note? #arachnids #obt #funtimes #whereditgo </content>
-    <link href="https://tiktok.com/@nopanicbutton/video/7236141317246438698" rel="alternate"/>
-    <published>2023-05-22T22:44:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nopanicbutton/video/7236867241399029034</id>
     <title>Snacks make everything better. NOT a paid ad. I love this stuff! #righteousfelon @Righteous Felon #damngoodeats </title>
@@ -91,5 +83,13 @@
     <content>Hey J, I know you'll be pissed when you see this but I warned you! #gross #handsoff #stopleavingyourearwaxonmystuff </content>
     <link href="https://tiktok.com/@nopanicbutton/video/7243913750523399470" rel="alternate"/>
     <published>2023-06-12T21:25:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nopanicbutton/video/7244646182578851114</id>
+    <title>It was an angry Little Person! It was the cutest thing EVER! He got so mad when I started laughing after he stormed out of his car. He left when I said I'm going in to exchange the .45 for a .22 so he could have an open casket.</title>
+    <updated>2023-06-14T20:47:23+00:00</updated>
+    <content>It was an angry Little Person! It was the cutest thing EVER! He got so mad when I started laughing after he stormed out of his car. He left when I said I'm going in to exchange the .45 for a .22 so he could have an open casket.</content>
+    <link href="https://tiktok.com/@nopanicbutton/video/7244646182578851114" rel="alternate"/>
+    <published>2023-06-14T20:47:23+00:00</published>
   </entry>
 </feed>
