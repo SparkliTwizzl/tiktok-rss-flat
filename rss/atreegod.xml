@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@atreegod</id>
   <title>@atreegod | TikTok</title>
-  <updated>2023-06-12T23:51:34+00:00</updated>
+  <updated>2023-06-14T02:09:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @atreegod</subtitle>
-  <entry>
-    <id>https://tiktok.com/@atreegod/video/7237018587133742378</id>
-    <title>Its 3:30am &lt;3 #wlw </title>
-    <updated>2023-05-25T07:29:21+00:00</updated>
-    <content>Its 3:30am &lt;3 #wlw </content>
-    <link href="https://tiktok.com/@atreegod/video/7237018587133742378" rel="alternate"/>
-    <published>2023-05-25T07:29:21+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@atreegod/video/7237619224280091946</id>
-    <title>Work bathroom⁉️ #wlw #masc #lgbtq </title>
-    <updated>2023-05-26T22:19:15+00:00</updated>
-    <content>Work bathroom⁉️ #wlw #masc #lgbtq </content>
-    <link href="https://tiktok.com/@atreegod/video/7237619224280091946" rel="alternate"/>
-    <published>2023-05-26T22:19:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@atreegod/video/7240067990073462059</id>
     <title>HAPPY PRIDEEEEE #wlw </title>
@@ -91,5 +75,21 @@
     <content>When i realized j was in the kitchen lol #wlw </content>
     <link href="https://tiktok.com/@atreegod/video/7243951489222413614" rel="alternate"/>
     <published>2023-06-12T23:51:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7244341972805160235</id>
+    <title>Anyways #wlw </title>
+    <updated>2023-06-14T01:06:52+00:00</updated>
+    <content>Anyways #wlw </content>
+    <link href="https://tiktok.com/@atreegod/video/7244341972805160235" rel="alternate"/>
+    <published>2023-06-14T01:06:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7244358156917296427</id>
+    <title>Goodnight lesbiansssss #wlw #lgbtq </title>
+    <updated>2023-06-14T02:09:42+00:00</updated>
+    <content>Goodnight lesbiansssss #wlw #lgbtq </content>
+    <link href="https://tiktok.com/@atreegod/video/7244358156917296427" rel="alternate"/>
+    <published>2023-06-14T02:09:42+00:00</published>
   </entry>
 </feed>
