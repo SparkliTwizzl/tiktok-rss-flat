@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kamehalani</id>
   <title>@kamehalani | TikTok</title>
-  <updated>2023-06-08T20:35:40+00:00</updated>
+  <updated>2023-06-14T03:34:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kamehalani</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kamehalani/video/7237362390114028846</id>
-    <title>New skin who dis? #saawareness #sasurvivor </title>
-    <updated>2023-05-26T05:42:38+00:00</updated>
-    <content>New skin who dis? #saawareness #sasurvivor </content>
-    <link href="https://tiktok.com/@kamehalani/video/7237362390114028846" rel="alternate"/>
-    <published>2023-05-26T05:42:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kamehalani/video/7239002021381049642</id>
     <title>This life and the last. Always and forever #wlw #lgbt </title>
@@ -91,5 +83,13 @@
     <content>#stitch with @꧁♛𝓡𝓸𝔂𝓪𝓵𝓫𝓵𝓾𝓮𝓯𝓪𝓶♛꧂  </content>
     <link href="https://tiktok.com/@kamehalani/video/7242416660840189230" rel="alternate"/>
     <published>2023-06-08T20:35:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kamehalani/video/7244380071321111854</id>
+    <title>Im having A TIME!</title>
+    <updated>2023-06-14T03:34:43+00:00</updated>
+    <content>Im having A TIME!</content>
+    <link href="https://tiktok.com/@kamehalani/video/7244380071321111854" rel="alternate"/>
+    <published>2023-06-14T03:34:43+00:00</published>
   </entry>
 </feed>
