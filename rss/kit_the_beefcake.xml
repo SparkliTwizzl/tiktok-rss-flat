@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kit_the_beefcake</id>
   <title>@kit_the_beefcake | TikTok</title>
-  <updated>2023-06-14T12:41:53+00:00</updated>
+  <updated>2023-06-14T20:49:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kit_the_beefcake</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7242843603477744939</id>
-    <title>#kitthebeefcake </title>
-    <updated>2023-06-10T00:12:27+00:00</updated>
-    <content>#kitthebeefcake </content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7242843603477744939" rel="alternate"/>
-    <published>2023-06-10T00:12:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7242984395886300459</id>
     <title>#kitthebeefcake </title>
@@ -91,5 +83,13 @@
     <content>the fact that I dated a married couple for six months when I was 21 and had so much fun it was nuts #kitthebeefcake </content>
     <link href="https://tiktok.com/@kit_the_beefcake/video/7244520912681209134" rel="alternate"/>
     <published>2023-06-14T12:41:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7244646630706842926</id>
+    <title>#kitthebeefcake </title>
+    <updated>2023-06-14T20:49:12+00:00</updated>
+    <content>#kitthebeefcake </content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7244646630706842926" rel="alternate"/>
+    <published>2023-06-14T20:49:12+00:00</published>
   </entry>
 </feed>

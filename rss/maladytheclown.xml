@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maladytheclown</id>
   <title>@maladytheclown | TikTok</title>
-  <updated>2023-06-12T13:58:57+00:00</updated>
+  <updated>2023-06-14T20:54:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maladytheclown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maladytheclown/video/7234498922260057349</id>
-    <title>I think I've created a... #maladytheclown #clown #lipsync #cosplay #blackandwhite </title>
-    <updated>2023-05-18T12:30:44+00:00</updated>
-    <content>I think I've created a... #maladytheclown #clown #lipsync #cosplay #blackandwhite </content>
-    <link href="https://tiktok.com/@maladytheclown/video/7234498922260057349" rel="alternate"/>
-    <published>2023-05-18T12:30:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maladytheclown/video/7234690824062209285</id>
     <title>#maladytheclown #somebodytolove #lipsync #clown </title>
@@ -91,5 +83,13 @@
     <content>loved this look for Glum #onthisday #glumthesupernaturalhitman #dragking #drag </content>
     <link href="https://tiktok.com/@maladytheclown/video/7243798785338428678" rel="alternate"/>
     <published>2023-06-12T13:58:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maladytheclown/video/7244647957134314757</id>
+    <title>#maladytheclown </title>
+    <updated>2023-06-14T20:54:12+00:00</updated>
+    <content>#maladytheclown </content>
+    <link href="https://tiktok.com/@maladytheclown/video/7244647957134314757" rel="alternate"/>
+    <published>2023-06-14T20:54:12+00:00</published>
   </entry>
 </feed>
