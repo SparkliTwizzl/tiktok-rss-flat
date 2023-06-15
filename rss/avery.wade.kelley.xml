@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-06-14T19:47:38+00:00</updated>
+  <updated>2023-06-15T21:26:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7242374184158989611</id>
-    <title>Happy Pride! #fyp #trans </title>
-    <updated>2023-06-08T17:50:51+00:00</updated>
-    <content>Happy Pride! #fyp #trans </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7242374184158989611" rel="alternate"/>
-    <published>2023-06-08T17:50:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7242692154689195310</id>
     <title>True story. They made my heart race. Still does. 🖤 @LeviRouxx #fyp #pride #pansexual </title>
@@ -91,5 +83,13 @@
     <content>Just singing the blues. #fyp #trans </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7244630778674433326" rel="alternate"/>
     <published>2023-06-14T19:47:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7245027243955735854</id>
+    <title>Celebrate the little things. Even if they're sparse. ;] #fyp #trans </title>
+    <updated>2023-06-15T21:26:10+00:00</updated>
+    <content>Celebrate the little things. Even if they're sparse. ;] #fyp #trans </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7245027243955735854" rel="alternate"/>
+    <published>2023-06-15T21:26:10+00:00</published>
   </entry>
 </feed>
