@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@hyndsyghts</id>
   <title>@hyndsyghts | TikTok</title>
-  <updated>2023-06-13T01:54:13+00:00</updated>
+  <updated>2023-06-15T02:19:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @hyndsyghts</subtitle>
-  <entry>
-    <id>https://tiktok.com/@hyndsyghts/video/7235066389999160622</id>
-    <title>having hair now means having a new thing to fidget with #buzzcutgrowth #lgbtq #wlw #edm </title>
-    <updated>2023-05-20T01:12:55+00:00</updated>
-    <content>having hair now means having a new thing to fidget with #buzzcutgrowth #lgbtq #wlw #edm </content>
-    <link href="https://tiktok.com/@hyndsyghts/video/7235066389999160622" rel="alternate"/>
-    <published>2023-05-20T01:12:55+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@hyndsyghts/video/7235067639687646510</id>
     <title>fed #lgbtq #wlw #edm #stim </title>
@@ -91,5 +83,13 @@
     <content>peaceful tbh #actuallyautistic #lgbtq </content>
     <link href="https://tiktok.com/@hyndsyghts/video/7243983074604731690" rel="alternate"/>
     <published>2023-06-13T01:54:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@hyndsyghts/video/7244731685944888622</id>
+    <title>a solid top 4 ☠️ #lgbtq #smashability </title>
+    <updated>2023-06-15T02:19:11+00:00</updated>
+    <content>a solid top 4 ☠️ #lgbtq #smashability </content>
+    <link href="https://tiktok.com/@hyndsyghts/video/7244731685944888622" rel="alternate"/>
+    <published>2023-06-15T02:19:11+00:00</published>
   </entry>
 </feed>
