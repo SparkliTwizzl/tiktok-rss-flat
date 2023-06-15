@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@manic.toxicity</id>
   <title>@manic.toxicity | TikTok</title>
-  <updated>2023-06-14T19:59:54+00:00</updated>
+  <updated>2023-06-15T20:57:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @manic.toxicity</subtitle>
-  <entry>
-    <id>https://tiktok.com/@manic.toxicity/video/7242741608565771563</id>
-    <title>my mental standpoints have changed alot in the past two months and im not wuite sure if its good or bad. ive blocked out alot of things that hurt me consecutively in attempt to better myself   im doing my best to grow as a person, learn my self worth, bat</title>
-    <updated>2023-06-09T17:36:53+00:00</updated>
-    <content>my mental standpoints have changed alot in the past two months and im not wuite sure if its good or bad. ive blocked out alot of things that hurt me consecutively in attempt to better myself   im doing my best to grow as a person, learn my self worth, battle my mental illnesses, love myself, and much more.  it took a long time for me to realize that the most important person in my life, is me. if i dont take care of me properly, my life would cease to exist.  i go through alot mentally and physically, that i tend to not share with the internet. ive had a hard childhood, all things considered. ive had a devestating rise into adulthood, but thats not gonna stop me.  im trying to do things that are better for myself and my personal priorities within my own head. i have bad days, and good days. sadly, it all just takes time.  Ive grown much more, in many ways, since i was young. im much healthier than i was just a few years ago. but the mindest ive recently developed, “block every negative thing iut of your life”, may or may not be a good one.  its taken me alot of trial and error, hard work, dedication, breakdowns, tears, sweat, and blood to get to were i am today. though i know ive made progress, its hard to recognize it for yourself sometimes.  i went home to read all the comments on the video i made about me being clean from self harm, and sobbed violently. not in a bad way, but because so many people were proud of me without even knowing my full story. and to attract people like all of you, i am eternally grateful.  i love you all so much, thank you for all your support.  (im much better writing that i am at talking, so please excuse my essay of a caption, lol)  p.s. im sorry for any typos, tiktok wont autocorrect anything and i type very quickly) #fyp #mentalhealthmatters #mentalillness #loveyourself </content>
-    <link href="https://tiktok.com/@manic.toxicity/video/7242741608565771563" rel="alternate"/>
-    <published>2023-06-09T17:36:53+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@manic.toxicity/video/7242748950300626218</id>
     <title>can i get a kiss? #fyp #foryou </title>
@@ -91,5 +83,13 @@
     <content>so what if im fucking crazy? #fyp </content>
     <link href="https://tiktok.com/@manic.toxicity/video/7244633923819506986" rel="alternate"/>
     <published>2023-06-14T19:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@manic.toxicity/video/7245019805957426478</id>
+    <title>bring her back or TAKE ME WITH HER #fyp #foryo </title>
+    <updated>2023-06-15T20:57:20+00:00</updated>
+    <content>bring her back or TAKE ME WITH HER #fyp #foryo </content>
+    <link href="https://tiktok.com/@manic.toxicity/video/7245019805957426478" rel="alternate"/>
+    <published>2023-06-15T20:57:20+00:00</published>
   </entry>
 </feed>
