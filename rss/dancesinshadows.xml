@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-06-15T01:29:18+00:00</updated>
+  <updated>2023-06-15T21:05:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7239687858896768262</id>
-    <title>#maladytheclown #onthisday </title>
-    <updated>2023-06-01T12:06:26+00:00</updated>
-    <content>#maladytheclown #onthisday </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7239687858896768262" rel="alternate"/>
-    <published>2023-06-01T12:06:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7240249376776473862</id>
     <title>feel free to duet #wonderlandcosplay #costumedesign #darkwonderland #wonderland </title>
@@ -91,5 +83,13 @@
     <content>#maladytheclown #clown #retrovibes </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7244718861784714501" rel="alternate"/>
     <published>2023-06-15T01:29:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7245022039738813701</id>
+    <title>I choose to believe... 🤍 feel free to duet  #maladytheclown #retrovibes #clown #blackandwhite #vintagevibes </title>
+    <updated>2023-06-15T21:05:50+00:00</updated>
+    <content>I choose to believe... 🤍 feel free to duet  #maladytheclown #retrovibes #clown #blackandwhite #vintagevibes </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7245022039738813701" rel="alternate"/>
+    <published>2023-06-15T21:05:50+00:00</published>
   </entry>
 </feed>
