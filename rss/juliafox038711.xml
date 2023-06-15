@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@juliafox038711</id>
   <title>@juliafox038711 | TikTok</title>
-  <updated>2023-06-13T20:57:46+00:00</updated>
+  <updated>2023-06-15T18:51:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juliafox038711</subtitle>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7239441108072271147</id>
-    <title>we love bleaching curly hair untill it just ends ip frizzing with no curl🥲</title>
-    <updated>2023-05-31T20:09:00+00:00</updated>
-    <content>we love bleaching curly hair untill it just ends ip frizzing with no curl🥲</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7239441108072271147" rel="alternate"/>
-    <published>2023-05-31T20:09:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7240189034012740910</id>
-    <title>guys.. i finally cleaned my room</title>
-    <updated>2023-06-02T20:31:24+00:00</updated>
-    <content>guys.. i finally cleaned my room</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7240189034012740910" rel="alternate"/>
-    <published>2023-06-02T20:31:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@juliafox038711/video/7240608727005498666</id>
     <title>toes #foryou #unshadowbanmeplstiktok </title>
@@ -91,5 +75,21 @@
     <content>life update. im sick as shit</content>
     <link href="https://tiktok.com/@juliafox038711/video/7244277778651073835" rel="alternate"/>
     <published>2023-06-13T20:57:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7244983985237921070</id>
+    <title>#tonguetok #foryou #unshadowbanme #trend maybe hashtags will help💪🏼 anyway, gonna try and be active once more, let us see</title>
+    <updated>2023-06-15T18:38:15+00:00</updated>
+    <content>#tonguetok #foryou #unshadowbanme #trend maybe hashtags will help💪🏼 anyway, gonna try and be active once more, let us see</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7244983985237921070" rel="alternate"/>
+    <published>2023-06-15T18:38:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7244987258204425518</id>
+    <title>gingers are so pretty to me</title>
+    <updated>2023-06-15T18:51:01+00:00</updated>
+    <content>gingers are so pretty to me</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7244987258204425518" rel="alternate"/>
+    <published>2023-06-15T18:51:01+00:00</published>
   </entry>
 </feed>
