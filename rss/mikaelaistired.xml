@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@mikaelaistired</id>
   <title>@mikaelaistired | TikTok</title>
-  <updated>2023-06-15T14:44:59+00:00</updated>
+  <updated>2023-06-15T19:44:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @mikaelaistired</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mikaelaistired/video/7243800082875764011</id>
-    <title>You’ll learn</title>
-    <updated>2023-06-12T14:04:06+00:00</updated>
-    <content>You’ll learn</content>
-    <link href="https://tiktok.com/@mikaelaistired/video/7243800082875764011" rel="alternate"/>
-    <published>2023-06-12T14:04:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mikaelaistired/video/7243891268877667627</id>
     <title>Love you</title>
@@ -91,5 +83,13 @@
     <content>Im stuck in a loop</content>
     <link href="https://tiktok.com/@mikaelaistired/video/7244923821751405867" rel="alternate"/>
     <published>2023-06-15T14:44:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mikaelaistired/video/7245001060308323630</id>
+    <title>Fair enough</title>
+    <updated>2023-06-15T19:44:33+00:00</updated>
+    <content>Fair enough</content>
+    <link href="https://tiktok.com/@mikaelaistired/video/7245001060308323630" rel="alternate"/>
+    <published>2023-06-15T19:44:33+00:00</published>
   </entry>
 </feed>
