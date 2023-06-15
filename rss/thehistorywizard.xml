@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thehistorywizard</id>
   <title>@thehistorywizard | TikTok</title>
-  <updated>2023-05-25T13:57:17+00:00</updated>
+  <updated>2023-06-15T17:06:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thehistorywizard</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thehistorywizard/video/7234633407773412650</id>
-    <title>I really hope this becomes a series 🤣 #thehistorywizard #historytiktok #edutok #learnontiktok #wizardcommunism #greenscreen </title>
-    <updated>2023-05-18T21:12:42+00:00</updated>
-    <content>I really hope this becomes a series 🤣 #thehistorywizard #historytiktok #edutok #learnontiktok #wizardcommunism #greenscreen </content>
-    <link href="https://tiktok.com/@thehistorywizard/video/7234633407773412650" rel="alternate"/>
-    <published>2023-05-18T21:12:42+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@thehistorywizard/video/7234896848681569578</id>
-    <title>Replying to @beezinhead Great question. #thehistorywizard #historytiktok #edutok #learnontiktok #wizardcommunism </title>
-    <updated>2023-05-19T14:15:21+00:00</updated>
-    <content>Replying to @beezinhead Great question. #thehistorywizard #historytiktok #edutok #learnontiktok #wizardcommunism </content>
-    <link href="https://tiktok.com/@thehistorywizard/video/7234896848681569578" rel="alternate"/>
-    <published>2023-05-19T14:15:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thehistorywizard/video/7235019174626528555</id>
     <title>Replying to @will.mac._ Please stop though. #thehistorywizard #historytiktok #edutok #learnontiktok #wizardcommunism </title>
@@ -91,5 +75,21 @@
     <content>Replying to @tmcmillann Great question. #thehistorywizard #historytiktok #edutok #learnontiktok #wizardcommunism #dogwhistle </content>
     <link href="https://tiktok.com/@thehistorywizard/video/7237118723776154922" rel="alternate"/>
     <published>2023-05-25T13:57:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thehistorywizard/video/7244937489411067179</id>
+    <title>Probably gonna talk more about maps for a bit. #thehistorywizard #historytiktok #edutok #learnontiktok #wizardcommunism #maps </title>
+    <updated>2023-06-15T15:38:04+00:00</updated>
+    <content>Probably gonna talk more about maps for a bit. #thehistorywizard #historytiktok #edutok #learnontiktok #wizardcommunism #maps </content>
+    <link href="https://tiktok.com/@thehistorywizard/video/7244937489411067179" rel="alternate"/>
+    <published>2023-06-15T15:38:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thehistorywizard/video/7244960275391139118</id>
+    <title>K thanks. #thehistorywizard #historytiktok #lgbt #leftist </title>
+    <updated>2023-06-15T17:06:17+00:00</updated>
+    <content>K thanks. #thehistorywizard #historytiktok #lgbt #leftist </content>
+    <link href="https://tiktok.com/@thehistorywizard/video/7244960275391139118" rel="alternate"/>
+    <published>2023-06-15T17:06:17+00:00</published>
   </entry>
 </feed>
