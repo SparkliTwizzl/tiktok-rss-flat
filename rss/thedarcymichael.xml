@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-06-13T19:00:50+00:00</updated>
+  <updated>2023-06-14T23:23:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7239791332468837637</id>
-    <title>This is how we do #PRIDE !  We wanted to partner with a brand that has a long history of supporting our community year-round and who better than our friends at Trojan Canada @Trojan Brand Condoms  - thanks for celebrating, educating, and protecting our co</title>
-    <updated>2023-06-01T18:47:59+00:00</updated>
-    <content>This is how we do #PRIDE !  We wanted to partner with a brand that has a long history of supporting our community year-round and who better than our friends at Trojan Canada @Trojan Brand Condoms  - thanks for celebrating, educating, and protecting our community.</content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7239791332468837637" rel="alternate"/>
-    <published>2023-06-01T18:47:59+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7240096417174342917</id>
-    <title>Darcy remembered to film this every day for 23 days 👏👏👏 </title>
-    <updated>2023-06-02T14:31:52+00:00</updated>
-    <content>Darcy remembered to film this every day for 23 days 👏👏👏 </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7240096417174342917" rel="alternate"/>
-    <published>2023-06-02T14:31:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7240931591155895558</id>
     <title>Look our chuck, there’s some new queens in town #travelvlog #pridemonth #pride #june #vlog #london </title>
@@ -91,5 +75,21 @@
     <content>The way Darcy ended this 🫣#standupcomedy #crowdwork #justforlaughs #onthisday #funny </content>
     <link href="https://tiktok.com/@thedarcymichael/video/7244247668518587653" rel="alternate"/>
     <published>2023-06-13T19:00:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7244678374931565830</id>
+    <title>He was so close #plantrescue </title>
+    <updated>2023-06-14T22:52:14+00:00</updated>
+    <content>He was so close #plantrescue </content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7244678374931565830" rel="alternate"/>
+    <published>2023-06-14T22:52:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7244686455426075910</id>
+    <title>This year, as an act of pride, choose your wellbeing by quitting smoking with the help of @Nicorette Canada. #NicorettePartner #SmokeFree Legal disclaimer: NICORETTE ® contains nicotine. Stop smoking aid. Always read and follow the label.</title>
+    <updated>2023-06-14T23:23:37+00:00</updated>
+    <content>This year, as an act of pride, choose your wellbeing by quitting smoking with the help of @Nicorette Canada. #NicorettePartner #SmokeFree Legal disclaimer: NICORETTE ® contains nicotine. Stop smoking aid. Always read and follow the label.</content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7244686455426075910" rel="alternate"/>
+    <published>2023-06-14T23:23:37+00:00</published>
   </entry>
 </feed>
