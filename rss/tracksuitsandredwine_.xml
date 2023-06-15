@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@tracksuitsandredwine_</id>
   <title>@tracksuitsandredwine_ | TikTok</title>
-  <updated>2023-06-12T10:24:15+00:00</updated>
+  <updated>2023-06-15T10:47:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @tracksuitsandredwine_</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tracksuitsandredwine_/video/7240042488042441986</id>
-    <title>[no title]</title>
-    <updated>2023-06-02T11:02:38+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7240042488042441986" rel="alternate"/>
-    <published>2023-06-02T11:02:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tracksuitsandredwine_/video/7240045449267154177</id>
     <title>[no title]</title>
@@ -91,5 +83,13 @@
     <content>:)</content>
     <link href="https://tiktok.com/@tracksuitsandredwine_/video/7243743457221561601" rel="alternate"/>
     <published>2023-06-12T10:24:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tracksuitsandredwine_/video/7244862765930695938</id>
+    <title>i will kiss you square on the mouth if you sing this with me. </title>
+    <updated>2023-06-15T10:47:47+00:00</updated>
+    <content>i will kiss you square on the mouth if you sing this with me. </content>
+    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7244862765930695938" rel="alternate"/>
+    <published>2023-06-15T10:47:47+00:00</published>
   </entry>
 </feed>
