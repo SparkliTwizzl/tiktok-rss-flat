@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avocadosnaliens</id>
   <title>@avocadosnaliens | TikTok</title>
-  <updated>2023-06-13T16:54:02+00:00</updated>
+  <updated>2023-06-15T03:38:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avocadosnaliens</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avocadosnaliens/video/7240212190811409710</id>
-    <title>[no title]</title>
-    <updated>2023-06-02T22:01:22+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@avocadosnaliens/video/7240212190811409710" rel="alternate"/>
-    <published>2023-06-02T22:01:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avocadosnaliens/video/7240870212214459694</id>
     <title>What the hell else were we supposed to do in jersey?</title>
@@ -91,5 +83,13 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@avocadosnaliens/video/7244214963592613162" rel="alternate"/>
     <published>2023-06-13T16:54:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7244752137983446314</id>
+    <title>#stitch with @louisa melcher  </title>
+    <updated>2023-06-15T03:38:41+00:00</updated>
+    <content>#stitch with @louisa melcher  </content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7244752137983446314" rel="alternate"/>
+    <published>2023-06-15T03:38:41+00:00</published>
   </entry>
 </feed>
