@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-06-15T21:26:10+00:00</updated>
+  <updated>2023-06-16T21:26:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7242692154689195310</id>
-    <title>True story. They made my heart race. Still does. 🖤 @LeviRouxx #fyp #pride #pansexual </title>
-    <updated>2023-06-09T14:25:01+00:00</updated>
-    <content>True story. They made my heart race. Still does. 🖤 @LeviRouxx #fyp #pride #pansexual </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7242692154689195310" rel="alternate"/>
-    <published>2023-06-09T14:25:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7242729812777831726</id>
     <title>See you there!!! #forbiddenkingdom </title>
@@ -91,5 +83,13 @@
     <content>Celebrate the little things. Even if they're sparse. ;] #fyp #trans </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7245027243955735854" rel="alternate"/>
     <published>2023-06-15T21:26:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7245398284775279915</id>
+    <title>Phew. It will all be okay. We're moving to saftey like we've never known it, with beautiful people already in our path. This is another beautiful chapter waiting to start, and I'm ready for it. #fyp #trans @Tattoujee @LeviRouxx </title>
+    <updated>2023-06-16T21:26:04+00:00</updated>
+    <content>Phew. It will all be okay. We're moving to saftey like we've never known it, with beautiful people already in our path. This is another beautiful chapter waiting to start, and I'm ready for it. #fyp #trans @Tattoujee @LeviRouxx </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7245398284775279915" rel="alternate"/>
+    <published>2023-06-16T21:26:04+00:00</published>
   </entry>
 </feed>
