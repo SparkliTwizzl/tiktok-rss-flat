@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maruzee_dragon</id>
   <title>@maruzee_dragon | TikTok</title>
-  <updated>2023-06-14T02:22:27+00:00</updated>
+  <updated>2023-06-16T02:23:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maruzee_dragon</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maruzee_dragon/video/7238795259214318853</id>
-    <title>Red hair Chun-Li 🤔 #transition #videogames #gamer #streetfighter  #martialarts </title>
-    <updated>2023-05-30T02:22:43+00:00</updated>
-    <content>Red hair Chun-Li 🤔 #transition #videogames #gamer #streetfighter  #martialarts </content>
-    <link href="https://tiktok.com/@maruzee_dragon/video/7238795259214318853" rel="alternate"/>
-    <published>2023-05-30T02:22:43+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maruzee_dragon/video/7238987387861290245</id>
     <title>Guess who's prowling into Genshin Impact? Catch a glimpse of this mysterious feline's playful antics #GenshinImpact37 #GenshinImpact @GenshinImpact_En </title>
@@ -91,5 +83,13 @@
     <content>My draft kinda fits with the beat 🤣 #lightsaber #tricks #martialarts #fyp </content>
     <link href="https://tiktok.com/@maruzee_dragon/video/7244361467586186502" rel="alternate"/>
     <published>2023-06-14T02:22:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maruzee_dragon/video/7245103974565596421</id>
+    <title>Réponse à @nutegunrayisaslay  Area Codes x Pony with lightsabers 🙃👍 #transition #martialarts #tricks</title>
+    <updated>2023-06-16T02:23:45+00:00</updated>
+    <content>Réponse à @nutegunrayisaslay  Area Codes x Pony with lightsabers 🙃👍 #transition #martialarts #tricks</content>
+    <link href="https://tiktok.com/@maruzee_dragon/video/7245103974565596421" rel="alternate"/>
+    <published>2023-06-16T02:23:45+00:00</published>
   </entry>
 </feed>
