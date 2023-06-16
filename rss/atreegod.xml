@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@atreegod</id>
   <title>@atreegod | TikTok</title>
-  <updated>2023-06-15T23:22:01+00:00</updated>
+  <updated>2023-06-16T18:32:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @atreegod</subtitle>
-  <entry>
-    <id>https://tiktok.com/@atreegod/video/7240067990073462059</id>
-    <title>HAPPY PRIDEEEEE #wlw </title>
-    <updated>2023-06-02T12:41:42+00:00</updated>
-    <content>HAPPY PRIDEEEEE #wlw </content>
-    <link href="https://tiktok.com/@atreegod/video/7240067990073462059" rel="alternate"/>
-    <published>2023-06-02T12:41:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@atreegod/video/7240657839436418347</id>
     <title>🤪 #wlw </title>
@@ -91,5 +83,13 @@
     <content>She loves being a monkey fr #wlw #nyc </content>
     <link href="https://tiktok.com/@atreegod/video/7245057105034579246" rel="alternate"/>
     <published>2023-06-15T23:22:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7245353669489741099</id>
+    <title>Real #wlw #lgbtq </title>
+    <updated>2023-06-16T18:32:48+00:00</updated>
+    <content>Real #wlw #lgbtq </content>
+    <link href="https://tiktok.com/@atreegod/video/7245353669489741099" rel="alternate"/>
+    <published>2023-06-16T18:32:48+00:00</published>
   </entry>
 </feed>
