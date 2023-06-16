@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-06-16T16:42:26+00:00</updated>
+  <updated>2023-06-16T22:35:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7242816310609169710</id>
-    <title>#stitch with @👽 It won't stitch the bit we selected. Also the audio is in sync with the captions but video is not because ⏰⏰ hasn't fixed that yet. #solardidsystem #sszenith </title>
-    <updated>2023-06-09T22:26:33+00:00</updated>
-    <content>#stitch with @👽 It won't stitch the bit we selected. Also the audio is in sync with the captions but video is not because ⏰⏰ hasn't fixed that yet. #solardidsystem #sszenith </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7242816310609169710" rel="alternate"/>
-    <published>2023-06-09T22:26:33+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7243134085005102379</id>
     <title>Replying to @brutusgargantua #reply this was fun to talk about! #solardidsystem #ssjynx </title>
@@ -91,5 +83,13 @@
     <content>Yet another instance where our siblings were favored over us. Thanks for the reminder. #solardidsystem #ssarchelaus </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7245325225619950890" rel="alternate"/>
     <published>2023-06-16T16:42:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7245416262594006318</id>
+    <title>A typical conversation between the two of them 😅 #solardidsystem #sszenith #ssryn </title>
+    <updated>2023-06-16T22:35:43+00:00</updated>
+    <content>A typical conversation between the two of them 😅 #solardidsystem #sszenith #ssryn </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7245416262594006318" rel="alternate"/>
+    <published>2023-06-16T22:35:43+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-06-16T14:48:36+00:00</updated>
+  <updated>2023-06-16T20:38:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7241266096756493573</id>
-    <title>Not the ending Jer expected #plants #funny #couple #busydonkey </title>
-    <updated>2023-06-05T18:10:50+00:00</updated>
-    <content>Not the ending Jer expected #plants #funny #couple #busydonkey </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7241266096756493573" rel="alternate"/>
-    <published>2023-06-05T18:10:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7241568638556228869</id>
     <title>Replying to @beeroom666 sorry pal, I tried to keep it a secret 🤷🏻 #justforlaughs </title>
@@ -91,5 +83,13 @@
     <content>Yall aint ready for this chaos. </content>
     <link href="https://tiktok.com/@thedarcymichael/video/7245295922404510981" rel="alternate"/>
     <published>2023-06-16T14:48:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7245386123449470214</id>
+    <title>He was like nah bro, not on my fyp #greenscreenvideo </title>
+    <updated>2023-06-16T20:38:40+00:00</updated>
+    <content>He was like nah bro, not on my fyp #greenscreenvideo </content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7245386123449470214" rel="alternate"/>
+    <published>2023-06-16T20:38:40+00:00</published>
   </entry>
 </feed>
