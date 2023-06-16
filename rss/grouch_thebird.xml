@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@grouch_thebird</id>
   <title>@grouch_thebird | TikTok</title>
-  <updated>2023-06-14T18:31:54+00:00</updated>
+  <updated>2023-06-16T05:28:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @grouch_thebird</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grouch_thebird/video/7241816832166939946</id>
-    <title>[no title]</title>
-    <updated>2023-06-07T05:48:22+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@grouch_thebird/video/7241816832166939946" rel="alternate"/>
-    <published>2023-06-07T05:48:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grouch_thebird/video/7241823432919469358</id>
     <title>[no title]</title>
@@ -43,14 +35,6 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@grouch_thebird/video/7242795080409730350" rel="alternate"/>
     <published>2023-06-09T21:04:09+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@grouch_thebird/video/7242798465028214058</id>
-    <title>just some anxiety</title>
-    <updated>2023-06-09T21:17:16+00:00</updated>
-    <content>just some anxiety</content>
-    <link href="https://tiktok.com/@grouch_thebird/video/7242798465028214058" rel="alternate"/>
-    <published>2023-06-09T21:17:16+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@grouch_thebird/video/7242876155542523178</id>
@@ -91,5 +75,21 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@grouch_thebird/video/7244611241371634990" rel="alternate"/>
     <published>2023-06-14T18:31:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grouch_thebird/video/7245143986262904106</id>
+    <title>[no title]</title>
+    <updated>2023-06-16T04:59:09+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@grouch_thebird/video/7245143986262904106" rel="alternate"/>
+    <published>2023-06-16T04:59:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grouch_thebird/video/7245151566225837358</id>
+    <title>not sure if hard work pays, or if get paid with working hard </title>
+    <updated>2023-06-16T05:28:30+00:00</updated>
+    <content>not sure if hard work pays, or if get paid with working hard </content>
+    <link href="https://tiktok.com/@grouch_thebird/video/7245151566225837358" rel="alternate"/>
+    <published>2023-06-16T05:28:30+00:00</published>
   </entry>
 </feed>
