@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-06-15T13:08:13+00:00</updated>
+  <updated>2023-06-16T14:48:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7240931591155895558</id>
-    <title>Look our chuck, there’s some new queens in town #travelvlog #pridemonth #pride #june #vlog #london </title>
-    <updated>2023-06-04T20:32:47+00:00</updated>
-    <content>Look our chuck, there’s some new queens in town #travelvlog #pridemonth #pride #june #vlog #london </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7240931591155895558" rel="alternate"/>
-    <published>2023-06-04T20:32:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7241266096756493573</id>
     <title>Not the ending Jer expected #plants #funny #couple #busydonkey </title>
@@ -91,5 +83,13 @@
     <content>Twas a good day #onthisday #popquiz #throwback </content>
     <link href="https://tiktok.com/@thedarcymichael/video/7244898969233526021" rel="alternate"/>
     <published>2023-06-15T13:08:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7245295922404510981</id>
+    <title>Yall aint ready for this chaos. </title>
+    <updated>2023-06-16T14:48:36+00:00</updated>
+    <content>Yall aint ready for this chaos. </content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7245295922404510981" rel="alternate"/>
+    <published>2023-06-16T14:48:36+00:00</published>
   </entry>
 </feed>
