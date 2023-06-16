@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@juliafox038711</id>
   <title>@juliafox038711 | TikTok</title>
-  <updated>2023-06-15T18:51:01+00:00</updated>
+  <updated>2023-06-16T01:33:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juliafox038711</subtitle>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7240608727005498666</id>
-    <title>toes #foryou #unshadowbanmeplstiktok </title>
-    <updated>2023-06-03T23:40:02+00:00</updated>
-    <content>toes #foryou #unshadowbanmeplstiktok </content>
-    <link href="https://tiktok.com/@juliafox038711/video/7240608727005498666" rel="alternate"/>
-    <published>2023-06-03T23:40:02+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@juliafox038711/video/7240611016562838826</id>
     <title>[no title]</title>
@@ -91,5 +83,13 @@
     <content>gingers are so pretty to me</content>
     <link href="https://tiktok.com/@juliafox038711/video/7244987258204425518" rel="alternate"/>
     <published>2023-06-15T18:51:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7245091102804462894</id>
+    <title>i got my nose pierced.. i have no idea how i feel about it</title>
+    <updated>2023-06-16T01:33:54+00:00</updated>
+    <content>i got my nose pierced.. i have no idea how i feel about it</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7245091102804462894" rel="alternate"/>
+    <published>2023-06-16T01:33:54+00:00</published>
   </entry>
 </feed>
