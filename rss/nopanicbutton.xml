@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@nopanicbutton</id>
   <title>@nopanicbutton | TikTok</title>
-  <updated>2023-06-14T20:47:23+00:00</updated>
+  <updated>2023-06-16T19:46:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @nopanicbutton</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nopanicbutton/video/7236867241399029034</id>
-    <title>Snacks make everything better. NOT a paid ad. I love this stuff! #righteousfelon @Righteous Felon #damngoodeats </title>
-    <updated>2023-05-24T21:41:05+00:00</updated>
-    <content>Snacks make everything better. NOT a paid ad. I love this stuff! #righteousfelon @Righteous Felon #damngoodeats </content>
-    <link href="https://tiktok.com/@nopanicbutton/video/7236867241399029034" rel="alternate"/>
-    <published>2023-05-24T21:41:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nopanicbutton/video/7237558947736079658</id>
     <title>Found y'all a good starter anvil for a KILLER price! #vevor #vevorcode #vevordiyproject @Vevor_US </title>
@@ -91,5 +83,13 @@
     <content>It was an angry Little Person! It was the cutest thing EVER! He got so mad when I started laughing after he stormed out of his car. He left when I said I'm going in to exchange the .45 for a .22 so he could have an open casket.</content>
     <link href="https://tiktok.com/@nopanicbutton/video/7244646182578851114" rel="alternate"/>
     <published>2023-06-14T20:47:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nopanicbutton/video/7245372604691877163</id>
+    <title>Part 2 for those who begged for it. I'm sure my life is a cosmic gag reel. </title>
+    <updated>2023-06-16T19:46:44+00:00</updated>
+    <content>Part 2 for those who begged for it. I'm sure my life is a cosmic gag reel. </content>
+    <link href="https://tiktok.com/@nopanicbutton/video/7245372604691877163" rel="alternate"/>
+    <published>2023-06-16T19:46:44+00:00</published>
   </entry>
 </feed>
