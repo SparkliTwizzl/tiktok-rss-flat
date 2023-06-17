@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@paaz_11</id>
   <title>@paaz_11 | TikTok</title>
-  <updated>2023-05-05T14:54:29+00:00</updated>
+  <updated>2023-06-17T10:08:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @paaz_11</subtitle>
-  <entry>
-    <id>https://tiktok.com/@paaz_11/video/7185614875987741957</id>
-    <title>the shirt was a joke i swear #lgbt #outfitcheck </title>
-    <updated>2023-01-06T18:55:40+00:00</updated>
-    <content>the shirt was a joke i swear #lgbt #outfitcheck </content>
-    <link href="https://tiktok.com/@paaz_11/video/7185614875987741957" rel="alternate"/>
-    <published>2023-01-06T18:55:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@paaz_11/video/7189788757015465222</id>
     <title>Anyone also at harvard this spring? Or boston in general #movingabroad  </title>
@@ -91,5 +83,13 @@
     <content>#wlw #outfitcheck </content>
     <link href="https://tiktok.com/@paaz_11/video/7229711839435787546" rel="alternate"/>
     <published>2023-05-05T14:54:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@paaz_11/video/7245594868133678362</id>
+    <title>Who’s in Wien? :) #wien #wlw #pride </title>
+    <updated>2023-06-17T10:08:46+00:00</updated>
+    <content>Who’s in Wien? :) #wien #wlw #pride </content>
+    <link href="https://tiktok.com/@paaz_11/video/7245594868133678362" rel="alternate"/>
+    <published>2023-06-17T10:08:46+00:00</published>
   </entry>
 </feed>
