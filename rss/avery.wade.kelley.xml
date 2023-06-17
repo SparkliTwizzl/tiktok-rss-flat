@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-06-16T21:26:04+00:00</updated>
+  <updated>2023-06-17T10:48:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7242729812777831726</id>
-    <title>See you there!!! #forbiddenkingdom </title>
-    <updated>2023-06-09T16:51:04+00:00</updated>
-    <content>See you there!!! #forbiddenkingdom </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7242729812777831726" rel="alternate"/>
-    <published>2023-06-09T16:51:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7243103861404372270</id>
     <title>Recouping from FK. Haha. #fyp #trans </title>
@@ -91,5 +83,13 @@
     <content>Phew. It will all be okay. We're moving to saftey like we've never known it, with beautiful people already in our path. This is another beautiful chapter waiting to start, and I'm ready for it. #fyp #trans @Tattoujee @LeviRouxx </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7245398284775279915" rel="alternate"/>
     <published>2023-06-16T21:26:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7245604881703111979</id>
+    <title>Back to making TikToks before work because I get there way too early because 💫Anxiety💫 #fyp #trans </title>
+    <updated>2023-06-17T10:48:09+00:00</updated>
+    <content>Back to making TikToks before work because I get there way too early because 💫Anxiety💫 #fyp #trans </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7245604881703111979" rel="alternate"/>
+    <published>2023-06-17T10:48:09+00:00</published>
   </entry>
 </feed>
