@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@mikaelaistired</id>
   <title>@mikaelaistired | TikTok</title>
-  <updated>2023-06-17T13:39:07+00:00</updated>
+  <updated>2023-06-17T20:03:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @mikaelaistired</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mikaelaistired/video/7244161610397371694</id>
-    <title>Egg-like behavior </title>
-    <updated>2023-06-13T13:27:03+00:00</updated>
-    <content>Egg-like behavior </content>
-    <link href="https://tiktok.com/@mikaelaistired/video/7244161610397371694" rel="alternate"/>
-    <published>2023-06-13T13:27:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mikaelaistired/video/7244274683523239211</id>
     <title>[no title]</title>
@@ -85,11 +77,19 @@
     <published>2023-06-16T21:51:16+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@mikaelaistired/video/7245649026526219562</id>
-    <title>How about no </title>
-    <updated>2023-06-17T13:39:07+00:00</updated>
-    <content>How about no </content>
-    <link href="https://tiktok.com/@mikaelaistired/video/7245649026526219562" rel="alternate"/>
-    <published>2023-06-17T13:39:07+00:00</published>
+    <id>https://tiktok.com/@mikaelaistired/video/7245731837727739178</id>
+    <title>Ummm</title>
+    <updated>2023-06-17T19:00:21+00:00</updated>
+    <content>Ummm</content>
+    <link href="https://tiktok.com/@mikaelaistired/video/7245731837727739178" rel="alternate"/>
+    <published>2023-06-17T19:00:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mikaelaistired/video/7245748178140613931</id>
+    <title>As soon as possible </title>
+    <updated>2023-06-17T20:03:46+00:00</updated>
+    <content>As soon as possible </content>
+    <link href="https://tiktok.com/@mikaelaistired/video/7245748178140613931" rel="alternate"/>
+    <published>2023-06-17T20:03:46+00:00</published>
   </entry>
 </feed>
