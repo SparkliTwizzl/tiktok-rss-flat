@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jacobtheseahorse</id>
   <title>@jacobtheseahorse | TikTok</title>
-  <updated>2023-06-13T16:48:06+00:00</updated>
+  <updated>2023-06-17T14:19:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jacobtheseahorse</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7236027075994438938</id>
-    <title>Replying to @user9152714924757 it would be unfair to all the women who don't experience pregnancy as a feminine experience to claim that is *has* to be that or you're doing it wrong. that kind of thinking harms more women than it does trans people. (and i</title>
-    <updated>2023-05-22T15:21:03+00:00</updated>
-    <content>Replying to @user9152714924757 it would be unfair to all the women who don't experience pregnancy as a feminine experience to claim that is *has* to be that or you're doing it wrong. that kind of thinking harms more women than it does trans people. (and it's not a surprise that the far right that push these anti-trans agendas are also anti-women and anti-choice) #trans #pregnancy #feminine #masculine #gender #ally #queer #autonomy #mybodymychoice </content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7236027075994438938" rel="alternate"/>
-    <published>2023-05-22T15:21:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jacobtheseahorse/video/7239288115121229083</id>
     <title>Replying to @sarasaur89 you're right I guess? but probably not in the way you think you are. #trans #autonomy #freedom #choice #gender #joy #lgbt #pride </title>
@@ -91,5 +83,13 @@
     <content>if you are against trans people then you're doing the work of the far right for them. they want us divided because we're stronger together. #trans #feminism #abortion #prochoice #healthcare #rights </content>
     <link href="https://tiktok.com/@jacobtheseahorse/video/7244213448836451610" rel="alternate"/>
     <published>2023-06-13T16:48:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7245659588803054875</id>
+    <title>you deserve friends who are thankful that you look after yourself  🥄🥄🥄 my name is funky at the moment as I'm trying to set up my shop. I'll be back to being Papa Seahorse soon! #disabled #invisibleillness #adhd #audhd #actuallyautistic #greenflag #queerto</title>
+    <updated>2023-06-17T14:19:53+00:00</updated>
+    <content>you deserve friends who are thankful that you look after yourself  🥄🥄🥄 my name is funky at the moment as I'm trying to set up my shop. I'll be back to being Papa Seahorse soon! #disabled #invisibleillness #adhd #audhd #actuallyautistic #greenflag #queertok </content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7245659588803054875" rel="alternate"/>
+    <published>2023-06-17T14:19:53+00:00</published>
   </entry>
 </feed>
