@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maruzee_dragon</id>
   <title>@maruzee_dragon | TikTok</title>
-  <updated>2023-06-16T02:23:45+00:00</updated>
+  <updated>2023-06-17T02:22:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maruzee_dragon</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maruzee_dragon/video/7238987387861290245</id>
-    <title>Guess who's prowling into Genshin Impact? Catch a glimpse of this mysterious feline's playful antics #GenshinImpact37 #GenshinImpact @GenshinImpact_En </title>
-    <updated>2023-05-30T19:31:41+00:00</updated>
-    <content>Guess who's prowling into Genshin Impact? Catch a glimpse of this mysterious feline's playful antics #GenshinImpact37 #GenshinImpact @GenshinImpact_En </content>
-    <link href="https://tiktok.com/@maruzee_dragon/video/7238987387861290245" rel="alternate"/>
-    <published>2023-05-30T19:31:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maruzee_dragon/video/7239905066688236805</id>
     <title>New Mortal Kombat Intro? #trainedprofessional #martialarts #cosplay #videogames </title>
@@ -91,5 +83,13 @@
     <content>Réponse à @nutegunrayisaslay  Area Codes x Pony with lightsabers 🙃👍 #transition #martialarts #tricks</content>
     <link href="https://tiktok.com/@maruzee_dragon/video/7245103974565596421" rel="alternate"/>
     <published>2023-06-16T02:23:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maruzee_dragon/video/7245474765316640006</id>
+    <title>Réponse à @marcorsini_02  This is the very last one, I promise!😂 #transition #trending #lightsaber </title>
+    <updated>2023-06-17T02:22:38+00:00</updated>
+    <content>Réponse à @marcorsini_02  This is the very last one, I promise!😂 #transition #trending #lightsaber </content>
+    <link href="https://tiktok.com/@maruzee_dragon/video/7245474765316640006" rel="alternate"/>
+    <published>2023-06-17T02:22:38+00:00</published>
   </entry>
 </feed>
