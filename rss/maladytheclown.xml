@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maladytheclown</id>
   <title>@maladytheclown | TikTok</title>
-  <updated>2023-06-17T15:30:52+00:00</updated>
+  <updated>2023-06-18T15:05:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maladytheclown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maladytheclown/video/7235421885587098885</id>
-    <title>he hasnt changed much... #onthisday #mischiefthedemon #drag #dragking #likeme</title>
-    <updated>2023-05-21T00:12:19+00:00</updated>
-    <content>he hasnt changed much... #onthisday #mischiefthedemon #drag #dragking #likeme</content>
-    <link href="https://tiktok.com/@maladytheclown/video/7235421885587098885" rel="alternate"/>
-    <published>2023-05-21T00:12:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maladytheclown/video/7236045022905355526</id>
     <title>#onthisday </title>
@@ -91,5 +83,13 @@
     <content>🩵🩵🩵 #maladytheclown #clown #makeupartist </content>
     <link href="https://tiktok.com/@maladytheclown/video/7245677898005286150" rel="alternate"/>
     <published>2023-06-17T15:30:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maladytheclown/video/7246042373648616710</id>
+    <title>#maladytheclown #clown #comedy </title>
+    <updated>2023-06-18T15:05:12+00:00</updated>
+    <content>#maladytheclown #clown #comedy </content>
+    <link href="https://tiktok.com/@maladytheclown/video/7246042373648616710" rel="alternate"/>
+    <published>2023-06-18T15:05:12+00:00</published>
   </entry>
 </feed>
