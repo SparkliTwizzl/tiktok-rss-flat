@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-06-17T15:37:20+00:00</updated>
+  <updated>2023-06-18T14:56:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7240253974874475782</id>
-    <title>nope, not a boy...😆  #captainhook #captainhookcosplay #onceuponatime #dragking </title>
-    <updated>2023-06-03T00:43:23+00:00</updated>
-    <content>nope, not a boy...😆  #captainhook #captainhookcosplay #onceuponatime #dragking </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7240253974874475782" rel="alternate"/>
-    <published>2023-06-03T00:43:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7240834035256216837</id>
     <title>#duet with @Haleylouiser its OK, you can have mine. 😅😘 #maladytheclown #comedy #clown #trauma</title>
@@ -91,5 +83,13 @@
     <content>last weekend we went on a trip to Niagara for the con. I've been dealing with mast cell flare-ups ever since. 😫  song by @CeCe #maladytheclown #blackandwhite </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7245679566679756038" rel="alternate"/>
     <published>2023-06-17T15:37:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7246040128420842758</id>
+    <title>wiggle wiggle wiggle 😅😆 song by the talented @PEGGY  #maladytheclown #ifiwereaworm #feelgood #positivevibes #weekendvibes </title>
+    <updated>2023-06-18T14:56:30+00:00</updated>
+    <content>wiggle wiggle wiggle 😅😆 song by the talented @PEGGY  #maladytheclown #ifiwereaworm #feelgood #positivevibes #weekendvibes </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7246040128420842758" rel="alternate"/>
+    <published>2023-06-18T14:56:30+00:00</published>
   </entry>
 </feed>
