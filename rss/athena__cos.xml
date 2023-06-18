@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-06-17T21:02:53+00:00</updated>
+  <updated>2023-06-18T20:55:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7237226134746959150</id>
-    <title>I heard someone describe this trend as “dress for the job you want” #kassandracosplay #assassinscreedcosplay #assassinscreedodysey </title>
-    <updated>2023-05-25T20:53:46+00:00</updated>
-    <content>I heard someone describe this trend as “dress for the job you want” #kassandracosplay #assassinscreedcosplay #assassinscreedodysey </content>
-    <link href="https://tiktok.com/@athena__cos/video/7237226134746959150" rel="alternate"/>
-    <published>2023-05-25T20:53:46+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7237584087127510318</id>
     <title>Honorable mention, is somehow teleporting to her spear when she throws it #assassinscreedcosplay #assassinscreedodyyssey #kassandracosplay #womenwithswords #gamer </title>
@@ -91,5 +83,13 @@
     <content>Pov: Yang taking Ruby home after a mission ❤️💛 #rwbycosplay #rwby #sisters #yangcosplay #rubyrose #sistercosplay </content>
     <link href="https://tiktok.com/@athena__cos/video/7245763391963548974" rel="alternate"/>
     <published>2023-06-17T21:02:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7246132588463803694</id>
+    <title>RWBY group hug  Inspo from the super cool @Lui !! #rwbycosplay #rwby #yangcosplay #rubyrose #blakecosplay #bumbleby #rubycosplay </title>
+    <updated>2023-06-18T20:55:29+00:00</updated>
+    <content>RWBY group hug  Inspo from the super cool @Lui !! #rwbycosplay #rwby #yangcosplay #rubyrose #blakecosplay #bumbleby #rubycosplay </content>
+    <link href="https://tiktok.com/@athena__cos/video/7246132588463803694" rel="alternate"/>
+    <published>2023-06-18T20:55:29+00:00</published>
   </entry>
 </feed>
