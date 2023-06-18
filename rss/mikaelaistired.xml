@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@mikaelaistired</id>
   <title>@mikaelaistired | TikTok</title>
-  <updated>2023-06-18T14:48:14+00:00</updated>
+  <updated>2023-06-18T22:05:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @mikaelaistired</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mikaelaistired/video/7244510198117961006</id>
-    <title>Therapist friend</title>
-    <updated>2023-06-14T12:00:15+00:00</updated>
-    <content>Therapist friend</content>
-    <link href="https://tiktok.com/@mikaelaistired/video/7244510198117961006" rel="alternate"/>
-    <published>2023-06-14T12:00:15+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mikaelaistired/video/7244631792714599726</id>
-    <title>Oop</title>
-    <updated>2023-06-14T19:51:37+00:00</updated>
-    <content>Oop</content>
-    <link href="https://tiktok.com/@mikaelaistired/video/7244631792714599726" rel="alternate"/>
-    <published>2023-06-14T19:51:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mikaelaistired/video/7244880334477708587</id>
     <title>Its never ending </title>
@@ -91,5 +75,21 @@
     <content>Replying to @Trans.Queen.Ellie  yes</content>
     <link href="https://tiktok.com/@mikaelaistired/video/7246037947730906414" rel="alternate"/>
     <published>2023-06-18T14:48:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mikaelaistired/video/7246102580655377707</id>
+    <title>But yeah i do</title>
+    <updated>2023-06-18T18:59:00+00:00</updated>
+    <content>But yeah i do</content>
+    <link href="https://tiktok.com/@mikaelaistired/video/7246102580655377707" rel="alternate"/>
+    <published>2023-06-18T18:59:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mikaelaistired/video/7246150647819636014</id>
+    <title>#greenscreen the remix of me is better </title>
+    <updated>2023-06-18T22:05:36+00:00</updated>
+    <content>#greenscreen the remix of me is better </content>
+    <link href="https://tiktok.com/@mikaelaistired/video/7246150647819636014" rel="alternate"/>
+    <published>2023-06-18T22:05:36+00:00</published>
   </entry>
 </feed>
