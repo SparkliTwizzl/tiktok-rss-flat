@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@tracksuitsandredwine_</id>
   <title>@tracksuitsandredwine_ | TikTok</title>
-  <updated>2023-06-16T15:05:10+00:00</updated>
+  <updated>2023-06-18T09:44:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @tracksuitsandredwine_</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tracksuitsandredwine_/video/7241168124337229058</id>
-    <title>pity</title>
-    <updated>2023-06-05T11:50:40+00:00</updated>
-    <content>pity</content>
-    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7241168124337229058" rel="alternate"/>
-    <published>2023-06-05T11:50:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tracksuitsandredwine_/video/7242060464006401282</id>
     <title>morning!!</title>
@@ -91,5 +83,13 @@
     <content>okay gn ily xx</content>
     <link href="https://tiktok.com/@tracksuitsandredwine_/video/7245300179170053378" rel="alternate"/>
     <published>2023-06-16T15:05:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tracksuitsandredwine_/video/7245959738020678913</id>
+    <title>🤘</title>
+    <updated>2023-06-18T09:44:34+00:00</updated>
+    <content>🤘</content>
+    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7245959738020678913" rel="alternate"/>
+    <published>2023-06-18T09:44:34+00:00</published>
   </entry>
 </feed>
