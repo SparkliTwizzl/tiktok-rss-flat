@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dannyphantom.exe</id>
   <title>@dannyphantom.exe | TikTok</title>
-  <updated>2023-06-17T03:01:08+00:00</updated>
+  <updated>2023-06-18T02:16:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dannyphantom.exe</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7242876595025743147</id>
-    <title>i swing multiple ways (this is a threat)</title>
-    <updated>2023-06-10T02:20:27+00:00</updated>
-    <content>i swing multiple ways (this is a threat)</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7242876595025743147" rel="alternate"/>
-    <published>2023-06-10T02:20:27+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7243617485289737514</id>
-    <title>[no title]</title>
-    <updated>2023-06-12T02:15:34+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7243617485289737514" rel="alternate"/>
-    <published>2023-06-12T02:15:34+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dannyphantom.exe/video/7243617552474082602</id>
     <title>tag ur gf/bf/partner</title>
@@ -91,5 +75,21 @@
     <content>THERES A REASON H NEVER MET THE VILLIANS PARENTS HERO!!!</content>
     <link href="https://tiktok.com/@dannyphantom.exe/video/7245484638016228650" rel="alternate"/>
     <published>2023-06-17T03:01:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7245844109099945259</id>
+    <title>ASHELY IM COMING TO SAVE U</title>
+    <updated>2023-06-18T02:16:02+00:00</updated>
+    <content>ASHELY IM COMING TO SAVE U</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7245844109099945259" rel="alternate"/>
+    <published>2023-06-18T02:16:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7245844265132346670</id>
+    <title>tag someone tasty</title>
+    <updated>2023-06-18T02:16:37+00:00</updated>
+    <content>tag someone tasty</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7245844265132346670" rel="alternate"/>
+    <published>2023-06-18T02:16:37+00:00</published>
   </entry>
 </feed>
