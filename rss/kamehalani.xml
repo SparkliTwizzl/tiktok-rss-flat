@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kamehalani</id>
   <title>@kamehalani | TikTok</title>
-  <updated>2023-06-17T16:03:51+00:00</updated>
+  <updated>2023-06-19T15:22:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kamehalani</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kamehalani/video/7239512461169397038</id>
-    <title>If you told me this then id laugh… it does get better  </title>
-    <updated>2023-06-01T00:45:59+00:00</updated>
-    <content>If you told me this then id laugh… it does get better  </content>
-    <link href="https://tiktok.com/@kamehalani/video/7239512461169397038" rel="alternate"/>
-    <published>2023-06-01T00:45:59+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kamehalani/video/7239746193289694510</id>
     <title>#stitch with @Kelly Cadigan we cannot erase what you participated in #pride #lgbt </title>
@@ -91,5 +83,13 @@
     <content>#onthisday awwww baby me </content>
     <link href="https://tiktok.com/@kamehalani/video/7245686331823754538" rel="alternate"/>
     <published>2023-06-17T16:03:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kamehalani/video/7246417859574828331</id>
+    <title>Yup #wlw #lgbt </title>
+    <updated>2023-06-19T15:22:29+00:00</updated>
+    <content>Yup #wlw #lgbt </content>
+    <link href="https://tiktok.com/@kamehalani/video/7246417859574828331" rel="alternate"/>
+    <published>2023-06-19T15:22:29+00:00</published>
   </entry>
 </feed>
