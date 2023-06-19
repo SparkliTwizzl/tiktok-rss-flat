@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@nopanicbutton</id>
   <title>@nopanicbutton | TikTok</title>
-  <updated>2023-06-16T19:46:44+00:00</updated>
+  <updated>2023-06-19T21:13:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @nopanicbutton</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nopanicbutton/video/7237558947736079658</id>
-    <title>Found y'all a good starter anvil for a KILLER price! #vevor #vevorcode #vevordiyproject @Vevor_US </title>
-    <updated>2023-05-26T18:25:19+00:00</updated>
-    <content>Found y'all a good starter anvil for a KILLER price! #vevor #vevorcode #vevordiyproject @Vevor_US </content>
-    <link href="https://tiktok.com/@nopanicbutton/video/7237558947736079658" rel="alternate"/>
-    <published>2023-05-26T18:25:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nopanicbutton/video/7238776427221388586</id>
     <title>Happy Memorial Day! #servicedog #heimdall #dontbeanass </title>
@@ -91,5 +83,13 @@
     <content>Part 2 for those who begged for it. I'm sure my life is a cosmic gag reel. </content>
     <link href="https://tiktok.com/@nopanicbutton/video/7245372604691877163" rel="alternate"/>
     <published>2023-06-16T19:46:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nopanicbutton/video/7246508434311433515</id>
+    <title>You guys are AWESOME! #youtube </title>
+    <updated>2023-06-19T21:13:57+00:00</updated>
+    <content>You guys are AWESOME! #youtube </content>
+    <link href="https://tiktok.com/@nopanicbutton/video/7246508434311433515" rel="alternate"/>
+    <published>2023-06-19T21:13:57+00:00</published>
   </entry>
 </feed>
