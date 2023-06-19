@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-06-18T14:56:30+00:00</updated>
+  <updated>2023-06-19T11:36:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7240834035256216837</id>
-    <title>#duet with @Haleylouiser its OK, you can have mine. 😅😘 #maladytheclown #comedy #clown #trauma</title>
-    <updated>2023-06-04T14:14:11+00:00</updated>
-    <content>#duet with @Haleylouiser its OK, you can have mine. 😅😘 #maladytheclown #comedy #clown #trauma</content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7240834035256216837" rel="alternate"/>
-    <published>2023-06-04T14:14:11+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7243430292139134214</id>
     <title>Exactly how I felt at the comiccon yesterday. There is a lot of petty drama in the community. I am just a joke to them because I haven't been around as long. It brought me right back to high-school. #thejoker #cosplay #creep </title>
@@ -91,5 +83,13 @@
     <content>wiggle wiggle wiggle 😅😆 song by the talented @PEGGY  #maladytheclown #ifiwereaworm #feelgood #positivevibes #weekendvibes </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7246040128420842758" rel="alternate"/>
     <published>2023-06-18T14:56:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7246359586460978437</id>
+    <title>#clown #maladytheclown #swing </title>
+    <updated>2023-06-19T11:36:09+00:00</updated>
+    <content>#clown #maladytheclown #swing </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7246359586460978437" rel="alternate"/>
+    <published>2023-06-19T11:36:09+00:00</published>
   </entry>
 </feed>
