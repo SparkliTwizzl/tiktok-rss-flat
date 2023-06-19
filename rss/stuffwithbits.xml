@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-06-18T20:44:51+00:00</updated>
+  <updated>2023-06-19T00:20:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7243937337804148010</id>
-    <title>I love glitz and glam or baggy sweatpants. No in between. #solardidsystem #ssvegas #alterintro </title>
-    <updated>2023-06-12T22:56:43+00:00</updated>
-    <content>I love glitz and glam or baggy sweatpants. No in between. #solardidsystem #ssvegas #alterintro </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7243937337804148010" rel="alternate"/>
-    <published>2023-06-12T22:56:43+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7244267657833286958</id>
     <title>We don't hate our glasses they're just too big #solardidsystem #ssvegas </title>
@@ -91,5 +83,13 @@
     <content>Replying to @mikarose1995 #reply #solardidsystem #ssastra </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7246129853559344426" rel="alternate"/>
     <published>2023-06-18T20:44:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7246185402053217579</id>
+    <title>[no title]</title>
+    <updated>2023-06-19T00:20:25+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7246185402053217579" rel="alternate"/>
+    <published>2023-06-19T00:20:25+00:00</published>
   </entry>
 </feed>
