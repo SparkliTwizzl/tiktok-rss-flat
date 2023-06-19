@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-06-18T00:13:15+00:00</updated>
+  <updated>2023-06-19T19:26:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7243144655674559786</id>
-    <title>This is fucking disgusting. #fyp @TizzyEnt @Rosie ODonnell @Kyle🖕 </title>
-    <updated>2023-06-10T19:40:47+00:00</updated>
-    <content>This is fucking disgusting. #fyp @TizzyEnt @Rosie ODonnell @Kyle🖕 </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7243144655674559786" rel="alternate"/>
-    <published>2023-06-10T19:40:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7243482129735290158</id>
     <title>Lol. #fyp </title>
@@ -91,5 +83,13 @@
     <content>I knew I was a boy when I was 3. Society and family shoved it down my throat that I wasn't, and I could never figure out why I wasn't comfortable in my female body, why identifying as a lesion didn't ever feel right, why I drank and hid and lied all throughout my adolescents and early adulthood. I didn't come out until my late 20's, and I wish I had done it sooner. Protect them so they don't go through the same pain. Protect them so they can be themselves from the start without having to fight for their right to exist, while fighting the thoughts in their head that are telling them the same hurtful things the world says, only tenfold.  I see you. I hear you. There's nothing wrong with you. I promise.  #fyp #trans </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7245812454133992747" rel="alternate"/>
     <published>2023-06-18T00:13:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7246480816036007214</id>
+    <title>Ain't nobody got time for that. #fyp #trans </title>
+    <updated>2023-06-19T19:26:45+00:00</updated>
+    <content>Ain't nobody got time for that. #fyp #trans </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7246480816036007214" rel="alternate"/>
+    <published>2023-06-19T19:26:45+00:00</published>
   </entry>
 </feed>
