@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kit_the_beefcake</id>
   <title>@kit_the_beefcake | TikTok</title>
-  <updated>2023-06-20T00:53:20+00:00</updated>
+  <updated>2023-06-20T14:20:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kit_the_beefcake</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7242984395886300459</id>
-    <title>#kitthebeefcake </title>
-    <updated>2023-06-10T09:18:51+00:00</updated>
-    <content>#kitthebeefcake </content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7242984395886300459" rel="alternate"/>
-    <published>2023-06-10T09:18:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7243257865085996330</id>
     <title>#kitthebeefcake </title>
@@ -91,5 +83,13 @@
     <content>I've always been prone to a lil tummy but she's so cute 💜 #kitthebeefcake </content>
     <link href="https://tiktok.com/@kit_the_beefcake/video/7246564973789400363" rel="alternate"/>
     <published>2023-06-20T00:53:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7246773025155304750</id>
+    <title>thank you 💜</title>
+    <updated>2023-06-20T14:20:57+00:00</updated>
+    <content>thank you 💜</content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7246773025155304750" rel="alternate"/>
+    <published>2023-06-20T14:20:57+00:00</published>
   </entry>
 </feed>
