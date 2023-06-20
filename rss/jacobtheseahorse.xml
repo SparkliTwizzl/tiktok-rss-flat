@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jacobtheseahorse</id>
   <title>@jacobtheseahorse | TikTok</title>
-  <updated>2023-06-18T06:25:51+00:00</updated>
+  <updated>2023-06-20T14:11:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jacobtheseahorse</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7239295404192451866</id>
-    <title>my next hyperfocus was designing t-shirts so expect to hear about that soon 👀 but seriously... how do I get this focus back to make a  flower picture for my MIL?! ahhhh! #adhd #audhd #actuallyautistic #hyperfocus #timeblindness </title>
-    <updated>2023-05-31T10:43:38+00:00</updated>
-    <content>my next hyperfocus was designing t-shirts so expect to hear about that soon 👀 but seriously... how do I get this focus back to make a  flower picture for my MIL?! ahhhh! #adhd #audhd #actuallyautistic #hyperfocus #timeblindness </content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7239295404192451866" rel="alternate"/>
-    <published>2023-05-31T10:43:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jacobtheseahorse/video/7240055868107017498</id>
     <title>ok so I'm rambling but I'm very excited! #trans #nonbinary #queer #lgbt #shop #business #tshirts #ally #merch #pridemerch #pride </title>
@@ -91,5 +83,13 @@
     <content>my goodness this gave my brain a deep itch that I didn't know I needed. treasure hunting makes endorphins go brrrr besties please stay safe! other important things to bring: suncream towel water snacks you know your own sensory needs to make sure you look after yourself. #sensoryprocessing #adhd #audhd #autism #actuallyautistic #beach #summer #beachcombing #treasurehunting #seaglass #seaglasstiktok </content>
     <link href="https://tiktok.com/@jacobtheseahorse/video/7245908397411880219" rel="alternate"/>
     <published>2023-06-18T06:25:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7246770565841685787</id>
+    <title>we celebrate father's Day (and mother's day and all the special days) as family day and this pretty much sums up why #dad #fathersday #fatherhood #happyfathersday #trans #lgbt #queerdad</title>
+    <updated>2023-06-20T14:11:05+00:00</updated>
+    <content>we celebrate father's Day (and mother's day and all the special days) as family day and this pretty much sums up why #dad #fathersday #fatherhood #happyfathersday #trans #lgbt #queerdad</content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7246770565841685787" rel="alternate"/>
+    <published>2023-06-20T14:11:05+00:00</published>
   </entry>
 </feed>
