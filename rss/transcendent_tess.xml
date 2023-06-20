@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@transcendent_tess</id>
   <title>@transcendent_tess | TikTok</title>
-  <updated>2023-06-11T21:58:52+00:00</updated>
+  <updated>2023-06-20T14:06:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @transcendent_tess</subtitle>
-  <entry>
-    <id>https://tiktok.com/@transcendent_tess/video/7218605129648344363</id>
-    <title>#duet with @Mikaela ✨ I love and hate how you always seem to hit my psyche on the head with point blanc accuracy. #lgbt🌈 </title>
-    <updated>2023-04-05T16:34:56+00:00</updated>
-    <content>#duet with @Mikaela ✨ I love and hate how you always seem to hit my psyche on the head with point blanc accuracy. #lgbt🌈 </content>
-    <link href="https://tiktok.com/@transcendent_tess/video/7218605129648344363" rel="alternate"/>
-    <published>2023-04-05T16:34:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@transcendent_tess/video/7220086725887036718</id>
     <title>I'm not dead, just got sad from doom scrolling. </title>
@@ -91,5 +83,13 @@
     <content>I don't care if you're depressed, you're gonna feel so much better after! </content>
     <link href="https://tiktok.com/@transcendent_tess/video/7243551333180099886" rel="alternate"/>
     <published>2023-06-11T21:58:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@transcendent_tess/video/7246769234263444778</id>
+    <title>this is my home, what do you think? 😏 #disclaimer #thisisajoke #trucker #truckerlife #trucktok #fyp #funny #lgbt🏳️‍🌈 #alphabetmafia🌈 #trans #transtrucker #mtf #hometour #homerenovation #cribs #parody #adhd #adhdtiktok </title>
+    <updated>2023-06-20T14:06:14+00:00</updated>
+    <content>this is my home, what do you think? 😏 #disclaimer #thisisajoke #trucker #truckerlife #trucktok #fyp #funny #lgbt🏳️‍🌈 #alphabetmafia🌈 #trans #transtrucker #mtf #hometour #homerenovation #cribs #parody #adhd #adhdtiktok </content>
+    <link href="https://tiktok.com/@transcendent_tess/video/7246769234263444778" rel="alternate"/>
+    <published>2023-06-20T14:06:14+00:00</published>
   </entry>
 </feed>
