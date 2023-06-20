@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kamehalani</id>
   <title>@kamehalani | TikTok</title>
-  <updated>2023-06-19T15:22:29+00:00</updated>
+  <updated>2023-06-20T02:54:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kamehalani</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kamehalani/video/7239746193289694510</id>
-    <title>#stitch with @Kelly Cadigan we cannot erase what you participated in #pride #lgbt </title>
-    <updated>2023-06-01T15:52:55+00:00</updated>
-    <content>#stitch with @Kelly Cadigan we cannot erase what you participated in #pride #lgbt </content>
-    <link href="https://tiktok.com/@kamehalani/video/7239746193289694510" rel="alternate"/>
-    <published>2023-06-01T15:52:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kamehalani/video/7240269858133396778</id>
-    <title>Sorry bout it</title>
-    <updated>2023-06-03T01:45:05+00:00</updated>
-    <content>Sorry bout it</content>
-    <link href="https://tiktok.com/@kamehalani/video/7240269858133396778" rel="alternate"/>
-    <published>2023-06-03T01:45:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kamehalani/video/7241992933959060782</id>
     <title>Im tired that we have to continue to fight and fight just for us to be tossed aside or h-rmed. These issues have gotten unmanageable. This is concerted #lgbt #pridemonth </title>
@@ -91,5 +75,21 @@
     <content>Yup #wlw #lgbt </content>
     <link href="https://tiktok.com/@kamehalani/video/7246417859574828331" rel="alternate"/>
     <published>2023-06-19T15:22:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kamehalani/video/7246559893459750190</id>
+    <title>Yall tell me what it is. Do you know or are you just saying it because its catchy? </title>
+    <updated>2023-06-20T00:33:40+00:00</updated>
+    <content>Yall tell me what it is. Do you know or are you just saying it because its catchy? </content>
+    <link href="https://tiktok.com/@kamehalani/video/7246559893459750190" rel="alternate"/>
+    <published>2023-06-20T00:33:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kamehalani/video/7246596271396392238</id>
+    <title>Please check out Qori’s new LP “Peach baby” on all platforms! You will love it if you loved Stuck #lgbt #wlw #lesbian #pridemonth #pride </title>
+    <updated>2023-06-20T02:54:47+00:00</updated>
+    <content>Please check out Qori’s new LP “Peach baby” on all platforms! You will love it if you loved Stuck #lgbt #wlw #lesbian #pridemonth #pride </content>
+    <link href="https://tiktok.com/@kamehalani/video/7246596271396392238" rel="alternate"/>
+    <published>2023-06-20T02:54:47+00:00</published>
   </entry>
 </feed>
