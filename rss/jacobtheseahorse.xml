@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jacobtheseahorse</id>
   <title>@jacobtheseahorse | TikTok</title>
-  <updated>2023-06-20T14:11:05+00:00</updated>
+  <updated>2023-06-20T21:23:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jacobtheseahorse</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7240055868107017498</id>
-    <title>ok so I'm rambling but I'm very excited! #trans #nonbinary #queer #lgbt #shop #business #tshirts #ally #merch #pridemerch #pride </title>
-    <updated>2023-06-02T11:54:34+00:00</updated>
-    <content>ok so I'm rambling but I'm very excited! #trans #nonbinary #queer #lgbt #shop #business #tshirts #ally #merch #pridemerch #pride </content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7240055868107017498" rel="alternate"/>
-    <published>2023-06-02T11:54:34+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jacobtheseahorse/video/7240089589178715419</id>
     <title>everything I sell goes towards the work I do at Transparent Change - the non profit I run that provides training about trans inclusion. bit dot ly slash seahorseshop or check my link in b¡o.  #trans #nonbinary #nonprofit #cic #inclusion #ally #pride #merc</title>
@@ -91,5 +83,13 @@
     <content>we celebrate father's Day (and mother's day and all the special days) as family day and this pretty much sums up why #dad #fathersday #fatherhood #happyfathersday #trans #lgbt #queerdad</content>
     <link href="https://tiktok.com/@jacobtheseahorse/video/7246770565841685787" rel="alternate"/>
     <published>2023-06-20T14:11:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7246881886541204763</id>
+    <title>Replying to @trooniacs the hate for the word "cis" has been manufactured by people who want us in-fighting instead of working together.  it's a really harmless word that just describes a subset of people #cis #trans #gender #lgbt #transrights #people #que</title>
+    <updated>2023-06-20T21:23:06+00:00</updated>
+    <content>Replying to @trooniacs the hate for the word "cis" has been manufactured by people who want us in-fighting instead of working together.  it's a really harmless word that just describes a subset of people #cis #trans #gender #lgbt #transrights #people #question </content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7246881886541204763" rel="alternate"/>
+    <published>2023-06-20T21:23:06+00:00</published>
   </entry>
 </feed>
