@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-06-19T19:26:45+00:00</updated>
+  <updated>2023-06-21T11:52:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7243482129735290158</id>
-    <title>Lol. #fyp </title>
-    <updated>2023-06-11T17:30:18+00:00</updated>
-    <content>Lol. #fyp </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7243482129735290158" rel="alternate"/>
-    <published>2023-06-11T17:30:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7243860066347076907</id>
     <title>We Remember. #fyp </title>
@@ -91,5 +83,13 @@
     <content>Ain't nobody got time for that. #fyp #trans </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7246480816036007214" rel="alternate"/>
     <published>2023-06-19T19:26:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7247105876719619374</id>
+    <title>I haven't shared with you our backyard buddies. A mother raccoon and her 6 babies have found a home in our swampy backyard. They're so cute. We try not to mess up their ecosystem as much as possible, but sometimes you gotta reach out and let a raccoon sni</title>
+    <updated>2023-06-21T11:52:21+00:00</updated>
+    <content>I haven't shared with you our backyard buddies. A mother raccoon and her 6 babies have found a home in our swampy backyard. They're so cute. We try not to mess up their ecosystem as much as possible, but sometimes you gotta reach out and let a raccoon sniff you. I'm gonna miss these little ones. #fyp </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7247105876719619374" rel="alternate"/>
+    <published>2023-06-21T11:52:21+00:00</published>
   </entry>
 </feed>
