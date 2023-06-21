@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@nopanicbutton</id>
   <title>@nopanicbutton | TikTok</title>
-  <updated>2023-06-19T21:13:57+00:00</updated>
+  <updated>2023-06-21T22:22:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @nopanicbutton</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nopanicbutton/video/7238776427221388586</id>
-    <title>Happy Memorial Day! #servicedog #heimdall #dontbeanass </title>
-    <updated>2023-05-30T01:09:45+00:00</updated>
-    <content>Happy Memorial Day! #servicedog #heimdall #dontbeanass </content>
-    <link href="https://tiktok.com/@nopanicbutton/video/7238776427221388586" rel="alternate"/>
-    <published>2023-05-30T01:09:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nopanicbutton/video/7239456087160786219</id>
     <title>No measure is too extreme for killing skeeters! #bugzapper #skeeter #mosquito #deathtoskeeters </title>
@@ -91,5 +83,13 @@
     <content>You guys are AWESOME! #youtube </content>
     <link href="https://tiktok.com/@nopanicbutton/video/7246508434311433515" rel="alternate"/>
     <published>2023-06-19T21:13:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nopanicbutton/video/7247268241037561134</id>
+    <title>This apprentice is getting expensive. At 19 you should have a bit more sense. #commonsense #why #whatswrongwithyou? </title>
+    <updated>2023-06-21T22:22:25+00:00</updated>
+    <content>This apprentice is getting expensive. At 19 you should have a bit more sense. #commonsense #why #whatswrongwithyou? </content>
+    <link href="https://tiktok.com/@nopanicbutton/video/7247268241037561134" rel="alternate"/>
+    <published>2023-06-21T22:22:25+00:00</published>
   </entry>
 </feed>
