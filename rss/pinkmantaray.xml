@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pinkmantaray</id>
   <title>@pinkmantaray | TikTok</title>
-  <updated>2023-06-17T18:11:29+00:00</updated>
+  <updated>2023-06-20T17:53:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @pinkmantaray</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pinkmantaray/video/7236557045514702122</id>
-    <title>A really special experience and honor to give the keynote addresss today at Harvard's 3rd Lavender Graduation. Congratulations class of 2023 🙏🏼🏳️‍⚧️💕🏳️‍🌈 #lavendergraduation #queer #trans #graduation #transgenderspeaker #harvardgraduation #pride #harvard </title>
-    <updated>2023-05-24T01:37:27+00:00</updated>
-    <content>A really special experience and honor to give the keynote addresss today at Harvard's 3rd Lavender Graduation. Congratulations class of 2023 🙏🏼🏳️‍⚧️💕🏳️‍🌈 #lavendergraduation #queer #trans #graduation #transgenderspeaker #harvardgraduation #pride #harvard #lgbtq  </content>
-    <link href="https://tiktok.com/@pinkmantaray/video/7236557045514702122" rel="alternate"/>
-    <published>2023-05-24T01:37:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pinkmantaray/video/7237225494532623662</id>
     <title>Let's talk about trans people &amp; bathrooms — with science and research instead of with lies and transphobia! #transgender #bathrooms #gender #transmen #transwomen #transrights #desantisisdangerous #queer #florida #equalityflorida #transphobia #lgbtq </title>
@@ -91,5 +83,13 @@
     <content>Anti-trans rhetoric and transphobia hurt everyone. This nonsense has got to stop. Trans people are not the problem. Everyone is debating where trans people belong but so few people are truly educated on transness. Come to a workshop or take one of my trainings: pinkmantaray.com/workshops 🙏🏼 Get engaged and help fight all this anti-trans, misogynistic, racist propaganda! Shirt by @Greyson!! #transgender #transathlete #transathletesbelonginsports #lettranskidsplay #transkids #protecttranskids #womenssports #girlssports #gender #pride #inclusion </content>
     <link href="https://tiktok.com/@pinkmantaray/video/7245719229310487854" rel="alternate"/>
     <published>2023-06-17T18:11:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pinkmantaray/video/7246827820662623534</id>
+    <title>Trans people are not an inherent threat in bathrooms! Listen to the longer answer on my podcast DEAR SCHUYLER, available anywhere yoy get your podcasts! #transgender #bathrooms #gender #lettranspeoplepee #transpeople #transrights #trans #bathroomrights #l</title>
+    <updated>2023-06-20T17:53:26+00:00</updated>
+    <content>Trans people are not an inherent threat in bathrooms! Listen to the longer answer on my podcast DEAR SCHUYLER, available anywhere yoy get your podcasts! #transgender #bathrooms #gender #lettranspeoplepee #transpeople #transrights #trans #bathroomrights #lgbtq #bathroomban #transition #transman #transwoman </content>
+    <link href="https://tiktok.com/@pinkmantaray/video/7246827820662623534" rel="alternate"/>
+    <published>2023-06-20T17:53:26+00:00</published>
   </entry>
 </feed>
