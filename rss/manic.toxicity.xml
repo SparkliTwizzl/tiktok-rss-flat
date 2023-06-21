@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@manic.toxicity</id>
   <title>@manic.toxicity | TikTok</title>
-  <updated>2023-06-17T19:28:02+00:00</updated>
+  <updated>2023-06-20T23:24:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @manic.toxicity</subtitle>
-  <entry>
-    <id>https://tiktok.com/@manic.toxicity/video/7243179494498929962</id>
-    <title>you are a, walking, second place medal.  #fyp #foryou  THANK YOU ALL SO MUCH FOR 100K!! I LOVE YOU ALL SO SO MUCH!!! </title>
-    <updated>2023-06-10T21:55:57+00:00</updated>
-    <content>you are a, walking, second place medal.  #fyp #foryou  THANK YOU ALL SO MUCH FOR 100K!! I LOVE YOU ALL SO SO MUCH!!! </content>
-    <link href="https://tiktok.com/@manic.toxicity/video/7243179494498929962" rel="alternate"/>
-    <published>2023-06-10T21:55:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@manic.toxicity/video/7243182263477882154</id>
     <title>ima grow up and be an astronaut:)) #fyp #foryou </title>
@@ -91,5 +83,13 @@
     <content>im so fucking exicted for @Dexter &amp; The Moonrocks to drop this 😭😭💀✨ (the presave link is in their bio ;) ! ) #fyp #foryou </content>
     <link href="https://tiktok.com/@manic.toxicity/video/7245738958141902123" rel="alternate"/>
     <published>2023-06-17T19:28:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@manic.toxicity/video/7246913110953495851</id>
+    <title>Replying to @Robert Snyder blehhh :p #fyp #foryou </title>
+    <updated>2023-06-20T23:24:17+00:00</updated>
+    <content>Replying to @Robert Snyder blehhh :p #fyp #foryou </content>
+    <link href="https://tiktok.com/@manic.toxicity/video/7246913110953495851" rel="alternate"/>
+    <published>2023-06-20T23:24:17+00:00</published>
   </entry>
 </feed>
