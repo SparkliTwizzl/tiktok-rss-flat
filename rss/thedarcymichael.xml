@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-06-20T15:52:35+00:00</updated>
+  <updated>2023-06-21T14:40:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7242496800161139974</id>
-    <title>#stitch with @Matty  🫣</title>
-    <updated>2023-06-09T01:46:36+00:00</updated>
-    <content>#stitch with @Matty  🫣</content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7242496800161139974" rel="alternate"/>
-    <published>2023-06-09T01:46:36+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7243829485332647174</id>
     <title>Well, here goes something?  Today, Darcy &amp; Jer announce additional dates to The No Refunds Tour, expanding the run across North America through spring 2024. Bringing their comedy from screen to stage, the additional dates will include fall and winter stop</title>
@@ -91,5 +83,13 @@
     <content>This adhd wranglers got some work cut out for him but its happening! </content>
     <link href="https://tiktok.com/@thedarcymichael/video/7246796749052906758" rel="alternate"/>
     <published>2023-06-20T15:52:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7247149244451228933</id>
+    <title>Please enjoy this throwback to one of my favourite pranks on Jer. #prank #couplescomedy #funny #husbands #couplegoals #onthisday </title>
+    <updated>2023-06-21T14:40:26+00:00</updated>
+    <content>Please enjoy this throwback to one of my favourite pranks on Jer. #prank #couplescomedy #funny #husbands #couplegoals #onthisday </content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7247149244451228933" rel="alternate"/>
+    <published>2023-06-21T14:40:26+00:00</published>
   </entry>
 </feed>
