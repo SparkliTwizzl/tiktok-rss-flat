@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@mikaelaistired</id>
   <title>@mikaelaistired | TikTok</title>
-  <updated>2023-06-21T12:20:10+00:00</updated>
+  <updated>2023-06-21T21:35:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @mikaelaistired</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mikaelaistired/video/7246102580655377707</id>
-    <title>But yeah i do</title>
-    <updated>2023-06-18T18:59:00+00:00</updated>
-    <content>But yeah i do</content>
-    <link href="https://tiktok.com/@mikaelaistired/video/7246102580655377707" rel="alternate"/>
-    <published>2023-06-18T18:59:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mikaelaistired/video/7246150647819636014</id>
-    <title>#greenscreen the remix of me is better </title>
-    <updated>2023-06-18T22:05:36+00:00</updated>
-    <content>#greenscreen the remix of me is better </content>
-    <link href="https://tiktok.com/@mikaelaistired/video/7246150647819636014" rel="alternate"/>
-    <published>2023-06-18T22:05:36+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mikaelaistired/video/7246392290980203819</id>
     <title>Oh no im being vulnerable </title>
@@ -91,5 +75,21 @@
     <content>Soooo</content>
     <link href="https://tiktok.com/@mikaelaistired/video/7247113047624568110" rel="alternate"/>
     <published>2023-06-21T12:20:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mikaelaistired/video/7247215531726589230</id>
+    <title>It’s actually the opposite issue </title>
+    <updated>2023-06-21T18:57:45+00:00</updated>
+    <content>It’s actually the opposite issue </content>
+    <link href="https://tiktok.com/@mikaelaistired/video/7247215531726589230" rel="alternate"/>
+    <published>2023-06-21T18:57:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mikaelaistired/video/7247256062821207342</id>
+    <title>Every time</title>
+    <updated>2023-06-21T21:35:04+00:00</updated>
+    <content>Every time</content>
+    <link href="https://tiktok.com/@mikaelaistired/video/7247256062821207342" rel="alternate"/>
+    <published>2023-06-21T21:35:04+00:00</published>
   </entry>
 </feed>
