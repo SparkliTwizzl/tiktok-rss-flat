@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@itspeachyfr</id>
   <title>@itspeachyfr | TikTok</title>
-  <updated>2023-06-17T11:38:14+00:00</updated>
+  <updated>2023-06-21T14:34:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @itspeachyfr</subtitle>
-  <entry>
-    <id>https://tiktok.com/@itspeachyfr/video/7229115028580961579</id>
-    <title>[no title]</title>
-    <updated>2023-05-04T00:18:38+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@itspeachyfr/video/7229115028580961579" rel="alternate"/>
-    <published>2023-05-04T00:18:38+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@itspeachyfr/video/7229360855282994475</id>
-    <title>I love noses </title>
-    <updated>2023-05-04T16:12:51+00:00</updated>
-    <content>I love noses </content>
-    <link href="https://tiktok.com/@itspeachyfr/video/7229360855282994475" rel="alternate"/>
-    <published>2023-05-04T16:12:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@itspeachyfr/video/7239869775458110766</id>
-    <title>I LOVE HER #EXPLORE #spiderman </title>
-    <updated>2023-06-01T23:52:31+00:00</updated>
-    <content>I LOVE HER #EXPLORE #spiderman </content>
-    <link href="https://tiktok.com/@itspeachyfr/video/7239869775458110766" rel="alternate"/>
-    <published>2023-06-01T23:52:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@itspeachyfr/video/7240116161566821674</id>
     <title>everyone- please  • • • #studioghibli #totro #fyp #stinkypoopyfart </title>
@@ -91,5 +67,29 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@itspeachyfr/video/7245617697898286382" rel="alternate"/>
     <published>2023-06-17T11:38:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@itspeachyfr/video/7247141517503008042</id>
+    <title>[no title]</title>
+    <updated>2023-06-21T14:10:34+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@itspeachyfr/video/7247141517503008042" rel="alternate"/>
+    <published>2023-06-21T14:10:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@itspeachyfr/video/7247145973305167150</id>
+    <title>Since i dont love you</title>
+    <updated>2023-06-21T14:27:53+00:00</updated>
+    <content>Since i dont love you</content>
+    <link href="https://tiktok.com/@itspeachyfr/video/7247145973305167150" rel="alternate"/>
+    <published>2023-06-21T14:27:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@itspeachyfr/video/7247147659851517230</id>
+    <title>silly post</title>
+    <updated>2023-06-21T14:34:26+00:00</updated>
+    <content>silly post</content>
+    <link href="https://tiktok.com/@itspeachyfr/video/7247147659851517230" rel="alternate"/>
+    <published>2023-06-21T14:34:26+00:00</published>
   </entry>
 </feed>
