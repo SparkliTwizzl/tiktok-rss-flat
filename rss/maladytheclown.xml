@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maladytheclown</id>
   <title>@maladytheclown | TikTok</title>
-  <updated>2023-06-18T20:33:55+00:00</updated>
+  <updated>2023-06-22T12:32:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maladytheclown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maladytheclown/video/7236554298778275077</id>
-    <title>#onthisday #clown #maladytheclown </title>
-    <updated>2023-05-24T01:26:40+00:00</updated>
-    <content>#onthisday #clown #maladytheclown </content>
-    <link href="https://tiktok.com/@maladytheclown/video/7236554298778275077" rel="alternate"/>
-    <published>2023-05-24T01:26:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maladytheclown/video/7237273199342275845</id>
     <title>#onthisday #maladytheclown </title>
@@ -91,5 +83,13 @@
     <content>Yes, you are Glum, yes you are 💙 #onthisday #glumthesupernaturalhitman #bluesuit #suit #dancesinshadows </content>
     <link href="https://tiktok.com/@maladytheclown/video/7246127077743676678" rel="alternate"/>
     <published>2023-06-18T20:33:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maladytheclown/video/7247487239607962886</id>
+    <title>yep 😅😆❤️ #cosplay #maladytheclown #sheep #disascociation #lambcosplay </title>
+    <updated>2023-06-22T12:32:02+00:00</updated>
+    <content>yep 😅😆❤️ #cosplay #maladytheclown #sheep #disascociation #lambcosplay </content>
+    <link href="https://tiktok.com/@maladytheclown/video/7247487239607962886" rel="alternate"/>
+    <published>2023-06-22T12:32:02+00:00</published>
   </entry>
 </feed>
