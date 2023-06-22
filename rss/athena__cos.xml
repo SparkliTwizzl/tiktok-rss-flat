@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-06-18T20:55:29+00:00</updated>
+  <updated>2023-06-21T21:03:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7237584087127510318</id>
-    <title>Honorable mention, is somehow teleporting to her spear when she throws it #assassinscreedcosplay #assassinscreedodyyssey #kassandracosplay #womenwithswords #gamer </title>
-    <updated>2023-05-26T20:02:50+00:00</updated>
-    <content>Honorable mention, is somehow teleporting to her spear when she throws it #assassinscreedcosplay #assassinscreedodyyssey #kassandracosplay #womenwithswords #gamer </content>
-    <link href="https://tiktok.com/@athena__cos/video/7237584087127510318" rel="alternate"/>
-    <published>2023-05-26T20:02:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7237963032595320106</id>
     <title>This quote fits Sukuna so well!!  #jujutsukaisen #jujutsukaisencosplay #animecosplay #sukuna #sukunacosplay #gojousatoru #jjk #animegirl </title>
@@ -91,5 +83,13 @@
     <content>RWBY group hug  Inspo from the super cool @Lui !! #rwbycosplay #rwby #yangcosplay #rubyrose #blakecosplay #bumbleby #rubycosplay </content>
     <link href="https://tiktok.com/@athena__cos/video/7246132588463803694" rel="alternate"/>
     <published>2023-06-18T20:55:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7247247927456845099</id>
+    <title>Happy summer solstice from a few Olympians  #goddess #greekgods #athena #artemis #persephone #ancientgreece #summersolstice </title>
+    <updated>2023-06-21T21:03:31+00:00</updated>
+    <content>Happy summer solstice from a few Olympians  #goddess #greekgods #athena #artemis #persephone #ancientgreece #summersolstice </content>
+    <link href="https://tiktok.com/@athena__cos/video/7247247927456845099" rel="alternate"/>
+    <published>2023-06-21T21:03:31+00:00</published>
   </entry>
 </feed>

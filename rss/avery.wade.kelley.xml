@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-06-21T11:52:21+00:00</updated>
+  <updated>2023-06-21T23:04:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7243860066347076907</id>
-    <title>We Remember. #fyp </title>
-    <updated>2023-06-12T17:56:52+00:00</updated>
-    <content>We Remember. #fyp </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7243860066347076907" rel="alternate"/>
-    <published>2023-06-12T17:56:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7244216664647159082</id>
-    <title>Replying to @banana_travels3366 Yeah!!!! It was so beautiful. #fyp #festival </title>
-    <updated>2023-06-13T17:00:40+00:00</updated>
-    <content>Replying to @banana_travels3366 Yeah!!!! It was so beautiful. #fyp #festival </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7244216664647159082" rel="alternate"/>
-    <published>2023-06-13T17:00:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7244220727061204270</id>
     <title>#duet with @angelkiss77 This is what's happening. This is the reality. This is what is really hurting children. It has to stop before more innocent lives are lost. #fyp #trans </title>
@@ -91,5 +75,21 @@
     <content>I haven't shared with you our backyard buddies. A mother raccoon and her 6 babies have found a home in our swampy backyard. They're so cute. We try not to mess up their ecosystem as much as possible, but sometimes you gotta reach out and let a raccoon sniff you. I'm gonna miss these little ones. #fyp </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7247105876719619374" rel="alternate"/>
     <published>2023-06-21T11:52:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7247219105617546539</id>
+    <title>We've been having non stop thunderstorms. Something's in the air for sure. #fyp </title>
+    <updated>2023-06-21T19:11:36+00:00</updated>
+    <content>We've been having non stop thunderstorms. Something's in the air for sure. #fyp </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7247219105617546539" rel="alternate"/>
+    <published>2023-06-21T19:11:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7247279040749391146</id>
+    <title>I'm still not used to passing, so it's always fun when someone doesn't know I'm trans. #fyp #trans </title>
+    <updated>2023-06-21T23:04:16+00:00</updated>
+    <content>I'm still not used to passing, so it's always fun when someone doesn't know I'm trans. #fyp #trans </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7247279040749391146" rel="alternate"/>
+    <published>2023-06-21T23:04:16+00:00</published>
   </entry>
 </feed>
