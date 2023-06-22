@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-06-22T18:16:41+00:00</updated>
+  <updated>2023-06-22T18:41:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7245325225619950890</id>
-    <title>Yet another instance where our siblings were favored over us. Thanks for the reminder. #solardidsystem #ssarchelaus </title>
-    <updated>2023-06-16T16:42:26+00:00</updated>
-    <content>Yet another instance where our siblings were favored over us. Thanks for the reminder. #solardidsystem #ssarchelaus </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7245325225619950890" rel="alternate"/>
-    <published>2023-06-16T16:42:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7245416262594006318</id>
     <title>A typical conversation between the two of them 😅 #solardidsystem #sszenith #ssryn </title>
@@ -91,5 +83,13 @@
     <content>#stitch with @Hollywood Take this doesn't even begin to touch on the immense privilege he has now to devote all of his resources to healing without worrying about income. I wish I could take a year off to spend on my mental health but I have to work. #solardidsystem #ssperegrine </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7247576023154380074" rel="alternate"/>
     <published>2023-06-22T18:16:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7247582498878786858</id>
+    <title>-Peregrine (they/them) #solardidsystem #ssperegrine #greenflags </title>
+    <updated>2023-06-22T18:41:54+00:00</updated>
+    <content>-Peregrine (they/them) #solardidsystem #ssperegrine #greenflags </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7247582498878786858" rel="alternate"/>
+    <published>2023-06-22T18:41:54+00:00</published>
   </entry>
 </feed>
