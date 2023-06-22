@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@paaz_11</id>
   <title>@paaz_11 | TikTok</title>
-  <updated>2023-06-17T10:15:19+00:00</updated>
+  <updated>2023-06-22T18:09:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -53,14 +53,6 @@
     <published>2023-02-25T19:45:16+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@paaz_11/video/7206429303645539590</id>
-    <title>gonna keep trying this on top of my usual routine and see how it goes :) #journaling #aesthetic #selfcare </title>
-    <updated>2023-03-03T21:06:17+00:00</updated>
-    <content>gonna keep trying this on top of my usual routine and see how it goes :) #journaling #aesthetic #selfcare </content>
-    <link href="https://tiktok.com/@paaz_11/video/7206429303645539590" rel="alternate"/>
-    <published>2023-03-03T21:06:17+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@paaz_11/video/7210426969446534406</id>
     <title>from the drafts 🖤💜 #wlw #grwm #tomboy </title>
     <updated>2023-03-14T15:39:17+00:00</updated>
@@ -91,5 +83,13 @@
     <content>first time 👀 #wlw #lgbt #ootd  </content>
     <link href="https://tiktok.com/@paaz_11/video/7245596558169771290" rel="alternate"/>
     <published>2023-06-17T10:15:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@paaz_11/video/7247574138389351707</id>
+    <title>i liked this one:) #grwm #tomboy #style </title>
+    <updated>2023-06-22T18:09:33+00:00</updated>
+    <content>i liked this one:) #grwm #tomboy #style </content>
+    <link href="https://tiktok.com/@paaz_11/video/7247574138389351707" rel="alternate"/>
+    <published>2023-06-22T18:09:33+00:00</published>
   </entry>
 </feed>

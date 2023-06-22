@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kit_the_beefcake</id>
   <title>@kit_the_beefcake | TikTok</title>
-  <updated>2023-06-22T04:49:40+00:00</updated>
+  <updated>2023-06-22T22:00:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kit_the_beefcake</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7243767559261146410</id>
-    <title>#kitthebeefcake </title>
-    <updated>2023-06-12T11:57:57+00:00</updated>
-    <content>#kitthebeefcake </content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7243767559261146410" rel="alternate"/>
-    <published>2023-06-12T11:57:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7244286696496319787</id>
-    <title>#kitthebeefcake </title>
-    <updated>2023-06-13T21:32:21+00:00</updated>
-    <content>#kitthebeefcake </content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7244286696496319787" rel="alternate"/>
-    <published>2023-06-13T21:32:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7244385276502510894</id>
     <title>#kitthebeefcake </title>
@@ -91,5 +75,21 @@
     <content>it's a joke y'all I know it's impractical 😂😂 #kitthebeefcake </content>
     <link href="https://tiktok.com/@kit_the_beefcake/video/7247368037198974254" rel="alternate"/>
     <published>2023-06-22T04:49:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7247631585078529326</id>
+    <title>every guy I've ever been with 10/10 sweetheart #kitthebeefcake </title>
+    <updated>2023-06-22T21:52:19+00:00</updated>
+    <content>every guy I've ever been with 10/10 sweetheart #kitthebeefcake </content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7247631585078529326" rel="alternate"/>
+    <published>2023-06-22T21:52:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7247633602282802475</id>
+    <title>time for my last final exam! #kitthebeefcake </title>
+    <updated>2023-06-22T22:00:09+00:00</updated>
+    <content>time for my last final exam! #kitthebeefcake </content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7247633602282802475" rel="alternate"/>
+    <published>2023-06-22T22:00:09+00:00</published>
   </entry>
 </feed>
