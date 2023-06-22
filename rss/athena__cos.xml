@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-06-21T21:03:31+00:00</updated>
+  <updated>2023-06-22T20:57:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7237963032595320106</id>
-    <title>This quote fits Sukuna so well!!  #jujutsukaisen #jujutsukaisencosplay #animecosplay #sukuna #sukunacosplay #gojousatoru #jjk #animegirl </title>
-    <updated>2023-05-27T20:33:24+00:00</updated>
-    <content>This quote fits Sukuna so well!!  #jujutsukaisen #jujutsukaisencosplay #animecosplay #sukuna #sukunacosplay #gojousatoru #jjk #animegirl </content>
-    <link href="https://tiktok.com/@athena__cos/video/7237963032595320106" rel="alternate"/>
-    <published>2023-05-27T20:33:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7238289358220987690</id>
     <title>The fit was sponsored by @nevstudio 🖤🖤 #streetwear #techwear #animeedit #jjk #jjkcosplay </title>
@@ -91,5 +83,13 @@
     <content>Happy summer solstice from a few Olympians  #goddess #greekgods #athena #artemis #persephone #ancientgreece #summersolstice </content>
     <link href="https://tiktok.com/@athena__cos/video/7247247927456845099" rel="alternate"/>
     <published>2023-06-21T21:03:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7247617513549303086</id>
+    <title>So you wanna talk about battle strategy? #athenacosplay #athena #greekgods #goddess #goddesscosplay #wisdom </title>
+    <updated>2023-06-22T20:57:45+00:00</updated>
+    <content>So you wanna talk about battle strategy? #athenacosplay #athena #greekgods #goddess #goddesscosplay #wisdom </content>
+    <link href="https://tiktok.com/@athena__cos/video/7247617513549303086" rel="alternate"/>
+    <published>2023-06-22T20:57:45+00:00</published>
   </entry>
 </feed>
