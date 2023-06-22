@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pinkmantaray</id>
   <title>@pinkmantaray | TikTok</title>
-  <updated>2023-06-20T17:53:26+00:00</updated>
+  <updated>2023-06-22T02:47:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @pinkmantaray</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pinkmantaray/video/7237225494532623662</id>
-    <title>Let's talk about trans people &amp; bathrooms — with science and research instead of with lies and transphobia! #transgender #bathrooms #gender #transmen #transwomen #transrights #desantisisdangerous #queer #florida #equalityflorida #transphobia #lgbtq </title>
-    <updated>2023-05-25T20:51:19+00:00</updated>
-    <content>Let's talk about trans people &amp; bathrooms — with science and research instead of with lies and transphobia! #transgender #bathrooms #gender #transmen #transwomen #transrights #desantisisdangerous #queer #florida #equalityflorida #transphobia #lgbtq </content>
-    <link href="https://tiktok.com/@pinkmantaray/video/7237225494532623662" rel="alternate"/>
-    <published>2023-05-25T20:51:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pinkmantaray/video/7238346587804552490</id>
     <title>Replying to @Toad Trans women do NOT threaten women's sports. If you want to learn more, come to my workshop about trans athletes tomorrow at 6pm ET - pinkmantaray.com/workshops to sign up. #transathlete #trans #transgender #womenssports #gender #transwom</title>
@@ -91,5 +83,13 @@
     <content>Trans people are not an inherent threat in bathrooms! Listen to the longer answer on my podcast DEAR SCHUYLER, available anywhere yoy get your podcasts! #transgender #bathrooms #gender #lettranspeoplepee #transpeople #transrights #trans #bathroomrights #lgbtq #bathroomban #transition #transman #transwoman </content>
     <link href="https://tiktok.com/@pinkmantaray/video/7246827820662623534" rel="alternate"/>
     <published>2023-06-20T17:53:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pinkmantaray/video/7247336515355921707</id>
+    <title>Day 1 of audiobook recording is done! Preorder my book at hstbook.com 💕🏳️‍⚧️ #transgender #transauthors #transman #trans #audiobook #gender #lgbtq #genderliteracy #transliteracy #transrights </title>
+    <updated>2023-06-22T02:47:18+00:00</updated>
+    <content>Day 1 of audiobook recording is done! Preorder my book at hstbook.com 💕🏳️‍⚧️ #transgender #transauthors #transman #trans #audiobook #gender #lgbtq #genderliteracy #transliteracy #transrights </content>
+    <link href="https://tiktok.com/@pinkmantaray/video/7247336515355921707" rel="alternate"/>
+    <published>2023-06-22T02:47:18+00:00</published>
   </entry>
 </feed>
