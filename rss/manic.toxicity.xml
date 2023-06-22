@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@manic.toxicity</id>
   <title>@manic.toxicity | TikTok</title>
-  <updated>2023-06-20T23:24:17+00:00</updated>
+  <updated>2023-06-22T00:03:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @manic.toxicity</subtitle>
-  <entry>
-    <id>https://tiktok.com/@manic.toxicity/video/7243182263477882154</id>
-    <title>ima grow up and be an astronaut:)) #fyp #foryou </title>
-    <updated>2023-06-10T22:06:46+00:00</updated>
-    <content>ima grow up and be an astronaut:)) #fyp #foryou </content>
-    <link href="https://tiktok.com/@manic.toxicity/video/7243182263477882154" rel="alternate"/>
-    <published>2023-06-10T22:06:46+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@manic.toxicity/video/7243900774227381546</id>
-    <title>yes im foing this sound again, eat me #fyp #foryou </title>
-    <updated>2023-06-12T20:34:47+00:00</updated>
-    <content>yes im foing this sound again, eat me #fyp #foryou </content>
-    <link href="https://tiktok.com/@manic.toxicity/video/7243900774227381546" rel="alternate"/>
-    <published>2023-06-12T20:34:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@manic.toxicity/video/7243901152734154030</id>
-    <title>🔨 #fyp #foryou </title>
-    <updated>2023-06-12T20:36:17+00:00</updated>
-    <content>🔨 #fyp #foryou </content>
-    <link href="https://tiktok.com/@manic.toxicity/video/7243901152734154030" rel="alternate"/>
-    <published>2023-06-12T20:36:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@manic.toxicity/video/7244330270910893354</id>
     <title>cross my heart #fyp #foryou </title>
@@ -91,5 +67,29 @@
     <content>Replying to @Robert Snyder blehhh :p #fyp #foryou </content>
     <link href="https://tiktok.com/@manic.toxicity/video/7246913110953495851" rel="alternate"/>
     <published>2023-06-20T23:24:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@manic.toxicity/video/7247242998696774954</id>
+    <title>Replying to @Agent Woody #greenscreen  @Dexter &amp; The Moonrocks have found my contenting other occasions as well, commenting on videos in the past and also putting me in a weekly update. this is to me i feel is an accomplishment. but not because i wanna be</title>
+    <updated>2023-06-21T20:44:19+00:00</updated>
+    <content>Replying to @Agent Woody #greenscreen  @Dexter &amp; The Moonrocks have found my contenting other occasions as well, commenting on videos in the past and also putting me in a weekly update. this is to me i feel is an accomplishment. but not because i wanna be on the wall, simply because i love their music and what they put out. its an honor to have a vibey western grunge band to follow me &lt;3  #fyp #foryou </content>
+    <link href="https://tiktok.com/@manic.toxicity/video/7247242998696774954" rel="alternate"/>
+    <published>2023-06-21T20:44:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@manic.toxicity/video/7247248670842752299</id>
+    <title>hehehe #fyp #foryou </title>
+    <updated>2023-06-21T21:06:26+00:00</updated>
+    <content>hehehe #fyp #foryou </content>
+    <link href="https://tiktok.com/@manic.toxicity/video/7247248670842752299" rel="alternate"/>
+    <published>2023-06-21T21:06:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@manic.toxicity/video/7247294344313490734</id>
+    <title>u can stay &lt;3 #fyp #foryou </title>
+    <updated>2023-06-22T00:03:43+00:00</updated>
+    <content>u can stay &lt;3 #fyp #foryou </content>
+    <link href="https://tiktok.com/@manic.toxicity/video/7247294344313490734" rel="alternate"/>
+    <published>2023-06-22T00:03:43+00:00</published>
   </entry>
 </feed>
