@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@nopanicbutton</id>
   <title>@nopanicbutton | TikTok</title>
-  <updated>2023-06-21T22:22:25+00:00</updated>
+  <updated>2023-06-23T21:26:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @nopanicbutton</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nopanicbutton/video/7239456087160786219</id>
-    <title>No measure is too extreme for killing skeeters! #bugzapper #skeeter #mosquito #deathtoskeeters </title>
-    <updated>2023-05-31T21:07:07+00:00</updated>
-    <content>No measure is too extreme for killing skeeters! #bugzapper #skeeter #mosquito #deathtoskeeters </content>
-    <link href="https://tiktok.com/@nopanicbutton/video/7239456087160786219" rel="alternate"/>
-    <published>2023-05-31T21:07:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nopanicbutton/video/7240201452856249646</id>
     <title>I wish people would just leave my balls alone! #handsoff #nonosquare #notouchie </title>
@@ -91,5 +83,13 @@
     <content>This apprentice is getting expensive. At 19 you should have a bit more sense. #commonsense #why #whatswrongwithyou? </content>
     <link href="https://tiktok.com/@nopanicbutton/video/7247268241037561134" rel="alternate"/>
     <published>2023-06-21T22:22:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nopanicbutton/video/7247996017218473259</id>
+    <title>It's important to let the smith know what you want the blade to do. Money is nice too! #bitcoinpayment #moneyopensdoorsandcloseseyes </title>
+    <updated>2023-06-23T21:26:30+00:00</updated>
+    <content>It's important to let the smith know what you want the blade to do. Money is nice too! #bitcoinpayment #moneyopensdoorsandcloseseyes </content>
+    <link href="https://tiktok.com/@nopanicbutton/video/7247996017218473259" rel="alternate"/>
+    <published>2023-06-23T21:26:30+00:00</published>
   </entry>
 </feed>
