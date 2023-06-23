@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-06-23T11:58:48+00:00</updated>
+  <updated>2023-06-23T20:38:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7244630778674433326</id>
-    <title>Just singing the blues. #fyp #trans </title>
-    <updated>2023-06-14T19:47:38+00:00</updated>
-    <content>Just singing the blues. #fyp #trans </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7244630778674433326" rel="alternate"/>
-    <published>2023-06-14T19:47:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7245027243955735854</id>
     <title>Celebrate the little things. Even if they're sparse. ;] #fyp #trans </title>
@@ -91,5 +83,13 @@
     <content>I've been going through something. #fyp #trans </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7247849514223258926" rel="alternate"/>
     <published>2023-06-23T11:58:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7247983723730193706</id>
+    <title>Linkin Park - One More Light #fyp </title>
+    <updated>2023-06-23T20:38:49+00:00</updated>
+    <content>Linkin Park - One More Light #fyp </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7247983723730193706" rel="alternate"/>
+    <published>2023-06-23T20:38:49+00:00</published>
   </entry>
 </feed>
