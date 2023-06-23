@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-06-22T20:57:45+00:00</updated>
+  <updated>2023-06-23T21:04:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7238289358220987690</id>
-    <title>The fit was sponsored by @nevstudio 🖤🖤 #streetwear #techwear #animeedit #jjk #jjkcosplay </title>
-    <updated>2023-05-28T17:39:46+00:00</updated>
-    <content>The fit was sponsored by @nevstudio 🖤🖤 #streetwear #techwear #animeedit #jjk #jjkcosplay </content>
-    <link href="https://tiktok.com/@athena__cos/video/7238289358220987690" rel="alternate"/>
-    <published>2023-05-28T17:39:46+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7239078914356677931</id>
     <title>Yuji is my favorite character, but OH how Sukuna has a chokehold on me 😂  #streetwear #techwear #jjk #darkwear #jujutsukaisen #jujutsukaisencosplay #anime </title>
@@ -91,5 +83,13 @@
     <content>So you wanna talk about battle strategy? #athenacosplay #athena #greekgods #goddess #goddesscosplay #wisdom </content>
     <link href="https://tiktok.com/@athena__cos/video/7247617513549303086" rel="alternate"/>
     <published>2023-06-22T20:57:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7247990369093193002</id>
+    <title>Godess of Wisdom and Battle Strategy #athena #greekgods #goddesscosplay #greekmythology #mythology </title>
+    <updated>2023-06-23T21:04:36+00:00</updated>
+    <content>Godess of Wisdom and Battle Strategy #athena #greekgods #goddesscosplay #greekmythology #mythology </content>
+    <link href="https://tiktok.com/@athena__cos/video/7247990369093193002" rel="alternate"/>
+    <published>2023-06-23T21:04:36+00:00</published>
   </entry>
 </feed>
