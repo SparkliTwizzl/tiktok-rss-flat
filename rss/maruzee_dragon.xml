@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maruzee_dragon</id>
   <title>@maruzee_dragon | TikTok</title>
-  <updated>2023-06-22T02:12:32+00:00</updated>
+  <updated>2023-06-23T02:09:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maruzee_dragon</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maruzee_dragon/video/7240646800573582598</id>
-    <title>Réponse à @panagiwta.sar_94  🫠 #videogames #gamer #transition </title>
-    <updated>2023-06-04T02:07:39+00:00</updated>
-    <content>Réponse à @panagiwta.sar_94  🫠 #videogames #gamer #transition </content>
-    <link href="https://tiktok.com/@maruzee_dragon/video/7240646800573582598" rel="alternate"/>
-    <published>2023-06-04T02:07:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maruzee_dragon/video/7241766663757024517</id>
     <title>Adding a Martial Arts Twist to this TikTok Dance Trend!🥷 ⚠️PROPS|TRAINED PROFESSIONAL⚠️ #martialarts #trending </title>
@@ -91,5 +83,13 @@
     <content>Réponse à @cynicalsakura  I swear @MIMI is okay 🤣💖 #spiderman #martialarts #transition </content>
     <link href="https://tiktok.com/@maruzee_dragon/video/7247327587402337541" rel="alternate"/>
     <published>2023-06-22T02:12:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maruzee_dragon/video/7247697858244250886</id>
+    <title>Réponse à @shellshock209 Another one @MIMI 🕷🕸🖤 #spiderman #comics #transition #marvel </title>
+    <updated>2023-06-23T02:09:22+00:00</updated>
+    <content>Réponse à @shellshock209 Another one @MIMI 🕷🕸🖤 #spiderman #comics #transition #marvel </content>
+    <link href="https://tiktok.com/@maruzee_dragon/video/7247697858244250886" rel="alternate"/>
+    <published>2023-06-23T02:09:22+00:00</published>
   </entry>
 </feed>
