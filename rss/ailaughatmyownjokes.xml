@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ailaughatmyownjokes</id>
   <title>@ailaughatmyownjokes | TikTok</title>
-  <updated>2023-06-21T17:03:42+00:00</updated>
+  <updated>2023-06-23T15:51:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ailaughatmyownjokes</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ailaughatmyownjokes/video/7232769858147028251</id>
-    <title>Ruggero and I got kicked out of the group. #thewalkingdead #skit #comedy #twd </title>
-    <updated>2023-05-13T20:41:13+00:00</updated>
-    <content>Ruggero and I got kicked out of the group. #thewalkingdead #skit #comedy #twd </content>
-    <link href="https://tiktok.com/@ailaughatmyownjokes/video/7232769858147028251" rel="alternate"/>
-    <published>2023-05-13T20:41:13+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ailaughatmyownjokes/video/7234560240111439130</id>
     <title>Can't even sing my favourite song in peace smh. It's called Sangria and it's about Sangria. #harrypotter #skit #comedy #hogwarts </title>
@@ -91,5 +83,13 @@
     <content>R.I.P. Draco's owl (again)  #harrypotter #skit #comedy </content>
     <link href="https://tiktok.com/@ailaughatmyownjokes/video/7247186144335498523" rel="alternate"/>
     <published>2023-06-21T17:03:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ailaughatmyownjokes/video/7247909580586503451</id>
+    <title>Wig snatched slay #skit #comedy </title>
+    <updated>2023-06-23T15:51:04+00:00</updated>
+    <content>Wig snatched slay #skit #comedy </content>
+    <link href="https://tiktok.com/@ailaughatmyownjokes/video/7247909580586503451" rel="alternate"/>
+    <published>2023-06-23T15:51:04+00:00</published>
   </entry>
 </feed>
