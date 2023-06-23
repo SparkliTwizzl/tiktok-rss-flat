@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jacobtheseahorse</id>
   <title>@jacobtheseahorse | TikTok</title>
-  <updated>2023-06-22T15:11:07+00:00</updated>
+  <updated>2023-06-23T14:34:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jacobtheseahorse</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7241568261739924763</id>
-    <title>if your feminism is about making out how weak and incapable women are, then it isn't feminism. intersectional feminism is where it's at. #feminism #transphobia #trans #queer #queertok </title>
-    <updated>2023-06-06T13:43:26+00:00</updated>
-    <content>if your feminism is about making out how weak and incapable women are, then it isn't feminism. intersectional feminism is where it's at. #feminism #transphobia #trans #queer #queertok </content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7241568261739924763" rel="alternate"/>
-    <published>2023-06-06T13:43:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jacobtheseahorse/video/7241980972676238619</id>
     <title>#stitch with @Jacob - Papa Seahorse 🏳️‍⚧️ my ink was always pink and my ink was always blue t-shirts are both available now! bit. ly / seahorseshop or check out my l¡nk in bio  there's also t-shirts for the nonbinary universe as well as lots for allies to</title>
@@ -91,5 +83,13 @@
     <content>my thoughts go to the families, I wouldn't wish the media scrutiny on anyone during a time of such intense grieving.  but more than that, my thoughts go to the untold stories and the *mistold* stories of people who don't have the resources to live safely, let alone the resources for expensive willful recklessness. #submarine #submersible #titan #titanic #opinion</content>
     <link href="https://tiktok.com/@jacobtheseahorse/video/7247528212199132442" rel="alternate"/>
     <published>2023-06-22T15:11:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7247889803247684891</id>
+    <title>Replying to @clothbummum_insta the good news is - nobody identifies as a cat!  the bad news is - the right wing press are determined to create horrible, fake propaganda stories about trans people. #trans #lgbt #cat #identity #media #news #breaking #transg</title>
+    <updated>2023-06-23T14:34:21+00:00</updated>
+    <content>Replying to @clothbummum_insta the good news is - nobody identifies as a cat!  the bad news is - the right wing press are determined to create horrible, fake propaganda stories about trans people. #trans #lgbt #cat #identity #media #news #breaking #transgender #attackhelicopter </content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7247889803247684891" rel="alternate"/>
+    <published>2023-06-23T14:34:21+00:00</published>
   </entry>
 </feed>
