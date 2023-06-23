@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@atreegod</id>
   <title>@atreegod | TikTok</title>
-  <updated>2023-06-21T01:05:24+00:00</updated>
+  <updated>2023-06-23T12:41:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @atreegod</subtitle>
-  <entry>
-    <id>https://tiktok.com/@atreegod/video/7242402804273499438</id>
-    <title>🤓 #wlw </title>
-    <updated>2023-06-08T19:41:54+00:00</updated>
-    <content>🤓 #wlw </content>
-    <link href="https://tiktok.com/@atreegod/video/7242402804273499438" rel="alternate"/>
-    <published>2023-06-08T19:41:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@atreegod/video/7242403983510211883</id>
     <title>Definitely played a part in mh awakening #wlw #lgbtq </title>
@@ -91,5 +83,13 @@
     <content>#wlw #lgbtq </content>
     <link href="https://tiktok.com/@atreegod/video/7246939147515006250" rel="alternate"/>
     <published>2023-06-21T01:05:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7247860605762293034</id>
+    <title>Lighting change was paid fr #wlw </title>
+    <updated>2023-06-23T12:41:22+00:00</updated>
+    <content>Lighting change was paid fr #wlw </content>
+    <link href="https://tiktok.com/@atreegod/video/7247860605762293034" rel="alternate"/>
+    <published>2023-06-23T12:41:22+00:00</published>
   </entry>
 </feed>

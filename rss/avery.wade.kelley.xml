@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-06-21T23:04:16+00:00</updated>
+  <updated>2023-06-23T11:58:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7244220727061204270</id>
-    <title>#duet with @angelkiss77 This is what's happening. This is the reality. This is what is really hurting children. It has to stop before more innocent lives are lost. #fyp #trans </title>
-    <updated>2023-06-13T17:16:25+00:00</updated>
-    <content>#duet with @angelkiss77 This is what's happening. This is the reality. This is what is really hurting children. It has to stop before more innocent lives are lost. #fyp #trans </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7244220727061204270" rel="alternate"/>
-    <published>2023-06-13T17:16:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7244630778674433326</id>
     <title>Just singing the blues. #fyp #trans </title>
@@ -91,5 +83,13 @@
     <content>I'm still not used to passing, so it's always fun when someone doesn't know I'm trans. #fyp #trans </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7247279040749391146" rel="alternate"/>
     <published>2023-06-21T23:04:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7247849514223258926</id>
+    <title>I've been going through something. #fyp #trans </title>
+    <updated>2023-06-23T11:58:48+00:00</updated>
+    <content>I've been going through something. #fyp #trans </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7247849514223258926" rel="alternate"/>
+    <published>2023-06-23T11:58:48+00:00</published>
   </entry>
 </feed>
