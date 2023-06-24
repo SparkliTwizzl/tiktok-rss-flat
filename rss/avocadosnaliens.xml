@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avocadosnaliens</id>
   <title>@avocadosnaliens | TikTok</title>
-  <updated>2023-06-21T05:21:01+00:00</updated>
+  <updated>2023-06-24T16:09:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avocadosnaliens</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avocadosnaliens/video/7241812660352830766</id>
-    <title>#stitch with @Katarina Mogus 🤍 </title>
-    <updated>2023-06-07T05:32:10+00:00</updated>
-    <content>#stitch with @Katarina Mogus 🤍 </content>
-    <link href="https://tiktok.com/@avocadosnaliens/video/7241812660352830766" rel="alternate"/>
-    <published>2023-06-07T05:32:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avocadosnaliens/video/7241951338953968942</id>
     <title>So beyond excited for “unknown” to come out. @Hozier you are something special to me. Enjoy all the awkward facial expressions 🤠</title>
@@ -91,5 +83,13 @@
     <content>#duet with @Jason Rodelo #stop </content>
     <link href="https://tiktok.com/@avocadosnaliens/video/7247005027733114158" rel="alternate"/>
     <published>2023-06-21T05:21:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7248285473796394282</id>
+    <title>TAHOE WEDDING DAYYYYYY (i love my job so much) more content to come. Its been an off few days. My car is out of commission after spending $700 to fix it, my second shooter up and bailed, the hotel i booked is an hour away from the venue becuase im adhd ri</title>
+    <updated>2023-06-24T16:09:52+00:00</updated>
+    <content>TAHOE WEDDING DAYYYYYY (i love my job so much) more content to come. Its been an off few days. My car is out of commission after spending $700 to fix it, my second shooter up and bailed, the hotel i booked is an hour away from the venue becuase im adhd riddled and didnt check before booking… BUT we make the best of our days. And today i get to ride up a private mountain to shoot where many car commercials have been made, i get to kayak out to the middle of a private lake becuase my clients are doing their first dance on a rock in the middle of it and i get to eat good food with amazing peope. Lifes ok in fact it couldnt be better. Sorry ive been bad at posting but heres some medicore content (im running out of clothing yall) I love you all🫶</content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7248285473796394282" rel="alternate"/>
+    <published>2023-06-24T16:09:52+00:00</published>
   </entry>
 </feed>
