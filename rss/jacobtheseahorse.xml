@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jacobtheseahorse</id>
   <title>@jacobtheseahorse | TikTok</title>
-  <updated>2023-06-23T21:20:45+00:00</updated>
+  <updated>2023-06-24T07:55:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jacobtheseahorse</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7243913539172191515</id>
-    <title>existing is resisting ✊🏳️‍⚧️ new t-shirt and loads more for queer folks and allies alike, all trans designed (by moi) and with all money made going towards the trans community - please check out my shop! bit (dot) ly (slash) seahorseshop  or check the |in</title>
-    <updated>2023-06-12T21:24:18+00:00</updated>
-    <content>existing is resisting ✊🏳️‍⚧️ new t-shirt and loads more for queer folks and allies alike, all trans designed (by moi) and with all money made going towards the trans community - please check out my shop! bit (dot) ly (slash) seahorseshop  or check the |ink in my b¡o  code SEAHORSE10 will get you 10% off during June too because why the heck not!</content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7243913539172191515" rel="alternate"/>
-    <published>2023-06-12T21:24:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jacobtheseahorse/video/7244213448836451610</id>
     <title>if you are against trans people then you're doing the work of the far right for them. they want us divided because we're stronger together. #trans #feminism #abortion #prochoice #healthcare #rights </title>
@@ -91,5 +83,13 @@
     <content>#duet with @Ian #titan #titanic #titanicsinking #billionaire #toxicmasculinity</content>
     <link href="https://tiktok.com/@jacobtheseahorse/video/7247994536872512794" rel="alternate"/>
     <published>2023-06-23T21:20:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7248158090074279195</id>
+    <title>#stitch with @Dr Idz (MBBS, MRes, Dip IBLM) all 👏🏻 food 👏🏻 has 👏🏻 nutrition. I don't want my kids to have "guilty pleasures", I want them to enjoy the pleasure of their favourite foods while knowing they need other kinds of food too.  I want them to liste</title>
+    <updated>2023-06-24T07:55:28+00:00</updated>
+    <content>#stitch with @Dr Idz (MBBS, MRes, Dip IBLM) all 👏🏻 food 👏🏻 has 👏🏻 nutrition. I don't want my kids to have "guilty pleasures", I want them to enjoy the pleasure of their favourite foods while knowing they need other kinds of food too.  I want them to listen to their body and not emotional guilt and stigma! #parenting #parentsoftiktok #nutrition #diet #wellness #mindfulness #kids #health #eating #ed </content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7248158090074279195" rel="alternate"/>
+    <published>2023-06-24T07:55:28+00:00</published>
   </entry>
 </feed>
