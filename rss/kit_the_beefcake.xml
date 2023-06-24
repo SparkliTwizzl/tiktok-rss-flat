@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kit_the_beefcake</id>
   <title>@kit_the_beefcake | TikTok</title>
-  <updated>2023-06-23T14:24:45+00:00</updated>
+  <updated>2023-06-24T05:48:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kit_the_beefcake</subtitle>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7244286696496319787</id>
+    <title>#kitthebeefcake </title>
+    <updated>2023-06-13T21:32:21+00:00</updated>
+    <content>#kitthebeefcake </content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7244286696496319787" rel="alternate"/>
+    <published>2023-06-13T21:32:21+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7244385276502510894</id>
     <title>#kitthebeefcake </title>
@@ -53,28 +61,12 @@
     <published>2023-06-20T00:53:20+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7246773025155304750</id>
-    <title>thank you 💜</title>
-    <updated>2023-06-20T14:20:57+00:00</updated>
-    <content>thank you 💜</content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7246773025155304750" rel="alternate"/>
-    <published>2023-06-20T14:20:57+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7247053063146491179</id>
     <title>#kitthebeefcake </title>
     <updated>2023-06-21T08:27:23+00:00</updated>
     <content>#kitthebeefcake </content>
     <link href="https://tiktok.com/@kit_the_beefcake/video/7247053063146491179" rel="alternate"/>
     <published>2023-06-21T08:27:23+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7247368037198974254</id>
-    <title>it's a joke y'all I know it's impractical 😂😂 #kitthebeefcake </title>
-    <updated>2023-06-22T04:49:40+00:00</updated>
-    <content>it's a joke y'all I know it's impractical 😂😂 #kitthebeefcake </content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7247368037198974254" rel="alternate"/>
-    <published>2023-06-22T04:49:40+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7247633602282802475</id>
@@ -91,5 +83,13 @@
     <content>#kitthebeefcake </content>
     <link href="https://tiktok.com/@kit_the_beefcake/video/7247887301597089070" rel="alternate"/>
     <published>2023-06-23T14:24:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7248125374792699182</id>
+    <title>Australia is awesome but the food.... yikes #kitthebeefcake </title>
+    <updated>2023-06-24T05:48:39+00:00</updated>
+    <content>Australia is awesome but the food.... yikes #kitthebeefcake </content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7248125374792699182" rel="alternate"/>
+    <published>2023-06-24T05:48:39+00:00</published>
   </entry>
 </feed>
