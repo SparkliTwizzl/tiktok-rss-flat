@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-06-24T18:16:20+00:00</updated>
+  <updated>2023-06-24T22:32:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7244686455426075910</id>
-    <title>This year, as an act of pride, choose your wellbeing by quitting smoking with the help of @Nicorette Canada. #NicorettePartner #SmokeFree Legal disclaimer: NICORETTE ® contains nicotine. Stop smoking aid. Always read and follow the label.</title>
-    <updated>2023-06-14T23:23:37+00:00</updated>
-    <content>This year, as an act of pride, choose your wellbeing by quitting smoking with the help of @Nicorette Canada. #NicorettePartner #SmokeFree Legal disclaimer: NICORETTE ® contains nicotine. Stop smoking aid. Always read and follow the label.</content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7244686455426075910" rel="alternate"/>
-    <published>2023-06-14T23:23:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7244898969233526021</id>
     <title>Twas a good day #onthisday #popquiz #throwback </title>
@@ -91,5 +83,13 @@
     <content>purple shirt guy wasnt having any of this!!When your best friends an actress marrys an indy race car driver and they say go nuts. #bestmanspeech #onthisday #weddingspeech #roast </content>
     <link href="https://tiktok.com/@thedarcymichael/video/7248318131985337606" rel="alternate"/>
     <published>2023-06-24T18:16:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7248384015240072454</id>
+    <title>The attitude is gratitude. </title>
+    <updated>2023-06-24T22:32:00+00:00</updated>
+    <content>The attitude is gratitude. </content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7248384015240072454" rel="alternate"/>
+    <published>2023-06-24T22:32:00+00:00</published>
   </entry>
 </feed>
