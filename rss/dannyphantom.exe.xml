@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dannyphantom.exe</id>
   <title>@dannyphantom.exe | TikTok</title>
-  <updated>2023-06-23T02:16:26+00:00</updated>
+  <updated>2023-06-24T02:15:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dannyphantom.exe</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7245484638016228650</id>
-    <title>THERES A REASON H NEVER MET THE VILLIANS PARENTS HERO!!!</title>
-    <updated>2023-06-17T03:01:08+00:00</updated>
-    <content>THERES A REASON H NEVER MET THE VILLIANS PARENTS HERO!!!</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7245484638016228650" rel="alternate"/>
-    <published>2023-06-17T03:01:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dannyphantom.exe/video/7245844109099945259</id>
     <title>ASHELY IM COMING TO SAVE U</title>
@@ -91,5 +83,13 @@
     <content>THE HERO AND VILLIAN ARE GETTING A DIVORCE???!!! NOOOO</content>
     <link href="https://tiktok.com/@dannyphantom.exe/video/7247699647320345898" rel="alternate"/>
     <published>2023-06-23T02:16:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7248070538382314794</id>
+    <title>tag someone who does this</title>
+    <updated>2023-06-24T02:15:40+00:00</updated>
+    <content>tag someone who does this</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7248070538382314794" rel="alternate"/>
+    <published>2023-06-24T02:15:40+00:00</published>
   </entry>
 </feed>
