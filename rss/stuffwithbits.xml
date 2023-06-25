@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-06-24T18:23:59+00:00</updated>
+  <updated>2023-06-25T20:20:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7246185402053217579</id>
-    <title>[no title]</title>
-    <updated>2023-06-19T00:20:25+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7246185402053217579" rel="alternate"/>
-    <published>2023-06-19T00:20:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7246830143052746026</id>
     <title>I know it's scary. But we've got your back 💝☀️ #solardidsystem #sssakura #sszenith #ssneptune #ssastra </title>
@@ -91,5 +83,13 @@
     <content>#answer to @thespeck0a #solardidsystem #sskestrel #theythem #dissociativeidentitydisorder #nonbinary </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7248320063156063531" rel="alternate"/>
     <published>2023-06-24T18:23:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7248721174119779630</id>
+    <title>#stitch with @Dollar Tree Dinners these were so good! #solardidsystem #sszenith #drexelskitchen </title>
+    <updated>2023-06-25T20:20:33+00:00</updated>
+    <content>#stitch with @Dollar Tree Dinners these were so good! #solardidsystem #sszenith #drexelskitchen </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7248721174119779630" rel="alternate"/>
+    <published>2023-06-25T20:20:33+00:00</published>
   </entry>
 </feed>
