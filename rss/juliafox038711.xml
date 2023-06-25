@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@juliafox038711</id>
   <title>@juliafox038711 | TikTok</title>
-  <updated>2023-06-21T02:05:47+00:00</updated>
+  <updated>2023-06-25T04:20:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juliafox038711</subtitle>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7240615870421077290</id>
-    <title>thank god for communication skills 💪🏼</title>
-    <updated>2023-06-04T00:07:47+00:00</updated>
-    <content>thank god for communication skills 💪🏼</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7240615870421077290" rel="alternate"/>
-    <published>2023-06-04T00:07:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@juliafox038711/video/7242062881594903851</id>
     <title>would love a facial piercing but absolutly terrified of them</title>
@@ -91,5 +83,13 @@
     <content>nails done by ryeligh </content>
     <link href="https://tiktok.com/@juliafox038711/video/7246954734253280555" rel="alternate"/>
     <published>2023-06-21T02:05:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7248473722498272558</id>
+    <title>lake dayy 🛥️ #foryou #vacation </title>
+    <updated>2023-06-25T04:20:40+00:00</updated>
+    <content>lake dayy 🛥️ #foryou #vacation </content>
+    <link href="https://tiktok.com/@juliafox038711/video/7248473722498272558" rel="alternate"/>
+    <published>2023-06-25T04:20:40+00:00</published>
   </entry>
 </feed>
