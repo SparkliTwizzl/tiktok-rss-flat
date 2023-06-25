@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pinkmantaray</id>
   <title>@pinkmantaray | TikTok</title>
-  <updated>2023-06-22T02:47:18+00:00</updated>
+  <updated>2023-06-25T00:30:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @pinkmantaray</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pinkmantaray/video/7238346587804552490</id>
-    <title>Replying to @Toad Trans women do NOT threaten women's sports. If you want to learn more, come to my workshop about trans athletes tomorrow at 6pm ET - pinkmantaray.com/workshops to sign up. #transathlete #trans #transgender #womenssports #gender #transwom</title>
-    <updated>2023-05-28T21:21:44+00:00</updated>
-    <content>Replying to @Toad Trans women do NOT threaten women's sports. If you want to learn more, come to my workshop about trans athletes tomorrow at 6pm ET - pinkmantaray.com/workshops to sign up. #transathlete #trans #transgender #womenssports #gender #transwomenarewomen #transwomen #transathletesbelonginsports #inclusion #dei #sports </content>
-    <link href="https://tiktok.com/@pinkmantaray/video/7238346587804552490" rel="alternate"/>
-    <published>2023-05-28T21:21:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pinkmantaray/video/7240565631320329515</id>
     <title>Happy, fighting, celebrating, protesting, remembering, paying-tribute-to Pride. Never forget the trans and queer women of color who began Pride. Never forget that Pride began as a riot against police brutality. Never forget that we know who we are. Allies</title>
@@ -91,5 +83,13 @@
     <content>Day 1 of audiobook recording is done! Preorder my book at hstbook.com 💕🏳️‍⚧️ #transgender #transauthors #transman #trans #audiobook #gender #lgbtq #genderliteracy #transliteracy #transrights </content>
     <link href="https://tiktok.com/@pinkmantaray/video/7247336515355921707" rel="alternate"/>
     <published>2023-06-22T02:47:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pinkmantaray/video/7248414468634348843</id>
+    <title>Surprise 💍 @Sarah 🧿 سِرا  #justmarried #weddingtok #transjoy #queercouple #queerlove </title>
+    <updated>2023-06-25T00:30:20+00:00</updated>
+    <content>Surprise 💍 @Sarah 🧿 سِرا  #justmarried #weddingtok #transjoy #queercouple #queerlove </content>
+    <link href="https://tiktok.com/@pinkmantaray/video/7248414468634348843" rel="alternate"/>
+    <published>2023-06-25T00:30:20+00:00</published>
   </entry>
 </feed>
