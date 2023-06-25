@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avocadosnaliens</id>
   <title>@avocadosnaliens | TikTok</title>
-  <updated>2023-06-24T16:09:52+00:00</updated>
+  <updated>2023-06-25T19:45:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avocadosnaliens</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avocadosnaliens/video/7241951338953968942</id>
-    <title>So beyond excited for “unknown” to come out. @Hozier you are something special to me. Enjoy all the awkward facial expressions 🤠</title>
-    <updated>2023-06-07T14:30:19+00:00</updated>
-    <content>So beyond excited for “unknown” to come out. @Hozier you are something special to me. Enjoy all the awkward facial expressions 🤠</content>
-    <link href="https://tiktok.com/@avocadosnaliens/video/7241951338953968942" rel="alternate"/>
-    <published>2023-06-07T14:30:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avocadosnaliens/video/7242031904235670830</id>
     <title>@rose_anvil just sent me their 3rd camera attachment prototype they’re launching soon and im SCREAMING. Ive dreamed of this attachement since i got the harness and wowowow time to go shoot some film #filmphotographer #photographersoftiktok #photographerch</title>
@@ -91,5 +83,13 @@
     <content>TAHOE WEDDING DAYYYYYY (i love my job so much) more content to come. Its been an off few days. My car is out of commission after spending $700 to fix it, my second shooter up and bailed, the hotel i booked is an hour away from the venue becuase im adhd riddled and didnt check before booking… BUT we make the best of our days. And today i get to ride up a private mountain to shoot where many car commercials have been made, i get to kayak out to the middle of a private lake becuase my clients are doing their first dance on a rock in the middle of it and i get to eat good food with amazing peope. Lifes ok in fact it couldnt be better. Sorry ive been bad at posting but heres some medicore content (im running out of clothing yall) I love you all🫶</content>
     <link href="https://tiktok.com/@avocadosnaliens/video/7248285473796394282" rel="alternate"/>
     <published>2023-06-24T16:09:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7248712258434403627</id>
+    <title>Yesterday was an actual dream. Beautiful weather, good company, waterfalls from the snow melt, tahoe mountains and a private pond. Couldnt have asked for a better day. See you in a month to do it all over again Tahoe! 🫶 #tahoewedding #laketahoe #weddingph</title>
+    <updated>2023-06-25T19:45:57+00:00</updated>
+    <content>Yesterday was an actual dream. Beautiful weather, good company, waterfalls from the snow melt, tahoe mountains and a private pond. Couldnt have asked for a better day. See you in a month to do it all over again Tahoe! 🫶 #tahoewedding #laketahoe #weddingphotographer #lovestory </content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7248712258434403627" rel="alternate"/>
+    <published>2023-06-25T19:45:57+00:00</published>
   </entry>
 </feed>
