@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-06-20T01:59:09+00:00</updated>
+  <updated>2023-06-25T21:16:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7238066025336622382</id>
-    <title>I put a funny voice over it so I’d stop crying</title>
-    <updated>2023-05-28T03:13:04+00:00</updated>
-    <content>I put a funny voice over it so I’d stop crying</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7238066025336622382" rel="alternate"/>
-    <published>2023-05-28T03:13:04+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7238100456977812779</id>
-    <title>Do you put anything special in your ramen</title>
-    <updated>2023-05-28T05:26:49+00:00</updated>
-    <content>Do you put anything special in your ramen</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7238100456977812779" rel="alternate"/>
-    <published>2023-05-28T05:26:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7238162200798432555</id>
     <title>Chose happiness </title>
@@ -91,5 +75,21 @@
     <content>I MISS YOU GUYS</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7246581925098507566" rel="alternate"/>
     <published>2023-06-20T01:59:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7248722452111658286</id>
+    <title>I can’t wait to get my mirrors and clothes into my house </title>
+    <updated>2023-06-25T20:25:30+00:00</updated>
+    <content>I can’t wait to get my mirrors and clothes into my house </content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7248722452111658286" rel="alternate"/>
+    <published>2023-06-25T20:25:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7248735633139666219</id>
+    <title>Kitchen reveal </title>
+    <updated>2023-06-25T21:16:38+00:00</updated>
+    <content>Kitchen reveal </content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7248735633139666219" rel="alternate"/>
+    <published>2023-06-25T21:16:38+00:00</published>
   </entry>
 </feed>
