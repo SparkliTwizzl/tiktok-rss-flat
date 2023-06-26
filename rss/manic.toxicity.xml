@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@manic.toxicity</id>
   <title>@manic.toxicity | TikTok</title>
-  <updated>2023-06-25T00:05:03+00:00</updated>
+  <updated>2023-06-26T19:32:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @manic.toxicity</subtitle>
-  <entry>
-    <id>https://tiktok.com/@manic.toxicity/video/7245019805957426478</id>
-    <title>bring her back or TAKE ME WITH HER #fyp #foryo </title>
-    <updated>2023-06-15T20:57:20+00:00</updated>
-    <content>bring her back or TAKE ME WITH HER #fyp #foryo </content>
-    <link href="https://tiktok.com/@manic.toxicity/video/7245019805957426478" rel="alternate"/>
-    <published>2023-06-15T20:57:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@manic.toxicity/video/7245435341337857322</id>
     <title>you made me hate this city. #fyp #foryou </title>
@@ -91,5 +83,13 @@
     <content>suga suga #fyp #foryou </content>
     <link href="https://tiktok.com/@manic.toxicity/video/7248407968629181739" rel="alternate"/>
     <published>2023-06-25T00:05:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@manic.toxicity/video/7249079913788034346</id>
+    <title>liar. #fyp #foryou </title>
+    <updated>2023-06-26T19:32:39+00:00</updated>
+    <content>liar. #fyp #foryou </content>
+    <link href="https://tiktok.com/@manic.toxicity/video/7249079913788034346" rel="alternate"/>
+    <published>2023-06-26T19:32:39+00:00</published>
   </entry>
 </feed>
