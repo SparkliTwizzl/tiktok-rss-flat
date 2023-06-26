@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-06-24T20:51:59+00:00</updated>
+  <updated>2023-06-26T21:51:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7241308280797105451</id>
-    <title>Fantasy is my safe space  #womeninarmor #knightcosplay #ladyknight #knightcore #fantasy #fantasycosplay #booktok </title>
-    <updated>2023-06-05T20:54:47+00:00</updated>
-    <content>Fantasy is my safe space  #womeninarmor #knightcosplay #ladyknight #knightcore #fantasy #fantasycosplay #booktok </content>
-    <link href="https://tiktok.com/@athena__cos/video/7241308280797105451" rel="alternate"/>
-    <published>2023-06-05T20:54:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7241364268161977646</id>
     <title>Ive wanted to share these beautiful moments for a while now, they’ve just felt so personal i’ve been selfishly keeping them to myself  @Dylanpool </title>
@@ -91,5 +83,13 @@
     <content>Some God aesthetic for all of you 💜 Persephone is @Raine Emery  Artemis is @Bella LeBaron  #goddesscosplay #gods #mythology #aesthetic #greekmythology </content>
     <link href="https://tiktok.com/@athena__cos/video/7248358202818170158" rel="alternate"/>
     <published>2023-06-24T20:51:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7249115691045997866</id>
+    <title>I call this the ✨ Olympus aesthetic✨  Artemis is @Bella LeBaron  Persephone is @Raine Emery  #greekmythology #greekgods #goddesscosplay </title>
+    <updated>2023-06-26T21:51:29+00:00</updated>
+    <content>I call this the ✨ Olympus aesthetic✨  Artemis is @Bella LeBaron  Persephone is @Raine Emery  #greekmythology #greekgods #goddesscosplay </content>
+    <link href="https://tiktok.com/@athena__cos/video/7249115691045997866" rel="alternate"/>
+    <published>2023-06-26T21:51:29+00:00</published>
   </entry>
 </feed>
