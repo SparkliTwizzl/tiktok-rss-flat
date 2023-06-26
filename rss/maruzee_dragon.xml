@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maruzee_dragon</id>
   <title>@maruzee_dragon | TikTok</title>
-  <updated>2023-06-23T02:09:22+00:00</updated>
+  <updated>2023-06-26T02:22:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maruzee_dragon</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maruzee_dragon/video/7241766663757024517</id>
-    <title>Adding a Martial Arts Twist to this TikTok Dance Trend!🥷 ⚠️PROPS|TRAINED PROFESSIONAL⚠️ #martialarts #trending </title>
-    <updated>2023-06-07T02:33:17+00:00</updated>
-    <content>Adding a Martial Arts Twist to this TikTok Dance Trend!🥷 ⚠️PROPS|TRAINED PROFESSIONAL⚠️ #martialarts #trending </content>
-    <link href="https://tiktok.com/@maruzee_dragon/video/7241766663757024517" rel="alternate"/>
-    <published>2023-06-07T02:33:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maruzee_dragon/video/7242133986967817477</id>
     <title>Réponse à @imbored1878  Listen up😂... I couldn't get my hands on Skarlet's costume that quickly, so I did my best improvising with what I had!! #trending #videogames #gamer </title>
@@ -91,5 +83,13 @@
     <content>Réponse à @shellshock209 Another one @MIMI 🕷🕸🖤 #spiderman #comics #transition #marvel </content>
     <link href="https://tiktok.com/@maruzee_dragon/video/7247697858244250886" rel="alternate"/>
     <published>2023-06-23T02:09:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maruzee_dragon/video/7248814396376419590</id>
+    <title>The split kick is back! It was challenging to pull off that kick without any momentum 🥲... But hey, when I unlock my inner Black Cat, there's no limit!😂 #martialarts #marvel #transition </title>
+    <updated>2023-06-26T02:22:05+00:00</updated>
+    <content>The split kick is back! It was challenging to pull off that kick without any momentum 🥲... But hey, when I unlock my inner Black Cat, there's no limit!😂 #martialarts #marvel #transition </content>
+    <link href="https://tiktok.com/@maruzee_dragon/video/7248814396376419590" rel="alternate"/>
+    <published>2023-06-26T02:22:05+00:00</published>
   </entry>
 </feed>
