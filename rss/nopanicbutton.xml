@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@nopanicbutton</id>
   <title>@nopanicbutton | TikTok</title>
-  <updated>2023-06-23T21:26:30+00:00</updated>
+  <updated>2023-06-26T20:38:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @nopanicbutton</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nopanicbutton/video/7240201452856249646</id>
-    <title>I wish people would just leave my balls alone! #handsoff #nonosquare #notouchie </title>
-    <updated>2023-06-02T21:19:41+00:00</updated>
-    <content>I wish people would just leave my balls alone! #handsoff #nonosquare #notouchie </content>
-    <link href="https://tiktok.com/@nopanicbutton/video/7240201452856249646" rel="alternate"/>
-    <published>2023-06-02T21:19:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nopanicbutton/video/7241321880303488298</id>
     <title>Alcohol just lets you trade one kind of pain for another. #batcheloretteparty </title>
@@ -91,5 +83,13 @@
     <content>It's important to let the smith know what you want the blade to do. Money is nice too! #bitcoinpayment #moneyopensdoorsandcloseseyes </content>
     <link href="https://tiktok.com/@nopanicbutton/video/7247996017218473259" rel="alternate"/>
     <published>2023-06-23T21:26:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nopanicbutton/video/7249096907547610410</id>
+    <title>Yes, he swallowed the ear plugs. This one may need to come back in a few years. #blessyourheart #special </title>
+    <updated>2023-06-26T20:38:36+00:00</updated>
+    <content>Yes, he swallowed the ear plugs. This one may need to come back in a few years. #blessyourheart #special </content>
+    <link href="https://tiktok.com/@nopanicbutton/video/7249096907547610410" rel="alternate"/>
+    <published>2023-06-26T20:38:36+00:00</published>
   </entry>
 </feed>
