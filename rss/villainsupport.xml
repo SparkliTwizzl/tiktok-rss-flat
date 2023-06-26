@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@villainsupport</id>
   <title>@villainsupport | TikTok</title>
-  <updated>2023-06-26T20:02:04+00:00</updated>
+  <updated>2023-06-26T21:32:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @villainsupport</subtitle>
-  <entry>
-    <id>https://tiktok.com/@villainsupport/video/7242746527507025194</id>
-    <title>#predator #alien #disney #princess #acmetok #acmevillainsupport </title>
-    <updated>2023-06-09T17:55:47+00:00</updated>
-    <content>#predator #alien #disney #princess #acmetok #acmevillainsupport </content>
-    <link href="https://tiktok.com/@villainsupport/video/7242746527507025194" rel="alternate"/>
-    <published>2023-06-09T17:55:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@villainsupport/video/7244298787114503466</id>
     <title>#dbz #myheroacademia #trunks #buu #deadpool #ghostrider #acmetok #acmevillainsupport </title>
@@ -91,5 +83,13 @@
     <content>Use discount code VILLAIN for 20% off your #plutocase ! @Pluto Case #villain #acmetok #acmevillainsupport </content>
     <link href="https://tiktok.com/@villainsupport/video/7249087519088741674" rel="alternate"/>
     <published>2023-06-26T20:02:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@villainsupport/video/7249110720082644267</id>
+    <title>#deathnote #lightyagami #fourthwall #mib #meninblack #neuralyzer #acmetok #acmevillainsupport </title>
+    <updated>2023-06-26T21:32:09+00:00</updated>
+    <content>#deathnote #lightyagami #fourthwall #mib #meninblack #neuralyzer #acmetok #acmevillainsupport </content>
+    <link href="https://tiktok.com/@villainsupport/video/7249110720082644267" rel="alternate"/>
+    <published>2023-06-26T21:32:09+00:00</published>
   </entry>
 </feed>
