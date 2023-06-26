@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@mikaelaistired</id>
   <title>@mikaelaistired | TikTok</title>
-  <updated>2023-06-25T19:31:00+00:00</updated>
+  <updated>2023-06-26T14:05:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @mikaelaistired</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mikaelaistired/video/7247502337059671338</id>
-    <title>what an interesting study</title>
-    <updated>2023-06-22T13:31:07+00:00</updated>
-    <content>what an interesting study</content>
-    <link href="https://tiktok.com/@mikaelaistired/video/7247502337059671338" rel="alternate"/>
-    <published>2023-06-22T13:31:07+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mikaelaistired/video/7247580172327619886</id>
-    <title>That was important </title>
-    <updated>2023-06-22T18:32:49+00:00</updated>
-    <content>That was important </content>
-    <link href="https://tiktok.com/@mikaelaistired/video/7247580172327619886" rel="alternate"/>
-    <published>2023-06-22T18:32:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mikaelaistired/video/7247882165919255850</id>
     <title>Its me</title>
@@ -91,5 +75,21 @@
     <content>#stitch with @Mikaela ✨  update update</content>
     <link href="https://tiktok.com/@mikaelaistired/video/7248708406490582318" rel="alternate"/>
     <published>2023-06-25T19:31:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mikaelaistired/video/7248985689717493034</id>
+    <title>Absolutely 🌶️</title>
+    <updated>2023-06-26T13:27:08+00:00</updated>
+    <content>Absolutely 🌶️</content>
+    <link href="https://tiktok.com/@mikaelaistired/video/7248985689717493034" rel="alternate"/>
+    <published>2023-06-26T13:27:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mikaelaistired/video/7248995539138661678</id>
+    <title>Hey there</title>
+    <updated>2023-06-26T14:05:20+00:00</updated>
+    <content>Hey there</content>
+    <link href="https://tiktok.com/@mikaelaistired/video/7248995539138661678" rel="alternate"/>
+    <published>2023-06-26T14:05:20+00:00</published>
   </entry>
 </feed>
