@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jacobtheseahorse</id>
   <title>@jacobtheseahorse | TikTok</title>
-  <updated>2023-06-26T13:27:20+00:00</updated>
+  <updated>2023-06-26T14:15:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jacobtheseahorse</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7245659588803054875</id>
-    <title>you deserve friends who are thankful that you look after yourself  🥄🥄🥄 my name is funky at the moment as I'm trying to set up my shop. I'll be back to being Papa Seahorse soon! #disabled #invisibleillness #adhd #audhd #actuallyautistic #greenflag #queerto</title>
-    <updated>2023-06-17T14:19:53+00:00</updated>
-    <content>you deserve friends who are thankful that you look after yourself  🥄🥄🥄 my name is funky at the moment as I'm trying to set up my shop. I'll be back to being Papa Seahorse soon! #disabled #invisibleillness #adhd #audhd #actuallyautistic #greenflag #queertok </content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7245659588803054875" rel="alternate"/>
-    <published>2023-06-17T14:19:53+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jacobtheseahorse/video/7245908397411880219</id>
     <title>my goodness this gave my brain a deep itch that I didn't know I needed. treasure hunting makes endorphins go brrrr besties please stay safe! other important things to bring: suncream towel water snacks you know your own sensory needs to make sure you look</title>
@@ -91,5 +83,13 @@
     <content>Replying to @sofia_nafplio trans people are allowed to have kids just like anyone else.  #trans #transpregnancy #pregnancy #midwife #doula #perinatal #transition #ftm #lgbt #queer </content>
     <link href="https://tiktok.com/@jacobtheseahorse/video/7248985807292255515" rel="alternate"/>
     <published>2023-06-26T13:27:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7248998325096172826</id>
+    <title>Replying to @chickaboom1234 both of my pregnancies were planned so I had stopped testosterone in advance.  I then resumed hormones a few months after giving birth 🥰 #trans #testosterone #fertility #transpregnancy #pregnancy #hormones #hrt </title>
+    <updated>2023-06-26T14:15:57+00:00</updated>
+    <content>Replying to @chickaboom1234 both of my pregnancies were planned so I had stopped testosterone in advance.  I then resumed hormones a few months after giving birth 🥰 #trans #testosterone #fertility #transpregnancy #pregnancy #hormones #hrt </content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7248998325096172826" rel="alternate"/>
+    <published>2023-06-26T14:15:57+00:00</published>
   </entry>
 </feed>
