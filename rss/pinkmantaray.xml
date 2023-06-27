@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pinkmantaray</id>
   <title>@pinkmantaray | TikTok</title>
-  <updated>2023-06-26T01:04:02+00:00</updated>
+  <updated>2023-06-27T01:10:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @pinkmantaray</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pinkmantaray/video/7244267990600912171</id>
-    <title>[no title]</title>
-    <updated>2023-06-13T20:19:46+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@pinkmantaray/video/7244267990600912171" rel="alternate"/>
-    <published>2023-06-13T20:19:46+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pinkmantaray/video/7245416537279040814</id>
     <title>So-called "Trans Exclusionary Radical Feminism" or "TERF" ideology is most certainly exclusion - and absolutely NOT feminism. On my podcast this week, I answered several listener questions like this one. I really enjoyed making this episode because I got </title>
@@ -91,5 +83,13 @@
     <content>#duet with @Nadya Okamoto  and @ruby🌙 were amazing supports, helping us announce our marriage yesterday, we love you! ❤️❤️❤️ #married #couplegoals #transjoy #queerlove #pridemonth </content>
     <link href="https://tiktok.com/@pinkmantaray/video/7248794222810254635" rel="alternate"/>
     <published>2023-06-26T01:04:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pinkmantaray/video/7249167072792415531</id>
+    <title>Some thoughts about @lancearmstrong's newest series! Learn more by attending a workshop: pinkmantaray.com/workshops 💕🏳️‍⚧️ #transathlete #transgender #gender #womenssports </title>
+    <updated>2023-06-27T01:10:46+00:00</updated>
+    <content>Some thoughts about @lancearmstrong's newest series! Learn more by attending a workshop: pinkmantaray.com/workshops 💕🏳️‍⚧️ #transathlete #transgender #gender #womenssports </content>
+    <link href="https://tiktok.com/@pinkmantaray/video/7249167072792415531" rel="alternate"/>
+    <published>2023-06-27T01:10:46+00:00</published>
   </entry>
 </feed>
