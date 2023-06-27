@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jacobtheseahorse</id>
   <title>@jacobtheseahorse | TikTok</title>
-  <updated>2023-06-27T15:04:26+00:00</updated>
+  <updated>2023-06-27T18:16:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jacobtheseahorse</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7247241256500202778</id>
-    <title>Replying to @trooniacs If you have these opinions then I know your fyp is filled with righteous people telling all kinds of untruths about trans people.  I know you have the ability to see past those lies and use critical thinking and engage your compassi</title>
-    <updated>2023-06-21T20:37:32+00:00</updated>
-    <content>Replying to @trooniacs If you have these opinions then I know your fyp is filled with righteous people telling all kinds of untruths about trans people.  I know you have the ability to see past those lies and use critical thinking and engage your compassion. we are real people, living real beautiful lives.  #trans #cis #slur #transphobia #translivesmatter #lgbt #lgbtq #queertok </content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7247241256500202778" rel="alternate"/>
-    <published>2023-06-21T20:37:32+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jacobtheseahorse/video/7247528212199132442</id>
     <title>my thoughts go to the families, I wouldn't wish the media scrutiny on anyone during a time of such intense grieving.  but more than that, my thoughts go to the untold stories and the *mistold* stories of people who don't have the resources to live safely,</title>
@@ -91,5 +83,13 @@
     <content>Replying to @the.thick.n.sick.chick thanks for asking! always happy to answer questions. also while we're here, cis isn't an acronym so doesn't need to be capitalised! #cis #trans #language #lgbt </content>
     <link href="https://tiktok.com/@jacobtheseahorse/video/7249381925318577434" rel="alternate"/>
     <published>2023-06-27T15:04:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7249431401286618395</id>
+    <title>Replying to @docdadfoodie I'm not going to talk about my body specifically, but you can't assume someone's surgery status based on what they do or don't do with their body. #trans #lowersurgery #bottomsurgeryftm #pregnancy #birth #transition </title>
+    <updated>2023-06-27T18:16:27+00:00</updated>
+    <content>Replying to @docdadfoodie I'm not going to talk about my body specifically, but you can't assume someone's surgery status based on what they do or don't do with their body. #trans #lowersurgery #bottomsurgeryftm #pregnancy #birth #transition </content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7249431401286618395" rel="alternate"/>
+    <published>2023-06-27T18:16:27+00:00</published>
   </entry>
 </feed>
