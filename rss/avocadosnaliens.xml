@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avocadosnaliens</id>
   <title>@avocadosnaliens | TikTok</title>
-  <updated>2023-06-25T19:45:57+00:00</updated>
+  <updated>2023-06-27T04:19:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avocadosnaliens</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avocadosnaliens/video/7242031904235670830</id>
-    <title>@rose_anvil just sent me their 3rd camera attachment prototype they’re launching soon and im SCREAMING. Ive dreamed of this attachement since i got the harness and wowowow time to go shoot some film #filmphotographer #photographersoftiktok #photographerch</title>
-    <updated>2023-06-07T19:42:42+00:00</updated>
-    <content>@rose_anvil just sent me their 3rd camera attachment prototype they’re launching soon and im SCREAMING. Ive dreamed of this attachement since i got the harness and wowowow time to go shoot some film #filmphotographer #photographersoftiktok #photographercheck #photography101 </content>
-    <link href="https://tiktok.com/@avocadosnaliens/video/7242031904235670830" rel="alternate"/>
-    <published>2023-06-07T19:42:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avocadosnaliens/video/7242058579706973482</id>
     <title>Replying to @Needgothgfxd  </title>
@@ -91,5 +83,13 @@
     <content>Yesterday was an actual dream. Beautiful weather, good company, waterfalls from the snow melt, tahoe mountains and a private pond. Couldnt have asked for a better day. See you in a month to do it all over again Tahoe! 🫶 #tahoewedding #laketahoe #weddingphotographer #lovestory </content>
     <link href="https://tiktok.com/@avocadosnaliens/video/7248712258434403627" rel="alternate"/>
     <published>2023-06-25T19:45:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7249215791323712814</id>
+    <title>#stitch with @Kurt Russell #greenscreen </title>
+    <updated>2023-06-27T04:19:47+00:00</updated>
+    <content>#stitch with @Kurt Russell #greenscreen </content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7249215791323712814" rel="alternate"/>
+    <published>2023-06-27T04:19:47+00:00</published>
   </entry>
 </feed>
