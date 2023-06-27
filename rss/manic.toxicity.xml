@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@manic.toxicity</id>
   <title>@manic.toxicity | TikTok</title>
-  <updated>2023-06-26T19:32:39+00:00</updated>
+  <updated>2023-06-27T20:29:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @manic.toxicity</subtitle>
-  <entry>
-    <id>https://tiktok.com/@manic.toxicity/video/7245435341337857322</id>
-    <title>you made me hate this city. #fyp #foryou </title>
-    <updated>2023-06-16T23:49:43+00:00</updated>
-    <content>you made me hate this city. #fyp #foryou </content>
-    <link href="https://tiktok.com/@manic.toxicity/video/7245435341337857322" rel="alternate"/>
-    <published>2023-06-16T23:49:43+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@manic.toxicity/video/7245736716634672430</id>
-    <title>whats up, danger? #fyp #foryou #intothespiderverse #spiderverse #spiderman </title>
-    <updated>2023-06-17T19:19:21+00:00</updated>
-    <content>whats up, danger? #fyp #foryou #intothespiderverse #spiderverse #spiderman </content>
-    <link href="https://tiktok.com/@manic.toxicity/video/7245736716634672430" rel="alternate"/>
-    <published>2023-06-17T19:19:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@manic.toxicity/video/7245738958141902123</id>
     <title>im so fucking exicted for @Dexter &amp; The Moonrocks to drop this 😭😭💀✨ (the presave link is in their bio ;) ! ) #fyp #foryou </title>
@@ -91,5 +75,21 @@
     <content>liar. #fyp #foryou </content>
     <link href="https://tiktok.com/@manic.toxicity/video/7249079913788034346" rel="alternate"/>
     <published>2023-06-26T19:32:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@manic.toxicity/video/7249464724025281834</id>
+    <title>the new transistion that i forgot to post 💀 #fyp #foryou </title>
+    <updated>2023-06-27T20:25:53+00:00</updated>
+    <content>the new transistion that i forgot to post 💀 #fyp #foryou </content>
+    <link href="https://tiktok.com/@manic.toxicity/video/7249464724025281834" rel="alternate"/>
+    <published>2023-06-27T20:25:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@manic.toxicity/video/7249465638224153898</id>
+    <title>youre toxic. #fyp #foryou </title>
+    <updated>2023-06-27T20:29:23+00:00</updated>
+    <content>youre toxic. #fyp #foryou </content>
+    <link href="https://tiktok.com/@manic.toxicity/video/7249465638224153898" rel="alternate"/>
+    <published>2023-06-27T20:29:23+00:00</published>
   </entry>
 </feed>
