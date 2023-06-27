@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jacobtheseahorse</id>
   <title>@jacobtheseahorse | TikTok</title>
-  <updated>2023-06-27T18:16:27+00:00</updated>
+  <updated>2023-06-27T22:02:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jacobtheseahorse</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7247528212199132442</id>
-    <title>my thoughts go to the families, I wouldn't wish the media scrutiny on anyone during a time of such intense grieving.  but more than that, my thoughts go to the untold stories and the *mistold* stories of people who don't have the resources to live safely,</title>
-    <updated>2023-06-22T15:11:07+00:00</updated>
-    <content>my thoughts go to the families, I wouldn't wish the media scrutiny on anyone during a time of such intense grieving.  but more than that, my thoughts go to the untold stories and the *mistold* stories of people who don't have the resources to live safely, let alone the resources for expensive willful recklessness. #submarine #submersible #titan #titanic #opinion</content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7247528212199132442" rel="alternate"/>
-    <published>2023-06-22T15:11:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jacobtheseahorse/video/7247889803247684891</id>
     <title>Replying to @clothbummum_insta the good news is - nobody identifies as a cat!  the bad news is - the right wing press are determined to create horrible, fake propaganda stories about trans people. #trans #lgbt #cat #identity #media #news #breaking #transg</title>
@@ -91,5 +83,13 @@
     <content>Replying to @docdadfoodie I'm not going to talk about my body specifically, but you can't assume someone's surgery status based on what they do or don't do with their body. #trans #lowersurgery #bottomsurgeryftm #pregnancy #birth #transition </content>
     <link href="https://tiktok.com/@jacobtheseahorse/video/7249431401286618395" rel="alternate"/>
     <published>2023-06-27T18:16:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7249489543349439770</id>
+    <title>Replying to @amn987123 I'm definitely happy to deep dive into these ideas more.  ultimately, any words you put on top of the human experience are going to be limited. people's gender experiences are more vast than we have language for!  #trans #gender #se</title>
+    <updated>2023-06-27T22:02:09+00:00</updated>
+    <content>Replying to @amn987123 I'm definitely happy to deep dive into these ideas more.  ultimately, any words you put on top of the human experience are going to be limited. people's gender experiences are more vast than we have language for!  #trans #gender #sex #lgbt #genderaffirming #surgery #genderbend #queer #social #construction </content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7249489543349439770" rel="alternate"/>
+    <published>2023-06-27T22:02:09+00:00</published>
   </entry>
 </feed>
