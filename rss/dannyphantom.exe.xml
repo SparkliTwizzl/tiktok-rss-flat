@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dannyphantom.exe</id>
   <title>@dannyphantom.exe | TikTok</title>
-  <updated>2023-06-26T02:17:34+00:00</updated>
+  <updated>2023-06-27T02:16:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dannyphantom.exe</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7246586517420838186</id>
-    <title>#stitch with @Kevin Leonardo 😐😐😐😐😐😐😐😐😐😐😐</title>
-    <updated>2023-06-20T02:16:53+00:00</updated>
-    <content>#stitch with @Kevin Leonardo 😐😐😐😐😐😐😐😐😐😐😐</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7246586517420838186" rel="alternate"/>
-    <published>2023-06-20T02:16:53+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dannyphantom.exe/video/7247328252644035886</id>
     <title>tag someone who does this</title>
@@ -91,5 +83,13 @@
     <content>tag someone who knows YOUR social cues</content>
     <link href="https://tiktok.com/@dannyphantom.exe/video/7248813195933060394" rel="alternate"/>
     <published>2023-06-26T02:17:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7249183942622956846</id>
+    <title>#stitch with @Negative 25 </title>
+    <updated>2023-06-27T02:16:18+00:00</updated>
+    <content>#stitch with @Negative 25 </content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7249183942622956846" rel="alternate"/>
+    <published>2023-06-27T02:16:18+00:00</published>
   </entry>
 </feed>

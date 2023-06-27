@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-06-26T13:31:06+00:00</updated>
+  <updated>2023-06-27T01:09:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7243766259601460485</id>
-    <title>I'll be bringing this character to FanExpo this August in Toronto  #wonderlandcosplay #wonderland #darkwonderland #cosplay </title>
-    <updated>2023-06-12T11:52:43+00:00</updated>
-    <content>I'll be bringing this character to FanExpo this August in Toronto  #wonderlandcosplay #wonderland #darkwonderland #cosplay </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7243766259601460485" rel="alternate"/>
-    <published>2023-06-12T11:52:43+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7243797616473967878</id>
     <title>love this cover ❤️ #maladytheclown #clown #onestepcloser </title>
@@ -91,5 +83,13 @@
     <content>song @candi carpenter #maladytheclown </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7248986803141643525" rel="alternate"/>
     <published>2023-06-26T13:31:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7249166804751338757</id>
+    <title>#onthisday #maladytheclown </title>
+    <updated>2023-06-27T01:09:37+00:00</updated>
+    <content>#onthisday #maladytheclown </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7249166804751338757" rel="alternate"/>
+    <published>2023-06-27T01:09:37+00:00</published>
   </entry>
 </feed>
