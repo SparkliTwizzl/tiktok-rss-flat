@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jacobtheseahorse</id>
   <title>@jacobtheseahorse | TikTok</title>
-  <updated>2023-06-27T11:26:17+00:00</updated>
+  <updated>2023-06-27T15:04:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jacobtheseahorse</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7246770565841685787</id>
-    <title>we celebrate father's Day (and mother's day and all the special days) as family day and this pretty much sums up why #dad #fathersday #fatherhood #happyfathersday #trans #lgbt #queerdad</title>
-    <updated>2023-06-20T14:11:05+00:00</updated>
-    <content>we celebrate father's Day (and mother's day and all the special days) as family day and this pretty much sums up why #dad #fathersday #fatherhood #happyfathersday #trans #lgbt #queerdad</content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7246770565841685787" rel="alternate"/>
-    <published>2023-06-20T14:11:05+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7246881886541204763</id>
-    <title>Replying to @trooniacs the hate for the word "cis" has been manufactured by people who want us in-fighting instead of working together.  it's a really harmless word that just describes a subset of people #cis #trans #gender #lgbt #transrights #people #que</title>
-    <updated>2023-06-20T21:23:06+00:00</updated>
-    <content>Replying to @trooniacs the hate for the word "cis" has been manufactured by people who want us in-fighting instead of working together.  it's a really harmless word that just describes a subset of people #cis #trans #gender #lgbt #transrights #people #question </content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7246881886541204763" rel="alternate"/>
-    <published>2023-06-20T21:23:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jacobtheseahorse/video/7247241256500202778</id>
     <title>Replying to @trooniacs If you have these opinions then I know your fyp is filled with righteous people telling all kinds of untruths about trans people.  I know you have the ability to see past those lies and use critical thinking and engage your compassi</title>
@@ -91,5 +75,21 @@
     <content>you deserve kindness but if you can't manage to give yourself that today, settle for kicking some critical ass instead #mentalhealth #critic #innercritic #kindness #compassion #lgbt #therapy </content>
     <link href="https://tiktok.com/@jacobtheseahorse/video/7249325703500401947" rel="alternate"/>
     <published>2023-06-27T11:26:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7249354171596410138</id>
+    <title>Replying to @mamabear_4200 who I am, who I love and what body parts I have are all separate things 🥰 if you have more questions don't hesitate to ask! #trans #sex #intersex #gender #sexuality #gay #lesbian #bi #lgbt #lgbtq </title>
+    <updated>2023-06-27T13:16:45+00:00</updated>
+    <content>Replying to @mamabear_4200 who I am, who I love and what body parts I have are all separate things 🥰 if you have more questions don't hesitate to ask! #trans #sex #intersex #gender #sexuality #gay #lesbian #bi #lgbt #lgbtq </content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7249354171596410138" rel="alternate"/>
+    <published>2023-06-27T13:16:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7249381925318577434</id>
+    <title>Replying to @the.thick.n.sick.chick thanks for asking! always happy to answer questions. also while we're here, cis isn't an acronym so doesn't need to be capitalised! #cis #trans #language #lgbt </title>
+    <updated>2023-06-27T15:04:26+00:00</updated>
+    <content>Replying to @the.thick.n.sick.chick thanks for asking! always happy to answer questions. also while we're here, cis isn't an acronym so doesn't need to be capitalised! #cis #trans #language #lgbt </content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7249381925318577434" rel="alternate"/>
+    <published>2023-06-27T15:04:26+00:00</published>
   </entry>
 </feed>
