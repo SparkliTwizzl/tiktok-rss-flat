@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@nopanicbutton</id>
   <title>@nopanicbutton | TikTok</title>
-  <updated>2023-06-26T20:38:36+00:00</updated>
+  <updated>2023-06-28T20:52:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @nopanicbutton</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nopanicbutton/video/7241321880303488298</id>
-    <title>Alcohol just lets you trade one kind of pain for another. #batcheloretteparty </title>
-    <updated>2023-06-05T21:47:28+00:00</updated>
-    <content>Alcohol just lets you trade one kind of pain for another. #batcheloretteparty </content>
-    <link href="https://tiktok.com/@nopanicbutton/video/7241321880303488298" rel="alternate"/>
-    <published>2023-06-05T21:47:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nopanicbutton/video/7242056238920535342</id>
     <title>What happens when Boss's boss leaves him unsupervised?</title>
@@ -91,5 +83,13 @@
     <content>Yes, he swallowed the ear plugs. This one may need to come back in a few years. #blessyourheart #special </content>
     <link href="https://tiktok.com/@nopanicbutton/video/7249096907547610410" rel="alternate"/>
     <published>2023-06-26T20:38:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nopanicbutton/video/7249842717050621230</id>
+    <title>Why such a macabre souvenir tho? #why #oddflex #ifIdieofEbolaimgonnahauntyou </title>
+    <updated>2023-06-28T20:52:34+00:00</updated>
+    <content>Why such a macabre souvenir tho? #why #oddflex #ifIdieofEbolaimgonnahauntyou </content>
+    <link href="https://tiktok.com/@nopanicbutton/video/7249842717050621230" rel="alternate"/>
+    <published>2023-06-28T20:52:34+00:00</published>
   </entry>
 </feed>
