@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@villainsupport</id>
   <title>@villainsupport | TikTok</title>
-  <updated>2023-06-27T19:38:36+00:00</updated>
+  <updated>2023-06-28T19:40:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @villainsupport</subtitle>
-  <entry>
-    <id>https://tiktok.com/@villainsupport/video/7244647153270918442</id>
-    <title>#darthvader #starwars #acmetok #acmevillainsupport </title>
-    <updated>2023-06-14T20:51:14+00:00</updated>
-    <content>#darthvader #starwars #acmetok #acmevillainsupport </content>
-    <link href="https://tiktok.com/@villainsupport/video/7244647153270918442" rel="alternate"/>
-    <published>2023-06-14T20:51:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@villainsupport/video/7245348919662644523</id>
     <title>#thanos #johnwick #soulstone #acmetok #acmevillainsupport </title>
@@ -91,5 +83,13 @@
     <content>What do you think is happening? Will Ditto be able to handle All for Kirbuu? #pokemon #giovanni #teamrocket #ditto #allforone #mha #buu #dbz #kirby #nintendo #acmetok #acmevillainsupport</content>
     <link href="https://tiktok.com/@villainsupport/video/7249452552255802666" rel="alternate"/>
     <published>2023-06-27T19:38:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@villainsupport/video/7249824079279148334</id>
+    <title>What do YOU think will happen? #allforone #buu #kirbyandtheforgottenland #buu #kirby #nintendo #mha </title>
+    <updated>2023-06-28T19:40:18+00:00</updated>
+    <content>What do YOU think will happen? #allforone #buu #kirbyandtheforgottenland #buu #kirby #nintendo #mha </content>
+    <link href="https://tiktok.com/@villainsupport/video/7249824079279148334" rel="alternate"/>
+    <published>2023-06-28T19:40:18+00:00</published>
   </entry>
 </feed>
