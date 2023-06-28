@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-06-27T01:09:37+00:00</updated>
+  <updated>2023-06-28T13:47:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7243797616473967878</id>
-    <title>love this cover ❤️ #maladytheclown #clown #onestepcloser </title>
-    <updated>2023-06-12T13:54:23+00:00</updated>
-    <content>love this cover ❤️ #maladytheclown #clown #onestepcloser </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7243797616473967878" rel="alternate"/>
-    <published>2023-06-12T13:54:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7244645252273802501</id>
     <title>feel free to duet 🩵 #maladytheclown #clown #findingnemo #comedy</title>
@@ -91,5 +83,13 @@
     <content>#onthisday #maladytheclown </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7249166804751338757" rel="alternate"/>
     <published>2023-06-27T01:09:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7249733177428675845</id>
+    <title>#onthisday #maladytheclown #cosplayoc #dancesinshadows </title>
+    <updated>2023-06-28T13:47:24+00:00</updated>
+    <content>#onthisday #maladytheclown #cosplayoc #dancesinshadows </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7249733177428675845" rel="alternate"/>
+    <published>2023-06-28T13:47:24+00:00</published>
   </entry>
 </feed>
