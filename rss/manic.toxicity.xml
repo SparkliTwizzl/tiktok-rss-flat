@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@manic.toxicity</id>
   <title>@manic.toxicity | TikTok</title>
-  <updated>2023-06-27T20:29:23+00:00</updated>
+  <updated>2023-06-28T00:41:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @manic.toxicity</subtitle>
-  <entry>
-    <id>https://tiktok.com/@manic.toxicity/video/7245738958141902123</id>
-    <title>im so fucking exicted for @Dexter &amp; The Moonrocks to drop this 😭😭💀✨ (the presave link is in their bio ;) ! ) #fyp #foryou </title>
-    <updated>2023-06-17T19:28:02+00:00</updated>
-    <content>im so fucking exicted for @Dexter &amp; The Moonrocks to drop this 😭😭💀✨ (the presave link is in their bio ;) ! ) #fyp #foryou </content>
-    <link href="https://tiktok.com/@manic.toxicity/video/7245738958141902123" rel="alternate"/>
-    <published>2023-06-17T19:28:02+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@manic.toxicity/video/7246913110953495851</id>
     <title>Replying to @Robert Snyder blehhh :p #fyp #foryou </title>
@@ -91,5 +83,13 @@
     <content>youre toxic. #fyp #foryou </content>
     <link href="https://tiktok.com/@manic.toxicity/video/7249465638224153898" rel="alternate"/>
     <published>2023-06-27T20:29:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@manic.toxicity/video/7249530569485258027</id>
+    <title>twitch stream starts in 20 minutes! 8pm CST!  link to my channel is in my link tree!  go presave the new song by @Dexter &amp; The Moonrocks !!! releases july 14th ! #fyp #foryou </title>
+    <updated>2023-06-28T00:41:19+00:00</updated>
+    <content>twitch stream starts in 20 minutes! 8pm CST!  link to my channel is in my link tree!  go presave the new song by @Dexter &amp; The Moonrocks !!! releases july 14th ! #fyp #foryou </content>
+    <link href="https://tiktok.com/@manic.toxicity/video/7249530569485258027" rel="alternate"/>
+    <published>2023-06-28T00:41:19+00:00</published>
   </entry>
 </feed>

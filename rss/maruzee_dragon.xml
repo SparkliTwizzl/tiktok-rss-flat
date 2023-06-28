@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maruzee_dragon</id>
   <title>@maruzee_dragon | TikTok</title>
-  <updated>2023-06-26T02:22:05+00:00</updated>
+  <updated>2023-06-28T01:23:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maruzee_dragon</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maruzee_dragon/video/7242133986967817477</id>
-    <title>Réponse à @imbored1878  Listen up😂... I couldn't get my hands on Skarlet's costume that quickly, so I did my best improvising with what I had!! #trending #videogames #gamer </title>
-    <updated>2023-06-08T02:18:40+00:00</updated>
-    <content>Réponse à @imbored1878  Listen up😂... I couldn't get my hands on Skarlet's costume that quickly, so I did my best improvising with what I had!! #trending #videogames #gamer </content>
-    <link href="https://tiktok.com/@maruzee_dragon/video/7242133986967817477" rel="alternate"/>
-    <published>2023-06-08T02:18:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maruzee_dragon/video/7242505874390912261</id>
     <title>Hold on, Area Codes &amp; Pony?! #transition #martialarts #tricks </title>
@@ -91,5 +83,13 @@
     <content>The split kick is back! It was challenging to pull off that kick without any momentum 🥲... But hey, when I unlock my inner Black Cat, there's no limit!😂 #martialarts #marvel #transition </content>
     <link href="https://tiktok.com/@maruzee_dragon/video/7248814396376419590" rel="alternate"/>
     <published>2023-06-26T02:22:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maruzee_dragon/video/7249541505973554438</id>
+    <title>Pardon the basicness of this transition, but I had to show off my outfit 😅</title>
+    <updated>2023-06-28T01:23:39+00:00</updated>
+    <content>Pardon the basicness of this transition, but I had to show off my outfit 😅</content>
+    <link href="https://tiktok.com/@maruzee_dragon/video/7249541505973554438" rel="alternate"/>
+    <published>2023-06-28T01:23:39+00:00</published>
   </entry>
 </feed>
