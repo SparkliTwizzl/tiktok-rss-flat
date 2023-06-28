@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@tracksuitsandredwine_</id>
   <title>@tracksuitsandredwine_ | TikTok</title>
-  <updated>2023-06-25T05:42:45+00:00</updated>
+  <updated>2023-06-28T11:29:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @tracksuitsandredwine_</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tracksuitsandredwine_/video/7243221626148441345</id>
-    <title>bars</title>
-    <updated>2023-06-11T00:39:29+00:00</updated>
-    <content>bars</content>
-    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7243221626148441345" rel="alternate"/>
-    <published>2023-06-11T00:39:29+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tracksuitsandredwine_/video/7243660157140339969</id>
     <title>i love him and id sell my bones for him</title>
@@ -91,5 +83,13 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@tracksuitsandredwine_/video/7248494997241203970" rel="alternate"/>
     <published>2023-06-25T05:42:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tracksuitsandredwine_/video/7249697566504406273</id>
+    <title>this mans entire discography is spectacular. </title>
+    <updated>2023-06-28T11:29:18+00:00</updated>
+    <content>this mans entire discography is spectacular. </content>
+    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7249697566504406273" rel="alternate"/>
+    <published>2023-06-28T11:29:18+00:00</published>
   </entry>
 </feed>
