@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avocadosnaliens</id>
   <title>@avocadosnaliens | TikTok</title>
-  <updated>2023-06-27T04:19:47+00:00</updated>
+  <updated>2023-06-28T02:48:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avocadosnaliens</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avocadosnaliens/video/7242058579706973482</id>
-    <title>Replying to @Needgothgfxd  </title>
-    <updated>2023-06-07T21:26:09+00:00</updated>
-    <content>Replying to @Needgothgfxd  </content>
-    <link href="https://tiktok.com/@avocadosnaliens/video/7242058579706973482" rel="alternate"/>
-    <published>2023-06-07T21:26:09+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avocadosnaliens/video/7243076667067944235</id>
     <title>Bruh</title>
@@ -91,5 +83,13 @@
     <content>#stitch with @Kurt Russell #greenscreen </content>
     <link href="https://tiktok.com/@avocadosnaliens/video/7249215791323712814" rel="alternate"/>
     <published>2023-06-27T04:19:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7249563457794657582</id>
+    <title>[no title]</title>
+    <updated>2023-06-28T02:48:56+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7249563457794657582" rel="alternate"/>
+    <published>2023-06-28T02:48:56+00:00</published>
   </entry>
 </feed>
