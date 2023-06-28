@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kingfemme</id>
   <title>@kingfemme | TikTok</title>
-  <updated>2023-06-20T17:48:44+00:00</updated>
+  <updated>2023-06-28T17:30:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kingfemme</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kingfemme/video/7217181294617185578</id>
-    <title>Trans rights are human rights 🏳️‍⚧️ #hrt #drag #dragqueen #dragking #transgender #ftm #nonbinary #hrt #topsurgery #trans #lgbt #fyp #t4t #screammovie </title>
-    <updated>2023-04-01T20:29:37+00:00</updated>
-    <content>Trans rights are human rights 🏳️‍⚧️ #hrt #drag #dragqueen #dragking #transgender #ftm #nonbinary #hrt #topsurgery #trans #lgbt #fyp #t4t #screammovie </content>
-    <link href="https://tiktok.com/@kingfemme/video/7217181294617185578" rel="alternate"/>
-    <published>2023-04-01T20:29:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kingfemme/video/7224956790365031722</id>
     <title>My voice dysphoria is still a work in progress, but feeling very thankful for the progress ive seen this year 😭🫣💕#hrt #fyp #lgbt #trans #voiceupdateftm #voiceupdate #testosterone #nonbinary #gender #ftm #transgender #transmasc </title>
@@ -91,5 +83,13 @@
     <content>Where has the time gone 😭😭😭 im so unbelievably happpy now and feel endlessy comfortable with myself, my body and the person i authentically am 🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️ #fyp #nonbinary #mtf #ftm #lgbt #trans #hrt #topsurgery #testosteroneftm  </content>
     <link href="https://tiktok.com/@kingfemme/video/7246826620600798506" rel="alternate"/>
     <published>2023-06-20T17:48:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kingfemme/video/7249790730493791534</id>
+    <title>#queerlove #love #trans #VozDosCriadores #hrt #fyp #lgbt #loveislove #nonbinary #ftm #mtf #gendertransition </title>
+    <updated>2023-06-28T17:30:51+00:00</updated>
+    <content>#queerlove #love #trans #VozDosCriadores #hrt #fyp #lgbt #loveislove #nonbinary #ftm #mtf #gendertransition </content>
+    <link href="https://tiktok.com/@kingfemme/video/7249790730493791534" rel="alternate"/>
+    <published>2023-06-28T17:30:51+00:00</published>
   </entry>
 </feed>
