@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@charlesthegr8</id>
   <title>@charlesthegr8 | TikTok</title>
-  <updated>2023-06-26T22:28:48+00:00</updated>
+  <updated>2023-06-28T17:02:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @charlesthegr8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7244223828891618603</id>
-    <title>Always that on friend #iykyk #block #charlesthegr8 #4u </title>
-    <updated>2023-06-13T17:28:26+00:00</updated>
-    <content>Always that on friend #iykyk #block #charlesthegr8 #4u </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7244223828891618603" rel="alternate"/>
-    <published>2023-06-13T17:28:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@charlesthegr8/video/7244267740620524843</id>
     <title>Must funny dude 😂 #iykyk #fyp #charlesthegr8 </title>
@@ -91,5 +83,13 @@
     <content>Huge difference #iykyk #relationship #relatable #charlesthegr8 </content>
     <link href="https://tiktok.com/@charlesthegr8/video/7249125328122055978" rel="alternate"/>
     <published>2023-06-26T22:28:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7249783349353418030</id>
+    <title>Felt too real #iykyk #dream #charlesthegr8 </title>
+    <updated>2023-06-28T17:02:21+00:00</updated>
+    <content>Felt too real #iykyk #dream #charlesthegr8 </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7249783349353418030" rel="alternate"/>
+    <published>2023-06-28T17:02:21+00:00</published>
   </entry>
 </feed>
