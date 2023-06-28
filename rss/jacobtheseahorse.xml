@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jacobtheseahorse</id>
   <title>@jacobtheseahorse | TikTok</title>
-  <updated>2023-06-28T18:41:54+00:00</updated>
+  <updated>2023-06-28T21:35:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jacobtheseahorse</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7247994536872512794</id>
-    <title>#duet with @Ian #titan #titanic #titanicsinking #billionaire #toxicmasculinity</title>
-    <updated>2023-06-23T21:20:45+00:00</updated>
-    <content>#duet with @Ian #titan #titanic #titanicsinking #billionaire #toxicmasculinity</content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7247994536872512794" rel="alternate"/>
-    <published>2023-06-23T21:20:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jacobtheseahorse/video/7248158090074279195</id>
     <title>#stitch with @Dr Idz (MBBS, MRes, Dip IBLM) all 👏🏻 food 👏🏻 has 👏🏻 nutrition. I don't want my kids to have "guilty pleasures", I want them to enjoy the pleasure of their favourite foods while knowing they need other kinds of food too.  I want them to liste</title>
@@ -91,5 +83,13 @@
     <content>I haven't seen this viewpoint before and it felt really impactful #dancer #ballet #tumblr #trans #transkids #transyouth #transition </content>
     <link href="https://tiktok.com/@jacobtheseahorse/video/7249809051050069274" rel="alternate"/>
     <published>2023-06-28T18:41:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7249853730441399579</id>
+    <title>Replying to @sillyselys if the idea of being a nonbinary woman makes you feel good then go for it!  but there's no one way that your gender has to look based on your euphoria (and/dysphoria) also "gender is a journey" is a quote off my favourite t-shirt f</title>
+    <updated>2023-06-28T21:35:21+00:00</updated>
+    <content>Replying to @sillyselys if the idea of being a nonbinary woman makes you feel good then go for it!  but there's no one way that your gender has to look based on your euphoria (and/dysphoria) also "gender is a journey" is a quote off my favourite t-shirt from @Ren @ queerlittleshop  #trans #gender #cis #identity #lesbian #butch #queer </content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7249853730441399579" rel="alternate"/>
+    <published>2023-06-28T21:35:21+00:00</published>
   </entry>
 </feed>
