@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-06-27T16:56:34+00:00</updated>
+  <updated>2023-06-28T19:02:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7245787318467005738</id>
-    <title>Dont touch my Dr. Peppers #wweskits #sweetchinmusic #drpepper </title>
-    <updated>2023-06-17T22:35:41+00:00</updated>
-    <content>Dont touch my Dr. Peppers #wweskits #sweetchinmusic #drpepper </content>
-    <link href="https://tiktok.com/@punktoad/video/7245787318467005738" rel="alternate"/>
-    <published>2023-06-17T22:35:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7245975531169025323</id>
     <title>In my zone #truecrime #bookstore #barnesandnoble </title>
@@ -91,5 +83,13 @@
     <content>My biggest fan 🥹 #alwaysthere #lookingout #therealones </content>
     <link href="https://tiktok.com/@punktoad/video/7249410798865485098" rel="alternate"/>
     <published>2023-06-27T16:56:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7249814337559268651</id>
+    <title>Jamaican food Review! #delicious #jamaicanfood #pineapplechicken </title>
+    <updated>2023-06-28T19:02:35+00:00</updated>
+    <content>Jamaican food Review! #delicious #jamaicanfood #pineapplechicken </content>
+    <link href="https://tiktok.com/@punktoad/video/7249814337559268651" rel="alternate"/>
+    <published>2023-06-28T19:02:35+00:00</published>
   </entry>
 </feed>
