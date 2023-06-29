@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@zayden_222</id>
   <title>@zayden_222 | TikTok</title>
-  <updated>2023-05-31T01:51:07+00:00</updated>
+  <updated>2023-06-29T01:09:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @zayden_222</subtitle>
-  <entry>
-    <id>https://tiktok.com/@zayden_222/video/7039540681978776838</id>
-    <title>#duet with @sadiejean  decided to give it a go. Don’t mind the poor audio quality 🤷🏼‍♀️</title>
-    <updated>2021-12-09T03:33:10+00:00</updated>
-    <content>#duet with @sadiejean  decided to give it a go. Don’t mind the poor audio quality 🤷🏼‍♀️</content>
-    <link href="https://tiktok.com/@zayden_222/video/7039540681978776838" rel="alternate"/>
-    <published>2021-12-09T03:33:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@zayden_222/video/7046913911928638766</id>
     <title>Currently eating ranch with tongs. Can u guess how many clubbed sodas I’ve had tonight?</title>
@@ -91,5 +83,13 @@
     <content>#mileycyrus #angelslikeyou </content>
     <link href="https://tiktok.com/@zayden_222/video/7239158155840687403" rel="alternate"/>
     <published>2023-05-31T01:51:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zayden_222/video/7249908808082853162</id>
+    <title>#duet with @Zayden  progress is slow but surely. The right is when i finally could get one chin up. Now i can get 3, sometimes 4!! </title>
+    <updated>2023-06-29T01:09:03+00:00</updated>
+    <content>#duet with @Zayden  progress is slow but surely. The right is when i finally could get one chin up. Now i can get 3, sometimes 4!! </content>
+    <link href="https://tiktok.com/@zayden_222/video/7249908808082853162" rel="alternate"/>
+    <published>2023-06-29T01:09:03+00:00</published>
   </entry>
 </feed>
