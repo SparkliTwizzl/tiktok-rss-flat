@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-06-28T21:21:37+00:00</updated>
+  <updated>2023-06-29T18:52:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7245604881703111979</id>
-    <title>Back to making TikToks before work because I get there way too early because 💫Anxiety💫 #fyp #trans </title>
-    <updated>2023-06-17T10:48:09+00:00</updated>
-    <content>Back to making TikToks before work because I get there way too early because 💫Anxiety💫 #fyp #trans </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7245604881703111979" rel="alternate"/>
-    <published>2023-06-17T10:48:09+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7245812454133992747</id>
     <title>I knew I was a boy when I was 3. Society and family shoved it down my throat that I wasn't, and I could never figure out why I wasn't comfortable in my female body, why identifying as a lesion didn't ever feel right, why I drank and hid and lied all throu</title>
@@ -91,5 +83,13 @@
     <content>Trans Joy. It's coming in a lot thicker, and I'm even getting blonde sideburns. #fyp #trans </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7249850181078797610" rel="alternate"/>
     <published>2023-06-28T21:21:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7250182899251645738</id>
+    <title>Still getting over my cold. One more day of rest. Lol. #fyp #trans </title>
+    <updated>2023-06-29T18:52:39+00:00</updated>
+    <content>Still getting over my cold. One more day of rest. Lol. #fyp #trans </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7250182899251645738" rel="alternate"/>
+    <published>2023-06-29T18:52:39+00:00</published>
   </entry>
 </feed>
