@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@atreegod</id>
   <title>@atreegod | TikTok</title>
-  <updated>2023-06-29T07:18:23+00:00</updated>
+  <updated>2023-06-29T21:43:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @atreegod</subtitle>
-  <entry>
-    <id>https://tiktok.com/@atreegod/video/7242860322476805419</id>
-    <title>Mascs can feel pretty too 🫵 #wlw #lgbt </title>
-    <updated>2023-06-10T01:17:17+00:00</updated>
-    <content>Mascs can feel pretty too 🫵 #wlw #lgbt </content>
-    <link href="https://tiktok.com/@atreegod/video/7242860322476805419" rel="alternate"/>
-    <published>2023-06-10T01:17:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@atreegod/video/7243617012419775787</id>
     <title>That shower after a 10hr shift is smth else #wlw #lgbtq </title>
@@ -91,5 +83,13 @@
     <content>Empty station=catwalk #wlw #lgbtq </content>
     <link href="https://tiktok.com/@atreegod/video/7250003958813494570" rel="alternate"/>
     <published>2023-06-29T07:18:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7250226806937210158</id>
+    <title>Littl bit of me #wlw #lgbtq #nyc </title>
+    <updated>2023-06-29T21:43:07+00:00</updated>
+    <content>Littl bit of me #wlw #lgbtq #nyc </content>
+    <link href="https://tiktok.com/@atreegod/video/7250226806937210158" rel="alternate"/>
+    <published>2023-06-29T21:43:07+00:00</published>
   </entry>
 </feed>
