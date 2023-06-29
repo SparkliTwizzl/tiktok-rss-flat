@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-06-25T21:16:38+00:00</updated>
+  <updated>2023-06-29T02:36:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7238162200798432555</id>
-    <title>Chose happiness </title>
-    <updated>2023-05-28T09:27:14+00:00</updated>
-    <content>Chose happiness </content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7238162200798432555" rel="alternate"/>
-    <published>2023-05-28T09:27:14+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7238335653124279598</id>
-    <title>[no title]</title>
-    <updated>2023-05-28T20:39:23+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7238335653124279598" rel="alternate"/>
-    <published>2023-05-28T20:39:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7238399482088410410</id>
     <title>I’m going swimming :)</title>
@@ -91,5 +75,21 @@
     <content>Kitchen reveal </content>
     <link href="https://tiktok.com/@kaylabutternut/video/7248735633139666219" rel="alternate"/>
     <published>2023-06-25T21:16:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7249927351478291754</id>
+    <title>Bringing this dress back</title>
+    <updated>2023-06-29T02:21:01+00:00</updated>
+    <content>Bringing this dress back</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7249927351478291754" rel="alternate"/>
+    <published>2023-06-29T02:21:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7249931386927189294</id>
+    <title>Or this one</title>
+    <updated>2023-06-29T02:36:40+00:00</updated>
+    <content>Or this one</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7249931386927189294" rel="alternate"/>
+    <published>2023-06-29T02:36:40+00:00</published>
   </entry>
 </feed>
