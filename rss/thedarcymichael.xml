@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-06-28T13:55:14+00:00</updated>
+  <updated>2023-06-29T15:34:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7246411035324861702</id>
-    <title>Darcy’s face at the end! huge thanks to our friends at @The Mayer Official for so many amazing pieces, cant wait for everyone to see them on stage! #unboxing #couplesgoals #darcyandjer #marriedlife  #busydonkey #husbands #househusband </title>
-    <updated>2023-06-19T14:55:49+00:00</updated>
-    <content>Darcy’s face at the end! huge thanks to our friends at @The Mayer Official for so many amazing pieces, cant wait for everyone to see them on stage! #unboxing #couplesgoals #darcyandjer #marriedlife  #busydonkey #husbands #househusband </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7246411035324861702" rel="alternate"/>
-    <published>2023-06-19T14:55:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7246796749052906758</id>
     <title>This adhd wranglers got some work cut out for him but its happening! </title>
@@ -91,5 +83,13 @@
     <content>Cue american confusion in 3…2…</content>
     <link href="https://tiktok.com/@thedarcymichael/video/7249735193899109638" rel="alternate"/>
     <published>2023-06-28T13:55:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7250131896141630725</id>
+    <title>This last 7 days hanging out with thousands of you each night has changed us forever. Our cups overflow with so much gratitude that we get to continue to bring this tour to folks for the next year.  Im so proud of Jer for taking this leap of faith with me</title>
+    <updated>2023-06-29T15:34:38+00:00</updated>
+    <content>This last 7 days hanging out with thousands of you each night has changed us forever. Our cups overflow with so much gratitude that we get to continue to bring this tour to folks for the next year.  Im so proud of Jer for taking this leap of faith with me, his bravery never ceases to amaze me.  We joke about tolerating yall but my love for how you’ve changed our lives runs so deep. Thank you! Come join us in a city near you.  Now leave me alone, I’m going home to garden for a few weeks. </content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7250131896141630725" rel="alternate"/>
+    <published>2023-06-29T15:34:38+00:00</published>
   </entry>
 </feed>
