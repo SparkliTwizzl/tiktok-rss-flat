@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@tracksuitsandredwine_</id>
   <title>@tracksuitsandredwine_ | TikTok</title>
-  <updated>2023-06-28T11:29:18+00:00</updated>
+  <updated>2023-06-29T11:25:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @tracksuitsandredwine_</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tracksuitsandredwine_/video/7243660157140339969</id>
-    <title>i love him and id sell my bones for him</title>
-    <updated>2023-06-12T05:01:02+00:00</updated>
-    <content>i love him and id sell my bones for him</content>
-    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7243660157140339969" rel="alternate"/>
-    <published>2023-06-12T05:01:02+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tracksuitsandredwine_/video/7243743457221561601</id>
     <title>:)</title>
@@ -91,5 +83,13 @@
     <content>this mans entire discography is spectacular. </content>
     <link href="https://tiktok.com/@tracksuitsandredwine_/video/7249697566504406273" rel="alternate"/>
     <published>2023-06-28T11:29:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tracksuitsandredwine_/video/7250067590633032962</id>
+    <title>i eat, sleep and breathe fitness</title>
+    <updated>2023-06-29T11:25:25+00:00</updated>
+    <content>i eat, sleep and breathe fitness</content>
+    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7250067590633032962" rel="alternate"/>
+    <published>2023-06-29T11:25:25+00:00</published>
   </entry>
 </feed>
