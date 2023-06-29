@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@villainsupport</id>
   <title>@villainsupport | TikTok</title>
-  <updated>2023-06-28T19:40:18+00:00</updated>
+  <updated>2023-06-29T20:16:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @villainsupport</subtitle>
-  <entry>
-    <id>https://tiktok.com/@villainsupport/video/7245348919662644523</id>
-    <title>#thanos #johnwick #soulstone #acmetok #acmevillainsupport </title>
-    <updated>2023-06-16T18:14:20+00:00</updated>
-    <content>#thanos #johnwick #soulstone #acmetok #acmevillainsupport </content>
-    <link href="https://tiktok.com/@villainsupport/video/7245348919662644523" rel="alternate"/>
-    <published>2023-06-16T18:14:20+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@villainsupport/video/7245684474095095083</id>
-    <title>#thanos #johnwick #infinitystones #acmetok #acmevillainsupport </title>
-    <updated>2023-06-17T15:56:36+00:00</updated>
-    <content>#thanos #johnwick #infinitystones #acmetok #acmevillainsupport </content>
-    <link href="https://tiktok.com/@villainsupport/video/7245684474095095083" rel="alternate"/>
-    <published>2023-06-17T15:56:36+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@villainsupport/video/7247578691025259822</id>
     <title>#jojosbizarreadventure #diobrando #hamon #acmetok #acmevillainsupport #demonslayer #beastbreathing #inosuke </title>
@@ -91,5 +75,21 @@
     <content>What do YOU think will happen? #allforone #buu #kirbyandtheforgottenland #buu #kirby #nintendo #mha </content>
     <link href="https://tiktok.com/@villainsupport/video/7249824079279148334" rel="alternate"/>
     <published>2023-06-28T19:40:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@villainsupport/video/7250189884680310062</id>
+    <title>SURVIVAL CRATE REVIEW! @Survival Crate sent me an awesome subscription box with two knives and MATCHA GREEN TEA BEEF JERKY!! #survivalcrate #jerky #knife #subscriptionbox #matchagreentea</title>
+    <updated>2023-06-29T19:19:43+00:00</updated>
+    <content>SURVIVAL CRATE REVIEW! @Survival Crate sent me an awesome subscription box with two knives and MATCHA GREEN TEA BEEF JERKY!! #survivalcrate #jerky #knife #subscriptionbox #matchagreentea</content>
+    <link href="https://tiktok.com/@villainsupport/video/7250189884680310062" rel="alternate"/>
+    <published>2023-06-29T19:19:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@villainsupport/video/7250204489335016747</id>
+    <title>This is why the Acme Forcce Deterrent System exists! #darthvader #starwars #sith #forcechoke #acmetok #acmevillainsupport </title>
+    <updated>2023-06-29T20:16:32+00:00</updated>
+    <content>This is why the Acme Forcce Deterrent System exists! #darthvader #starwars #sith #forcechoke #acmetok #acmevillainsupport </content>
+    <link href="https://tiktok.com/@villainsupport/video/7250204489335016747" rel="alternate"/>
+    <published>2023-06-29T20:16:32+00:00</published>
   </entry>
 </feed>
