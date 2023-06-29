@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maruzee_dragon</id>
   <title>@maruzee_dragon | TikTok</title>
-  <updated>2023-06-28T01:23:39+00:00</updated>
+  <updated>2023-06-29T02:22:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maruzee_dragon</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maruzee_dragon/video/7242505874390912261</id>
-    <title>Hold on, Area Codes &amp; Pony?! #transition #martialarts #tricks </title>
-    <updated>2023-06-09T02:21:48+00:00</updated>
-    <content>Hold on, Area Codes &amp; Pony?! #transition #martialarts #tricks </content>
-    <link href="https://tiktok.com/@maruzee_dragon/video/7242505874390912261" rel="alternate"/>
-    <published>2023-06-09T02:21:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maruzee_dragon/video/7243061029763140869</id>
     <title>Réponse à @maximusaod All right! Should I use lightsabers next? #transition #martialarts #tricks </title>
@@ -91,5 +83,13 @@
     <content>Pardon the basicness of this transition, but I had to show off my outfit 😅</content>
     <link href="https://tiktok.com/@maruzee_dragon/video/7249541505973554438" rel="alternate"/>
     <published>2023-06-28T01:23:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maruzee_dragon/video/7249927817473969413</id>
+    <title>Ashley look at me 👀🕸🕷 Ib: @MIMI 🖤  #spiderman #transition #martialarts #trending </title>
+    <updated>2023-06-29T02:22:47+00:00</updated>
+    <content>Ashley look at me 👀🕸🕷 Ib: @MIMI 🖤  #spiderman #transition #martialarts #trending </content>
+    <link href="https://tiktok.com/@maruzee_dragon/video/7249927817473969413" rel="alternate"/>
+    <published>2023-06-29T02:22:47+00:00</published>
   </entry>
 </feed>
