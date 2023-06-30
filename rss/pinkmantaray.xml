@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pinkmantaray</id>
   <title>@pinkmantaray | TikTok</title>
-  <updated>2023-06-28T17:56:16+00:00</updated>
+  <updated>2023-06-30T00:15:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @pinkmantaray</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pinkmantaray/video/7248658797198101803</id>
-    <title>Some favorites from our #wedding 💕💍 #weddingtok #couplegoals #queerjoy #wifetok #transgender</title>
-    <updated>2023-06-25T16:18:32+00:00</updated>
-    <content>Some favorites from our #wedding 💕💍 #weddingtok #couplegoals #queerjoy #wifetok #transgender</content>
-    <link href="https://tiktok.com/@pinkmantaray/video/7248658797198101803" rel="alternate"/>
-    <published>2023-06-25T16:18:32+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pinkmantaray/video/7248788134282972459</id>
     <title>Replying to @adorn  introducing more of @Sarah 🧿 سِرا 💕 #husbandwife #married #couplegoals #queercouple #transjoy </title>
@@ -91,5 +83,13 @@
     <content>TRANS PEOPLE DESERVE LOVE! I love you @Sarah Ehsani 🧿 سِرا 💕🏳️‍⚧️ #transjoy #queercouple #queerlove #couplegoals #marriedlife </content>
     <link href="https://tiktok.com/@pinkmantaray/video/7249797258907028779" rel="alternate"/>
     <published>2023-06-28T17:56:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pinkmantaray/video/7250266194006052138</id>
+    <title>Yesterday I had the honor of attending the Vice President's Pride celebration 🏳️‍⚧️💕 #transgender #biden #kamalaharris #pride #queer </title>
+    <updated>2023-06-30T00:15:53+00:00</updated>
+    <content>Yesterday I had the honor of attending the Vice President's Pride celebration 🏳️‍⚧️💕 #transgender #biden #kamalaharris #pride #queer </content>
+    <link href="https://tiktok.com/@pinkmantaray/video/7250266194006052138" rel="alternate"/>
+    <published>2023-06-30T00:15:53+00:00</published>
   </entry>
 </feed>

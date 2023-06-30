@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-06-29T02:36:40+00:00</updated>
+  <updated>2023-06-30T02:37:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7238399482088410410</id>
-    <title>I’m going swimming :)</title>
-    <updated>2023-05-29T00:47:03+00:00</updated>
-    <content>I’m going swimming :)</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7238399482088410410" rel="alternate"/>
-    <published>2023-05-29T00:47:03+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7238403194257198379</id>
-    <title>Someone said spicy spongebob and I cant unsee it</title>
-    <updated>2023-05-29T01:01:26+00:00</updated>
-    <content>Someone said spicy spongebob and I cant unsee it</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7238403194257198379" rel="alternate"/>
-    <published>2023-05-29T01:01:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7238457279798840618</id>
     <title>Fyp asleep? Is anyone there?</title>
@@ -91,5 +75,21 @@
     <content>Or this one</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7249931386927189294" rel="alternate"/>
     <published>2023-06-29T02:36:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7250299203929247018</id>
+    <title>Read the rug</title>
+    <updated>2023-06-30T02:23:59+00:00</updated>
+    <content>Read the rug</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7250299203929247018" rel="alternate"/>
+    <published>2023-06-30T02:23:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7250302696266206510</id>
+    <title>This song has a hold on me</title>
+    <updated>2023-06-30T02:37:30+00:00</updated>
+    <content>This song has a hold on me</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7250302696266206510" rel="alternate"/>
+    <published>2023-06-30T02:37:30+00:00</published>
   </entry>
 </feed>
