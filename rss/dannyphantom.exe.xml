@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dannyphantom.exe</id>
   <title>@dannyphantom.exe | TikTok</title>
-  <updated>2023-06-29T02:16:39+00:00</updated>
+  <updated>2023-06-30T02:15:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dannyphantom.exe</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7247328252644035886</id>
-    <title>tag someone who does this</title>
-    <updated>2023-06-22T02:15:14+00:00</updated>
-    <content>tag someone who does this</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7247328252644035886" rel="alternate"/>
-    <published>2023-06-22T02:15:14+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7247328527417232683</id>
-    <title>is the best way to calm a baby down cheese??</title>
-    <updated>2023-06-22T02:16:19+00:00</updated>
-    <content>is the best way to calm a baby down cheese??</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7247328527417232683" rel="alternate"/>
-    <published>2023-06-22T02:16:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dannyphantom.exe/video/7247699379547639086</id>
     <title>tag someone who knows someone like this</title>
@@ -91,5 +75,21 @@
     <content>THE VILLIAN CREATED A MONSTER</content>
     <link href="https://tiktok.com/@dannyphantom.exe/video/7249926213538516266" rel="alternate"/>
     <published>2023-06-29T02:16:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7250296992218336554</id>
+    <title>tag someone like this</title>
+    <updated>2023-06-30T02:15:24+00:00</updated>
+    <content>tag someone like this</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7250296992218336554" rel="alternate"/>
+    <published>2023-06-30T02:15:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7250297045829946666</id>
+    <title>tag someone who does this - @RADISH w the og video</title>
+    <updated>2023-06-30T02:15:36+00:00</updated>
+    <content>tag someone who does this - @RADISH w the og video</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7250297045829946666" rel="alternate"/>
+    <published>2023-06-30T02:15:36+00:00</published>
   </entry>
 </feed>
