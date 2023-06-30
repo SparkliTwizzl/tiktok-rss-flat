@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-06-29T15:34:38+00:00</updated>
+  <updated>2023-06-30T16:16:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7246796749052906758</id>
-    <title>This adhd wranglers got some work cut out for him but its happening! </title>
-    <updated>2023-06-20T15:52:35+00:00</updated>
-    <content>This adhd wranglers got some work cut out for him but its happening! </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7246796749052906758" rel="alternate"/>
-    <published>2023-06-20T15:52:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7247149244451228933</id>
     <title>Please enjoy this throwback to one of my favourite pranks on Jer. #prank #couplescomedy #funny #husbands #couplegoals #onthisday </title>
@@ -91,5 +83,13 @@
     <content>This last 7 days hanging out with thousands of you each night has changed us forever. Our cups overflow with so much gratitude that we get to continue to bring this tour to folks for the next year.  Im so proud of Jer for taking this leap of faith with me, his bravery never ceases to amaze me.  We joke about tolerating yall but my love for how you’ve changed our lives runs so deep. Thank you! Come join us in a city near you.  Now leave me alone, I’m going home to garden for a few weeks. </content>
     <link href="https://tiktok.com/@thedarcymichael/video/7250131896141630725" rel="alternate"/>
     <published>2023-06-29T15:34:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7250513778201136390</id>
+    <title>It is nice to be home. </title>
+    <updated>2023-06-30T16:16:33+00:00</updated>
+    <content>It is nice to be home. </content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7250513778201136390" rel="alternate"/>
+    <published>2023-06-30T16:16:33+00:00</published>
   </entry>
 </feed>
