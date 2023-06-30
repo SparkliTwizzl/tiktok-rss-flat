@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-06-29T18:33:23+00:00</updated>
+  <updated>2023-06-29T23:35:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7247576023154380074</id>
-    <title>#stitch with @Hollywood Take this doesn't even begin to touch on the immense privilege he has now to devote all of his resources to healing without worrying about income. I wish I could take a year off to spend on my mental health but I have to work. #sol</title>
-    <updated>2023-06-22T18:16:41+00:00</updated>
-    <content>#stitch with @Hollywood Take this doesn't even begin to touch on the immense privilege he has now to devote all of his resources to healing without worrying about income. I wish I could take a year off to spend on my mental health but I have to work. #solardidsystem #ssperegrine </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7247576023154380074" rel="alternate"/>
-    <published>2023-06-22T18:16:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7247582498878786858</id>
     <title>-Peregrine (they/them) #solardidsystem #ssperegrine #greenflags </title>
@@ -91,5 +83,13 @@
     <content>Peregrine will bite. I will gentle parent you to tears. #solardidsystem #sszephyr </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7250177924119170346" rel="alternate"/>
     <published>2023-06-29T18:33:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7250255815888604459</id>
+    <title>I'm gonna talk to my therapist about this #solardidsystem #sszephyr #dissociativeidentitydisorder </title>
+    <updated>2023-06-29T23:35:40+00:00</updated>
+    <content>I'm gonna talk to my therapist about this #solardidsystem #sszephyr #dissociativeidentitydisorder </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7250255815888604459" rel="alternate"/>
+    <published>2023-06-29T23:35:40+00:00</published>
   </entry>
 </feed>
