@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@manic.toxicity</id>
   <title>@manic.toxicity | TikTok</title>
-  <updated>2023-06-28T23:21:34+00:00</updated>
+  <updated>2023-06-30T03:06:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @manic.toxicity</subtitle>
-  <entry>
-    <id>https://tiktok.com/@manic.toxicity/video/7247294344313490734</id>
-    <title>u can stay &lt;3 #fyp #foryou </title>
-    <updated>2023-06-22T00:03:43+00:00</updated>
-    <content>u can stay &lt;3 #fyp #foryou </content>
-    <link href="https://tiktok.com/@manic.toxicity/video/7247294344313490734" rel="alternate"/>
-    <published>2023-06-22T00:03:43+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@manic.toxicity/video/7247537574703533354</id>
     <title>[no title]</title>
@@ -91,5 +83,13 @@
     <content>sike, you thought. no transistion #fyp #foryou </content>
     <link href="https://tiktok.com/@manic.toxicity/video/7249881098027552042" rel="alternate"/>
     <published>2023-06-28T23:21:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@manic.toxicity/video/7250310280494779690</id>
+    <title>get you out of my head #fyp #foryou </title>
+    <updated>2023-06-30T03:06:57+00:00</updated>
+    <content>get you out of my head #fyp #foryou </content>
+    <link href="https://tiktok.com/@manic.toxicity/video/7250310280494779690" rel="alternate"/>
+    <published>2023-06-30T03:06:57+00:00</published>
   </entry>
 </feed>
