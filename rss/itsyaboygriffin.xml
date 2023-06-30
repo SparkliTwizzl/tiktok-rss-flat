@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@itsyaboygriffin</id>
   <title>@itsyaboygriffin | TikTok</title>
-  <updated>2023-06-08T22:27:11+00:00</updated>
+  <updated>2023-06-29T22:25:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @itsyaboygriffin</subtitle>
-  <entry>
-    <id>https://tiktok.com/@itsyaboygriffin/video/7088070501750410539</id>
-    <title>what? wait- #kinktok</title>
-    <updated>2022-04-18T22:13:38+00:00</updated>
-    <content>what? wait- #kinktok</content>
-    <link href="https://tiktok.com/@itsyaboygriffin/video/7088070501750410539" rel="alternate"/>
-    <published>2022-04-18T22:13:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@itsyaboygriffin/video/7088087811538177323</id>
     <title>Reply to @katiemckinney28 #greenscreen This is what I was thinking of subconsciously I guess, idk if that makes sense or not</title>
@@ -91,5 +83,13 @@
     <content>I know yall missed the messy hair</content>
     <link href="https://tiktok.com/@itsyaboygriffin/video/7242445393068379435" rel="alternate"/>
     <published>2023-06-08T22:27:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@itsyaboygriffin/video/7250237698667990315</id>
+    <title>ez pz </title>
+    <updated>2023-06-29T22:25:25+00:00</updated>
+    <content>ez pz </content>
+    <link href="https://tiktok.com/@itsyaboygriffin/video/7250237698667990315" rel="alternate"/>
+    <published>2023-06-29T22:25:25+00:00</published>
   </entry>
 </feed>
