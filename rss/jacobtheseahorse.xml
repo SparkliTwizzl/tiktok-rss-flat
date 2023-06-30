@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jacobtheseahorse</id>
   <title>@jacobtheseahorse | TikTok</title>
-  <updated>2023-06-29T21:33:20+00:00</updated>
+  <updated>2023-06-30T13:06:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jacobtheseahorse</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7249325703500401947</id>
-    <title>you deserve kindness but if you can't manage to give yourself that today, settle for kicking some critical ass instead #mentalhealth #critic #innercritic #kindness #compassion #lgbt #therapy </title>
-    <updated>2023-06-27T11:26:17+00:00</updated>
-    <content>you deserve kindness but if you can't manage to give yourself that today, settle for kicking some critical ass instead #mentalhealth #critic #innercritic #kindness #compassion #lgbt #therapy </content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7249325703500401947" rel="alternate"/>
-    <published>2023-06-27T11:26:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jacobtheseahorse/video/7249354171596410138</id>
     <title>Replying to @mamabear_4200 who I am, who I love and what body parts I have are all separate things 🥰 if you have more questions don't hesitate to ask! #trans #sex #intersex #gender #sexuality #gay #lesbian #bi #lgbt #lgbtq </title>
@@ -91,5 +83,13 @@
     <content>Replying to @93lol52 never be sorry for asking questions! I'm always happy to answer. sorry it's taken me so long, this was in my drafts for ages!  #trans #gender #transition #toilets #controversy #media #pregnancy</content>
     <link href="https://tiktok.com/@jacobtheseahorse/video/7250224313695997210" rel="alternate"/>
     <published>2023-06-29T21:33:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7250464767825988891</id>
+    <title>a video from my drafts giving a reminder that ADHD is a disability and sometimes that means we can't get things done. be kind to yourself folks! and if you can't face being kind, at least be critical of your critic 💜 #adhd #meds #vyvanse #actuallyautistic</title>
+    <updated>2023-06-30T13:06:24+00:00</updated>
+    <content>a video from my drafts giving a reminder that ADHD is a disability and sometimes that means we can't get things done. be kind to yourself folks! and if you can't face being kind, at least be critical of your critic 💜 #adhd #meds #vyvanse #actuallyautistic #nd </content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7250464767825988891" rel="alternate"/>
+    <published>2023-06-30T13:06:24+00:00</published>
   </entry>
 </feed>
