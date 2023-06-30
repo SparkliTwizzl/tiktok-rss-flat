@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@charlesthegr8</id>
   <title>@charlesthegr8 | TikTok</title>
-  <updated>2023-06-28T17:02:21+00:00</updated>
+  <updated>2023-06-30T06:13:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @charlesthegr8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7244267740620524843</id>
-    <title>Must funny dude 😂 #iykyk #fyp #charlesthegr8 </title>
-    <updated>2023-06-13T20:18:49+00:00</updated>
-    <content>Must funny dude 😂 #iykyk #fyp #charlesthegr8 </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7244267740620524843" rel="alternate"/>
-    <published>2023-06-13T20:18:49+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7244280638466215214</id>
-    <title>Bro pretty asl talkin bout confidence #iykyk #fyp #bro #charlesthegr8 </title>
-    <updated>2023-06-13T21:08:55+00:00</updated>
-    <content>Bro pretty asl talkin bout confidence #iykyk #fyp #bro #charlesthegr8 </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7244280638466215214" rel="alternate"/>
-    <published>2023-06-13T21:08:55+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@charlesthegr8/video/7244375352347249966</id>
     <title>🤦🏾‍♂️#iykyk #simp #charlesthegr8</title>
@@ -91,5 +75,21 @@
     <content>Felt too real #iykyk #dream #charlesthegr8 </content>
     <link href="https://tiktok.com/@charlesthegr8/video/7249783349353418030" rel="alternate"/>
     <published>2023-06-28T17:02:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7250344347592297771</id>
+    <title>The Best way to relieve her stress #iykyk #stressrelief #charlesthegr8 </title>
+    <updated>2023-06-30T05:19:09+00:00</updated>
+    <content>The Best way to relieve her stress #iykyk #stressrelief #charlesthegr8 </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7250344347592297771" rel="alternate"/>
+    <published>2023-06-30T05:19:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7250358438096588075</id>
+    <title>Cant seem to put the phone down after that 🤷🏾‍♂️#iykyk #dream #charlesthegr8 </title>
+    <updated>2023-06-30T06:13:50+00:00</updated>
+    <content>Cant seem to put the phone down after that 🤷🏾‍♂️#iykyk #dream #charlesthegr8 </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7250358438096588075" rel="alternate"/>
+    <published>2023-06-30T06:13:50+00:00</published>
   </entry>
 </feed>
