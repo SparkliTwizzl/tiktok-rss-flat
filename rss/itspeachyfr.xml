@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@itspeachyfr</id>
   <title>@itspeachyfr | TikTok</title>
-  <updated>2023-06-21T14:34:26+00:00</updated>
+  <updated>2023-07-09T02:50:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @itspeachyfr</subtitle>
-  <entry>
-    <id>https://tiktok.com/@itspeachyfr/video/7239869775458110766</id>
-    <title>I LOVE HER #EXPLORE #spiderman </title>
-    <updated>2023-06-01T23:52:31+00:00</updated>
-    <content>I LOVE HER #EXPLORE #spiderman </content>
-    <link href="https://tiktok.com/@itspeachyfr/video/7239869775458110766" rel="alternate"/>
-    <published>2023-06-01T23:52:31+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@itspeachyfr/video/7240116161566821674</id>
-    <title>everyone- please  • • • #studioghibli #totro #fyp #stinkypoopyfart </title>
-    <updated>2023-06-02T15:48:45+00:00</updated>
-    <content>everyone- please  • • • #studioghibli #totro #fyp #stinkypoopyfart </content>
-    <link href="https://tiktok.com/@itspeachyfr/video/7240116161566821674" rel="alternate"/>
-    <published>2023-06-02T15:48:45+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@itspeachyfr/video/7240117529639800107</id>
-    <title>this but with a cat </title>
-    <updated>2023-06-02T15:54:08+00:00</updated>
-    <content>this but with a cat </content>
-    <link href="https://tiktok.com/@itspeachyfr/video/7240117529639800107" rel="alternate"/>
-    <published>2023-06-02T15:54:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@itspeachyfr/video/7240117988446293290</id>
     <title>[no title]</title>
@@ -91,5 +67,29 @@
     <content>silly post</content>
     <link href="https://tiktok.com/@itspeachyfr/video/7247147659851517230" rel="alternate"/>
     <published>2023-06-21T14:34:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@itspeachyfr/video/7252031971180842286</id>
+    <title>grow up #different </title>
+    <updated>2023-07-04T18:28:06+00:00</updated>
+    <content>grow up #different </content>
+    <link href="https://tiktok.com/@itspeachyfr/video/7252031971180842286" rel="alternate"/>
+    <published>2023-07-04T18:28:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@itspeachyfr/video/7253644334313065770</id>
+    <title>[no title]</title>
+    <updated>2023-07-09T02:44:51+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@itspeachyfr/video/7253644334313065770" rel="alternate"/>
+    <published>2023-07-09T02:44:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@itspeachyfr/video/7253645665849445674</id>
+    <title>#explore </title>
+    <updated>2023-07-09T02:50:01+00:00</updated>
+    <content>#explore </content>
+    <link href="https://tiktok.com/@itspeachyfr/video/7253645665849445674" rel="alternate"/>
+    <published>2023-07-09T02:50:01+00:00</published>
   </entry>
 </feed>
