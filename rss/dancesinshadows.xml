@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-06-28T13:47:24+00:00</updated>
+  <updated>2023-07-10T15:32:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,70 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7244645252273802501</id>
-    <title>feel free to duet 🩵 #maladytheclown #clown #findingnemo #comedy</title>
-    <updated>2023-06-14T20:43:42+00:00</updated>
-    <content>feel free to duet 🩵 #maladytheclown #clown #findingnemo #comedy</content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7244645252273802501" rel="alternate"/>
-    <published>2023-06-14T20:43:42+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7244718861784714501</id>
-    <title>#maladytheclown #clown #retrovibes </title>
-    <updated>2023-06-15T01:29:18+00:00</updated>
-    <content>#maladytheclown #clown #retrovibes </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7244718861784714501" rel="alternate"/>
-    <published>2023-06-15T01:29:18+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7245022039738813701</id>
-    <title>I choose to believe... 🤍 feel free to duet  #maladytheclown #retrovibes #clown #blackandwhite #vintagevibes </title>
-    <updated>2023-06-15T21:05:50+00:00</updated>
-    <content>I choose to believe... 🤍 feel free to duet  #maladytheclown #retrovibes #clown #blackandwhite #vintagevibes </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7245022039738813701" rel="alternate"/>
-    <published>2023-06-15T21:05:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7245679566679756038</id>
-    <title>last weekend we went on a trip to Niagara for the con. I've been dealing with mast cell flare-ups ever since. 😫  song by @CeCe #maladytheclown #blackandwhite </title>
-    <updated>2023-06-17T15:37:20+00:00</updated>
-    <content>last weekend we went on a trip to Niagara for the con. I've been dealing with mast cell flare-ups ever since. 😫  song by @CeCe #maladytheclown #blackandwhite </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7245679566679756038" rel="alternate"/>
-    <published>2023-06-17T15:37:20+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7246040128420842758</id>
-    <title>wiggle wiggle wiggle 😅😆 song by the talented @PEGGY  #maladytheclown #ifiwereaworm #feelgood #positivevibes #weekendvibes </title>
-    <updated>2023-06-18T14:56:30+00:00</updated>
-    <content>wiggle wiggle wiggle 😅😆 song by the talented @PEGGY  #maladytheclown #ifiwereaworm #feelgood #positivevibes #weekendvibes </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7246040128420842758" rel="alternate"/>
-    <published>2023-06-18T14:56:30+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7246359586460978437</id>
-    <title>#clown #maladytheclown #swing </title>
-    <updated>2023-06-19T11:36:09+00:00</updated>
-    <content>#clown #maladytheclown #swing </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7246359586460978437" rel="alternate"/>
-    <published>2023-06-19T11:36:09+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7246546048674581766</id>
-    <title>#maladytheclown </title>
-    <updated>2023-06-19T23:39:46+00:00</updated>
-    <content>#maladytheclown </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7246546048674581766" rel="alternate"/>
-    <published>2023-06-19T23:39:46+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7248986803141643525</id>
-    <title>song @candi carpenter #maladytheclown </title>
-    <updated>2023-06-26T13:31:06+00:00</updated>
-    <content>song @candi carpenter #maladytheclown </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7248986803141643525" rel="alternate"/>
-    <published>2023-06-26T13:31:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7249166804751338757</id>
     <title>#onthisday #maladytheclown </title>
@@ -91,5 +27,69 @@
     <content>#onthisday #maladytheclown #cosplayoc #dancesinshadows </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7249733177428675845" rel="alternate"/>
     <published>2023-06-28T13:47:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7250850300926364933</id>
+    <title>Just a reminder...  #onthisday #maladytheclown #cosplayoc #dancesinshadows </title>
+    <updated>2023-07-01T14:02:25+00:00</updated>
+    <content>Just a reminder...  #onthisday #maladytheclown #cosplayoc #dancesinshadows </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7250850300926364933" rel="alternate"/>
+    <published>2023-07-01T14:02:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7251414614309702917</id>
+    <title>More throwbacks 💙 #glumthesupernaturalhitman #drag #dragking #onthisday #dancesinshadows </title>
+    <updated>2023-07-03T02:32:16+00:00</updated>
+    <content>More throwbacks 💙 #glumthesupernaturalhitman #drag #dragking #onthisday #dancesinshadows </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7251414614309702917" rel="alternate"/>
+    <published>2023-07-03T02:32:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7252143494775475461</id>
+    <title>2 cats, a dog, and a pigeon...plus a spouse and a child 😅❤️ #maladytheclown #clown #vintagevibes </title>
+    <updated>2023-07-05T01:40:41+00:00</updated>
+    <content>2 cats, a dog, and a pigeon...plus a spouse and a child 😅❤️ #maladytheclown #clown #vintagevibes </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7252143494775475461" rel="alternate"/>
+    <published>2023-07-05T01:40:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7252376186238602502</id>
+    <title>Between health and humidity, I haven't been able to film in ages. 😅 Hopefully I can manage soon #throwback #dancesinshadows #maladytheclown </title>
+    <updated>2023-07-05T16:43:39+00:00</updated>
+    <content>Between health and humidity, I haven't been able to film in ages. 😅 Hopefully I can manage soon #throwback #dancesinshadows #maladytheclown </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7252376186238602502" rel="alternate"/>
+    <published>2023-07-05T16:43:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7252864096058543365</id>
+    <title>finally got around to trying this wig on. I made it out of craft foam and it will be available for purchase later this month on my shop #maladytheclown #icecream #icecreamclown #foamwig #foamcraft #dragwigs #handmadewig </title>
+    <updated>2023-07-07T00:16:59+00:00</updated>
+    <content>finally got around to trying this wig on. I made it out of craft foam and it will be available for purchase later this month on my shop #maladytheclown #icecream #icecreamclown #foamwig #foamcraft #dragwigs #handmadewig </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7252864096058543365" rel="alternate"/>
+    <published>2023-07-07T00:16:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7253099559956532485</id>
+    <title>#lifeupdate #maladytheclown </title>
+    <updated>2023-07-07T15:30:42+00:00</updated>
+    <content>#lifeupdate #maladytheclown </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7253099559956532485" rel="alternate"/>
+    <published>2023-07-07T15:30:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7253447679999610118</id>
+    <title>song by @PEGGY This song is so relatable  😅❤️❤️ thank you all for the kind words on the last video. I hope to reply to as many as I can this weekend ❤️  #maladytheclown #handmadewig  #foamwig  #clown </title>
+    <updated>2023-07-08T14:01:35+00:00</updated>
+    <content>song by @PEGGY This song is so relatable  😅❤️❤️ thank you all for the kind words on the last video. I hope to reply to as many as I can this weekend ❤️  #maladytheclown #handmadewig  #foamwig  #clown </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7253447679999610118" rel="alternate"/>
+    <published>2023-07-08T14:01:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7254213379282226437</id>
+    <title>had a great night out w a friend: front row to see my favorite rupaul enby @Adore Delano  and local Queens slay ❤️ I'll try to tag performers in a pinned comment #funnight #dragshow #adoredelanoparty  #hamiltondrag #hoas </title>
+    <updated>2023-07-10T15:32:54+00:00</updated>
+    <content>had a great night out w a friend: front row to see my favorite rupaul enby @Adore Delano  and local Queens slay ❤️ I'll try to tag performers in a pinned comment #funnight #dragshow #adoredelanoparty  #hamiltondrag #hoas </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7254213379282226437" rel="alternate"/>
+    <published>2023-07-10T15:32:54+00:00</published>
   </entry>
 </feed>
