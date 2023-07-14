@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@liil.dork.alex</id>
   <title>@liil.dork.alex | TikTok</title>
-  <updated>2023-06-29T00:51:27+00:00</updated>
+  <updated>2023-07-11T01:58:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @liil.dork.alex</subtitle>
-  <entry>
-    <id>https://tiktok.com/@liil.dork.alex/video/7233560460157668650</id>
-    <title>Got my losin it </title>
-    <updated>2023-05-15T23:49:06+00:00</updated>
-    <content>Got my losin it </content>
-    <link href="https://tiktok.com/@liil.dork.alex/video/7233560460157668650" rel="alternate"/>
-    <published>2023-05-15T23:49:06+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@liil.dork.alex/video/7235049466326158635</id>
-    <title>Whole thing, ill blow it 💁🏼‍♀️</title>
-    <updated>2023-05-20T00:07:14+00:00</updated>
-    <content>Whole thing, ill blow it 💁🏼‍♀️</content>
-    <link href="https://tiktok.com/@liil.dork.alex/video/7235049466326158635" rel="alternate"/>
-    <published>2023-05-20T00:07:14+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@liil.dork.alex/video/7239929609716895018</id>
-    <title>He knew better 😅😳</title>
-    <updated>2023-06-02T03:44:40+00:00</updated>
-    <content>He knew better 😅😳</content>
-    <link href="https://tiktok.com/@liil.dork.alex/video/7239929609716895018" rel="alternate"/>
-    <published>2023-06-02T03:44:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@liil.dork.alex/video/7242252208404892974</id>
     <title>⚠️Flash ⚠️  this strobe filter goes so well with this sound </title>
@@ -91,5 +67,29 @@
     <content>Hmm feel like i can do better with this 🤔</content>
     <link href="https://tiktok.com/@liil.dork.alex/video/7249904248907992363" rel="alternate"/>
     <published>2023-06-29T00:51:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@liil.dork.alex/video/7250628052529712430</id>
+    <title>🔥😮‍💨</title>
+    <updated>2023-06-30T23:40:09+00:00</updated>
+    <content>🔥😮‍💨</content>
+    <link href="https://tiktok.com/@liil.dork.alex/video/7250628052529712430" rel="alternate"/>
+    <published>2023-06-30T23:40:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@liil.dork.alex/video/7251424344847682862</id>
+    <title>Lemme light that lil 💥</title>
+    <updated>2023-07-03T03:10:15+00:00</updated>
+    <content>Lemme light that lil 💥</content>
+    <link href="https://tiktok.com/@liil.dork.alex/video/7251424344847682862" rel="alternate"/>
+    <published>2023-07-03T03:10:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@liil.dork.alex/video/7254374588283358506</id>
+    <title>@Justin Blake hooked me up with the sun/moon and slug 😩 thank you again b, did the last one myself :) </title>
+    <updated>2023-07-11T01:58:35+00:00</updated>
+    <content>@Justin Blake hooked me up with the sun/moon and slug 😩 thank you again b, did the last one myself :) </content>
+    <link href="https://tiktok.com/@liil.dork.alex/video/7254374588283358506" rel="alternate"/>
+    <published>2023-07-11T01:58:35+00:00</published>
   </entry>
 </feed>
