@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@atreegod</id>
   <title>@atreegod | TikTok</title>
-  <updated>2023-07-10T01:33:42+00:00</updated>
+  <updated>2023-07-14T15:01:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @atreegod</subtitle>
-  <entry>
-    <id>https://tiktok.com/@atreegod/video/7251627677294234926</id>
-    <title>ha ha ha haaa #wlw #lgbtq </title>
-    <updated>2023-07-03T16:19:21+00:00</updated>
-    <content>ha ha ha haaa #wlw #lgbtq </content>
-    <link href="https://tiktok.com/@atreegod/video/7251627677294234926" rel="alternate"/>
-    <published>2023-07-03T16:19:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@atreegod/video/7251671344440495406</id>
     <title>Real #wlw #lgbtq </title>
@@ -91,5 +83,13 @@
     <content>Can u tell im touch deprived rn #lgbtq #wlw </content>
     <link href="https://tiktok.com/@atreegod/video/7253997076927892778" rel="alternate"/>
     <published>2023-07-10T01:33:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7255689693994421546</id>
+    <title>Whyd it cut me off i was turning up #wlw #lgbtq </title>
+    <updated>2023-07-14T15:01:57+00:00</updated>
+    <content>Whyd it cut me off i was turning up #wlw #lgbtq </content>
+    <link href="https://tiktok.com/@atreegod/video/7255689693994421546" rel="alternate"/>
+    <published>2023-07-14T15:01:57+00:00</published>
   </entry>
 </feed>
