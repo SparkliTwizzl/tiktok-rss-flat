@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ratatootle</id>
   <title>@ratatootle | TikTok</title>
-  <updated>2023-06-28T22:16:20+00:00</updated>
+  <updated>2023-07-12T21:32:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ratatootle</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ratatootle/video/7233395753417297194</id>
-    <title>thank u for ur service @Bear Naked </title>
-    <updated>2023-05-15T13:10:05+00:00</updated>
-    <content>thank u for ur service @Bear Naked </content>
-    <link href="https://tiktok.com/@ratatootle/video/7233395753417297194" rel="alternate"/>
-    <published>2023-05-15T13:10:05+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@ratatootle/video/7233773226713681194</id>
-    <title>Im sure there are way more good psychs than bad, but nobody tells stories about how good their psych is (bc why would you, but still) </title>
-    <updated>2023-05-16T13:34:49+00:00</updated>
-    <content>Im sure there are way more good psychs than bad, but nobody tells stories about how good their psych is (bc why would you, but still) </content>
-    <link href="https://tiktok.com/@ratatootle/video/7233773226713681194" rel="alternate"/>
-    <published>2023-05-16T13:34:49+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@ratatootle/video/7234127636144901422</id>
-    <title>Peace and love to swifties everywhere </title>
-    <updated>2023-05-17T12:30:06+00:00</updated>
-    <content>Peace and love to swifties everywhere </content>
-    <link href="https://tiktok.com/@ratatootle/video/7234127636144901422" rel="alternate"/>
-    <published>2023-05-17T12:30:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ratatootle/video/7237106905234132267</id>
     <title>Society is a  construct 😡</title>
@@ -91,5 +67,29 @@
     <content>Things are going so okay! But also @INNBEAUTY PROJECT saved the day i love u </content>
     <link href="https://tiktok.com/@ratatootle/video/7249864301538725166" rel="alternate"/>
     <published>2023-06-28T22:16:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ratatootle/video/7251664118799813930</id>
+    <title>Everything is so normal and fine here ft my new addition to my mornings :) @energybytes </title>
+    <updated>2023-07-03T18:40:42+00:00</updated>
+    <content>Everything is so normal and fine here ft my new addition to my mornings :) @energybytes </content>
+    <link href="https://tiktok.com/@ratatootle/video/7251664118799813930" rel="alternate"/>
+    <published>2023-07-03T18:40:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ratatootle/video/7251947084025253166</id>
+    <title>The world works in mysterious ways</title>
+    <updated>2023-07-04T12:58:56+00:00</updated>
+    <content>The world works in mysterious ways</content>
+    <link href="https://tiktok.com/@ratatootle/video/7251947084025253166" rel="alternate"/>
+    <published>2023-07-04T12:58:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ratatootle/video/7255048167081774379</id>
+    <title>Lego man was a wonderful era #breakup </title>
+    <updated>2023-07-12T21:32:28+00:00</updated>
+    <content>Lego man was a wonderful era #breakup </content>
+    <link href="https://tiktok.com/@ratatootle/video/7255048167081774379" rel="alternate"/>
+    <published>2023-07-12T21:32:28+00:00</published>
   </entry>
 </feed>
