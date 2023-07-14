@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@nopanicbutton</id>
   <title>@nopanicbutton | TikTok</title>
-  <updated>2023-07-12T21:11:47+00:00</updated>
+  <updated>2023-07-14T14:27:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @nopanicbutton</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nopanicbutton/video/7247268241037561134</id>
-    <title>This apprentice is getting expensive. At 19 you should have a bit more sense. #commonsense #why #whatswrongwithyou? </title>
-    <updated>2023-06-21T22:22:25+00:00</updated>
-    <content>This apprentice is getting expensive. At 19 you should have a bit more sense. #commonsense #why #whatswrongwithyou? </content>
-    <link href="https://tiktok.com/@nopanicbutton/video/7247268241037561134" rel="alternate"/>
-    <published>2023-06-21T22:22:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nopanicbutton/video/7247996017218473259</id>
     <title>It's important to let the smith know what you want the blade to do. Money is nice too! #bitcoinpayment #moneyopensdoorsandcloseseyes </title>
@@ -91,5 +83,13 @@
     <content>Met the nicest Mistress the other day! #kinktok #mistress #domgames #havingablastwithjohn </content>
     <link href="https://tiktok.com/@nopanicbutton/video/7255042847647468846" rel="alternate"/>
     <published>2023-07-12T21:11:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nopanicbutton/video/7255680801528876330</id>
+    <title>Date nights are getting interesting. #datenight #groupdating #murdermystery Be sure to join us on Discord! Link in bio!</title>
+    <updated>2023-07-14T14:27:28+00:00</updated>
+    <content>Date nights are getting interesting. #datenight #groupdating #murdermystery Be sure to join us on Discord! Link in bio!</content>
+    <link href="https://tiktok.com/@nopanicbutton/video/7255680801528876330" rel="alternate"/>
+    <published>2023-07-14T14:27:28+00:00</published>
   </entry>
 </feed>
