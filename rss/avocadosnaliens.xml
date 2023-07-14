@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avocadosnaliens</id>
   <title>@avocadosnaliens | TikTok</title>
-  <updated>2023-07-13T04:22:42+00:00</updated>
+  <updated>2023-07-14T18:19:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avocadosnaliens</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avocadosnaliens/video/7249215791323712814</id>
-    <title>#stitch with @Kurt Russell #greenscreen </title>
-    <updated>2023-06-27T04:19:47+00:00</updated>
-    <content>#stitch with @Kurt Russell #greenscreen </content>
-    <link href="https://tiktok.com/@avocadosnaliens/video/7249215791323712814" rel="alternate"/>
-    <published>2023-06-27T04:19:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avocadosnaliens/video/7249563457794657582</id>
     <title>[no title]</title>
@@ -91,5 +83,13 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@avocadosnaliens/video/7255153902125911338" rel="alternate"/>
     <published>2023-07-13T04:22:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7255740657061514542</id>
+    <title>Off to shoot cute people in love. Wishing you all a fulfilling, productive day🫶 #grwm #dayinmylife #selfcare #whatislife </title>
+    <updated>2023-07-14T18:19:41+00:00</updated>
+    <content>Off to shoot cute people in love. Wishing you all a fulfilling, productive day🫶 #grwm #dayinmylife #selfcare #whatislife </content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7255740657061514542" rel="alternate"/>
+    <published>2023-07-14T18:19:41+00:00</published>
   </entry>
 </feed>
