@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@transcendent_tess</id>
   <title>@transcendent_tess | TikTok</title>
-  <updated>2023-06-20T14:06:14+00:00</updated>
+  <updated>2023-07-09T17:16:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @transcendent_tess</subtitle>
-  <entry>
-    <id>https://tiktok.com/@transcendent_tess/video/7220086725887036718</id>
-    <title>I'm not dead, just got sad from doom scrolling. </title>
-    <updated>2023-04-09T16:24:14+00:00</updated>
-    <content>I'm not dead, just got sad from doom scrolling. </content>
-    <link href="https://tiktok.com/@transcendent_tess/video/7220086725887036718" rel="alternate"/>
-    <published>2023-04-09T16:24:14+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@transcendent_tess/video/7221353645667781934</id>
-    <title>#stitch with @💎 RoseiQuartz 💎 I... couldn't resist. 🥴 #neurodivergent #adhd #impulsebuy #impulsivethoughts #lgbt🌈 #trans #alphabetmafia🌈 #fyp #xyzcba #spoons #mtf #transmtf #adhdtok </title>
-    <updated>2023-04-13T02:20:26+00:00</updated>
-    <content>#stitch with @💎 RoseiQuartz 💎 I... couldn't resist. 🥴 #neurodivergent #adhd #impulsebuy #impulsivethoughts #lgbt🌈 #trans #alphabetmafia🌈 #fyp #xyzcba #spoons #mtf #transmtf #adhdtok </content>
-    <link href="https://tiktok.com/@transcendent_tess/video/7221353645667781934" rel="alternate"/>
-    <published>2023-04-13T02:20:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@transcendent_tess/video/7224583919335673134</id>
     <title>Replying to @craw.carson yeah, that's a win.  thank you so much!!! #makeup #adhd #transwoman #lgbt🌈 #transmtf #trans </title>
@@ -91,5 +75,21 @@
     <content>this is my home, what do you think? 😏 #disclaimer #thisisajoke #trucker #truckerlife #trucktok #fyp #funny #lgbt🏳️‍🌈 #alphabetmafia🌈 #trans #transtrucker #mtf #hometour #homerenovation #cribs #parody #adhd #adhdtiktok </content>
     <link href="https://tiktok.com/@transcendent_tess/video/7246769234263444778" rel="alternate"/>
     <published>2023-06-20T14:06:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@transcendent_tess/video/7253783588959833387</id>
+    <title>I put a bed down there as a joke... now a gremlin literally sleeps under my stairs</title>
+    <updated>2023-07-09T11:46:11+00:00</updated>
+    <content>I put a bed down there as a joke... now a gremlin literally sleeps under my stairs</content>
+    <link href="https://tiktok.com/@transcendent_tess/video/7253783588959833387" rel="alternate"/>
+    <published>2023-07-09T11:46:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@transcendent_tess/video/7253869058720795947</id>
+    <title>#duet with @Don Marshall Backup Account like... do I have a choice? #notgoingtobed #middleoftheday #lazysunday #ineedsleep #nd #neurodivergent #lgbt🌈 #queer #trans </title>
+    <updated>2023-07-09T17:16:56+00:00</updated>
+    <content>#duet with @Don Marshall Backup Account like... do I have a choice? #notgoingtobed #middleoftheday #lazysunday #ineedsleep #nd #neurodivergent #lgbt🌈 #queer #trans </content>
+    <link href="https://tiktok.com/@transcendent_tess/video/7253869058720795947" rel="alternate"/>
+    <published>2023-07-09T17:16:56+00:00</published>
   </entry>
 </feed>
