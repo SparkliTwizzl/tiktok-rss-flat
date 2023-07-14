@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-07-10T15:32:54+00:00</updated>
+  <updated>2023-07-14T18:54:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7249166804751338757</id>
-    <title>#onthisday #maladytheclown </title>
-    <updated>2023-06-27T01:09:37+00:00</updated>
-    <content>#onthisday #maladytheclown </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7249166804751338757" rel="alternate"/>
-    <published>2023-06-27T01:09:37+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7249733177428675845</id>
-    <title>#onthisday #maladytheclown #cosplayoc #dancesinshadows </title>
-    <updated>2023-06-28T13:47:24+00:00</updated>
-    <content>#onthisday #maladytheclown #cosplayoc #dancesinshadows </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7249733177428675845" rel="alternate"/>
-    <published>2023-06-28T13:47:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7250850300926364933</id>
     <title>Just a reminder...  #onthisday #maladytheclown #cosplayoc #dancesinshadows </title>
@@ -91,5 +75,21 @@
     <content>had a great night out w a friend: front row to see my favorite rupaul enby @Adore Delano  and local Queens slay ❤️ I'll try to tag performers in a pinned comment #funnight #dragshow #adoredelanoparty  #hamiltondrag #hoas </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7254213379282226437" rel="alternate"/>
     <published>2023-07-10T15:32:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7255725245238201606</id>
+    <title>feel free to duet ❤️ #maladytheclown #clown #foamwig #icecream </title>
+    <updated>2023-07-14T17:19:42+00:00</updated>
+    <content>feel free to duet ❤️ #maladytheclown #clown #foamwig #icecream </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7255725245238201606" rel="alternate"/>
+    <published>2023-07-14T17:19:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7255749672436862213</id>
+    <title>#onthisday #maladytheclown #dancesinshadows #throwback </title>
+    <updated>2023-07-14T18:54:31+00:00</updated>
+    <content>#onthisday #maladytheclown #dancesinshadows #throwback </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7255749672436862213" rel="alternate"/>
+    <published>2023-07-14T18:54:31+00:00</published>
   </entry>
 </feed>
