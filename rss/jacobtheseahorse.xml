@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jacobtheseahorse</id>
   <title>@jacobtheseahorse | TikTok</title>
-  <updated>2023-07-14T10:10:20+00:00</updated>
+  <updated>2023-07-15T07:43:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jacobtheseahorse</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7251207284716522779</id>
-    <title>I am open to feedback from anyone who's loved experience is outside of the cis/trans binary, as well as people from cultural experiences that assign sex and gender in other ways. it's your voices that I want to uplift here. there is so much more to cover </title>
-    <updated>2023-07-02T13:07:47+00:00</updated>
-    <content>I am open to feedback from anyone who's loved experience is outside of the cis/trans binary, as well as people from cultural experiences that assign sex and gender in other ways. it's your voices that I want to uplift here. there is so much more to cover around intersex experiences and how they intersect with trans-ness, not to mention the damage that happens to so many intersex peoples bodies and lives when they are forced into cisnormativity through surgery (and more). #trans #cis #intersex #agab #assigned #gender #sex #intersectionalfeminism #western </content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7251207284716522779" rel="alternate"/>
-    <published>2023-07-02T13:07:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7254199877171793178</id>
-    <title>I want to make the world a better place for all trans people, and especially trans people who are marginalised in other intersecting ways.  if you wanna help me out, share what I do with people who might need the support with being more trans inclusive  f</title>
-    <updated>2023-07-10T14:40:36+00:00</updated>
-    <content>I want to make the world a better place for all trans people, and especially trans people who are marginalised in other intersecting ways.  if you wanna help me out, share what I do with people who might need the support with being more trans inclusive  find out more about what I do in my shmink in shmio or bit . ly / seacourses #trans #midwife #midwifery #pregnancy #pregnant #birth #doula #perinatal #maternity #transgender #lgbt </content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7254199877171793178" rel="alternate"/>
-    <published>2023-07-10T14:40:36+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jacobtheseahorse/video/7254265696262147355</id>
     <title>Replying to @massivechocchipcookie I'm always grateful to be asked questions! this isn't the first time I've been asked this and it won't be the last so I'll keep answering 💜🏳️‍⚧️ for the CQC study see the resources tab on my shmink in shmio #trans #pregn</title>
@@ -91,5 +75,21 @@
     <content>Replying to @30yearoldlady when trans people get together irl the thing we talk about the least is gender. there's no struggle or expectations, we just exist as humans, trusting that the person in front of us knows best who they are. gender is at its most boring when it's cisnormative, rigid and imposed.  #trans #transgender #gender </content>
     <link href="https://tiktok.com/@jacobtheseahorse/video/7255614584747330842" rel="alternate"/>
     <published>2023-07-14T10:10:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7255740784996044059</id>
+    <title>nonbinaries of all grump levels welcome 💛🤍💜🖤 also just a reminder that nonbinary people can use any pronouns (including "gendered" ones and can look any way that feels right to them. #nonbinaryday #enby #nonbinary #trans</title>
+    <updated>2023-07-14T18:20:05+00:00</updated>
+    <content>nonbinaries of all grump levels welcome 💛🤍💜🖤 also just a reminder that nonbinary people can use any pronouns (including "gendered" ones and can look any way that feels right to them. #nonbinaryday #enby #nonbinary #trans</content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7255740784996044059" rel="alternate"/>
+    <published>2023-07-14T18:20:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7255947776498945307</id>
+    <title>at 11 years old I couldn't see a world with me in it. it sometimes feels miraculous that I'm still here at all.  it feels incredible to conceive that I have the chance to live until I see that older man in the mirror.  when we say "protect trans youth", w</title>
+    <updated>2023-07-15T07:43:26+00:00</updated>
+    <content>at 11 years old I couldn't see a world with me in it. it sometimes feels miraculous that I'm still here at all.  it feels incredible to conceive that I have the chance to live until I see that older man in the mirror.  when we say "protect trans youth", we're talking from experience as the trans youth that needed protecting.  #trans #oldagefilter #mentalhealth </content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7255947776498945307" rel="alternate"/>
+    <published>2023-07-15T07:43:26+00:00</published>
   </entry>
 </feed>
