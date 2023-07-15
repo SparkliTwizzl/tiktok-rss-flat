@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-07-13T21:10:47+00:00</updated>
+  <updated>2023-07-14T21:04:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7251343739283737902</id>
-    <title>Get friends that let you use them as weights 🫡 @Emily✨ took that place today  #denverfanexpo #buffwomen #gymtok #workout </title>
-    <updated>2023-07-02T21:57:25+00:00</updated>
-    <content>Get friends that let you use them as weights 🫡 @Emily✨ took that place today  #denverfanexpo #buffwomen #gymtok #workout </content>
-    <link href="https://tiktok.com/@athena__cos/video/7251343739283737902" rel="alternate"/>
-    <published>2023-07-02T21:57:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7252060415058890030</id>
     <title>Just add water  #rengoku #demonslayer #lego #swordtiktok #swordtok </title>
@@ -91,5 +83,13 @@
     <content>I aspire to be the muscle queens icons that Adora and Wonder Woman are #wonderwoman #sheracosplay #wonderwomancosplay #wlwcosplay #wlw #bicon #musclequeen #shera @Bella LeBaron  </content>
     <link href="https://tiktok.com/@athena__cos/video/7255413689296145706" rel="alternate"/>
     <published>2023-07-13T21:10:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7255783211463232814</id>
+    <title>Get ready for some revamped Korra coming in a couple weeks! #korra #korracosplay #korrasami #avatar #avatarcosplay </title>
+    <updated>2023-07-14T21:04:46+00:00</updated>
+    <content>Get ready for some revamped Korra coming in a couple weeks! #korra #korracosplay #korrasami #avatar #avatarcosplay </content>
+    <link href="https://tiktok.com/@athena__cos/video/7255783211463232814" rel="alternate"/>
+    <published>2023-07-14T21:04:46+00:00</published>
   </entry>
 </feed>
