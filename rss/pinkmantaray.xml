@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pinkmantaray</id>
   <title>@pinkmantaray | TikTok</title>
-  <updated>2023-07-12T19:52:47+00:00</updated>
+  <updated>2023-07-14T22:19:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @pinkmantaray</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pinkmantaray/video/7252882286192889130</id>
-    <title>Thoughts after my shower #transjoy #genderaffirmingcare #gender #transgender #transition </title>
-    <updated>2023-07-07T01:27:37+00:00</updated>
-    <content>Thoughts after my shower #transjoy #genderaffirmingcare #gender #transgender #transition </content>
-    <link href="https://tiktok.com/@pinkmantaray/video/7252882286192889130" rel="alternate"/>
-    <published>2023-07-07T01:27:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pinkmantaray/video/7253176326796889390</id>
     <title>#shooting #gunviolenceneedstostop #transgender #commonsense </title>
@@ -91,5 +83,13 @@
     <content>Crossfit as a trans man! #transman #crossfit #workoutroutine #athlete #transathlete </content>
     <link href="https://tiktok.com/@pinkmantaray/video/7255022489951145259" rel="alternate"/>
     <published>2023-07-12T19:52:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pinkmantaray/video/7255802351074790702</id>
+    <title>Trans people are not telling cis kids to be trans. We just want trans kids to be affirmed and protected. #protecttranskids #trans #gender #kids #lgbtq </title>
+    <updated>2023-07-14T22:19:04+00:00</updated>
+    <content>Trans people are not telling cis kids to be trans. We just want trans kids to be affirmed and protected. #protecttranskids #trans #gender #kids #lgbtq </content>
+    <link href="https://tiktok.com/@pinkmantaray/video/7255802351074790702" rel="alternate"/>
+    <published>2023-07-14T22:19:04+00:00</published>
   </entry>
 </feed>
