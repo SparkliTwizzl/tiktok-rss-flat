@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-07-14T18:54:31+00:00</updated>
+  <updated>2023-07-15T17:12:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7250850300926364933</id>
-    <title>Just a reminder...  #onthisday #maladytheclown #cosplayoc #dancesinshadows </title>
-    <updated>2023-07-01T14:02:25+00:00</updated>
-    <content>Just a reminder...  #onthisday #maladytheclown #cosplayoc #dancesinshadows </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7250850300926364933" rel="alternate"/>
-    <published>2023-07-01T14:02:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7251414614309702917</id>
     <title>More throwbacks 💙 #glumthesupernaturalhitman #drag #dragking #onthisday #dancesinshadows </title>
@@ -91,5 +83,13 @@
     <content>#onthisday #maladytheclown #dancesinshadows #throwback </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7255749672436862213" rel="alternate"/>
     <published>2023-07-14T18:54:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7256094507794517253</id>
+    <title>#onthisday #maladytheclown </title>
+    <updated>2023-07-15T17:12:38+00:00</updated>
+    <content>#onthisday #maladytheclown </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7256094507794517253" rel="alternate"/>
+    <published>2023-07-15T17:12:38+00:00</published>
   </entry>
 </feed>
