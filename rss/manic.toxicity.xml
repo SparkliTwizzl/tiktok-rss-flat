@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@manic.toxicity</id>
   <title>@manic.toxicity | TikTok</title>
-  <updated>2023-07-14T23:05:42+00:00</updated>
+  <updated>2023-07-15T21:04:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @manic.toxicity</subtitle>
-  <entry>
-    <id>https://tiktok.com/@manic.toxicity/video/7251990893522079022</id>
-    <title>Replying to @Colin MacKenn  peep the bed head :)  #fup #foryou </title>
-    <updated>2023-07-04T15:48:42+00:00</updated>
-    <content>Replying to @Colin MacKenn  peep the bed head :)  #fup #foryou </content>
-    <link href="https://tiktok.com/@manic.toxicity/video/7251990893522079022" rel="alternate"/>
-    <published>2023-07-04T15:48:42+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@manic.toxicity/video/7252130622825696555</id>
-    <title>twitch stream starts in 10 mins!! 8pm CST!  this jam of a song from @Dexter &amp; The Moonrocks drops in 10 days! make sure you have it presaved !  #fyp #foryou #twitch </title>
-    <updated>2023-07-05T00:50:54+00:00</updated>
-    <content>twitch stream starts in 10 mins!! 8pm CST!  this jam of a song from @Dexter &amp; The Moonrocks drops in 10 days! make sure you have it presaved !  #fyp #foryou #twitch </content>
-    <link href="https://tiktok.com/@manic.toxicity/video/7252130622825696555" rel="alternate"/>
-    <published>2023-07-05T00:50:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@manic.toxicity/video/7252795818728721710</id>
-    <title>pov: shes drunk in the first clip  #fyp #foryou </title>
-    <updated>2023-07-06T19:52:09+00:00</updated>
-    <content>pov: shes drunk in the first clip  #fyp #foryou </content>
-    <link href="https://tiktok.com/@manic.toxicity/video/7252795818728721710" rel="alternate"/>
-    <published>2023-07-06T19:52:09+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@manic.toxicity/video/7252796146500848938</id>
     <title>em is my whole soul #fyp #foryou </title>
@@ -91,5 +67,29 @@
     <content>shtick. #fyp #foryou </content>
     <link href="https://tiktok.com/@manic.toxicity/video/7255814368435146026" rel="alternate"/>
     <published>2023-07-14T23:05:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@manic.toxicity/video/7256153268282281258</id>
+    <title>booyah. #fyp #foryou</title>
+    <updated>2023-07-15T21:00:49+00:00</updated>
+    <content>booyah. #fyp #foryou</content>
+    <link href="https://tiktok.com/@manic.toxicity/video/7256153268282281258" rel="alternate"/>
+    <published>2023-07-15T21:00:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@manic.toxicity/video/7256153516878908718</id>
+    <title>rip to my “eyebrows”… funfact: my manager thought my eyebrows were real for months 💀💀  #fyp #foryou </title>
+    <updated>2023-07-15T21:01:48+00:00</updated>
+    <content>rip to my “eyebrows”… funfact: my manager thought my eyebrows were real for months 💀💀  #fyp #foryou </content>
+    <link href="https://tiktok.com/@manic.toxicity/video/7256153516878908718" rel="alternate"/>
+    <published>2023-07-15T21:01:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@manic.toxicity/video/7256154212655025450</id>
+    <title>the devil said “hey” #fyp #foryou</title>
+    <updated>2023-07-15T21:04:30+00:00</updated>
+    <content>the devil said “hey” #fyp #foryou</content>
+    <link href="https://tiktok.com/@manic.toxicity/video/7256154212655025450" rel="alternate"/>
+    <published>2023-07-15T21:04:30+00:00</published>
   </entry>
 </feed>
