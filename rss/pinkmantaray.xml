@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pinkmantaray</id>
   <title>@pinkmantaray | TikTok</title>
-  <updated>2023-07-14T22:19:04+00:00</updated>
+  <updated>2023-07-15T21:15:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @pinkmantaray</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pinkmantaray/video/7253176326796889390</id>
-    <title>#shooting #gunviolenceneedstostop #transgender #commonsense </title>
-    <updated>2023-07-07T20:28:43+00:00</updated>
-    <content>#shooting #gunviolenceneedstostop #transgender #commonsense </content>
-    <link href="https://tiktok.com/@pinkmantaray/video/7253176326796889390" rel="alternate"/>
-    <published>2023-07-07T20:28:43+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pinkmantaray/video/7253534700898143531</id>
     <title>Day 2 of recording the audibook for #HeSheyThey! I'm so excited to get this out to y'all this October 💕🏳️‍⚧️ #transgender #genderliteracy #booktok #bookworm #author  </title>
@@ -91,5 +83,13 @@
     <content>Trans people are not telling cis kids to be trans. We just want trans kids to be affirmed and protected. #protecttranskids #trans #gender #kids #lgbtq </content>
     <link href="https://tiktok.com/@pinkmantaray/video/7255802351074790702" rel="alternate"/>
     <published>2023-07-14T22:19:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pinkmantaray/video/7256157131920002347</id>
+    <title>Should trans people tell others that they are trans?? Listen to @Mila Jam's episode on #DearSchuyler anywhere you get your podcasts! #podcast #transgender #datingadvice #datingwhiletrans </title>
+    <updated>2023-07-15T21:15:51+00:00</updated>
+    <content>Should trans people tell others that they are trans?? Listen to @Mila Jam's episode on #DearSchuyler anywhere you get your podcasts! #podcast #transgender #datingadvice #datingwhiletrans </content>
+    <link href="https://tiktok.com/@pinkmantaray/video/7256157131920002347" rel="alternate"/>
+    <published>2023-07-15T21:15:51+00:00</published>
   </entry>
 </feed>

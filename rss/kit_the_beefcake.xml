@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kit_the_beefcake</id>
   <title>@kit_the_beefcake | TikTok</title>
-  <updated>2023-07-14T22:40:44+00:00</updated>
+  <updated>2023-07-16T06:56:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -37,14 +37,6 @@
     <published>2023-07-09T01:26:53+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7253759236100853038</id>
-    <title>#kitthebeefcake </title>
-    <updated>2023-07-09T10:11:35+00:00</updated>
-    <content>#kitthebeefcake </content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7253759236100853038" rel="alternate"/>
-    <published>2023-07-09T10:11:35+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7254445997231820075</id>
     <title>#kitthebeefcake </title>
     <updated>2023-07-11T06:35:57+00:00</updated>
@@ -77,19 +69,27 @@
     <published>2023-07-13T22:45:53+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7255664734991650090</id>
-    <title>The best adventures you and me 💜 #kitthebeefcake #CapCut </title>
-    <updated>2023-07-14T13:25:02+00:00</updated>
-    <content>The best adventures you and me 💜 #kitthebeefcake #CapCut </content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7255664734991650090" rel="alternate"/>
-    <published>2023-07-14T13:25:02+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7255807955403017514</id>
     <title>#kitthebeefcake </title>
     <updated>2023-07-14T22:40:44+00:00</updated>
     <content>#kitthebeefcake </content>
     <link href="https://tiktok.com/@kit_the_beefcake/video/7255807955403017514" rel="alternate"/>
     <published>2023-07-14T22:40:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7256219623341804842</id>
+    <title>#kitthebeefcake </title>
+    <updated>2023-07-16T01:18:18+00:00</updated>
+    <content>#kitthebeefcake </content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7256219623341804842" rel="alternate"/>
+    <published>2023-07-16T01:18:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7256306601353809198</id>
+    <title>#gymgirl #gains #biceps #fishnets #fakebody #sundress #shorthair #kitthebeefcake </title>
+    <updated>2023-07-16T06:56:06+00:00</updated>
+    <content>#gymgirl #gains #biceps #fishnets #fakebody #sundress #shorthair #kitthebeefcake </content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7256306601353809198" rel="alternate"/>
+    <published>2023-07-16T06:56:06+00:00</published>
   </entry>
 </feed>
