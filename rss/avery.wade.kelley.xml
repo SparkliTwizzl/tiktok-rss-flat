@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-07-14T21:38:14+00:00</updated>
+  <updated>2023-07-16T17:15:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7252008834158333226</id>
-    <title>#duet with @endeavorance #news God damn it. #trans </title>
-    <updated>2023-07-04T16:58:20+00:00</updated>
-    <content>#duet with @endeavorance #news God damn it. #trans </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7252008834158333226" rel="alternate"/>
-    <published>2023-07-04T16:58:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7252443244716625198</id>
     <title>@Adriana Nightmare has been my ride or die, number one supporter, and my blood and chosen family for all of my life. I love you! #fyp #trans #greenscreen </title>
@@ -91,5 +83,13 @@
     <content>Replying to @lee75556 I hope this helps understand our plight. Trans women just want to be as safe as you are. They don't want to harm you, trust me. #fyp #trans </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7255791834369117483" rel="alternate"/>
     <published>2023-07-14T21:38:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7256466307934342446</id>
+    <title>#duet with @Local_lezbian #fyp We just want to use the bathroom. I stand STRONG and LOUD with my trans sisters. We're in this TOGETHER. #Trans </title>
+    <updated>2023-07-16T17:15:39+00:00</updated>
+    <content>#duet with @Local_lezbian #fyp We just want to use the bathroom. I stand STRONG and LOUD with my trans sisters. We're in this TOGETHER. #Trans </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7256466307934342446" rel="alternate"/>
+    <published>2023-07-16T17:15:39+00:00</published>
   </entry>
 </feed>
