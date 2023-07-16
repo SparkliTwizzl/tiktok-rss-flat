@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avocadosnaliens</id>
   <title>@avocadosnaliens | TikTok</title>
-  <updated>2023-07-14T18:19:41+00:00</updated>
+  <updated>2023-07-15T22:10:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avocadosnaliens</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avocadosnaliens/video/7249563457794657582</id>
-    <title>[no title]</title>
-    <updated>2023-06-28T02:48:56+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@avocadosnaliens/video/7249563457794657582" rel="alternate"/>
-    <published>2023-06-28T02:48:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@avocadosnaliens/video/7249909537342524718</id>
-    <title>[no title]</title>
-    <updated>2023-06-29T01:11:57+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@avocadosnaliens/video/7249909537342524718" rel="alternate"/>
-    <published>2023-06-29T01:11:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avocadosnaliens/video/7250576283036536110</id>
     <title>This is the only way my l!ngerie gets worn. On my way to ruin every outfit with dirty converse thanks for watching #closettour #victoriassecret #foryou </title>
@@ -91,5 +75,21 @@
     <content>Off to shoot cute people in love. Wishing you all a fulfilling, productive day🫶 #grwm #dayinmylife #selfcare #whatislife </content>
     <link href="https://tiktok.com/@avocadosnaliens/video/7255740657061514542" rel="alternate"/>
     <published>2023-07-14T18:19:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7256154434365852970</id>
+    <title>[no title]</title>
+    <updated>2023-07-15T21:05:20+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7256154434365852970" rel="alternate"/>
+    <published>2023-07-15T21:05:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7256171266594409771</id>
+    <title>[no title]</title>
+    <updated>2023-07-15T22:10:40+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7256171266594409771" rel="alternate"/>
+    <published>2023-07-15T22:10:40+00:00</published>
   </entry>
 </feed>
