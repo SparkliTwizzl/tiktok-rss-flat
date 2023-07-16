@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@liil.dork.alex</id>
   <title>@liil.dork.alex | TikTok</title>
-  <updated>2023-07-11T01:58:35+00:00</updated>
+  <updated>2023-07-16T02:05:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @liil.dork.alex</subtitle>
-  <entry>
-    <id>https://tiktok.com/@liil.dork.alex/video/7242252208404892974</id>
-    <title>⚠️Flash ⚠️  this strobe filter goes so well with this sound </title>
-    <updated>2023-06-08T09:57:38+00:00</updated>
-    <content>⚠️Flash ⚠️  this strobe filter goes so well with this sound </content>
-    <link href="https://tiktok.com/@liil.dork.alex/video/7242252208404892974" rel="alternate"/>
-    <published>2023-06-08T09:57:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@liil.dork.alex/video/7242481033558412587</id>
     <title>[no title]</title>
@@ -91,5 +83,13 @@
     <content>@Justin Blake hooked me up with the sun/moon and slug 😩 thank you again b, did the last one myself :) </content>
     <link href="https://tiktok.com/@liil.dork.alex/video/7254374588283358506" rel="alternate"/>
     <published>2023-07-11T01:58:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@liil.dork.alex/video/7256231678098558254</id>
+    <title>In my dreams 🌌💫</title>
+    <updated>2023-07-16T02:05:02+00:00</updated>
+    <content>In my dreams 🌌💫</content>
+    <link href="https://tiktok.com/@liil.dork.alex/video/7256231678098558254" rel="alternate"/>
+    <published>2023-07-16T02:05:02+00:00</published>
   </entry>
 </feed>
