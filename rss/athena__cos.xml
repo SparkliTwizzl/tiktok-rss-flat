@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-07-14T21:04:46+00:00</updated>
+  <updated>2023-07-16T19:18:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7252060415058890030</id>
-    <title>Just add water  #rengoku #demonslayer #lego #swordtiktok #swordtok </title>
-    <updated>2023-07-04T20:18:23+00:00</updated>
-    <content>Just add water  #rengoku #demonslayer #lego #swordtiktok #swordtok </content>
-    <link href="https://tiktok.com/@athena__cos/video/7252060415058890030" rel="alternate"/>
-    <published>2023-07-04T20:18:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7252441837430951211</id>
     <title>Ill get to all the other responses in part 2!  Let me know if this is a series we want to see more of 👀</title>
@@ -91,5 +83,13 @@
     <content>Get ready for some revamped Korra coming in a couple weeks! #korra #korracosplay #korrasami #avatar #avatarcosplay </content>
     <link href="https://tiktok.com/@athena__cos/video/7255783211463232814" rel="alternate"/>
     <published>2023-07-14T21:04:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7256497889441041710</id>
+    <title>Forest druid @Bella LeBaron  slightly emo @Jackie O  fairy barista @🦊prototype fox  #aesthetic #outfits #eachfriendgrouphas #friendgroup #cosplayers </title>
+    <updated>2023-07-16T19:18:07+00:00</updated>
+    <content>Forest druid @Bella LeBaron  slightly emo @Jackie O  fairy barista @🦊prototype fox  #aesthetic #outfits #eachfriendgrouphas #friendgroup #cosplayers </content>
+    <link href="https://tiktok.com/@athena__cos/video/7256497889441041710" rel="alternate"/>
+    <published>2023-07-16T19:18:07+00:00</published>
   </entry>
 </feed>
