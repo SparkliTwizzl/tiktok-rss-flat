@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-07-15T05:19:54+00:00</updated>
+  <updated>2023-07-16T05:37:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7251443902924737838</id>
-    <title>This dress never got the attention it deserves </title>
-    <updated>2023-07-03T04:26:01+00:00</updated>
-    <content>This dress never got the attention it deserves </content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7251443902924737838" rel="alternate"/>
-    <published>2023-07-03T04:26:01+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7252375275005054250</id>
-    <title>Someone said it’s giving clark kent </title>
-    <updated>2023-07-05T16:40:19+00:00</updated>
-    <content>Someone said it’s giving clark kent </content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7252375275005054250" rel="alternate"/>
-    <published>2023-07-05T16:40:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7252386130698439978</id>
     <title>Tag yourself, I’m the bowl of dirt </title>
@@ -91,5 +75,21 @@
     <content>Name the plushie for a kiss on the forehead</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7255910795182099754" rel="alternate"/>
     <published>2023-07-15T05:19:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7256215828356402478</id>
+    <title>Any tips on clear skin?</title>
+    <updated>2023-07-16T01:03:29+00:00</updated>
+    <content>Any tips on clear skin?</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7256215828356402478" rel="alternate"/>
+    <published>2023-07-16T01:03:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7256286341770513706</id>
+    <title>When people find out that I graduated with a science degree</title>
+    <updated>2023-07-16T05:37:12+00:00</updated>
+    <content>When people find out that I graduated with a science degree</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7256286341770513706" rel="alternate"/>
+    <published>2023-07-16T05:37:12+00:00</published>
   </entry>
 </feed>
