@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@juliafox038711</id>
   <title>@juliafox038711 | TikTok</title>
-  <updated>2023-07-14T20:55:24+00:00</updated>
+  <updated>2023-07-16T02:12:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juliafox038711</subtitle>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7255475286983200042</id>
-    <title>this was about 3 years ago but its still funny, knew kt was comin</title>
-    <updated>2023-07-14T01:09:49+00:00</updated>
-    <content>this was about 3 years ago but its still funny, knew kt was comin</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7255475286983200042" rel="alternate"/>
-    <published>2023-07-14T01:09:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@juliafox038711/video/7255485695106534699</id>
     <title>most bewildering feeling </title>
@@ -91,5 +83,13 @@
     <content>be a thermometer, not a thermostat :D</content>
     <link href="https://tiktok.com/@juliafox038711/video/7255780795804077355" rel="alternate"/>
     <published>2023-07-14T20:55:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7256233673626783019</id>
+    <title>nothing could have prepared me for that #:)</title>
+    <updated>2023-07-16T02:12:48+00:00</updated>
+    <content>nothing could have prepared me for that #:)</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7256233673626783019" rel="alternate"/>
+    <published>2023-07-16T02:12:48+00:00</published>
   </entry>
 </feed>
