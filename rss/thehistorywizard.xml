@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thehistorywizard</id>
   <title>@thehistorywizard | TikTok</title>
-  <updated>2023-07-15T18:11:37+00:00</updated>
+  <updated>2023-07-15T23:24:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thehistorywizard</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thehistorywizard/video/7252080402096049450</id>
-    <title>#stitch with @Nick Conner A slight correction. #thehistorywizard #anime #manga #blackclover </title>
-    <updated>2023-07-04T21:36:02+00:00</updated>
-    <content>#stitch with @Nick Conner A slight correction. #thehistorywizard #anime #manga #blackclover </content>
-    <link href="https://tiktok.com/@thehistorywizard/video/7252080402096049450" rel="alternate"/>
-    <published>2023-07-04T21:36:02+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thehistorywizard/video/7252332785329868074</id>
     <title>#stitch with @litxkage Choose wisely comrades. #thehistorywizard #historytiktok #edutok #learnontiktok #wizardcommunism #anime </title>
@@ -91,5 +83,13 @@
     <content>Bringing back this gem because it will never not be relevant. #thehistorywizard #historytiktok #edutok #learnontiktok #wizardcommunism #onthisday </content>
     <link href="https://tiktok.com/@thehistorywizard/video/7256109667657518379" rel="alternate"/>
     <published>2023-07-15T18:11:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thehistorywizard/video/7256190392838901038</id>
+    <title>Replying to @joyfulpestilence Don't do this to yourself again. #thehistorywizard #historytiktok #edutok #learnontiktok #wizardcommunism #greenscreen </title>
+    <updated>2023-07-15T23:24:56+00:00</updated>
+    <content>Replying to @joyfulpestilence Don't do this to yourself again. #thehistorywizard #historytiktok #edutok #learnontiktok #wizardcommunism #greenscreen </content>
+    <link href="https://tiktok.com/@thehistorywizard/video/7256190392838901038" rel="alternate"/>
+    <published>2023-07-15T23:24:56+00:00</published>
   </entry>
 </feed>
