@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jacobtheseahorse</id>
   <title>@jacobtheseahorse | TikTok</title>
-  <updated>2023-07-15T07:43:26+00:00</updated>
+  <updated>2023-07-16T07:48:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jacobtheseahorse</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7254265696262147355</id>
-    <title>Replying to @massivechocchipcookie I'm always grateful to be asked questions! this isn't the first time I've been asked this and it won't be the last so I'll keep answering 💜🏳️‍⚧️ for the CQC study see the resources tab on my shmink in shmio #trans #pregn</title>
-    <updated>2023-07-10T18:55:57+00:00</updated>
-    <content>Replying to @massivechocchipcookie I'm always grateful to be asked questions! this isn't the first time I've been asked this and it won't be the last so I'll keep answering 💜🏳️‍⚧️ for the CQC study see the resources tab on my shmink in shmio #trans #pregnancy #pregnant #man #ftm #afab #transgender #midwifery #cqc #healthcare </content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7254265696262147355" rel="alternate"/>
-    <published>2023-07-10T18:55:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jacobtheseahorse/video/7254282925741575450</id>
     <title>Replying to @account57959  all figures in this came from chatGPT which may have pulled these figures out of its proverbial. but the point still stands, we often make accomodations for the 1%, often with unexpected benefits for others too. a trans inclusiv</title>
@@ -91,5 +83,13 @@
     <content>at 11 years old I couldn't see a world with me in it. it sometimes feels miraculous that I'm still here at all.  it feels incredible to conceive that I have the chance to live until I see that older man in the mirror.  when we say "protect trans youth", we're talking from experience as the trans youth that needed protecting.  #trans #oldagefilter #mentalhealth </content>
     <link href="https://tiktok.com/@jacobtheseahorse/video/7255947776498945307" rel="alternate"/>
     <published>2023-07-15T07:43:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7256320181255867674</id>
+    <title>Replying to @ms_nightstar this was a difficult video to record and I imagine it might be a difficult video to watch. please be careful with yourself while watching. being targeted during my pregnancy was an event that triggered a deeply powerful shift in </title>
+    <updated>2023-07-16T07:48:33+00:00</updated>
+    <content>Replying to @ms_nightstar this was a difficult video to record and I imagine it might be a difficult video to watch. please be careful with yourself while watching. being targeted during my pregnancy was an event that triggered a deeply powerful shift in my mental health that left me very unwell for 2 years and hugely affected my relationship with my baby (and everyone else). I was also let down by mental health services despite reaching out for help, but that's another story  #trans #mentalhealth #SA #survivor #storytime #transgender #pregnancy #tw </content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7256320181255867674" rel="alternate"/>
+    <published>2023-07-16T07:48:33+00:00</published>
   </entry>
 </feed>
