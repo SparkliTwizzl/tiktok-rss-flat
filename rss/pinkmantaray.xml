@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pinkmantaray</id>
   <title>@pinkmantaray | TikTok</title>
-  <updated>2023-07-17T03:17:16+00:00</updated>
+  <updated>2023-07-17T12:43:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @pinkmantaray</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pinkmantaray/video/7253547298817379627</id>
-    <title>##Genderaffirmingcare is medically necessay, age appropriate, and lifesaving care. ##healthcare##transhealth##transgender##transition##transkids</title>
-    <updated>2023-07-08T20:28:21+00:00</updated>
-    <content>##Genderaffirmingcare is medically necessay, age appropriate, and lifesaving care. ##healthcare##transhealth##transgender##transition##transkids</content>
-    <link href="https://tiktok.com/@pinkmantaray/video/7253547298817379627" rel="alternate"/>
-    <published>2023-07-08T20:28:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pinkmantaray/video/7253552377477745966</id>
     <title>Anti-trans rhetoric is alllll about protexting power and "normalcy," not children. #intersexrights #transgender #genderaffirmingcare #trans </title>
@@ -91,5 +83,13 @@
     <content>What happens when trans people tell others we are trans?? Listen to the whole episode of #DEARSCHUYLER with @Mila Jam anywhere you get your podcasts 💕🏳️‍⚧️ #podcast #transgender #dating #datingwhiletrans </content>
     <link href="https://tiktok.com/@pinkmantaray/video/7256621376830737706" rel="alternate"/>
     <published>2023-07-17T03:17:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pinkmantaray/video/7256767192652434730</id>
+    <title>We had such a lovely time visiting #chitown together with our baby! #dogparents #traveltiktok #transgender #queercouple #couplegoals </title>
+    <updated>2023-07-17T12:43:32+00:00</updated>
+    <content>We had such a lovely time visiting #chitown together with our baby! #dogparents #traveltiktok #transgender #queercouple #couplegoals </content>
+    <link href="https://tiktok.com/@pinkmantaray/video/7256767192652434730" rel="alternate"/>
+    <published>2023-07-17T12:43:32+00:00</published>
   </entry>
 </feed>
