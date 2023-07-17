@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@nopanicbutton</id>
   <title>@nopanicbutton | TikTok</title>
-  <updated>2023-07-14T14:27:28+00:00</updated>
+  <updated>2023-07-17T19:08:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @nopanicbutton</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nopanicbutton/video/7247996017218473259</id>
-    <title>It's important to let the smith know what you want the blade to do. Money is nice too! #bitcoinpayment #moneyopensdoorsandcloseseyes </title>
-    <updated>2023-06-23T21:26:30+00:00</updated>
-    <content>It's important to let the smith know what you want the blade to do. Money is nice too! #bitcoinpayment #moneyopensdoorsandcloseseyes </content>
-    <link href="https://tiktok.com/@nopanicbutton/video/7247996017218473259" rel="alternate"/>
-    <published>2023-06-23T21:26:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nopanicbutton/video/7249096907547610410</id>
     <title>Yes, he swallowed the ear plugs. This one may need to come back in a few years. #blessyourheart #special </title>
@@ -91,5 +83,13 @@
     <content>Date nights are getting interesting. #datenight #groupdating #murdermystery Be sure to join us on Discord! Link in bio!</content>
     <link href="https://tiktok.com/@nopanicbutton/video/7255680801528876330" rel="alternate"/>
     <published>2023-07-14T14:27:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nopanicbutton/video/7256866618033179946</id>
+    <title>Ever have regular after finally getting over your caffeine addiction? #caffeine #deathwishcoffee #notapaidadvertisement </title>
+    <updated>2023-07-17T19:08:59+00:00</updated>
+    <content>Ever have regular after finally getting over your caffeine addiction? #caffeine #deathwishcoffee #notapaidadvertisement </content>
+    <link href="https://tiktok.com/@nopanicbutton/video/7256866618033179946" rel="alternate"/>
+    <published>2023-07-17T19:08:59+00:00</published>
   </entry>
 </feed>

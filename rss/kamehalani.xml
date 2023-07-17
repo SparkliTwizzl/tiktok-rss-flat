@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kamehalani</id>
   <title>@kamehalani | TikTok</title>
-  <updated>2023-07-13T19:45:41+00:00</updated>
+  <updated>2023-07-17T19:34:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kamehalani</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kamehalani/video/7252535726372441386</id>
-    <title>Im having a hard candy day tbh #dollyparton #dollysongs </title>
-    <updated>2023-07-06T03:02:52+00:00</updated>
-    <content>Im having a hard candy day tbh #dollyparton #dollysongs </content>
-    <link href="https://tiktok.com/@kamehalani/video/7252535726372441386" rel="alternate"/>
-    <published>2023-07-06T03:02:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kamehalani/video/7253597598920084782</id>
     <title>Me and granny in 1912 LMAO </title>
@@ -91,5 +83,13 @@
     <content>Wow</content>
     <link href="https://tiktok.com/@kamehalani/video/7255391752163577130" rel="alternate"/>
     <published>2023-07-13T19:45:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kamehalani/video/7256873174535638318</id>
+    <title>Oop #jewishtiktok #jew #jewtok </title>
+    <updated>2023-07-17T19:34:28+00:00</updated>
+    <content>Oop #jewishtiktok #jew #jewtok </content>
+    <link href="https://tiktok.com/@kamehalani/video/7256873174535638318" rel="alternate"/>
+    <published>2023-07-17T19:34:28+00:00</published>
   </entry>
 </feed>
