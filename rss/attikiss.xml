@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@attikiss</id>
   <title>@attikiss | TikTok</title>
-  <updated>2022-05-09T01:42:08+00:00</updated>
+  <updated>2022-09-15T19:06:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @attikiss</subtitle>
-  <entry>
-    <id>https://tiktok.com/@attikiss/video/6844622251640261894</id>
-    <title>back at it again with the alex and Jesse content #YouGotIt #DeliveryHeroes #HealthyHabits6Step #art #drawing #tiktokartists #oc #fyp #foryou #ocart</title>
-    <updated>2020-07-01T21:10:06+00:00</updated>
-    <content>back at it again with the alex and Jesse content #YouGotIt #DeliveryHeroes #HealthyHabits6Step #art #drawing #tiktokartists #oc #fyp #foryou #ocart</content>
-    <link href="https://tiktok.com/@attikiss/video/6844622251640261894" rel="alternate"/>
-    <published>2020-07-01T21:10:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@attikiss/video/6847258817357516038</id>
     <title>i made this bc i wanted to mess around w the effects :) #drawing #FurnitureFlip #fyp #HomeGym #art #ocart #foryou</title>
@@ -91,5 +83,13 @@
     <content>⚠️TW⚠️ they aren’t all in order but yk. I love this trend so much #SearchForWonderMom #fyp #artistsoftiktok #art #artist #ocart</content>
     <link href="https://tiktok.com/@attikiss/video/7095545936847392043" rel="alternate"/>
     <published>2022-05-09T01:42:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@attikiss/video/7143684995880668458</id>
+    <title>remake of my most popular video— I cannot believe it’s been two years,, thank you for all of the love!! #fyp #DrPepperTuitionContest #ChewTheVibes #artistsoftiktok #ocart #art </title>
+    <updated>2022-09-15T19:06:36+00:00</updated>
+    <content>remake of my most popular video— I cannot believe it’s been two years,, thank you for all of the love!! #fyp #DrPepperTuitionContest #ChewTheVibes #artistsoftiktok #ocart #art </content>
+    <link href="https://tiktok.com/@attikiss/video/7143684995880668458" rel="alternate"/>
+    <published>2022-09-15T19:06:36+00:00</published>
   </entry>
 </feed>
