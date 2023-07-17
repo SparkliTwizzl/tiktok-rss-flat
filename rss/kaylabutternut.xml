@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-07-16T05:37:12+00:00</updated>
+  <updated>2023-07-17T02:29:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7252386130698439978</id>
-    <title>Tag yourself, I’m the bowl of dirt </title>
-    <updated>2023-07-05T17:22:20+00:00</updated>
-    <content>Tag yourself, I’m the bowl of dirt </content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7252386130698439978" rel="alternate"/>
-    <published>2023-07-05T17:22:20+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7252490429273279787</id>
-    <title>I was serious</title>
-    <updated>2023-07-06T00:07:01+00:00</updated>
-    <content>I was serious</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7252490429273279787" rel="alternate"/>
-    <published>2023-07-06T00:07:01+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7252585279742119211</id>
-    <title>Inspo @PeachJars </title>
-    <updated>2023-07-06T06:15:09+00:00</updated>
-    <content>Inspo @PeachJars </content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7252585279742119211" rel="alternate"/>
-    <published>2023-07-06T06:15:09+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7252914323234884907</id>
     <title>Valorent or Overwatch?</title>
@@ -91,5 +67,29 @@
     <content>When people find out that I graduated with a science degree</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7256286341770513706" rel="alternate"/>
     <published>2023-07-16T05:37:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7256573484585864490</id>
+    <title>Again</title>
+    <updated>2023-07-17T00:11:26+00:00</updated>
+    <content>Again</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7256573484585864490" rel="alternate"/>
+    <published>2023-07-17T00:11:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7256606510388661547</id>
+    <title>Cheeeeese :)</title>
+    <updated>2023-07-17T02:19:34+00:00</updated>
+    <content>Cheeeeese :)</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7256606510388661547" rel="alternate"/>
+    <published>2023-07-17T02:19:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7256609037595315499</id>
+    <title>One more bc i need attention </title>
+    <updated>2023-07-17T02:29:27+00:00</updated>
+    <content>One more bc i need attention </content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7256609037595315499" rel="alternate"/>
+    <published>2023-07-17T02:29:27+00:00</published>
   </entry>
 </feed>
