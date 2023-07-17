@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@atreegod</id>
   <title>@atreegod | TikTok</title>
-  <updated>2023-07-14T15:01:57+00:00</updated>
+  <updated>2023-07-16T15:59:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @atreegod</subtitle>
-  <entry>
-    <id>https://tiktok.com/@atreegod/video/7251671344440495406</id>
-    <title>Real #wlw #lgbtq </title>
-    <updated>2023-07-03T19:08:39+00:00</updated>
-    <content>Real #wlw #lgbtq </content>
-    <link href="https://tiktok.com/@atreegod/video/7251671344440495406" rel="alternate"/>
-    <published>2023-07-03T19:08:39+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@atreegod/video/7251992475320077610</id>
-    <title>Sc just legalized descrimination against lgbtq and ur turning up for what?  #wlw #lgbtq #pride </title>
-    <updated>2023-07-04T15:54:58+00:00</updated>
-    <content>Sc just legalized descrimination against lgbtq and ur turning up for what?  #wlw #lgbtq #pride </content>
-    <link href="https://tiktok.com/@atreegod/video/7251992475320077610" rel="alternate"/>
-    <published>2023-07-04T15:54:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@atreegod/video/7252521896372194602</id>
     <title>Woods readyyyy #nyc #wlw #lgbtq </title>
@@ -91,5 +75,21 @@
     <content>Whyd it cut me off i was turning up #wlw #lgbtq </content>
     <link href="https://tiktok.com/@atreegod/video/7255689693994421546" rel="alternate"/>
     <published>2023-07-14T15:01:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7256446046526541098</id>
+    <title>Lunch break tings #wlw #lgbtq </title>
+    <updated>2023-07-16T15:56:57+00:00</updated>
+    <content>Lunch break tings #wlw #lgbtq </content>
+    <link href="https://tiktok.com/@atreegod/video/7256446046526541098" rel="alternate"/>
+    <published>2023-07-16T15:56:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7256446621414870318</id>
+    <title>Real (im incredibly insecure) #wlw #lgbtq </title>
+    <updated>2023-07-16T15:59:19+00:00</updated>
+    <content>Real (im incredibly insecure) #wlw #lgbtq </content>
+    <link href="https://tiktok.com/@atreegod/video/7256446621414870318" rel="alternate"/>
+    <published>2023-07-16T15:59:19+00:00</published>
   </entry>
 </feed>
