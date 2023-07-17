@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-07-16T02:11:00+00:00</updated>
+  <updated>2023-07-16T20:21:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7252796105623145774</id>
-    <title>BMF: The Rise &amp; Fall of Big Meech &amp; The Black Mafia Family! #podcast #newpodcast #truecrime </title>
-    <updated>2023-07-06T19:53:13+00:00</updated>
-    <content>BMF: The Rise &amp; Fall of Big Meech &amp; The Black Mafia Family! #podcast #newpodcast #truecrime </content>
-    <link href="https://tiktok.com/@punktoad/video/7252796105623145774" rel="alternate"/>
-    <published>2023-07-06T19:53:13+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7253159589963877678</id>
     <title>He works so hard for me 🥰 #liver #appreciation </title>
@@ -91,5 +83,13 @@
     <content>Sad but tru #thisisfine #nofriendsirl #socialmedia </content>
     <link href="https://tiktok.com/@punktoad/video/7256233211259292970" rel="alternate"/>
     <published>2023-07-16T02:11:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7256514254956809515</id>
+    <title>Ill shake my lil butt #unmasked #unhinged #robzombie </title>
+    <updated>2023-07-16T20:21:41+00:00</updated>
+    <content>Ill shake my lil butt #unmasked #unhinged #robzombie </content>
+    <link href="https://tiktok.com/@punktoad/video/7256514254956809515" rel="alternate"/>
+    <published>2023-07-16T20:21:41+00:00</published>
   </entry>
 </feed>
