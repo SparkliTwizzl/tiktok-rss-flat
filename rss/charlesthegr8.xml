@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@charlesthegr8</id>
   <title>@charlesthegr8 | TikTok</title>
-  <updated>2023-07-16T02:53:48+00:00</updated>
+  <updated>2023-07-16T23:37:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @charlesthegr8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7249125328122055978</id>
-    <title>Huge difference #iykyk #relationship #relatable #charlesthegr8 </title>
-    <updated>2023-06-26T22:28:48+00:00</updated>
-    <content>Huge difference #iykyk #relationship #relatable #charlesthegr8 </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7249125328122055978" rel="alternate"/>
-    <published>2023-06-26T22:28:48+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7249783349353418030</id>
-    <title>Felt too real #iykyk #dream #charlesthegr8 </title>
-    <updated>2023-06-28T17:02:21+00:00</updated>
-    <content>Felt too real #iykyk #dream #charlesthegr8 </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7249783349353418030" rel="alternate"/>
-    <published>2023-06-28T17:02:21+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7250358438096588075</id>
-    <title>Cant seem to put the phone down after that 🤷🏾‍♂️#iykyk #dream #charlesthegr8 </title>
-    <updated>2023-06-30T06:13:50+00:00</updated>
-    <content>Cant seem to put the phone down after that 🤷🏾‍♂️#iykyk #dream #charlesthegr8 </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7250358438096588075" rel="alternate"/>
-    <published>2023-06-30T06:13:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@charlesthegr8/video/7250606938986171694</id>
     <title>Best form of stress relief 😈 #iykyk #relationship #relatable #charlesthegr8 </title>
@@ -91,5 +67,29 @@
     <content>The ideal #relationship 🙏🏽  #iykyk #charlesthegr8 </content>
     <link href="https://tiktok.com/@charlesthegr8/video/7256244241075014955" rel="alternate"/>
     <published>2023-07-16T02:53:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7256440381896690986</id>
+    <title>Music to my ears 😏 #iykyk #relationship #charlesthegr8 </title>
+    <updated>2023-07-16T15:35:05+00:00</updated>
+    <content>Music to my ears 😏 #iykyk #relationship #charlesthegr8 </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7256440381896690986" rel="alternate"/>
+    <published>2023-07-16T15:35:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7256529039119125802</id>
+    <title>Im obsessed 😤 #charlesthegr8 </title>
+    <updated>2023-07-16T21:18:57+00:00</updated>
+    <content>Im obsessed 😤 #charlesthegr8 </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7256529039119125802" rel="alternate"/>
+    <published>2023-07-16T21:18:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7256564855162047790</id>
+    <title>Might be toxic 😈 #charlesthegr8 </title>
+    <updated>2023-07-16T23:37:59+00:00</updated>
+    <content>Might be toxic 😈 #charlesthegr8 </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7256564855162047790" rel="alternate"/>
+    <published>2023-07-16T23:37:59+00:00</published>
   </entry>
 </feed>
