@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-07-14T00:48:30+00:00</updated>
+  <updated>2023-07-17T00:39:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7254612079372504362</id>
-    <title>Replying to @ladymin27 #reply #solardidsystem #ssperegrine </title>
-    <updated>2023-07-11T17:20:17+00:00</updated>
-    <content>Replying to @ladymin27 #reply #solardidsystem #ssperegrine </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7254612079372504362" rel="alternate"/>
-    <published>2023-07-11T17:20:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7254661521278635307</id>
     <title>#stitch with @Johnny Q oh I'm SURE that is 100% true all of the time /sarcasm #solardidsystem #poison </title>
@@ -91,5 +83,13 @@
     <content>Replying to @clipitplz #reply if you say "no homo" before you make out with your homie it's still gay #solardidsystem #sszephyr </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7255469790645701934" rel="alternate"/>
     <published>2023-07-14T00:48:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7256580589187304746</id>
+    <title>Replying to @iwannagotosephora#reply wow you really said that with your full chest huh? yikes #solardidsystem #poison </title>
+    <updated>2023-07-17T00:39:02+00:00</updated>
+    <content>Replying to @iwannagotosephora#reply wow you really said that with your full chest huh? yikes #solardidsystem #poison </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7256580589187304746" rel="alternate"/>
+    <published>2023-07-17T00:39:02+00:00</published>
   </entry>
 </feed>
