@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-07-17T20:37:13+00:00</updated>
+  <updated>2023-07-18T20:39:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7252742934725020970</id>
-    <title>In the mountains for a week!!! #fyp #trans </title>
-    <updated>2023-07-06T16:26:58+00:00</updated>
-    <content>In the mountains for a week!!! #fyp #trans </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7252742934725020970" rel="alternate"/>
-    <published>2023-07-06T16:26:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7252881420471864618</id>
     <title>Having a blast!! #fyp #trans </title>
@@ -91,5 +83,13 @@
     <content>Sorry for the trap, but I'm feeling myself today. #fyp #trans </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7256889360044281131" rel="alternate"/>
     <published>2023-07-17T20:37:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7257261033939635498</id>
+    <title>Get old. Please. Life has so much to offer. #fyp </title>
+    <updated>2023-07-18T20:39:24+00:00</updated>
+    <content>Get old. Please. Life has so much to offer. #fyp </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7257261033939635498" rel="alternate"/>
+    <published>2023-07-18T20:39:24+00:00</published>
   </entry>
 </feed>
