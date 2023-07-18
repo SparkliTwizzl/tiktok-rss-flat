@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dannyphantom.exe</id>
   <title>@dannyphantom.exe | TikTok</title>
-  <updated>2023-07-16T02:16:54+00:00</updated>
+  <updated>2023-07-18T02:17:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dannyphantom.exe</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7254007992843062571</id>
-    <title>THE ENDS JUSTIFY THE MEANS??????</title>
-    <updated>2023-07-10T02:16:05+00:00</updated>
-    <content>THE ENDS JUSTIFY THE MEANS??????</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7254007992843062571" rel="alternate"/>
-    <published>2023-07-10T02:16:05+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7254379454422682926</id>
-    <title>😐</title>
-    <updated>2023-07-11T02:17:31+00:00</updated>
-    <content>😐</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7254379454422682926" rel="alternate"/>
-    <published>2023-07-11T02:17:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dannyphantom.exe/video/7254379525759339819</id>
     <title>im gonna be an amazing grandfather </title>
@@ -91,5 +75,21 @@
     <content>@Stella Chuu why did you introduce me to this</content>
     <link href="https://tiktok.com/@dannyphantom.exe/video/7256234711842966827" rel="alternate"/>
     <published>2023-07-16T02:16:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7256976555308518698</id>
+    <title>tag someone who does this</title>
+    <updated>2023-07-18T02:15:32+00:00</updated>
+    <content>tag someone who does this</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7256976555308518698" rel="alternate"/>
+    <published>2023-07-18T02:15:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7256977110521122090</id>
+    <title>tag the short friend </title>
+    <updated>2023-07-18T02:17:41+00:00</updated>
+    <content>tag the short friend </content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7256977110521122090" rel="alternate"/>
+    <published>2023-07-18T02:17:41+00:00</published>
   </entry>
 </feed>
