@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-07-19T00:55:03+00:00</updated>
+  <updated>2023-07-19T13:48:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7252864096058543365</id>
-    <title>finally got around to trying this wig on. I made it out of craft foam and it will be available for purchase later this month on my shop #maladytheclown #icecream #icecreamclown #foamwig #foamcraft #dragwigs #handmadewig </title>
-    <updated>2023-07-07T00:16:59+00:00</updated>
-    <content>finally got around to trying this wig on. I made it out of craft foam and it will be available for purchase later this month on my shop #maladytheclown #icecream #icecreamclown #foamwig #foamcraft #dragwigs #handmadewig </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7252864096058543365" rel="alternate"/>
-    <published>2023-07-07T00:16:59+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7253099559956532485</id>
     <title>#lifeupdate #maladytheclown </title>
@@ -91,5 +83,13 @@
     <content>never forgot the words for this commercial 😅😆❤️  #dontyaputitinurmouth #throwback #maladytheclown </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7257326934009351429" rel="alternate"/>
     <published>2023-07-19T00:55:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7257526253534612742</id>
+    <title>Quinn missed Glum. My cat absolutely adores Glum over every other character, and didn't waste anytime joining him for a few vids. He was mildly regretting this decision by this point 😅❤️ #catsoftiktok #glumthesupernaturalhitman #tabbycat #petsoftiktok </title>
+    <updated>2023-07-19T13:48:31+00:00</updated>
+    <content>Quinn missed Glum. My cat absolutely adores Glum over every other character, and didn't waste anytime joining him for a few vids. He was mildly regretting this decision by this point 😅❤️ #catsoftiktok #glumthesupernaturalhitman #tabbycat #petsoftiktok </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7257526253534612742" rel="alternate"/>
+    <published>2023-07-19T13:48:31+00:00</published>
   </entry>
 </feed>
