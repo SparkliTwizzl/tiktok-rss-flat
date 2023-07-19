@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@juliafox038711</id>
   <title>@juliafox038711 | TikTok</title>
-  <updated>2023-07-16T02:12:48+00:00</updated>
+  <updated>2023-07-19T17:46:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juliafox038711</subtitle>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7255485695106534699</id>
-    <title>most bewildering feeling </title>
-    <updated>2023-07-14T01:50:11+00:00</updated>
-    <content>most bewildering feeling </content>
-    <link href="https://tiktok.com/@juliafox038711/video/7255485695106534699" rel="alternate"/>
-    <published>2023-07-14T01:50:11+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7255492367979941163</id>
-    <title>[no title]</title>
-    <updated>2023-07-14T02:16:06+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7255492367979941163" rel="alternate"/>
-    <published>2023-07-14T02:16:06+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7255497704036404523</id>
-    <title>i just want my account back bro #unshadowbanme #tiktok #foryou #views #plzseethis </title>
-    <updated>2023-07-14T02:36:47+00:00</updated>
-    <content>i just want my account back bro #unshadowbanme #tiktok #foryou #views #plzseethis </content>
-    <link href="https://tiktok.com/@juliafox038711/video/7255497704036404523" rel="alternate"/>
-    <published>2023-07-14T02:36:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@juliafox038711/video/7255502720218582314</id>
     <title>i simply cannot be alone. i havent slept in my bed in months.😀😀</title>
@@ -91,5 +67,29 @@
     <content>nothing could have prepared me for that #:)</content>
     <link href="https://tiktok.com/@juliafox038711/video/7256233673626783019" rel="alternate"/>
     <published>2023-07-16T02:12:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7257490384580824362</id>
+    <title>vacation thibgs </title>
+    <updated>2023-07-19T11:30:07+00:00</updated>
+    <content>vacation thibgs </content>
+    <link href="https://tiktok.com/@juliafox038711/video/7257490384580824362" rel="alternate"/>
+    <published>2023-07-19T11:30:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7257585579397893419</id>
+    <title>mexico :)</title>
+    <updated>2023-07-19T17:39:01+00:00</updated>
+    <content>mexico :)</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7257585579397893419" rel="alternate"/>
+    <published>2023-07-19T17:39:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7257587640688561454</id>
+    <title>grubbin </title>
+    <updated>2023-07-19T17:46:55+00:00</updated>
+    <content>grubbin </content>
+    <link href="https://tiktok.com/@juliafox038711/video/7257587640688561454" rel="alternate"/>
+    <published>2023-07-19T17:46:55+00:00</published>
   </entry>
 </feed>
