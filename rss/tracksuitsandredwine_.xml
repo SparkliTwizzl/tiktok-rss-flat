@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@tracksuitsandredwine_</id>
   <title>@tracksuitsandredwine_ | TikTok</title>
-  <updated>2023-07-16T09:48:57+00:00</updated>
+  <updated>2023-07-19T14:34:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @tracksuitsandredwine_</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tracksuitsandredwine_/video/7250067590633032962</id>
-    <title>i eat, sleep and breathe fitness</title>
-    <updated>2023-06-29T11:25:25+00:00</updated>
-    <content>i eat, sleep and breathe fitness</content>
-    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7250067590633032962" rel="alternate"/>
-    <published>2023-06-29T11:25:25+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@tracksuitsandredwine_/video/7251593306574982401</id>
-    <title>yall have that phase as a preteen when you were so disgustingly embarrassed to like anything stereotypically feminine? foul.</title>
-    <updated>2023-07-03T14:05:41+00:00</updated>
-    <content>yall have that phase as a preteen when you were so disgustingly embarrassed to like anything stereotypically feminine? foul.</content>
-    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7251593306574982401" rel="alternate"/>
-    <published>2023-07-03T14:05:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tracksuitsandredwine_/video/7251946347463576833</id>
     <title>the moon &gt;</title>
@@ -91,5 +75,21 @@
     <content>anotha draft 💪</content>
     <link href="https://tiktok.com/@tracksuitsandredwine_/video/7256351244875353345" rel="alternate"/>
     <published>2023-07-16T09:48:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tracksuitsandredwine_/video/7257499879973375233</id>
+    <title>fake everything ily tiktok</title>
+    <updated>2023-07-19T12:06:14+00:00</updated>
+    <content>fake everything ily tiktok</content>
+    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7257499879973375233" rel="alternate"/>
+    <published>2023-07-19T12:06:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tracksuitsandredwine_/video/7257538120009125121</id>
+    <title>ethel</title>
+    <updated>2023-07-19T14:34:37+00:00</updated>
+    <content>ethel</content>
+    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7257538120009125121" rel="alternate"/>
+    <published>2023-07-19T14:34:37+00:00</published>
   </entry>
 </feed>
