@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avocadosnaliens</id>
   <title>@avocadosnaliens | TikTok</title>
-  <updated>2023-07-16T19:19:21+00:00</updated>
+  <updated>2023-07-19T20:11:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avocadosnaliens</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avocadosnaliens/video/7251785667347270954</id>
-    <title>[no title]</title>
-    <updated>2023-07-04T02:32:16+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@avocadosnaliens/video/7251785667347270954" rel="alternate"/>
-    <published>2023-07-04T02:32:16+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avocadosnaliens/video/7252009367988587822</id>
     <title>Slaving away at this quality content for you guys. Happy #july4th </title>
@@ -91,5 +83,13 @@
     <content>#adamsandlersummer </content>
     <link href="https://tiktok.com/@avocadosnaliens/video/7256498202319408430" rel="alternate"/>
     <published>2023-07-16T19:19:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7257624976621194538</id>
+    <title>#stitch with @tati </title>
+    <updated>2023-07-19T20:11:51+00:00</updated>
+    <content>#stitch with @tati </content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7257624976621194538" rel="alternate"/>
+    <published>2023-07-19T20:11:51+00:00</published>
   </entry>
 </feed>
