@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@manic.toxicity</id>
   <title>@manic.toxicity | TikTok</title>
-  <updated>2023-07-17T22:28:19+00:00</updated>
+  <updated>2023-07-18T19:50:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @manic.toxicity</subtitle>
-  <entry>
-    <id>https://tiktok.com/@manic.toxicity/video/7253918655585635630</id>
-    <title>superman :)) #fyp #foryou </title>
-    <updated>2023-07-09T20:29:24+00:00</updated>
-    <content>superman :)) #fyp #foryou </content>
-    <link href="https://tiktok.com/@manic.toxicity/video/7253918655585635630" rel="alternate"/>
-    <published>2023-07-09T20:29:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@manic.toxicity/video/7255360425284455723</id>
     <title>&gt;:) #fyp #foryou </title>
@@ -91,5 +83,13 @@
     <content>one, nocturnal, son of a gun #fyp #foryou </content>
     <link href="https://tiktok.com/@manic.toxicity/video/7256917990749506862" rel="alternate"/>
     <published>2023-07-17T22:28:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@manic.toxicity/video/7257248471651175726</id>
+    <title>was it the boogie man? #fyp #foryou</title>
+    <updated>2023-07-18T19:50:42+00:00</updated>
+    <content>was it the boogie man? #fyp #foryou</content>
+    <link href="https://tiktok.com/@manic.toxicity/video/7257248471651175726" rel="alternate"/>
+    <published>2023-07-18T19:50:42+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@villainsupport</id>
   <title>@villainsupport | TikTok</title>
-  <updated>2023-07-17T21:02:17+00:00</updated>
+  <updated>2023-07-18T20:57:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @villainsupport</subtitle>
-  <entry>
-    <id>https://tiktok.com/@villainsupport/video/7254287741125643566</id>
-    <title>#frieza #vegeta #krillin #namek #dbz #dragonball #acmetok #acmevillainsupport </title>
-    <updated>2023-07-10T20:21:37+00:00</updated>
-    <content>#frieza #vegeta #krillin #namek #dbz #dragonball #acmetok #acmevillainsupport </content>
-    <link href="https://tiktok.com/@villainsupport/video/7254287741125643566" rel="alternate"/>
-    <published>2023-07-10T20:21:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@villainsupport/video/7254652036384607534</id>
     <title>#frieza #vegeta #bulma #krillin #namek #dbz #dragonball #anime #villain #acmetok #acmevillainsupport </title>
@@ -91,5 +83,13 @@
     <content>Get your “Angry John” sticker at @Kosmic Kitties LLC #sticker #onboarding #sagaftrastrike #acmetok #acmevillainsupport </content>
     <link href="https://tiktok.com/@villainsupport/video/7256895822749551918" rel="alternate"/>
     <published>2023-07-17T21:02:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@villainsupport/video/7257265568976325934</id>
+    <title>#onboarding #sagaftrastrike #pantheon #acmetok #acmevillainsupport </title>
+    <updated>2023-07-18T20:57:03+00:00</updated>
+    <content>#onboarding #sagaftrastrike #pantheon #acmetok #acmevillainsupport </content>
+    <link href="https://tiktok.com/@villainsupport/video/7257265568976325934" rel="alternate"/>
+    <published>2023-07-18T20:57:03+00:00</published>
   </entry>
 </feed>

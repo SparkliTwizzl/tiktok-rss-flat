@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maruzee_dragon</id>
   <title>@maruzee_dragon | TikTok</title>
-  <updated>2023-07-14T14:36:07+00:00</updated>
+  <updated>2023-07-19T02:06:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maruzee_dragon</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maruzee_dragon/video/7249541505973554438</id>
-    <title>Pardon the basicness of this transition, but I had to show off my outfit 😅</title>
-    <updated>2023-06-28T01:23:39+00:00</updated>
-    <content>Pardon the basicness of this transition, but I had to show off my outfit 😅</content>
-    <link href="https://tiktok.com/@maruzee_dragon/video/7249541505973554438" rel="alternate"/>
-    <published>2023-06-28T01:23:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maruzee_dragon/video/7249927817473969413</id>
     <title>Ashley look at me 👀🕸🕷 Ib: @MIMI 🖤  #spiderman #transition #martialarts #trending </title>
@@ -91,5 +83,13 @@
     <content>Working on my Spider-Man split kick 🕷🕸 (Apologies for reposting; I had few issues with the previous one 🤦‍♀️) #martialarts #spiderman #flexible #split </content>
     <link href="https://tiktok.com/@maruzee_dragon/video/7255683090947804421" rel="alternate"/>
     <published>2023-07-14T14:36:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maruzee_dragon/video/7257345430957182213</id>
+    <title>Behind the scenes of my Barbie transition video! 💗😂 #barbie #bts #transition </title>
+    <updated>2023-07-19T02:06:52+00:00</updated>
+    <content>Behind the scenes of my Barbie transition video! 💗😂 #barbie #bts #transition </content>
+    <link href="https://tiktok.com/@maruzee_dragon/video/7257345430957182213" rel="alternate"/>
+    <published>2023-07-19T02:06:52+00:00</published>
   </entry>
 </feed>
