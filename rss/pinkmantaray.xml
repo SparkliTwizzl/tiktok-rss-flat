@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pinkmantaray</id>
   <title>@pinkmantaray | TikTok</title>
-  <updated>2023-07-17T12:43:32+00:00</updated>
+  <updated>2023-07-19T15:04:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @pinkmantaray</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pinkmantaray/video/7253547298817379627</id>
-    <title>##Genderaffirmingcare is medically necessay, age appropriate, and lifesaving care. ##healthcare##transhealth##transgender##transition##transkids</title>
-    <updated>2023-07-08T20:28:21+00:00</updated>
-    <content>##Genderaffirmingcare is medically necessay, age appropriate, and lifesaving care. ##healthcare##transhealth##transgender##transition##transkids</content>
-    <link href="https://tiktok.com/@pinkmantaray/video/7253547298817379627" rel="alternate"/>
-    <published>2023-07-08T20:28:21+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@pinkmantaray/video/7253552377477745966</id>
-    <title>Anti-trans rhetoric is alllll about protexting power and "normalcy," not children. #intersexrights #transgender #genderaffirmingcare #trans </title>
-    <updated>2023-07-08T20:47:59+00:00</updated>
-    <content>Anti-trans rhetoric is alllll about protexting power and "normalcy," not children. #intersexrights #transgender #genderaffirmingcare #trans </content>
-    <link href="https://tiktok.com/@pinkmantaray/video/7253552377477745966" rel="alternate"/>
-    <published>2023-07-08T20:47:59+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@pinkmantaray/video/7254654036685770026</id>
-    <title>A very special heart to heart with Dr. Markus Rogan regarding masculinity and men's mental health and society. Take a listen wherever yoy get your podcasts! #transgender #masculinity #manhood #men #podcast </title>
-    <updated>2023-07-11T20:03:00+00:00</updated>
-    <content>A very special heart to heart with Dr. Markus Rogan regarding masculinity and men's mental health and society. Take a listen wherever yoy get your podcasts! #transgender #masculinity #manhood #men #podcast </content>
-    <link href="https://tiktok.com/@pinkmantaray/video/7254654036685770026" rel="alternate"/>
-    <published>2023-07-11T20:03:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pinkmantaray/video/7254768733816737067</id>
     <title>A dramatic story about me being late to getting my contacts prescription updated.... #contacts #eyesight #glasses #transgender #grwm </title>
@@ -91,5 +67,29 @@
     <content>We had such a lovely time visiting #chitown together with our baby! #dogparents #traveltiktok #transgender #queercouple #couplegoals </content>
     <link href="https://tiktok.com/@pinkmantaray/video/7256767192652434730" rel="alternate"/>
     <published>2023-07-17T12:43:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pinkmantaray/video/7257352686457343278</id>
+    <title>PART 1 | Last month I traveled with @August to #Florida to protesr HB 1069 - a dangerous bill that passed into law on July 1st. This is the first clip of a longer and fascinating conversation I had with a pastor! #gender #transgender #lgbtq #transrights </title>
+    <updated>2023-07-19T02:35:09+00:00</updated>
+    <content>PART 1 | Last month I traveled with @August to #Florida to protesr HB 1069 - a dangerous bill that passed into law on July 1st. This is the first clip of a longer and fascinating conversation I had with a pastor! #gender #transgender #lgbtq #transrights </content>
+    <link href="https://tiktok.com/@pinkmantaray/video/7257352686457343278" rel="alternate"/>
+    <published>2023-07-19T02:35:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pinkmantaray/video/7257354335384931630</id>
+    <title>PART 2 @Schuyler Bailar  | Last month I traveled with @August to #Florida to protesr HB 1069 - a dangerous bill that passed into law on July 1st. This is the second clip of a longer and fascinating conversation I had with a pastor! #gender #transgender #l</title>
+    <updated>2023-07-19T02:41:33+00:00</updated>
+    <content>PART 2 @Schuyler Bailar  | Last month I traveled with @August to #Florida to protesr HB 1069 - a dangerous bill that passed into law on July 1st. This is the second clip of a longer and fascinating conversation I had with a pastor! #gender #transgender #lgbtq #transrights </content>
+    <link href="https://tiktok.com/@pinkmantaray/video/7257354335384931630" rel="alternate"/>
+    <published>2023-07-19T02:41:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pinkmantaray/video/7257545808277409070</id>
+    <title>PART 3 @Schuyler Bailar | Last month I traveled with @August to #Florida to protesr #HB1069 - a dangerous bill that passed into law on July 1st. This is another clip of a longer and fascinating conversation I had with a pastor! #gender #transgender #lgbtq</title>
+    <updated>2023-07-19T15:04:38+00:00</updated>
+    <content>PART 3 @Schuyler Bailar | Last month I traveled with @August to #Florida to protesr #HB1069 - a dangerous bill that passed into law on July 1st. This is another clip of a longer and fascinating conversation I had with a pastor! #gender #transgender #lgbtq #transrights </content>
+    <link href="https://tiktok.com/@pinkmantaray/video/7257545808277409070" rel="alternate"/>
+    <published>2023-07-19T15:04:38+00:00</published>
   </entry>
 </feed>
