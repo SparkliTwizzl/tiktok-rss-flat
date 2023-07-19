@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kit_the_beefcake</id>
   <title>@kit_the_beefcake | TikTok</title>
-  <updated>2023-07-19T13:07:04+00:00</updated>
+  <updated>2023-07-19T22:50:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kit_the_beefcake</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7253192566697577774</id>
-    <title>like WHAT #avn was wild #kitthebeefcake </title>
-    <updated>2023-07-07T21:31:48+00:00</updated>
-    <content>like WHAT #avn was wild #kitthebeefcake </content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7253192566697577774" rel="alternate"/>
-    <published>2023-07-07T21:31:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7253624234650488106</id>
     <title>[no title]</title>
@@ -91,5 +83,13 @@
     <content>#kitthebeefcake #thick #fakebody #sundress #biceps #gymgirl #shorthair </content>
     <link href="https://tiktok.com/@kit_the_beefcake/video/7257515396268428587" rel="alternate"/>
     <published>2023-07-19T13:07:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7257665941197229358</id>
+    <title>#kitthebeefcake I wanna make more nature content.... </title>
+    <updated>2023-07-19T22:50:44+00:00</updated>
+    <content>#kitthebeefcake I wanna make more nature content.... </content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7257665941197229358" rel="alternate"/>
+    <published>2023-07-19T22:50:44+00:00</published>
   </entry>
 </feed>
