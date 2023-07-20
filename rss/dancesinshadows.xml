@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-07-19T13:48:31+00:00</updated>
+  <updated>2023-07-20T15:55:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7253099559956532485</id>
-    <title>#lifeupdate #maladytheclown </title>
-    <updated>2023-07-07T15:30:42+00:00</updated>
-    <content>#lifeupdate #maladytheclown </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7253099559956532485" rel="alternate"/>
-    <published>2023-07-07T15:30:42+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7253447679999610118</id>
-    <title>song by @PEGGY This song is so relatable  😅❤️❤️ thank you all for the kind words on the last video. I hope to reply to as many as I can this weekend ❤️  #maladytheclown #handmadewig  #foamwig  #clown </title>
-    <updated>2023-07-08T14:01:35+00:00</updated>
-    <content>song by @PEGGY This song is so relatable  😅❤️❤️ thank you all for the kind words on the last video. I hope to reply to as many as I can this weekend ❤️  #maladytheclown #handmadewig  #foamwig  #clown </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7253447679999610118" rel="alternate"/>
-    <published>2023-07-08T14:01:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7254213379282226437</id>
     <title>had a great night out w a friend: front row to see my favorite rupaul enby @Adore Delano  and local Queens slay ❤️ I'll try to tag performers in a pinned comment #funnight #dragshow #adoredelanoparty  #hamiltondrag #hoas </title>
@@ -91,5 +75,21 @@
     <content>Quinn missed Glum. My cat absolutely adores Glum over every other character, and didn't waste anytime joining him for a few vids. He was mildly regretting this decision by this point 😅❤️ #catsoftiktok #glumthesupernaturalhitman #tabbycat #petsoftiktok </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7257526253534612742" rel="alternate"/>
     <published>2023-07-19T13:48:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7257736947202903302</id>
+    <title>love this cover by @Brent Morgan  #glumthesupernaturalhitman #eyetoeye </title>
+    <updated>2023-07-20T03:26:09+00:00</updated>
+    <content>love this cover by @Brent Morgan  #glumthesupernaturalhitman #eyetoeye </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7257736947202903302" rel="alternate"/>
+    <published>2023-07-20T03:26:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7257930099276795142</id>
+    <title>meow ❤️ #maladytheclown #barbiegirl #thebarbiemovie </title>
+    <updated>2023-07-20T15:55:40+00:00</updated>
+    <content>meow ❤️ #maladytheclown #barbiegirl #thebarbiemovie </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7257930099276795142" rel="alternate"/>
+    <published>2023-07-20T15:55:40+00:00</published>
   </entry>
 </feed>
