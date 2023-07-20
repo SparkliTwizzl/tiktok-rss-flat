@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pinkmantaray</id>
   <title>@pinkmantaray | TikTok</title>
-  <updated>2023-07-19T19:35:04+00:00</updated>
+  <updated>2023-07-20T02:20:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @pinkmantaray</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pinkmantaray/video/7255022489951145259</id>
-    <title>Crossfit as a trans man! #transman #crossfit #workoutroutine #athlete #transathlete </title>
-    <updated>2023-07-12T19:52:47+00:00</updated>
-    <content>Crossfit as a trans man! #transman #crossfit #workoutroutine #athlete #transathlete </content>
-    <link href="https://tiktok.com/@pinkmantaray/video/7255022489951145259" rel="alternate"/>
-    <published>2023-07-12T19:52:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@pinkmantaray/video/7255802351074790702</id>
-    <title>Trans people are not telling cis kids to be trans. We just want trans kids to be affirmed and protected. #protecttranskids #trans #gender #kids #lgbtq </title>
-    <updated>2023-07-14T22:19:04+00:00</updated>
-    <content>Trans people are not telling cis kids to be trans. We just want trans kids to be affirmed and protected. #protecttranskids #trans #gender #kids #lgbtq </content>
-    <link href="https://tiktok.com/@pinkmantaray/video/7255802351074790702" rel="alternate"/>
-    <published>2023-07-14T22:19:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pinkmantaray/video/7256157131920002347</id>
     <title>Should trans people tell others that they are trans?? Listen to @Mila Jam's episode on #DearSchuyler anywhere you get your podcasts! #podcast #transgender #datingadvice #datingwhiletrans </title>
@@ -91,5 +75,21 @@
     <content>#AdCouncilPartner | Love is an action, not just a feeling. I spent a lot of my childhood being bullied, being othered, and being told I wasn’t enough. Still, I was incredibly lucky to find adults around me who showed me love. Who saved my life by doing so. We all deserve access to this. Trans children are less likely to be suicidal if they have at least one supportive adult in their lives. Be that person. @Ad Council #PSA #lovehasnolabels #transgender #allyship</content>
     <link href="https://tiktok.com/@pinkmantaray/video/7257615517584723242" rel="alternate"/>
     <published>2023-07-19T19:35:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pinkmantaray/video/7257719757112085806</id>
+    <title>PART 5 @Schuyler Bailar | Last month I traveled with @August to #Florida to protest #HB1069 - a dangerous bill that passed into law on July 1st. This is another clip of a longer and fascinating conversation I had with a pastor - here I finally come out to</title>
+    <updated>2023-07-20T02:19:32+00:00</updated>
+    <content>PART 5 @Schuyler Bailar | Last month I traveled with @August to #Florida to protest #HB1069 - a dangerous bill that passed into law on July 1st. This is another clip of a longer and fascinating conversation I had with a pastor - here I finally come out to the pastor! #gender #transgender #lgbtq #transrights #comingout </content>
+    <link href="https://tiktok.com/@pinkmantaray/video/7257719757112085806" rel="alternate"/>
+    <published>2023-07-20T02:19:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pinkmantaray/video/7257719995763903787</id>
+    <title>PART 6 @Schuyler Bailar | Last month I traveled with @August to #Florida to protest #HB1069 - a dangerous bill that passed into law on July 1st. This is another clip of a longer and fascinating conversation I had with a pastor after I finally shared that </title>
+    <updated>2023-07-20T02:20:32+00:00</updated>
+    <content>PART 6 @Schuyler Bailar | Last month I traveled with @August to #Florida to protest #HB1069 - a dangerous bill that passed into law on July 1st. This is another clip of a longer and fascinating conversation I had with a pastor after I finally shared that I am also trans. #gender #transgender #lgbtq #transrights #genderaffirmingcare </content>
+    <link href="https://tiktok.com/@pinkmantaray/video/7257719995763903787" rel="alternate"/>
+    <published>2023-07-20T02:20:32+00:00</published>
   </entry>
 </feed>
