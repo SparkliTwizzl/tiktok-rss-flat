@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thehistorywizard</id>
   <title>@thehistorywizard | TikTok</title>
-  <updated>2023-07-20T13:34:04+00:00</updated>
+  <updated>2023-07-20T19:11:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thehistorywizard</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thehistorywizard/video/7254561960115703083</id>
-    <title>Replying to @terrykiriakakis Money is the solution. Capitalism is the problem. #thehistorywizard #historytiktok #edutok #learnontiktok #wizardcommunism </title>
-    <updated>2023-07-11T14:06:04+00:00</updated>
-    <content>Replying to @terrykiriakakis Money is the solution. Capitalism is the problem. #thehistorywizard #historytiktok #edutok #learnontiktok #wizardcommunism </content>
-    <link href="https://tiktok.com/@thehistorywizard/video/7254561960115703083" rel="alternate"/>
-    <published>2023-07-11T14:06:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thehistorywizard/video/7255294573084216619</id>
     <title>Replying to @mythoughtsexactly86 They're never going to pick you. #thehistorywizard #historytiktok #edutok #learnontiktok #wizardcommunism </title>
@@ -91,5 +83,13 @@
     <content>Replying to @youmcringe There ya go. #thehistorywizard #historytiktok #edutok #learnontiktok #wizardcommunism </content>
     <link href="https://tiktok.com/@thehistorywizard/video/7257893573264280874" rel="alternate"/>
     <published>2023-07-20T13:34:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thehistorywizard/video/7257980555277651246</id>
+    <title>Replying to @roberttarman983 Wrong. #thehistorywizard #historytiktok #edutok #learnontiktok #wizardcommunism </title>
+    <updated>2023-07-20T19:11:33+00:00</updated>
+    <content>Replying to @roberttarman983 Wrong. #thehistorywizard #historytiktok #edutok #learnontiktok #wizardcommunism </content>
+    <link href="https://tiktok.com/@thehistorywizard/video/7257980555277651246" rel="alternate"/>
+    <published>2023-07-20T19:11:33+00:00</published>
   </entry>
 </feed>
