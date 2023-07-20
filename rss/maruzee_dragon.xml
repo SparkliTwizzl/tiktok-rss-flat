@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maruzee_dragon</id>
   <title>@maruzee_dragon | TikTok</title>
-  <updated>2023-07-19T02:06:52+00:00</updated>
+  <updated>2023-07-20T01:47:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maruzee_dragon</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maruzee_dragon/video/7249927817473969413</id>
-    <title>Ashley look at me 👀🕸🕷 Ib: @MIMI 🖤  #spiderman #transition #martialarts #trending </title>
-    <updated>2023-06-29T02:22:47+00:00</updated>
-    <content>Ashley look at me 👀🕸🕷 Ib: @MIMI 🖤  #spiderman #transition #martialarts #trending </content>
-    <link href="https://tiktok.com/@maruzee_dragon/video/7249927817473969413" rel="alternate"/>
-    <published>2023-06-29T02:22:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maruzee_dragon/video/7250298665678408966</id>
     <title>Kickin' into cyberpunk glitchy vibes 🥷✨️ #transition #martialarts #kicks #videogames </title>
@@ -91,5 +83,13 @@
     <content>Behind the scenes of my Barbie transition video! 💗😂 #barbie #bts #transition </content>
     <link href="https://tiktok.com/@maruzee_dragon/video/7257345430957182213" rel="alternate"/>
     <published>2023-07-19T02:06:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maruzee_dragon/video/7257711436397415686</id>
+    <title>Let me show you the secret double life of Barbie!🥷 Who says Barbie can't kick some 🍑?! #barbie #trending #barbiegirl </title>
+    <updated>2023-07-20T01:47:09+00:00</updated>
+    <content>Let me show you the secret double life of Barbie!🥷 Who says Barbie can't kick some 🍑?! #barbie #trending #barbiegirl </content>
+    <link href="https://tiktok.com/@maruzee_dragon/video/7257711436397415686" rel="alternate"/>
+    <published>2023-07-20T01:47:09+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@manic.toxicity</id>
   <title>@manic.toxicity | TikTok</title>
-  <updated>2023-07-18T19:50:42+00:00</updated>
+  <updated>2023-07-19T20:26:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @manic.toxicity</subtitle>
-  <entry>
-    <id>https://tiktok.com/@manic.toxicity/video/7255360425284455723</id>
-    <title>&gt;:) #fyp #foryou </title>
-    <updated>2023-07-13T17:44:06+00:00</updated>
-    <content>&gt;:) #fyp #foryou </content>
-    <link href="https://tiktok.com/@manic.toxicity/video/7255360425284455723" rel="alternate"/>
-    <published>2023-07-13T17:44:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@manic.toxicity/video/7255374336675269934</id>
     <title>if you dont pre-save the sad cowboy grunge bands, @Dexter &amp; The Moonrocks, new single (that drops tomorrow) then ur a big ol’ dummy and we cant be friends 🫶🏼 #fyp #foryou </title>
@@ -91,5 +83,13 @@
     <content>was it the boogie man? #fyp #foryou</content>
     <link href="https://tiktok.com/@manic.toxicity/video/7257248471651175726" rel="alternate"/>
     <published>2023-07-18T19:50:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@manic.toxicity/video/7257628675145878826</id>
+    <title>get it? #fyp #foryou</title>
+    <updated>2023-07-19T20:26:10+00:00</updated>
+    <content>get it? #fyp #foryou</content>
+    <link href="https://tiktok.com/@manic.toxicity/video/7257628675145878826" rel="alternate"/>
+    <published>2023-07-19T20:26:10+00:00</published>
   </entry>
 </feed>
