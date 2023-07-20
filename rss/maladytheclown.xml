@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maladytheclown</id>
   <title>@maladytheclown | TikTok</title>
-  <updated>2023-07-19T14:18:04+00:00</updated>
+  <updated>2023-07-20T03:30:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maladytheclown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maladytheclown/video/7245677898005286150</id>
-    <title>🩵🩵🩵 #maladytheclown #clown #makeupartist </title>
-    <updated>2023-06-17T15:30:52+00:00</updated>
-    <content>🩵🩵🩵 #maladytheclown #clown #makeupartist </content>
-    <link href="https://tiktok.com/@maladytheclown/video/7245677898005286150" rel="alternate"/>
-    <published>2023-06-17T15:30:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maladytheclown/video/7246042373648616710</id>
     <title>#maladytheclown #clown #comedy </title>
@@ -91,5 +83,13 @@
     <content>#duet with @The Bunnyfolk Cosplayer i think i may need a different "expert's" opinion on this... 😅  #cinnabun #glumthesupernaturalhitman #makeupartist #cosplay </content>
     <link href="https://tiktok.com/@maladytheclown/video/7257533865189788933" rel="alternate"/>
     <published>2023-07-19T14:18:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maladytheclown/video/7257738108265843974</id>
+    <title>welcome to my world ❤️🎨 #makeupartist #foamwig #icecreamclown #clown #maladytheclown </title>
+    <updated>2023-07-20T03:30:38+00:00</updated>
+    <content>welcome to my world ❤️🎨 #makeupartist #foamwig #icecreamclown #clown #maladytheclown </content>
+    <link href="https://tiktok.com/@maladytheclown/video/7257738108265843974" rel="alternate"/>
+    <published>2023-07-20T03:30:38+00:00</published>
   </entry>
 </feed>
