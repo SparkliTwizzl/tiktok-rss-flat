@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@charlesthegr8</id>
   <title>@charlesthegr8 | TikTok</title>
-  <updated>2023-07-16T23:37:59+00:00</updated>
+  <updated>2023-07-19T21:45:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @charlesthegr8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7250606938986171694</id>
-    <title>Best form of stress relief 😈 #iykyk #relationship #relatable #charlesthegr8 </title>
-    <updated>2023-06-30T22:18:12+00:00</updated>
-    <content>Best form of stress relief 😈 #iykyk #relationship #relatable #charlesthegr8 </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7250606938986171694" rel="alternate"/>
-    <published>2023-06-30T22:18:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@charlesthegr8/video/7250925636712369454</id>
     <title>Worst fear!!! 😔 #iykyk #alone #charlesthegr8 </title>
@@ -91,5 +83,13 @@
     <content>Might be toxic 😈 #charlesthegr8 </content>
     <link href="https://tiktok.com/@charlesthegr8/video/7256564855162047790" rel="alternate"/>
     <published>2023-07-16T23:37:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7257649082124995883</id>
+    <title>Music to me ears 😏 #iykyk #relationship #charlesthegr8 </title>
+    <updated>2023-07-19T21:45:19+00:00</updated>
+    <content>Music to me ears 😏 #iykyk #relationship #charlesthegr8 </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7257649082124995883" rel="alternate"/>
+    <published>2023-07-19T21:45:19+00:00</published>
   </entry>
 </feed>
