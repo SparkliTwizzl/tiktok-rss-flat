@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pinkmantaray</id>
   <title>@pinkmantaray | TikTok</title>
-  <updated>2023-07-20T02:20:32+00:00</updated>
+  <updated>2023-07-21T03:44:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @pinkmantaray</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pinkmantaray/video/7256157131920002347</id>
-    <title>Should trans people tell others that they are trans?? Listen to @Mila Jam's episode on #DearSchuyler anywhere you get your podcasts! #podcast #transgender #datingadvice #datingwhiletrans </title>
-    <updated>2023-07-15T21:15:51+00:00</updated>
-    <content>Should trans people tell others that they are trans?? Listen to @Mila Jam's episode on #DearSchuyler anywhere you get your podcasts! #podcast #transgender #datingadvice #datingwhiletrans </content>
-    <link href="https://tiktok.com/@pinkmantaray/video/7256157131920002347" rel="alternate"/>
-    <published>2023-07-15T21:15:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pinkmantaray/video/7256621376830737706</id>
     <title>What happens when trans people tell others we are trans?? Listen to the whole episode of #DEARSCHUYLER with @Mila Jam anywhere you get your podcasts 💕🏳️‍⚧️ #podcast #transgender #dating #datingwhiletrans </title>
@@ -91,5 +83,13 @@
     <content>PART 6 @Schuyler Bailar | Last month I traveled with @August to #Florida to protest #HB1069 - a dangerous bill that passed into law on July 1st. This is another clip of a longer and fascinating conversation I had with a pastor after I finally shared that I am also trans. #gender #transgender #lgbtq #transrights #genderaffirmingcare </content>
     <link href="https://tiktok.com/@pinkmantaray/video/7257719995763903787" rel="alternate"/>
     <published>2023-07-20T02:20:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pinkmantaray/video/7258112604839726379</id>
+    <title>Part 7 @Schuyler Bailar  | The last of this series about my conversation with a pastor about gender! Overall my interaction with him was good; we do not agree on everything but I deeply appreciated how we could have a calm conversation and that he was ope</title>
+    <updated>2023-07-21T03:44:03+00:00</updated>
+    <content>Part 7 @Schuyler Bailar  | The last of this series about my conversation with a pastor about gender! Overall my interaction with him was good; we do not agree on everything but I deeply appreciated how we could have a calm conversation and that he was open to learning. Grateful for @August bringing me along to be in moments like this! #florida #hb1069 #transgender #learning #gender #conversation </content>
+    <link href="https://tiktok.com/@pinkmantaray/video/7258112604839726379" rel="alternate"/>
+    <published>2023-07-21T03:44:03+00:00</published>
   </entry>
 </feed>
