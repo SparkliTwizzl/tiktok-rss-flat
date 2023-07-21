@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@juliafox038711</id>
   <title>@juliafox038711 | TikTok</title>
-  <updated>2023-07-20T12:54:43+00:00</updated>
+  <updated>2023-07-21T16:29:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juliafox038711</subtitle>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7255774638851034411</id>
-    <title>#2019 #transitions #camera #imputtingalotofhashtags </title>
-    <updated>2023-07-14T20:31:32+00:00</updated>
-    <content>#2019 #transitions #camera #imputtingalotofhashtags </content>
-    <link href="https://tiktok.com/@juliafox038711/video/7255774638851034411" rel="alternate"/>
-    <published>2023-07-14T20:31:32+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@juliafox038711/video/7255778034228186414</id>
     <title>old julia vibes</title>
@@ -91,5 +83,13 @@
     <content>hot like mexico </content>
     <link href="https://tiktok.com/@juliafox038711/video/7257883426278149419" rel="alternate"/>
     <published>2023-07-20T12:54:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7258309811270438186</id>
+    <title>drunk legally </title>
+    <updated>2023-07-21T16:29:24+00:00</updated>
+    <content>drunk legally </content>
+    <link href="https://tiktok.com/@juliafox038711/video/7258309811270438186" rel="alternate"/>
+    <published>2023-07-21T16:29:24+00:00</published>
   </entry>
 </feed>
