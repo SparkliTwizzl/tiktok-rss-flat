@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-07-19T16:34:40+00:00</updated>
+  <updated>2023-07-20T20:54:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7253529875774983467</id>
-    <title>🐕🐕🐕 #rhearipley #barkbark #smitten </title>
-    <updated>2023-07-08T19:20:43+00:00</updated>
-    <content>🐕🐕🐕 #rhearipley #barkbark #smitten </content>
-    <link href="https://tiktok.com/@punktoad/video/7253529875774983467" rel="alternate"/>
-    <published>2023-07-08T19:20:43+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7253660378104597802</id>
-    <title>I really would #latestagecapitalism #stuckinamerica #thisisfine </title>
-    <updated>2023-07-09T03:47:04+00:00</updated>
-    <content>I really would #latestagecapitalism #stuckinamerica #thisisfine </content>
-    <link href="https://tiktok.com/@punktoad/video/7253660378104597802" rel="alternate"/>
-    <published>2023-07-09T03:47:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7254588067518926122</id>
     <title>Eat your chicken nuggets first, buddy #gentleparenting #icecream #parentsoftiktok </title>
@@ -43,6 +27,14 @@
     <content>And with that, I’m out #inconvenience #goinghome #goodnight </content>
     <link href="https://tiktok.com/@punktoad/video/7255060204004363562" rel="alternate"/>
     <published>2023-07-12T22:19:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7255732112785952042</id>
+    <title>I am ✨unavailable✨ #worklifebalance #workproblems #dayoff </title>
+    <updated>2023-07-14T17:46:33+00:00</updated>
+    <content>I am ✨unavailable✨ #worklifebalance #workproblems #dayoff </content>
+    <link href="https://tiktok.com/@punktoad/video/7255732112785952042" rel="alternate"/>
+    <published>2023-07-14T17:46:33+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7255849737478311210</id>
@@ -91,5 +83,13 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@punktoad/video/7257569004703730987" rel="alternate"/>
     <published>2023-07-19T16:34:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7258007153171008814</id>
+    <title>I am smitten #mexicanstreetcorn #elote #delicious </title>
+    <updated>2023-07-20T20:54:45+00:00</updated>
+    <content>I am smitten #mexicanstreetcorn #elote #delicious </content>
+    <link href="https://tiktok.com/@punktoad/video/7258007153171008814" rel="alternate"/>
+    <published>2023-07-20T20:54:45+00:00</published>
   </entry>
 </feed>
