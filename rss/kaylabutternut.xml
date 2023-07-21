@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-07-17T02:29:27+00:00</updated>
+  <updated>2023-07-20T22:53:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7252914323234884907</id>
-    <title>Valorent or Overwatch?</title>
-    <updated>2023-07-07T03:32:06+00:00</updated>
-    <content>Valorent or Overwatch?</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7252914323234884907" rel="alternate"/>
-    <published>2023-07-07T03:32:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7254731178949856554</id>
     <title>Never again</title>
@@ -91,5 +83,13 @@
     <content>One more bc i need attention </content>
     <link href="https://tiktok.com/@kaylabutternut/video/7256609037595315499" rel="alternate"/>
     <published>2023-07-17T02:29:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7258037657001938222</id>
+    <title>If we ever broke up (IM FINALLY MOVING ALL MY STUFF IN!!!)</title>
+    <updated>2023-07-20T22:53:06+00:00</updated>
+    <content>If we ever broke up (IM FINALLY MOVING ALL MY STUFF IN!!!)</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7258037657001938222" rel="alternate"/>
+    <published>2023-07-20T22:53:06+00:00</published>
   </entry>
 </feed>
