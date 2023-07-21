@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-07-20T16:43:52+00:00</updated>
+  <updated>2023-07-21T16:30:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7255725245238201606</id>
-    <title>feel free to duet ❤️ #maladytheclown #clown #foamwig #icecream </title>
-    <updated>2023-07-14T17:19:42+00:00</updated>
-    <content>feel free to duet ❤️ #maladytheclown #clown #foamwig #icecream </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7255725245238201606" rel="alternate"/>
-    <published>2023-07-14T17:19:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7255749672436862213</id>
     <title>#onthisday #maladytheclown #dancesinshadows #throwback </title>
@@ -91,5 +83,13 @@
     <content>its been a while... - Glum  #glumthesupernaturalhitman </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7257942519399419141" rel="alternate"/>
     <published>2023-07-20T16:43:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7258310173096447238</id>
+    <title>#duet with @Brutus the dark one #brutusthedarkone❤️🌹 #maladytheclown </title>
+    <updated>2023-07-21T16:30:33+00:00</updated>
+    <content>#duet with @Brutus the dark one #brutusthedarkone❤️🌹 #maladytheclown </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7258310173096447238" rel="alternate"/>
+    <published>2023-07-21T16:30:33+00:00</published>
   </entry>
 </feed>
