@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-07-20T20:54:45+00:00</updated>
+  <updated>2023-07-21T17:51:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7254588067518926122</id>
-    <title>Eat your chicken nuggets first, buddy #gentleparenting #icecream #parentsoftiktok </title>
-    <updated>2023-07-11T15:47:09+00:00</updated>
-    <content>Eat your chicken nuggets first, buddy #gentleparenting #icecream #parentsoftiktok </content>
-    <link href="https://tiktok.com/@punktoad/video/7254588067518926122" rel="alternate"/>
-    <published>2023-07-11T15:47:09+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7255060204004363562</id>
     <title>And with that, I’m out #inconvenience #goinghome #goodnight </title>
@@ -91,5 +83,13 @@
     <content>I am smitten #mexicanstreetcorn #elote #delicious </content>
     <link href="https://tiktok.com/@punktoad/video/7258007153171008814" rel="alternate"/>
     <published>2023-07-20T20:54:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7258330922255224107</id>
+    <title>It hits every time #bonethugsnharmony #misheardlyrics #motivation </title>
+    <updated>2023-07-21T17:51:15+00:00</updated>
+    <content>It hits every time #bonethugsnharmony #misheardlyrics #motivation </content>
+    <link href="https://tiktok.com/@punktoad/video/7258330922255224107" rel="alternate"/>
+    <published>2023-07-21T17:51:15+00:00</published>
   </entry>
 </feed>
