@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@juliafox038711</id>
   <title>@juliafox038711 | TikTok</title>
-  <updated>2023-07-19T17:46:55+00:00</updated>
+  <updated>2023-07-20T12:54:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juliafox038711</subtitle>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7255502720218582314</id>
-    <title>i simply cannot be alone. i havent slept in my bed in months.😀😀</title>
-    <updated>2023-07-14T02:56:16+00:00</updated>
-    <content>i simply cannot be alone. i havent slept in my bed in months.😀😀</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7255502720218582314" rel="alternate"/>
-    <published>2023-07-14T02:56:16+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7255764965250845998</id>
-    <title>i like to think that i match my cat very well</title>
-    <updated>2023-07-14T19:53:57+00:00</updated>
-    <content>i like to think that i match my cat very well</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7255764965250845998" rel="alternate"/>
-    <published>2023-07-14T19:53:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7255772692325076270</id>
-    <title>transition </title>
-    <updated>2023-07-14T20:24:02+00:00</updated>
-    <content>transition </content>
-    <link href="https://tiktok.com/@juliafox038711/video/7255772692325076270" rel="alternate"/>
-    <published>2023-07-14T20:24:02+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@juliafox038711/video/7255774638851034411</id>
     <title>#2019 #transitions #camera #imputtingalotofhashtags </title>
@@ -91,5 +67,29 @@
     <content>grubbin </content>
     <link href="https://tiktok.com/@juliafox038711/video/7257587640688561454" rel="alternate"/>
     <published>2023-07-19T17:46:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7257875548280573227</id>
+    <title>[no title]</title>
+    <updated>2023-07-20T12:24:08+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7257875548280573227" rel="alternate"/>
+    <published>2023-07-20T12:24:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7257877749149224234</id>
+    <title>look at me doing trends </title>
+    <updated>2023-07-20T12:32:40+00:00</updated>
+    <content>look at me doing trends </content>
+    <link href="https://tiktok.com/@juliafox038711/video/7257877749149224234" rel="alternate"/>
+    <published>2023-07-20T12:32:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7257883426278149419</id>
+    <title>hot like mexico </title>
+    <updated>2023-07-20T12:54:43+00:00</updated>
+    <content>hot like mexico </content>
+    <link href="https://tiktok.com/@juliafox038711/video/7257883426278149419" rel="alternate"/>
+    <published>2023-07-20T12:54:43+00:00</published>
   </entry>
 </feed>
