@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kit_the_beefcake</id>
   <title>@kit_the_beefcake | TikTok</title>
-  <updated>2023-07-20T08:09:50+00:00</updated>
+  <updated>2023-07-21T12:56:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,30 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kit_the_beefcake</subtitle>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7252590739585027370</id>
+    <title>What do you think? #kitthebeefcake </title>
+    <updated>2023-07-06T06:36:21+00:00</updated>
+    <content>What do you think? #kitthebeefcake </content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7252590739585027370" rel="alternate"/>
+    <published>2023-07-06T06:36:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7253192566697577774</id>
+    <title>like WHAT #avn was wild #kitthebeefcake </title>
+    <updated>2023-07-07T21:31:48+00:00</updated>
+    <content>like WHAT #avn was wild #kitthebeefcake </content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7253192566697577774" rel="alternate"/>
+    <published>2023-07-07T21:31:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7253624234650488106</id>
+    <title>[no title]</title>
+    <updated>2023-07-09T01:26:53+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7253624234650488106" rel="alternate"/>
+    <published>2023-07-09T01:26:53+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7254445997231820075</id>
     <title>#kitthebeefcake </title>
@@ -45,14 +69,6 @@
     <published>2023-07-16T06:56:06+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7256992428257824043</id>
-    <title>I scare my friends a bit #shorthair #kitthebeefcake #driving #hydroplane #storytime </title>
-    <updated>2023-07-18T03:17:09+00:00</updated>
-    <content>I scare my friends a bit #shorthair #kitthebeefcake #driving #hydroplane #storytime </content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7256992428257824043" rel="alternate"/>
-    <published>2023-07-18T03:17:09+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7257061593870093611</id>
     <title>Replying to @rizz_ktm_rider #kitthebeefcake #fakebody #shorthair </title>
     <updated>2023-07-18T07:46:00+00:00</updated>
@@ -61,35 +77,19 @@
     <published>2023-07-18T07:46:00+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7257337851388513578</id>
-    <title>#kitthebeefcake #relationship #wholesome #shorthair </title>
-    <updated>2023-07-19T01:37:36+00:00</updated>
-    <content>#kitthebeefcake #relationship #wholesome #shorthair </content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7257337851388513578" rel="alternate"/>
-    <published>2023-07-19T01:37:36+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7257515396268428587</id>
-    <title>#kitthebeefcake #thick #fakebody #sundress #biceps #gymgirl #shorthair </title>
-    <updated>2023-07-19T13:07:04+00:00</updated>
-    <content>#kitthebeefcake #thick #fakebody #sundress #biceps #gymgirl #shorthair </content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7257515396268428587" rel="alternate"/>
-    <published>2023-07-19T13:07:04+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7257665941197229358</id>
-    <title>#kitthebeefcake I wanna make more nature content.... </title>
-    <updated>2023-07-19T22:50:44+00:00</updated>
-    <content>#kitthebeefcake I wanna make more nature content.... </content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7257665941197229358" rel="alternate"/>
-    <published>2023-07-19T22:50:44+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7257810012175617322</id>
     <title>#kitthebeefcake #shorthair #barbie #ballgown #pink #pinkhair #princess </title>
     <updated>2023-07-20T08:09:50+00:00</updated>
     <content>#kitthebeefcake #shorthair #barbie #ballgown #pink #pinkhair #princess </content>
     <link href="https://tiktok.com/@kit_the_beefcake/video/7257810012175617322" rel="alternate"/>
     <published>2023-07-20T08:09:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7258254858908650794</id>
+    <title>it's true #mumithrewup #funny #kitthebeefcake </title>
+    <updated>2023-07-21T12:56:19+00:00</updated>
+    <content>it's true #mumithrewup #funny #kitthebeefcake </content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7258254858908650794" rel="alternate"/>
+    <published>2023-07-21T12:56:19+00:00</published>
   </entry>
 </feed>
