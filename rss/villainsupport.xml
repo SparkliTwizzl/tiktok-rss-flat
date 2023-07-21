@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@villainsupport</id>
   <title>@villainsupport | TikTok</title>
-  <updated>2023-07-20T20:16:35+00:00</updated>
+  <updated>2023-07-21T16:32:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @villainsupport</subtitle>
-  <entry>
-    <id>https://tiktok.com/@villainsupport/video/7255398804487228715</id>
-    <title>#frieza #vegeta #captainginyu #ginyuforce #namek #dbz #dragonball #anime #acmetok #acmevillainsupport </title>
-    <updated>2023-07-13T20:13:02+00:00</updated>
-    <content>#frieza #vegeta #captainginyu #ginyuforce #namek #dbz #dragonball #anime #acmetok #acmevillainsupport </content>
-    <link href="https://tiktok.com/@villainsupport/video/7255398804487228715" rel="alternate"/>
-    <published>2023-07-13T20:13:02+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@villainsupport/video/7255737075096505646</id>
     <title>#sagaftrastrike #acmetok #acmevillainsupport </title>
@@ -91,5 +83,13 @@
     <content>#onboarding #pantheon #leisure #acmetok #acmevillainsupport </content>
     <link href="https://tiktok.com/@villainsupport/video/7257997327044971818" rel="alternate"/>
     <published>2023-07-20T20:16:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@villainsupport/video/7258310503993298218</id>
+    <title>#broke #vampire #acmetok #acmevillainsupport </title>
+    <updated>2023-07-21T16:32:04+00:00</updated>
+    <content>#broke #vampire #acmetok #acmevillainsupport </content>
+    <link href="https://tiktok.com/@villainsupport/video/7258310503993298218" rel="alternate"/>
+    <published>2023-07-21T16:32:04+00:00</published>
   </entry>
 </feed>
