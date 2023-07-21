@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maruzee_dragon</id>
   <title>@maruzee_dragon | TikTok</title>
-  <updated>2023-07-20T14:14:33+00:00</updated>
+  <updated>2023-07-21T14:06:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maruzee_dragon</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maruzee_dragon/video/7250298665678408966</id>
-    <title>Kickin' into cyberpunk glitchy vibes 🥷✨️ #transition #martialarts #kicks #videogames </title>
-    <updated>2023-06-30T02:21:48+00:00</updated>
-    <content>Kickin' into cyberpunk glitchy vibes 🥷✨️ #transition #martialarts #kicks #videogames </content>
-    <link href="https://tiktok.com/@maruzee_dragon/video/7250298665678408966" rel="alternate"/>
-    <published>2023-06-30T02:21:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maruzee_dragon/video/7250484453766778118</id>
     <title>Stepping out of my comfort zone with this one, still a long way to go before it's perfect!🔥 #martialarts #tricks #flexible #spiderman </title>
@@ -91,5 +83,13 @@
     <content>Don't underestimate Barbie's kicking power 💗💪😂 #taekwondo #barbiegirl #martialarts #kick #flexible </content>
     <link href="https://tiktok.com/@maruzee_dragon/video/7257904046328024326" rel="alternate"/>
     <published>2023-07-20T14:14:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maruzee_dragon/video/7258273021666856197</id>
+    <title>Réponse à @we.are.wwe.fans  Let me show you the secret double life of Barbie!🥷💗 #transition #trending #taekwondo #martialarts #tricks #barbiegirl </title>
+    <updated>2023-07-21T14:06:22+00:00</updated>
+    <content>Réponse à @we.are.wwe.fans  Let me show you the secret double life of Barbie!🥷💗 #transition #trending #taekwondo #martialarts #tricks #barbiegirl </content>
+    <link href="https://tiktok.com/@maruzee_dragon/video/7258273021666856197" rel="alternate"/>
+    <published>2023-07-21T14:06:22+00:00</published>
   </entry>
 </feed>
