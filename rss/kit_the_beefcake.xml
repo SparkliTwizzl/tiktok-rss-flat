@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kit_the_beefcake</id>
   <title>@kit_the_beefcake | TikTok</title>
-  <updated>2023-07-21T12:56:19+00:00</updated>
+  <updated>2023-07-22T04:30:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kit_the_beefcake</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7252590739585027370</id>
-    <title>What do you think? #kitthebeefcake </title>
-    <updated>2023-07-06T06:36:21+00:00</updated>
-    <content>What do you think? #kitthebeefcake </content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7252590739585027370" rel="alternate"/>
-    <published>2023-07-06T06:36:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7253192566697577774</id>
     <title>like WHAT #avn was wild #kitthebeefcake </title>
@@ -91,5 +83,13 @@
     <content>it's true #mumithrewup #funny #kitthebeefcake </content>
     <link href="https://tiktok.com/@kit_the_beefcake/video/7258254858908650794" rel="alternate"/>
     <published>2023-07-21T12:56:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7258495648775916843</id>
+    <title>#kitthebeefcake #bikini #fakebody #chucks #buffgirl #musclemommy </title>
+    <updated>2023-07-22T04:30:29+00:00</updated>
+    <content>#kitthebeefcake #bikini #fakebody #chucks #buffgirl #musclemommy </content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7258495648775916843" rel="alternate"/>
+    <published>2023-07-22T04:30:29+00:00</published>
   </entry>
 </feed>
