@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@manic.toxicity</id>
   <title>@manic.toxicity | TikTok</title>
-  <updated>2023-07-19T20:26:10+00:00</updated>
+  <updated>2023-07-21T19:41:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @manic.toxicity</subtitle>
-  <entry>
-    <id>https://tiktok.com/@manic.toxicity/video/7255374336675269934</id>
-    <title>if you dont pre-save the sad cowboy grunge bands, @Dexter &amp; The Moonrocks, new single (that drops tomorrow) then ur a big ol’ dummy and we cant be friends 🫶🏼 #fyp #foryou </title>
-    <updated>2023-07-13T18:38:07+00:00</updated>
-    <content>if you dont pre-save the sad cowboy grunge bands, @Dexter &amp; The Moonrocks, new single (that drops tomorrow) then ur a big ol’ dummy and we cant be friends 🫶🏼 #fyp #foryou </content>
-    <link href="https://tiktok.com/@manic.toxicity/video/7255374336675269934" rel="alternate"/>
-    <published>2023-07-13T18:38:07+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@manic.toxicity/video/7255814368435146026</id>
-    <title>shtick. #fyp #foryou </title>
-    <updated>2023-07-14T23:05:42+00:00</updated>
-    <content>shtick. #fyp #foryou </content>
-    <link href="https://tiktok.com/@manic.toxicity/video/7255814368435146026" rel="alternate"/>
-    <published>2023-07-14T23:05:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@manic.toxicity/video/7256153268282281258</id>
     <title>booyah. #fyp #foryou</title>
@@ -91,5 +75,21 @@
     <content>get it? #fyp #foryou</content>
     <link href="https://tiktok.com/@manic.toxicity/video/7257628675145878826" rel="alternate"/>
     <published>2023-07-19T20:26:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@manic.toxicity/video/7258056437115424046</id>
+    <title>having said that? #fyp #foryou </title>
+    <updated>2023-07-21T00:06:04+00:00</updated>
+    <content>having said that? #fyp #foryou </content>
+    <link href="https://tiktok.com/@manic.toxicity/video/7258056437115424046" rel="alternate"/>
+    <published>2023-07-21T00:06:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@manic.toxicity/video/7258359222054997291</id>
+    <title>shes so nice &lt;3 #fyp #foryou </title>
+    <updated>2023-07-21T19:41:05+00:00</updated>
+    <content>shes so nice &lt;3 #fyp #foryou </content>
+    <link href="https://tiktok.com/@manic.toxicity/video/7258359222054997291" rel="alternate"/>
+    <published>2023-07-21T19:41:05+00:00</published>
   </entry>
 </feed>
