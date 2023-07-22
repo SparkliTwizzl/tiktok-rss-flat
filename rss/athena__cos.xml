@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-07-18T19:55:30+00:00</updated>
+  <updated>2023-07-22T00:22:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7252734950334778670</id>
-    <title>Ready to bring the cosmos to life, one epic cosplay at a time! 🌟✨ Embracing my inner warrior as Athena from the Knights of the Zodiac, because why settle for anything less than legendary? Buy #KnightsoftheZodiac on digital now! @Sony Pictures #SonyPicsPar</title>
-    <updated>2023-07-06T15:55:57+00:00</updated>
-    <content>Ready to bring the cosmos to life, one epic cosplay at a time! 🌟✨ Embracing my inner warrior as Athena from the Knights of the Zodiac, because why settle for anything less than legendary? Buy #KnightsoftheZodiac on digital now! @Sony Pictures #SonyPicsPartner</content>
-    <link href="https://tiktok.com/@athena__cos/video/7252734950334778670" rel="alternate"/>
-    <published>2023-07-06T15:55:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7252798000215493930</id>
     <title>They also don’t know i can do a helicopter armbar smh #gymtok #muscles #girlswholift </title>
@@ -91,5 +83,13 @@
     <content>If i had a nickel….but for real the similarities just keep going 😂 shera is @Bella LeBaron #wonderwoman #sheracosplay #wonderwomancosplay #shera </content>
     <link href="https://tiktok.com/@athena__cos/video/7257249707679026478" rel="alternate"/>
     <published>2023-07-18T19:55:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7258431787389472043</id>
+    <title>AD: Download Lord of the Rings: Heroes of Middle-earth for free using the link in my bio! @LOTRHeroes  #LOTR #HeroesofMiddleEarth #LooksofMiddleEarth</title>
+    <updated>2023-07-22T00:22:37+00:00</updated>
+    <content>AD: Download Lord of the Rings: Heroes of Middle-earth for free using the link in my bio! @LOTRHeroes  #LOTR #HeroesofMiddleEarth #LooksofMiddleEarth</content>
+    <link href="https://tiktok.com/@athena__cos/video/7258431787389472043" rel="alternate"/>
+    <published>2023-07-22T00:22:37+00:00</published>
   </entry>
 </feed>
