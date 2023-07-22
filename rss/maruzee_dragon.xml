@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maruzee_dragon</id>
   <title>@maruzee_dragon | TikTok</title>
-  <updated>2023-07-21T14:06:22+00:00</updated>
+  <updated>2023-07-22T14:13:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maruzee_dragon</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maruzee_dragon/video/7250484453766778118</id>
-    <title>Stepping out of my comfort zone with this one, still a long way to go before it's perfect!🔥 #martialarts #tricks #flexible #spiderman </title>
-    <updated>2023-06-30T14:22:44+00:00</updated>
-    <content>Stepping out of my comfort zone with this one, still a long way to go before it's perfect!🔥 #martialarts #tricks #flexible #spiderman </content>
-    <link href="https://tiktok.com/@maruzee_dragon/video/7250484453766778118" rel="alternate"/>
-    <published>2023-06-30T14:22:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maruzee_dragon/video/7251410407485721861</id>
     <title>Réponse à @ohsodestini Not wearing my Spider-Man suit for this one...hope it's okay!!🤷‍♀️ #transition #martialarts #trending </title>
@@ -91,5 +83,13 @@
     <content>Réponse à @we.are.wwe.fans  Let me show you the secret double life of Barbie!🥷💗 #transition #trending #taekwondo #martialarts #tricks #barbiegirl </content>
     <link href="https://tiktok.com/@maruzee_dragon/video/7258273021666856197" rel="alternate"/>
     <published>2023-07-21T14:06:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maruzee_dragon/video/7258645940418940166</id>
+    <title>Just a casual transition for today 🤷‍♀️ #blackwidow #marvel #martialarts </title>
+    <updated>2023-07-22T14:13:28+00:00</updated>
+    <content>Just a casual transition for today 🤷‍♀️ #blackwidow #marvel #martialarts </content>
+    <link href="https://tiktok.com/@maruzee_dragon/video/7258645940418940166" rel="alternate"/>
+    <published>2023-07-22T14:13:28+00:00</published>
   </entry>
 </feed>
