@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jacobtheseahorse</id>
   <title>@jacobtheseahorse | TikTok</title>
-  <updated>2023-07-16T07:48:33+00:00</updated>
+  <updated>2023-07-22T07:02:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jacobtheseahorse</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7254282925741575450</id>
-    <title>Replying to @account57959  all figures in this came from chatGPT which may have pulled these figures out of its proverbial. but the point still stands, we often make accomodations for the 1%, often with unexpected benefits for others too. a trans inclusiv</title>
-    <updated>2023-07-10T20:02:49+00:00</updated>
-    <content>Replying to @account57959  all figures in this came from chatGPT which may have pulled these figures out of its proverbial. but the point still stands, we often make accomodations for the 1%, often with unexpected benefits for others too. a trans inclusive health service is trauma informed with person centred care. what's not to love? oh and in case it isn't obvious I definitely *do* think we should make accomodations for d/Deaf people, blind people and yes, even vegetarians.  #trans #AI #chatgpt #transgender #pregnancy #healthcare #troll #lgbt #1 </content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7254282925741575450" rel="alternate"/>
-    <published>2023-07-10T20:02:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jacobtheseahorse/video/7254577154766425371</id>
     <title>choices choices  I'm choosing to make changes in my life that bring me joy and I hope you have the opportunity to do the same #trans #joy #choice #choose #lgbt #lgbtq #queertok #pregnancy #parents </title>
@@ -91,5 +83,13 @@
     <content>Replying to @ms_nightstar this was a difficult video to record and I imagine it might be a difficult video to watch. please be careful with yourself while watching. being targeted during my pregnancy was an event that triggered a deeply powerful shift in my mental health that left me very unwell for 2 years and hugely affected my relationship with my baby (and everyone else). I was also let down by mental health services despite reaching out for help, but that's another story  #trans #mentalhealth #SA #survivor #storytime #transgender #pregnancy #tw </content>
     <link href="https://tiktok.com/@jacobtheseahorse/video/7256320181255867674" rel="alternate"/>
     <published>2023-07-16T07:48:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7258534793783020827</id>
+    <title>#stitch with @CoyoteAnnie we've had the tools to stop this but pRoFiTs have meant we haven't acted on it.  billionaires are the problem capitalism is the problem we're all f**ked because of their greed. how bad is it going to get before we make a #radical</title>
+    <updated>2023-07-22T07:02:24+00:00</updated>
+    <content>#stitch with @CoyoteAnnie we've had the tools to stop this but pRoFiTs have meant we haven't acted on it.  billionaires are the problem capitalism is the problem we're all f**ked because of their greed. how bad is it going to get before we make a #radicalchange for humanity and all life on earth? #climatechange #climatedisaster #together #earth </content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7258534793783020827" rel="alternate"/>
+    <published>2023-07-22T07:02:24+00:00</published>
   </entry>
 </feed>
