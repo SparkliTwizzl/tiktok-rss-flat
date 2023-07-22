@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@nopanicbutton</id>
   <title>@nopanicbutton | TikTok</title>
-  <updated>2023-07-19T21:15:07+00:00</updated>
+  <updated>2023-07-21T15:40:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @nopanicbutton</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nopanicbutton/video/7249842717050621230</id>
-    <title>Why such a macabre souvenir tho? #why #oddflex #ifIdieofEbolaimgonnahauntyou </title>
-    <updated>2023-06-28T20:52:34+00:00</updated>
-    <content>Why such a macabre souvenir tho? #why #oddflex #ifIdieofEbolaimgonnahauntyou </content>
-    <link href="https://tiktok.com/@nopanicbutton/video/7249842717050621230" rel="alternate"/>
-    <published>2023-06-28T20:52:34+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nopanicbutton/video/7250588428222418219</id>
     <title>Some miracles are unnecessary. #damn #how #why #damnit </title>
@@ -91,5 +83,13 @@
     <content>Love to all my brothers....But seriously man, why would the AF need a knife cept to open care packages? #chairforce #wereallbrothersandsisters </content>
     <link href="https://tiktok.com/@nopanicbutton/video/7257641285958438190" rel="alternate"/>
     <published>2023-07-19T21:15:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nopanicbutton/video/7258297217830882606</id>
+    <title>She told me what it was for in a thank you after she got it. #witch #witchtok #damn #vindictive #holyshit </title>
+    <updated>2023-07-21T15:40:32+00:00</updated>
+    <content>She told me what it was for in a thank you after she got it. #witch #witchtok #damn #vindictive #holyshit </content>
+    <link href="https://tiktok.com/@nopanicbutton/video/7258297217830882606" rel="alternate"/>
+    <published>2023-07-21T15:40:32+00:00</published>
   </entry>
 </feed>
