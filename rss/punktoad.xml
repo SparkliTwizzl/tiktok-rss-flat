@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-07-21T17:51:15+00:00</updated>
+  <updated>2023-07-22T22:41:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7255060204004363562</id>
-    <title>And with that, I’m out #inconvenience #goinghome #goodnight </title>
-    <updated>2023-07-12T22:19:08+00:00</updated>
-    <content>And with that, I’m out #inconvenience #goinghome #goodnight </content>
-    <link href="https://tiktok.com/@punktoad/video/7255060204004363562" rel="alternate"/>
-    <published>2023-07-12T22:19:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7255732112785952042</id>
     <title>I am ✨unavailable✨ #worklifebalance #workproblems #dayoff </title>
@@ -91,5 +83,13 @@
     <content>It hits every time #bonethugsnharmony #misheardlyrics #motivation </content>
     <link href="https://tiktok.com/@punktoad/video/7258330922255224107" rel="alternate"/>
     <published>2023-07-21T17:51:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7258776916126223658</id>
+    <title>He ain’t listenin’ #timeisntreal #lifeisaboutexperiences #bluey </title>
+    <updated>2023-07-22T22:41:57+00:00</updated>
+    <content>He ain’t listenin’ #timeisntreal #lifeisaboutexperiences #bluey </content>
+    <link href="https://tiktok.com/@punktoad/video/7258776916126223658" rel="alternate"/>
+    <published>2023-07-22T22:41:57+00:00</published>
   </entry>
 </feed>
