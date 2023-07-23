@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jodellemicahferland</id>
   <title>@jodellemicahferland | TikTok</title>
-  <updated>2022-11-01T20:29:15+00:00</updated>
+  <updated>2022-11-01T02:37:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jodellemicahferland</subtitle>
+  <entry>
+    <id>https://tiktok.com/@jodellemicahferland/video/7023135261504572677</id>
+    <title>reposting an old one for national chucky day🔪💋✨ #chucky #tiffanyvalentine @madelinemasquerade</title>
+    <updated>2021-10-25T22:31:45+00:00</updated>
+    <content>reposting an old one for national chucky day🔪💋✨ #chucky #tiffanyvalentine @madelinemasquerade</content>
+    <link href="https://tiktok.com/@jodellemicahferland/video/7023135261504572677" rel="alternate"/>
+    <published>2021-10-25T22:31:45+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@jodellemicahferland/video/7024987510434450693</id>
     <title>i already posted this on @micahmakesstuff but wanted to share it here too👻✨ might be working on a cosplay to go with it👀 #hocuspocus #spellbook #sandersonsisters</title>
@@ -83,13 +91,5 @@
     <content>happy halloween!💋  #fullmetalalchemist #fullmetalalchemistbrotherhood #lustfma #lustcosplay #halloween </content>
     <link href="https://tiktok.com/@jodellemicahferland/video/7160871143237258502" rel="alternate"/>
     <published>2022-11-01T02:37:25+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jodellemicahferland/video/7161147370162375941</id>
-    <title>is it me? am i the drama?! #lustfma #lustcosplay #fullmetalalchemist #fmabrotherhood #fmacosplay </title>
-    <updated>2022-11-01T20:29:15+00:00</updated>
-    <content>is it me? am i the drama?! #lustfma #lustcosplay #fullmetalalchemist #fmabrotherhood #fmacosplay </content>
-    <link href="https://tiktok.com/@jodellemicahferland/video/7161147370162375941" rel="alternate"/>
-    <published>2022-11-01T20:29:15+00:00</published>
   </entry>
 </feed>
