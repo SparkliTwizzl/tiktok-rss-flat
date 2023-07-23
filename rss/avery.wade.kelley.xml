@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-07-18T20:39:24+00:00</updated>
+  <updated>2023-07-23T04:01:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,38 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7252881420471864618</id>
-    <title>Having a blast!! #fyp #trans </title>
-    <updated>2023-07-07T01:24:16+00:00</updated>
-    <content>Having a blast!! #fyp #trans </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7252881420471864618" rel="alternate"/>
-    <published>2023-07-07T01:24:16+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7254631448379133230</id>
-    <title>@Tattoujee You're incredible! Thank you so much. #fyp #trans </title>
-    <updated>2023-07-11T18:35:25+00:00</updated>
-    <content>@Tattoujee You're incredible! Thank you so much. #fyp #trans </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7254631448379133230" rel="alternate"/>
-    <published>2023-07-11T18:35:25+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7254669395471928622</id>
-    <title>Woof. #fyp </title>
-    <updated>2023-07-11T21:02:32+00:00</updated>
-    <content>Woof. #fyp </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7254669395471928622" rel="alternate"/>
-    <published>2023-07-11T21:02:32+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7255054515018239274</id>
-    <title>#petgrief </title>
-    <updated>2023-07-12T21:57:04+00:00</updated>
-    <content>#petgrief </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7255054515018239274" rel="alternate"/>
-    <published>2023-07-12T21:57:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7255374599846628651</id>
     <title>Hit me a lot harder yesterday than I thought it would. Thank you all for your kind words. #fyp #grief </title>
@@ -91,5 +59,37 @@
     <content>Get old. Please. Life has so much to offer. #fyp </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7257261033939635498" rel="alternate"/>
     <published>2023-07-18T20:39:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7258697047459613998</id>
+    <title>They'll last longer. 🖤 #fyp </title>
+    <updated>2023-07-22T17:31:59+00:00</updated>
+    <content>They'll last longer. 🖤 #fyp </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7258697047459613998" rel="alternate"/>
+    <published>2023-07-22T17:31:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7258709081404329262</id>
+    <title>Share your trans joy. 🖤 #fyp #trans </title>
+    <updated>2023-07-22T18:18:40+00:00</updated>
+    <content>Share your trans joy. 🖤 #fyp #trans </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7258709081404329262" rel="alternate"/>
+    <published>2023-07-22T18:18:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7258842364171570478</id>
+    <title>Replying to @thatcopperboi Not anymore! To be honest, I already had a tiiiiiny mustache before T. It just grew off of that. Lol. #fyp #trans </title>
+    <updated>2023-07-23T02:55:50+00:00</updated>
+    <content>Replying to @thatcopperboi Not anymore! To be honest, I already had a tiiiiiny mustache before T. It just grew off of that. Lol. #fyp #trans </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7258842364171570478" rel="alternate"/>
+    <published>2023-07-23T02:55:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7258859266738687278</id>
+    <title>Idefk. #fyp </title>
+    <updated>2023-07-23T04:01:29+00:00</updated>
+    <content>Idefk. #fyp </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7258859266738687278" rel="alternate"/>
+    <published>2023-07-23T04:01:29+00:00</published>
   </entry>
 </feed>
