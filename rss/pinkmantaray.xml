@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pinkmantaray</id>
   <title>@pinkmantaray | TikTok</title>
-  <updated>2023-07-21T03:44:03+00:00</updated>
+  <updated>2023-07-22T18:20:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @pinkmantaray</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pinkmantaray/video/7256621376830737706</id>
-    <title>What happens when trans people tell others we are trans?? Listen to the whole episode of #DEARSCHUYLER with @Mila Jam anywhere you get your podcasts 💕🏳️‍⚧️ #podcast #transgender #dating #datingwhiletrans </title>
-    <updated>2023-07-17T03:17:16+00:00</updated>
-    <content>What happens when trans people tell others we are trans?? Listen to the whole episode of #DEARSCHUYLER with @Mila Jam anywhere you get your podcasts 💕🏳️‍⚧️ #podcast #transgender #dating #datingwhiletrans </content>
-    <link href="https://tiktok.com/@pinkmantaray/video/7256621376830737706" rel="alternate"/>
-    <published>2023-07-17T03:17:16+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@pinkmantaray/video/7256767192652434730</id>
-    <title>We had such a lovely time visiting #chitown together with our baby! #dogparents #traveltiktok #transgender #queercouple #couplegoals </title>
-    <updated>2023-07-17T12:43:32+00:00</updated>
-    <content>We had such a lovely time visiting #chitown together with our baby! #dogparents #traveltiktok #transgender #queercouple #couplegoals </content>
-    <link href="https://tiktok.com/@pinkmantaray/video/7256767192652434730" rel="alternate"/>
-    <published>2023-07-17T12:43:32+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pinkmantaray/video/7257352686457343278</id>
     <title>PART 1 | Last month I traveled with @August to #Florida to protesr HB 1069 - a dangerous bill that passed into law on July 1st. This is the first clip of a longer and fascinating conversation I had with a pastor! #gender #transgender #lgbtq #transrights </title>
@@ -91,5 +75,21 @@
     <content>Part 7 @Schuyler Bailar  | The last of this series about my conversation with a pastor about gender! Overall my interaction with him was good; we do not agree on everything but I deeply appreciated how we could have a calm conversation and that he was open to learning. Grateful for @August bringing me along to be in moments like this! #florida #hb1069 #transgender #learning #gender #conversation </content>
     <link href="https://tiktok.com/@pinkmantaray/video/7258112604839726379" rel="alternate"/>
     <published>2023-07-21T03:44:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pinkmantaray/video/7258418267998391595</id>
+    <title>This is NOT an ad... I just wanted to share how I work! My set up has evolved over the years. Now includes this computer stand, a keyboard, and a mouse to ensure that I am #ergonomic. This has made a huge difference for me regarding chronic neck pain! #wf</title>
+    <updated>2023-07-21T23:30:10+00:00</updated>
+    <content>This is NOT an ad... I just wanted to share how I work! My set up has evolved over the years. Now includes this computer stand, a keyboard, and a mouse to ensure that I am #ergonomic. This has made a huge difference for me regarding chronic neck pain! #wfh #neckpain #transgender #advocate #workremote </content>
+    <link href="https://tiktok.com/@pinkmantaray/video/7258418267998391595" rel="alternate"/>
+    <published>2023-07-21T23:30:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pinkmantaray/video/7258709542924537130</id>
+    <title>Replying to @Alex Anti-trans rhetoric is powerful and needs to be disputed. Attend my Allyship Bootcamp to learn more about mythbusting transphobia! Sign up at pinkmantaray.com/workshops. #transgender #genderaffirmingsurgery #transition #gender </title>
+    <updated>2023-07-22T18:20:33+00:00</updated>
+    <content>Replying to @Alex Anti-trans rhetoric is powerful and needs to be disputed. Attend my Allyship Bootcamp to learn more about mythbusting transphobia! Sign up at pinkmantaray.com/workshops. #transgender #genderaffirmingsurgery #transition #gender </content>
+    <link href="https://tiktok.com/@pinkmantaray/video/7258709542924537130" rel="alternate"/>
+    <published>2023-07-22T18:20:33+00:00</published>
   </entry>
 </feed>

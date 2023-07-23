@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maladytheclown</id>
   <title>@maladytheclown | TikTok</title>
-  <updated>2023-07-20T03:30:38+00:00</updated>
+  <updated>2023-07-22T16:35:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maladytheclown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maladytheclown/video/7246042373648616710</id>
-    <title>#maladytheclown #clown #comedy </title>
-    <updated>2023-06-18T15:05:12+00:00</updated>
-    <content>#maladytheclown #clown #comedy </content>
-    <link href="https://tiktok.com/@maladytheclown/video/7246042373648616710" rel="alternate"/>
-    <published>2023-06-18T15:05:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maladytheclown/video/7246127077743676678</id>
     <title>Yes, you are Glum, yes you are 💙 #onthisday #glumthesupernaturalhitman #bluesuit #suit #dancesinshadows </title>
@@ -91,5 +83,13 @@
     <content>welcome to my world ❤️🎨 #makeupartist #foamwig #icecreamclown #clown #maladytheclown </content>
     <link href="https://tiktok.com/@maladytheclown/video/7257738108265843974" rel="alternate"/>
     <published>2023-07-20T03:30:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maladytheclown/video/7258682416183676166</id>
+    <title>I found this dress while thrifting and couldn't resist. it was $60 which is more than I usually allow myself to spend on one item but it's so fabcy and long that I can't even get the full dress on camera 😅😝 #vampire #maladytheclown #dancesinshadows </title>
+    <updated>2023-07-22T16:35:02+00:00</updated>
+    <content>I found this dress while thrifting and couldn't resist. it was $60 which is more than I usually allow myself to spend on one item but it's so fabcy and long that I can't even get the full dress on camera 😅😝 #vampire #maladytheclown #dancesinshadows </content>
+    <link href="https://tiktok.com/@maladytheclown/video/7258682416183676166" rel="alternate"/>
+    <published>2023-07-22T16:35:02+00:00</published>
   </entry>
 </feed>
