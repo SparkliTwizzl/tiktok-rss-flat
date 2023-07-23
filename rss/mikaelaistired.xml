@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@mikaelaistired</id>
   <title>@mikaelaistired | TikTok</title>
-  <updated>2023-07-22T14:53:10+00:00</updated>
+  <updated>2023-07-23T14:31:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @mikaelaistired</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mikaelaistired/video/7255769179653999918</id>
-    <title>Make good decisions… and win</title>
-    <updated>2023-07-14T20:10:23+00:00</updated>
-    <content>Make good decisions… and win</content>
-    <link href="https://tiktok.com/@mikaelaistired/video/7255769179653999918" rel="alternate"/>
-    <published>2023-07-14T20:10:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mikaelaistired/video/7255894338268302635</id>
     <title>My wife is watching Korra, this is my contribution </title>
@@ -91,5 +83,13 @@
     <content>How dare you</content>
     <link href="https://tiktok.com/@mikaelaistired/video/7258656067729624362" rel="alternate"/>
     <published>2023-07-22T14:53:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mikaelaistired/video/7259021582117408043</id>
+    <title>Gay panic</title>
+    <updated>2023-07-23T14:31:30+00:00</updated>
+    <content>Gay panic</content>
+    <link href="https://tiktok.com/@mikaelaistired/video/7259021582117408043" rel="alternate"/>
+    <published>2023-07-23T14:31:30+00:00</published>
   </entry>
 </feed>
