@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kamehalani</id>
   <title>@kamehalani | TikTok</title>
-  <updated>2023-07-21T16:02:51+00:00</updated>
+  <updated>2023-07-23T19:27:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kamehalani</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kamehalani/video/7254984371122294058</id>
-    <title>#stitch with @Ryan Foley well… yeah. #lgbt </title>
-    <updated>2023-07-12T17:24:56+00:00</updated>
-    <content>#stitch with @Ryan Foley well… yeah. #lgbt </content>
-    <link href="https://tiktok.com/@kamehalani/video/7254984371122294058" rel="alternate"/>
-    <published>2023-07-12T17:24:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kamehalani/video/7255000157136112938</id>
     <title>That was scary </title>
@@ -91,5 +83,13 @@
     <content>Replying to @Child of God ✞ #greenscreen yikes </content>
     <link href="https://tiktok.com/@kamehalani/video/7258302962563435822" rel="alternate"/>
     <published>2023-07-21T16:02:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kamehalani/video/7259097999349959982</id>
+    <title>No </title>
+    <updated>2023-07-23T19:27:54+00:00</updated>
+    <content>No </content>
+    <link href="https://tiktok.com/@kamehalani/video/7259097999349959982" rel="alternate"/>
+    <published>2023-07-23T19:27:54+00:00</published>
   </entry>
 </feed>
