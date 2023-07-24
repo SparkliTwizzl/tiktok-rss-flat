@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-07-24T01:34:16+00:00</updated>
+  <updated>2023-07-24T20:46:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7256466307934342446</id>
-    <title>#duet with @Local_lezbian #fyp We just want to use the bathroom. I stand STRONG and LOUD with my trans sisters. We're in this TOGETHER. #Trans </title>
-    <updated>2023-07-16T17:15:39+00:00</updated>
-    <content>#duet with @Local_lezbian #fyp We just want to use the bathroom. I stand STRONG and LOUD with my trans sisters. We're in this TOGETHER. #Trans </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7256466307934342446" rel="alternate"/>
-    <published>2023-07-16T17:15:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7256889360044281131</id>
     <title>Sorry for the trap, but I'm feeling myself today. #fyp #trans </title>
@@ -91,5 +83,13 @@
     <content>Omg, I couldn't not. #fyp </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7259192431483063594" rel="alternate"/>
     <published>2023-07-24T01:34:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7259489344719752494</id>
+    <title>This is not to my beautiful, lovely followers and supporters. This is to those who oppose our existence, that claim us to be predators and groomers, that refuse to look at their own dirty laundry. Use your fucking brain. #fyp #trans </title>
+    <updated>2023-07-24T20:46:26+00:00</updated>
+    <content>This is not to my beautiful, lovely followers and supporters. This is to those who oppose our existence, that claim us to be predators and groomers, that refuse to look at their own dirty laundry. Use your fucking brain. #fyp #trans </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7259489344719752494" rel="alternate"/>
+    <published>2023-07-24T20:46:26+00:00</published>
   </entry>
 </feed>
