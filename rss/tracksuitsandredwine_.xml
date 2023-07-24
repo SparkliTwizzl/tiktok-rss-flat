@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@tracksuitsandredwine_</id>
   <title>@tracksuitsandredwine_ | TikTok</title>
-  <updated>2023-07-23T02:56:18+00:00</updated>
+  <updated>2023-07-24T13:26:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @tracksuitsandredwine_</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tracksuitsandredwine_/video/7251946347463576833</id>
-    <title>the moon &gt;</title>
-    <updated>2023-07-04T12:55:39+00:00</updated>
-    <content>the moon &gt;</content>
-    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7251946347463576833" rel="alternate"/>
-    <published>2023-07-04T12:55:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tracksuitsandredwine_/video/7253743269153131778</id>
     <title>amy&gt;</title>
@@ -91,5 +83,13 @@
     <content>so i thought that if i piled something good in all my bad, that i could cancel out the darkness i inherited from dad </content>
     <link href="https://tiktok.com/@tracksuitsandredwine_/video/7258842503237881089" rel="alternate"/>
     <published>2023-07-23T02:56:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tracksuitsandredwine_/video/7259375886045072648</id>
+    <title>pc&gt;</title>
+    <updated>2023-07-24T13:26:06+00:00</updated>
+    <content>pc&gt;</content>
+    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7259375886045072648" rel="alternate"/>
+    <published>2023-07-24T13:26:06+00:00</published>
   </entry>
 </feed>
