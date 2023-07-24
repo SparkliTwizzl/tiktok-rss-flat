@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jacobtheseahorse</id>
   <title>@jacobtheseahorse | TikTok</title>
-  <updated>2023-07-22T07:02:24+00:00</updated>
+  <updated>2023-07-24T15:01:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jacobtheseahorse</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7254577154766425371</id>
-    <title>choices choices  I'm choosing to make changes in my life that bring me joy and I hope you have the opportunity to do the same #trans #joy #choice #choose #lgbt #lgbtq #queertok #pregnancy #parents </title>
-    <updated>2023-07-11T15:04:35+00:00</updated>
-    <content>choices choices  I'm choosing to make changes in my life that bring me joy and I hope you have the opportunity to do the same #trans #joy #choice #choose #lgbt #lgbtq #queertok #pregnancy #parents </content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7254577154766425371" rel="alternate"/>
-    <published>2023-07-11T15:04:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jacobtheseahorse/video/7254627171656863003</id>
     <title>Replying to @kayleighlou92xox i could have answered with "no and no" but instead I did a bit of a deep dive into hormones and said the word testosterone approximately 50 million times #trans #hormones #pregnancy #testosterone #transgender </title>
@@ -85,11 +77,19 @@
     <published>2023-07-16T07:48:33+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7258534793783020827</id>
-    <title>#stitch with @CoyoteAnnie we've had the tools to stop this but pRoFiTs have meant we haven't acted on it.  billionaires are the problem capitalism is the problem we're all f**ked because of their greed. how bad is it going to get before we make a #radical</title>
-    <updated>2023-07-22T07:02:24+00:00</updated>
-    <content>#stitch with @CoyoteAnnie we've had the tools to stop this but pRoFiTs have meant we haven't acted on it.  billionaires are the problem capitalism is the problem we're all f**ked because of their greed. how bad is it going to get before we make a #radicalchange for humanity and all life on earth? #climatechange #climatedisaster #together #earth </content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7258534793783020827" rel="alternate"/>
-    <published>2023-07-22T07:02:24+00:00</published>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7259387467789241626</id>
+    <title>everyone who cares about trans and nonbinary people and their families is welcome to come! tickets are FREE - pm me for the link  in conjunction with #barnardos and #mygenderation @Fox Fisher  #trans #transpac #transgender #families #parents #transparents</title>
+    <updated>2023-07-24T14:11:05+00:00</updated>
+    <content>everyone who cares about trans and nonbinary people and their families is welcome to come! tickets are FREE - pm me for the link  in conjunction with #barnardos and #mygenderation @Fox Fisher  #trans #transpac #transgender #families #parents #transparents #manchester </content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7259387467789241626" rel="alternate"/>
+    <published>2023-07-24T14:11:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7259400449051102490</id>
+    <title>Replying to @philipmichaelmont you can't always tell someone is trans and you can't always tell someone is pregnant 🤷🏻‍♂️ training for midwives and other birthworkers coming up in August -  bit . ly / seacourses for tickets source for statistic from CQC 2</title>
+    <updated>2023-07-24T15:01:26+00:00</updated>
+    <content>Replying to @philipmichaelmont you can't always tell someone is trans and you can't always tell someone is pregnant 🤷🏻‍♂️ training for midwives and other birthworkers coming up in August -  bit . ly / seacourses for tickets source for statistic from CQC 2022. link available at transparentchange•co•uk / resources  #midwifery #midwife #birth #pregnancy #pregnantman #birth #education #lgbt #trans #transgender #cqc </content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7259400449051102490" rel="alternate"/>
+    <published>2023-07-24T15:01:26+00:00</published>
   </entry>
 </feed>
