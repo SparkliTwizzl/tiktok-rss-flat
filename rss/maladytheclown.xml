@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maladytheclown</id>
   <title>@maladytheclown | TikTok</title>
-  <updated>2023-07-22T16:35:02+00:00</updated>
+  <updated>2023-07-24T21:20:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maladytheclown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maladytheclown/video/7246127077743676678</id>
-    <title>Yes, you are Glum, yes you are 💙 #onthisday #glumthesupernaturalhitman #bluesuit #suit #dancesinshadows </title>
-    <updated>2023-06-18T20:33:55+00:00</updated>
-    <content>Yes, you are Glum, yes you are 💙 #onthisday #glumthesupernaturalhitman #bluesuit #suit #dancesinshadows </content>
-    <link href="https://tiktok.com/@maladytheclown/video/7246127077743676678" rel="alternate"/>
-    <published>2023-06-18T20:33:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@maladytheclown/video/7247487239607962886</id>
-    <title>yep 😅😆❤️ #cosplay #maladytheclown #sheep #disascociation #lambcosplay </title>
-    <updated>2023-06-22T12:32:02+00:00</updated>
-    <content>yep 😅😆❤️ #cosplay #maladytheclown #sheep #disascociation #lambcosplay </content>
-    <link href="https://tiktok.com/@maladytheclown/video/7247487239607962886" rel="alternate"/>
-    <published>2023-06-22T12:32:02+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maladytheclown/video/7248982110948691206</id>
     <title>#onthisday </title>
@@ -91,5 +75,21 @@
     <content>I found this dress while thrifting and couldn't resist. it was $60 which is more than I usually allow myself to spend on one item but it's so fabcy and long that I can't even get the full dress on camera 😅😝 #vampire #maladytheclown #dancesinshadows </content>
     <link href="https://tiktok.com/@maladytheclown/video/7258682416183676166" rel="alternate"/>
     <published>2023-07-22T16:35:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maladytheclown/video/7259393055852137734</id>
+    <title>voice @Jax 🌸  #dancesinshadows #maladytheclown </title>
+    <updated>2023-07-24T14:32:41+00:00</updated>
+    <content>voice @Jax 🌸  #dancesinshadows #maladytheclown </content>
+    <link href="https://tiktok.com/@maladytheclown/video/7259393055852137734" rel="alternate"/>
+    <published>2023-07-24T14:32:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maladytheclown/video/7259498123922246917</id>
+    <title>💚💚💚 song by @ashnikko #cheerleader #maladytheclown #dancesinshadows </title>
+    <updated>2023-07-24T21:20:24+00:00</updated>
+    <content>💚💚💚 song by @ashnikko #cheerleader #maladytheclown #dancesinshadows </content>
+    <link href="https://tiktok.com/@maladytheclown/video/7259498123922246917" rel="alternate"/>
+    <published>2023-07-24T21:20:24+00:00</published>
   </entry>
 </feed>
