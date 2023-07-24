@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kit_the_beefcake</id>
   <title>@kit_the_beefcake | TikTok</title>
-  <updated>2023-07-23T14:18:01+00:00</updated>
+  <updated>2023-07-24T02:32:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kit_the_beefcake</subtitle>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7253624234650488106</id>
+    <title>[no title]</title>
+    <updated>2023-07-09T01:26:53+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7253624234650488106" rel="alternate"/>
+    <published>2023-07-09T01:26:53+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7254445997231820075</id>
     <title>#kitthebeefcake </title>
@@ -77,19 +85,11 @@
     <published>2023-07-22T04:30:29+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7258939735790341418</id>
-    <title>#kitthebeefcake </title>
-    <updated>2023-07-23T09:14:13+00:00</updated>
-    <content>#kitthebeefcake </content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7258939735790341418" rel="alternate"/>
-    <published>2023-07-23T09:14:13+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7259018065000615210</id>
-    <title>#kitthebeefcake </title>
-    <updated>2023-07-23T14:18:01+00:00</updated>
-    <content>#kitthebeefcake </content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7259018065000615210" rel="alternate"/>
-    <published>2023-07-23T14:18:01+00:00</published>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7259207528280591662</id>
+    <title>I'm a math major now but.... it took time to realize this was something I could do. </title>
+    <updated>2023-07-24T02:32:54+00:00</updated>
+    <content>I'm a math major now but.... it took time to realize this was something I could do. </content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7259207528280591662" rel="alternate"/>
+    <published>2023-07-24T02:32:54+00:00</published>
   </entry>
 </feed>
