@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-07-22T16:39:25+00:00</updated>
+  <updated>2023-07-23T16:48:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7256469327761771781</id>
-    <title>As I gear up to film again, what characters or looks do you want to see? #onthisday #throwback #maladytheclown #dancesinshadows </title>
-    <updated>2023-07-16T17:27:08+00:00</updated>
-    <content>As I gear up to film again, what characters or looks do you want to see? #onthisday #throwback #maladytheclown #dancesinshadows </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7256469327761771781" rel="alternate"/>
-    <published>2023-07-16T17:27:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7256980097645792517</id>
     <title>yep, its true 😅❤️  #maladytheclown #icecream #foamwig #lifelesson </title>
@@ -91,5 +83,13 @@
     <content>managed a few vids yesterday ❤️  #vampireoc #vampire #maladytheclown #dancesinshadows </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7258683545386896646" rel="alternate"/>
     <published>2023-07-22T16:39:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7259057086313598214</id>
+    <title>seems about right to me #maladytheclown #dancesinshadows #iwannabeakittycatidiot </title>
+    <updated>2023-07-23T16:48:56+00:00</updated>
+    <content>seems about right to me #maladytheclown #dancesinshadows #iwannabeakittycatidiot </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7259057086313598214" rel="alternate"/>
+    <published>2023-07-23T16:48:56+00:00</published>
   </entry>
 </feed>
