@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maladytheclown</id>
   <title>@maladytheclown | TikTok</title>
-  <updated>2023-07-25T00:36:42+00:00</updated>
+  <updated>2023-07-25T15:54:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maladytheclown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maladytheclown/video/7250861064143916294</id>
-    <title>#onthisday #maladytheclown #cosplay #clown #makeupartist </title>
-    <updated>2023-07-01T14:44:11+00:00</updated>
-    <content>#onthisday #maladytheclown #cosplay #clown #makeupartist </content>
-    <link href="https://tiktok.com/@maladytheclown/video/7250861064143916294" rel="alternate"/>
-    <published>2023-07-01T14:44:11+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maladytheclown/video/7252863345043295493</id>
     <title>my handmade, foam, ice-cream cone wig will be available for purchase in my shop later this month. been busy prepping for an upcoming con where I will be selling both props and art 🎨  #cosplay #icecream #clown #icecreamclown #foamwig #handmadewig </title>
@@ -91,5 +83,13 @@
     <content>feel free to join 💚 #dancesinshadows #maladytheclown #neongreen </content>
     <link href="https://tiktok.com/@maladytheclown/video/7259548701046230277" rel="alternate"/>
     <published>2023-07-25T00:36:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maladytheclown/video/7259785228045094150</id>
+    <title>song @Mimi Webb #maladytheclown #dancesinshadows </title>
+    <updated>2023-07-25T15:54:31+00:00</updated>
+    <content>song @Mimi Webb #maladytheclown #dancesinshadows </content>
+    <link href="https://tiktok.com/@maladytheclown/video/7259785228045094150" rel="alternate"/>
+    <published>2023-07-25T15:54:31+00:00</published>
   </entry>
 </feed>
