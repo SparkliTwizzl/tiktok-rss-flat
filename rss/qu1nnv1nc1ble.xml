@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@qu1nnv1nc1ble</id>
   <title>@qu1nnv1nc1ble | TikTok</title>
-  <updated>2023-07-24T03:28:12+00:00</updated>
+  <updated>2023-07-24T18:12:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @qu1nnv1nc1ble</subtitle>
-  <entry>
-    <id>https://tiktok.com/@qu1nnv1nc1ble/video/7256515101476326702</id>
-    <title>💓🤍♥️ sneak peek ♥️🤍💓 #spiderverse #spidergwen #cosplay #of #transition #fyp </title>
-    <updated>2023-07-16T20:24:53+00:00</updated>
-    <content>💓🤍♥️ sneak peek ♥️🤍💓 #spiderverse #spidergwen #cosplay #of #transition #fyp </content>
-    <link href="https://tiktok.com/@qu1nnv1nc1ble/video/7256515101476326702" rel="alternate"/>
-    <published>2023-07-16T20:24:53+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@qu1nnv1nc1ble/video/7256830844327808299</id>
     <title>Get off my Spidussy 😮‍💨 #draft #fyp </title>
@@ -91,5 +83,13 @@
     <content>Im lookin at you 🫵👁️ #fanspage #twitter #onlyfriend #upnow #latenightvibes #spidergwen </content>
     <link href="https://tiktok.com/@qu1nnv1nc1ble/video/7259221763178089774" rel="alternate"/>
     <published>2023-07-24T03:28:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@qu1nnv1nc1ble/video/7259449738100084011</id>
+    <title>Oops 💙 #transition #haircolorchallenge #blueboy #bleh </title>
+    <updated>2023-07-24T18:12:51+00:00</updated>
+    <content>Oops 💙 #transition #haircolorchallenge #blueboy #bleh </content>
+    <link href="https://tiktok.com/@qu1nnv1nc1ble/video/7259449738100084011" rel="alternate"/>
+    <published>2023-07-24T18:12:51+00:00</published>
   </entry>
 </feed>
