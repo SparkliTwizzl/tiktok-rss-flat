@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-07-22T22:41:57+00:00</updated>
+  <updated>2023-07-25T01:24:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7255732112785952042</id>
-    <title>I am ✨unavailable✨ #worklifebalance #workproblems #dayoff </title>
-    <updated>2023-07-14T17:46:33+00:00</updated>
-    <content>I am ✨unavailable✨ #worklifebalance #workproblems #dayoff </content>
-    <link href="https://tiktok.com/@punktoad/video/7255732112785952042" rel="alternate"/>
-    <published>2023-07-14T17:46:33+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7255849737478311210</id>
     <title>I don’t know… #dogsoftiktok #dogmemes #fightermemes </title>
@@ -91,5 +83,13 @@
     <content>He ain’t listenin’ #timeisntreal #lifeisaboutexperiences #bluey </content>
     <link href="https://tiktok.com/@punktoad/video/7258776916126223658" rel="alternate"/>
     <published>2023-07-22T22:41:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7259561072875572522</id>
+    <title>😅😅🧐 #osha #workplacehumor #factorywork </title>
+    <updated>2023-07-25T01:24:47+00:00</updated>
+    <content>😅😅🧐 #osha #workplacehumor #factorywork </content>
+    <link href="https://tiktok.com/@punktoad/video/7259561072875572522" rel="alternate"/>
+    <published>2023-07-25T01:24:47+00:00</published>
   </entry>
 </feed>
