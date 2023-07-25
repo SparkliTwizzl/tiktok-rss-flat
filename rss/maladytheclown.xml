@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maladytheclown</id>
   <title>@maladytheclown | TikTok</title>
-  <updated>2023-07-24T21:20:24+00:00</updated>
+  <updated>2023-07-25T00:36:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maladytheclown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maladytheclown/video/7248982110948691206</id>
-    <title>#onthisday </title>
-    <updated>2023-06-26T13:12:54+00:00</updated>
-    <content>#onthisday </content>
-    <link href="https://tiktok.com/@maladytheclown/video/7248982110948691206" rel="alternate"/>
-    <published>2023-06-26T13:12:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maladytheclown/video/7250861064143916294</id>
     <title>#onthisday #maladytheclown #cosplay #clown #makeupartist </title>
@@ -91,5 +83,13 @@
     <content>💚💚💚 song by @ashnikko #cheerleader #maladytheclown #dancesinshadows </content>
     <link href="https://tiktok.com/@maladytheclown/video/7259498123922246917" rel="alternate"/>
     <published>2023-07-24T21:20:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maladytheclown/video/7259548701046230277</id>
+    <title>feel free to join 💚 #dancesinshadows #maladytheclown #neongreen </title>
+    <updated>2023-07-25T00:36:42+00:00</updated>
+    <content>feel free to join 💚 #dancesinshadows #maladytheclown #neongreen </content>
+    <link href="https://tiktok.com/@maladytheclown/video/7259548701046230277" rel="alternate"/>
+    <published>2023-07-25T00:36:42+00:00</published>
   </entry>
 </feed>
