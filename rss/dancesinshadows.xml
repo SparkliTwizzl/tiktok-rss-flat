@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-07-23T16:48:56+00:00</updated>
+  <updated>2023-07-25T01:19:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7256980097645792517</id>
-    <title>yep, its true 😅❤️  #maladytheclown #icecream #foamwig #lifelesson </title>
-    <updated>2023-07-18T02:29:11+00:00</updated>
-    <content>yep, its true 😅❤️  #maladytheclown #icecream #foamwig #lifelesson </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7256980097645792517" rel="alternate"/>
-    <published>2023-07-18T02:29:11+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7257326934009351429</id>
-    <title>never forgot the words for this commercial 😅😆❤️  #dontyaputitinurmouth #throwback #maladytheclown </title>
-    <updated>2023-07-19T00:55:03+00:00</updated>
-    <content>never forgot the words for this commercial 😅😆❤️  #dontyaputitinurmouth #throwback #maladytheclown </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7257326934009351429" rel="alternate"/>
-    <published>2023-07-19T00:55:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7257526253534612742</id>
     <title>Quinn missed Glum. My cat absolutely adores Glum over every other character, and didn't waste anytime joining him for a few vids. He was mildly regretting this decision by this point 😅❤️ #catsoftiktok #glumthesupernaturalhitman #tabbycat #petsoftiktok </title>
@@ -91,5 +75,21 @@
     <content>seems about right to me #maladytheclown #dancesinshadows #iwannabeakittycatidiot </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7259057086313598214" rel="alternate"/>
     <published>2023-07-23T16:48:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7259499159516990725</id>
+    <title>this is a fun cover 💚 #lipsync  #luigi #maladytheclown #dancesinshadows #nintendo </title>
+    <updated>2023-07-24T21:24:27+00:00</updated>
+    <content>this is a fun cover 💚 #lipsync  #luigi #maladytheclown #dancesinshadows #nintendo </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7259499159516990725" rel="alternate"/>
+    <published>2023-07-24T21:24:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7259559631695990022</id>
+    <title>love tbis song by @Devon Cole #dancesinshadows #maladytheclown #heycowboy #neongreen #altmakeup </title>
+    <updated>2023-07-25T01:19:04+00:00</updated>
+    <content>love tbis song by @Devon Cole #dancesinshadows #maladytheclown #heycowboy #neongreen #altmakeup </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7259559631695990022" rel="alternate"/>
+    <published>2023-07-25T01:19:04+00:00</published>
   </entry>
 </feed>
