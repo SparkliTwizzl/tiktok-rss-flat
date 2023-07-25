@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kamehalani</id>
   <title>@kamehalani | TikTok</title>
-  <updated>2023-07-23T19:27:54+00:00</updated>
+  <updated>2023-07-25T13:25:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kamehalani</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kamehalani/video/7255000157136112938</id>
-    <title>That was scary </title>
-    <updated>2023-07-12T18:26:08+00:00</updated>
-    <content>That was scary </content>
-    <link href="https://tiktok.com/@kamehalani/video/7255000157136112938" rel="alternate"/>
-    <published>2023-07-12T18:26:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kamehalani/video/7255055036089290030</id>
     <title>#stitch with @Colleen Ballinger common thread between body shaming and predatöry behaivor? </title>
@@ -91,5 +83,13 @@
     <content>No </content>
     <link href="https://tiktok.com/@kamehalani/video/7259097999349959982" rel="alternate"/>
     <published>2023-07-23T19:27:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kamehalani/video/7259746742835547438</id>
+    <title>You gotta do what you gotta do. I hate misogyny though </title>
+    <updated>2023-07-25T13:25:17+00:00</updated>
+    <content>You gotta do what you gotta do. I hate misogyny though </content>
+    <link href="https://tiktok.com/@kamehalani/video/7259746742835547438" rel="alternate"/>
+    <published>2023-07-25T13:25:17+00:00</published>
   </entry>
 </feed>
