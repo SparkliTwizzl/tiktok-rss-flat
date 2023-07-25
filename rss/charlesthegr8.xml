@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@charlesthegr8</id>
   <title>@charlesthegr8 | TikTok</title>
-  <updated>2023-07-19T21:45:19+00:00</updated>
+  <updated>2023-07-24T17:29:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @charlesthegr8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7250925636712369454</id>
-    <title>Worst fear!!! 😔 #iykyk #alone #charlesthegr8 </title>
-    <updated>2023-07-01T18:54:56+00:00</updated>
-    <content>Worst fear!!! 😔 #iykyk #alone #charlesthegr8 </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7250925636712369454" rel="alternate"/>
-    <published>2023-07-01T18:54:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@charlesthegr8/video/7253214049545080106</id>
     <title>No wonder his breath stank 🤢 ##iykyk##fyp##charlesthegr8</title>
@@ -91,5 +83,13 @@
     <content>Music to me ears 😏 #iykyk #relationship #charlesthegr8 </content>
     <link href="https://tiktok.com/@charlesthegr8/video/7257649082124995883" rel="alternate"/>
     <published>2023-07-19T21:45:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7259438565199711530</id>
+    <title>A living nightmare 🌊 #iykyk #charlesthegr8 </title>
+    <updated>2023-07-24T17:29:29+00:00</updated>
+    <content>A living nightmare 🌊 #iykyk #charlesthegr8 </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7259438565199711530" rel="alternate"/>
+    <published>2023-07-24T17:29:29+00:00</published>
   </entry>
 </feed>

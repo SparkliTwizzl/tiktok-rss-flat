@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-07-22T00:22:37+00:00</updated>
+  <updated>2023-07-24T21:49:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7252798000215493930</id>
-    <title>They also don’t know i can do a helicopter armbar smh #gymtok #muscles #girlswholift </title>
-    <updated>2023-07-06T20:00:36+00:00</updated>
-    <content>They also don’t know i can do a helicopter armbar smh #gymtok #muscles #girlswholift </content>
-    <link href="https://tiktok.com/@athena__cos/video/7252798000215493930" rel="alternate"/>
-    <published>2023-07-06T20:00:36+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7253185189847911722</id>
     <title>My sister watched me make this and i just kept begging for her to trust the process 😭 #martialarts #jiujitsu #womenwhofight </title>
@@ -91,5 +83,13 @@
     <content>AD: Download Lord of the Rings: Heroes of Middle-earth for free using the link in my bio! @LOTRHeroes  #LOTR #HeroesofMiddleEarth #LooksofMiddleEarth</content>
     <link href="https://tiktok.com/@athena__cos/video/7258431787389472043" rel="alternate"/>
     <published>2023-07-22T00:22:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7259505613716294958</id>
+    <title>My take on this trend</title>
+    <updated>2023-07-24T21:49:37+00:00</updated>
+    <content>My take on this trend</content>
+    <link href="https://tiktok.com/@athena__cos/video/7259505613716294958" rel="alternate"/>
+    <published>2023-07-24T21:49:37+00:00</published>
   </entry>
 </feed>
