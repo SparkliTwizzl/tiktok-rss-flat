@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avocadosnaliens</id>
   <title>@avocadosnaliens | TikTok</title>
-  <updated>2023-07-20T01:18:37+00:00</updated>
+  <updated>2023-07-25T17:39:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,38 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avocadosnaliens</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avocadosnaliens/video/7254053422977010987</id>
-    <title>But also thank you hennaplug 🫶</title>
-    <updated>2023-07-10T05:12:27+00:00</updated>
-    <content>But also thank you hennaplug 🫶</content>
-    <link href="https://tiktok.com/@avocadosnaliens/video/7254053422977010987" rel="alternate"/>
-    <published>2023-07-10T05:12:27+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@avocadosnaliens/video/7254279291133889838</id>
-    <title>#stitch with @natalia rude</title>
-    <updated>2023-07-10T19:48:48+00:00</updated>
-    <content>#stitch with @natalia rude</content>
-    <link href="https://tiktok.com/@avocadosnaliens/video/7254279291133889838" rel="alternate"/>
-    <published>2023-07-10T19:48:48+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@avocadosnaliens/video/7254997205122174250</id>
-    <title>[no title]</title>
-    <updated>2023-07-12T18:14:43+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@avocadosnaliens/video/7254997205122174250" rel="alternate"/>
-    <published>2023-07-12T18:14:43+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@avocadosnaliens/video/7255153902125911338</id>
-    <title>[no title]</title>
-    <updated>2023-07-13T04:22:42+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@avocadosnaliens/video/7255153902125911338" rel="alternate"/>
-    <published>2023-07-13T04:22:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avocadosnaliens/video/7255740657061514542</id>
     <title>Off to shoot cute people in love. Wishing you all a fulfilling, productive day🫶 #grwm #dayinmylife #selfcare #whatislife </title>
@@ -91,5 +59,37 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@avocadosnaliens/video/7257704051356355883" rel="alternate"/>
     <published>2023-07-20T01:18:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7258676670708632875</id>
+    <title>Shooting in 100 degree weather in Tahoe (my pants are detachable 😂😭) after getting my head gasket replaced, i immediately was hit by a drunk driver and on top of that, all the lights are popping up on my dash. Now would be a great time to lose my sh!t but</title>
+    <updated>2023-07-22T16:12:58+00:00</updated>
+    <content>Shooting in 100 degree weather in Tahoe (my pants are detachable 😂😭) after getting my head gasket replaced, i immediately was hit by a drunk driver and on top of that, all the lights are popping up on my dash. Now would be a great time to lose my sh!t but i cant. I gotta climb some mountains and take some pictures. </content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7258676670708632875" rel="alternate"/>
+    <published>2023-07-22T16:12:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7259054109729230126</id>
+    <title>#greenscreenvideo @Good American :)</title>
+    <updated>2023-07-23T16:37:36+00:00</updated>
+    <content>#greenscreenvideo @Good American :)</content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7259054109729230126" rel="alternate"/>
+    <published>2023-07-23T16:37:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7259528414988602667</id>
+    <title>TW:ED. I have so much more than just a minute of commentary on this phase of my life but i failed to mention that ive been healthy and have made space to heal that part of my life since getting sober. Im no dietician or nurtritionist but if you ever want </title>
+    <updated>2023-07-24T23:18:04+00:00</updated>
+    <content>TW:ED. I have so much more than just a minute of commentary on this phase of my life but i failed to mention that ive been healthy and have made space to heal that part of my life since getting sober. Im no dietician or nurtritionist but if you ever want me to make videos on meals i make and the exercises i do let me know! Nothing makes me happier than helping-especially if this resonates with your struggles. I hope this isnt too triggering-i only want to spread the love and light. Be nice to one another. 🫶</content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7259528414988602667" rel="alternate"/>
+    <published>2023-07-24T23:18:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7259812227438365994</id>
+    <title>#ootdinspo #summerfits off to see oppenheimer with the pops</title>
+    <updated>2023-07-25T17:39:19+00:00</updated>
+    <content>#ootdinspo #summerfits off to see oppenheimer with the pops</content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7259812227438365994" rel="alternate"/>
+    <published>2023-07-25T17:39:19+00:00</published>
   </entry>
 </feed>
