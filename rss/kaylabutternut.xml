@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-07-20T22:53:06+00:00</updated>
+  <updated>2023-07-26T01:28:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7254731178949856554</id>
-    <title>Never again</title>
-    <updated>2023-07-12T01:02:20+00:00</updated>
-    <content>Never again</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7254731178949856554" rel="alternate"/>
-    <published>2023-07-12T01:02:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7254734657000885550</id>
     <title>Me at the club as soon as I turned 21</title>
@@ -91,5 +83,13 @@
     <content>If we ever broke up (IM FINALLY MOVING ALL MY STUFF IN!!!)</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7258037657001938222" rel="alternate"/>
     <published>2023-07-20T22:53:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7259933199524957483</id>
+    <title>Never scroll unless you want to know too much</title>
+    <updated>2023-07-26T01:28:46+00:00</updated>
+    <content>Never scroll unless you want to know too much</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7259933199524957483" rel="alternate"/>
+    <published>2023-07-26T01:28:46+00:00</published>
   </entry>
 </feed>
