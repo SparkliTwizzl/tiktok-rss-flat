@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@charlesthegr8</id>
   <title>@charlesthegr8 | TikTok</title>
-  <updated>2023-07-24T17:29:29+00:00</updated>
+  <updated>2023-07-26T00:04:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @charlesthegr8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7253214049545080106</id>
-    <title>No wonder his breath stank 🤢 ##iykyk##fyp##charlesthegr8</title>
-    <updated>2023-07-07T22:55:12+00:00</updated>
-    <content>No wonder his breath stank 🤢 ##iykyk##fyp##charlesthegr8</content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7253214049545080106" rel="alternate"/>
-    <published>2023-07-07T22:55:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@charlesthegr8/video/7253486605195808042</id>
     <title>Had me waiting five hours for this!!!😤 #iykyk #dmv #charlesthegr8 </title>
@@ -91,5 +83,13 @@
     <content>A living nightmare 🌊 #iykyk #charlesthegr8 </content>
     <link href="https://tiktok.com/@charlesthegr8/video/7259438565199711530" rel="alternate"/>
     <published>2023-07-24T17:29:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7259911383087582507</id>
+    <title>You can’t hurt an overthinker!!! 🤔 #iykyk #charlesthegr8 #relationship </title>
+    <updated>2023-07-26T00:04:07+00:00</updated>
+    <content>You can’t hurt an overthinker!!! 🤔 #iykyk #charlesthegr8 #relationship </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7259911383087582507" rel="alternate"/>
+    <published>2023-07-26T00:04:07+00:00</published>
   </entry>
 </feed>
