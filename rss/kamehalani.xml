@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kamehalani</id>
   <title>@kamehalani | TikTok</title>
-  <updated>2023-07-25T13:25:17+00:00</updated>
+  <updated>2023-07-26T20:17:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kamehalani</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kamehalani/video/7255055036089290030</id>
-    <title>#stitch with @Colleen Ballinger common thread between body shaming and predatöry behaivor? </title>
-    <updated>2023-07-12T21:59:06+00:00</updated>
-    <content>#stitch with @Colleen Ballinger common thread between body shaming and predatöry behaivor? </content>
-    <link href="https://tiktok.com/@kamehalani/video/7255055036089290030" rel="alternate"/>
-    <published>2023-07-12T21:59:06+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kamehalani/video/7255070888528219435</id>
-    <title>And she just writes reviews for herself at other jobs #crazyboss EX BOSS! </title>
-    <updated>2023-07-12T23:00:33+00:00</updated>
-    <content>And she just writes reviews for herself at other jobs #crazyboss EX BOSS! </content>
-    <link href="https://tiktok.com/@kamehalani/video/7255070888528219435" rel="alternate"/>
-    <published>2023-07-12T23:00:33+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kamehalani/video/7255339440426487086</id>
-    <title>Thanks babe </title>
-    <updated>2023-07-13T16:22:40+00:00</updated>
-    <content>Thanks babe </content>
-    <link href="https://tiktok.com/@kamehalani/video/7255339440426487086" rel="alternate"/>
-    <published>2023-07-13T16:22:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kamehalani/video/7255391752163577130</id>
     <title>Wow</title>
@@ -91,5 +67,29 @@
     <content>You gotta do what you gotta do. I hate misogyny though </content>
     <link href="https://tiktok.com/@kamehalani/video/7259746742835547438" rel="alternate"/>
     <published>2023-07-25T13:25:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kamehalani/video/7260194059136879914</id>
+    <title>That part knocked me out </title>
+    <updated>2023-07-26T18:21:06+00:00</updated>
+    <content>That part knocked me out </content>
+    <link href="https://tiktok.com/@kamehalani/video/7260194059136879914" rel="alternate"/>
+    <published>2023-07-26T18:21:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kamehalani/video/7260215435579215147</id>
+    <title>I miss you already. Nothing Compares 2 U #sineadoconnor </title>
+    <updated>2023-07-26T19:44:03+00:00</updated>
+    <content>I miss you already. Nothing Compares 2 U #sineadoconnor </content>
+    <link href="https://tiktok.com/@kamehalani/video/7260215435579215147" rel="alternate"/>
+    <published>2023-07-26T19:44:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kamehalani/video/7260224012649909546</id>
+    <title>#stitch with @Cécilia | Hello French i love france and honestly was so appreciative of the kindness of the french! 💜</title>
+    <updated>2023-07-26T20:17:19+00:00</updated>
+    <content>#stitch with @Cécilia | Hello French i love france and honestly was so appreciative of the kindness of the french! 💜</content>
+    <link href="https://tiktok.com/@kamehalani/video/7260224012649909546" rel="alternate"/>
+    <published>2023-07-26T20:17:19+00:00</published>
   </entry>
 </feed>
