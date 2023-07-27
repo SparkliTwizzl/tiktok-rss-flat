@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@tracksuitsandredwine_</id>
   <title>@tracksuitsandredwine_ | TikTok</title>
-  <updated>2023-07-27T00:45:29+00:00</updated>
+  <updated>2023-07-27T06:46:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @tracksuitsandredwine_</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tracksuitsandredwine_/video/7254458965000457474</id>
-    <title>night vision asf</title>
-    <updated>2023-07-11T07:25:55+00:00</updated>
-    <content>night vision asf</content>
-    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7254458965000457474" rel="alternate"/>
-    <published>2023-07-11T07:25:55+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tracksuitsandredwine_/video/7254460263699680513</id>
     <title>k thats it i promise!!</title>
@@ -91,5 +83,13 @@
     <content>ballet tn 💪</content>
     <link href="https://tiktok.com/@tracksuitsandredwine_/video/7260293120758222088" rel="alternate"/>
     <published>2023-07-27T00:45:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tracksuitsandredwine_/video/7260386278598774034</id>
+    <title>smth bout you </title>
+    <updated>2023-07-27T06:46:56+00:00</updated>
+    <content>smth bout you </content>
+    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7260386278598774034" rel="alternate"/>
+    <published>2023-07-27T06:46:56+00:00</published>
   </entry>
 </feed>
