@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@nopanicbutton</id>
   <title>@nopanicbutton | TikTok</title>
-  <updated>2023-07-24T21:39:42+00:00</updated>
+  <updated>2023-07-26T23:25:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @nopanicbutton</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nopanicbutton/video/7251697446366039338</id>
-    <title>Next order that tries getting cute like this is getting charged double. #damnit </title>
-    <updated>2023-07-03T20:49:56+00:00</updated>
-    <content>Next order that tries getting cute like this is getting charged double. #damnit </content>
-    <link href="https://tiktok.com/@nopanicbutton/video/7251697446366039338" rel="alternate"/>
-    <published>2023-07-03T20:49:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nopanicbutton/video/7252443305332641070</id>
     <title>Some people should be required to have a warning stamped on their forehead. #how #why #ireallyhopemykidsdontsharemuchwiththiskidgenetically </title>
@@ -91,5 +83,13 @@
     <content>Unable to emotionally process this.</content>
     <link href="https://tiktok.com/@nopanicbutton/video/7259503052741283115" rel="alternate"/>
     <published>2023-07-24T21:39:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nopanicbutton/video/7260272538645695787</id>
+    <title>Some days you can't win for losing. #angrywife #surrenderthebooty #neverthecrotch </title>
+    <updated>2023-07-26T23:25:35+00:00</updated>
+    <content>Some days you can't win for losing. #angrywife #surrenderthebooty #neverthecrotch </content>
+    <link href="https://tiktok.com/@nopanicbutton/video/7260272538645695787" rel="alternate"/>
+    <published>2023-07-26T23:25:35+00:00</published>
   </entry>
 </feed>
