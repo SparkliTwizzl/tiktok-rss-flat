@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maruzee_dragon</id>
   <title>@maruzee_dragon | TikTok</title>
-  <updated>2023-07-24T02:26:54+00:00</updated>
+  <updated>2023-07-27T02:26:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maruzee_dragon</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maruzee_dragon/video/7252525492211846406</id>
-    <title>Should I bring those transitions back?🤔 #transitions #marvel #martialarts #blackwidow </title>
-    <updated>2023-07-06T02:23:03+00:00</updated>
-    <content>Should I bring those transitions back?🤔 #transitions #marvel #martialarts #blackwidow </content>
-    <link href="https://tiktok.com/@maruzee_dragon/video/7252525492211846406" rel="alternate"/>
-    <published>2023-07-06T02:23:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maruzee_dragon/video/7253263796553223429</id>
     <title>I have no idea why, but all my videos this week turned out so cringe...No worries, I'll come back next week with epic stuff (I hope🤣🤞) #bts #funny #fail #spiderman #martialarts </title>
@@ -91,5 +83,13 @@
     <content>Obsessed with this purple effect, giving my kicks a whole new vibe!🥷💜 #martialarts #taekwondo #flexible #training #sport #mma</content>
     <link href="https://tiktok.com/@maruzee_dragon/video/7259206021229382918" rel="alternate"/>
     <published>2023-07-24T02:26:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maruzee_dragon/video/7260319257815305478</id>
+    <title>Blending martial arts with cosplay for that Kitana magic 💙 #transition #videogames #cosplay #mk </title>
+    <updated>2023-07-27T02:26:50+00:00</updated>
+    <content>Blending martial arts with cosplay for that Kitana magic 💙 #transition #videogames #cosplay #mk </content>
+    <link href="https://tiktok.com/@maruzee_dragon/video/7260319257815305478" rel="alternate"/>
+    <published>2023-07-27T02:26:50+00:00</published>
   </entry>
 </feed>

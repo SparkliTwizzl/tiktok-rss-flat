@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@tracksuitsandredwine_</id>
   <title>@tracksuitsandredwine_ | TikTok</title>
-  <updated>2023-07-26T08:57:48+00:00</updated>
+  <updated>2023-07-27T00:45:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @tracksuitsandredwine_</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tracksuitsandredwine_/video/7254455819868081409</id>
-    <title>8 mile&gt;</title>
-    <updated>2023-07-11T07:13:44+00:00</updated>
-    <content>8 mile&gt;</content>
-    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7254455819868081409" rel="alternate"/>
-    <published>2023-07-11T07:13:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tracksuitsandredwine_/video/7254458965000457474</id>
     <title>night vision asf</title>
@@ -91,5 +83,13 @@
     <content>love actually is the second best christmas movie, second only to the santa clause films</content>
     <link href="https://tiktok.com/@tracksuitsandredwine_/video/7260048921689476359" rel="alternate"/>
     <published>2023-07-26T08:57:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tracksuitsandredwine_/video/7260293120758222088</id>
+    <title>ballet tn 💪</title>
+    <updated>2023-07-27T00:45:29+00:00</updated>
+    <content>ballet tn 💪</content>
+    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7260293120758222088" rel="alternate"/>
+    <published>2023-07-27T00:45:29+00:00</published>
   </entry>
 </feed>
