@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maladytheclown</id>
   <title>@maladytheclown | TikTok</title>
-  <updated>2023-07-26T16:31:22+00:00</updated>
+  <updated>2023-07-27T15:08:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maladytheclown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maladytheclown/video/7253097778736286982</id>
-    <title>I will be launching my updated shop later this month with handmade wigs and props #handmadewig #foamwig #icecreamclown #clown #maladytheclown </title>
-    <updated>2023-07-07T15:23:47+00:00</updated>
-    <content>I will be launching my updated shop later this month with handmade wigs and props #handmadewig #foamwig #icecreamclown #clown #maladytheclown </content>
-    <link href="https://tiktok.com/@maladytheclown/video/7253097778736286982" rel="alternate"/>
-    <published>2023-07-07T15:23:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maladytheclown/video/7255734641565388037</id>
     <title>song @Chandler Leighton gonna do a live on the OG account later on to catch up ❤️  #maladytheclown #clown #icecreamclown #foamwig </title>
@@ -91,5 +83,13 @@
     <content>yummy! #dancesinshadows #maladytheclown #neongreen </content>
     <link href="https://tiktok.com/@maladytheclown/video/7260165812579880198" rel="alternate"/>
     <published>2023-07-26T16:31:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maladytheclown/video/7260515652933274885</id>
+    <title>#vampire #dancesinshadows #vampirecosplay </title>
+    <updated>2023-07-27T15:08:55+00:00</updated>
+    <content>#vampire #dancesinshadows #vampirecosplay </content>
+    <link href="https://tiktok.com/@maladytheclown/video/7260515652933274885" rel="alternate"/>
+    <published>2023-07-27T15:08:55+00:00</published>
   </entry>
 </feed>
