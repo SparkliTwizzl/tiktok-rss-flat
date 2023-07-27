@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ratatootle</id>
   <title>@ratatootle | TikTok</title>
-  <updated>2023-07-12T21:32:28+00:00</updated>
+  <updated>2023-07-26T18:46:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ratatootle</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ratatootle/video/7237106905234132267</id>
-    <title>Society is a  construct 😡</title>
-    <updated>2023-05-25T13:11:34+00:00</updated>
-    <content>Society is a  construct 😡</content>
-    <link href="https://tiktok.com/@ratatootle/video/7237106905234132267" rel="alternate"/>
-    <published>2023-05-25T13:11:34+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ratatootle/video/7237483495361137963</id>
     <title>On my way to gossip w my therapist </title>
@@ -91,5 +83,13 @@
     <content>Lego man was a wonderful era #breakup </content>
     <link href="https://tiktok.com/@ratatootle/video/7255048167081774379" rel="alternate"/>
     <published>2023-07-12T21:32:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ratatootle/video/7260200621851135275</id>
+    <title>Cant wait till its not 1000° outside so i can wear these pants ive been dreaming of them for so long ily @MOTEL </title>
+    <updated>2023-07-26T18:46:29+00:00</updated>
+    <content>Cant wait till its not 1000° outside so i can wear these pants ive been dreaming of them for so long ily @MOTEL </content>
+    <link href="https://tiktok.com/@ratatootle/video/7260200621851135275" rel="alternate"/>
+    <published>2023-07-26T18:46:29+00:00</published>
   </entry>
 </feed>
