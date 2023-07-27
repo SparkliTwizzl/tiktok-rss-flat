@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-07-25T15:39:46+00:00</updated>
+  <updated>2023-07-27T15:15:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7257736947202903302</id>
-    <title>love this cover by @Brent Morgan  #glumthesupernaturalhitman #eyetoeye </title>
-    <updated>2023-07-20T03:26:09+00:00</updated>
-    <content>love this cover by @Brent Morgan  #glumthesupernaturalhitman #eyetoeye </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7257736947202903302" rel="alternate"/>
-    <published>2023-07-20T03:26:09+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7257930099276795142</id>
     <title>meow ❤️ #maladytheclown #barbiegirl #thebarbiemovie </title>
@@ -91,5 +83,13 @@
     <content>song @Emei 💚💚💚  #altmakeup #neongreen #maladytheclown #dancesinshadows </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7259781431155526918" rel="alternate"/>
     <published>2023-07-25T15:39:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7260517409369394438</id>
+    <title>#dancesinshadows #maladytheclown #anythingyoucando #badder #neongreen #altmakeup </title>
+    <updated>2023-07-27T15:15:44+00:00</updated>
+    <content>#dancesinshadows #maladytheclown #anythingyoucando #badder #neongreen #altmakeup </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7260517409369394438" rel="alternate"/>
+    <published>2023-07-27T15:15:44+00:00</published>
   </entry>
 </feed>
