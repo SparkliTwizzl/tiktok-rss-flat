@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-07-25T19:09:14+00:00</updated>
+  <updated>2023-07-28T01:51:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7256233211259292970</id>
-    <title>Sad but tru #thisisfine #nofriendsirl #socialmedia </title>
-    <updated>2023-07-16T02:11:00+00:00</updated>
-    <content>Sad but tru #thisisfine #nofriendsirl #socialmedia </content>
-    <link href="https://tiktok.com/@punktoad/video/7256233211259292970" rel="alternate"/>
-    <published>2023-07-16T02:11:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7256514254956809515</id>
     <title>Ill shake my lil butt #unmasked #unhinged #robzombie </title>
@@ -91,5 +83,13 @@
     <content>I had to #metallica #megachurch </content>
     <link href="https://tiktok.com/@punktoad/video/7259835387441450282" rel="alternate"/>
     <published>2023-07-25T19:09:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7260681288699383083</id>
+    <title>Some other things to consider: Situations that result in a fetal death in the third trimester are exceedlingly rare, reproductive health experts say, and usually involve energencies such as fatal anomalies or life-threatening complications affecting the m</title>
+    <updated>2023-07-28T01:51:47+00:00</updated>
+    <content>Some other things to consider: Situations that result in a fetal death in the third trimester are exceedlingly rare, reproductive health experts say, and usually involve energencies such as fatal anomalies or life-threatening complications affecting the mother.  Sometimes, labor is induced, followed by palliative care, for babies with very short life-expectancies. Some families choose this option when face with life-threatening diagnoses that often limit their babies’ post-birth survival to just minutes or days after delivery.  Overall, Ron’s statements are demonstrably false. Thanks for watching &amp; reading. #debunkingfakenews #rondesantis </content>
+    <link href="https://tiktok.com/@punktoad/video/7260681288699383083" rel="alternate"/>
+    <published>2023-07-28T01:51:47+00:00</published>
   </entry>
 </feed>
