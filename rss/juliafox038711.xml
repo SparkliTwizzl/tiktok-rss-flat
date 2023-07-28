@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@juliafox038711</id>
   <title>@juliafox038711 | TikTok</title>
-  <updated>2023-07-24T19:01:36+00:00</updated>
+  <updated>2023-07-28T19:39:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juliafox038711</subtitle>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7255780795804077355</id>
-    <title>be a thermometer, not a thermostat :D</title>
-    <updated>2023-07-14T20:55:24+00:00</updated>
-    <content>be a thermometer, not a thermostat :D</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7255780795804077355" rel="alternate"/>
-    <published>2023-07-14T20:55:24+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7256233673626783019</id>
-    <title>nothing could have prepared me for that #:)</title>
-    <updated>2023-07-16T02:12:48+00:00</updated>
-    <content>nothing could have prepared me for that #:)</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7256233673626783019" rel="alternate"/>
-    <published>2023-07-16T02:12:48+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7257490384580824362</id>
-    <title>vacation thibgs </title>
-    <updated>2023-07-19T11:30:07+00:00</updated>
-    <content>vacation thibgs </content>
-    <link href="https://tiktok.com/@juliafox038711/video/7257490384580824362" rel="alternate"/>
-    <published>2023-07-19T11:30:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@juliafox038711/video/7257585579397893419</id>
     <title>mexico :)</title>
@@ -91,5 +67,29 @@
     <content>#CapCut i thiught this trend was cute</content>
     <link href="https://tiktok.com/@juliafox038711/video/7259462314754067754" rel="alternate"/>
     <published>2023-07-24T19:01:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7260939538028121386</id>
+    <title>#CapCut im having way too much fun with using templates to make myself feel cool </title>
+    <updated>2023-07-28T18:34:02+00:00</updated>
+    <content>#CapCut im having way too much fun with using templates to make myself feel cool </content>
+    <link href="https://tiktok.com/@juliafox038711/video/7260939538028121386" rel="alternate"/>
+    <published>2023-07-28T18:34:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7260952539821002027</id>
+    <title>[no title]</title>
+    <updated>2023-07-28T19:24:29+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7260952539821002027" rel="alternate"/>
+    <published>2023-07-28T19:24:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7260956414150217006</id>
+    <title>pov - me in middle school </title>
+    <updated>2023-07-28T19:39:31+00:00</updated>
+    <content>pov - me in middle school </content>
+    <link href="https://tiktok.com/@juliafox038711/video/7260956414150217006" rel="alternate"/>
+    <published>2023-07-28T19:39:31+00:00</published>
   </entry>
 </feed>
