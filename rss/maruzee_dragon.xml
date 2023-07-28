@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maruzee_dragon</id>
   <title>@maruzee_dragon | TikTok</title>
-  <updated>2023-07-27T02:26:50+00:00</updated>
+  <updated>2023-07-28T02:27:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maruzee_dragon</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maruzee_dragon/video/7253263796553223429</id>
-    <title>I have no idea why, but all my videos this week turned out so cringe...No worries, I'll come back next week with epic stuff (I hope🤣🤞) #bts #funny #fail #spiderman #martialarts </title>
-    <updated>2023-07-08T02:08:03+00:00</updated>
-    <content>I have no idea why, but all my videos this week turned out so cringe...No worries, I'll come back next week with epic stuff (I hope🤣🤞) #bts #funny #fail #spiderman #martialarts </content>
-    <link href="https://tiktok.com/@maruzee_dragon/video/7253263796553223429" rel="alternate"/>
-    <published>2023-07-08T02:08:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maruzee_dragon/video/7254748509943909638</id>
     <title>Make a transition with me HEHE ⚠️Props | Trained Professional⚠️ #bts #grwm #martialarts </title>
@@ -91,5 +83,13 @@
     <content>Blending martial arts with cosplay for that Kitana magic 💙 #transition #videogames #cosplay #mk </content>
     <link href="https://tiktok.com/@maruzee_dragon/video/7260319257815305478" rel="alternate"/>
     <published>2023-07-27T02:26:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maruzee_dragon/video/7260690444865047813</id>
+    <title>Skip the flashy transition today guys! Just want to show off this new dress for my event this weekend👉👈. Seriously obsessed - it's giving me major Black Widow vibes!🕷🖤 #glowup #transition #fyp #women </title>
+    <updated>2023-07-28T02:27:14+00:00</updated>
+    <content>Skip the flashy transition today guys! Just want to show off this new dress for my event this weekend👉👈. Seriously obsessed - it's giving me major Black Widow vibes!🕷🖤 #glowup #transition #fyp #women </content>
+    <link href="https://tiktok.com/@maruzee_dragon/video/7260690444865047813" rel="alternate"/>
+    <published>2023-07-28T02:27:14+00:00</published>
   </entry>
 </feed>
