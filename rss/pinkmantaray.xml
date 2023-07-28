@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pinkmantaray</id>
   <title>@pinkmantaray | TikTok</title>
-  <updated>2023-07-26T02:00:53+00:00</updated>
+  <updated>2023-07-28T03:35:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @pinkmantaray</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pinkmantaray/video/7257354335384931630</id>
-    <title>PART 2 @Schuyler Bailar  | Last month I traveled with @August to #Florida to protesr HB 1069 - a dangerous bill that passed into law on July 1st. This is the second clip of a longer and fascinating conversation I had with a pastor! #gender #transgender #l</title>
-    <updated>2023-07-19T02:41:33+00:00</updated>
-    <content>PART 2 @Schuyler Bailar  | Last month I traveled with @August to #Florida to protesr HB 1069 - a dangerous bill that passed into law on July 1st. This is the second clip of a longer and fascinating conversation I had with a pastor! #gender #transgender #lgbtq #transrights </content>
-    <link href="https://tiktok.com/@pinkmantaray/video/7257354335384931630" rel="alternate"/>
-    <published>2023-07-19T02:41:33+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pinkmantaray/video/7257545808277409070</id>
     <title>PART 3 @Schuyler Bailar | Last month I traveled with @August to #Florida to protesr #HB1069 - a dangerous bill that passed into law on July 1st. This is another clip of a longer and fascinating conversation I had with a pastor! #gender #transgender #lgbtq</title>
@@ -91,5 +83,13 @@
     <content>Day three of audiobook recording for my upcoming book #HeSheThey! Preorder at HSTBook.com 🏳️‍⚧️📚💕 ##transgender##booktok##audiobook##gender##lgbtq</content>
     <link href="https://tiktok.com/@pinkmantaray/video/7259941466359827754" rel="alternate"/>
     <published>2023-07-26T02:00:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pinkmantaray/video/7260707941232184618</id>
+    <title>HE/SHE/THEY out this fall! Preorder now at hstbook.com! 💕💕💕 #transgender #author #booktok #audiobook #transauthor #heshethey </title>
+    <updated>2023-07-28T03:35:11+00:00</updated>
+    <content>HE/SHE/THEY out this fall! Preorder now at hstbook.com! 💕💕💕 #transgender #author #booktok #audiobook #transauthor #heshethey </content>
+    <link href="https://tiktok.com/@pinkmantaray/video/7260707941232184618" rel="alternate"/>
+    <published>2023-07-28T03:35:11+00:00</published>
   </entry>
 </feed>
