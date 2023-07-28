@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-07-26T01:28:46+00:00</updated>
+  <updated>2023-07-28T19:47:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7254734657000885550</id>
-    <title>Me at the club as soon as I turned 21</title>
-    <updated>2023-07-12T01:15:46+00:00</updated>
-    <content>Me at the club as soon as I turned 21</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7254734657000885550" rel="alternate"/>
-    <published>2023-07-12T01:15:46+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7254773610219359530</id>
     <title>[no title]</title>
@@ -91,5 +83,13 @@
     <content>Never scroll unless you want to know too much</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7259933199524957483" rel="alternate"/>
     <published>2023-07-26T01:28:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7260958490334661931</id>
+    <title>It’s funny because it’s true</title>
+    <updated>2023-07-28T19:47:31+00:00</updated>
+    <content>It’s funny because it’s true</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7260958490334661931" rel="alternate"/>
+    <published>2023-07-28T19:47:31+00:00</published>
   </entry>
 </feed>
