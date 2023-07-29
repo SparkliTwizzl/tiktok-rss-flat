@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-07-27T15:15:44+00:00</updated>
+  <updated>2023-07-29T01:26:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7257930099276795142</id>
-    <title>meow ❤️ #maladytheclown #barbiegirl #thebarbiemovie </title>
-    <updated>2023-07-20T15:55:40+00:00</updated>
-    <content>meow ❤️ #maladytheclown #barbiegirl #thebarbiemovie </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7257930099276795142" rel="alternate"/>
-    <published>2023-07-20T15:55:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7257942519399419141</id>
     <title>its been a while... - Glum  #glumthesupernaturalhitman </title>
@@ -91,5 +83,13 @@
     <content>#dancesinshadows #maladytheclown #anythingyoucando #badder #neongreen #altmakeup </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7260517409369394438" rel="alternate"/>
     <published>2023-07-27T15:15:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7261045759234084102</id>
+    <title>was nice catching up with everyone this afternoon in the livestream 💚  song @Chandler Leighton #altmakeup #neongreen #maladytheclown #dancesinshadows </title>
+    <updated>2023-07-29T01:26:01+00:00</updated>
+    <content>was nice catching up with everyone this afternoon in the livestream 💚  song @Chandler Leighton #altmakeup #neongreen #maladytheclown #dancesinshadows </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7261045759234084102" rel="alternate"/>
+    <published>2023-07-29T01:26:01+00:00</published>
   </entry>
 </feed>
