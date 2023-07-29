@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ohgobliin</id>
   <title>@ohgobliin | TikTok</title>
-  <updated>2023-07-22T19:40:38+00:00</updated>
+  <updated>2023-07-29T04:45:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ohgobliin</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ohgobliin/video/7231648530048224539</id>
-    <title>i live to be your big sister</title>
-    <updated>2023-05-10T20:09:51+00:00</updated>
-    <content>i live to be your big sister</content>
-    <link href="https://tiktok.com/@ohgobliin/video/7231648530048224539" rel="alternate"/>
-    <published>2023-05-10T20:09:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ohgobliin/video/7231663293822143771</id>
     <title>not a clue mate</title>
@@ -91,5 +83,13 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@ohgobliin/video/7258730242011876634" rel="alternate"/>
     <published>2023-07-22T19:40:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ohgobliin/video/7261097060252929307</id>
+    <title>this music video awoke something in me as a child</title>
+    <updated>2023-07-29T04:45:56+00:00</updated>
+    <content>this music video awoke something in me as a child</content>
+    <link href="https://tiktok.com/@ohgobliin/video/7261097060252929307" rel="alternate"/>
+    <published>2023-07-29T04:45:56+00:00</published>
   </entry>
 </feed>
