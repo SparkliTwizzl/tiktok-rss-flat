@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-07-28T12:13:21+00:00</updated>
+  <updated>2023-07-29T14:03:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7256847517629877547</id>
-    <title>I guess I’ll just stand here until I see someone #homedepot #employees? </title>
-    <updated>2023-07-17T17:54:50+00:00</updated>
-    <content>I guess I’ll just stand here until I see someone #homedepot #employees? </content>
-    <link href="https://tiktok.com/@punktoad/video/7256847517629877547" rel="alternate"/>
-    <published>2023-07-17T17:54:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7257235242749037867</id>
     <title>Looking at my checking account like 😳 #latestagecapitalism #capitalismblues #inflationbelike </title>
@@ -91,5 +83,13 @@
     <content>I am who I am. #gymlife #hardcore #gideon </content>
     <link href="https://tiktok.com/@punktoad/video/7260841306723749163" rel="alternate"/>
     <published>2023-07-28T12:13:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7261240927371431214</id>
+    <title>Show us #aliens #extraterrestrial #disclosure </title>
+    <updated>2023-07-29T14:03:41+00:00</updated>
+    <content>Show us #aliens #extraterrestrial #disclosure </content>
+    <link href="https://tiktok.com/@punktoad/video/7261240927371431214" rel="alternate"/>
+    <published>2023-07-29T14:03:41+00:00</published>
   </entry>
 </feed>
