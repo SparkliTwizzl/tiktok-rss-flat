@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-07-28T19:47:31+00:00</updated>
+  <updated>2023-07-29T23:25:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7254773610219359530</id>
-    <title>[no title]</title>
-    <updated>2023-07-12T03:46:56+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7254773610219359530" rel="alternate"/>
-    <published>2023-07-12T03:46:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7255910795182099754</id>
     <title>Name the plushie for a kiss on the forehead</title>
@@ -91,5 +83,13 @@
     <content>It’s funny because it’s true</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7260958490334661931" rel="alternate"/>
     <published>2023-07-28T19:47:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7261385735692078382</id>
+    <title>I’ll never get sick of this song</title>
+    <updated>2023-07-29T23:25:28+00:00</updated>
+    <content>I’ll never get sick of this song</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7261385735692078382" rel="alternate"/>
+    <published>2023-07-29T23:25:28+00:00</published>
   </entry>
 </feed>

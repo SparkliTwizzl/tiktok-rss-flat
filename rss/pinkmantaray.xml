@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pinkmantaray</id>
   <title>@pinkmantaray | TikTok</title>
-  <updated>2023-07-29T17:36:31+00:00</updated>
+  <updated>2023-07-29T18:46:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @pinkmantaray</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pinkmantaray/video/7257591543303785770</id>
-    <title>PART 4 @Schuyler Bailar | Last month I traveled with @August to #Florida to protesr #HB1069 - a dangerous bill that passed into law on July 1st. This is another clip of a longer and fascinating conversation I had with a pastor! #gender #transgender #lgbtq</title>
-    <updated>2023-07-19T18:02:02+00:00</updated>
-    <content>PART 4 @Schuyler Bailar | Last month I traveled with @August to #Florida to protesr #HB1069 - a dangerous bill that passed into law on July 1st. This is another clip of a longer and fascinating conversation I had with a pastor! #gender #transgender #lgbtq #transrights #marriageequality </content>
-    <link href="https://tiktok.com/@pinkmantaray/video/7257591543303785770" rel="alternate"/>
-    <published>2023-07-19T18:02:02+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pinkmantaray/video/7257615517584723242</id>
     <title>#AdCouncilPartner | Love is an action, not just a feeling. I spent a lot of my childhood being bullied, being othered, and being told I wasn’t enough. Still, I was incredibly lucky to find adults around me who showed me love. Who saved my life by doing so</title>
@@ -91,5 +83,13 @@
     <content>@Cal ran 2,800 miles across the country, ending in Florida - one if the epicenters of anti-trans legislation. We celebrated with a panel and a 5k trot. What an incredibly SPECIAL event. Stay tuned for more. #transgender ##transathlete##running##advocacy##traveler##workremote</content>
     <link href="https://tiktok.com/@pinkmantaray/video/7261295817036713259" rel="alternate"/>
     <published>2023-07-29T17:36:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pinkmantaray/video/7261313775997963566</id>
+    <title>Today is the run!!! Stay tuned to see hwo this swimmer fairs 😂😂 #transathlete #transswimmer #5k #transgender #running </title>
+    <updated>2023-07-29T18:46:15+00:00</updated>
+    <content>Today is the run!!! Stay tuned to see hwo this swimmer fairs 😂😂 #transathlete #transswimmer #5k #transgender #running </content>
+    <link href="https://tiktok.com/@pinkmantaray/video/7261313775997963566" rel="alternate"/>
+    <published>2023-07-29T18:46:15+00:00</published>
   </entry>
 </feed>
