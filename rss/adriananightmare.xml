@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@adriananightmare</id>
   <title>@adriananightmare | TikTok</title>
-  <updated>2023-07-25T16:14:34+00:00</updated>
+  <updated>2023-07-29T21:49:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,38 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @adriananightmare</subtitle>
-  <entry>
-    <id>https://tiktok.com/@adriananightmare/video/7241713254806916394</id>
-    <title>#ai #aiart #oc </title>
-    <updated>2023-06-06T23:06:06+00:00</updated>
-    <content>#ai #aiart #oc </content>
-    <link href="https://tiktok.com/@adriananightmare/video/7241713254806916394" rel="alternate"/>
-    <published>2023-06-06T23:06:06+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@adriananightmare/video/7241827945424244010</id>
-    <title>i tried to catch the moon on camera #fyppppppppppppppppppppppp #moon </title>
-    <updated>2023-06-07T06:31:43+00:00</updated>
-    <content>i tried to catch the moon on camera #fyppppppppppppppppppppppp #moon </content>
-    <link href="https://tiktok.com/@adriananightmare/video/7241827945424244010" rel="alternate"/>
-    <published>2023-06-07T06:31:43+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@adriananightmare/video/7245359419658128683</id>
-    <title>I'm fine. #fyp #empress </title>
-    <updated>2023-06-16T18:55:09+00:00</updated>
-    <content>I'm fine. #fyp #empress </content>
-    <link href="https://tiktok.com/@adriananightmare/video/7245359419658128683" rel="alternate"/>
-    <published>2023-06-16T18:55:09+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@adriananightmare/video/7254655672321838382</id>
-    <title>oh shid.</title>
-    <updated>2023-07-11T20:09:20+00:00</updated>
-    <content>oh shid.</content>
-    <link href="https://tiktok.com/@adriananightmare/video/7254655672321838382" rel="alternate"/>
-    <published>2023-07-11T20:09:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@adriananightmare/video/7254668672625610027</id>
     <title>no u</title>
@@ -91,5 +59,37 @@
     <content>thought I'd catch up with the trends.</content>
     <link href="https://tiktok.com/@adriananightmare/video/7259790367418109227" rel="alternate"/>
     <published>2023-07-25T16:14:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@adriananightmare/video/7261323213710347566</id>
+    <title>#acting #idk </title>
+    <updated>2023-07-29T19:22:51+00:00</updated>
+    <content>#acting #idk </content>
+    <link href="https://tiktok.com/@adriananightmare/video/7261323213710347566" rel="alternate"/>
+    <published>2023-07-29T19:22:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@adriananightmare/video/7261331718836309294</id>
+    <title>#duet with @James Hoyles #ActingChallenge </title>
+    <updated>2023-07-29T19:55:52+00:00</updated>
+    <content>#duet with @James Hoyles #ActingChallenge </content>
+    <link href="https://tiktok.com/@adriananightmare/video/7261331718836309294" rel="alternate"/>
+    <published>2023-07-29T19:55:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@adriananightmare/video/7261349918424485162</id>
+    <title>#bojack #acting </title>
+    <updated>2023-07-29T21:06:29+00:00</updated>
+    <content>#bojack #acting </content>
+    <link href="https://tiktok.com/@adriananightmare/video/7261349918424485162" rel="alternate"/>
+    <published>2023-07-29T21:06:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@adriananightmare/video/7261360940216732974</id>
+    <title>I'm ugly crying. I hope she's happier.</title>
+    <updated>2023-07-29T21:49:15+00:00</updated>
+    <content>I'm ugly crying. I hope she's happier.</content>
+    <link href="https://tiktok.com/@adriananightmare/video/7261360940216732974" rel="alternate"/>
+    <published>2023-07-29T21:49:15+00:00</published>
   </entry>
 </feed>
