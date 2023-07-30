@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-07-29T23:28:04+00:00</updated>
+  <updated>2023-07-30T16:24:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7259880852555992363</id>
-    <title>[no title]</title>
-    <updated>2023-07-25T22:05:38+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7259880852555992363" rel="alternate"/>
-    <published>2023-07-25T22:05:38+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7260278362977881387</id>
-    <title>Replying to @rita_hugs #reply I'm about to watch Markiplier's first FNAF Security Breach Ruin video and if someone else watches the next one they will very likely already know what's going on #solardidsystem #ssperegrine </title>
-    <updated>2023-07-26T23:48:12+00:00</updated>
-    <content>Replying to @rita_hugs #reply I'm about to watch Markiplier's first FNAF Security Breach Ruin video and if someone else watches the next one they will very likely already know what's going on #solardidsystem #ssperegrine </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7260278362977881387" rel="alternate"/>
-    <published>2023-07-26T23:48:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7260574562943831342</id>
     <title>Replying to @jjanesays96 You can't have a conversation without giving each other attention. Social interaction (aka giving and seeking attention) is an innate human need. #reply #solardidsystem #ssperegrine </title>
@@ -91,5 +75,21 @@
     <content>Replying to @ghoste.that.fuqin.mane#reply #solardidsystem #ssastra </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7261386411796942122" rel="alternate"/>
     <published>2023-07-29T23:28:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7261636501719502126</id>
+    <title>Replying to @the.alter.acc #reply I really, truly, honestly did not know what you expected #solardidsystem #ssastra </title>
+    <updated>2023-07-30T15:38:37+00:00</updated>
+    <content>Replying to @the.alter.acc #reply I really, truly, honestly did not know what you expected #solardidsystem #ssastra </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7261636501719502126" rel="alternate"/>
+    <published>2023-07-30T15:38:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7261648297314487594</id>
+    <title>#stitch with @Mandolin audio and captions are in sync with each other, but the video is not #solardidsystem #ssastra #dissociativeidentitydisorder </title>
+    <updated>2023-07-30T16:24:21+00:00</updated>
+    <content>#stitch with @Mandolin audio and captions are in sync with each other, but the video is not #solardidsystem #ssastra #dissociativeidentitydisorder </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7261648297314487594" rel="alternate"/>
+    <published>2023-07-30T16:24:21+00:00</published>
   </entry>
 </feed>
