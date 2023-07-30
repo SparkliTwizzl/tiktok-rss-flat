@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@atreegod</id>
   <title>@atreegod | TikTok</title>
-  <updated>2023-07-29T04:38:31+00:00</updated>
+  <updated>2023-07-29T22:50:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @atreegod</subtitle>
-  <entry>
-    <id>https://tiktok.com/@atreegod/video/7253997076927892778</id>
-    <title>Can u tell im touch deprived rn #lgbtq #wlw </title>
-    <updated>2023-07-10T01:33:42+00:00</updated>
-    <content>Can u tell im touch deprived rn #lgbtq #wlw </content>
-    <link href="https://tiktok.com/@atreegod/video/7253997076927892778" rel="alternate"/>
-    <published>2023-07-10T01:33:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@atreegod/video/7256446621414870318</id>
     <title>Real (im incredibly insecure) #wlw #lgbtq </title>
@@ -91,5 +83,13 @@
     <content>This song just mmMM #wlw #lgbtq </content>
     <link href="https://tiktok.com/@atreegod/video/7261095233813744939" rel="alternate"/>
     <published>2023-07-29T04:38:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7261376694202780971</id>
+    <title>Pre-shower narcisism #wlw #lgbtq </title>
+    <updated>2023-07-29T22:50:24+00:00</updated>
+    <content>Pre-shower narcisism #wlw #lgbtq </content>
+    <link href="https://tiktok.com/@atreegod/video/7261376694202780971" rel="alternate"/>
+    <published>2023-07-29T22:50:24+00:00</published>
   </entry>
 </feed>
