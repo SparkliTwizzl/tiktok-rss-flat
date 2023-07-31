@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@nopanicbutton</id>
   <title>@nopanicbutton | TikTok</title>
-  <updated>2023-07-28T16:31:31+00:00</updated>
+  <updated>2023-07-31T21:30:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @nopanicbutton</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nopanicbutton/video/7253153598681419050</id>
-    <title>If you don't say so in your order, you're getting a *real* blade... #larp #larpersoftiktok #bemorespecific #icanleaveitdullifyoulike </title>
-    <updated>2023-07-07T19:00:36+00:00</updated>
-    <content>If you don't say so in your order, you're getting a *real* blade... #larp #larpersoftiktok #bemorespecific #icanleaveitdullifyoulike </content>
-    <link href="https://tiktok.com/@nopanicbutton/video/7253153598681419050" rel="alternate"/>
-    <published>2023-07-07T19:00:36+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nopanicbutton/video/7254322105162992938</id>
     <title>DNR at it again. They're pissed that strict application of the rules can work both ways. #gotmylawnback #dnr #dnrfail </title>
@@ -91,5 +83,13 @@
     <content>Someone asked, so here's my answer! #beentheredonethat #throughthegates #yougetusbecauseyouareus </content>
     <link href="https://tiktok.com/@nopanicbutton/video/7260907954873093418" rel="alternate"/>
     <published>2023-07-28T16:31:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nopanicbutton/video/7262098281394720043</id>
+    <title>Serving cake for quality control. #dumpy #cake #whoknewthatwasbackthere </title>
+    <updated>2023-07-31T21:30:30+00:00</updated>
+    <content>Serving cake for quality control. #dumpy #cake #whoknewthatwasbackthere </content>
+    <link href="https://tiktok.com/@nopanicbutton/video/7262098281394720043" rel="alternate"/>
+    <published>2023-07-31T21:30:30+00:00</published>
   </entry>
 </feed>
