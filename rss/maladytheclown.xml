@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maladytheclown</id>
   <title>@maladytheclown | TikTok</title>
-  <updated>2023-07-28T15:13:08+00:00</updated>
+  <updated>2023-07-31T16:15:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maladytheclown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maladytheclown/video/7257533865189788933</id>
-    <title>#duet with @The Bunnyfolk Cosplayer i think i may need a different "expert's" opinion on this... 😅  #cinnabun #glumthesupernaturalhitman #makeupartist #cosplay </title>
-    <updated>2023-07-19T14:18:04+00:00</updated>
-    <content>#duet with @The Bunnyfolk Cosplayer i think i may need a different "expert's" opinion on this... 😅  #cinnabun #glumthesupernaturalhitman #makeupartist #cosplay </content>
-    <link href="https://tiktok.com/@maladytheclown/video/7257533865189788933" rel="alternate"/>
-    <published>2023-07-19T14:18:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maladytheclown/video/7257738108265843974</id>
     <title>welcome to my world ❤️🎨 #makeupartist #foamwig #icecreamclown #clown #maladytheclown </title>
@@ -91,5 +83,13 @@
     <content>#dancesinshadows #neongreen #maladytheclown </content>
     <link href="https://tiktok.com/@maladytheclown/video/7260887823211826438" rel="alternate"/>
     <published>2023-07-28T15:13:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maladytheclown/video/7262017026212908294</id>
+    <title>#maladytheclown #dancesinshadows #vampire </title>
+    <updated>2023-07-31T16:15:02+00:00</updated>
+    <content>#maladytheclown #dancesinshadows #vampire </content>
+    <link href="https://tiktok.com/@maladytheclown/video/7262017026212908294" rel="alternate"/>
+    <published>2023-07-31T16:15:02+00:00</published>
   </entry>
 </feed>
