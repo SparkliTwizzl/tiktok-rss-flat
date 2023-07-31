@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-07-30T01:16:22+00:00</updated>
+  <updated>2023-07-31T14:58:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7257569004703730987</id>
-    <title>[no title]</title>
-    <updated>2023-07-19T16:34:40+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@punktoad/video/7257569004703730987" rel="alternate"/>
-    <published>2023-07-19T16:34:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7258007153171008814</id>
     <title>I am smitten #mexicanstreetcorn #elote #delicious </title>
@@ -91,5 +83,13 @@
     <content>No thank you #workproblems </content>
     <link href="https://tiktok.com/@punktoad/video/7261414292413697326" rel="alternate"/>
     <published>2023-07-30T01:16:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7261997157656317226</id>
+    <title>Literally #grocerystore #badmemory #glitch </title>
+    <updated>2023-07-31T14:58:10+00:00</updated>
+    <content>Literally #grocerystore #badmemory #glitch </content>
+    <link href="https://tiktok.com/@punktoad/video/7261997157656317226" rel="alternate"/>
+    <published>2023-07-31T14:58:10+00:00</published>
   </entry>
 </feed>
