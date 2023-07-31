@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maruzee_dragon</id>
   <title>@maruzee_dragon | TikTok</title>
-  <updated>2023-07-29T14:18:49+00:00</updated>
+  <updated>2023-07-31T02:25:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maruzee_dragon</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maruzee_dragon/video/7255123116341398789</id>
-    <title>Réponse à @david_davityan10  TA-DA! ⚠️ Props | Trained Professional  #transition #trending #martialarts </title>
-    <updated>2023-07-13T02:23:09+00:00</updated>
-    <content>Réponse à @david_davityan10  TA-DA! ⚠️ Props | Trained Professional  #transition #trending #martialarts </content>
-    <link href="https://tiktok.com/@maruzee_dragon/video/7255123116341398789" rel="alternate"/>
-    <published>2023-07-13T02:23:09+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maruzee_dragon/video/7255683090947804421</id>
     <title>Working on my Spider-Man split kick 🕷🕸 (Apologies for reposting; I had few issues with the previous one 🤦‍♀️) #martialarts #spiderman #flexible #split </title>
@@ -91,5 +83,13 @@
     <content>Bringing Kitana to life with a mix of martial arts and cosplay magic. My fans weaves a storm you won't forget!⚡💙 #videogames #mk #transition #cosplay #martialarts </content>
     <link href="https://tiktok.com/@maruzee_dragon/video/7261244911603715333" rel="alternate"/>
     <published>2023-07-29T14:18:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maruzee_dragon/video/7261803366160862470</id>
+    <title>Trying a Scorpion Kick mixed with fans. I think it looks kinda cool right? Should I experiment with a transition next?!🤔 #martialarts #training #flexible #mma #sport </title>
+    <updated>2023-07-31T02:25:56+00:00</updated>
+    <content>Trying a Scorpion Kick mixed with fans. I think it looks kinda cool right? Should I experiment with a transition next?!🤔 #martialarts #training #flexible #mma #sport </content>
+    <link href="https://tiktok.com/@maruzee_dragon/video/7261803366160862470" rel="alternate"/>
+    <published>2023-07-31T02:25:56+00:00</published>
   </entry>
 </feed>
