@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@mikaelaistired</id>
   <title>@mikaelaistired | TikTok</title>
-  <updated>2023-07-30T15:21:42+00:00</updated>
+  <updated>2023-07-31T14:36:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @mikaelaistired</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mikaelaistired/video/7258656067729624362</id>
-    <title>How dare you</title>
-    <updated>2023-07-22T14:53:10+00:00</updated>
-    <content>How dare you</content>
-    <link href="https://tiktok.com/@mikaelaistired/video/7258656067729624362" rel="alternate"/>
-    <published>2023-07-22T14:53:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mikaelaistired/video/7259021582117408043</id>
     <title>Gay panic</title>
@@ -91,5 +83,13 @@
     <content>How did even this filter say it</content>
     <link href="https://tiktok.com/@mikaelaistired/video/7261632120270114094" rel="alternate"/>
     <published>2023-07-30T15:21:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mikaelaistired/video/7261991577269112107</id>
+    <title>Nah dont worry i get it</title>
+    <updated>2023-07-31T14:36:37+00:00</updated>
+    <content>Nah dont worry i get it</content>
+    <link href="https://tiktok.com/@mikaelaistired/video/7261991577269112107" rel="alternate"/>
+    <published>2023-07-31T14:36:37+00:00</published>
   </entry>
 </feed>
