@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@juliafox038711</id>
   <title>@juliafox038711 | TikTok</title>
-  <updated>2023-07-28T19:39:31+00:00</updated>
+  <updated>2023-07-30T17:47:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juliafox038711</subtitle>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7257585579397893419</id>
-    <title>mexico :)</title>
-    <updated>2023-07-19T17:39:01+00:00</updated>
-    <content>mexico :)</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7257585579397893419" rel="alternate"/>
-    <published>2023-07-19T17:39:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@juliafox038711/video/7257587640688561454</id>
     <title>grubbin </title>
@@ -91,5 +83,13 @@
     <content>pov - me in middle school </content>
     <link href="https://tiktok.com/@juliafox038711/video/7260956414150217006" rel="alternate"/>
     <published>2023-07-28T19:39:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7261669805122506027</id>
+    <title>well aware its not a sleeve YET, ive just started this year but i love🤭🤭🤭</title>
+    <updated>2023-07-30T17:47:53+00:00</updated>
+    <content>well aware its not a sleeve YET, ive just started this year but i love🤭🤭🤭</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7261669805122506027" rel="alternate"/>
+    <published>2023-07-30T17:47:53+00:00</published>
   </entry>
 </feed>
