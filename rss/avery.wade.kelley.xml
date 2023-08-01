@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-07-29T21:16:14+00:00</updated>
+  <updated>2023-08-01T15:00:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7258842364171570478</id>
-    <title>Replying to @thatcopperboi Not anymore! To be honest, I already had a tiiiiiny mustache before T. It just grew off of that. Lol. #fyp #trans </title>
-    <updated>2023-07-23T02:55:50+00:00</updated>
-    <content>Replying to @thatcopperboi Not anymore! To be honest, I already had a tiiiiiny mustache before T. It just grew off of that. Lol. #fyp #trans </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7258842364171570478" rel="alternate"/>
-    <published>2023-07-23T02:55:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7258859266738687278</id>
-    <title>Idefk. #fyp </title>
-    <updated>2023-07-23T04:01:29+00:00</updated>
-    <content>Idefk. #fyp </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7258859266738687278" rel="alternate"/>
-    <published>2023-07-23T04:01:29+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7259072703770922282</id>
     <title>#duet with @I Am Roze I couldn't resist. #fyp #trans </title>
@@ -91,5 +75,21 @@
     <content>Major shift... Not sure what this means for me yet. But I'm tired of fighting. Why can't we just exist as humans? I'm guilty of falling prey to the propaganda and divide they've created, but in all honesty, I just want to live my life and let others live theirs. #fyp #trans #cis </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7261352439356378410" rel="alternate"/>
     <published>2023-07-29T21:16:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7262121712639102250</id>
+    <title>Vent tok. Lol. #fyp #trans </title>
+    <updated>2023-07-31T23:01:26+00:00</updated>
+    <content>Vent tok. Lol. #fyp #trans </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7262121712639102250" rel="alternate"/>
+    <published>2023-07-31T23:01:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7262368812350147883</id>
+    <title>Facts. #fyp #trans </title>
+    <updated>2023-08-01T15:00:15+00:00</updated>
+    <content>Facts. #fyp #trans </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7262368812350147883" rel="alternate"/>
+    <published>2023-08-01T15:00:15+00:00</published>
   </entry>
 </feed>
