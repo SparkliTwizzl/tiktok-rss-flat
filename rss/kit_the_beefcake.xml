@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kit_the_beefcake</id>
   <title>@kit_the_beefcake | TikTok</title>
-  <updated>2023-08-01T04:32:58+00:00</updated>
+  <updated>2023-08-01T22:31:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kit_the_beefcake</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7258254858908650794</id>
-    <title>it's true #mumithrewup #funny #kitthebeefcake </title>
-    <updated>2023-07-21T12:56:19+00:00</updated>
-    <content>it's true #mumithrewup #funny #kitthebeefcake </content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7258254858908650794" rel="alternate"/>
-    <published>2023-07-21T12:56:19+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7259570147470593326</id>
-    <title>THEY CAN SEE YOU </title>
-    <updated>2023-07-25T02:00:01+00:00</updated>
-    <content>THEY CAN SEE YOU </content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7259570147470593326" rel="alternate"/>
-    <published>2023-07-25T02:00:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7259671289034525995</id>
     <title>it is my love language </title>
@@ -85,11 +69,27 @@
     <published>2023-07-31T23:29:50+00:00</published>
   </entry>
   <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7262145179732249898</id>
+    <title>I'll draw stick figures of random people who comment on the video and follow me how bout that huh??? how bout that?? </title>
+    <updated>2023-08-01T00:32:30+00:00</updated>
+    <content>I'll draw stick figures of random people who comment on the video and follow me how bout that huh??? how bout that?? </content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7262145179732249898" rel="alternate"/>
+    <published>2023-08-01T00:32:30+00:00</published>
+  </entry>
+  <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7262207169884392747</id>
     <title>shout-out to anyone new who followed me over this 😂😂  @j  @Cpt.HandyMcSandy  @TheAdman_  @Pjottair  @Dino-Nerd  @🐴🐓 </title>
     <updated>2023-08-01T04:32:58+00:00</updated>
     <content>shout-out to anyone new who followed me over this 😂😂  @j  @Cpt.HandyMcSandy  @TheAdman_  @Pjottair  @Dino-Nerd  @🐴🐓 </content>
     <link href="https://tiktok.com/@kit_the_beefcake/video/7262207169884392747" rel="alternate"/>
     <published>2023-08-01T04:32:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7262485180185726251</id>
+    <title>just as homies though we can get food after and bring some home for your girl ❤️</title>
+    <updated>2023-08-01T22:31:52+00:00</updated>
+    <content>just as homies though we can get food after and bring some home for your girl ❤️</content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7262485180185726251" rel="alternate"/>
+    <published>2023-08-01T22:31:52+00:00</published>
   </entry>
 </feed>
