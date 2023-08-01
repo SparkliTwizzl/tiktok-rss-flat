@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ailaughatmyownjokes</id>
   <title>@ailaughatmyownjokes | TikTok</title>
-  <updated>2023-07-31T16:24:10+00:00</updated>
+  <updated>2023-08-01T15:44:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ailaughatmyownjokes</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ailaughatmyownjokes/video/7251610286879182107</id>
-    <title>Disclaimer: No cats were hurt in the making of this video. #harrypotter #skit #comedy </title>
-    <updated>2023-07-03T15:11:37+00:00</updated>
-    <content>Disclaimer: No cats were hurt in the making of this video. #harrypotter #skit #comedy </content>
-    <link href="https://tiktok.com/@ailaughatmyownjokes/video/7251610286879182107" rel="alternate"/>
-    <published>2023-07-03T15:11:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ailaughatmyownjokes/video/7252380855195274523</id>
     <title>@vicky boss I still dunno what all those rooms were for but I had fun :)  #harrypotter #skit #comedy </title>
@@ -91,5 +83,13 @@
     <content>Starting on the 2nd of August the discount code will be available *bites lip* just click on the link in my instagram Bio *does a backflip* #hamburg #harrypotter </content>
     <link href="https://tiktok.com/@ailaughatmyownjokes/video/7262019370308668704" rel="alternate"/>
     <published>2023-07-31T16:24:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ailaughatmyownjokes/video/7262380330311519521</id>
+    <title>Hogwarts school of witchcraft and fare gli spaghetti alla carbonara come si deve.  Pasta scotta = espulsione #italy #harrypotter </title>
+    <updated>2023-08-01T15:44:52+00:00</updated>
+    <content>Hogwarts school of witchcraft and fare gli spaghetti alla carbonara come si deve.  Pasta scotta = espulsione #italy #harrypotter </content>
+    <link href="https://tiktok.com/@ailaughatmyownjokes/video/7262380330311519521" rel="alternate"/>
+    <published>2023-08-01T15:44:52+00:00</published>
   </entry>
 </feed>
