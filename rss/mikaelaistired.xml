@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@mikaelaistired</id>
   <title>@mikaelaistired | TikTok</title>
-  <updated>2023-07-31T14:36:37+00:00</updated>
+  <updated>2023-08-01T13:44:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -35,14 +35,6 @@
     <content>They are, for the record</content>
     <link href="https://tiktok.com/@mikaelaistired/video/7259725670442421547" rel="alternate"/>
     <published>2023-07-25T12:03:37+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mikaelaistired/video/7260095853673581867</id>
-    <title>Wanted to make sure you know</title>
-    <updated>2023-07-26T12:00:03+00:00</updated>
-    <content>Wanted to make sure you know</content>
-    <link href="https://tiktok.com/@mikaelaistired/video/7260095853673581867" rel="alternate"/>
-    <published>2023-07-26T12:00:03+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mikaelaistired/video/7260245029581557034</id>
@@ -91,5 +83,13 @@
     <content>Nah dont worry i get it</content>
     <link href="https://tiktok.com/@mikaelaistired/video/7261991577269112107" rel="alternate"/>
     <published>2023-07-31T14:36:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mikaelaistired/video/7262349323659365678</id>
+    <title>Im not convinced </title>
+    <updated>2023-08-01T13:44:38+00:00</updated>
+    <content>Im not convinced </content>
+    <link href="https://tiktok.com/@mikaelaistired/video/7262349323659365678" rel="alternate"/>
+    <published>2023-08-01T13:44:38+00:00</published>
   </entry>
 </feed>

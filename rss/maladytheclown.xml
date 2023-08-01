@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maladytheclown</id>
   <title>@maladytheclown | TikTok</title>
-  <updated>2023-07-31T16:15:02+00:00</updated>
+  <updated>2023-08-01T15:12:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maladytheclown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maladytheclown/video/7257738108265843974</id>
-    <title>welcome to my world ❤️🎨 #makeupartist #foamwig #icecreamclown #clown #maladytheclown </title>
-    <updated>2023-07-20T03:30:38+00:00</updated>
-    <content>welcome to my world ❤️🎨 #makeupartist #foamwig #icecreamclown #clown #maladytheclown </content>
-    <link href="https://tiktok.com/@maladytheclown/video/7257738108265843974" rel="alternate"/>
-    <published>2023-07-20T03:30:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maladytheclown/video/7258682416183676166</id>
     <title>I found this dress while thrifting and couldn't resist. it was $60 which is more than I usually allow myself to spend on one item but it's so fabcy and long that I can't even get the full dress on camera 😅😝 #vampire #maladytheclown #dancesinshadows </title>
@@ -91,5 +83,13 @@
     <content>#maladytheclown #dancesinshadows #vampire </content>
     <link href="https://tiktok.com/@maladytheclown/video/7262017026212908294" rel="alternate"/>
     <published>2023-07-31T16:15:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maladytheclown/video/7262372069038427398</id>
+    <title>song by @alex  I may not change the world, but I'm going to continue to do my part to make it a better place ❤️ #drag #dragking #dancesinshadows #glumthesupernaturalhitman </title>
+    <updated>2023-08-01T15:12:45+00:00</updated>
+    <content>song by @alex  I may not change the world, but I'm going to continue to do my part to make it a better place ❤️ #drag #dragking #dancesinshadows #glumthesupernaturalhitman </content>
+    <link href="https://tiktok.com/@maladytheclown/video/7262372069038427398" rel="alternate"/>
+    <published>2023-08-01T15:12:45+00:00</published>
   </entry>
 </feed>
