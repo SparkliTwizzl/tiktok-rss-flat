@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-07-31T15:56:10+00:00</updated>
+  <updated>2023-08-01T14:14:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7258649855562616069</id>
-    <title>sliwly getting back to filming ❤️ voice/song @Emory Jones  #maladytheclown #immediatemuderprofessionals #vampire #vampireoc </title>
-    <updated>2023-07-22T14:28:40+00:00</updated>
-    <content>sliwly getting back to filming ❤️ voice/song @Emory Jones  #maladytheclown #immediatemuderprofessionals #vampire #vampireoc </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7258649855562616069" rel="alternate"/>
-    <published>2023-07-22T14:28:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7258683545386896646</id>
     <title>managed a few vids yesterday ❤️  #vampireoc #vampire #maladytheclown #dancesinshadows </title>
@@ -91,5 +83,13 @@
     <content>#onthisday #dancesinshadows #maladytheclown #throwback </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7262012167816301829" rel="alternate"/>
     <published>2023-07-31T15:56:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7262357026272005381</id>
+    <title>#onthisday #dancesinshadows #maladytheclown #throwback </title>
+    <updated>2023-08-01T14:14:23+00:00</updated>
+    <content>#onthisday #dancesinshadows #maladytheclown #throwback </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7262357026272005381" rel="alternate"/>
+    <published>2023-08-01T14:14:23+00:00</published>
   </entry>
 </feed>
