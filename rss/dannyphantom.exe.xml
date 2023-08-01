@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dannyphantom.exe</id>
   <title>@dannyphantom.exe | TikTok</title>
-  <updated>2023-07-29T03:05:45+00:00</updated>
+  <updated>2023-08-01T02:15:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dannyphantom.exe</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7257718665993293099</id>
-    <title>tag someone who reads too many fanfics - @Danae og video</title>
-    <updated>2023-07-20T02:15:40+00:00</updated>
-    <content>tag someone who reads too many fanfics - @Danae og video</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7257718665993293099" rel="alternate"/>
-    <published>2023-07-20T02:15:40+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7258089819044138283</id>
-    <title>u pulled the Tower. Good luck</title>
-    <updated>2023-07-21T02:15:36+00:00</updated>
-    <content>u pulled the Tower. Good luck</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7258089819044138283" rel="alternate"/>
-    <published>2023-07-21T02:15:36+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dannyphantom.exe/video/7258460970152987950</id>
     <title>ren faire fit</title>
@@ -91,5 +75,21 @@
     <content>GOJO I LOVE U IM SORRY</content>
     <link href="https://tiktok.com/@dannyphantom.exe/video/7261071426470382890" rel="alternate"/>
     <published>2023-07-29T03:05:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7262171722529393966</id>
+    <title>tag someone who needs to see me old :)</title>
+    <updated>2023-08-01T02:15:24+00:00</updated>
+    <content>tag someone who needs to see me old :)</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7262171722529393966" rel="alternate"/>
+    <published>2023-08-01T02:15:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7262171835809156395</id>
+    <title>“idk CAN you go to the bathroom?” sir im going to pee on the desk</title>
+    <updated>2023-08-01T02:15:50+00:00</updated>
+    <content>“idk CAN you go to the bathroom?” sir im going to pee on the desk</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7262171835809156395" rel="alternate"/>
+    <published>2023-08-01T02:15:50+00:00</published>
   </entry>
 </feed>
