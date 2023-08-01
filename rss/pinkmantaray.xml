@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pinkmantaray</id>
   <title>@pinkmantaray | TikTok</title>
-  <updated>2023-07-30T22:36:48+00:00</updated>
+  <updated>2023-07-31T23:49:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @pinkmantaray</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pinkmantaray/video/7257719757112085806</id>
-    <title>PART 5 @Schuyler Bailar | Last month I traveled with @August to #Florida to protest #HB1069 - a dangerous bill that passed into law on July 1st. This is another clip of a longer and fascinating conversation I had with a pastor - here I finally come out to</title>
-    <updated>2023-07-20T02:19:32+00:00</updated>
-    <content>PART 5 @Schuyler Bailar | Last month I traveled with @August to #Florida to protest #HB1069 - a dangerous bill that passed into law on July 1st. This is another clip of a longer and fascinating conversation I had with a pastor - here I finally come out to the pastor! #gender #transgender #lgbtq #transrights #comingout </content>
-    <link href="https://tiktok.com/@pinkmantaray/video/7257719757112085806" rel="alternate"/>
-    <published>2023-07-20T02:19:32+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pinkmantaray/video/7257719995763903787</id>
     <title>PART 6 @Schuyler Bailar | Last month I traveled with @August to #Florida to protest #HB1069 - a dangerous bill that passed into law on July 1st. This is another clip of a longer and fascinating conversation I had with a pastor after I finally shared that </title>
@@ -91,5 +83,13 @@
     <content>This was so special... I've never officially raced with another trans person, much less a PRO trans athlete. So proud of @Cal completing his trans continental run... and @Cal Calamia, thanks for running slow so I could actually keep up 😂💕🏳️‍⚧️ #transathlete #transgender #running #trotfortranslives #transathletesbelonginsports </content>
     <link href="https://tiktok.com/@pinkmantaray/video/7261744282774752558" rel="alternate"/>
     <published>2023-07-30T22:36:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pinkmantaray/video/7262133969901145386</id>
+    <title>Replying to @Inspola I'm so tired of their obsession with our private parts. #transgender #transman #lgbtq #gender #transition </title>
+    <updated>2023-07-31T23:49:03+00:00</updated>
+    <content>Replying to @Inspola I'm so tired of their obsession with our private parts. #transgender #transman #lgbtq #gender #transition </content>
+    <link href="https://tiktok.com/@pinkmantaray/video/7262133969901145386" rel="alternate"/>
+    <published>2023-07-31T23:49:03+00:00</published>
   </entry>
 </feed>
