@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kit_the_beefcake</id>
   <title>@kit_the_beefcake | TikTok</title>
-  <updated>2023-08-01T22:31:52+00:00</updated>
+  <updated>2023-08-02T06:07:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kit_the_beefcake</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7259671289034525995</id>
-    <title>it is my love language </title>
-    <updated>2023-07-25T08:32:32+00:00</updated>
-    <content>it is my love language </content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7259671289034525995" rel="alternate"/>
-    <published>2023-07-25T08:32:32+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7260439481017306414</id>
     <title>for real tho the amount of couples that message.... hotties </title>
@@ -91,5 +83,13 @@
     <content>just as homies though we can get food after and bring some home for your girl ❤️</content>
     <link href="https://tiktok.com/@kit_the_beefcake/video/7262485180185726251" rel="alternate"/>
     <published>2023-08-01T22:31:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7262602506797075755</id>
+    <title>[no title]</title>
+    <updated>2023-08-02T06:07:15+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7262602506797075755" rel="alternate"/>
+    <published>2023-08-02T06:07:15+00:00</published>
   </entry>
 </feed>
