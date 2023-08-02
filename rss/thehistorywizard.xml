@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thehistorywizard</id>
   <title>@thehistorywizard | TikTok</title>
-  <updated>2023-07-31T13:27:42+00:00</updated>
+  <updated>2023-08-02T13:30:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thehistorywizard</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thehistorywizard/video/7259503271138659627</id>
-    <title>Replying to @dcjones14 No. #thehistorywizard #historytiktok #edutok #learnontiktok #wizardcommunism </title>
-    <updated>2023-07-24T21:40:31+00:00</updated>
-    <content>Replying to @dcjones14 No. #thehistorywizard #historytiktok #edutok #learnontiktok #wizardcommunism </content>
-    <link href="https://tiktok.com/@thehistorywizard/video/7259503271138659627" rel="alternate"/>
-    <published>2023-07-24T21:40:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thehistorywizard/video/7259749241202117934</id>
     <title>Replying to @dannnnnnddd Now you know. #thehistorywizard #historytiktok #edutok #learnontiktok #wizardcommunism </title>
@@ -91,5 +83,13 @@
     <content>Replying to @sevensneks Just don't. #thehistorywizard #historytiktok #edutok #learnontiktok #wizardcommunism #gymnastics </content>
     <link href="https://tiktok.com/@thehistorywizard/video/7261973767734267179" rel="alternate"/>
     <published>2023-07-31T13:27:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thehistorywizard/video/7262716708928998698</id>
+    <title>Take a break. You're doing OK. #thehistorywizard </title>
+    <updated>2023-08-02T13:30:18+00:00</updated>
+    <content>Take a break. You're doing OK. #thehistorywizard </content>
+    <link href="https://tiktok.com/@thehistorywizard/video/7262716708928998698" rel="alternate"/>
+    <published>2023-08-02T13:30:18+00:00</published>
   </entry>
 </feed>
