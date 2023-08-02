@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-08-01T06:43:58+00:00</updated>
+  <updated>2023-08-02T13:26:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7256573484585864490</id>
-    <title>Again</title>
-    <updated>2023-07-17T00:11:26+00:00</updated>
-    <content>Again</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7256573484585864490" rel="alternate"/>
-    <published>2023-07-17T00:11:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7256606510388661547</id>
     <title>Cheeeeese :)</title>
@@ -91,5 +83,13 @@
     <content>This is one of the first sounds i ever used</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7262240903597772074" rel="alternate"/>
     <published>2023-08-01T06:43:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7262715658507488555</id>
+    <title>These shoes hurt so bad but i miss them</title>
+    <updated>2023-08-02T13:26:15+00:00</updated>
+    <content>These shoes hurt so bad but i miss them</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7262715658507488555" rel="alternate"/>
+    <published>2023-08-02T13:26:15+00:00</published>
   </entry>
 </feed>
