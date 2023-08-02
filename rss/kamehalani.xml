@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kamehalani</id>
   <title>@kamehalani | TikTok</title>
-  <updated>2023-07-31T23:13:45+00:00</updated>
+  <updated>2023-08-02T17:27:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kamehalani</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kamehalani/video/7257253629294284078</id>
-    <title>Like? Huh? #lgbt #wlw </title>
-    <updated>2023-07-18T20:10:41+00:00</updated>
-    <content>Like? Huh? #lgbt #wlw </content>
-    <link href="https://tiktok.com/@kamehalani/video/7257253629294284078" rel="alternate"/>
-    <published>2023-07-18T20:10:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kamehalani/video/7258302962563435822</id>
     <title>Replying to @Child of God ✞ #greenscreen yikes </title>
@@ -77,19 +69,27 @@
     <published>2023-07-31T15:15:52+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@kamehalani/video/7262106836977978670</id>
-    <title>Replying to @Julian #greenscreen #kanaka #nativetiktok #nativehawaiian #hawaii look at @Melissa🌱 for language vids! </title>
-    <updated>2023-07-31T22:03:40+00:00</updated>
-    <content>Replying to @Julian #greenscreen #kanaka #nativetiktok #nativehawaiian #hawaii look at @Melissa🌱 for language vids! </content>
-    <link href="https://tiktok.com/@kamehalani/video/7262106836977978670" rel="alternate"/>
-    <published>2023-07-31T22:03:40+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@kamehalani/video/7262124891787300139</id>
     <title>Replying to @Luke Routt why did you assume i wasnt jewish? #kanaka #nativetiktok #jewish #jewishtiktok </title>
     <updated>2023-07-31T23:13:45+00:00</updated>
     <content>Replying to @Luke Routt why did you assume i wasnt jewish? #kanaka #nativetiktok #jewish #jewishtiktok </content>
     <link href="https://tiktok.com/@kamehalani/video/7262124891787300139" rel="alternate"/>
     <published>2023-07-31T23:13:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kamehalani/video/7262767751083674922</id>
+    <title>Replying to @🧸Kitten🧸 im just gonna say you are acting like a real Schlemiel. Oy gevalt! #kanaka #nativetiktok #jewish #jewishtiktok </title>
+    <updated>2023-08-02T16:48:21+00:00</updated>
+    <content>Replying to @🧸Kitten🧸 im just gonna say you are acting like a real Schlemiel. Oy gevalt! #kanaka #nativetiktok #jewish #jewishtiktok </content>
+    <link href="https://tiktok.com/@kamehalani/video/7262767751083674922" rel="alternate"/>
+    <published>2023-08-02T16:48:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kamehalani/video/7262777941908753710</id>
+    <title>Nooooooooo omg </title>
+    <updated>2023-08-02T17:27:54+00:00</updated>
+    <content>Nooooooooo omg </content>
+    <link href="https://tiktok.com/@kamehalani/video/7262777941908753710" rel="alternate"/>
+    <published>2023-08-02T17:27:54+00:00</published>
   </entry>
 </feed>
