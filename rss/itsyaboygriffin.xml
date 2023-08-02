@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@itsyaboygriffin</id>
   <title>@itsyaboygriffin | TikTok</title>
-  <updated>2023-06-30T18:40:47+00:00</updated>
+  <updated>2023-07-12T15:24:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @itsyaboygriffin</subtitle>
-  <entry>
-    <id>https://tiktok.com/@itsyaboygriffin/video/7119693211513146670</id>
-    <title>like fr</title>
-    <updated>2022-07-13T03:25:55+00:00</updated>
-    <content>like fr</content>
-    <link href="https://tiktok.com/@itsyaboygriffin/video/7119693211513146670" rel="alternate"/>
-    <published>2022-07-13T03:25:55+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@itsyaboygriffin/video/7137818522041830699</id>
     <title>#stitch with @Allieee if anyone knows who my doppelgänger is, tell him to hit me up, this video is weirding me out</title>
@@ -91,5 +83,13 @@
     <content>I be poppin</content>
     <link href="https://tiktok.com/@itsyaboygriffin/video/7250550905785814314" rel="alternate"/>
     <published>2023-06-30T18:40:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@itsyaboygriffin/video/7254953404852718890</id>
+    <title>donning that death star shirt is the cherry on top</title>
+    <updated>2023-07-12T15:24:46+00:00</updated>
+    <content>donning that death star shirt is the cherry on top</content>
+    <link href="https://tiktok.com/@itsyaboygriffin/video/7254953404852718890" rel="alternate"/>
+    <published>2023-07-12T15:24:46+00:00</published>
   </entry>
 </feed>
