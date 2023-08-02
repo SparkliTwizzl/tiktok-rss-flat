@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-08-01T03:34:51+00:00</updated>
+  <updated>2023-08-02T01:05:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7261187949801295146</id>
-    <title>#stitch with @Adam West yes hello am birb #ssperegrine #solardidsystem </title>
-    <updated>2023-07-29T10:38:52+00:00</updated>
-    <content>#stitch with @Adam West yes hello am birb #ssperegrine #solardidsystem </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7261187949801295146" rel="alternate"/>
-    <published>2023-07-29T10:38:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7261282582459895086</id>
     <title>just... leave me alone #ssperegrine #solardidsystem #dissociativeidentitydisorder </title>
@@ -91,5 +83,13 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@stuffwithbits/video/7262192189269200171" rel="alternate"/>
     <published>2023-08-01T03:34:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7262524751682243882</id>
+    <title>sometimes we're even useful #solardidsystem #ssquinn </title>
+    <updated>2023-08-02T01:05:22+00:00</updated>
+    <content>sometimes we're even useful #solardidsystem #ssquinn </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7262524751682243882" rel="alternate"/>
+    <published>2023-08-02T01:05:22+00:00</published>
   </entry>
 </feed>

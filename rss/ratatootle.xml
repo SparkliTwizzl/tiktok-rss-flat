@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ratatootle</id>
   <title>@ratatootle | TikTok</title>
-  <updated>2023-07-27T17:21:24+00:00</updated>
+  <updated>2023-08-01T19:25:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ratatootle</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ratatootle/video/7238225851890797866</id>
-    <title>I have the wrong socks on so theres really no salvaging this :/</title>
-    <updated>2023-05-28T13:33:33+00:00</updated>
-    <content>I have the wrong socks on so theres really no salvaging this :/</content>
-    <link href="https://tiktok.com/@ratatootle/video/7238225851890797866" rel="alternate"/>
-    <published>2023-05-28T13:33:33+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ratatootle/video/7239706063467990315</id>
     <title>Breakup sponsored by @Noah Kahan also all love to lego man it was a wonderful era </title>
@@ -91,5 +83,13 @@
     <content>New little treat unlocked also it was very hot in my car but i was so excited to share @LesserEvil Snacks </content>
     <link href="https://tiktok.com/@ratatootle/video/7260549755938524462" rel="alternate"/>
     <published>2023-07-27T17:21:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ratatootle/video/7262437209939168554</id>
+    <title>Lnce again in love w @MOTEL be honest do i look tall in these </title>
+    <updated>2023-08-01T19:25:45+00:00</updated>
+    <content>Lnce again in love w @MOTEL be honest do i look tall in these </content>
+    <link href="https://tiktok.com/@ratatootle/video/7262437209939168554" rel="alternate"/>
+    <published>2023-08-01T19:25:45+00:00</published>
   </entry>
 </feed>
