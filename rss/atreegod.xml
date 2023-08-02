@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@atreegod</id>
   <title>@atreegod | TikTok</title>
-  <updated>2023-08-02T04:30:06+00:00</updated>
+  <updated>2023-08-02T19:10:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @atreegod</subtitle>
-  <entry>
-    <id>https://tiktok.com/@atreegod/video/7257661785971625262</id>
-    <title>So true #wlw #lgbtq #leo </title>
-    <updated>2023-07-19T22:34:36+00:00</updated>
-    <content>So true #wlw #lgbtq #leo </content>
-    <link href="https://tiktok.com/@atreegod/video/7257661785971625262" rel="alternate"/>
-    <published>2023-07-19T22:34:36+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@atreegod/video/7257707738203950382</id>
     <title>Woods ready #nyc #wlw #lgbtq </title>
@@ -91,5 +83,13 @@
     <content>Ugh #wlw #lgbtq </content>
     <link href="https://tiktok.com/@atreegod/video/7262577495646424363" rel="alternate"/>
     <published>2023-08-02T04:30:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7262804385606929707</id>
+    <title>New bra makes me feel new #wlw #lgbtq </title>
+    <updated>2023-08-02T19:10:26+00:00</updated>
+    <content>New bra makes me feel new #wlw #lgbtq </content>
+    <link href="https://tiktok.com/@atreegod/video/7262804385606929707" rel="alternate"/>
+    <published>2023-08-02T19:10:26+00:00</published>
   </entry>
 </feed>
