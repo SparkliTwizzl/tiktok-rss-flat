@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@tracksuitsandredwine_</id>
   <title>@tracksuitsandredwine_ | TikTok</title>
-  <updated>2023-07-31T14:31:24+00:00</updated>
+  <updated>2023-08-02T14:09:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @tracksuitsandredwine_</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tracksuitsandredwine_/video/7257499879973375233</id>
-    <title>fake everything ily tiktok</title>
-    <updated>2023-07-19T12:06:14+00:00</updated>
-    <content>fake everything ily tiktok</content>
-    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7257499879973375233" rel="alternate"/>
-    <published>2023-07-19T12:06:14+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@tracksuitsandredwine_/video/7257538120009125121</id>
-    <title>ethel</title>
-    <updated>2023-07-19T14:34:37+00:00</updated>
-    <content>ethel</content>
-    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7257538120009125121" rel="alternate"/>
-    <published>2023-07-19T14:34:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tracksuitsandredwine_/video/7258842503237881089</id>
     <title>so i thought that if i piled something good in all my bad, that i could cancel out the darkness i inherited from dad </title>
@@ -91,5 +75,21 @@
     <content>dionysus 🍇 </content>
     <link href="https://tiktok.com/@tracksuitsandredwine_/video/7261990316205509895" rel="alternate"/>
     <published>2023-07-31T14:31:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tracksuitsandredwine_/video/7262364401125166354</id>
+    <title>lego batman is the best batman. </title>
+    <updated>2023-08-01T14:43:03+00:00</updated>
+    <content>lego batman is the best batman. </content>
+    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7262364401125166354" rel="alternate"/>
+    <published>2023-08-01T14:43:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tracksuitsandredwine_/video/7262726906070568200</id>
+    <title>lego batman pt 2</title>
+    <updated>2023-08-02T14:09:44+00:00</updated>
+    <content>lego batman pt 2</content>
+    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7262726906070568200" rel="alternate"/>
+    <published>2023-08-02T14:09:44+00:00</published>
   </entry>
 </feed>
