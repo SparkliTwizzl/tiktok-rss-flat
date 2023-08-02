@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@qu1nnv1nc1ble</id>
   <title>@qu1nnv1nc1ble | TikTok</title>
-  <updated>2023-08-01T02:19:19+00:00</updated>
+  <updated>2023-08-01T23:40:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @qu1nnv1nc1ble</subtitle>
-  <entry>
-    <id>https://tiktok.com/@qu1nnv1nc1ble/video/7258269875142151470</id>
-    <title>[no title]</title>
-    <updated>2023-07-21T13:54:32+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@qu1nnv1nc1ble/video/7258269875142151470" rel="alternate"/>
-    <published>2023-07-21T13:54:32+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@qu1nnv1nc1ble/video/7259106585962712366</id>
     <title>👆…👇 | FAKEBODY #spiderverse #up #down #transguy #fyp </title>
@@ -91,5 +83,13 @@
     <content>I was making sure the transition would work/flow, so I could use it later and got this! Why couldn’t I hit this in costume 😮‍💨😩 </content>
     <link href="https://tiktok.com/@qu1nnv1nc1ble/video/7262172705267436843" rel="alternate"/>
     <published>2023-08-01T02:19:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@qu1nnv1nc1ble/video/7262502851820162347</id>
+    <title>☝️🗓️✨| #firstofthemonth #goodvibes </title>
+    <updated>2023-08-01T23:40:26+00:00</updated>
+    <content>☝️🗓️✨| #firstofthemonth #goodvibes </content>
+    <link href="https://tiktok.com/@qu1nnv1nc1ble/video/7262502851820162347" rel="alternate"/>
+    <published>2023-08-01T23:40:26+00:00</published>
   </entry>
 </feed>
