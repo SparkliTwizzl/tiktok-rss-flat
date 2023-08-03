@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-08-02T13:26:15+00:00</updated>
+  <updated>2023-08-03T00:33:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7256606510388661547</id>
-    <title>Cheeeeese :)</title>
-    <updated>2023-07-17T02:19:34+00:00</updated>
-    <content>Cheeeeese :)</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7256606510388661547" rel="alternate"/>
-    <published>2023-07-17T02:19:34+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7256609037595315499</id>
     <title>One more bc i need attention </title>
@@ -91,5 +83,13 @@
     <content>These shoes hurt so bad but i miss them</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7262715658507488555" rel="alternate"/>
     <published>2023-08-02T13:26:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7262887569975741739</id>
+    <title>Surprise </title>
+    <updated>2023-08-03T00:33:19+00:00</updated>
+    <content>Surprise </content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7262887569975741739" rel="alternate"/>
+    <published>2023-08-03T00:33:19+00:00</published>
   </entry>
 </feed>
