@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@villainsupport</id>
   <title>@villainsupport | TikTok</title>
-  <updated>2023-08-02T19:11:46+00:00</updated>
+  <updated>2023-08-03T20:09:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @villainsupport</subtitle>
-  <entry>
-    <id>https://tiktok.com/@villainsupport/video/7257997327044971818</id>
-    <title>#onboarding #pantheon #leisure #acmetok #acmevillainsupport </title>
-    <updated>2023-07-20T20:16:35+00:00</updated>
-    <content>#onboarding #pantheon #leisure #acmetok #acmevillainsupport </content>
-    <link href="https://tiktok.com/@villainsupport/video/7257997327044971818" rel="alternate"/>
-    <published>2023-07-20T20:16:35+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@villainsupport/video/7258310503993298218</id>
-    <title>#broke #vampire #acmetok #acmevillainsupport </title>
-    <updated>2023-07-21T16:32:04+00:00</updated>
-    <content>#broke #vampire #acmetok #acmevillainsupport </content>
-    <link href="https://tiktok.com/@villainsupport/video/7258310503993298218" rel="alternate"/>
-    <published>2023-07-21T16:32:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@villainsupport/video/7258676548608445742</id>
     <title>#broke #vampire #acmetok #acmevillainsupport #sidehustle #nft #voiceacting </title>
@@ -91,5 +75,21 @@
     <content>A Mummy’s Bad Wrap #mummy #pharoah #wrap #acmetok #acmevillainsupport </content>
     <link href="https://tiktok.com/@villainsupport/video/7262804711500238122" rel="alternate"/>
     <published>2023-08-02T19:11:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@villainsupport/video/7263066574104448298</id>
+    <title>[no title]</title>
+    <updated>2023-08-03T12:08:01+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@villainsupport/video/7263066574104448298" rel="alternate"/>
+    <published>2023-08-03T12:08:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@villainsupport/video/7263190669236145451</id>
+    <title>Customs Permits #villain #customs #permit #acmetok #acmevillainsupport </title>
+    <updated>2023-08-03T20:09:30+00:00</updated>
+    <content>Customs Permits #villain #customs #permit #acmetok #acmevillainsupport </content>
+    <link href="https://tiktok.com/@villainsupport/video/7263190669236145451" rel="alternate"/>
+    <published>2023-08-03T20:09:30+00:00</published>
   </entry>
 </feed>
