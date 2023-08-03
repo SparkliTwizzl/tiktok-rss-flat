@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avocadosnaliens</id>
   <title>@avocadosnaliens | TikTok</title>
-  <updated>2023-08-03T04:52:33+00:00</updated>
+  <updated>2023-08-03T22:21:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avocadosnaliens</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avocadosnaliens/video/7257704051356355883</id>
-    <title>[no title]</title>
-    <updated>2023-07-20T01:18:37+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@avocadosnaliens/video/7257704051356355883" rel="alternate"/>
-    <published>2023-07-20T01:18:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avocadosnaliens/video/7258676670708632875</id>
     <title>Shooting in 100 degree weather in Tahoe (my pants are detachable 😂😭) after getting my head gasket replaced, i immediately was hit by a drunk driver and on top of that, all the lights are popping up on my dash. Now would be a great time to lose my sh!t but</title>
@@ -91,5 +83,13 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@avocadosnaliens/video/7262954380255579438" rel="alternate"/>
     <published>2023-08-03T04:52:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7263224602963250474</id>
+    <title>Another day another wedding #outfitideas #loneranger #photographersoftiktok #grwmroutine </title>
+    <updated>2023-08-03T22:21:12+00:00</updated>
+    <content>Another day another wedding #outfitideas #loneranger #photographersoftiktok #grwmroutine </content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7263224602963250474" rel="alternate"/>
+    <published>2023-08-03T22:21:12+00:00</published>
   </entry>
 </feed>

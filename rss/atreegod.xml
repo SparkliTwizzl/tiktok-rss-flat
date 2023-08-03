@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@atreegod</id>
   <title>@atreegod | TikTok</title>
-  <updated>2023-08-02T20:29:56+00:00</updated>
+  <updated>2023-08-03T21:20:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @atreegod</subtitle>
-  <entry>
-    <id>https://tiktok.com/@atreegod/video/7257794442613116202</id>
-    <title>The post clerb commute be brutal #wlw #lgbtq </title>
-    <updated>2023-07-20T07:09:21+00:00</updated>
-    <content>The post clerb commute be brutal #wlw #lgbtq </content>
-    <link href="https://tiktok.com/@atreegod/video/7257794442613116202" rel="alternate"/>
-    <published>2023-07-20T07:09:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@atreegod/video/7259901366569651498</id>
     <title>Jewish nose check #wlw #lgbt </title>
@@ -91,5 +83,13 @@
     <content>A touch me not tale pt 2 #wlw </content>
     <link href="https://tiktok.com/@atreegod/video/7262824865227410731" rel="alternate"/>
     <published>2023-08-02T20:29:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7263208955961265451</id>
+    <title>I dont post this stuff much but I wrote this! I thought ab the girl this is ab today and decided to sing it again. Ill probably end up deleting this but 🥂</title>
+    <updated>2023-08-03T21:20:29+00:00</updated>
+    <content>I dont post this stuff much but I wrote this! I thought ab the girl this is ab today and decided to sing it again. Ill probably end up deleting this but 🥂</content>
+    <link href="https://tiktok.com/@atreegod/video/7263208955961265451" rel="alternate"/>
+    <published>2023-08-03T21:20:29+00:00</published>
   </entry>
 </feed>
