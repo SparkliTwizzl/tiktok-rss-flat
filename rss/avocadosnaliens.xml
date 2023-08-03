@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avocadosnaliens</id>
   <title>@avocadosnaliens | TikTok</title>
-  <updated>2023-07-28T18:56:13+00:00</updated>
+  <updated>2023-08-03T04:52:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avocadosnaliens</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avocadosnaliens/video/7256171266594409771</id>
-    <title>[no title]</title>
-    <updated>2023-07-15T22:10:40+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@avocadosnaliens/video/7256171266594409771" rel="alternate"/>
-    <published>2023-07-15T22:10:40+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@avocadosnaliens/video/7256498202319408430</id>
-    <title>#adamsandlersummer </title>
-    <updated>2023-07-16T19:19:21+00:00</updated>
-    <content>#adamsandlersummer </content>
-    <link href="https://tiktok.com/@avocadosnaliens/video/7256498202319408430" rel="alternate"/>
-    <published>2023-07-16T19:19:21+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@avocadosnaliens/video/7257624976621194538</id>
-    <title>#stitch with @tati </title>
-    <updated>2023-07-19T20:11:51+00:00</updated>
-    <content>#stitch with @tati </content>
-    <link href="https://tiktok.com/@avocadosnaliens/video/7257624976621194538" rel="alternate"/>
-    <published>2023-07-19T20:11:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avocadosnaliens/video/7257704051356355883</id>
     <title>[no title]</title>
@@ -51,6 +27,14 @@
     <content>Shooting in 100 degree weather in Tahoe (my pants are detachable 😂😭) after getting my head gasket replaced, i immediately was hit by a drunk driver and on top of that, all the lights are popping up on my dash. Now would be a great time to lose my sh!t but i cant. I gotta climb some mountains and take some pictures. </content>
     <link href="https://tiktok.com/@avocadosnaliens/video/7258676670708632875" rel="alternate"/>
     <published>2023-07-22T16:12:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7259054109729230126</id>
+    <title>#greenscreenvideo @Good American :)</title>
+    <updated>2023-07-23T16:37:36+00:00</updated>
+    <content>#greenscreenvideo @Good American :)</content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7259054109729230126" rel="alternate"/>
+    <published>2023-07-23T16:37:36+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@avocadosnaliens/video/7259528414988602667</id>
@@ -91,5 +75,21 @@
     <content>#photographerlife📸 </content>
     <link href="https://tiktok.com/@avocadosnaliens/video/7260945260497390891" rel="alternate"/>
     <published>2023-07-28T18:56:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7262826315336863022</id>
+    <title>[no title]</title>
+    <updated>2023-08-02T20:35:36+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7262826315336863022" rel="alternate"/>
+    <published>2023-08-02T20:35:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7262954380255579438</id>
+    <title>[no title]</title>
+    <updated>2023-08-03T04:52:33+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7262954380255579438" rel="alternate"/>
+    <published>2023-08-03T04:52:33+00:00</published>
   </entry>
 </feed>
