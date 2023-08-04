@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@tracksuitsandredwine_</id>
   <title>@tracksuitsandredwine_ | TikTok</title>
-  <updated>2023-08-03T04:06:25+00:00</updated>
+  <updated>2023-08-04T02:14:24.299636+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,84 +12,4 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @tracksuitsandredwine_</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tracksuitsandredwine_/video/7259375886045072648</id>
-    <title>pc&gt;</title>
-    <updated>2023-07-24T13:26:06+00:00</updated>
-    <content>pc&gt;</content>
-    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7259375886045072648" rel="alternate"/>
-    <published>2023-07-24T13:26:06+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@tracksuitsandredwine_/video/7260293120758222088</id>
-    <title>ballet tn 💪</title>
-    <updated>2023-07-27T00:45:29+00:00</updated>
-    <content>ballet tn 💪</content>
-    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7260293120758222088" rel="alternate"/>
-    <published>2023-07-27T00:45:29+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@tracksuitsandredwine_/video/7260386278598774034</id>
-    <title>smth bout you </title>
-    <updated>2023-07-27T06:46:56+00:00</updated>
-    <content>smth bout you </content>
-    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7260386278598774034" rel="alternate"/>
-    <published>2023-07-27T06:46:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@tracksuitsandredwine_/video/7260855159679503624</id>
-    <title>mine &gt;&gt;</title>
-    <updated>2023-07-28T13:06:25+00:00</updated>
-    <content>mine &gt;&gt;</content>
-    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7260855159679503624" rel="alternate"/>
-    <published>2023-07-28T13:06:25+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@tracksuitsandredwine_/video/7261049370357943560</id>
-    <title>i have had kenough</title>
-    <updated>2023-07-29T01:40:07+00:00</updated>
-    <content>i have had kenough</content>
-    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7261049370357943560" rel="alternate"/>
-    <published>2023-07-29T01:40:07+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@tracksuitsandredwine_/video/7261224552259177746</id>
-    <title>a very fake draft </title>
-    <updated>2023-07-29T12:59:50+00:00</updated>
-    <content>a very fake draft </content>
-    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7261224552259177746" rel="alternate"/>
-    <published>2023-07-29T12:59:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@tracksuitsandredwine_/video/7261990316205509895</id>
-    <title>dionysus 🍇 </title>
-    <updated>2023-07-31T14:31:24+00:00</updated>
-    <content>dionysus 🍇 </content>
-    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7261990316205509895" rel="alternate"/>
-    <published>2023-07-31T14:31:24+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@tracksuitsandredwine_/video/7262364401125166354</id>
-    <title>lego batman is the best batman. </title>
-    <updated>2023-08-01T14:43:03+00:00</updated>
-    <content>lego batman is the best batman. </content>
-    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7262364401125166354" rel="alternate"/>
-    <published>2023-08-01T14:43:03+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@tracksuitsandredwine_/video/7262726906070568200</id>
-    <title>lego batman pt 2@lia :) </title>
-    <updated>2023-08-02T14:09:44+00:00</updated>
-    <content>lego batman pt 2@lia :) </content>
-    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7262726906070568200" rel="alternate"/>
-    <published>2023-08-02T14:09:44+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@tracksuitsandredwine_/video/7262942514456317191</id>
-    <title>stan</title>
-    <updated>2023-08-03T04:06:25+00:00</updated>
-    <content>stan</content>
-    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7262942514456317191" rel="alternate"/>
-    <published>2023-08-03T04:06:25+00:00</published>
-  </entry>
 </feed>
