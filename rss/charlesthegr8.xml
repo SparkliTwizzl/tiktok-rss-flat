@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@charlesthegr8</id>
   <title>@charlesthegr8 | TikTok</title>
-  <updated>2023-08-02T04:38:29+00:00</updated>
+  <updated>2023-08-04T15:26:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @charlesthegr8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7254712170452356398</id>
-    <title>Golden Hour couldn’t even save him 🌞 #iykyk #goldenhour #charlesthegr8 #CapCut </title>
-    <updated>2023-07-11T23:48:32+00:00</updated>
-    <content>Golden Hour couldn’t even save him 🌞 #iykyk #goldenhour #charlesthegr8 #CapCut </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7254712170452356398" rel="alternate"/>
-    <published>2023-07-11T23:48:32+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7256244241075014955</id>
-    <title>The ideal #relationship 🙏🏽  #iykyk #charlesthegr8 </title>
-    <updated>2023-07-16T02:53:48+00:00</updated>
-    <content>The ideal #relationship 🙏🏽  #iykyk #charlesthegr8 </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7256244241075014955" rel="alternate"/>
-    <published>2023-07-16T02:53:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@charlesthegr8/video/7256440381896690986</id>
     <title>Music to my ears 😏 #iykyk #relationship #charlesthegr8 </title>
@@ -91,5 +75,21 @@
     <content>Somethings should stay private 🤫 #iykyk #charlesthegr8 #groupchat </content>
     <link href="https://tiktok.com/@charlesthegr8/video/7262579617905626411" rel="alternate"/>
     <published>2023-08-02T04:38:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7263481368208788779</id>
+    <title>Conflicted 🤔 #iykyk #relationship #charlesthegr8 </title>
+    <updated>2023-08-04T14:57:51+00:00</updated>
+    <content>Conflicted 🤔 #iykyk #relationship #charlesthegr8 </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7263481368208788779" rel="alternate"/>
+    <published>2023-08-04T14:57:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7263488734853647658</id>
+    <title>True love #iykyk #relationship #charlesthegr8 </title>
+    <updated>2023-08-04T15:26:16+00:00</updated>
+    <content>True love #iykyk #relationship #charlesthegr8 </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7263488734853647658" rel="alternate"/>
+    <published>2023-08-04T15:26:16+00:00</published>
   </entry>
 </feed>
