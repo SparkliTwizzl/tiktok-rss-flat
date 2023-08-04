@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kamehalani</id>
   <title>@kamehalani | TikTok</title>
-  <updated>2023-08-02T17:27:54+00:00</updated>
+  <updated>2023-08-04T06:34:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kamehalani</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kamehalani/video/7259097999349959982</id>
-    <title>No </title>
-    <updated>2023-07-23T19:27:54+00:00</updated>
-    <content>No </content>
-    <link href="https://tiktok.com/@kamehalani/video/7259097999349959982" rel="alternate"/>
-    <published>2023-07-23T19:27:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kamehalani/video/7259746742835547438</id>
-    <title>You gotta do what you gotta do. I hate misogyny though </title>
-    <updated>2023-07-25T13:25:17+00:00</updated>
-    <content>You gotta do what you gotta do. I hate misogyny though </content>
-    <link href="https://tiktok.com/@kamehalani/video/7259746742835547438" rel="alternate"/>
-    <published>2023-07-25T13:25:17+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kamehalani/video/7260194059136879914</id>
-    <title>That part knocked me out </title>
-    <updated>2023-07-26T18:21:06+00:00</updated>
-    <content>That part knocked me out </content>
-    <link href="https://tiktok.com/@kamehalani/video/7260194059136879914" rel="alternate"/>
-    <published>2023-07-26T18:21:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kamehalani/video/7260215435579215147</id>
     <title>I miss you already. Nothing Compares 2 U #sineadoconnor </title>
@@ -91,5 +67,29 @@
     <content>Nooooooooo omg </content>
     <link href="https://tiktok.com/@kamehalani/video/7262777941908753710" rel="alternate"/>
     <published>2023-08-02T17:27:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kamehalani/video/7263273191345343787</id>
+    <title>Replying to @Melissa Grady hope this makes sense #kanaka #nativetiktok #jewish #jewishtiktok </title>
+    <updated>2023-08-04T01:29:47+00:00</updated>
+    <content>Replying to @Melissa Grady hope this makes sense #kanaka #nativetiktok #jewish #jewishtiktok </content>
+    <link href="https://tiktok.com/@kamehalani/video/7263273191345343787" rel="alternate"/>
+    <published>2023-08-04T01:29:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kamehalani/video/7263349996257381675</id>
+    <title>Replying to @user8629071132556 #greenscreen failed #kanaka #nativetiktok #nativehawaiian sorry many of us are mixed so its confusing to yall. </title>
+    <updated>2023-08-04T06:28:07+00:00</updated>
+    <content>Replying to @user8629071132556 #greenscreen failed #kanaka #nativetiktok #nativehawaiian sorry many of us are mixed so its confusing to yall. </content>
+    <link href="https://tiktok.com/@kamehalani/video/7263349996257381675" rel="alternate"/>
+    <published>2023-08-04T06:28:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kamehalani/video/7263351575178136878</id>
+    <title>Replying to @Dee Hurley yikes #kanaka #nativetiktok #nativehawaiian </title>
+    <updated>2023-08-04T06:34:16+00:00</updated>
+    <content>Replying to @Dee Hurley yikes #kanaka #nativetiktok #nativehawaiian </content>
+    <link href="https://tiktok.com/@kamehalani/video/7263351575178136878" rel="alternate"/>
+    <published>2023-08-04T06:34:16+00:00</published>
   </entry>
 </feed>
