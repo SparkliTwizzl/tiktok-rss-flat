@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pinkmantaray</id>
   <title>@pinkmantaray | TikTok</title>
-  <updated>2023-08-03T23:26:21+00:00</updated>
+  <updated>2023-08-05T01:04:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @pinkmantaray</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pinkmantaray/video/7258709542924537130</id>
-    <title>Replying to @Alex Anti-trans rhetoric is powerful and needs to be disputed. Attend my Allyship Bootcamp to learn more about mythbusting transphobia! Sign up at pinkmantaray.com/workshops. #transgender #genderaffirmingsurgery #transition #gender </title>
-    <updated>2023-07-22T18:20:33+00:00</updated>
-    <content>Replying to @Alex Anti-trans rhetoric is powerful and needs to be disputed. Attend my Allyship Bootcamp to learn more about mythbusting transphobia! Sign up at pinkmantaray.com/workshops. #transgender #genderaffirmingsurgery #transition #gender </content>
-    <link href="https://tiktok.com/@pinkmantaray/video/7258709542924537130" rel="alternate"/>
-    <published>2023-07-22T18:20:33+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pinkmantaray/video/7259941466359827754</id>
     <title>Day three of audiobook recording for my upcoming book #HeSheThey! Preorder at HSTBook.com 🏳️‍⚧️📚💕 ##transgender##booktok##audiobook##gender##lgbtq</title>
@@ -91,5 +83,13 @@
     <content>Packing carefully has become a little ritual 🙏🏼 Suitcase and backpack by @Solgaard 💕 #transgender #advocate #traveling #traveltok #workremote</content>
     <link href="https://tiktok.com/@pinkmantaray/video/7263241375058119978" rel="alternate"/>
     <published>2023-08-03T23:26:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pinkmantaray/video/7263637811734121771</id>
+    <title>It's taking a long time to see myself in the mirror, but here we are. I'm so grateful 💕🏳️‍⚧️ #transgender #shaving #transman #beard #genderaffirmingcare </title>
+    <updated>2023-08-05T01:04:44+00:00</updated>
+    <content>It's taking a long time to see myself in the mirror, but here we are. I'm so grateful 💕🏳️‍⚧️ #transgender #shaving #transman #beard #genderaffirmingcare </content>
+    <link href="https://tiktok.com/@pinkmantaray/video/7263637811734121771" rel="alternate"/>
+    <published>2023-08-05T01:04:44+00:00</published>
   </entry>
 </feed>
