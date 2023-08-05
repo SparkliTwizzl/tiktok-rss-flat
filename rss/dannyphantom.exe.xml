@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dannyphantom.exe</id>
   <title>@dannyphantom.exe | TikTok</title>
-  <updated>2023-08-03T01:32:32+00:00</updated>
+  <updated>2023-08-05T02:20:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dannyphantom.exe</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7258832187833863467</id>
-    <title>tag someone who needs to hear this</title>
-    <updated>2023-07-23T02:16:21+00:00</updated>
-    <content>tag someone who needs to hear this</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7258832187833863467" rel="alternate"/>
-    <published>2023-07-23T02:16:21+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7259203024470494510</id>
-    <title>[no title]</title>
-    <updated>2023-07-24T02:15:23+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7259203024470494510" rel="alternate"/>
-    <published>2023-07-24T02:15:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dannyphantom.exe/video/7259203312505998634</id>
     <title>tag someone who’s a fruit </title>
@@ -91,5 +75,21 @@
     <content>im just, sharing my feelings???</content>
     <link href="https://tiktok.com/@dannyphantom.exe/video/7262902852086058286" rel="alternate"/>
     <published>2023-08-03T01:32:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7263656578258160942</id>
+    <title>help</title>
+    <updated>2023-08-05T02:17:26+00:00</updated>
+    <content>help</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7263656578258160942" rel="alternate"/>
+    <published>2023-08-05T02:17:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7263657319861374250</id>
+    <title>tag someone who “loves” aliens</title>
+    <updated>2023-08-05T02:20:20+00:00</updated>
+    <content>tag someone who “loves” aliens</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7263657319861374250" rel="alternate"/>
+    <published>2023-08-05T02:20:20+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jacobtheseahorse</id>
   <title>@jacobtheseahorse | TikTok</title>
-  <updated>2023-07-31T17:02:21+00:00</updated>
+  <updated>2023-08-04T18:09:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jacobtheseahorse</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7255740784996044059</id>
-    <title>nonbinaries of all grump levels welcome 💛🤍💜🖤 also just a reminder that nonbinary people can use any pronouns (including "gendered" ones and can look any way that feels right to them. #nonbinaryday #enby #nonbinary #trans</title>
-    <updated>2023-07-14T18:20:05+00:00</updated>
-    <content>nonbinaries of all grump levels welcome 💛🤍💜🖤 also just a reminder that nonbinary people can use any pronouns (including "gendered" ones and can look any way that feels right to them. #nonbinaryday #enby #nonbinary #trans</content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7255740784996044059" rel="alternate"/>
-    <published>2023-07-14T18:20:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jacobtheseahorse/video/7255947776498945307</id>
     <title>at 11 years old I couldn't see a world with me in it. it sometimes feels miraculous that I'm still here at all.  it feels incredible to conceive that I have the chance to live until I see that older man in the mirror.  when we say "protect trans youth", w</title>
@@ -91,5 +83,13 @@
     <content>Replying to @gypsypixiee dysphoria is one of the many reasons that trans people need extra support during pregnancy. I provide training to Perinatal staff to help them with that: bit•ly/seacourses for tickets and times</content>
     <link href="https://tiktok.com/@jacobtheseahorse/video/7262029205708246304" rel="alternate"/>
     <published>2023-07-31T17:02:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7263530831669447968</id>
+    <title>the world is better with you in it 💜 #song #mentalhealth #prevention #survive #depression #anxiety #support #you #are #loved #keepgoing #trans #lgbt #duet #music #sing #harmony </title>
+    <updated>2023-08-04T18:09:24+00:00</updated>
+    <content>the world is better with you in it 💜 #song #mentalhealth #prevention #survive #depression #anxiety #support #you #are #loved #keepgoing #trans #lgbt #duet #music #sing #harmony </content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7263530831669447968" rel="alternate"/>
+    <published>2023-08-04T18:09:24+00:00</published>
   </entry>
 </feed>
