@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kingfemme</id>
   <title>@kingfemme | TikTok</title>
-  <updated>2023-08-03T16:38:59+00:00</updated>
+  <updated>2023-08-04T23:32:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kingfemme</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kingfemme/video/7245115691097935147</id>
-    <title>Let me know which one was yalls fav!!! #fyp #fashion #thriftinghaul #clothinghaul #nonbinary #ftm #mtf #lgbt #trans #gendernonconforming </title>
-    <updated>2023-06-16T03:09:24+00:00</updated>
-    <content>Let me know which one was yalls fav!!! #fyp #fashion #thriftinghaul #clothinghaul #nonbinary #ftm #mtf #lgbt #trans #gendernonconforming </content>
-    <link href="https://tiktok.com/@kingfemme/video/7245115691097935147" rel="alternate"/>
-    <published>2023-06-16T03:09:24+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kingfemme/video/7246826620600798506</id>
-    <title>Where has the time gone 😭😭😭 im so unbelievably happpy now and feel endlessy comfortable with myself, my body and the person i authentically am 🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️ #fyp #nonbinary #mtf #ftm #lgbt #trans #hrt #topsurgery #testosteroneftm  </title>
-    <updated>2023-06-20T17:48:44+00:00</updated>
-    <content>Where has the time gone 😭😭😭 im so unbelievably happpy now and feel endlessy comfortable with myself, my body and the person i authentically am 🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️ #fyp #nonbinary #mtf #ftm #lgbt #trans #hrt #topsurgery #testosteroneftm  </content>
-    <link href="https://tiktok.com/@kingfemme/video/7246826620600798506" rel="alternate"/>
-    <published>2023-06-20T17:48:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kingfemme/video/7249790730493791534</id>
     <title>#queerlove #love #trans #VozDosCriadores #hrt #fyp #lgbt #loveislove #nonbinary #ftm #mtf #gendertransition </title>
@@ -91,5 +75,21 @@
     <content>LIKE WHY NOT!? #CapCutVelocity #fyp #trans #gay #lgbt #ftm #mtf #hrt #nonbinary #blonde #pink #comedy </content>
     <link href="https://tiktok.com/@kingfemme/video/7263136378714787118" rel="alternate"/>
     <published>2023-08-03T16:38:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kingfemme/video/7263557557363428651</id>
+    <title>PLEASE NO ONE SUGGEST VOICE TRAINING!!!! #voicemasculinizationsurgery #trans #fyp #lgbt #ftm #hrt #genderaffirmingsurgery #mtf</title>
+    <updated>2023-08-04T19:53:16+00:00</updated>
+    <content>PLEASE NO ONE SUGGEST VOICE TRAINING!!!! #voicemasculinizationsurgery #trans #fyp #lgbt #ftm #hrt #genderaffirmingsurgery #mtf</content>
+    <link href="https://tiktok.com/@kingfemme/video/7263557557363428651" rel="alternate"/>
+    <published>2023-08-04T19:53:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kingfemme/video/7263614036883852587</id>
+    <title>The Ken to my Barbie 🏳️‍⚧️💅🏾 #trans #transmasc #nonbinary #genderspectrum #fyp #lgbt #bff </title>
+    <updated>2023-08-04T23:32:23+00:00</updated>
+    <content>The Ken to my Barbie 🏳️‍⚧️💅🏾 #trans #transmasc #nonbinary #genderspectrum #fyp #lgbt #bff </content>
+    <link href="https://tiktok.com/@kingfemme/video/7263614036883852587" rel="alternate"/>
+    <published>2023-08-04T23:32:23+00:00</published>
   </entry>
 </feed>
