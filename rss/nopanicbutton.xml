@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@nopanicbutton</id>
   <title>@nopanicbutton | TikTok</title>
-  <updated>2023-08-02T20:42:40+00:00</updated>
+  <updated>2023-08-04T21:29:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @nopanicbutton</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nopanicbutton/video/7255042847647468846</id>
-    <title>Met the nicest Mistress the other day! #kinktok #mistress #domgames #havingablastwithjohn </title>
-    <updated>2023-07-12T21:11:47+00:00</updated>
-    <content>Met the nicest Mistress the other day! #kinktok #mistress #domgames #havingablastwithjohn </content>
-    <link href="https://tiktok.com/@nopanicbutton/video/7255042847647468846" rel="alternate"/>
-    <published>2023-07-12T21:11:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nopanicbutton/video/7255680801528876330</id>
     <title>Date nights are getting interesting. #datenight #groupdating #murdermystery Be sure to join us on Discord! Link in bio!</title>
@@ -91,5 +83,13 @@
     <content>Got them on camera and they still deny it. #dnr #wisconsinwildlife </content>
     <link href="https://tiktok.com/@nopanicbutton/video/7262828140265835822" rel="alternate"/>
     <published>2023-08-02T20:42:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nopanicbutton/video/7263582494761536814</id>
+    <title>If you need help, make sure you get the RIGHT help! #dating #tinder #behindthescenes </title>
+    <updated>2023-08-04T21:29:59+00:00</updated>
+    <content>If you need help, make sure you get the RIGHT help! #dating #tinder #behindthescenes </content>
+    <link href="https://tiktok.com/@nopanicbutton/video/7263582494761536814" rel="alternate"/>
+    <published>2023-08-04T21:29:59+00:00</published>
   </entry>
 </feed>
