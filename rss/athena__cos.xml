@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-07-24T21:49:37+00:00</updated>
+  <updated>2023-08-05T18:27:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7253185189847911722</id>
-    <title>My sister watched me make this and i just kept begging for her to trust the process 😭 #martialarts #jiujitsu #womenwhofight </title>
-    <updated>2023-07-07T21:03:11+00:00</updated>
-    <content>My sister watched me make this and i just kept begging for her to trust the process 😭 #martialarts #jiujitsu #womenwhofight </content>
-    <link href="https://tiktok.com/@athena__cos/video/7253185189847911722" rel="alternate"/>
-    <published>2023-07-07T21:03:11+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7253555947728014634</id>
     <title>Chaotic vibes ONLY #shera #wonderwoman #sheracosplay #wonderwomancosplay shera is @Bella LeBaron </title>
@@ -91,5 +83,13 @@
     <content>My take on this trend</content>
     <link href="https://tiktok.com/@athena__cos/video/7259505613716294958" rel="alternate"/>
     <published>2023-07-24T21:49:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7263906570587671850</id>
+    <title>Vid audio aside @Bella LeBaron is one of my favorite friends/people ❤️❤️ ready to make some more fun stuff together!! #shera #sheracosplay #wonderwoman #wonderwomancosplay #bff </title>
+    <updated>2023-08-05T18:27:39+00:00</updated>
+    <content>Vid audio aside @Bella LeBaron is one of my favorite friends/people ❤️❤️ ready to make some more fun stuff together!! #shera #sheracosplay #wonderwoman #wonderwomancosplay #bff </content>
+    <link href="https://tiktok.com/@athena__cos/video/7263906570587671850" rel="alternate"/>
+    <published>2023-08-05T18:27:39+00:00</published>
   </entry>
 </feed>
