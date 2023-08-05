@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@villainsupport</id>
   <title>@villainsupport | TikTok</title>
-  <updated>2023-08-04T20:44:08+00:00</updated>
+  <updated>2023-08-05T15:47:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @villainsupport</subtitle>
-  <entry>
-    <id>https://tiktok.com/@villainsupport/video/7259428320842894638</id>
-    <title>#broke #vampire #acmetok #acmevillainsupport </title>
-    <updated>2023-07-24T16:49:41+00:00</updated>
-    <content>#broke #vampire #acmetok #acmevillainsupport </content>
-    <link href="https://tiktok.com/@villainsupport/video/7259428320842894638" rel="alternate"/>
-    <published>2023-07-24T16:49:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@villainsupport/video/7259486819710930218</id>
     <title>#onboarding #pantheon #tablet #acmetok #acmevillainsupport @Cyrano Laughs @Acme Member Solutions </title>
@@ -91,5 +83,13 @@
     <content>Villain Support Update 8-4-2023 #villain #acmetok #acmevillainsupport </content>
     <link href="https://tiktok.com/@villainsupport/video/7263570665159150891" rel="alternate"/>
     <published>2023-08-04T20:44:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@villainsupport/video/7263865391988935978</id>
+    <title>Chain Reaction #chain #name #villain #acmetok #acmevillainsupport </title>
+    <updated>2023-08-05T15:47:50+00:00</updated>
+    <content>Chain Reaction #chain #name #villain #acmetok #acmevillainsupport </content>
+    <link href="https://tiktok.com/@villainsupport/video/7263865391988935978" rel="alternate"/>
+    <published>2023-08-05T15:47:50+00:00</published>
   </entry>
 </feed>
