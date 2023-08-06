@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kit_the_beefcake</id>
   <title>@kit_the_beefcake | TikTok</title>
-  <updated>2023-08-05T13:23:35+00:00</updated>
+  <updated>2023-08-06T00:53:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kit_the_beefcake</subtitle>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7259570147470593326</id>
+    <title>THEY CAN SEE YOU </title>
+    <updated>2023-07-25T02:00:01+00:00</updated>
+    <content>THEY CAN SEE YOU </content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7259570147470593326" rel="alternate"/>
+    <published>2023-07-25T02:00:01+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7261068718862552362</id>
     <title>[no title]</title>
@@ -35,14 +43,6 @@
     <content>I know this isn't the same but it's now an intrusive thought for me</content>
     <link href="https://tiktok.com/@kit_the_beefcake/video/7261783411583438123" rel="alternate"/>
     <published>2023-07-31T01:08:38+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7262485180185726251</id>
-    <title>just as homies though we can get food after and bring some home for your girl ❤️</title>
-    <updated>2023-08-01T22:31:52+00:00</updated>
-    <content>just as homies though we can get food after and bring some home for your girl ❤️</content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7262485180185726251" rel="alternate"/>
-    <published>2023-08-01T22:31:52+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7262936126577593643</id>
@@ -77,19 +77,19 @@
     <published>2023-08-04T07:19:08+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7263653090744913198</id>
-    <title>sorry not sorry #exmormon </title>
-    <updated>2023-08-05T02:03:59+00:00</updated>
-    <content>sorry not sorry #exmormon </content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7263653090744913198" rel="alternate"/>
-    <published>2023-08-05T02:03:59+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7263828165355752750</id>
     <title>#sundress #fishnets #fakebody #shorthair </title>
     <updated>2023-08-05T13:23:35+00:00</updated>
     <content>#sundress #fishnets #fakebody #shorthair </content>
     <link href="https://tiktok.com/@kit_the_beefcake/video/7263828165355752750" rel="alternate"/>
     <published>2023-08-05T13:23:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7264006089090387243</id>
+    <title>AHHHHHHHHHHHH</title>
+    <updated>2023-08-06T00:53:46+00:00</updated>
+    <content>AHHHHHHHHHHHH</content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7264006089090387243" rel="alternate"/>
+    <published>2023-08-06T00:53:46+00:00</published>
   </entry>
 </feed>
