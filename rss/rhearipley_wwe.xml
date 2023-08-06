@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@rhearipley_wwe</id>
   <title>@rhearipley_wwe | TikTok</title>
-  <updated>2023-07-31T01:52:13+00:00</updated>
+  <updated>2023-08-05T20:22:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @rhearipley_wwe</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rhearipley_wwe/video/7248396199126994222</id>
-    <title>Runnin on an hour 40 sleep and a f’n dream of having bigger legs 💀 Help </title>
-    <updated>2023-06-24T23:19:29+00:00</updated>
-    <content>Runnin on an hour 40 sleep and a f’n dream of having bigger legs 💀 Help </content>
-    <link href="https://tiktok.com/@rhearipley_wwe/video/7248396199126994222" rel="alternate"/>
-    <published>2023-06-24T23:19:29+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rhearipley_wwe/video/7250140762120129835</id>
     <title>Mami’s always got you</title>
@@ -91,5 +83,13 @@
     <content>a WHOLE MEAL</content>
     <link href="https://tiktok.com/@rhearipley_wwe/video/7261794635234774315" rel="alternate"/>
     <published>2023-07-31T01:52:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rhearipley_wwe/video/7263936305040493867</id>
+    <title>@Laura Lomonaco KILLED IT! 😈</title>
+    <updated>2023-08-05T20:22:55+00:00</updated>
+    <content>@Laura Lomonaco KILLED IT! 😈</content>
+    <link href="https://tiktok.com/@rhearipley_wwe/video/7263936305040493867" rel="alternate"/>
+    <published>2023-08-05T20:22:55+00:00</published>
   </entry>
 </feed>

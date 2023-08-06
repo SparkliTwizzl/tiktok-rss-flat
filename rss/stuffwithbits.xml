@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-08-04T22:54:35+00:00</updated>
+  <updated>2023-08-05T15:47:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7261648297314487594</id>
-    <title>#stitch with @Mandolin audio and captions are in sync with each other, but the video is not #solardidsystem #ssastra #dissociativeidentitydisorder </title>
-    <updated>2023-07-30T16:24:21+00:00</updated>
-    <content>#stitch with @Mandolin audio and captions are in sync with each other, but the video is not #solardidsystem #ssastra #dissociativeidentitydisorder </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7261648297314487594" rel="alternate"/>
-    <published>2023-07-30T16:24:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7262037557960166702</id>
     <title>Meet Quinn! Quinn is a fusion of Ellie and Jynx. #solardidsystem #ssquinn </title>
@@ -91,5 +83,13 @@
     <content>#solardidsystem #ssquinn #poison </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7263604281805262122" rel="alternate"/>
     <published>2023-08-04T22:54:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7263865400666901803</id>
+    <title>Brand: Milani Shade: 160 Once Upon A Time #solardidsystem #ssquinn #poison </title>
+    <updated>2023-08-05T15:47:59+00:00</updated>
+    <content>Brand: Milani Shade: 160 Once Upon A Time #solardidsystem #ssquinn #poison </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7263865400666901803" rel="alternate"/>
+    <published>2023-08-05T15:47:59+00:00</published>
   </entry>
 </feed>
