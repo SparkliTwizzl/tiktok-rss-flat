@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-08-05T13:05:24+00:00</updated>
+  <updated>2023-08-06T13:21:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7259835387441450282</id>
-    <title>I had to #metallica #megachurch </title>
-    <updated>2023-07-25T19:09:14+00:00</updated>
-    <content>I had to #metallica #megachurch </content>
-    <link href="https://tiktok.com/@punktoad/video/7259835387441450282" rel="alternate"/>
-    <published>2023-07-25T19:09:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7260681288699383083</id>
     <title>Some other things to consider: Situations that result in a fetal death in the third trimester are exceedlingly rare, reproductive health experts say, and usually involve energencies such as fatal anomalies or life-threatening complications affecting the m</title>
@@ -91,5 +83,13 @@
     <content>I thought we were making progress </content>
     <link href="https://tiktok.com/@punktoad/video/7263823470113443118" rel="alternate"/>
     <published>2023-08-05T13:05:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7264198683300728107</id>
+    <title>Where did he come from? Where did he go? If you have more information please call </title>
+    <updated>2023-08-06T13:21:19+00:00</updated>
+    <content>Where did he come from? Where did he go? If you have more information please call </content>
+    <link href="https://tiktok.com/@punktoad/video/7264198683300728107" rel="alternate"/>
+    <published>2023-08-06T13:21:19+00:00</published>
   </entry>
 </feed>
