@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pinkmantaray</id>
   <title>@pinkmantaray | TikTok</title>
-  <updated>2023-08-06T23:40:17+00:00</updated>
+  <updated>2023-08-07T15:54:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @pinkmantaray</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pinkmantaray/video/7261313775997963566</id>
-    <title>Today is the run!!! Stay tuned to see hwo this swimmer fairs 😂😂 #transathlete #transswimmer #5k #transgender #running </title>
-    <updated>2023-07-29T18:46:15+00:00</updated>
-    <content>Today is the run!!! Stay tuned to see hwo this swimmer fairs 😂😂 #transathlete #transswimmer #5k #transgender #running </content>
-    <link href="https://tiktok.com/@pinkmantaray/video/7261313775997963566" rel="alternate"/>
-    <published>2023-07-29T18:46:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pinkmantaray/video/7261744282774752558</id>
     <title>This was so special... I've never officially raced with another trans person, much less a PRO trans athlete. So proud of @Cal completing his trans continental run... and @Cal Calamia, thanks for running slow so I could actually keep up 😂💕🏳️‍⚧️ #transathle</title>
@@ -91,5 +83,13 @@
     <content>Trans educators have to eat too! And I love banh me 😋 #transgender #trans #banhmi #lunch </content>
     <link href="https://tiktok.com/@pinkmantaray/video/7264358234184600875" rel="alternate"/>
     <published>2023-08-06T23:40:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pinkmantaray/video/7264609270983888170</id>
+    <title>Shot day with @FOLX! What day is your shot day? #trans #testosterone #transgender #hrt #genderaffirmingcare #transition </title>
+    <updated>2023-08-07T15:54:31+00:00</updated>
+    <content>Shot day with @FOLX! What day is your shot day? #trans #testosterone #transgender #hrt #genderaffirmingcare #transition </content>
+    <link href="https://tiktok.com/@pinkmantaray/video/7264609270983888170" rel="alternate"/>
+    <published>2023-08-07T15:54:31+00:00</published>
   </entry>
 </feed>
