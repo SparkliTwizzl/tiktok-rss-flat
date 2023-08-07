@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@unbrandedchaos</id>
   <title>@unbrandedchaos | TikTok</title>
-  <updated>2023-03-28T21:14:28+00:00</updated>
+  <updated>2023-03-22T19:32:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -43,13 +43,5 @@
     <content>#CapCut </content>
     <link href="https://tiktok.com/@unbrandedchaos/video/7213455743037623594" rel="alternate"/>
     <published>2023-03-22T19:32:45+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@unbrandedchaos/video/7215708521885715755</id>
-    <title>I don't even know</title>
-    <updated>2023-03-28T21:14:28+00:00</updated>
-    <content>I don't even know</content>
-    <link href="https://tiktok.com/@unbrandedchaos/video/7215708521885715755" rel="alternate"/>
-    <published>2023-03-28T21:14:28+00:00</published>
   </entry>
 </feed>
