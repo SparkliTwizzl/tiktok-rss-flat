@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jacobtheseahorse</id>
   <title>@jacobtheseahorse | TikTok</title>
-  <updated>2023-08-04T18:09:24+00:00</updated>
+  <updated>2023-08-06T20:27:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jacobtheseahorse</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7255947776498945307</id>
-    <title>at 11 years old I couldn't see a world with me in it. it sometimes feels miraculous that I'm still here at all.  it feels incredible to conceive that I have the chance to live until I see that older man in the mirror.  when we say "protect trans youth", w</title>
-    <updated>2023-07-15T07:43:26+00:00</updated>
-    <content>at 11 years old I couldn't see a world with me in it. it sometimes feels miraculous that I'm still here at all.  it feels incredible to conceive that I have the chance to live until I see that older man in the mirror.  when we say "protect trans youth", we're talking from experience as the trans youth that needed protecting.  #trans #oldagefilter #mentalhealth </content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7255947776498945307" rel="alternate"/>
-    <published>2023-07-15T07:43:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jacobtheseahorse/video/7259387467789241626</id>
     <title>everyone who cares about trans and nonbinary people and their families is welcome to come! tickets are FREE - pm me for the link  in conjunction with #barnardos and #mygenderation @Fox Fisher  #trans #transpac #transgender #families #parents #transparents</title>
@@ -91,5 +83,13 @@
     <content>the world is better with you in it 💜 #song #mentalhealth #prevention #survive #depression #anxiety #support #you #are #loved #keepgoing #trans #lgbt #duet #music #sing #harmony </content>
     <link href="https://tiktok.com/@jacobtheseahorse/video/7263530831669447968" rel="alternate"/>
     <published>2023-08-04T18:09:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7264308554973138208</id>
+    <title>#duet with @Allison Tennyson #chronicillness holy guacamole, that is such an important reframe #longcovid #chronicillness #disability #sensoryprocessingdisorder #actuallyautistic #adhd #adhdtiktok #asd #fatigue #me #cfs </title>
+    <updated>2023-08-06T20:27:22+00:00</updated>
+    <content>#duet with @Allison Tennyson #chronicillness holy guacamole, that is such an important reframe #longcovid #chronicillness #disability #sensoryprocessingdisorder #actuallyautistic #adhd #adhdtiktok #asd #fatigue #me #cfs </content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7264308554973138208" rel="alternate"/>
+    <published>2023-08-06T20:27:22+00:00</published>
   </entry>
 </feed>
