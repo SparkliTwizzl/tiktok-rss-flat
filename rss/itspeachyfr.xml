@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@itspeachyfr</id>
   <title>@itspeachyfr | TikTok</title>
-  <updated>2023-07-26T21:39:14+00:00</updated>
+  <updated>2023-08-07T15:15:34.354998+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,84 +12,4 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @itspeachyfr</subtitle>
-  <entry>
-    <id>https://tiktok.com/@itspeachyfr/video/7256233881119034670</id>
-    <title>recently #explore #10last #pictures </title>
-    <updated>2023-07-16T02:13:36+00:00</updated>
-    <content>recently #explore #10last #pictures </content>
-    <link href="https://tiktok.com/@itspeachyfr/video/7256233881119034670" rel="alternate"/>
-    <published>2023-07-16T02:13:36+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@itspeachyfr/video/7256499110243667246</id>
-    <title>[no title]</title>
-    <updated>2023-07-16T19:22:59+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@itspeachyfr/video/7256499110243667246" rel="alternate"/>
-    <published>2023-07-16T19:22:59+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@itspeachyfr/video/7257563945215544619</id>
-    <title>[no title]</title>
-    <updated>2023-07-19T16:15:04+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@itspeachyfr/video/7257563945215544619" rel="alternate"/>
-    <published>2023-07-19T16:15:04+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@itspeachyfr/video/7257565081729371435</id>
-    <title>[no title]</title>
-    <updated>2023-07-19T16:19:28+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@itspeachyfr/video/7257565081729371435" rel="alternate"/>
-    <published>2023-07-19T16:19:28+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@itspeachyfr/video/7257951070901783854</id>
-    <title>[no title]</title>
-    <updated>2023-07-20T17:17:08+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@itspeachyfr/video/7257951070901783854" rel="alternate"/>
-    <published>2023-07-20T17:17:08+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@itspeachyfr/video/7257954945016745262</id>
-    <title>Getting my whiteboy boogie on #gowhiteboygo </title>
-    <updated>2023-07-20T17:32:10+00:00</updated>
-    <content>Getting my whiteboy boogie on #gowhiteboygo </content>
-    <link href="https://tiktok.com/@itspeachyfr/video/7257954945016745262" rel="alternate"/>
-    <published>2023-07-20T17:32:10+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@itspeachyfr/video/7257966587884457262</id>
-    <title>turn my head so fast i get whiplash </title>
-    <updated>2023-07-20T18:17:20+00:00</updated>
-    <content>turn my head so fast i get whiplash </content>
-    <link href="https://tiktok.com/@itspeachyfr/video/7257966587884457262" rel="alternate"/>
-    <published>2023-07-20T18:17:20+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@itspeachyfr/video/7258417546443967787</id>
-    <title>anyone else? </title>
-    <updated>2023-07-21T23:27:22+00:00</updated>
-    <content>anyone else? </content>
-    <link href="https://tiktok.com/@itspeachyfr/video/7258417546443967787" rel="alternate"/>
-    <published>2023-07-21T23:27:22+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@itspeachyfr/video/7258417787243384110</id>
-    <title>be gone- </title>
-    <updated>2023-07-21T23:28:17+00:00</updated>
-    <content>be gone- </content>
-    <link href="https://tiktok.com/@itspeachyfr/video/7258417787243384110" rel="alternate"/>
-    <published>2023-07-21T23:28:17+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@itspeachyfr/video/7260245137916202282</id>
-    <title>back on the road … </title>
-    <updated>2023-07-26T21:39:14+00:00</updated>
-    <content>back on the road … </content>
-    <link href="https://tiktok.com/@itspeachyfr/video/7260245137916202282" rel="alternate"/>
-    <published>2023-07-26T21:39:14+00:00</published>
-  </entry>
 </feed>
