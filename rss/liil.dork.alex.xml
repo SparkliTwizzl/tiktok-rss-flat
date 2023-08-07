@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@liil.dork.alex</id>
   <title>@liil.dork.alex | TikTok</title>
-  <updated>2023-08-06T05:56:12+00:00</updated>
+  <updated>2023-08-06T21:49:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @liil.dork.alex</subtitle>
-  <entry>
-    <id>https://tiktok.com/@liil.dork.alex/video/7254374588283358506</id>
-    <title>@Justin Blake hooked me up with the sun/moon and slug 😩 thank you again b, did the last one myself :) </title>
-    <updated>2023-07-11T01:58:35+00:00</updated>
-    <content>@Justin Blake hooked me up with the sun/moon and slug 😩 thank you again b, did the last one myself :) </content>
-    <link href="https://tiktok.com/@liil.dork.alex/video/7254374588283358506" rel="alternate"/>
-    <published>2023-07-11T01:58:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@liil.dork.alex/video/7256231678098558254</id>
     <title>In my dreams 🌌💫</title>
@@ -91,5 +83,13 @@
     <content>Theyre for my pleasure 💅🏽empty canvas needs art 🫡</content>
     <link href="https://tiktok.com/@liil.dork.alex/video/7264084000082513198" rel="alternate"/>
     <published>2023-08-06T05:56:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@liil.dork.alex/video/7264329708714741035</id>
+    <title>The lil arfff is what gets me 😂</title>
+    <updated>2023-08-06T21:49:37+00:00</updated>
+    <content>The lil arfff is what gets me 😂</content>
+    <link href="https://tiktok.com/@liil.dork.alex/video/7264329708714741035" rel="alternate"/>
+    <published>2023-08-06T21:49:37+00:00</published>
   </entry>
 </feed>

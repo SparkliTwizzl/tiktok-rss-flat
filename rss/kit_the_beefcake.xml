@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kit_the_beefcake</id>
   <title>@kit_the_beefcake | TikTok</title>
-  <updated>2023-08-06T00:53:46+00:00</updated>
+  <updated>2023-08-07T01:31:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kit_the_beefcake</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7259570147470593326</id>
-    <title>THEY CAN SEE YOU </title>
-    <updated>2023-07-25T02:00:01+00:00</updated>
-    <content>THEY CAN SEE YOU </content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7259570147470593326" rel="alternate"/>
-    <published>2023-07-25T02:00:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7261068718862552362</id>
     <title>[no title]</title>
@@ -91,5 +83,13 @@
     <content>AHHHHHHHHHHHH</content>
     <link href="https://tiktok.com/@kit_the_beefcake/video/7264006089090387243" rel="alternate"/>
     <published>2023-08-06T00:53:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7264386952953253166</id>
+    <title>Gotta respond still 😅</title>
+    <updated>2023-08-07T01:31:43+00:00</updated>
+    <content>Gotta respond still 😅</content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7264386952953253166" rel="alternate"/>
+    <published>2023-08-07T01:31:43+00:00</published>
   </entry>
 </feed>
