@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@qu1nnv1nc1ble</id>
   <title>@qu1nnv1nc1ble | TikTok</title>
-  <updated>2023-08-06T20:20:11+00:00</updated>
+  <updated>2023-08-08T02:00:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @qu1nnv1nc1ble</subtitle>
-  <entry>
-    <id>https://tiktok.com/@qu1nnv1nc1ble/video/7259449738100084011</id>
-    <title>Oops 💙 #transition #haircolorchallenge #blueboy #bleh </title>
-    <updated>2023-07-24T18:12:51+00:00</updated>
-    <content>Oops 💙 #transition #haircolorchallenge #blueboy #bleh </content>
-    <link href="https://tiktok.com/@qu1nnv1nc1ble/video/7259449738100084011" rel="alternate"/>
-    <published>2023-07-24T18:12:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@qu1nnv1nc1ble/video/7259962774418230570</id>
     <title>Ride right into this #draft ✌️| uggghhhh forgot to set the thiinnng #transitionidea #transition #fail #relatable #eboy </title>
@@ -91,5 +83,13 @@
     <content>What’s one word gunna… #iykyk </content>
     <link href="https://tiktok.com/@qu1nnv1nc1ble/video/7264306654701767979" rel="alternate"/>
     <published>2023-08-06T20:20:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@qu1nnv1nc1ble/video/7264765572162850090</id>
+    <title>☕️ *sips tea*  #glowup #prettyboy #transition #hairtheory #of #fyp #trans </title>
+    <updated>2023-08-08T02:00:50+00:00</updated>
+    <content>☕️ *sips tea*  #glowup #prettyboy #transition #hairtheory #of #fyp #trans </content>
+    <link href="https://tiktok.com/@qu1nnv1nc1ble/video/7264765572162850090" rel="alternate"/>
+    <published>2023-08-08T02:00:50+00:00</published>
   </entry>
 </feed>
