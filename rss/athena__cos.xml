@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-08-05T18:27:39+00:00</updated>
+  <updated>2023-08-07T18:49:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7253555947728014634</id>
-    <title>Chaotic vibes ONLY #shera #wonderwoman #sheracosplay #wonderwomancosplay shera is @Bella LeBaron </title>
-    <updated>2023-07-08T21:01:51+00:00</updated>
-    <content>Chaotic vibes ONLY #shera #wonderwoman #sheracosplay #wonderwomancosplay shera is @Bella LeBaron </content>
-    <link href="https://tiktok.com/@athena__cos/video/7253555947728014634" rel="alternate"/>
-    <published>2023-07-08T21:01:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7254238732415520042</id>
-    <title>How much do you love a good Athena cosplay look from #KnightsoftheZodiac ? Buy #KOTZMovie on digital and show me your cosplay look now! @Sony Pictures #SonyPicsPartner #cosplay</title>
-    <updated>2023-07-10T17:11:30+00:00</updated>
-    <content>How much do you love a good Athena cosplay look from #KnightsoftheZodiac ? Buy #KOTZMovie on digital and show me your cosplay look now! @Sony Pictures #SonyPicsPartner #cosplay</content>
-    <link href="https://tiktok.com/@athena__cos/video/7254238732415520042" rel="alternate"/>
-    <published>2023-07-10T17:11:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7254670770104798510</id>
     <title>My ego makes me forget daily that all my friends are taller than me  Shera is @Bella LeBaron !! #shera #wonderwoman #sheracosplay #wlwcosplay #wonderwomancosplay #shortfriend </title>
@@ -91,5 +75,21 @@
     <content>Vid audio aside @Bella LeBaron is one of my favorite friends/people ❤️❤️ ready to make some more fun stuff together!! #shera #sheracosplay #wonderwoman #wonderwomancosplay #bff </content>
     <link href="https://tiktok.com/@athena__cos/video/7263906570587671850" rel="alternate"/>
     <published>2023-08-05T18:27:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7264619512350215467</id>
+    <title>Replying to @𝐊𝐢𝐤𝐢 𝐌𝐨𝐫𝐚 this was so long in the making 😭 the take before this i almost accidentally stabbed Bella #loz #link #redlink </title>
+    <updated>2023-08-07T16:34:11+00:00</updated>
+    <content>Replying to @𝐊𝐢𝐤𝐢 𝐌𝐨𝐫𝐚 this was so long in the making 😭 the take before this i almost accidentally stabbed Bella #loz #link #redlink </content>
+    <link href="https://tiktok.com/@athena__cos/video/7264619512350215467" rel="alternate"/>
+    <published>2023-08-07T16:34:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7263581257823538474</id>
+    <title>Download TickBoom to try out their Al! @tickboom.ai #TickBoom #ai #aiart #ad</title>
+    <updated>2023-08-07T18:49:52+00:00</updated>
+    <content>Download TickBoom to try out their Al! @tickboom.ai #TickBoom #ai #aiart #ad</content>
+    <link href="https://tiktok.com/@athena__cos/video/7263581257823538474" rel="alternate"/>
+    <published>2023-08-07T18:49:52+00:00</published>
   </entry>
 </feed>
