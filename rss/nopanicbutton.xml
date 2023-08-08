@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@nopanicbutton</id>
   <title>@nopanicbutton | TikTok</title>
-  <updated>2023-08-04T21:29:59+00:00</updated>
+  <updated>2023-08-07T21:04:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @nopanicbutton</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nopanicbutton/video/7255680801528876330</id>
-    <title>Date nights are getting interesting. #datenight #groupdating #murdermystery Be sure to join us on Discord! Link in bio!</title>
-    <updated>2023-07-14T14:27:28+00:00</updated>
-    <content>Date nights are getting interesting. #datenight #groupdating #murdermystery Be sure to join us on Discord! Link in bio!</content>
-    <link href="https://tiktok.com/@nopanicbutton/video/7255680801528876330" rel="alternate"/>
-    <published>2023-07-14T14:27:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nopanicbutton/video/7256866618033179946</id>
     <title>Ever have regular after finally getting over your caffeine addiction? #caffeine #deathwishcoffee #notapaidadvertisement </title>
@@ -91,5 +83,13 @@
     <content>If you need help, make sure you get the RIGHT help! #dating #tinder #behindthescenes </content>
     <link href="https://tiktok.com/@nopanicbutton/video/7263582494761536814" rel="alternate"/>
     <published>2023-08-04T21:29:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nopanicbutton/video/7264689086210870574</id>
+    <title>I couldn't find a way to make this funny. Some people suck. #servicedog #servicedoglife #servicedogproblems #peoplesuck #karen </title>
+    <updated>2023-08-07T21:04:06+00:00</updated>
+    <content>I couldn't find a way to make this funny. Some people suck. #servicedog #servicedoglife #servicedogproblems #peoplesuck #karen </content>
+    <link href="https://tiktok.com/@nopanicbutton/video/7264689086210870574" rel="alternate"/>
+    <published>2023-08-07T21:04:06+00:00</published>
   </entry>
 </feed>
