@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-08-05T16:49:07+00:00</updated>
+  <updated>2023-08-09T16:55:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7260517409369394438</id>
-    <title>#dancesinshadows #maladytheclown #anythingyoucando #badder #neongreen #altmakeup </title>
-    <updated>2023-07-27T15:15:44+00:00</updated>
-    <content>#dancesinshadows #maladytheclown #anythingyoucando #badder #neongreen #altmakeup </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7260517409369394438" rel="alternate"/>
-    <published>2023-07-27T15:15:44+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7261045759234084102</id>
-    <title>was nice catching up with everyone this afternoon in the livestream 💚  song @Chandler Leighton #altmakeup #neongreen #maladytheclown #dancesinshadows </title>
-    <updated>2023-07-29T01:26:01+00:00</updated>
-    <content>was nice catching up with everyone this afternoon in the livestream 💚  song @Chandler Leighton #altmakeup #neongreen #maladytheclown #dancesinshadows </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7261045759234084102" rel="alternate"/>
-    <published>2023-07-29T01:26:01+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7261642353281076485</id>
-    <title>#onthisday #maladytheclown #dancesinshadows </title>
-    <updated>2023-07-30T16:01:06+00:00</updated>
-    <content>#onthisday #maladytheclown #dancesinshadows </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7261642353281076485" rel="alternate"/>
-    <published>2023-07-30T16:01:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7262012167816301829</id>
     <title>#onthisday #dancesinshadows #maladytheclown #throwback </title>
@@ -91,5 +67,29 @@
     <content>As wonderland lay in waste and ruin, the Mad Hatter quickly got to work piecing the other wonderland characters back together. The Queen needs her court after all. #dancesinshadows #wonderland #maladytheclown #wonderlandcostumes </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7263881237348076805" rel="alternate"/>
     <published>2023-08-05T16:49:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7264760073702903045</id>
+    <title>more of my newest oc. entire costume is handmade 😅❤️ I dont have the energy most days to film, so I've been working on costumes and accessories #maladytheclown #wonderlandcostumes #wonderland #dancesinshadows #fnaf </title>
+    <updated>2023-08-08T01:39:27+00:00</updated>
+    <content>more of my newest oc. entire costume is handmade 😅❤️ I dont have the energy most days to film, so I've been working on costumes and accessories #maladytheclown #wonderlandcostumes #wonderland #dancesinshadows #fnaf </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7264760073702903045" rel="alternate"/>
+    <published>2023-08-08T01:39:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7264975614233365765</id>
+    <title>Starring Minn 😅🤣  #dancesinshadows #maladytheclown #toebeans #tabbycat </title>
+    <updated>2023-08-08T15:35:52+00:00</updated>
+    <content>Starring Minn 😅🤣  #dancesinshadows #maladytheclown #toebeans #tabbycat </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7264975614233365765" rel="alternate"/>
+    <published>2023-08-08T15:35:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7265367114775563525</id>
+    <title>It's true. I love cookies, donuts, turnovers... Anything baked, like me 😅😂 #maladytheclown #throwback #onthisday </title>
+    <updated>2023-08-09T16:55:06+00:00</updated>
+    <content>It's true. I love cookies, donuts, turnovers... Anything baked, like me 😅😂 #maladytheclown #throwback #onthisday </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7265367114775563525" rel="alternate"/>
+    <published>2023-08-09T16:55:06+00:00</published>
   </entry>
 </feed>
