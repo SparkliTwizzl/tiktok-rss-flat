@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-08-10T00:44:15+00:00</updated>
+  <updated>2023-08-10T12:55:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7261414292413697326</id>
-    <title>No thank you #workproblems </title>
-    <updated>2023-07-30T01:16:22+00:00</updated>
-    <content>No thank you #workproblems </content>
-    <link href="https://tiktok.com/@punktoad/video/7261414292413697326" rel="alternate"/>
-    <published>2023-07-30T01:16:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7261997157656317226</id>
     <title>Literally #grocerystore #badmemory #glitch </title>
@@ -91,5 +83,13 @@
     <content>We weren’t playing #brothers #trampoline </content>
     <link href="https://tiktok.com/@punktoad/video/7265487982092635434" rel="alternate"/>
     <published>2023-08-10T00:44:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7265676287224630570</id>
+    <title>Clearly she misses me </title>
+    <updated>2023-08-10T12:55:24+00:00</updated>
+    <content>Clearly she misses me </content>
+    <link href="https://tiktok.com/@punktoad/video/7265676287224630570" rel="alternate"/>
+    <published>2023-08-10T12:55:24+00:00</published>
   </entry>
 </feed>
