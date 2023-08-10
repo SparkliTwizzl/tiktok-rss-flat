@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@atreegod</id>
   <title>@atreegod | TikTok</title>
-  <updated>2023-08-09T00:12:42+00:00</updated>
+  <updated>2023-08-10T20:22:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @atreegod</subtitle>
-  <entry>
-    <id>https://tiktok.com/@atreegod/video/7262387261361212715</id>
-    <title>Jus a lil sum to let u mf kno #wlw #lgbtq #wakeybakey </title>
-    <updated>2023-08-01T16:11:50+00:00</updated>
-    <content>Jus a lil sum to let u mf kno #wlw #lgbtq #wakeybakey </content>
-    <link href="https://tiktok.com/@atreegod/video/7262387261361212715" rel="alternate"/>
-    <published>2023-08-01T16:11:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@atreegod/video/7262390161353346346</id>
     <title>Day in w kiddo #wlw #lgbtq </title>
@@ -91,5 +83,13 @@
     <content>Feeling myself hard tn #wlw #lgbtq </content>
     <link href="https://tiktok.com/@atreegod/video/7265108778771647787" rel="alternate"/>
     <published>2023-08-09T00:12:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7265791588251716910</id>
+    <title>Rainy day in nyc #wlw #lgbtq </title>
+    <updated>2023-08-10T20:22:27+00:00</updated>
+    <content>Rainy day in nyc #wlw #lgbtq </content>
+    <link href="https://tiktok.com/@atreegod/video/7265791588251716910" rel="alternate"/>
+    <published>2023-08-10T20:22:27+00:00</published>
   </entry>
 </feed>
