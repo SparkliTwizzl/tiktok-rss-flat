@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thehistorywizard</id>
   <title>@thehistorywizard | TikTok</title>
-  <updated>2023-08-07T19:57:24+00:00</updated>
+  <updated>2023-08-09T23:15:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,38 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thehistorywizard</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thehistorywizard/video/7261710395528842542</id>
-    <title>Replying to @llevi73 Do you understand now? #thehistorywizard #historytiktok #edutok #learnontiktok #wizardcommunism </title>
-    <updated>2023-07-30T20:25:18+00:00</updated>
-    <content>Replying to @llevi73 Do you understand now? #thehistorywizard #historytiktok #edutok #learnontiktok #wizardcommunism </content>
-    <link href="https://tiktok.com/@thehistorywizard/video/7261710395528842542" rel="alternate"/>
-    <published>2023-07-30T20:25:18+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@thehistorywizard/video/7261766627014741290</id>
-    <title>#stitch with @brotherhood of evil gays I haven't done a cartwheel in years. #thehistorywizard #cartwheel </title>
-    <updated>2023-07-31T00:03:29+00:00</updated>
-    <content>#stitch with @brotherhood of evil gays I haven't done a cartwheel in years. #thehistorywizard #cartwheel </content>
-    <link href="https://tiktok.com/@thehistorywizard/video/7261766627014741290" rel="alternate"/>
-    <published>2023-07-31T00:03:29+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@thehistorywizard/video/7261973767734267179</id>
-    <title>Replying to @sevensneks Just don't. #thehistorywizard #historytiktok #edutok #learnontiktok #wizardcommunism #gymnastics </title>
-    <updated>2023-07-31T13:27:42+00:00</updated>
-    <content>Replying to @sevensneks Just don't. #thehistorywizard #historytiktok #edutok #learnontiktok #wizardcommunism #gymnastics </content>
-    <link href="https://tiktok.com/@thehistorywizard/video/7261973767734267179" rel="alternate"/>
-    <published>2023-07-31T13:27:42+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@thehistorywizard/video/7262716708928998698</id>
-    <title>Take a break. You're doing OK. #thehistorywizard </title>
-    <updated>2023-08-02T13:30:18+00:00</updated>
-    <content>Take a break. You're doing OK. #thehistorywizard </content>
-    <link href="https://tiktok.com/@thehistorywizard/video/7262716708928998698" rel="alternate"/>
-    <published>2023-08-02T13:30:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thehistorywizard/video/7263146122011594027</id>
     <title>Stop censoring educational content. #historytiktok #thehistorywizard #edutok #learnontiktok #wizardcommunism </title>
@@ -91,5 +59,37 @@
     <content>Replying to @addfghit Get it straight. #thehistorywizard #historytiktok #edutok #learnontiktok #wizardcommunism </content>
     <link href="https://tiktok.com/@thehistorywizard/video/7264671888176090410" rel="alternate"/>
     <published>2023-08-07T19:57:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thehistorywizard/video/7264954087991561515</id>
+    <title>Replying to @talknerdy0 I know more than you. #thehistorywizard #historytiktok #edutok #learnontiktok #wizardcommunism </title>
+    <updated>2023-08-08T14:12:29+00:00</updated>
+    <content>Replying to @talknerdy0 I know more than you. #thehistorywizard #historytiktok #edutok #learnontiktok #wizardcommunism </content>
+    <link href="https://tiktok.com/@thehistorywizard/video/7264954087991561515" rel="alternate"/>
+    <published>2023-08-08T14:12:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thehistorywizard/video/7265312002489191722</id>
+    <title>Replying to @joeythecounselor I couldn't have said it better. #thehistorywizard #historytiktok #edutok #learnontiktok #wizardcommunism </title>
+    <updated>2023-08-09T13:21:36+00:00</updated>
+    <content>Replying to @joeythecounselor I couldn't have said it better. #thehistorywizard #historytiktok #edutok #learnontiktok #wizardcommunism </content>
+    <link href="https://tiktok.com/@thehistorywizard/video/7265312002489191722" rel="alternate"/>
+    <published>2023-08-09T13:21:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thehistorywizard/video/7265407893309050155</id>
+    <title>Replying to @gonzthemagnificent Great question. #thehistorywizard #historytiktok #edutok #learnontiktok #wizardcommunism </title>
+    <updated>2023-08-09T19:33:30+00:00</updated>
+    <content>Replying to @gonzthemagnificent Great question. #thehistorywizard #historytiktok #edutok #learnontiktok #wizardcommunism </content>
+    <link href="https://tiktok.com/@thehistorywizard/video/7265407893309050155" rel="alternate"/>
+    <published>2023-08-09T19:33:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thehistorywizard/video/7265465089011092778</id>
+    <title>Replying to @workingclasswasp Just... don't. #thehistorywizard #historytiktok #edutok #learnontiktok #wizardcommunism </title>
+    <updated>2023-08-09T23:15:25+00:00</updated>
+    <content>Replying to @workingclasswasp Just... don't. #thehistorywizard #historytiktok #edutok #learnontiktok #wizardcommunism </content>
+    <link href="https://tiktok.com/@thehistorywizard/video/7265465089011092778" rel="alternate"/>
+    <published>2023-08-09T23:15:25+00:00</published>
   </entry>
 </feed>

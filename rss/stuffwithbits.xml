@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-08-05T15:47:59+00:00</updated>
+  <updated>2023-08-09T18:44:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,38 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7262037557960166702</id>
-    <title>Meet Quinn! Quinn is a fusion of Ellie and Jynx. #solardidsystem #ssquinn </title>
-    <updated>2023-07-31T17:34:54+00:00</updated>
-    <content>Meet Quinn! Quinn is a fusion of Ellie and Jynx. #solardidsystem #ssquinn </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7262037557960166702" rel="alternate"/>
-    <published>2023-07-31T17:34:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7262117060136717611</id>
-    <title>#duet with @Kya&amp;Co | DID &amp; Mental Health yikes 😅😅😅 #solardidsystem #ssquinn </title>
-    <updated>2023-07-31T22:43:24+00:00</updated>
-    <content>#duet with @Kya&amp;Co | DID &amp; Mental Health yikes 😅😅😅 #solardidsystem #ssquinn </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7262117060136717611" rel="alternate"/>
-    <published>2023-07-31T22:43:24+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7262192189269200171</id>
-    <title>[no title]</title>
-    <updated>2023-08-01T03:34:51+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7262192189269200171" rel="alternate"/>
-    <published>2023-08-01T03:34:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7262524751682243882</id>
-    <title>sometimes we're even useful #solardidsystem #ssquinn </title>
-    <updated>2023-08-02T01:05:22+00:00</updated>
-    <content>sometimes we're even useful #solardidsystem #ssquinn </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7262524751682243882" rel="alternate"/>
-    <published>2023-08-02T01:05:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7262816142367067438</id>
     <title>Replying to @pinkodegallo #reply my manager just said to put them on hold next time instead of hanging up 🤷 #solardidsystem #ssquinn </title>
@@ -91,5 +59,37 @@
     <content>Brand: Milani Shade: 160 Once Upon A Time #solardidsystem #ssquinn #poison </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7263865400666901803" rel="alternate"/>
     <published>2023-08-05T15:47:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7265011028327402795</id>
+    <title>Replying to @stuffwithbits #reply Just wanted to add that if you notice a switch and everyone knows we're a system, please ask who is fronting! They will tell you Solar if they don't want to identify themselves. #solardidsystem #ssfletcher </title>
+    <updated>2023-08-08T17:53:20+00:00</updated>
+    <content>Replying to @stuffwithbits #reply Just wanted to add that if you notice a switch and everyone knows we're a system, please ask who is fronting! They will tell you Solar if they don't want to identify themselves. #solardidsystem #ssfletcher </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7265011028327402795" rel="alternate"/>
+    <published>2023-08-08T17:53:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7265050943757012267</id>
+    <title>what a thing to wake up to #solardidsystem #ssfletcher #doordash #grubhub #postmates #ubereats </title>
+    <updated>2023-08-08T20:28:15+00:00</updated>
+    <content>what a thing to wake up to #solardidsystem #ssfletcher #doordash #grubhub #postmates #ubereats </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7265050943757012267" rel="alternate"/>
+    <published>2023-08-08T20:28:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7265094798644759851</id>
+    <title>It's been weeks of this #solardidsystem #ssfletcher #dissociativeidentitydisorder #dissociation </title>
+    <updated>2023-08-08T23:18:29+00:00</updated>
+    <content>It's been weeks of this #solardidsystem #ssfletcher #dissociativeidentitydisorder #dissociation </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7265094798644759851" rel="alternate"/>
+    <published>2023-08-08T23:18:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7265395210585230635</id>
+    <title>Replying to @operophtera #reply #solardidsystem #ssperegrine #dissociativeidentitydisorder </title>
+    <updated>2023-08-09T18:44:15+00:00</updated>
+    <content>Replying to @operophtera #reply #solardidsystem #ssperegrine #dissociativeidentitydisorder </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7265395210585230635" rel="alternate"/>
+    <published>2023-08-09T18:44:15+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-08-08T03:19:30+00:00</updated>
+  <updated>2023-08-10T00:44:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7260841306723749163</id>
-    <title>I am who I am. #gymlife #hardcore #gideon </title>
-    <updated>2023-07-28T12:13:21+00:00</updated>
-    <content>I am who I am. #gymlife #hardcore #gideon </content>
-    <link href="https://tiktok.com/@punktoad/video/7260841306723749163" rel="alternate"/>
-    <published>2023-07-28T12:13:21+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7261240927371431214</id>
-    <title>Show us #aliens #extraterrestrial #disclosure </title>
-    <updated>2023-07-29T14:03:41+00:00</updated>
-    <content>Show us #aliens #extraterrestrial #disclosure </content>
-    <link href="https://tiktok.com/@punktoad/video/7261240927371431214" rel="alternate"/>
-    <published>2023-07-29T14:03:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7261414292413697326</id>
     <title>No thank you #workproblems </title>
@@ -91,5 +75,21 @@
     <content>And I never looked back </content>
     <link href="https://tiktok.com/@punktoad/video/7264785838805093675" rel="alternate"/>
     <published>2023-08-08T03:19:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7265306154136292651</id>
+    <title>Apparently “cool” is the only adjective I know </title>
+    <updated>2023-08-09T12:59:04+00:00</updated>
+    <content>Apparently “cool” is the only adjective I know </content>
+    <link href="https://tiktok.com/@punktoad/video/7265306154136292651" rel="alternate"/>
+    <published>2023-08-09T12:59:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7265487982092635434</id>
+    <title>We weren’t playing #brothers #trampoline </title>
+    <updated>2023-08-10T00:44:15+00:00</updated>
+    <content>We weren’t playing #brothers #trampoline </content>
+    <link href="https://tiktok.com/@punktoad/video/7265487982092635434" rel="alternate"/>
+    <published>2023-08-10T00:44:15+00:00</published>
   </entry>
 </feed>
