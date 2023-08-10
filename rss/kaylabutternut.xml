@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-08-05T07:13:43+00:00</updated>
+  <updated>2023-08-09T22:11:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,54 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7256609037595315499</id>
-    <title>One more bc i need attention </title>
-    <updated>2023-07-17T02:29:27+00:00</updated>
-    <content>One more bc i need attention </content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7256609037595315499" rel="alternate"/>
-    <published>2023-07-17T02:29:27+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7258037657001938222</id>
-    <title>If we ever broke up (IM FINALLY MOVING ALL MY STUFF IN!!!)</title>
-    <updated>2023-07-20T22:53:06+00:00</updated>
-    <content>If we ever broke up (IM FINALLY MOVING ALL MY STUFF IN!!!)</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7258037657001938222" rel="alternate"/>
-    <published>2023-07-20T22:53:06+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7259933199524957483</id>
-    <title>Never scroll unless you want to know too much</title>
-    <updated>2023-07-26T01:28:46+00:00</updated>
-    <content>Never scroll unless you want to know too much</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7259933199524957483" rel="alternate"/>
-    <published>2023-07-26T01:28:46+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7260958490334661931</id>
-    <title>It’s funny because it’s true</title>
-    <updated>2023-07-28T19:47:31+00:00</updated>
-    <content>It’s funny because it’s true</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7260958490334661931" rel="alternate"/>
-    <published>2023-07-28T19:47:31+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7261385735692078382</id>
-    <title>I’ll never get sick of this song</title>
-    <updated>2023-07-29T23:25:28+00:00</updated>
-    <content>I’ll never get sick of this song</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7261385735692078382" rel="alternate"/>
-    <published>2023-07-29T23:25:28+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7261462496597314858</id>
-    <title>I y’all are sick of this one</title>
-    <updated>2023-07-30T04:23:19+00:00</updated>
-    <content>I y’all are sick of this one</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7261462496597314858" rel="alternate"/>
-    <published>2023-07-30T04:23:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7262167504741535019</id>
     <title>Its been a while </title>
@@ -91,5 +43,53 @@
     <content>Thank you baby</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7263732811172121902" rel="alternate"/>
     <published>2023-08-05T07:13:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7265067648797592878</id>
+    <title>I missed this skirt</title>
+    <updated>2023-08-08T21:33:05+00:00</updated>
+    <content>I missed this skirt</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7265067648797592878" rel="alternate"/>
+    <published>2023-08-08T21:33:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7265072304579677482</id>
+    <title>No way she brought back the dress AND the sound</title>
+    <updated>2023-08-08T21:51:07+00:00</updated>
+    <content>No way she brought back the dress AND the sound</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7265072304579677482" rel="alternate"/>
+    <published>2023-08-08T21:51:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7265077753903582510</id>
+    <title>I wonder how kesha is doing</title>
+    <updated>2023-08-08T22:12:18+00:00</updated>
+    <content>I wonder how kesha is doing</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7265077753903582510" rel="alternate"/>
+    <published>2023-08-08T22:12:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7265122495676583210</id>
+    <title>This song has been stuck in my head for three months </title>
+    <updated>2023-08-09T01:05:54+00:00</updated>
+    <content>This song has been stuck in my head for three months </content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7265122495676583210" rel="alternate"/>
+    <published>2023-08-09T01:05:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7265430384144436522</id>
+    <title>[no title]</title>
+    <updated>2023-08-09T21:00:44+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7265430384144436522" rel="alternate"/>
+    <published>2023-08-09T21:00:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7265448573486091563</id>
+    <title>[no title]</title>
+    <updated>2023-08-09T22:11:23+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7265448573486091563" rel="alternate"/>
+    <published>2023-08-09T22:11:23+00:00</published>
   </entry>
 </feed>
