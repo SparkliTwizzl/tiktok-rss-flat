@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pinkmantaray</id>
   <title>@pinkmantaray | TikTok</title>
-  <updated>2023-08-10T01:02:18+00:00</updated>
+  <updated>2023-08-11T00:48:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @pinkmantaray</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pinkmantaray/video/7264010746047106350</id>
-    <title>Preorder a copy of my new book He/She/They: How We Talk About Gender and Why It Matters - anywhere you get books! #transgender #audiobook #author #booktok #heshethey </title>
-    <updated>2023-08-06T01:11:49+00:00</updated>
-    <content>Preorder a copy of my new book He/She/They: How We Talk About Gender and Why It Matters - anywhere you get books! #transgender #audiobook #author #booktok #heshethey </content>
-    <link href="https://tiktok.com/@pinkmantaray/video/7264010746047106350" rel="alternate"/>
-    <published>2023-08-06T01:11:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pinkmantaray/video/7264325350895766826</id>
     <title>This swimmer is trying to become a runner! #running #transathlete #bostonhalfmarathon #transman #transrunner #transswimmer </title>
@@ -91,5 +83,13 @@
     <content>Replying to @eff :) genetics are neat! #redbeard #transbeard #beard #transgender #testosterone #hrt</content>
     <link href="https://tiktok.com/@pinkmantaray/video/7265492622670712106" rel="alternate"/>
     <published>2023-08-10T01:02:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pinkmantaray/video/7265860215722052910</id>
+    <title>Finding my groove post college athletics has been a journey! #collegiateathlete #transathlete #mobilitywork #transgender </title>
+    <updated>2023-08-11T00:48:39+00:00</updated>
+    <content>Finding my groove post college athletics has been a journey! #collegiateathlete #transathlete #mobilitywork #transgender </content>
+    <link href="https://tiktok.com/@pinkmantaray/video/7265860215722052910" rel="alternate"/>
+    <published>2023-08-11T00:48:39+00:00</published>
   </entry>
 </feed>
