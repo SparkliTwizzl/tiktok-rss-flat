@@ -13,14 +13,6 @@
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @grouch_thebird</subtitle>
   <entry>
-    <id>https://tiktok.com/@grouch_thebird/video/7261063260441480491</id>
-    <title>[no title]</title>
-    <updated>2023-07-29T02:34:09+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@grouch_thebird/video/7261063260441480491" rel="alternate"/>
-    <published>2023-07-29T02:34:09+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@grouch_thebird/video/7261079728382070059</id>
     <title>[no title]</title>
     <updated>2023-07-29T03:37:58+00:00</updated>
@@ -67,6 +59,14 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@grouch_thebird/video/7265174267048873262" rel="alternate"/>
     <published>2023-08-09T04:26:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grouch_thebird/video/7265177516392877355</id>
+    <title>[no title]</title>
+    <updated>2023-08-09T04:39:33+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@grouch_thebird/video/7265177516392877355" rel="alternate"/>
+    <published>2023-08-09T04:39:33+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@grouch_thebird/video/7265393419055484206</id>
