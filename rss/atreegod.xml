@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@atreegod</id>
   <title>@atreegod | TikTok</title>
-  <updated>2023-08-10T23:00:45+00:00</updated>
+  <updated>2023-08-10T20:22:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @atreegod</subtitle>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7262390161353346346</id>
+    <title>Day in w kiddo #wlw #lgbtq </title>
+    <updated>2023-08-01T16:23:06+00:00</updated>
+    <content>Day in w kiddo #wlw #lgbtq </content>
+    <link href="https://tiktok.com/@atreegod/video/7262390161353346346" rel="alternate"/>
+    <published>2023-08-01T16:23:06+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@atreegod/video/7262577495646424363</id>
     <title>Ugh #wlw #lgbtq </title>
@@ -83,13 +91,5 @@
     <content>Rainy day in nyc #wlw #lgbtq </content>
     <link href="https://tiktok.com/@atreegod/video/7265791588251716910" rel="alternate"/>
     <published>2023-08-10T20:22:27+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@atreegod/video/7265832424884440363</id>
-    <title>Bad vibes get offah me #wlw #lgbt </title>
-    <updated>2023-08-10T23:00:45+00:00</updated>
-    <content>Bad vibes get offah me #wlw #lgbt </content>
-    <link href="https://tiktok.com/@atreegod/video/7265832424884440363" rel="alternate"/>
-    <published>2023-08-10T23:00:45+00:00</published>
   </entry>
 </feed>
