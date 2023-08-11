@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-08-10T12:55:24+00:00</updated>
+  <updated>2023-08-11T12:38:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7261997157656317226</id>
-    <title>Literally #grocerystore #badmemory #glitch </title>
-    <updated>2023-07-31T14:58:10+00:00</updated>
-    <content>Literally #grocerystore #badmemory #glitch </content>
-    <link href="https://tiktok.com/@punktoad/video/7261997157656317226" rel="alternate"/>
-    <published>2023-07-31T14:58:10+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7262544177827990830</id>
-    <title>Worth it #aliens #extraterrestrial #interspecies </title>
-    <updated>2023-08-02T02:20:51+00:00</updated>
-    <content>Worth it #aliens #extraterrestrial #interspecies </content>
-    <link href="https://tiktok.com/@punktoad/video/7262544177827990830" rel="alternate"/>
-    <published>2023-08-02T02:20:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7263074153358495019</id>
     <title>I’m fine, really </title>
@@ -91,5 +75,21 @@
     <content>Clearly she misses me </content>
     <link href="https://tiktok.com/@punktoad/video/7265676287224630570" rel="alternate"/>
     <published>2023-08-10T12:55:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7265839151285538091</id>
+    <title>Not fair </title>
+    <updated>2023-08-10T23:26:55+00:00</updated>
+    <content>Not fair </content>
+    <link href="https://tiktok.com/@punktoad/video/7265839151285538091" rel="alternate"/>
+    <published>2023-08-10T23:26:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7266043179319741739</id>
+    <title>on sight </title>
+    <updated>2023-08-11T12:38:41+00:00</updated>
+    <content>on sight </content>
+    <link href="https://tiktok.com/@punktoad/video/7266043179319741739" rel="alternate"/>
+    <published>2023-08-11T12:38:41+00:00</published>
   </entry>
 </feed>
