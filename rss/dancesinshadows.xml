@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-08-09T16:55:06+00:00</updated>
+  <updated>2023-08-10T17:44:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7262012167816301829</id>
-    <title>#onthisday #dancesinshadows #maladytheclown #throwback </title>
-    <updated>2023-07-31T15:56:10+00:00</updated>
-    <content>#onthisday #dancesinshadows #maladytheclown #throwback </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7262012167816301829" rel="alternate"/>
-    <published>2023-07-31T15:56:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7262357026272005381</id>
     <title>#onthisday #dancesinshadows #maladytheclown #throwback </title>
@@ -91,5 +83,13 @@
     <content>It's true. I love cookies, donuts, turnovers... Anything baked, like me 😅😂 #maladytheclown #throwback #onthisday </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7265367114775563525" rel="alternate"/>
     <published>2023-08-09T16:55:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7265750928467283205</id>
+    <title>my family, minus all the animals ❤️ Paul and Mini don't cosplay as much as I do, but they do dress up at cons and for Halloween. hopefully will revisit this family cosplay again for one of the cons #onthisday #theaddamsfamily #morticiaaddams #wednesdayadd</title>
+    <updated>2023-08-10T17:44:28+00:00</updated>
+    <content>my family, minus all the animals ❤️ Paul and Mini don't cosplay as much as I do, but they do dress up at cons and for Halloween. hopefully will revisit this family cosplay again for one of the cons #onthisday #theaddamsfamily #morticiaaddams #wednesdayaddams #familycosplay </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7265750928467283205" rel="alternate"/>
+    <published>2023-08-10T17:44:28+00:00</published>
   </entry>
 </feed>
