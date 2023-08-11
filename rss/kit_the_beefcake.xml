@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kit_the_beefcake</id>
   <title>@kit_the_beefcake | TikTok</title>
-  <updated>2023-08-10T12:06:23+00:00</updated>
+  <updated>2023-08-10T22:50:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kit_the_beefcake</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7261783411583438123</id>
-    <title>I know this isn't the same but it's now an intrusive thought for me</title>
-    <updated>2023-07-31T01:08:38+00:00</updated>
-    <content>I know this isn't the same but it's now an intrusive thought for me</content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7261783411583438123" rel="alternate"/>
-    <published>2023-07-31T01:08:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7262936126577593643</id>
     <title>Kara played me like a fiddle in 90 degree heat </title>
@@ -91,5 +83,13 @@
     <content>okay in my defense it was COVID and they had a boat </content>
     <link href="https://tiktok.com/@kit_the_beefcake/video/7265663669780909354" rel="alternate"/>
     <published>2023-08-10T12:06:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7265829827448474923</id>
+    <title>interact for the algorithm as a present? :3</title>
+    <updated>2023-08-10T22:50:50+00:00</updated>
+    <content>interact for the algorithm as a present? :3</content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7265829827448474923" rel="alternate"/>
+    <published>2023-08-10T22:50:50+00:00</published>
   </entry>
 </feed>
