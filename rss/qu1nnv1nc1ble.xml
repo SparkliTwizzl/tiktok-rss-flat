@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@qu1nnv1nc1ble</id>
   <title>@qu1nnv1nc1ble | TikTok</title>
-  <updated>2023-08-09T14:29:59+00:00</updated>
+  <updated>2023-08-10T23:13:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @qu1nnv1nc1ble</subtitle>
-  <entry>
-    <id>https://tiktok.com/@qu1nnv1nc1ble/video/7261703963735608618</id>
-    <title>Blowin in the beginning 🍁😮‍💨</title>
-    <updated>2023-07-30T20:00:27+00:00</updated>
-    <content>Blowin in the beginning 🍁😮‍💨</content>
-    <link href="https://tiktok.com/@qu1nnv1nc1ble/video/7261703963735608618" rel="alternate"/>
-    <published>2023-07-30T20:00:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@qu1nnv1nc1ble/video/7261736075440295210</id>
     <title>This filter is giving 👻💙</title>
@@ -91,5 +83,13 @@
     <content>Bonus points if you recognize the fit 🤫</content>
     <link href="https://tiktok.com/@qu1nnv1nc1ble/video/7265329620822658346" rel="alternate"/>
     <published>2023-08-09T14:29:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@qu1nnv1nc1ble/video/7265835588501310766</id>
+    <title>Can’t stop thinkin of this song 🎧 | original: Tek It ~ by Cafunè</title>
+    <updated>2023-08-10T23:13:07+00:00</updated>
+    <content>Can’t stop thinkin of this song 🎧 | original: Tek It ~ by Cafunè</content>
+    <link href="https://tiktok.com/@qu1nnv1nc1ble/video/7265835588501310766" rel="alternate"/>
+    <published>2023-08-10T23:13:07+00:00</published>
   </entry>
 </feed>
