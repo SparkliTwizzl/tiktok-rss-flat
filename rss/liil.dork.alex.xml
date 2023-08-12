@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@liil.dork.alex</id>
   <title>@liil.dork.alex | TikTok</title>
-  <updated>2023-08-10T04:33:15+00:00</updated>
+  <updated>2023-08-12T05:17:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @liil.dork.alex</subtitle>
-  <entry>
-    <id>https://tiktok.com/@liil.dork.alex/video/7256231678098558254</id>
-    <title>In my dreams 🌌💫</title>
-    <updated>2023-07-16T02:05:02+00:00</updated>
-    <content>In my dreams 🌌💫</content>
-    <link href="https://tiktok.com/@liil.dork.alex/video/7256231678098558254" rel="alternate"/>
-    <published>2023-07-16T02:05:02+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@liil.dork.alex/video/7258332174896713006</id>
     <title>Im so glad they made it 😭</title>
@@ -91,5 +83,13 @@
     <content>I didnt change the livht color 😅😳</content>
     <link href="https://tiktok.com/@liil.dork.alex/video/7265546965558234414" rel="alternate"/>
     <published>2023-08-10T04:33:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@liil.dork.alex/video/7266300616287292715</id>
+    <title>[no title]</title>
+    <updated>2023-08-12T05:17:47+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@liil.dork.alex/video/7266300616287292715" rel="alternate"/>
+    <published>2023-08-12T05:17:47+00:00</published>
   </entry>
 </feed>
