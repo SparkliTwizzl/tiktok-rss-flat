@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kit_the_beefcake</id>
   <title>@kit_the_beefcake | TikTok</title>
-  <updated>2023-08-12T03:14:46+00:00</updated>
+  <updated>2023-08-12T13:46:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kit_the_beefcake</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7263363230481878314</id>
-    <title>#gym #legs #gymgirl #femininity</title>
-    <updated>2023-08-04T07:19:08+00:00</updated>
-    <content>#gym #legs #gymgirl #femininity</content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7263363230481878314" rel="alternate"/>
-    <published>2023-08-04T07:19:08+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7263828165355752750</id>
-    <title>#sundress #fishnets #fakebody #shorthair </title>
-    <updated>2023-08-05T13:23:35+00:00</updated>
-    <content>#sundress #fishnets #fakebody #shorthair </content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7263828165355752750" rel="alternate"/>
-    <published>2023-08-05T13:23:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7264006089090387243</id>
     <title>AHHHHHHHHHHHH</title>
@@ -91,5 +75,21 @@
     <content>#american #australian #costco #chicken #vlog </content>
     <link href="https://tiktok.com/@kit_the_beefcake/video/7266268952358161706" rel="alternate"/>
     <published>2023-08-12T03:14:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7266374424595582254</id>
+    <title>Lift your girl up ya know #kitthebeefcake </title>
+    <updated>2023-08-12T10:04:45+00:00</updated>
+    <content>Lift your girl up ya know #kitthebeefcake </content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7266374424595582254" rel="alternate"/>
+    <published>2023-08-12T10:04:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7266431739608763690</id>
+    <title>I'm an idiot </title>
+    <updated>2023-08-12T13:46:51+00:00</updated>
+    <content>I'm an idiot </content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7266431739608763690" rel="alternate"/>
+    <published>2023-08-12T13:46:51+00:00</published>
   </entry>
 </feed>
