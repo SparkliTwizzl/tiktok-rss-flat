@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kit_the_beefcake</id>
   <title>@kit_the_beefcake | TikTok</title>
-  <updated>2023-08-11T08:11:43+00:00</updated>
+  <updated>2023-08-12T03:14:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kit_the_beefcake</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7263253936444935467</id>
-    <title>He got his first gf shortly after and they look really happy so I won't say who it was. it's just a memory that tickles me. #ufc #mma #storytime #confession </title>
-    <updated>2023-08-04T00:15:04+00:00</updated>
-    <content>He got his first gf shortly after and they look really happy so I won't say who it was. it's just a memory that tickles me. #ufc #mma #storytime #confession </content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7263253936444935467" rel="alternate"/>
-    <published>2023-08-04T00:15:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7263363230481878314</id>
     <title>#gym #legs #gymgirl #femininity</title>
@@ -53,14 +45,6 @@
     <published>2023-08-08T03:20:50+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7265511836500364587</id>
-    <title>[no title]</title>
-    <updated>2023-08-10T02:16:51+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7265511836500364587" rel="alternate"/>
-    <published>2023-08-10T02:16:51+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7265663669780909354</id>
     <title>okay in my defense it was COVID and they had a boat </title>
     <updated>2023-08-10T12:06:23+00:00</updated>
@@ -91,5 +75,21 @@
     <content>run don't walk </content>
     <link href="https://tiktok.com/@kit_the_beefcake/video/7265974380050533674" rel="alternate"/>
     <published>2023-08-11T08:11:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7266227230508944682</id>
+    <title>[no title]</title>
+    <updated>2023-08-12T00:32:57+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7266227230508944682" rel="alternate"/>
+    <published>2023-08-12T00:32:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7266268952358161706</id>
+    <title>#american #australian #costco #chicken #vlog </title>
+    <updated>2023-08-12T03:14:46+00:00</updated>
+    <content>#american #australian #costco #chicken #vlog </content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7266268952358161706" rel="alternate"/>
+    <published>2023-08-12T03:14:46+00:00</published>
   </entry>
 </feed>
