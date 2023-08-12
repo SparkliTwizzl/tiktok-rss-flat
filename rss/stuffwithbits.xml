@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-08-11T01:23:39+00:00</updated>
+  <updated>2023-08-12T00:45:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7262820233319025962</id>
-    <title>#solardidsystem #ssquinn </title>
-    <updated>2023-08-02T20:11:58+00:00</updated>
-    <content>#solardidsystem #ssquinn </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7262820233319025962" rel="alternate"/>
-    <published>2023-08-02T20:11:58+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7263589056997608746</id>
-    <title>Replying to @literallysaddamhussein#reply I just want to make sure that I'm being clear that you should NOT do that #solardidsystem #ssquinn </title>
-    <updated>2023-08-04T21:55:30+00:00</updated>
-    <content>Replying to @literallysaddamhussein#reply I just want to make sure that I'm being clear that you should NOT do that #solardidsystem #ssquinn </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7263589056997608746" rel="alternate"/>
-    <published>2023-08-04T21:55:30+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7263596385369345322</id>
-    <title>We literally all have our own favorite era 🤣 #solardidsystem #ssquinn #ssvegas </title>
-    <updated>2023-08-04T22:23:54+00:00</updated>
-    <content>We literally all have our own favorite era 🤣 #solardidsystem #ssquinn #ssvegas </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7263596385369345322" rel="alternate"/>
-    <published>2023-08-04T22:23:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7263604281805262122</id>
     <title>#solardidsystem #ssquinn #poison </title>
@@ -91,5 +67,29 @@
     <content>Replying to @beckysnyder4 #reply things are still being rearranged in the background. if you see peregrine out, give them some love. they've been working really hard through all of this 💝 #dissociativeidentitydisorder #solardidsystem #ssvegas </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7265869241679645995" rel="alternate"/>
     <published>2023-08-11T01:23:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7266188853399047470</id>
+    <title>#stitch with @Stephen Hilton I thought you were trying to be a better person. I guess we'll just both have to be disappointed in each other then. #ssvegas #solardidsystem </title>
+    <updated>2023-08-11T22:04:01+00:00</updated>
+    <content>#stitch with @Stephen Hilton I thought you were trying to be a better person. I guess we'll just both have to be disappointed in each other then. #ssvegas #solardidsystem </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7266188853399047470" rel="alternate"/>
+    <published>2023-08-11T22:04:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7266222840351821098</id>
+    <title>[no title]</title>
+    <updated>2023-08-12T00:15:54+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7266222840351821098" rel="alternate"/>
+    <published>2023-08-12T00:15:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7266230506579266862</id>
+    <title>#duet with @boot scootin' fruity #sillygooseenergy #solardidsystem #ssvegas #ladybug </title>
+    <updated>2023-08-12T00:45:37+00:00</updated>
+    <content>#duet with @boot scootin' fruity #sillygooseenergy #solardidsystem #ssvegas #ladybug </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7266230506579266862" rel="alternate"/>
+    <published>2023-08-12T00:45:37+00:00</published>
   </entry>
 </feed>
