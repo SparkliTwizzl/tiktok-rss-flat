@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-08-12T12:20:01+00:00</updated>
+  <updated>2023-08-11T12:38:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7263074153358495019</id>
+    <title>I’m fine, really </title>
+    <updated>2023-08-03T12:37:25+00:00</updated>
+    <content>I’m fine, really </content>
+    <link href="https://tiktok.com/@punktoad/video/7263074153358495019" rel="alternate"/>
+    <published>2023-08-03T12:37:25+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7263468826484854059</id>
     <title>Right on time</title>
@@ -83,13 +91,5 @@
     <content>on sight </content>
     <link href="https://tiktok.com/@punktoad/video/7266043179319741739" rel="alternate"/>
     <published>2023-08-11T12:38:41+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7266409340653800747</id>
-    <title>Rengoku noooooo #demonslayer #rengoku </title>
-    <updated>2023-08-12T12:20:01+00:00</updated>
-    <content>Rengoku noooooo #demonslayer #rengoku </content>
-    <link href="https://tiktok.com/@punktoad/video/7266409340653800747" rel="alternate"/>
-    <published>2023-08-12T12:20:01+00:00</published>
   </entry>
 </feed>
