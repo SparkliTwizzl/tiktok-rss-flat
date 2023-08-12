@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kamehalani</id>
   <title>@kamehalani | TikTok</title>
-  <updated>2023-08-10T01:22:34+00:00</updated>
+  <updated>2023-08-12T01:08:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kamehalani</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kamehalani/video/7262777941908753710</id>
-    <title>Nooooooooo omg </title>
-    <updated>2023-08-02T17:27:54+00:00</updated>
-    <content>Nooooooooo omg </content>
-    <link href="https://tiktok.com/@kamehalani/video/7262777941908753710" rel="alternate"/>
-    <published>2023-08-02T17:27:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kamehalani/video/7263273191345343787</id>
-    <title>Replying to @Melissa Grady hope this makes sense #kanaka #nativetiktok #jewish #jewishtiktok </title>
-    <updated>2023-08-04T01:29:47+00:00</updated>
-    <content>Replying to @Melissa Grady hope this makes sense #kanaka #nativetiktok #jewish #jewishtiktok </content>
-    <link href="https://tiktok.com/@kamehalani/video/7263273191345343787" rel="alternate"/>
-    <published>2023-08-04T01:29:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kamehalani/video/7263349996257381675</id>
     <title>Replying to @user8629071132556 #greenscreen failed #kanaka #nativetiktok #nativehawaiian sorry many of us are mixed so its confusing to yall. </title>
@@ -91,5 +75,21 @@
     <content>@Sweet Tee #kanaka #nativetiktok #nativehawaiian #hawaii #maui #stoptourisminhawaii #hawaiitiktok #hawaiian </content>
     <link href="https://tiktok.com/@kamehalani/video/7265497848060726574" rel="alternate"/>
     <published>2023-08-10T01:22:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kamehalani/video/7266112430449642798</id>
+    <title>Surprising you dont actually care… #kanaka #nativetiktok #nativehawaiian #hawaii #maui #stoptourisminhawaii #hawaiitiktok #hawaiian </title>
+    <updated>2023-08-11T17:07:26+00:00</updated>
+    <content>Surprising you dont actually care… #kanaka #nativetiktok #nativehawaiian #hawaii #maui #stoptourisminhawaii #hawaiitiktok #hawaiian </content>
+    <link href="https://tiktok.com/@kamehalani/video/7266112430449642798" rel="alternate"/>
+    <published>2023-08-11T17:07:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kamehalani/video/7266236299168812330</id>
+    <title>@Sweet Tee has resources and info shared as well. #kanaka #nativetiktok #nativehawaiian #hawaii #maui #stoptourisminhawaii #hawaiitiktok #hawaiian </title>
+    <updated>2023-08-12T01:08:05+00:00</updated>
+    <content>@Sweet Tee has resources and info shared as well. #kanaka #nativetiktok #nativehawaiian #hawaii #maui #stoptourisminhawaii #hawaiitiktok #hawaiian </content>
+    <link href="https://tiktok.com/@kamehalani/video/7266236299168812330" rel="alternate"/>
+    <published>2023-08-12T01:08:05+00:00</published>
   </entry>
 </feed>
