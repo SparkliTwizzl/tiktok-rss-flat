@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-08-12T00:45:37+00:00</updated>
+  <updated>2023-08-12T23:42:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7263604281805262122</id>
-    <title>#solardidsystem #ssquinn #poison </title>
-    <updated>2023-08-04T22:54:35+00:00</updated>
-    <content>#solardidsystem #ssquinn #poison </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7263604281805262122" rel="alternate"/>
-    <published>2023-08-04T22:54:35+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7263865400666901803</id>
-    <title>Brand: Milani Shade: 160 Once Upon A Time #solardidsystem #ssquinn #poison </title>
-    <updated>2023-08-05T15:47:59+00:00</updated>
-    <content>Brand: Milani Shade: 160 Once Upon A Time #solardidsystem #ssquinn #poison </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7263865400666901803" rel="alternate"/>
-    <published>2023-08-05T15:47:59+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7265011028327402795</id>
     <title>Replying to @stuffwithbits #reply Just wanted to add that if you notice a switch and everyone knows we're a system, please ask who is fronting! They will tell you Solar if they don't want to identify themselves. #solardidsystem #ssfletcher </title>
@@ -91,5 +75,21 @@
     <content>#duet with @boot scootin' fruity #sillygooseenergy #solardidsystem #ssvegas #ladybug </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7266230506579266862" rel="alternate"/>
     <published>2023-08-12T00:45:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7266476017290726699</id>
+    <title>Seriously guys, just leave it and we'll probably block them later #solardidsystem #ssperegrine #ssboundaries </title>
+    <updated>2023-08-12T16:38:26+00:00</updated>
+    <content>Seriously guys, just leave it and we'll probably block them later #solardidsystem #ssperegrine #ssboundaries </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7266476017290726699" rel="alternate"/>
+    <published>2023-08-12T16:38:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7266585236513754411</id>
+    <title>My favorite era is 1989, but my favorite song is Anti Hero 🩵💙 #solardidsystem #ssrio #ssupdate </title>
+    <updated>2023-08-12T23:42:09+00:00</updated>
+    <content>My favorite era is 1989, but my favorite song is Anti Hero 🩵💙 #solardidsystem #ssrio #ssupdate </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7266585236513754411" rel="alternate"/>
+    <published>2023-08-12T23:42:09+00:00</published>
   </entry>
 </feed>
