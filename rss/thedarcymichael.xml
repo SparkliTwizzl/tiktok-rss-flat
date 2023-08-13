@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-08-12T22:25:45+00:00</updated>
+  <updated>2023-08-13T15:38:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7259770503857048838</id>
-    <title>The ending I should have seen coming #popquiz #adhd #starterhusband #househusband #marriedlife #couplegoals #funny #fail #funnycouple </title>
-    <updated>2023-07-25T14:57:22+00:00</updated>
-    <content>The ending I should have seen coming #popquiz #adhd #starterhusband #househusband #marriedlife #couplegoals #funny #fail #funnycouple </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7259770503857048838" rel="alternate"/>
-    <published>2023-07-25T14:57:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7260146000671640837</id>
     <title>Follow for more life hacks? </title>
@@ -91,5 +83,13 @@
     <content>⛵️💦</content>
     <link href="https://tiktok.com/@thedarcymichael/video/7266565574711430405" rel="alternate"/>
     <published>2023-08-12T22:25:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7266831785336524038</id>
+    <title>So, when do I start boss? #comedy #sketch #lifehack </title>
+    <updated>2023-08-13T15:38:45+00:00</updated>
+    <content>So, when do I start boss? #comedy #sketch #lifehack </content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7266831785336524038" rel="alternate"/>
+    <published>2023-08-13T15:38:45+00:00</published>
   </entry>
 </feed>
