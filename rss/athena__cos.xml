@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-08-12T20:23:01+00:00</updated>
+  <updated>2023-08-11T20:43:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7256497889441041710</id>
+    <title>Forest druid @Bella LeBaron  slightly emo @Jackie O  fairy barista @🦊prototype fox  #aesthetic #outfits #eachfriendgrouphas #friendgroup #cosplayers </title>
+    <updated>2023-07-16T19:18:07+00:00</updated>
+    <content>Forest druid @Bella LeBaron  slightly emo @Jackie O  fairy barista @🦊prototype fox  #aesthetic #outfits #eachfriendgrouphas #friendgroup #cosplayers </content>
+    <link href="https://tiktok.com/@athena__cos/video/7256497889441041710" rel="alternate"/>
+    <published>2023-07-16T19:18:07+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7257249707679026478</id>
     <title>If i had a nickel….but for real the similarities just keep going 😂 shera is @Bella LeBaron #wonderwoman #sheracosplay #wonderwomancosplay #shera </title>
@@ -83,13 +91,5 @@
     <content>My first timing filming and posting a workout as well as my first leg day in over two weeks!! @VILLAGE HIDDEN IN IRON #demonslayer #animegym #gymtok #womenwholift </content>
     <link href="https://tiktok.com/@athena__cos/video/7266168064268586286" rel="alternate"/>
     <published>2023-08-11T20:43:23+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7266533909096123690</id>
-    <title>Inspired by @TJ version!  #gym #womenwholift </title>
-    <updated>2023-08-12T20:23:01+00:00</updated>
-    <content>Inspired by @TJ version!  #gym #womenwholift </content>
-    <link href="https://tiktok.com/@athena__cos/video/7266533909096123690" rel="alternate"/>
-    <published>2023-08-12T20:23:01+00:00</published>
   </entry>
 </feed>
