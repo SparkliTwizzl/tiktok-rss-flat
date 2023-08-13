@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maruzee_dragon</id>
   <title>@maruzee_dragon | TikTok</title>
-  <updated>2023-08-11T02:07:23+00:00</updated>
+  <updated>2023-08-13T02:36:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maruzee_dragon</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maruzee_dragon/video/7258645940418940166</id>
-    <title>Just a casual transition for today 🤷‍♀️ #blackwidow #marvel #martialarts </title>
-    <updated>2023-07-22T14:13:28+00:00</updated>
-    <content>Just a casual transition for today 🤷‍♀️ #blackwidow #marvel #martialarts </content>
-    <link href="https://tiktok.com/@maruzee_dragon/video/7258645940418940166" rel="alternate"/>
-    <published>2023-07-22T14:13:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maruzee_dragon/video/7259206021229382918</id>
     <title>Obsessed with this purple effect, giving my kicks a whole new vibe!🥷💜 #martialarts #taekwondo #flexible #training #sport #mma</title>
@@ -91,5 +83,13 @@
     <content>Réponse à @xxxv1o  Challenge accepted: Scorpion Kick + fans + transition ✔️. I got a bit inspired by Kitana as well!😅 #transition #mk #skills #videogames </content>
     <link href="https://tiktok.com/@maruzee_dragon/video/7265880516216376581" rel="alternate"/>
     <published>2023-08-11T02:07:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maruzee_dragon/video/7266630296819289350</id>
+    <title>Feels like this template was made just for me, right?🤣🐲#CapCut #template #warriors </title>
+    <updated>2023-08-13T02:36:54+00:00</updated>
+    <content>Feels like this template was made just for me, right?🤣🐲#CapCut #template #warriors </content>
+    <link href="https://tiktok.com/@maruzee_dragon/video/7266630296819289350" rel="alternate"/>
+    <published>2023-08-13T02:36:54+00:00</published>
   </entry>
 </feed>
