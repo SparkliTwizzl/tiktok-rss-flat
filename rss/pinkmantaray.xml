@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pinkmantaray</id>
   <title>@pinkmantaray | TikTok</title>
-  <updated>2023-08-11T00:48:39+00:00</updated>
+  <updated>2023-08-13T00:18:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @pinkmantaray</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pinkmantaray/video/7264325350895766826</id>
-    <title>This swimmer is trying to become a runner! #running #transathlete #bostonhalfmarathon #transman #transrunner #transswimmer </title>
-    <updated>2023-08-06T21:32:41+00:00</updated>
-    <content>This swimmer is trying to become a runner! #running #transathlete #bostonhalfmarathon #transman #transrunner #transswimmer </content>
-    <link href="https://tiktok.com/@pinkmantaray/video/7264325350895766826" rel="alternate"/>
-    <published>2023-08-06T21:32:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pinkmantaray/video/7264358234184600875</id>
     <title>Trans educators have to eat too! And I love banh me 😋 #transgender #trans #banhmi #lunch </title>
@@ -91,5 +83,13 @@
     <content>Finding my groove post college athletics has been a journey! #collegiateathlete #transathlete #mobilitywork #transgender </content>
     <link href="https://tiktok.com/@pinkmantaray/video/7265860215722052910" rel="alternate"/>
     <published>2023-08-11T00:48:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pinkmantaray/video/7266594694979734827</id>
+    <title>I didn't transition out of hatred. I did it because I wanted to love and live here. #transgender #transition #transman #testosterone #hrt </title>
+    <updated>2023-08-13T00:18:56+00:00</updated>
+    <content>I didn't transition out of hatred. I did it because I wanted to love and live here. #transgender #transition #transman #testosterone #hrt </content>
+    <link href="https://tiktok.com/@pinkmantaray/video/7266594694979734827" rel="alternate"/>
+    <published>2023-08-13T00:18:56+00:00</published>
   </entry>
 </feed>
