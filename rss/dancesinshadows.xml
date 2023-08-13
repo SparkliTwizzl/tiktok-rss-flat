@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-08-12T15:47:45+00:00</updated>
+  <updated>2023-08-13T15:01:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7263182999951314182</id>
-    <title>time to say goodbye to blonde Glum. He recently had his hair cut and dyed 😝❤️😅 #glumthesupernaturalhitman #drag  #maladytheclown #dancesinshadows </title>
-    <updated>2023-08-03T19:39:37+00:00</updated>
-    <content>time to say goodbye to blonde Glum. He recently had his hair cut and dyed 😝❤️😅 #glumthesupernaturalhitman #drag  #maladytheclown #dancesinshadows </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7263182999951314182" rel="alternate"/>
-    <published>2023-08-03T19:39:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7263654855791611141</id>
     <title>clean version of my white rabbit from the wonderland apocalypse group I'm working on for #fanexpotoronto ❤️ song @SNOW WIFE   #americanhorrorshow #dancesinshadows #maladytheclown #wonderland </title>
@@ -91,5 +83,13 @@
     <content>I'll be at #fanexpotoronto  all 4 days roaming the floors with friends and family. come say hey if you see me ❤️ #wonderlandcosplay #aliceinwonderland #creepytok </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7266463018031303941" rel="alternate"/>
     <published>2023-08-12T15:47:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7266822082686684421</id>
+    <title>wig made from foam and acrylic paint.  what flavor would you like to see in an upcoming wig?  #handmadewig #maladytheclown #clown</title>
+    <updated>2023-08-13T15:01:06+00:00</updated>
+    <content>wig made from foam and acrylic paint.  what flavor would you like to see in an upcoming wig?  #handmadewig #maladytheclown #clown</content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7266822082686684421" rel="alternate"/>
+    <published>2023-08-13T15:01:06+00:00</published>
   </entry>
 </feed>
