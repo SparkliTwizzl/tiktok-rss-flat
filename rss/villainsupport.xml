@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@villainsupport</id>
   <title>@villainsupport | TikTok</title>
-  <updated>2023-08-11T16:14:17+00:00</updated>
+  <updated>2023-08-13T16:39:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @villainsupport</subtitle>
-  <entry>
-    <id>https://tiktok.com/@villainsupport/video/7263066574104448298</id>
-    <title>[no title]</title>
-    <updated>2023-08-03T12:08:01+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@villainsupport/video/7263066574104448298" rel="alternate"/>
-    <published>2023-08-03T12:08:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@villainsupport/video/7263190669236145451</id>
     <title>Customs Permits #villain #customs #permit #acmetok #acmevillainsupport </title>
@@ -91,5 +83,13 @@
     <content>#broke #vampire #mob #villain #evil #acmetok #acmevillainsupport </content>
     <link href="https://tiktok.com/@villainsupport/video/7266098725582572846" rel="alternate"/>
     <published>2023-08-11T16:14:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@villainsupport/video/7266847362922941738</id>
+    <title>#dragon #mosquito #glitterbomb #villain #evil #acmetok #acmevillainsupport </title>
+    <updated>2023-08-13T16:39:25+00:00</updated>
+    <content>#dragon #mosquito #glitterbomb #villain #evil #acmetok #acmevillainsupport </content>
+    <link href="https://tiktok.com/@villainsupport/video/7266847362922941738" rel="alternate"/>
+    <published>2023-08-13T16:39:25+00:00</published>
   </entry>
 </feed>
