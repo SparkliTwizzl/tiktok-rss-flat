@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@sam_breaking_sad</id>
   <title>@sam_breaking_sad | TikTok</title>
-  <updated>2023-06-25T18:10:50+00:00</updated>
+  <updated>2023-08-12T22:13:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @sam_breaking_sad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@sam_breaking_sad/video/7178203435056024838</id>
-    <title>😼#fyp </title>
-    <updated>2022-12-17T19:35:29+00:00</updated>
-    <content>😼#fyp </content>
-    <link href="https://tiktok.com/@sam_breaking_sad/video/7178203435056024838" rel="alternate"/>
-    <published>2022-12-17T19:35:29+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@sam_breaking_sad/video/7180917974709046533</id>
     <title>Estoy debajo de su árbol #christmas </title>
@@ -91,5 +83,13 @@
     <content>Replying to @Aalegames   </content>
     <link href="https://tiktok.com/@sam_breaking_sad/video/7248687802676808966" rel="alternate"/>
     <published>2023-06-25T18:10:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@sam_breaking_sad/video/7266562414332677382</id>
+    <title>Hey guys 🖤🖤🖤 me extrañaron? #fypシ #inosuke </title>
+    <updated>2023-08-12T22:13:29+00:00</updated>
+    <content>Hey guys 🖤🖤🖤 me extrañaron? #fypシ #inosuke </content>
+    <link href="https://tiktok.com/@sam_breaking_sad/video/7266562414332677382" rel="alternate"/>
+    <published>2023-08-12T22:13:29+00:00</published>
   </entry>
 </feed>
