@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@adriananightmare</id>
   <title>@adriananightmare | TikTok</title>
-  <updated>2023-08-09T03:15:34+00:00</updated>
+  <updated>2023-08-13T21:11:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @adriananightmare</subtitle>
-  <entry>
-    <id>https://tiktok.com/@adriananightmare/video/7254681105268526382</id>
-    <title>tell people you love them. </title>
-    <updated>2023-07-11T21:48:00+00:00</updated>
-    <content>tell people you love them. </content>
-    <link href="https://tiktok.com/@adriananightmare/video/7254681105268526382" rel="alternate"/>
-    <published>2023-07-11T21:48:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@adriananightmare/video/7254969608115850538</id>
-    <title>being present. </title>
-    <updated>2023-07-12T16:27:37+00:00</updated>
-    <content>being present. </content>
-    <link href="https://tiktok.com/@adriananightmare/video/7254969608115850538" rel="alternate"/>
-    <published>2023-07-12T16:27:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@adriananightmare/video/7255009014935719211</id>
     <title>I loved you before this. But I knew I had finally met somebody as wild horse free as me. I'm blessed to know you. #fyp </title>
@@ -91,5 +75,21 @@
     <content>something about being a pianist?</content>
     <link href="https://tiktok.com/@adriananightmare/video/7265155879589121322" rel="alternate"/>
     <published>2023-08-09T03:15:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@adriananightmare/video/7266909305289346347</id>
+    <title>when your joy is "too loud" and you're told to stfu</title>
+    <updated>2023-08-13T20:40:29+00:00</updated>
+    <content>when your joy is "too loud" and you're told to stfu</content>
+    <link href="https://tiktok.com/@adriananightmare/video/7266909305289346347" rel="alternate"/>
+    <published>2023-08-13T20:40:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@adriananightmare/video/7266917378330479918</id>
+    <title>this song will always remind me of you, my wife. my love.</title>
+    <updated>2023-08-13T21:11:06+00:00</updated>
+    <content>this song will always remind me of you, my wife. my love.</content>
+    <link href="https://tiktok.com/@adriananightmare/video/7266917378330479918" rel="alternate"/>
+    <published>2023-08-13T21:11:06+00:00</published>
   </entry>
 </feed>
