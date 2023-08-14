@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-08-12T23:42:09+00:00</updated>
+  <updated>2023-08-14T16:25:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7265011028327402795</id>
-    <title>Replying to @stuffwithbits #reply Just wanted to add that if you notice a switch and everyone knows we're a system, please ask who is fronting! They will tell you Solar if they don't want to identify themselves. #solardidsystem #ssfletcher </title>
-    <updated>2023-08-08T17:53:20+00:00</updated>
-    <content>Replying to @stuffwithbits #reply Just wanted to add that if you notice a switch and everyone knows we're a system, please ask who is fronting! They will tell you Solar if they don't want to identify themselves. #solardidsystem #ssfletcher </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7265011028327402795" rel="alternate"/>
-    <published>2023-08-08T17:53:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7265050943757012267</id>
     <title>what a thing to wake up to #solardidsystem #ssfletcher #doordash #grubhub #postmates #ubereats </title>
@@ -91,5 +83,13 @@
     <content>My favorite era is 1989, but my favorite song is Anti Hero 🩵💙 #solardidsystem #ssrio #ssupdate </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7266585236513754411" rel="alternate"/>
     <published>2023-08-12T23:42:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7267214936391224622</id>
+    <title>#stitch with @Thunderfeather Just got one of those long pieces in Tetris if you know what I mean #solardidsystem #ssrio #ssmidnight </title>
+    <updated>2023-08-14T16:25:49+00:00</updated>
+    <content>#stitch with @Thunderfeather Just got one of those long pieces in Tetris if you know what I mean #solardidsystem #ssrio #ssmidnight </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7267214936391224622" rel="alternate"/>
+    <published>2023-08-14T16:25:49+00:00</published>
   </entry>
 </feed>
