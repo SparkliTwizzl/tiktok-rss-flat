@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-08-13T15:38:45+00:00</updated>
+  <updated>2023-08-14T15:45:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7260146000671640837</id>
-    <title>Follow for more life hacks? </title>
-    <updated>2023-07-26T15:14:29+00:00</updated>
-    <content>Follow for more life hacks? </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7260146000671640837" rel="alternate"/>
-    <published>2023-07-26T15:14:29+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7260518619115965702</id>
     <title>A little throwback thursday for you. #yoga #standup #throwback </title>
@@ -91,5 +83,13 @@
     <content>So, when do I start boss? #comedy #sketch #lifehack </content>
     <link href="https://tiktok.com/@thedarcymichael/video/7266831785336524038" rel="alternate"/>
     <published>2023-08-13T15:38:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7267204732295367941</id>
+    <title>Pride can come in all shapes, sizes and colours of the rainbow (like my Pride outfits!) and it also can come from the actions we take.  Take pride in yourself this year, do something to make yourself feel proud! As for me, I’m celebrating one-year of bein</title>
+    <updated>2023-08-14T15:45:58+00:00</updated>
+    <content>Pride can come in all shapes, sizes and colours of the rainbow (like my Pride outfits!) and it also can come from the actions we take.  Take pride in yourself this year, do something to make yourself feel proud! As for me, I’m celebrating one-year of being smoke-free!  For more tips on how to successfully quit smoking, visit Nicorette.ca or speak to a healthcare provider.     #NICORETTEPartner #SmokeFree #NicoretteCA  Legal Disclaimer: NICORETTE® contains nicotine. Stop smoking aid. Always read and follow the label. </content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7267204732295367941" rel="alternate"/>
+    <published>2023-08-14T15:45:58+00:00</published>
   </entry>
 </feed>
