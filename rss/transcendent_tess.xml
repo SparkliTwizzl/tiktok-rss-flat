@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@transcendent_tess</id>
   <title>@transcendent_tess | TikTok</title>
-  <updated>2023-08-09T18:28:54+00:00</updated>
+  <updated>2023-08-13T18:09:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @transcendent_tess</subtitle>
-  <entry>
-    <id>https://tiktok.com/@transcendent_tess/video/7243551333180099886</id>
-    <title>I don't care if you're depressed, you're gonna feel so much better after! </title>
-    <updated>2023-06-11T21:58:52+00:00</updated>
-    <content>I don't care if you're depressed, you're gonna feel so much better after! </content>
-    <link href="https://tiktok.com/@transcendent_tess/video/7243551333180099886" rel="alternate"/>
-    <published>2023-06-11T21:58:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@transcendent_tess/video/7246769234263444778</id>
     <title>this is my home, what do you think? 😏 #disclaimer #thisisajoke #trucker #truckerlife #trucktok #fyp #funny #lgbt🏳️‍🌈 #alphabetmafia🌈 #trans #transtrucker #mtf #hometour #homerenovation #cribs #parody #adhd #adhdtiktok </title>
@@ -91,5 +83,13 @@
     <content>sometimes I forget who I am after a long night's sleep. 😅 #lgbt🌈 #gendereuphoria #trans #mtf #mtftrans #morningstretch </content>
     <link href="https://tiktok.com/@transcendent_tess/video/7265391251074305326" rel="alternate"/>
     <published>2023-08-09T18:28:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@transcendent_tess/video/7266870531113209134</id>
+    <title>#stitch with @jelical_one ARE. YOU. KIDDING.ME?!?!?!</title>
+    <updated>2023-08-13T18:09:15+00:00</updated>
+    <content>#stitch with @jelical_one ARE. YOU. KIDDING.ME?!?!?!</content>
+    <link href="https://tiktok.com/@transcendent_tess/video/7266870531113209134" rel="alternate"/>
+    <published>2023-08-13T18:09:15+00:00</published>
   </entry>
 </feed>
