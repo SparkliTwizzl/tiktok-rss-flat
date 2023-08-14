@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pinkmantaray</id>
   <title>@pinkmantaray | TikTok</title>
-  <updated>2023-08-13T00:18:56+00:00</updated>
+  <updated>2023-08-14T18:12:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @pinkmantaray</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pinkmantaray/video/7264358234184600875</id>
-    <title>Trans educators have to eat too! And I love banh me 😋 #transgender #trans #banhmi #lunch </title>
-    <updated>2023-08-06T23:40:17+00:00</updated>
-    <content>Trans educators have to eat too! And I love banh me 😋 #transgender #trans #banhmi #lunch </content>
-    <link href="https://tiktok.com/@pinkmantaray/video/7264358234184600875" rel="alternate"/>
-    <published>2023-08-06T23:40:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pinkmantaray/video/7264609270983888170</id>
     <title>Shot day with @FOLX! What day is your shot day? #trans #testosterone #transgender #hrt #genderaffirmingcare #transition </title>
@@ -91,5 +83,13 @@
     <content>I didn't transition out of hatred. I did it because I wanted to love and live here. #transgender #transition #transman #testosterone #hrt </content>
     <link href="https://tiktok.com/@pinkmantaray/video/7266594694979734827" rel="alternate"/>
     <published>2023-08-13T00:18:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pinkmantaray/video/7267242370511441195</id>
+    <title>Saigon Tiger did not disappoint! #transgender #bostonfoodies #transition </title>
+    <updated>2023-08-14T18:12:18+00:00</updated>
+    <content>Saigon Tiger did not disappoint! #transgender #bostonfoodies #transition </content>
+    <link href="https://tiktok.com/@pinkmantaray/video/7267242370511441195" rel="alternate"/>
+    <published>2023-08-14T18:12:18+00:00</published>
   </entry>
 </feed>
