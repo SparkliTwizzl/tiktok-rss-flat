@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@juliafox038711</id>
   <title>@juliafox038711 | TikTok</title>
-  <updated>2023-08-11T19:19:40+00:00</updated>
+  <updated>2023-08-14T00:56:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,38 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juliafox038711</subtitle>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7257877749149224234</id>
-    <title>look at me doing trends </title>
-    <updated>2023-07-20T12:32:40+00:00</updated>
-    <content>look at me doing trends </content>
-    <link href="https://tiktok.com/@juliafox038711/video/7257877749149224234" rel="alternate"/>
-    <published>2023-07-20T12:32:40+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7257883426278149419</id>
-    <title>hot like mexico </title>
-    <updated>2023-07-20T12:54:43+00:00</updated>
-    <content>hot like mexico </content>
-    <link href="https://tiktok.com/@juliafox038711/video/7257883426278149419" rel="alternate"/>
-    <published>2023-07-20T12:54:43+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7258309811270438186</id>
-    <title>drunk legally </title>
-    <updated>2023-07-21T16:29:24+00:00</updated>
-    <content>drunk legally </content>
-    <link href="https://tiktok.com/@juliafox038711/video/7258309811270438186" rel="alternate"/>
-    <published>2023-07-21T16:29:24+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7259462314754067754</id>
-    <title>#CapCut i thiught this trend was cute</title>
-    <updated>2023-07-24T19:01:36+00:00</updated>
-    <content>#CapCut i thiught this trend was cute</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7259462314754067754" rel="alternate"/>
-    <published>2023-07-24T19:01:36+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@juliafox038711/video/7260939538028121386</id>
     <title>#CapCut im having way too much fun with using templates to make myself feel cool </title>
@@ -59,6 +27,14 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@juliafox038711/video/7260952539821002027" rel="alternate"/>
     <published>2023-07-28T19:24:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7260956414150217006</id>
+    <title>pov - me in middle school </title>
+    <updated>2023-07-28T19:39:31+00:00</updated>
+    <content>pov - me in middle school </content>
+    <link href="https://tiktok.com/@juliafox038711/video/7260956414150217006" rel="alternate"/>
+    <published>2023-07-28T19:39:31+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@juliafox038711/video/7261669805122506027</id>
@@ -91,5 +67,29 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@juliafox038711/video/7266146506657254698" rel="alternate"/>
     <published>2023-08-11T19:19:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7266953423856143658</id>
+    <title>idk, i feel like o always look like im smilling or on the verge of a mental breakdown </title>
+    <updated>2023-08-13T23:30:55+00:00</updated>
+    <content>idk, i feel like o always look like im smilling or on the verge of a mental breakdown </content>
+    <link href="https://tiktok.com/@juliafox038711/video/7266953423856143658" rel="alternate"/>
+    <published>2023-08-13T23:30:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7266968890838617390</id>
+    <title>fake hair make me feel prwtty</title>
+    <updated>2023-08-14T00:30:54+00:00</updated>
+    <content>fake hair make me feel prwtty</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7266968890838617390" rel="alternate"/>
+    <published>2023-08-14T00:30:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7266975534880427307</id>
+    <title>i put on foundation for the first time in like 4 months, wanted to take part in this trend </title>
+    <updated>2023-08-14T00:56:44+00:00</updated>
+    <content>i put on foundation for the first time in like 4 months, wanted to take part in this trend </content>
+    <link href="https://tiktok.com/@juliafox038711/video/7266975534880427307" rel="alternate"/>
+    <published>2023-08-14T00:56:44+00:00</published>
   </entry>
 </feed>
