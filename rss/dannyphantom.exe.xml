@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dannyphantom.exe</id>
   <title>@dannyphantom.exe | TikTok</title>
-  <updated>2023-08-12T02:15:16+00:00</updated>
+  <updated>2023-08-14T02:16:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dannyphantom.exe</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7263657319861374250</id>
-    <title>tag someone who “loves” aliens</title>
-    <updated>2023-08-05T02:20:20+00:00</updated>
-    <content>tag someone who “loves” aliens</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7263657319861374250" rel="alternate"/>
-    <published>2023-08-05T02:20:20+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7264034982660771114</id>
-    <title>tag ur beat friend</title>
-    <updated>2023-08-06T02:45:52+00:00</updated>
-    <content>tag ur beat friend</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7264034982660771114" rel="alternate"/>
-    <published>2023-08-06T02:45:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7264769328149548334</id>
-    <title>i was there when the texts were written</title>
-    <updated>2023-08-08T02:15:26+00:00</updated>
-    <content>i was there when the texts were written</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7264769328149548334" rel="alternate"/>
-    <published>2023-08-08T02:15:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dannyphantom.exe/video/7264769674381102382</id>
     <title>@Offbeat Outlaw @Matt give me my cheese</title>
@@ -91,5 +67,29 @@
     <content>so glad I don’t have to go to school anymore </content>
     <link href="https://tiktok.com/@dannyphantom.exe/video/7266253616162278699" rel="alternate"/>
     <published>2023-08-12T02:15:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7266995804643151146</id>
+    <title>tag someone who’d send this message</title>
+    <updated>2023-08-14T02:15:28+00:00</updated>
+    <content>tag someone who’d send this message</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7266995804643151146" rel="alternate"/>
+    <published>2023-08-14T02:15:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7266995874847411499</id>
+    <title>never getting iver the last photo</title>
+    <updated>2023-08-14T02:15:36+00:00</updated>
+    <content>never getting iver the last photo</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7266995874847411499" rel="alternate"/>
+    <published>2023-08-14T02:15:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7266996170411527466</id>
+    <title>tag someone who likes Asterion</title>
+    <updated>2023-08-14T02:16:49+00:00</updated>
+    <content>tag someone who likes Asterion</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7266996170411527466" rel="alternate"/>
+    <published>2023-08-14T02:16:49+00:00</published>
   </entry>
 </feed>
