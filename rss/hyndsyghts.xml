@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@hyndsyghts</id>
   <title>@hyndsyghts | TikTok</title>
-  <updated>2023-08-02T00:11:08+00:00</updated>
+  <updated>2023-08-13T18:08:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @hyndsyghts</subtitle>
-  <entry>
-    <id>https://tiktok.com/@hyndsyghts/video/7252411768914545966</id>
-    <title>it works tho #motionsickness </title>
-    <updated>2023-07-05T19:01:49+00:00</updated>
-    <content>it works tho #motionsickness </content>
-    <link href="https://tiktok.com/@hyndsyghts/video/7252411768914545966" rel="alternate"/>
-    <published>2023-07-05T19:01:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@hyndsyghts/video/7253127729279683883</id>
     <title>always something huh #gratitude #lgbtq </title>
@@ -91,5 +83,13 @@
     <content>everyone's avoiding something #lgbtq </content>
     <link href="https://tiktok.com/@hyndsyghts/video/7262510762462154027" rel="alternate"/>
     <published>2023-08-02T00:11:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@hyndsyghts/video/7266870323033673002</id>
+    <title>like don't get a plant or google is free yk #lgbtq #plants </title>
+    <updated>2023-08-13T18:08:26+00:00</updated>
+    <content>like don't get a plant or google is free yk #lgbtq #plants </content>
+    <link href="https://tiktok.com/@hyndsyghts/video/7266870323033673002" rel="alternate"/>
+    <published>2023-08-13T18:08:26+00:00</published>
   </entry>
 </feed>
