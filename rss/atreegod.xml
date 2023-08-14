@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@atreegod</id>
   <title>@atreegod | TikTok</title>
-  <updated>2023-08-13T17:11:06+00:00</updated>
+  <updated>2023-08-14T01:40:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @atreegod</subtitle>
-  <entry>
-    <id>https://tiktok.com/@atreegod/video/7262824865227410731</id>
-    <title>A touch me not tale pt 2 #wlw </title>
-    <updated>2023-08-02T20:29:56+00:00</updated>
-    <content>A touch me not tale pt 2 #wlw </content>
-    <link href="https://tiktok.com/@atreegod/video/7262824865227410731" rel="alternate"/>
-    <published>2023-08-02T20:29:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@atreegod/video/7263208955961265451</id>
     <title>I dont post this stuff much but I wrote this! I thought ab the girl this is ab today and decided to sing it again. Ill probably end up deleting this but 🥂</title>
@@ -91,5 +83,13 @@
     <content>Evening ladies and other ladies #wlw #lgbtq #nyc </content>
     <link href="https://tiktok.com/@atreegod/video/7266855548216200491" rel="alternate"/>
     <published>2023-08-13T17:11:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7266986896771861803</id>
+    <title>I wasnt done‼️‼️ #wlw #lgbtq </title>
+    <updated>2023-08-14T01:40:49+00:00</updated>
+    <content>I wasnt done‼️‼️ #wlw #lgbtq </content>
+    <link href="https://tiktok.com/@atreegod/video/7266986896771861803" rel="alternate"/>
+    <published>2023-08-14T01:40:49+00:00</published>
   </entry>
 </feed>
