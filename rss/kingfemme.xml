@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kingfemme</id>
   <title>@kingfemme | TikTok</title>
-  <updated>2023-08-14T19:14:53+00:00</updated>
+  <updated>2023-08-15T18:45:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kingfemme</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kingfemme/video/7252820341070826798</id>
-    <title>Anyone else? #fyp #trans #hrt #topsurgery #ftm #mtf #nonbinary </title>
-    <updated>2023-07-06T21:27:14+00:00</updated>
-    <content>Anyone else? #fyp #trans #hrt #topsurgery #ftm #mtf #nonbinary </content>
-    <link href="https://tiktok.com/@kingfemme/video/7252820341070826798" rel="alternate"/>
-    <published>2023-07-06T21:27:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kingfemme/video/7255003789449792814</id>
     <title>Hmmmm i have some thoughts #fyp #lgbt #trans #hrt #ftm #nonbinary </title>
@@ -91,5 +83,13 @@
     <content>#fyp #lgbt #femme #makeup #trans #nonbinary #ftm #gendernonconforming </content>
     <link href="https://tiktok.com/@kingfemme/video/7267258518707719466" rel="alternate"/>
     <published>2023-08-14T19:14:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kingfemme/video/7267621943208185131</id>
+    <title>#stitch with @alex renee #fyp #lgbt #trans #handshake #ftm #nonbinary #transmasc </title>
+    <updated>2023-08-15T18:45:05+00:00</updated>
+    <content>#stitch with @alex renee #fyp #lgbt #trans #handshake #ftm #nonbinary #transmasc </content>
+    <link href="https://tiktok.com/@kingfemme/video/7267621943208185131" rel="alternate"/>
+    <published>2023-08-15T18:45:05+00:00</published>
   </entry>
 </feed>
