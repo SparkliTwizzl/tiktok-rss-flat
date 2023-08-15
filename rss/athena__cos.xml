@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-08-12T20:23:01+00:00</updated>
+  <updated>2023-08-14T21:01:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7257249707679026478</id>
-    <title>If i had a nickel….but for real the similarities just keep going 😂 shera is @Bella LeBaron #wonderwoman #sheracosplay #wonderwomancosplay #shera </title>
-    <updated>2023-07-18T19:55:30+00:00</updated>
-    <content>If i had a nickel….but for real the similarities just keep going 😂 shera is @Bella LeBaron #wonderwoman #sheracosplay #wonderwomancosplay #shera </content>
-    <link href="https://tiktok.com/@athena__cos/video/7257249707679026478" rel="alternate"/>
-    <published>2023-07-18T19:55:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7258431787389472043</id>
     <title>AD: Download Lord of the Rings: Heroes of Middle-earth for free using the link in my bio! @LOTRHeroes  #LOTR #HeroesofMiddleEarth #LooksofMiddleEarth</title>
@@ -91,5 +83,13 @@
     <content>Inspired by @TJ version!  #gym #womenwholift </content>
     <link href="https://tiktok.com/@athena__cos/video/7266533909096123690" rel="alternate"/>
     <published>2023-08-12T20:23:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7267285998357220651</id>
+    <title>Not me simping for @Bella LeBaron s Shera when she starts that runway walk 😭🤌🏻🫡  #sheracosplay #wonderwomancosplay #wlwcosplay </title>
+    <updated>2023-08-14T21:01:29+00:00</updated>
+    <content>Not me simping for @Bella LeBaron s Shera when she starts that runway walk 😭🤌🏻🫡  #sheracosplay #wonderwomancosplay #wlwcosplay </content>
+    <link href="https://tiktok.com/@athena__cos/video/7267285998357220651" rel="alternate"/>
+    <published>2023-08-14T21:01:29+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@atreegod</id>
   <title>@atreegod | TikTok</title>
-  <updated>2023-08-14T01:40:49+00:00</updated>
+  <updated>2023-08-15T02:03:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @atreegod</subtitle>
-  <entry>
-    <id>https://tiktok.com/@atreegod/video/7263208955961265451</id>
-    <title>I dont post this stuff much but I wrote this! I thought ab the girl this is ab today and decided to sing it again. Ill probably end up deleting this but 🥂</title>
-    <updated>2023-08-03T21:20:29+00:00</updated>
-    <content>I dont post this stuff much but I wrote this! I thought ab the girl this is ab today and decided to sing it again. Ill probably end up deleting this but 🥂</content>
-    <link href="https://tiktok.com/@atreegod/video/7263208955961265451" rel="alternate"/>
-    <published>2023-08-03T21:20:29+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@atreegod/video/7263711240432717098</id>
-    <title>This but roles reversed #wlw #lgbtq</title>
-    <updated>2023-08-05T05:49:46+00:00</updated>
-    <content>This but roles reversed #wlw #lgbtq</content>
-    <link href="https://tiktok.com/@atreegod/video/7263711240432717098" rel="alternate"/>
-    <published>2023-08-05T05:49:46+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@atreegod/video/7263973799366905131</id>
     <title>Bi-monthky unbearable thirstrap #wlw #lgbtq </title>
@@ -91,5 +75,21 @@
     <content>I wasnt done‼️‼️ #wlw #lgbtq </content>
     <link href="https://tiktok.com/@atreegod/video/7266986896771861803" rel="alternate"/>
     <published>2023-08-14T01:40:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7267316999636749610</id>
+    <title>Banshee &lt;3 #wlw </title>
+    <updated>2023-08-14T23:01:49+00:00</updated>
+    <content>Banshee &lt;3 #wlw </content>
+    <link href="https://tiktok.com/@atreegod/video/7267316999636749610" rel="alternate"/>
+    <published>2023-08-14T23:01:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7267363787936730414</id>
+    <title>I have a stye :(( im 21 in two hours omg #wlw #lg </title>
+    <updated>2023-08-15T02:03:17+00:00</updated>
+    <content>I have a stye :(( im 21 in two hours omg #wlw #lg </content>
+    <link href="https://tiktok.com/@atreegod/video/7267363787936730414" rel="alternate"/>
+    <published>2023-08-15T02:03:17+00:00</published>
   </entry>
 </feed>
