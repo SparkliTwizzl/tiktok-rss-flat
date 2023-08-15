@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@charlesthegr8</id>
   <title>@charlesthegr8 | TikTok</title>
-  <updated>2023-08-14T18:57:19+00:00</updated>
+  <updated>2023-08-15T12:12:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @charlesthegr8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7257649082124995883</id>
-    <title>Music to me ears 😏 #iykyk #relationship #charlesthegr8 </title>
-    <updated>2023-07-19T21:45:19+00:00</updated>
-    <content>Music to me ears 😏 #iykyk #relationship #charlesthegr8 </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7257649082124995883" rel="alternate"/>
-    <published>2023-07-19T21:45:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@charlesthegr8/video/7259911383087582507</id>
     <title>You can’t hurt an overthinker!!! 🤔 #iykyk #charlesthegr8 #relationship </title>
@@ -91,5 +83,13 @@
     <content>Watch with headphones 🎧                        Twitch: Charlesthegr8_   #iykyk #anime #charlesthegr8 #community </content>
     <link href="https://tiktok.com/@charlesthegr8/video/7267253956680764714" rel="alternate"/>
     <published>2023-08-14T18:57:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7267520668990885166</id>
+    <title>Always gotta stick up for the people you care about!!! 😤 #iykyk #relationship #charlesthegr8 </title>
+    <updated>2023-08-15T12:12:08+00:00</updated>
+    <content>Always gotta stick up for the people you care about!!! 😤 #iykyk #relationship #charlesthegr8 </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7267520668990885166" rel="alternate"/>
+    <published>2023-08-15T12:12:08+00:00</published>
   </entry>
 </feed>
