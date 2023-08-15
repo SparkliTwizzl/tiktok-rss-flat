@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@itspeachyfr</id>
   <title>@itspeachyfr | TikTok</title>
-  <updated>2023-08-14T18:04:55+00:00</updated>
+  <updated>2023-08-14T17:52:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @itspeachyfr</subtitle>
+  <entry>
+    <id>https://tiktok.com/@itspeachyfr/video/7257954945016745262</id>
+    <title>Getting my whiteboy boogie on #gowhiteboygo </title>
+    <updated>2023-07-20T17:32:10+00:00</updated>
+    <content>Getting my whiteboy boogie on #gowhiteboygo </content>
+    <link href="https://tiktok.com/@itspeachyfr/video/7257954945016745262" rel="alternate"/>
+    <published>2023-07-20T17:32:10+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@itspeachyfr/video/7257966587884457262</id>
     <title>turn my head so fast i get whiplash </title>
@@ -83,13 +91,5 @@
     <content>no way bro</content>
     <link href="https://tiktok.com/@itspeachyfr/video/7267237365054328110" rel="alternate"/>
     <published>2023-08-14T17:52:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@itspeachyfr/video/7267240476565097770</id>
-    <title>[no title]</title>
-    <updated>2023-08-14T18:04:55+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@itspeachyfr/video/7267240476565097770" rel="alternate"/>
-    <published>2023-08-14T18:04:55+00:00</published>
   </entry>
 </feed>
