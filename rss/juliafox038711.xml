@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@juliafox038711</id>
   <title>@juliafox038711 | TikTok</title>
-  <updated>2023-08-14T09:15:22+00:00</updated>
+  <updated>2023-08-15T01:32:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,38 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juliafox038711</subtitle>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7260956414150217006</id>
-    <title>pov - me in middle school </title>
-    <updated>2023-07-28T19:39:31+00:00</updated>
-    <content>pov - me in middle school </content>
-    <link href="https://tiktok.com/@juliafox038711/video/7260956414150217006" rel="alternate"/>
-    <published>2023-07-28T19:39:31+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7261669805122506027</id>
-    <title>well aware its not a sleeve YET, ive just started this year but i love🤭🤭🤭</title>
-    <updated>2023-07-30T17:47:53+00:00</updated>
-    <content>well aware its not a sleeve YET, ive just started this year but i love🤭🤭🤭</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7261669805122506027" rel="alternate"/>
-    <published>2023-07-30T17:47:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7262806962591567147</id>
-    <title>#thescrew i win</title>
-    <updated>2023-08-02T19:20:27+00:00</updated>
-    <content>#thescrew i win</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7262806962591567147" rel="alternate"/>
-    <published>2023-08-02T19:20:27+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7266141241320934698</id>
-    <title>#CapCut these have been all OVER my fyp</title>
-    <updated>2023-08-11T18:59:17+00:00</updated>
-    <content>#CapCut these have been all OVER my fyp</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7266141241320934698" rel="alternate"/>
-    <published>2023-08-11T18:59:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@juliafox038711/video/7266146506657254698</id>
     <title>[no title]</title>
@@ -91,5 +59,37 @@
     <content>movie is so close 🤞🤞🤞</content>
     <link href="https://tiktok.com/@juliafox038711/video/7267103865118395690" rel="alternate"/>
     <published>2023-08-14T09:15:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7267348117358382378</id>
+    <title>Replying to @Daawee had me ded</title>
+    <updated>2023-08-15T01:02:31+00:00</updated>
+    <content>Replying to @Daawee had me ded</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7267348117358382378" rel="alternate"/>
+    <published>2023-08-15T01:02:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7267350208164416810</id>
+    <title>i actually love my hair currently </title>
+    <updated>2023-08-15T01:10:37+00:00</updated>
+    <content>i actually love my hair currently </content>
+    <link href="https://tiktok.com/@juliafox038711/video/7267350208164416810" rel="alternate"/>
+    <published>2023-08-15T01:10:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7267352361193033003</id>
+    <title>[no title]</title>
+    <updated>2023-08-15T01:19:02+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7267352361193033003" rel="alternate"/>
+    <published>2023-08-15T01:19:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7267355798626422059</id>
+    <title>like i cannot wait untill my next one</title>
+    <updated>2023-08-15T01:32:21+00:00</updated>
+    <content>like i cannot wait untill my next one</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7267355798626422059" rel="alternate"/>
+    <published>2023-08-15T01:32:21+00:00</published>
   </entry>
 </feed>
