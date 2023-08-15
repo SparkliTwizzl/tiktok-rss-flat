@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-08-14T18:16:14+00:00</updated>
+  <updated>2023-08-15T00:20:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7266188853399047470</id>
-    <title>#stitch with @Stephen Hilton I thought you were trying to be a better person. I guess we'll just both have to be disappointed in each other then. #ssvegas #solardidsystem </title>
-    <updated>2023-08-11T22:04:01+00:00</updated>
-    <content>#stitch with @Stephen Hilton I thought you were trying to be a better person. I guess we'll just both have to be disappointed in each other then. #ssvegas #solardidsystem </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7266188853399047470" rel="alternate"/>
-    <published>2023-08-11T22:04:01+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7266222840351821098</id>
-    <title>[no title]</title>
-    <updated>2023-08-12T00:15:54+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7266222840351821098" rel="alternate"/>
-    <published>2023-08-12T00:15:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7266230506579266862</id>
     <title>#duet with @boot scootin' fruity #sillygooseenergy #solardidsystem #ssvegas #ladybug </title>
@@ -91,5 +75,21 @@
     <content>#duet with @Kya&amp;Co | DID &amp; Mental Health #didsystem here for you 💝 #solardidsystem #ssrio #ssduets </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7267243388355874091" rel="alternate"/>
     <published>2023-08-14T18:16:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7267313913744690478</id>
+    <title>You may not be abusive and you may not have been directly abused but your religion is absolutely abusive. #solardidsystem #ssquinn </title>
+    <updated>2023-08-14T22:49:45+00:00</updated>
+    <content>You may not be abusive and you may not have been directly abused but your religion is absolutely abusive. #solardidsystem #ssquinn </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7267313913744690478" rel="alternate"/>
+    <published>2023-08-14T22:49:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7267337145394793771</id>
+    <title>Lost the comment but someone asked for an update. Here is everyone's name, pronouns, primary role (we typically have more than one), and age. Please note that we do not share littles' ages or how many we have in order to protect them. We also do not share</title>
+    <updated>2023-08-15T00:20:02+00:00</updated>
+    <content>Lost the comment but someone asked for an update. Here is everyone's name, pronouns, primary role (we typically have more than one), and age. Please note that we do not share littles' ages or how many we have in order to protect them. We also do not share how many alters we have to protect those who do not want to be known. Please also keep in mind that our system changes pretty regularly so this may be outdated by tomorrow. #solardidsystem #dissociativeidentitydisorder #systemupdate </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7267337145394793771" rel="alternate"/>
+    <published>2023-08-15T00:20:02+00:00</published>
   </entry>
 </feed>
