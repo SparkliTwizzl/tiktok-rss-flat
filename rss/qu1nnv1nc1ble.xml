@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@qu1nnv1nc1ble</id>
   <title>@qu1nnv1nc1ble | TikTok</title>
-  <updated>2023-08-13T21:42:45+00:00</updated>
+  <updated>2023-08-15T13:45:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @qu1nnv1nc1ble</subtitle>
-  <entry>
-    <id>https://tiktok.com/@qu1nnv1nc1ble/video/7262172705267436843</id>
-    <title>I was making sure the transition would work/flow, so I could use it later and got this! Why couldn’t I hit this in costume 😮‍💨😩 </title>
-    <updated>2023-08-01T02:19:19+00:00</updated>
-    <content>I was making sure the transition would work/flow, so I could use it later and got this! Why couldn’t I hit this in costume 😮‍💨😩 </content>
-    <link href="https://tiktok.com/@qu1nnv1nc1ble/video/7262172705267436843" rel="alternate"/>
-    <published>2023-08-01T02:19:19+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@qu1nnv1nc1ble/video/7262502851820162347</id>
-    <title>☝️🗓️✨| #firstofthemonth #goodvibes </title>
-    <updated>2023-08-01T23:40:26+00:00</updated>
-    <content>☝️🗓️✨| #firstofthemonth #goodvibes </content>
-    <link href="https://tiktok.com/@qu1nnv1nc1ble/video/7262502851820162347" rel="alternate"/>
-    <published>2023-08-01T23:40:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@qu1nnv1nc1ble/video/7262878384370371882</id>
     <title>Dont mind me, just vibin  #tearsforfears #goodvibes #cute #jamin #fyp </title>
@@ -91,5 +75,21 @@
     <content>Who’s gunna tell him? </content>
     <link href="https://tiktok.com/@qu1nnv1nc1ble/video/7266925555411373358" rel="alternate"/>
     <published>2023-08-13T21:42:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@qu1nnv1nc1ble/video/7267372034668154154</id>
+    <title>What are all those muscles even for anyway 😤 #flirt #bro #bromance #muscles #dudesbeingdudes #prettyboy #alpha </title>
+    <updated>2023-08-15T02:35:20+00:00</updated>
+    <content>What are all those muscles even for anyway 😤 #flirt #bro #bromance #muscles #dudesbeingdudes #prettyboy #alpha </content>
+    <link href="https://tiktok.com/@qu1nnv1nc1ble/video/7267372034668154154" rel="alternate"/>
+    <published>2023-08-15T02:35:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@qu1nnv1nc1ble/video/7267544675421162798</id>
+    <title>*insert caption here*</title>
+    <updated>2023-08-15T13:45:19+00:00</updated>
+    <content>*insert caption here*</content>
+    <link href="https://tiktok.com/@qu1nnv1nc1ble/video/7267544675421162798" rel="alternate"/>
+    <published>2023-08-15T13:45:19+00:00</published>
   </entry>
 </feed>
