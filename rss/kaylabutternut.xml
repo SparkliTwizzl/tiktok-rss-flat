@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-08-13T00:29:52+00:00</updated>
+  <updated>2023-08-16T03:07:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7265067648797592878</id>
-    <title>I missed this skirt</title>
-    <updated>2023-08-08T21:33:05+00:00</updated>
-    <content>I missed this skirt</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7265067648797592878" rel="alternate"/>
-    <published>2023-08-08T21:33:05+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7265072304579677482</id>
-    <title>No way she brought back the dress AND the sound</title>
-    <updated>2023-08-08T21:51:07+00:00</updated>
-    <content>No way she brought back the dress AND the sound</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7265072304579677482" rel="alternate"/>
-    <published>2023-08-08T21:51:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7265077753903582510</id>
     <title>I wonder how kesha is doing</title>
@@ -91,5 +75,21 @@
     <content>#onthisday should i remake this in my new house </content>
     <link href="https://tiktok.com/@kaylabutternut/video/7266597541699931435" rel="alternate"/>
     <published>2023-08-13T00:29:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7267750338264894763</id>
+    <title>Glasses on or off</title>
+    <updated>2023-08-16T03:03:20+00:00</updated>
+    <content>Glasses on or off</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7267750338264894763" rel="alternate"/>
+    <published>2023-08-16T03:03:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7267751474015374638</id>
+    <title>Cowboy hat in the back</title>
+    <updated>2023-08-16T03:07:47+00:00</updated>
+    <content>Cowboy hat in the back</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7267751474015374638" rel="alternate"/>
+    <published>2023-08-16T03:07:47+00:00</published>
   </entry>
 </feed>

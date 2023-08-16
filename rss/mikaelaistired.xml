@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@mikaelaistired</id>
   <title>@mikaelaistired | TikTok</title>
-  <updated>2023-08-14T17:26:16+00:00</updated>
+  <updated>2023-08-15T18:44:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @mikaelaistired</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mikaelaistired/video/7264275416242785578</id>
-    <title>I see you there</title>
-    <updated>2023-08-06T18:18:52+00:00</updated>
-    <content>I see you there</content>
-    <link href="https://tiktok.com/@mikaelaistired/video/7264275416242785578" rel="alternate"/>
-    <published>2023-08-06T18:18:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mikaelaistired/video/7264644008159317291</id>
     <title>Im nervous okay </title>
@@ -91,5 +83,13 @@
     <content>Not what i had planned for today but very important </content>
     <link href="https://tiktok.com/@mikaelaistired/video/7267230503969836331" rel="alternate"/>
     <published>2023-08-14T17:26:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mikaelaistired/video/7267621885909667115</id>
+    <title>The short version</title>
+    <updated>2023-08-15T18:44:50+00:00</updated>
+    <content>The short version</content>
+    <link href="https://tiktok.com/@mikaelaistired/video/7267621885909667115" rel="alternate"/>
+    <published>2023-08-15T18:44:50+00:00</published>
   </entry>
 </feed>
