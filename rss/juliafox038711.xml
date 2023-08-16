@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@juliafox038711</id>
   <title>@juliafox038711 | TikTok</title>
-  <updated>2023-08-15T01:32:21+00:00</updated>
+  <updated>2023-08-16T07:27:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juliafox038711</subtitle>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7266141241320934698</id>
-    <title>#CapCut these have been all OVER my fyp</title>
-    <updated>2023-08-11T18:59:17+00:00</updated>
-    <content>#CapCut these have been all OVER my fyp</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7266141241320934698" rel="alternate"/>
-    <published>2023-08-11T18:59:17+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7266146506657254698</id>
-    <title>[no title]</title>
-    <updated>2023-08-11T19:19:40+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7266146506657254698" rel="alternate"/>
-    <published>2023-08-11T19:19:40+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7266953423856143658</id>
-    <title>idk, i feel like o always look like im smilling or on the verge of a mental breakdown </title>
-    <updated>2023-08-13T23:30:55+00:00</updated>
-    <content>idk, i feel like o always look like im smilling or on the verge of a mental breakdown </content>
-    <link href="https://tiktok.com/@juliafox038711/video/7266953423856143658" rel="alternate"/>
-    <published>2023-08-13T23:30:55+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@juliafox038711/video/7266968890838617390</id>
     <title>fake hair make me feel prwtty</title>
@@ -91,5 +67,29 @@
     <content>like i cannot wait untill my next one</content>
     <link href="https://tiktok.com/@juliafox038711/video/7267355798626422059" rel="alternate"/>
     <published>2023-08-15T01:32:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7267795377422601514</id>
+    <title>to update you guys, my account is slowly coming back to life😚</title>
+    <updated>2023-08-16T05:58:25+00:00</updated>
+    <content>to update you guys, my account is slowly coming back to life😚</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7267795377422601514" rel="alternate"/>
+    <published>2023-08-16T05:58:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7267798768454536491</id>
+    <title>🤞🤞</title>
+    <updated>2023-08-16T06:11:37+00:00</updated>
+    <content>🤞🤞</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7267798768454536491" rel="alternate"/>
+    <published>2023-08-16T06:11:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7267818090434546987</id>
+    <title>cant fall asleep cuz i start my 3rd semester in a week😀 not excited </title>
+    <updated>2023-08-16T07:27:14+00:00</updated>
+    <content>cant fall asleep cuz i start my 3rd semester in a week😀 not excited </content>
+    <link href="https://tiktok.com/@juliafox038711/video/7267818090434546987" rel="alternate"/>
+    <published>2023-08-16T07:27:14+00:00</published>
   </entry>
 </feed>
