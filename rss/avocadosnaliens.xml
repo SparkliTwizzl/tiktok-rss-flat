@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avocadosnaliens</id>
   <title>@avocadosnaliens | TikTok</title>
-  <updated>2023-08-15T19:00:45+00:00</updated>
+  <updated>2023-08-16T04:41:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avocadosnaliens</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avocadosnaliens/video/7262826315336863022</id>
-    <title>[no title]</title>
-    <updated>2023-08-02T20:35:36+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@avocadosnaliens/video/7262826315336863022" rel="alternate"/>
-    <published>2023-08-02T20:35:36+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avocadosnaliens/video/7262954380255579438</id>
     <title>[no title]</title>
@@ -91,5 +83,13 @@
     <content>#onthisday </content>
     <link href="https://tiktok.com/@avocadosnaliens/video/7267625980137704746" rel="alternate"/>
     <published>2023-08-15T19:00:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7267775706946342190</id>
+    <title>Ah yes the infamous mouth boy </title>
+    <updated>2023-08-16T04:41:54+00:00</updated>
+    <content>Ah yes the infamous mouth boy </content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7267775706946342190" rel="alternate"/>
+    <published>2023-08-16T04:41:54+00:00</published>
   </entry>
 </feed>
