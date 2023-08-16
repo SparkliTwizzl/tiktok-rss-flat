@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-08-14T17:04:02+00:00</updated>
+  <updated>2023-08-15T16:22:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7263863406019497222</id>
-    <title>cleaning up the draft folder again... #dancesinshadows #glumthesupernaturalhitman #drag #skeleton </title>
-    <updated>2023-08-05T15:39:55+00:00</updated>
-    <content>cleaning up the draft folder again... #dancesinshadows #glumthesupernaturalhitman #drag #skeleton </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7263863406019497222" rel="alternate"/>
-    <published>2023-08-05T15:39:55+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7263881237348076805</id>
     <title>As wonderland lay in waste and ruin, the Mad Hatter quickly got to work piecing the other wonderland characters back together. The Queen needs her court after all. #dancesinshadows #wonderland #maladytheclown #wonderlandcostumes </title>
@@ -91,5 +83,13 @@
     <content>#duet with @DancesinShadows  I have two sides, the calm collected one, and the chaotic creative side. 😅#maladytheclown  #maladyandglum #adhd #neurodivergent </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7267224839134530821" rel="alternate"/>
     <published>2023-08-14T17:04:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7267585274186583302</id>
+    <title>feel free to duet. I confuse alot of people with my gender fluidity, and as a result, have heard some pretty unbelievable things about myself.  😅 #glumthesupernaturalhitman #mindyourbusiness #genderfluid </title>
+    <updated>2023-08-15T16:22:40+00:00</updated>
+    <content>feel free to duet. I confuse alot of people with my gender fluidity, and as a result, have heard some pretty unbelievable things about myself.  😅 #glumthesupernaturalhitman #mindyourbusiness #genderfluid </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7267585274186583302" rel="alternate"/>
+    <published>2023-08-15T16:22:40+00:00</published>
   </entry>
 </feed>
