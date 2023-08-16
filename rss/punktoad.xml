@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-08-15T16:19:24+00:00</updated>
+  <updated>2023-08-16T15:38:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7264198683300728107</id>
-    <title>Where did he come from? Where did he go? If you have more information please call </title>
-    <updated>2023-08-06T13:21:19+00:00</updated>
-    <content>Where did he come from? Where did he go? If you have more information please call </content>
-    <link href="https://tiktok.com/@punktoad/video/7264198683300728107" rel="alternate"/>
-    <published>2023-08-06T13:21:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7264785838805093675</id>
     <title>And I never looked back </title>
@@ -91,5 +83,13 @@
     <content>Y’all tryin Jack’s Beans? #beans </content>
     <link href="https://tiktok.com/@punktoad/video/7267584395379363115" rel="alternate"/>
     <published>2023-08-15T16:19:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7267945000053378347</id>
+    <title>And leave a review? #truecrimepodcast </title>
+    <updated>2023-08-16T15:38:44+00:00</updated>
+    <content>And leave a review? #truecrimepodcast </content>
+    <link href="https://tiktok.com/@punktoad/video/7267945000053378347" rel="alternate"/>
+    <published>2023-08-16T15:38:44+00:00</published>
   </entry>
 </feed>
