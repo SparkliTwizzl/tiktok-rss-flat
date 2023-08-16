@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ailaughatmyownjokes</id>
   <title>@ailaughatmyownjokes | TikTok</title>
-  <updated>2023-08-13T15:51:58+00:00</updated>
+  <updated>2023-08-16T18:30:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ailaughatmyownjokes</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ailaughatmyownjokes/video/7254574621335293210</id>
-    <title>It's on them. They hired me.  #skit #comedy </title>
-    <updated>2023-07-11T14:54:44+00:00</updated>
-    <content>It's on them. They hired me.  #skit #comedy </content>
-    <link href="https://tiktok.com/@ailaughatmyownjokes/video/7254574621335293210" rel="alternate"/>
-    <published>2023-07-11T14:54:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ailaughatmyownjokes/video/7257190223153614106</id>
     <title>My client is going to prison👍🏻 #skit #comedy </title>
@@ -91,5 +83,13 @@
     <content>I'd be such a silly goofy 911 operator... you can't take me anywhereee🤪🤪 #sketch #comedy</content>
     <link href="https://tiktok.com/@ailaughatmyownjokes/video/7266835186900274465" rel="alternate"/>
     <published>2023-08-13T15:51:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ailaughatmyownjokes/video/7267989195312909601</id>
+    <title>And they lived happily ever after #harrypotter #sketch #comedy </title>
+    <updated>2023-08-16T18:30:07+00:00</updated>
+    <content>And they lived happily ever after #harrypotter #sketch #comedy </content>
+    <link href="https://tiktok.com/@ailaughatmyownjokes/video/7267989195312909601" rel="alternate"/>
+    <published>2023-08-16T18:30:07+00:00</published>
   </entry>
 </feed>
