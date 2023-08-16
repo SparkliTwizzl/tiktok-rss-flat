@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-08-15T23:26:07+00:00</updated>
+  <updated>2023-08-16T19:07:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7266476017290726699</id>
-    <title>Seriously guys, just leave it and we'll probably block them later #solardidsystem #ssperegrine #ssboundaries </title>
-    <updated>2023-08-12T16:38:26+00:00</updated>
-    <content>Seriously guys, just leave it and we'll probably block them later #solardidsystem #ssperegrine #ssboundaries </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7266476017290726699" rel="alternate"/>
-    <published>2023-08-12T16:38:26+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7266585236513754411</id>
-    <title>My favorite era is 1989, but my favorite song is Anti Hero 🩵💙 #solardidsystem #ssrio #ssupdate </title>
-    <updated>2023-08-12T23:42:09+00:00</updated>
-    <content>My favorite era is 1989, but my favorite song is Anti Hero 🩵💙 #solardidsystem #ssrio #ssupdate </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7266585236513754411" rel="alternate"/>
-    <published>2023-08-12T23:42:09+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7267214936391224622</id>
     <title>#stitch with @Thunderfeather Just got one of those long pieces in Tetris if you know what I mean #solardidsystem #ssrio #ssmidnight </title>
@@ -91,5 +75,21 @@
     <content>#stitch with @Kylie B. you cannot justify this. you cannot. you can't. #solardidsystem #ssquinn </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7267694356256017707" rel="alternate"/>
     <published>2023-08-15T23:26:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7267991608757374254</id>
+    <title>idk who this is but I agree -Peregrine #solardidsystem #draft </title>
+    <updated>2023-08-16T18:39:32+00:00</updated>
+    <content>idk who this is but I agree -Peregrine #solardidsystem #draft </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7267991608757374254" rel="alternate"/>
+    <published>2023-08-16T18:39:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7267998890585017642</id>
+    <title>Do you have animal alters, animal adjacent alters, or alter adjacent animals? Stitch or tell us in the comments! #solardidsystem #dissociativeidentitydisorder #ssperegrine </title>
+    <updated>2023-08-16T19:07:49+00:00</updated>
+    <content>Do you have animal alters, animal adjacent alters, or alter adjacent animals? Stitch or tell us in the comments! #solardidsystem #dissociativeidentitydisorder #ssperegrine </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7267998890585017642" rel="alternate"/>
+    <published>2023-08-16T19:07:49+00:00</published>
   </entry>
 </feed>
