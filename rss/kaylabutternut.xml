@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-08-16T03:07:47+00:00</updated>
+  <updated>2023-08-17T04:00:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7265077753903582510</id>
-    <title>I wonder how kesha is doing</title>
-    <updated>2023-08-08T22:12:18+00:00</updated>
-    <content>I wonder how kesha is doing</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7265077753903582510" rel="alternate"/>
-    <published>2023-08-08T22:12:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7265122495676583210</id>
     <title>This song has been stuck in my head for three months </title>
@@ -91,5 +83,13 @@
     <content>Cowboy hat in the back</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7267751474015374638" rel="alternate"/>
     <published>2023-08-16T03:07:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7268136030530981166</id>
+    <title>Thanks for not being there i guess :)</title>
+    <updated>2023-08-17T04:00:10+00:00</updated>
+    <content>Thanks for not being there i guess :)</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7268136030530981166" rel="alternate"/>
+    <published>2023-08-17T04:00:10+00:00</published>
   </entry>
 </feed>
