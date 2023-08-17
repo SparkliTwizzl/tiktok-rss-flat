@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-08-17T01:36:02+00:00</updated>
+  <updated>2023-08-17T19:08:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7267223760246279466</id>
-    <title>Replying to @fidget.crab7 I called Vegas by her planet instead of her name 🤦 #reply #solardidsystem #ssrio </title>
-    <updated>2023-08-14T17:00:06+00:00</updated>
-    <content>Replying to @fidget.crab7 I called Vegas by her planet instead of her name 🤦 #reply #solardidsystem #ssrio </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7267223760246279466" rel="alternate"/>
-    <published>2023-08-14T17:00:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7267228407614770475</id>
     <title>Replying to @louisiana_girl52 #reply it's rough out here my dude #solardidsystem #ssrio </title>
@@ -91,5 +83,13 @@
     <content>Did I ask the others if this color was okay? No. No, I absolutely did not 😁 #solardidsystem #ssquinn #newhair </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7268098941978152234" rel="alternate"/>
     <published>2023-08-17T01:36:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7268370084568124715</id>
+    <title>Replying to @admgecko #reply #solardidsystem #ssperegrine #taylorswift #taylorsversion </title>
+    <updated>2023-08-17T19:08:15+00:00</updated>
+    <content>Replying to @admgecko #reply #solardidsystem #ssperegrine #taylorswift #taylorsversion </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7268370084568124715" rel="alternate"/>
+    <published>2023-08-17T19:08:15+00:00</published>
   </entry>
 </feed>
