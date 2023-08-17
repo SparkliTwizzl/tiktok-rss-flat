@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-08-17T16:43:04+00:00</updated>
+  <updated>2023-08-17T22:09:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7265367114775563525</id>
-    <title>It's true. I love cookies, donuts, turnovers... Anything baked, like me 😅😂 #maladytheclown #throwback #onthisday </title>
-    <updated>2023-08-09T16:55:06+00:00</updated>
-    <content>It's true. I love cookies, donuts, turnovers... Anything baked, like me 😅😂 #maladytheclown #throwback #onthisday </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7265367114775563525" rel="alternate"/>
-    <published>2023-08-09T16:55:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7265750928467283205</id>
     <title>my family, minus all the animals ❤️ Paul and Mini don't cosplay as much as I do, but they do dress up at cons and for Halloween. hopefully will revisit this family cosplay again for one of the cons #onthisday #theaddamsfamily #morticiaaddams #wednesdayadd</title>
@@ -91,5 +83,13 @@
     <content>I'll be bringing this look to #fanexpotoronto next week along with several other characters. keep and eye out and come say hey if you see me ❤️ #cheerleader #lolita  #wonderlandcosplay </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7268332699947896070" rel="alternate"/>
     <published>2023-08-17T16:43:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7268416783693008134</id>
+    <title>#onthisday #maladytheclown </title>
+    <updated>2023-08-17T22:09:21+00:00</updated>
+    <content>#onthisday #maladytheclown </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7268416783693008134" rel="alternate"/>
+    <published>2023-08-17T22:09:21+00:00</published>
   </entry>
 </feed>
