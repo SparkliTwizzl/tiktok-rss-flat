@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@atreegod</id>
   <title>@atreegod | TikTok</title>
-  <updated>2023-08-15T23:09:12+00:00</updated>
+  <updated>2023-08-17T17:07:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @atreegod</subtitle>
-  <entry>
-    <id>https://tiktok.com/@atreegod/video/7264732414616948014</id>
-    <title>New piercingggg #wlw #lgbtq #gay </title>
-    <updated>2023-08-07T23:52:11+00:00</updated>
-    <content>New piercingggg #wlw #lgbtq #gay </content>
-    <link href="https://tiktok.com/@atreegod/video/7264732414616948014" rel="alternate"/>
-    <published>2023-08-07T23:52:11+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@atreegod/video/7265107976665550122</id>
-    <title>Me realizing at the end i have a little muscle lol #wlw #lgbtq </title>
-    <updated>2023-08-09T00:09:35+00:00</updated>
-    <content>Me realizing at the end i have a little muscle lol #wlw #lgbtq </content>
-    <link href="https://tiktok.com/@atreegod/video/7265107976665550122" rel="alternate"/>
-    <published>2023-08-09T00:09:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@atreegod/video/7265108778771647787</id>
     <title>Feeling myself hard tn #wlw #lgbtq </title>
@@ -91,5 +75,21 @@
     <content>Im 21!!! Buy me shots hehe venmo: @muggie #wlw #lgbtq </content>
     <link href="https://tiktok.com/@atreegod/video/7267689981697740074" rel="alternate"/>
     <published>2023-08-15T23:09:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7268326848193498410</id>
+    <title>La la la la laaaaa #wlw #lgbtq </title>
+    <updated>2023-08-17T16:20:28+00:00</updated>
+    <content>La la la la laaaaa #wlw #lgbtq </content>
+    <link href="https://tiktok.com/@atreegod/video/7268326848193498410" rel="alternate"/>
+    <published>2023-08-17T16:20:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7268338990032473387</id>
+    <title>Yall im so happy w these shorts from @HUMANKIND! Use code GODOFTREES for 10% off ! #sponsored #wlw #lgbtq </title>
+    <updated>2023-08-17T17:07:35+00:00</updated>
+    <content>Yall im so happy w these shorts from @HUMANKIND! Use code GODOFTREES for 10% off ! #sponsored #wlw #lgbtq </content>
+    <link href="https://tiktok.com/@atreegod/video/7268338990032473387" rel="alternate"/>
+    <published>2023-08-17T17:07:35+00:00</published>
   </entry>
 </feed>
