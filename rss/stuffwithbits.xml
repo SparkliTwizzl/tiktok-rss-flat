@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-08-16T19:07:49+00:00</updated>
+  <updated>2023-08-17T01:36:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7267214936391224622</id>
-    <title>#stitch with @Thunderfeather Just got one of those long pieces in Tetris if you know what I mean #solardidsystem #ssrio #ssmidnight </title>
-    <updated>2023-08-14T16:25:49+00:00</updated>
-    <content>#stitch with @Thunderfeather Just got one of those long pieces in Tetris if you know what I mean #solardidsystem #ssrio #ssmidnight </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7267214936391224622" rel="alternate"/>
-    <published>2023-08-14T16:25:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7267223760246279466</id>
     <title>Replying to @fidget.crab7 I called Vegas by her planet instead of her name 🤦 #reply #solardidsystem #ssrio </title>
@@ -91,5 +83,13 @@
     <content>Do you have animal alters, animal adjacent alters, or alter adjacent animals? Stitch or tell us in the comments! #solardidsystem #dissociativeidentitydisorder #ssperegrine </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7267998890585017642" rel="alternate"/>
     <published>2023-08-16T19:07:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7268098941978152234</id>
+    <title>Did I ask the others if this color was okay? No. No, I absolutely did not 😁 #solardidsystem #ssquinn #newhair </title>
+    <updated>2023-08-17T01:36:02+00:00</updated>
+    <content>Did I ask the others if this color was okay? No. No, I absolutely did not 😁 #solardidsystem #ssquinn #newhair </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7268098941978152234" rel="alternate"/>
+    <published>2023-08-17T01:36:02+00:00</published>
   </entry>
 </feed>
