@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-08-16T17:48:57+00:00</updated>
+  <updated>2023-08-17T15:36:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7262385082772524293</id>
-    <title>Harrys flirting on my ig #harrystyles #pleasing #greenscreen </title>
-    <updated>2023-08-01T16:03:15+00:00</updated>
-    <content>Harrys flirting on my ig #harrystyles #pleasing #greenscreen </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7262385082772524293" rel="alternate"/>
-    <published>2023-08-01T16:03:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7263157282861534469</id>
     <title>Ive got this 🤞</title>
@@ -91,5 +83,13 @@
     <content>Excuse us while we gush like the couple of proud dads we are. Trust us this was the least sappiest take so consider yourselves lucky. #prouddads #bcwhales #parenting #pride #darcyandjer </content>
     <link href="https://tiktok.com/@thedarcymichael/video/7267978593752403206" rel="alternate"/>
     <published>2023-08-16T17:48:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7268315485408709893</id>
+    <title>The attitude is gratitude. </title>
+    <updated>2023-08-17T15:36:15+00:00</updated>
+    <content>The attitude is gratitude. </content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7268315485408709893" rel="alternate"/>
+    <published>2023-08-17T15:36:15+00:00</published>
   </entry>
 </feed>
