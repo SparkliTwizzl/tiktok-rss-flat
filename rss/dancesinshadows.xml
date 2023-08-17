@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-08-17T01:12:07+00:00</updated>
+  <updated>2023-08-17T16:43:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7264975614233365765</id>
-    <title>Starring Minn 😅🤣  #dancesinshadows #maladytheclown #toebeans #tabbycat </title>
-    <updated>2023-08-08T15:35:52+00:00</updated>
-    <content>Starring Minn 😅🤣  #dancesinshadows #maladytheclown #toebeans #tabbycat </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7264975614233365765" rel="alternate"/>
-    <published>2023-08-08T15:35:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7265367114775563525</id>
     <title>It's true. I love cookies, donuts, turnovers... Anything baked, like me 😅😂 #maladytheclown #throwback #onthisday </title>
@@ -91,5 +83,13 @@
     <content>#duet with @Angel I plan to return to filming the story this September. i have a few left in drafts..#dragmakeup #genderfluid #glumthesupernaturalhitman </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7268092798463642885" rel="alternate"/>
     <published>2023-08-17T01:12:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7268332699947896070</id>
+    <title>I'll be bringing this look to #fanexpotoronto next week along with several other characters. keep and eye out and come say hey if you see me ❤️ #cheerleader #lolita  #wonderlandcosplay </title>
+    <updated>2023-08-17T16:43:04+00:00</updated>
+    <content>I'll be bringing this look to #fanexpotoronto next week along with several other characters. keep and eye out and come say hey if you see me ❤️ #cheerleader #lolita  #wonderlandcosplay </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7268332699947896070" rel="alternate"/>
+    <published>2023-08-17T16:43:04+00:00</published>
   </entry>
 </feed>
