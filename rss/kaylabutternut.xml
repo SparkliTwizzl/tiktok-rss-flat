@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-08-18T15:44:32+00:00</updated>
+  <updated>2023-08-18T22:17:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7266597541699931435</id>
-    <title>#onthisday should i remake this in my new house </title>
-    <updated>2023-08-13T00:29:52+00:00</updated>
-    <content>#onthisday should i remake this in my new house </content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7266597541699931435" rel="alternate"/>
-    <published>2023-08-13T00:29:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7267750338264894763</id>
     <title>Glasses on or off</title>
@@ -91,5 +83,13 @@
     <content>Whats your favorite thing to do to stay busy on a plane</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7268688667865009450" rel="alternate"/>
     <published>2023-08-18T15:44:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7268789903402470699</id>
+    <title>Guess where i am </title>
+    <updated>2023-08-18T22:17:18+00:00</updated>
+    <content>Guess where i am </content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7268789903402470699" rel="alternate"/>
+    <published>2023-08-18T22:17:18+00:00</published>
   </entry>
 </feed>
