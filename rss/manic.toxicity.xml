@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@manic.toxicity</id>
   <title>@manic.toxicity | TikTok</title>
-  <updated>2023-08-17T01:07:08+00:00</updated>
+  <updated>2023-08-15T21:28:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @manic.toxicity</subtitle>
+  <entry>
+    <id>https://tiktok.com/@manic.toxicity/video/7259834668151835950</id>
+    <title>messed up century #fyp #foryou </title>
+    <updated>2023-07-25T19:06:26+00:00</updated>
+    <content>messed up century #fyp #foryou </content>
+    <link href="https://tiktok.com/@manic.toxicity/video/7259834668151835950" rel="alternate"/>
+    <published>2023-07-25T19:06:26+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@manic.toxicity/video/7260349058571603243</id>
     <title>a year later and its still true💅🏼 🫡 #onthisday #fyp #foryou </title>
@@ -83,13 +91,5 @@
     <content>can you make it last forever ? &lt;3 #fyp #foryou </content>
     <link href="https://tiktok.com/@manic.toxicity/video/7267663926714764586" rel="alternate"/>
     <published>2023-08-15T21:28:03+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@manic.toxicity/video/7268091497558412587</id>
-    <title>skyrim stream on twitch starting now ! #fyp #foryou #skyrim #twitch #streaming </title>
-    <updated>2023-08-17T01:07:08+00:00</updated>
-    <content>skyrim stream on twitch starting now ! #fyp #foryou #skyrim #twitch #streaming </content>
-    <link href="https://tiktok.com/@manic.toxicity/video/7268091497558412587" rel="alternate"/>
-    <published>2023-08-17T01:07:08+00:00</published>
   </entry>
 </feed>

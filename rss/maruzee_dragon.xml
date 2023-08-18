@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maruzee_dragon</id>
   <title>@maruzee_dragon | TikTok</title>
-  <updated>2023-08-17T02:24:48+00:00</updated>
+  <updated>2023-08-18T00:46:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maruzee_dragon</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maruzee_dragon/video/7260690444865047813</id>
-    <title>Skip the flashy transition today guys! Just want to show off this new dress for my event this weekend👉👈. Seriously obsessed - it's giving me major Black Widow vibes!🕷🖤 #glowup #transition #fyp #women </title>
-    <updated>2023-07-28T02:27:14+00:00</updated>
-    <content>Skip the flashy transition today guys! Just want to show off this new dress for my event this weekend👉👈. Seriously obsessed - it's giving me major Black Widow vibes!🕷🖤 #glowup #transition #fyp #women </content>
-    <link href="https://tiktok.com/@maruzee_dragon/video/7260690444865047813" rel="alternate"/>
-    <published>2023-07-28T02:27:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maruzee_dragon/video/7261244911603715333</id>
     <title>Bringing Kitana to life with a mix of martial arts and cosplay magic. My fans weaves a storm you won't forget!⚡💙 #videogames #mk #transition #cosplay #martialarts </title>
@@ -91,5 +83,13 @@
     <content>It kinda fits the song ❤️‍🔥🫠 #transition #martialarts #anime #woman </content>
     <link href="https://tiktok.com/@maruzee_dragon/video/7268111520662441221" rel="alternate"/>
     <published>2023-08-17T02:24:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maruzee_dragon/video/7268457254490459397</id>
+    <title>I got a bit inspired by Black Widow 🕷❤️‍🔥 #transition #marvel #kick #martialarts #hero #avengers </title>
+    <updated>2023-08-18T00:46:26+00:00</updated>
+    <content>I got a bit inspired by Black Widow 🕷❤️‍🔥 #transition #marvel #kick #martialarts #hero #avengers </content>
+    <link href="https://tiktok.com/@maruzee_dragon/video/7268457254490459397" rel="alternate"/>
+    <published>2023-08-18T00:46:26+00:00</published>
   </entry>
 </feed>
