@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@juliafox038711</id>
   <title>@juliafox038711 | TikTok</title>
-  <updated>2023-08-16T21:58:18+00:00</updated>
+  <updated>2023-08-18T06:12:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juliafox038711</subtitle>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7266975534880427307</id>
-    <title>i put on foundation for the first time in like 4 months, wanted to take part in this trend </title>
-    <updated>2023-08-14T00:56:44+00:00</updated>
-    <content>i put on foundation for the first time in like 4 months, wanted to take part in this trend </content>
-    <link href="https://tiktok.com/@juliafox038711/video/7266975534880427307" rel="alternate"/>
-    <published>2023-08-14T00:56:44+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7267090677098499371</id>
-    <title>3:30 am thingz</title>
-    <updated>2023-08-14T08:24:22+00:00</updated>
-    <content>3:30 am thingz</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7267090677098499371" rel="alternate"/>
-    <published>2023-08-14T08:24:22+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7267103865118395690</id>
-    <title>movie is so close 🤞🤞🤞</title>
-    <updated>2023-08-14T09:15:22+00:00</updated>
-    <content>movie is so close 🤞🤞🤞</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7267103865118395690" rel="alternate"/>
-    <published>2023-08-14T09:15:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@juliafox038711/video/7267350208164416810</id>
     <title>i actually love my hair currently </title>
@@ -91,5 +67,29 @@
     <content>#CapCut i just think this looks cool</content>
     <link href="https://tiktok.com/@juliafox038711/video/7268042833653665066" rel="alternate"/>
     <published>2023-08-16T21:58:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7268528842548022571</id>
+    <title>id cringe but i was so smooth with it tho</title>
+    <updated>2023-08-18T05:24:35+00:00</updated>
+    <content>id cringe but i was so smooth with it tho</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7268528842548022571" rel="alternate"/>
+    <published>2023-08-18T05:24:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7268537641245674794</id>
+    <title>ive wanted my hair to do this again for idk how long #foryou </title>
+    <updated>2023-08-18T05:58:37+00:00</updated>
+    <content>ive wanted my hair to do this again for idk how long #foryou </content>
+    <link href="https://tiktok.com/@juliafox038711/video/7268537641245674794" rel="alternate"/>
+    <published>2023-08-18T05:58:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7268541068424006955</id>
+    <title>i love you so</title>
+    <updated>2023-08-18T06:12:02+00:00</updated>
+    <content>i love you so</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7268541068424006955" rel="alternate"/>
+    <published>2023-08-18T06:12:02+00:00</published>
   </entry>
 </feed>
