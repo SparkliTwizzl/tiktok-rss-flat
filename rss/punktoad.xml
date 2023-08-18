@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-08-17T00:17:38+00:00</updated>
+  <updated>2023-08-18T14:39:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7265306154136292651</id>
-    <title>Apparently “cool” is the only adjective I know </title>
-    <updated>2023-08-09T12:59:04+00:00</updated>
-    <content>Apparently “cool” is the only adjective I know </content>
-    <link href="https://tiktok.com/@punktoad/video/7265306154136292651" rel="alternate"/>
-    <published>2023-08-09T12:59:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7265487982092635434</id>
     <title>We weren’t playing #brothers #trampoline </title>
@@ -91,5 +83,13 @@
     <content>🎉🥳🎈🎊</content>
     <link href="https://tiktok.com/@punktoad/video/7268078735142718762" rel="alternate"/>
     <published>2023-08-17T00:17:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7268671816875380011</id>
+    <title>Review of DecemberUnderground by AFI #decemberunderground #afi #albumreview #greenscreen </title>
+    <updated>2023-08-18T14:39:07+00:00</updated>
+    <content>Review of DecemberUnderground by AFI #decemberunderground #afi #albumreview #greenscreen </content>
+    <link href="https://tiktok.com/@punktoad/video/7268671816875380011" rel="alternate"/>
+    <published>2023-08-18T14:39:07+00:00</published>
   </entry>
 </feed>
