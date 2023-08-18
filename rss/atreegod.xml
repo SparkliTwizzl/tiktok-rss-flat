@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@atreegod</id>
   <title>@atreegod | TikTok</title>
-  <updated>2023-08-18T18:57:30+00:00</updated>
+  <updated>2023-08-18T21:23:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @atreegod</subtitle>
-  <entry>
-    <id>https://tiktok.com/@atreegod/video/7265791588251716910</id>
-    <title>Rainy day in nyc #wlw #lgbtq </title>
-    <updated>2023-08-10T20:22:27+00:00</updated>
-    <content>Rainy day in nyc #wlw #lgbtq </content>
-    <link href="https://tiktok.com/@atreegod/video/7265791588251716910" rel="alternate"/>
-    <published>2023-08-10T20:22:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@atreegod/video/7266593593962417451</id>
     <title>This is NOT a thirst trap🗞💥 …#wlw #lgbtq</title>
@@ -91,5 +83,13 @@
     <content>Draft storage crazy #wlw #lgbtq</content>
     <link href="https://tiktok.com/@atreegod/video/7268738400134384938" rel="alternate"/>
     <published>2023-08-18T18:57:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7268775950983105835</id>
+    <title>Cleatibb out my drafts why do i slvt myself out on here so hard 💀 #wlw #lgbtq </title>
+    <updated>2023-08-18T21:23:08+00:00</updated>
+    <content>Cleatibb out my drafts why do i slvt myself out on here so hard 💀 #wlw #lgbtq </content>
+    <link href="https://tiktok.com/@atreegod/video/7268775950983105835" rel="alternate"/>
+    <published>2023-08-18T21:23:08+00:00</published>
   </entry>
 </feed>
