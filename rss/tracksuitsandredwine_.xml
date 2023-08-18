@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@tracksuitsandredwine_</id>
   <title>@tracksuitsandredwine_ | TikTok</title>
-  <updated>2023-08-16T13:00:03+00:00</updated>
+  <updated>2023-08-18T01:19:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @tracksuitsandredwine_</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tracksuitsandredwine_/video/7258842503237881089</id>
-    <title>so i thought that if i piled something good in all my bad, that i could cancel out the darkness i inherited from dad </title>
-    <updated>2023-07-23T02:56:18+00:00</updated>
-    <content>so i thought that if i piled something good in all my bad, that i could cancel out the darkness i inherited from dad </content>
-    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7258842503237881089" rel="alternate"/>
-    <published>2023-07-23T02:56:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tracksuitsandredwine_/video/7261049370357943560</id>
     <title>i have had kenough</title>
@@ -91,5 +83,13 @@
     <content>every speak now libra has a 1989 gemini</content>
     <link href="https://tiktok.com/@tracksuitsandredwine_/video/7267904139865132289" rel="alternate"/>
     <published>2023-08-16T13:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tracksuitsandredwine_/video/7268465742410960130</id>
+    <title>auckland trip is going SO well </title>
+    <updated>2023-08-18T01:19:24+00:00</updated>
+    <content>auckland trip is going SO well </content>
+    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7268465742410960130" rel="alternate"/>
+    <published>2023-08-18T01:19:24+00:00</published>
   </entry>
 </feed>
