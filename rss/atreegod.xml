@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@atreegod</id>
   <title>@atreegod | TikTok</title>
-  <updated>2023-08-17T17:07:35+00:00</updated>
+  <updated>2023-08-18T05:49:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @atreegod</subtitle>
-  <entry>
-    <id>https://tiktok.com/@atreegod/video/7265108778771647787</id>
-    <title>Feeling myself hard tn #wlw #lgbtq </title>
-    <updated>2023-08-09T00:12:42+00:00</updated>
-    <content>Feeling myself hard tn #wlw #lgbtq </content>
-    <link href="https://tiktok.com/@atreegod/video/7265108778771647787" rel="alternate"/>
-    <published>2023-08-09T00:12:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@atreegod/video/7265791588251716910</id>
     <title>Rainy day in nyc #wlw #lgbtq </title>
@@ -91,5 +83,13 @@
     <content>Yall im so happy w these shorts from @HUMANKIND! Use code GODOFTREES for 10% off ! #sponsored #wlw #lgbtq </content>
     <link href="https://tiktok.com/@atreegod/video/7268338990032473387" rel="alternate"/>
     <published>2023-08-17T17:07:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7268535341575949610</id>
+    <title>Its youuuu #wlw #lgbtq </title>
+    <updated>2023-08-18T05:49:48+00:00</updated>
+    <content>Its youuuu #wlw #lgbtq </content>
+    <link href="https://tiktok.com/@atreegod/video/7268535341575949610" rel="alternate"/>
+    <published>2023-08-18T05:49:48+00:00</published>
   </entry>
 </feed>
