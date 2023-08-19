@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-08-19T15:11:49+00:00</updated>
+  <updated>2023-08-19T17:11:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,38 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7267751474015374638</id>
-    <title>Cowboy hat in the back</title>
-    <updated>2023-08-16T03:07:47+00:00</updated>
-    <content>Cowboy hat in the back</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7267751474015374638" rel="alternate"/>
-    <published>2023-08-16T03:07:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7268136030530981166</id>
-    <title>Thanks for not being there i guess :)</title>
-    <updated>2023-08-17T04:00:10+00:00</updated>
-    <content>Thanks for not being there i guess :)</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7268136030530981166" rel="alternate"/>
-    <published>2023-08-17T04:00:10+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7268386541850955050</id>
-    <title>Im getting on a plane in a few hours omg</title>
-    <updated>2023-08-17T20:12:06+00:00</updated>
-    <content>Im getting on a plane in a few hours omg</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7268386541850955050" rel="alternate"/>
-    <published>2023-08-17T20:12:06+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7268388723136417066</id>
-    <title>I liked this one more </title>
-    <updated>2023-08-17T20:20:32+00:00</updated>
-    <content>I liked this one more </content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7268388723136417066" rel="alternate"/>
-    <published>2023-08-17T20:20:32+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7268638656322096426</id>
     <title>I don’t think so</title>
@@ -91,5 +59,37 @@
     <content>11:11</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7269051284366380331" rel="alternate"/>
     <published>2023-08-19T15:11:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7269080009304804650</id>
+    <title>Weird mirror, insane view</title>
+    <updated>2023-08-19T17:03:10+00:00</updated>
+    <content>Weird mirror, insane view</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7269080009304804650" rel="alternate"/>
+    <published>2023-08-19T17:03:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7269081292254285102</id>
+    <title>I’m my own favorite lady</title>
+    <updated>2023-08-19T17:08:07+00:00</updated>
+    <content>I’m my own favorite lady</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7269081292254285102" rel="alternate"/>
+    <published>2023-08-19T17:08:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7269081688758553899</id>
+    <title>[no title]</title>
+    <updated>2023-08-19T17:09:43+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7269081688758553899" rel="alternate"/>
+    <published>2023-08-19T17:09:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7269082047577066794</id>
+    <title>Posting without worrying too much </title>
+    <updated>2023-08-19T17:11:05+00:00</updated>
+    <content>Posting without worrying too much </content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7269082047577066794" rel="alternate"/>
+    <published>2023-08-19T17:11:05+00:00</published>
   </entry>
 </feed>
