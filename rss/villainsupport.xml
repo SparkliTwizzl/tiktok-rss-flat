@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@villainsupport</id>
   <title>@villainsupport | TikTok</title>
-  <updated>2023-08-18T20:57:13+00:00</updated>
+  <updated>2023-08-19T20:06:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @villainsupport</subtitle>
-  <entry>
-    <id>https://tiktok.com/@villainsupport/video/7265006565718002986</id>
-    <title>The Hamster-Powered Nuclear Fusion Generator #hamster #nuclearfusion #generator #acmetok #acmevillainsupport </title>
-    <updated>2023-08-08T17:36:01+00:00</updated>
-    <content>The Hamster-Powered Nuclear Fusion Generator #hamster #nuclearfusion #generator #acmetok #acmevillainsupport </content>
-    <link href="https://tiktok.com/@villainsupport/video/7265006565718002986" rel="alternate"/>
-    <published>2023-08-08T17:36:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@villainsupport/video/7265417692587298091</id>
     <title>Villain Apps! #matching #hero #villain #acmetok #acmevillainsupport </title>
@@ -91,5 +83,13 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@villainsupport/video/7268769243808714030" rel="alternate"/>
     <published>2023-08-18T20:57:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@villainsupport/video/7269127295615405355</id>
+    <title>A Villain is Unhappy with the Deluxe Portable Lair #villain #lair #customerservice #acmetok #acmevillainsupport </title>
+    <updated>2023-08-19T20:06:38+00:00</updated>
+    <content>A Villain is Unhappy with the Deluxe Portable Lair #villain #lair #customerservice #acmetok #acmevillainsupport </content>
+    <link href="https://tiktok.com/@villainsupport/video/7269127295615405355" rel="alternate"/>
+    <published>2023-08-19T20:06:38+00:00</published>
   </entry>
 </feed>
