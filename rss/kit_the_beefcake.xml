@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kit_the_beefcake</id>
   <title>@kit_the_beefcake | TikTok</title>
-  <updated>2023-08-19T01:13:07+00:00</updated>
+  <updated>2023-08-19T12:42:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kit_the_beefcake</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7264786178056949034</id>
-    <title>NOW ILL NEVER BE ABLE TO 🥲 #howtodress #attractaman #men #shorthair </title>
-    <updated>2023-08-08T03:20:50+00:00</updated>
-    <content>NOW ILL NEVER BE ABLE TO 🥲 #howtodress #attractaman #men #shorthair </content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7264786178056949034" rel="alternate"/>
-    <published>2023-08-08T03:20:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7265663669780909354</id>
-    <title>okay in my defense it was COVID and they had a boat </title>
-    <updated>2023-08-10T12:06:23+00:00</updated>
-    <content>okay in my defense it was COVID and they had a boat </content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7265663669780909354" rel="alternate"/>
-    <published>2023-08-10T12:06:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7266573323516136747</id>
     <title>[no title]</title>
@@ -91,5 +75,21 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@kit_the_beefcake/video/7268835211327212846" rel="alternate"/>
     <published>2023-08-19T01:13:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7268919639453814059</id>
+    <title>[no title]</title>
+    <updated>2023-08-19T06:40:57+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7268919639453814059" rel="alternate"/>
+    <published>2023-08-19T06:40:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7269012834405666091</id>
+    <title>[no title]</title>
+    <updated>2023-08-19T12:42:50+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7269012834405666091" rel="alternate"/>
+    <published>2023-08-19T12:42:50+00:00</published>
   </entry>
 </feed>
