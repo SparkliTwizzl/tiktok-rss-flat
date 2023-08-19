@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-08-19T18:58:03+00:00</updated>
+  <updated>2023-08-19T20:18:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7268647635425447210</id>
-    <title>Sweaty </title>
-    <updated>2023-08-18T13:05:44+00:00</updated>
-    <content>Sweaty </content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7268647635425447210" rel="alternate"/>
-    <published>2023-08-18T13:05:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7268688667865009450</id>
     <title>Whats your favorite thing to do to stay busy on a plane</title>
@@ -91,5 +83,13 @@
     <content>What flavor cupcake though</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7269109603181415722" rel="alternate"/>
     <published>2023-08-19T18:58:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7269130285554470187</id>
+    <title>They were recording me lmaooo</title>
+    <updated>2023-08-19T20:18:16+00:00</updated>
+    <content>They were recording me lmaooo</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7269130285554470187" rel="alternate"/>
+    <published>2023-08-19T20:18:16+00:00</published>
   </entry>
 </feed>
