@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@villainsupport</id>
   <title>@villainsupport | TikTok</title>
-  <updated>2023-08-16T20:26:53+00:00</updated>
+  <updated>2023-08-18T20:57:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @villainsupport</subtitle>
-  <entry>
-    <id>https://tiktok.com/@villainsupport/video/7264712486115527982</id>
-    <title>#thunderstorm #severe #weather #acmevillainsupport #acmetok </title>
-    <updated>2023-08-07T22:34:56+00:00</updated>
-    <content>#thunderstorm #severe #weather #acmevillainsupport #acmetok </content>
-    <link href="https://tiktok.com/@villainsupport/video/7264712486115527982" rel="alternate"/>
-    <published>2023-08-07T22:34:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@villainsupport/video/7265006565718002986</id>
     <title>The Hamster-Powered Nuclear Fusion Generator #hamster #nuclearfusion #generator #acmetok #acmevillainsupport </title>
@@ -91,5 +83,13 @@
     <content>#fight #centaur #acmetok #acmevillainsupport </content>
     <link href="https://tiktok.com/@villainsupport/video/7268019273040186667" rel="alternate"/>
     <published>2023-08-16T20:26:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@villainsupport/video/7268769243808714030</id>
+    <title>[no title]</title>
+    <updated>2023-08-18T20:57:13+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@villainsupport/video/7268769243808714030" rel="alternate"/>
+    <published>2023-08-18T20:57:13+00:00</published>
   </entry>
 </feed>
