@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@adriananightmare</id>
   <title>@adriananightmare | TikTok</title>
-  <updated>2023-08-13T21:11:06+00:00</updated>
+  <updated>2023-08-19T19:37:23.896894+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,84 +12,4 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @adriananightmare</subtitle>
-  <entry>
-    <id>https://tiktok.com/@adriananightmare/video/7255009014935719211</id>
-    <title>I loved you before this. But I knew I had finally met somebody as wild horse free as me. I'm blessed to know you. #fyp </title>
-    <updated>2023-07-12T19:00:28+00:00</updated>
-    <content>I loved you before this. But I knew I had finally met somebody as wild horse free as me. I'm blessed to know you. #fyp </content>
-    <link href="https://tiktok.com/@adriananightmare/video/7255009014935719211" rel="alternate"/>
-    <published>2023-07-12T19:00:28+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@adriananightmare/video/7259140225635732782</id>
-    <title>[no title]</title>
-    <updated>2023-07-23T22:11:44+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@adriananightmare/video/7259140225635732782" rel="alternate"/>
-    <published>2023-07-23T22:11:44+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@adriananightmare/video/7259790367418109227</id>
-    <title>thought I'd catch up with the trends.</title>
-    <updated>2023-07-25T16:14:34+00:00</updated>
-    <content>thought I'd catch up with the trends.</content>
-    <link href="https://tiktok.com/@adriananightmare/video/7259790367418109227" rel="alternate"/>
-    <published>2023-07-25T16:14:34+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@adriananightmare/video/7261323213710347566</id>
-    <title>#acting #idk </title>
-    <updated>2023-07-29T19:22:51+00:00</updated>
-    <content>#acting #idk </content>
-    <link href="https://tiktok.com/@adriananightmare/video/7261323213710347566" rel="alternate"/>
-    <published>2023-07-29T19:22:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@adriananightmare/video/7261331718836309294</id>
-    <title>#duet with @James Hoyles #ActingChallenge </title>
-    <updated>2023-07-29T19:55:52+00:00</updated>
-    <content>#duet with @James Hoyles #ActingChallenge </content>
-    <link href="https://tiktok.com/@adriananightmare/video/7261331718836309294" rel="alternate"/>
-    <published>2023-07-29T19:55:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@adriananightmare/video/7261360940216732974</id>
-    <title>I'm ugly crying. I hope she's happier.</title>
-    <updated>2023-07-29T21:49:15+00:00</updated>
-    <content>I'm ugly crying. I hope she's happier.</content>
-    <link href="https://tiktok.com/@adriananightmare/video/7261360940216732974" rel="alternate"/>
-    <published>2023-07-29T21:49:15+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@adriananightmare/video/7261446148769156394</id>
-    <title>different draft. #bojack #acting </title>
-    <updated>2023-07-30T03:19:54+00:00</updated>
-    <content>different draft. #bojack #acting </content>
-    <link href="https://tiktok.com/@adriananightmare/video/7261446148769156394" rel="alternate"/>
-    <published>2023-07-30T03:19:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@adriananightmare/video/7265155879589121322</id>
-    <title>something about being a pianist?</title>
-    <updated>2023-08-09T03:15:34+00:00</updated>
-    <content>something about being a pianist?</content>
-    <link href="https://tiktok.com/@adriananightmare/video/7265155879589121322" rel="alternate"/>
-    <published>2023-08-09T03:15:34+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@adriananightmare/video/7266909305289346347</id>
-    <title>when your joy is "too loud" and you're told to stfu</title>
-    <updated>2023-08-13T20:40:29+00:00</updated>
-    <content>when your joy is "too loud" and you're told to stfu</content>
-    <link href="https://tiktok.com/@adriananightmare/video/7266909305289346347" rel="alternate"/>
-    <published>2023-08-13T20:40:29+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@adriananightmare/video/7266917378330479918</id>
-    <title>this song will always remind me of you, my wife. my love.</title>
-    <updated>2023-08-13T21:11:06+00:00</updated>
-    <content>this song will always remind me of you, my wife. my love.</content>
-    <link href="https://tiktok.com/@adriananightmare/video/7266917378330479918" rel="alternate"/>
-    <published>2023-08-13T21:11:06+00:00</published>
-  </entry>
 </feed>
