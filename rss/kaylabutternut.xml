@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-08-19T17:11:05+00:00</updated>
+  <updated>2023-08-19T18:58:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7268638656322096426</id>
-    <title>I don’t think so</title>
-    <updated>2023-08-18T12:30:49+00:00</updated>
-    <content>I don’t think so</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7268638656322096426" rel="alternate"/>
-    <published>2023-08-18T12:30:49+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7268643765601094958</id>
-    <title>I miss this trend </title>
-    <updated>2023-08-18T12:50:36+00:00</updated>
-    <content>I miss this trend </content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7268643765601094958" rel="alternate"/>
-    <published>2023-08-18T12:50:36+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7268647635425447210</id>
     <title>Sweaty </title>
@@ -91,5 +75,21 @@
     <content>Posting without worrying too much </content>
     <link href="https://tiktok.com/@kaylabutternut/video/7269082047577066794" rel="alternate"/>
     <published>2023-08-19T17:11:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7269108916892683566</id>
+    <title>Around the world</title>
+    <updated>2023-08-19T18:55:23+00:00</updated>
+    <content>Around the world</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7269108916892683566" rel="alternate"/>
+    <published>2023-08-19T18:55:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7269109603181415722</id>
+    <title>What flavor cupcake though</title>
+    <updated>2023-08-19T18:58:03+00:00</updated>
+    <content>What flavor cupcake though</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7269109603181415722" rel="alternate"/>
+    <published>2023-08-19T18:58:03+00:00</published>
   </entry>
 </feed>
