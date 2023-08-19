@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@atreegod</id>
   <title>@atreegod | TikTok</title>
-  <updated>2023-08-18T21:23:08+00:00</updated>
+  <updated>2023-08-18T23:44:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @atreegod</subtitle>
-  <entry>
-    <id>https://tiktok.com/@atreegod/video/7266593593962417451</id>
-    <title>This is NOT a thirst trap🗞💥 …#wlw #lgbtq</title>
-    <updated>2023-08-13T00:14:35+00:00</updated>
-    <content>This is NOT a thirst trap🗞💥 …#wlw #lgbtq</content>
-    <link href="https://tiktok.com/@atreegod/video/7266593593962417451" rel="alternate"/>
-    <published>2023-08-13T00:14:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@atreegod/video/7266855548216200491</id>
     <title>Evening ladies and other ladies #wlw #lgbtq #nyc </title>
@@ -91,5 +83,13 @@
     <content>Cleatibb out my drafts why do i slvt myself out on here so hard 💀 #wlw #lgbtq </content>
     <link href="https://tiktok.com/@atreegod/video/7268775950983105835" rel="alternate"/>
     <published>2023-08-18T21:23:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7268812257264487722</id>
+    <title>Just tryna be a handsome girl #wlw #lgbtq </title>
+    <updated>2023-08-18T23:44:05+00:00</updated>
+    <content>Just tryna be a handsome girl #wlw #lgbtq </content>
+    <link href="https://tiktok.com/@atreegod/video/7268812257264487722" rel="alternate"/>
+    <published>2023-08-18T23:44:05+00:00</published>
   </entry>
 </feed>
