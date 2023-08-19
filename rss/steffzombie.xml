@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@steffzombie</id>
   <title>@steffzombie | TikTok</title>
-  <updated>2023-08-18T23:37:00+00:00</updated>
+  <updated>2023-08-19T20:29:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @steffzombie</subtitle>
-  <entry>
-    <id>https://tiktok.com/@steffzombie/video/7242125925788470574</id>
-    <title>Yello is so grungy 🫠</title>
-    <updated>2023-06-08T01:47:30+00:00</updated>
-    <content>Yello is so grungy 🫠</content>
-    <link href="https://tiktok.com/@steffzombie/video/7242125925788470574" rel="alternate"/>
-    <published>2023-06-08T01:47:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@steffzombie/video/7242891923864964398</id>
     <title>Yo is your girlfriend single? #fy #fem </title>
@@ -91,5 +83,13 @@
     <content>All the black emos stepping out for this one 👀 #fy #lgbt </content>
     <link href="https://tiktok.com/@steffzombie/video/7268810431685365038" rel="alternate"/>
     <published>2023-08-18T23:37:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@steffzombie/video/7269133220732620075</id>
+    <title>Dont call my name 😌 #fyp #lgbt </title>
+    <updated>2023-08-19T20:29:44+00:00</updated>
+    <content>Dont call my name 😌 #fyp #lgbt </content>
+    <link href="https://tiktok.com/@steffzombie/video/7269133220732620075" rel="alternate"/>
+    <published>2023-08-19T20:29:44+00:00</published>
   </entry>
 </feed>
