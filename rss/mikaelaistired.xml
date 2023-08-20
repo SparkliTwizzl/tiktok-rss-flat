@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@mikaelaistired</id>
   <title>@mikaelaistired | TikTok</title>
-  <updated>2023-08-20T05:13:47.593153+00:00</updated>
+  <updated>2023-08-18T18:22:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,4 +12,84 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @mikaelaistired</subtitle>
+  <entry>
+    <id>https://tiktok.com/@mikaelaistired/video/7265770080762465578</id>
+    <title>Something new? Why even suggest that</title>
+    <updated>2023-08-10T18:58:59+00:00</updated>
+    <content>Something new? Why even suggest that</content>
+    <link href="https://tiktok.com/@mikaelaistired/video/7265770080762465578" rel="alternate"/>
+    <published>2023-08-10T18:58:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mikaelaistired/video/7266127491918630190</id>
+    <title>Wanted to make sure you knew</title>
+    <updated>2023-08-11T18:05:57+00:00</updated>
+    <content>Wanted to make sure you knew</content>
+    <link href="https://tiktok.com/@mikaelaistired/video/7266127491918630190" rel="alternate"/>
+    <published>2023-08-11T18:05:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mikaelaistired/video/7266181003511663915</id>
+    <title>I definitely dont thanks</title>
+    <updated>2023-08-11T21:33:33+00:00</updated>
+    <content>I definitely dont thanks</content>
+    <link href="https://tiktok.com/@mikaelaistired/video/7266181003511663915" rel="alternate"/>
+    <published>2023-08-11T21:33:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mikaelaistired/video/7266479992500997419</id>
+    <title>It is and you are</title>
+    <updated>2023-08-12T16:53:52+00:00</updated>
+    <content>It is and you are</content>
+    <link href="https://tiktok.com/@mikaelaistired/video/7266479992500997419" rel="alternate"/>
+    <published>2023-08-12T16:53:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mikaelaistired/video/7266849973445119275</id>
+    <title>Shocking stuff, truly</title>
+    <updated>2023-08-13T16:49:29+00:00</updated>
+    <content>Shocking stuff, truly</content>
+    <link href="https://tiktok.com/@mikaelaistired/video/7266849973445119275" rel="alternate"/>
+    <published>2023-08-13T16:49:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mikaelaistired/video/7267230503969836331</id>
+    <title>Not what i had planned for today but very important </title>
+    <updated>2023-08-14T17:26:16+00:00</updated>
+    <content>Not what i had planned for today but very important </content>
+    <link href="https://tiktok.com/@mikaelaistired/video/7267230503969836331" rel="alternate"/>
+    <published>2023-08-14T17:26:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mikaelaistired/video/7267621885909667115</id>
+    <title>The short version</title>
+    <updated>2023-08-15T18:44:50+00:00</updated>
+    <content>The short version</content>
+    <link href="https://tiktok.com/@mikaelaistired/video/7267621885909667115" rel="alternate"/>
+    <published>2023-08-15T18:44:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mikaelaistired/video/7267928029953887530</id>
+    <title>I know this is silly but that crush i had makes so much sense now lmao</title>
+    <updated>2023-08-16T14:32:55+00:00</updated>
+    <content>I know this is silly but that crush i had makes so much sense now lmao</content>
+    <link href="https://tiktok.com/@mikaelaistired/video/7267928029953887530" rel="alternate"/>
+    <published>2023-08-16T14:32:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mikaelaistired/video/7268340469237632298</id>
+    <title>Take care please </title>
+    <updated>2023-08-17T17:13:22+00:00</updated>
+    <content>Take care please </content>
+    <link href="https://tiktok.com/@mikaelaistired/video/7268340469237632298" rel="alternate"/>
+    <published>2023-08-17T17:13:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mikaelaistired/video/7268729434159516971</id>
+    <title>Whatever it’s fine </title>
+    <updated>2023-08-18T18:22:42+00:00</updated>
+    <content>Whatever it’s fine </content>
+    <link href="https://tiktok.com/@mikaelaistired/video/7268729434159516971" rel="alternate"/>
+    <published>2023-08-18T18:22:42+00:00</published>
+  </entry>
 </feed>
