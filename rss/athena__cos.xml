@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-08-18T00:13:57+00:00</updated>
+  <updated>2023-08-20T19:32:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7263906570587671850</id>
-    <title>Vid audio aside @Bella LeBaron is one of my favorite friends/people ❤️❤️ ready to make some more fun stuff together!! #shera #sheracosplay #wonderwoman #wonderwomancosplay #bff </title>
-    <updated>2023-08-05T18:27:39+00:00</updated>
-    <content>Vid audio aside @Bella LeBaron is one of my favorite friends/people ❤️❤️ ready to make some more fun stuff together!! #shera #sheracosplay #wonderwoman #wonderwomancosplay #bff </content>
-    <link href="https://tiktok.com/@athena__cos/video/7263906570587671850" rel="alternate"/>
-    <published>2023-08-05T18:27:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7264619512350215467</id>
     <title>Replying to @𝐊𝐢𝐤𝐢 𝐌𝐨𝐫𝐚 this was so long in the making 😭 the take before this i almost accidentally stabbed Bella #loz #link #redlink </title>
@@ -91,5 +83,13 @@
     <content>Replying to @🦊prototype fox anything for my favorite Blake 💛🖤 #bumblebe #rwby #yangcosplay #wlwcosplay #blakecosplay </content>
     <link href="https://tiktok.com/@athena__cos/video/7268448873268383022" rel="alternate"/>
     <published>2023-08-18T00:13:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7269489591936191787</id>
+    <title>Conversations with Zaheer, Homelander edition </title>
+    <updated>2023-08-20T19:32:34+00:00</updated>
+    <content>Conversations with Zaheer, Homelander edition </content>
+    <link href="https://tiktok.com/@athena__cos/video/7269489591936191787" rel="alternate"/>
+    <published>2023-08-20T19:32:34+00:00</published>
   </entry>
 </feed>

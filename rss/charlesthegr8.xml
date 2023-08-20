@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@charlesthegr8</id>
   <title>@charlesthegr8 | TikTok</title>
-  <updated>2023-08-20T14:54:49+00:00</updated>
+  <updated>2023-08-20T19:45:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @charlesthegr8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7262579617905626411</id>
-    <title>Somethings should stay private 🤫 #iykyk #charlesthegr8 #groupchat </title>
-    <updated>2023-08-02T04:38:29+00:00</updated>
-    <content>Somethings should stay private 🤫 #iykyk #charlesthegr8 #groupchat </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7262579617905626411" rel="alternate"/>
-    <published>2023-08-02T04:38:29+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@charlesthegr8/video/7263481368208788779</id>
     <title>Conflicted 🤔 #iykyk #relationship #charlesthegr8 </title>
@@ -91,5 +83,13 @@
     <content>The audacity!!! 🙄 #iykyk #charlesthegr8</content>
     <link href="https://tiktok.com/@charlesthegr8/video/7269417997096308014" rel="alternate"/>
     <published>2023-08-20T14:54:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7269492816080833834</id>
+    <title>Got caught up in the crossfire? 🤕 #roastbattle #iykyk#charlesthgr8</title>
+    <updated>2023-08-20T19:45:02+00:00</updated>
+    <content>Got caught up in the crossfire? 🤕 #roastbattle #iykyk#charlesthgr8</content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7269492816080833834" rel="alternate"/>
+    <published>2023-08-20T19:45:02+00:00</published>
   </entry>
 </feed>
