@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@rhearipley_wwe</id>
   <title>@rhearipley_wwe | TikTok</title>
-  <updated>2023-08-15T01:10:16+00:00</updated>
+  <updated>2023-08-20T01:40:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @rhearipley_wwe</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rhearipley_wwe/video/7250208981765885230</id>
-    <title>💜 my little MosherZ</title>
-    <updated>2023-06-29T20:33:54+00:00</updated>
-    <content>💜 my little MosherZ</content>
-    <link href="https://tiktok.com/@rhearipley_wwe/video/7250208981765885230" rel="alternate"/>
-    <published>2023-06-29T20:33:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rhearipley_wwe/video/7250962665764293931</id>
     <title>You looking? 😈 #MITB </title>
@@ -91,5 +83,13 @@
     <content>All mine 😈</content>
     <link href="https://tiktok.com/@rhearipley_wwe/video/7267350111146102059" rel="alternate"/>
     <published>2023-08-15T01:10:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rhearipley_wwe/video/7269213263810923822</id>
+    <title>Cry about it 😈</title>
+    <updated>2023-08-20T01:40:13+00:00</updated>
+    <content>Cry about it 😈</content>
+    <link href="https://tiktok.com/@rhearipley_wwe/video/7269213263810923822" rel="alternate"/>
+    <published>2023-08-20T01:40:13+00:00</published>
   </entry>
 </feed>
