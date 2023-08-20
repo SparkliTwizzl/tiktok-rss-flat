@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ailaughatmyownjokes</id>
   <title>@ailaughatmyownjokes | TikTok</title>
-  <updated>2023-08-16T18:30:07+00:00</updated>
+  <updated>2023-08-20T15:30:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ailaughatmyownjokes</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ailaughatmyownjokes/video/7257190223153614106</id>
-    <title>My client is going to prison👍🏻 #skit #comedy </title>
-    <updated>2023-07-18T16:04:37+00:00</updated>
-    <content>My client is going to prison👍🏻 #skit #comedy </content>
-    <link href="https://tiktok.com/@ailaughatmyownjokes/video/7257190223153614106" rel="alternate"/>
-    <published>2023-07-18T16:04:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ailaughatmyownjokes/video/7258318697062747418</id>
     <title>Who said romance is dead  #cinderellamovie #skit #comedy </title>
@@ -91,5 +83,13 @@
     <content>And they lived happily ever after #harrypotter #sketch #comedy </content>
     <link href="https://tiktok.com/@ailaughatmyownjokes/video/7267989195312909601" rel="alternate"/>
     <published>2023-08-16T18:30:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ailaughatmyownjokes/video/7269427241422015777</id>
+    <title>At least she doesn't drool #sleepingbeauty #sketch #comedy </title>
+    <updated>2023-08-20T15:30:32+00:00</updated>
+    <content>At least she doesn't drool #sleepingbeauty #sketch #comedy </content>
+    <link href="https://tiktok.com/@ailaughatmyownjokes/video/7269427241422015777" rel="alternate"/>
+    <published>2023-08-20T15:30:32+00:00</published>
   </entry>
 </feed>
