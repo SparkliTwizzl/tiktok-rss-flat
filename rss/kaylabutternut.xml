@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-08-20T02:33:45+00:00</updated>
+  <updated>2023-08-21T18:39:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -45,14 +45,6 @@
     <published>2023-08-19T17:08:07+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7269081688758553899</id>
-    <title>[no title]</title>
-    <updated>2023-08-19T17:09:43+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7269081688758553899" rel="alternate"/>
-    <published>2023-08-19T17:09:43+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7269082047577066794</id>
     <title>Posting without worrying too much </title>
     <updated>2023-08-19T17:11:05+00:00</updated>
@@ -91,5 +83,13 @@
     <content>I forgot ab this sound </content>
     <link href="https://tiktok.com/@kaylabutternut/video/7269227057027009835" rel="alternate"/>
     <published>2023-08-20T02:33:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7269847045597515054</id>
+    <title>Hide your wife hide your mom </title>
+    <updated>2023-08-21T18:39:46+00:00</updated>
+    <content>Hide your wife hide your mom </content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7269847045597515054" rel="alternate"/>
+    <published>2023-08-21T18:39:46+00:00</published>
   </entry>
 </feed>
