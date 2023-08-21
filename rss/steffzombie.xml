@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@steffzombie</id>
   <title>@steffzombie | TikTok</title>
-  <updated>2023-08-19T20:29:44+00:00</updated>
+  <updated>2023-06-26T00:23:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @steffzombie</subtitle>
+  <entry>
+    <id>https://tiktok.com/@steffzombie/video/7240517770193014059</id>
+    <title>And thats on pride @🌴Natavia Holmes🌴 @Jayson Murphy </title>
+    <updated>2023-06-03T17:47:11+00:00</updated>
+    <content>And thats on pride @🌴Natavia Holmes🌴 @Jayson Murphy </content>
+    <link href="https://tiktok.com/@steffzombie/video/7240517770193014059" rel="alternate"/>
+    <published>2023-06-03T17:47:11+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@steffzombie/video/7241731185590783275</id>
     <title>Replying to @levixxet  noice @♾️ #lgbt </title>
@@ -83,13 +91,5 @@
     <content>Baggy clothes for cool tricks&gt;. #fy #lgbt #greenscreenvideo </content>
     <link href="https://tiktok.com/@steffzombie/video/7248783863579741483" rel="alternate"/>
     <published>2023-06-26T00:23:44+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@steffzombie/video/7269133220732620075</id>
-    <title>Dont call my name 😌 #fyp #lgbt </title>
-    <updated>2023-08-19T20:29:44+00:00</updated>
-    <content>Dont call my name 😌 #fyp #lgbt </content>
-    <link href="https://tiktok.com/@steffzombie/video/7269133220732620075" rel="alternate"/>
-    <published>2023-08-19T20:29:44+00:00</published>
   </entry>
 </feed>
