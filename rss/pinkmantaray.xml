@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pinkmantaray</id>
   <title>@pinkmantaray | TikTok</title>
-  <updated>2023-08-18T22:14:04+00:00</updated>
+  <updated>2023-08-21T20:03:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @pinkmantaray</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pinkmantaray/video/7265044010681617710</id>
-    <title>@Sarah Ehsani 🧿 سِرا I love you 💕#MinhaDupla #queerlove #couplegoals #transjoy #married </title>
-    <updated>2023-08-08T20:01:21+00:00</updated>
-    <content>@Sarah Ehsani 🧿 سِرا I love you 💕#MinhaDupla #queerlove #couplegoals #transjoy #married </content>
-    <link href="https://tiktok.com/@pinkmantaray/video/7265044010681617710" rel="alternate"/>
-    <published>2023-08-08T20:01:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pinkmantaray/video/7265145611291495726</id>
     <title>I may not be able to run very fast but I can jump on to things! Thanks to @Cal Calamia for filming this after the trot 🙏🏼 #transgender #transathlete #boxjump #trickjump #athlete </title>
@@ -96,5 +88,13 @@
     <content>A ridiculous and discriminatory rule that only proves to further expose the core of transphobia, which is misogyny. #transgender #trans #chess #fide #transwomen #equalrights </content>
     <link href="https://tiktok.com/@pinkmantaray/video/7268789053359738143" rel="alternate"/>
     <published>2023-08-18T22:14:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pinkmantaray/video/7269868527715175711</id>
+    <title>Olympian and brand consultant @LaurenGibbs shares her thoughts on competing with trans women on last week's episode of #DEARSCHUYLER! Listen anywhere you get your podcasts. #transgender #transathlete #transwomenarewomen #womenssports </title>
+    <updated>2023-08-21T20:03:18+00:00</updated>
+    <content>Olympian and brand consultant @LaurenGibbs shares her thoughts on competing with trans women on last week's episode of #DEARSCHUYLER! Listen anywhere you get your podcasts. #transgender #transathlete #transwomenarewomen #womenssports </content>
+    <link href="https://tiktok.com/@pinkmantaray/video/7269868527715175711" rel="alternate"/>
+    <published>2023-08-21T20:03:18+00:00</published>
   </entry>
 </feed>
