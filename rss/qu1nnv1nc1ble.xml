@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@qu1nnv1nc1ble</id>
   <title>@qu1nnv1nc1ble | TikTok</title>
-  <updated>2023-08-18T17:24:30+00:00</updated>
+  <updated>2023-08-20T20:00:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @qu1nnv1nc1ble</subtitle>
-  <entry>
-    <id>https://tiktok.com/@qu1nnv1nc1ble/video/7265117366676229418</id>
-    <title>I hoo hoo’d too early 🥺 | Draft</title>
-    <updated>2023-08-09T00:46:01+00:00</updated>
-    <content>I hoo hoo’d too early 🥺 | Draft</content>
-    <link href="https://tiktok.com/@qu1nnv1nc1ble/video/7265117366676229418" rel="alternate"/>
-    <published>2023-08-09T00:46:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@qu1nnv1nc1ble/video/7265329620822658346</id>
     <title>Bonus points if you recognize the fit 🤫</title>
@@ -91,5 +83,13 @@
     <content>I can’t explain ✨| draft</content>
     <link href="https://tiktok.com/@qu1nnv1nc1ble/video/7268714443490463018" rel="alternate"/>
     <published>2023-08-18T17:24:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@qu1nnv1nc1ble/video/7269496913630711082</id>
+    <title>I couldn’t see what the filter was landing on 😳</title>
+    <updated>2023-08-20T20:00:57+00:00</updated>
+    <content>I couldn’t see what the filter was landing on 😳</content>
+    <link href="https://tiktok.com/@qu1nnv1nc1ble/video/7269496913630711082" rel="alternate"/>
+    <published>2023-08-20T20:00:57+00:00</published>
   </entry>
 </feed>
