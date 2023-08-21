@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-08-21T05:29:34+00:00</updated>
+  <updated>2023-08-21T13:04:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7267041780271648046</id>
-    <title>#onthisday </title>
-    <updated>2023-08-14T05:13:51+00:00</updated>
-    <content>#onthisday </content>
-    <link href="https://tiktok.com/@punktoad/video/7267041780271648046" rel="alternate"/>
-    <published>2023-08-14T05:13:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7267584395379363115</id>
     <title>Y’all tryin Jack’s Beans? #beans </title>
@@ -91,5 +83,13 @@
     <content>I love you @✨Stink✨ </content>
     <link href="https://tiktok.com/@punktoad/video/7269643377015131438" rel="alternate"/>
     <published>2023-08-21T05:29:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7269760576744607019</id>
+    <title>Very positive </title>
+    <updated>2023-08-21T13:04:19+00:00</updated>
+    <content>Very positive </content>
+    <link href="https://tiktok.com/@punktoad/video/7269760576744607019" rel="alternate"/>
+    <published>2023-08-21T13:04:19+00:00</published>
   </entry>
 </feed>
