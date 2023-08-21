@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kamehalani</id>
   <title>@kamehalani | TikTok</title>
-  <updated>2023-08-16T15:12:53+00:00</updated>
+  <updated>2023-08-21T01:50:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kamehalani</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kamehalani/video/7265402026115239214</id>
-    <title>Replying to @Carey Hooper #greenscreen wow #kanaka #nativetiktok #nativehawaiian #hawaii #jewish #jewtok </title>
-    <updated>2023-08-09T19:10:39+00:00</updated>
-    <content>Replying to @Carey Hooper #greenscreen wow #kanaka #nativetiktok #nativehawaiian #hawaii #jewish #jewtok </content>
-    <link href="https://tiktok.com/@kamehalani/video/7265402026115239214" rel="alternate"/>
-    <published>2023-08-09T19:10:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kamehalani/video/7265469684705807659</id>
     <title>#stitch with @RellyBean omg </title>
@@ -91,5 +83,13 @@
     <content>#stitch with @joleenw #greenscreen #kanaka #nativetiktok #nativehawaiian #hawaii #maui #stoptourisminhawaii #hawaiitiktok #hawaiian @Sweet Tee </content>
     <link href="https://tiktok.com/@kamehalani/video/7267938335149133098" rel="alternate"/>
     <published>2023-08-16T15:12:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kamehalani/video/7269587017808235819</id>
+    <title>#greenscreen #greenscreenvideo people mentioned @Sweet.T.808.backup @🫡B00M.KANANI🫶🏽 #kanaka #nativetiktok #nativehawaiian #hawaii #maui #stoptourisminhawaii #hawaiitiktok </title>
+    <updated>2023-08-21T01:50:36+00:00</updated>
+    <content>#greenscreen #greenscreenvideo people mentioned @Sweet.T.808.backup @🫡B00M.KANANI🫶🏽 #kanaka #nativetiktok #nativehawaiian #hawaii #maui #stoptourisminhawaii #hawaiitiktok </content>
+    <link href="https://tiktok.com/@kamehalani/video/7269587017808235819" rel="alternate"/>
+    <published>2023-08-21T01:50:36+00:00</published>
   </entry>
 </feed>

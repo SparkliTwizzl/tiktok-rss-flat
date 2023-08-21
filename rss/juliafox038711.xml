@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@juliafox038711</id>
   <title>@juliafox038711 | TikTok</title>
-  <updated>2023-08-18T06:12:02+00:00</updated>
+  <updated>2023-08-21T02:22:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juliafox038711</subtitle>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7267350208164416810</id>
-    <title>i actually love my hair currently </title>
-    <updated>2023-08-15T01:10:37+00:00</updated>
-    <content>i actually love my hair currently </content>
-    <link href="https://tiktok.com/@juliafox038711/video/7267350208164416810" rel="alternate"/>
-    <published>2023-08-15T01:10:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@juliafox038711/video/7267352361193033003</id>
     <title>[no title]</title>
@@ -91,5 +83,13 @@
     <content>i love you so</content>
     <link href="https://tiktok.com/@juliafox038711/video/7268541068424006955" rel="alternate"/>
     <published>2023-08-18T06:12:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7269595232314854698</id>
+    <title>an old video but worked with the templant ya know</title>
+    <updated>2023-08-21T02:22:28+00:00</updated>
+    <content>an old video but worked with the templant ya know</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7269595232314854698" rel="alternate"/>
+    <published>2023-08-21T02:22:28+00:00</published>
   </entry>
 </feed>
