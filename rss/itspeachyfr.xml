@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@itspeachyfr</id>
   <title>@itspeachyfr | TikTok</title>
-  <updated>2023-08-18T19:18:33+00:00</updated>
+  <updated>2023-08-18T19:06:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @itspeachyfr</subtitle>
+  <entry>
+    <id>https://tiktok.com/@itspeachyfr/video/7258417546443967787</id>
+    <title>anyone else? </title>
+    <updated>2023-07-21T23:27:22+00:00</updated>
+    <content>anyone else? </content>
+    <link href="https://tiktok.com/@itspeachyfr/video/7258417546443967787" rel="alternate"/>
+    <published>2023-07-21T23:27:22+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@itspeachyfr/video/7258417787243384110</id>
     <title>be gone- </title>
@@ -83,13 +91,5 @@
     <content>Bezzos is #1 </content>
     <link href="https://tiktok.com/@itspeachyfr/video/7268740714102607147" rel="alternate"/>
     <published>2023-08-18T19:06:29+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@itspeachyfr/video/7268743820886543658</id>
-    <title>thats what she said </title>
-    <updated>2023-08-18T19:18:33+00:00</updated>
-    <content>thats what she said </content>
-    <link href="https://tiktok.com/@itspeachyfr/video/7268743820886543658" rel="alternate"/>
-    <published>2023-08-18T19:18:33+00:00</published>
   </entry>
 </feed>
