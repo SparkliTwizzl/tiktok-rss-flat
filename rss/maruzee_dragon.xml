@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maruzee_dragon</id>
   <title>@maruzee_dragon | TikTok</title>
-  <updated>2023-08-19T02:33:10+00:00</updated>
+  <updated>2023-08-21T02:22:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maruzee_dragon</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maruzee_dragon/video/7261244911603715333</id>
-    <title>Bringing Kitana to life with a mix of martial arts and cosplay magic. My fans weaves a storm you won't forget!⚡💙 #videogames #mk #transition #cosplay #martialarts </title>
-    <updated>2023-07-29T14:18:49+00:00</updated>
-    <content>Bringing Kitana to life with a mix of martial arts and cosplay magic. My fans weaves a storm you won't forget!⚡💙 #videogames #mk #transition #cosplay #martialarts </content>
-    <link href="https://tiktok.com/@maruzee_dragon/video/7261244911603715333" rel="alternate"/>
-    <published>2023-07-29T14:18:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maruzee_dragon/video/7261803366160862470</id>
     <title>Trying a Scorpion Kick mixed with fans. I think it looks kinda cool right? Should I experiment with a transition next?!🤔 #martialarts #training #flexible #mma #sport </title>
@@ -91,5 +83,13 @@
     <content>Finally jumping on this trend...Better late than never, right?🥹☂️🌸 Ib: @Lucia Liu 💗👑  #transition</content>
     <link href="https://tiktok.com/@maruzee_dragon/video/7268855858283416838" rel="alternate"/>
     <published>2023-08-19T02:33:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maruzee_dragon/video/7269595344436989189</id>
+    <title>Found this rehearsal clip, and it struck me that I've never made a polished sword version! Think I should?! #martialarts #kicks #training #sport #trainedprofessional </title>
+    <updated>2023-08-21T02:22:46+00:00</updated>
+    <content>Found this rehearsal clip, and it struck me that I've never made a polished sword version! Think I should?! #martialarts #kicks #training #sport #trainedprofessional </content>
+    <link href="https://tiktok.com/@maruzee_dragon/video/7269595344436989189" rel="alternate"/>
+    <published>2023-08-21T02:22:46+00:00</published>
   </entry>
 </feed>
