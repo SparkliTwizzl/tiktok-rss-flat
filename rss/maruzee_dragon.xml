@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maruzee_dragon</id>
   <title>@maruzee_dragon | TikTok</title>
-  <updated>2023-08-21T02:22:46+00:00</updated>
+  <updated>2023-08-21T20:32:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maruzee_dragon</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maruzee_dragon/video/7261803366160862470</id>
-    <title>Trying a Scorpion Kick mixed with fans. I think it looks kinda cool right? Should I experiment with a transition next?!🤔 #martialarts #training #flexible #mma #sport </title>
-    <updated>2023-07-31T02:25:56+00:00</updated>
-    <content>Trying a Scorpion Kick mixed with fans. I think it looks kinda cool right? Should I experiment with a transition next?!🤔 #martialarts #training #flexible #mma #sport </content>
-    <link href="https://tiktok.com/@maruzee_dragon/video/7261803366160862470" rel="alternate"/>
-    <published>2023-07-31T02:25:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maruzee_dragon/video/7262916983195258117</id>
     <title>I've tweaked the ending of the Scorpion Kick with fans a bit. Should I keep the split at the end or go back to the first version @𝕸𝖆𝖗𝖚𝖟𝖊𝖊 𝕯𝖗𝖆𝖌𝖔𝖓 🐲 ? It's just a draft before I turn it into a transition 🫠 #martialarts #sport #mma #flexible </title>
@@ -91,5 +83,13 @@
     <content>Found this rehearsal clip, and it struck me that I've never made a polished sword version! Think I should?! #martialarts #kicks #training #sport #trainedprofessional </content>
     <link href="https://tiktok.com/@maruzee_dragon/video/7269595344436989189" rel="alternate"/>
     <published>2023-08-21T02:22:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maruzee_dragon/video/7269876175621672197</id>
+    <title>Check the amazing look with Kokomi underwater #GenshinImpactFontaine #GenshinImpact Try out this amazing filter!</title>
+    <updated>2023-08-21T20:32:34+00:00</updated>
+    <content>Check the amazing look with Kokomi underwater #GenshinImpactFontaine #GenshinImpact Try out this amazing filter!</content>
+    <link href="https://tiktok.com/@maruzee_dragon/video/7269876175621672197" rel="alternate"/>
+    <published>2023-08-21T20:32:34+00:00</published>
   </entry>
 </feed>
