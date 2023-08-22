@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-08-21T17:30:41+00:00</updated>
+  <updated>2023-08-22T18:15:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7266253567974051077</id>
-    <title>Theres a lot to unpack here #comedy #couplegoals #reaction #marriedlife </title>
-    <updated>2023-08-12T02:15:00+00:00</updated>
-    <content>Theres a lot to unpack here #comedy #couplegoals #reaction #marriedlife </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7266253567974051077" rel="alternate"/>
-    <published>2023-08-12T02:15:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7266565574711430405</id>
     <title>⛵️💦</title>
@@ -91,5 +83,13 @@
     <content>Answering your most asked question #standup #comedy #marriedlife #pride #darcyandjer </content>
     <link href="https://tiktok.com/@thedarcymichael/video/7269829311950032133" rel="alternate"/>
     <published>2023-08-21T17:30:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7270211843245821190</id>
+    <title>The dance at the end sent me #adhd #moving #husbands #comedy #marriedlife </title>
+    <updated>2023-08-22T18:15:06+00:00</updated>
+    <content>The dance at the end sent me #adhd #moving #husbands #comedy #marriedlife </content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7270211843245821190" rel="alternate"/>
+    <published>2023-08-22T18:15:06+00:00</published>
   </entry>
 </feed>
