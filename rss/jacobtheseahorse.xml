@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jacobtheseahorse</id>
   <title>@jacobtheseahorse | TikTok</title>
-  <updated>2023-08-17T10:42:28+00:00</updated>
+  <updated>2023-08-22T14:16:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jacobtheseahorse</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7260114696081034523</id>
-    <title>#duet with @THOSE GUYS #Duet  starting my medical transition 13 years ago there were so many unknowns and I was terrified that I would lose my ability to sing. it took me a long time to work out how to sing with this new voice and for a long time I was sc</title>
-    <updated>2023-07-26T13:13:03+00:00</updated>
-    <content>#duet with @THOSE GUYS #Duet  starting my medical transition 13 years ago there were so many unknowns and I was terrified that I would lose my ability to sing. it took me a long time to work out how to sing with this new voice and for a long time I was scared to sing because I couldn't pitch properly. it brings me such joy to see all the voice coaches and things that are available now, it would have made such a difference to me to have access to that! #voice #song #testosteronevoiceupdate #testosterone #transition #adele #lgbt #trans #singing #music #tvoice </content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7260114696081034523" rel="alternate"/>
-    <published>2023-07-26T13:13:03+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7260935196084571419</id>
-    <title>Replying to @fxshboness I wish I had solid data to give you but it doesn't exist yet.  I took testosterone thinking it would make me infertile and I deeply grieved the loss of my fertility. but I got hope when I saw other trans guys getting pregnant and I</title>
-    <updated>2023-07-28T18:17:00+00:00</updated>
-    <content>Replying to @fxshboness I wish I had solid data to give you but it doesn't exist yet.  I took testosterone thinking it would make me infertile and I deeply grieved the loss of my fertility. but I got hope when I saw other trans guys getting pregnant and I took the leap to pause testosterone and try.  and now I'm a Papa to two littles that I grew in my body. #transpregnancy #trans #transgender #lgbt #babies #testosterone #hormones #fertility #pregnancy #parents </content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7260935196084571419" rel="alternate"/>
-    <published>2023-07-28T18:17:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jacobtheseahorse/video/7260976819376082202</id>
     <title>I am a loved person. I am a joyful person. I am have so many wonderful ways to describe myself and trans is one of them. cis and trans are descriptors, they are used to describe whether your sex assigned at birth and your gender align. that's it. there's </title>
@@ -91,5 +75,21 @@
     <content>his tone of voice killed me 💀 #whoops #welcome #hi </content>
     <link href="https://tiktok.com/@jacobtheseahorse/video/7268239770369690913" rel="alternate"/>
     <published>2023-08-17T10:42:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7270104905744944416</id>
+    <title>Replying to @loopie.phoebe it's a lot of beer! people definitely assumed something medical was going on, the probably didn't assume pregnancy though! #trans #pregnancy #transpregnancy #fertility #beer #belly </title>
+    <updated>2023-08-22T11:20:10+00:00</updated>
+    <content>Replying to @loopie.phoebe it's a lot of beer! people definitely assumed something medical was going on, the probably didn't assume pregnancy though! #trans #pregnancy #transpregnancy #fertility #beer #belly </content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7270104905744944416" rel="alternate"/>
+    <published>2023-08-22T11:20:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7270150407387696417</id>
+    <title>Replying to @timewastin80 like 97% of the weight was his head I'm sure of it.  2 years on and he still uses it like a battrring ram 🙃 #bigbaby #baby #nipe #ytans #transpregnancy #lgbt #birth </title>
+    <updated>2023-08-22T14:16:45+00:00</updated>
+    <content>Replying to @timewastin80 like 97% of the weight was his head I'm sure of it.  2 years on and he still uses it like a battrring ram 🙃 #bigbaby #baby #nipe #ytans #transpregnancy #lgbt #birth </content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7270150407387696417" rel="alternate"/>
+    <published>2023-08-22T14:16:45+00:00</published>
   </entry>
 </feed>
