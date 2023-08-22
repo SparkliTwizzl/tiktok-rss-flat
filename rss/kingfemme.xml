@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kingfemme</id>
   <title>@kingfemme | TikTok</title>
-  <updated>2023-08-15T18:45:05+00:00</updated>
+  <updated>2023-08-21T21:37:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kingfemme</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kingfemme/video/7255003789449792814</id>
-    <title>Hmmmm i have some thoughts #fyp #lgbt #trans #hrt #ftm #nonbinary </title>
-    <updated>2023-07-12T18:40:13+00:00</updated>
-    <content>Hmmmm i have some thoughts #fyp #lgbt #trans #hrt #ftm #nonbinary </content>
-    <link href="https://tiktok.com/@kingfemme/video/7255003789449792814" rel="alternate"/>
-    <published>2023-07-12T18:40:13+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kingfemme/video/7255323689640709422</id>
-    <title>Woooofff #fyp #hrt #lgbt #trans #ftm #nonbinary </title>
-    <updated>2023-07-13T15:21:35+00:00</updated>
-    <content>Woooofff #fyp #hrt #lgbt #trans #ftm #nonbinary </content>
-    <link href="https://tiktok.com/@kingfemme/video/7255323689640709422" rel="alternate"/>
-    <published>2023-07-13T15:21:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kingfemme/video/7255781780584844590</id>
     <title>Replying to @its_justrhi  REPOST because the algorithm has been funky 🤪 #fyp #lgbt #trans #nonbinary #hairtransformation #barbie #ftm </title>
@@ -91,5 +75,21 @@
     <content>#stitch with @alex renee #fyp #lgbt #trans #handshake #ftm #nonbinary #transmasc </content>
     <link href="https://tiktok.com/@kingfemme/video/7267621943208185131" rel="alternate"/>
     <published>2023-08-15T18:45:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kingfemme/video/7269884226894384430</id>
+    <title>I DONT WANNA HEAR IT #FYP #bald #haircut #comedy #lgbt #trans </title>
+    <updated>2023-08-21T21:04:00+00:00</updated>
+    <content>I DONT WANNA HEAR IT #FYP #bald #haircut #comedy #lgbt #trans </content>
+    <link href="https://tiktok.com/@kingfemme/video/7269884226894384430" rel="alternate"/>
+    <published>2023-08-21T21:04:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kingfemme/video/7269892883648646446</id>
+    <title>Thats daddy 🥹 #FYP #kitten #adoptdontshop #lgbt #furparent </title>
+    <updated>2023-08-21T21:37:37+00:00</updated>
+    <content>Thats daddy 🥹 #FYP #kitten #adoptdontshop #lgbt #furparent </content>
+    <link href="https://tiktok.com/@kingfemme/video/7269892883648646446" rel="alternate"/>
+    <published>2023-08-21T21:37:37+00:00</published>
   </entry>
 </feed>
