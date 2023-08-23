@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-08-22T13:55:06+00:00</updated>
+  <updated>2023-08-23T01:58:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7267945000053378347</id>
-    <title>And leave a review? #truecrimepodcast </title>
-    <updated>2023-08-16T15:38:44+00:00</updated>
-    <content>And leave a review? #truecrimepodcast </content>
-    <link href="https://tiktok.com/@punktoad/video/7267945000053378347" rel="alternate"/>
-    <published>2023-08-16T15:38:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7268078735142718762</id>
     <title>🎉🥳🎈🎊</title>
@@ -91,5 +83,13 @@
     <content>I dont wanna </content>
     <link href="https://tiktok.com/@punktoad/video/7270144803558559022" rel="alternate"/>
     <published>2023-08-22T13:55:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7270331306884779310</id>
+    <title>Replying to @✨Stink✨ Review of Riot! By Paramore #riot #paramore #emomusic #elderemo </title>
+    <updated>2023-08-23T01:58:52+00:00</updated>
+    <content>Replying to @✨Stink✨ Review of Riot! By Paramore #riot #paramore #emomusic #elderemo </content>
+    <link href="https://tiktok.com/@punktoad/video/7270331306884779310" rel="alternate"/>
+    <published>2023-08-23T01:58:52+00:00</published>
   </entry>
 </feed>
