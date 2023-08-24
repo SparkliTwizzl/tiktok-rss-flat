@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-08-24T00:09:07+00:00</updated>
+  <updated>2023-08-24T14:32:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7268904499614420266</id>
-    <title>A year ago I reviewed Three Cheers For Sweet Revenge by MCR! #mychemicalromance </title>
-    <updated>2023-08-19T05:42:14+00:00</updated>
-    <content>A year ago I reviewed Three Cheers For Sweet Revenge by MCR! #mychemicalromance </content>
-    <link href="https://tiktok.com/@punktoad/video/7268904499614420266" rel="alternate"/>
-    <published>2023-08-19T05:42:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7269056289739918638</id>
     <title>Mosty jokes 😜 #taylorswift #CapCut </title>
@@ -91,5 +83,13 @@
     <content>Right before they kiss </content>
     <link href="https://tiktok.com/@punktoad/video/7270674143237000490" rel="alternate"/>
     <published>2023-08-24T00:09:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7270896672253709610</id>
+    <title>Review of Enema of the State - Blink 182 #blink182 #enemaofthestate #poppunk #albumreview #onthisday </title>
+    <updated>2023-08-24T14:32:43+00:00</updated>
+    <content>Review of Enema of the State - Blink 182 #blink182 #enemaofthestate #poppunk #albumreview #onthisday </content>
+    <link href="https://tiktok.com/@punktoad/video/7270896672253709610" rel="alternate"/>
+    <published>2023-08-24T14:32:43+00:00</published>
   </entry>
 </feed>
