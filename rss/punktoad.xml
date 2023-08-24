@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-08-23T01:58:52+00:00</updated>
+  <updated>2023-08-24T00:09:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7268078735142718762</id>
-    <title>🎉🥳🎈🎊</title>
-    <updated>2023-08-17T00:17:38+00:00</updated>
-    <content>🎉🥳🎈🎊</content>
-    <link href="https://tiktok.com/@punktoad/video/7268078735142718762" rel="alternate"/>
-    <published>2023-08-17T00:17:38+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7268671816875380011</id>
-    <title>Review of DecemberUnderground by AFI #decemberunderground #afi #albumreview #greenscreen </title>
-    <updated>2023-08-18T14:39:07+00:00</updated>
-    <content>Review of DecemberUnderground by AFI #decemberunderground #afi #albumreview #greenscreen </content>
-    <link href="https://tiktok.com/@punktoad/video/7268671816875380011" rel="alternate"/>
-    <published>2023-08-18T14:39:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7268904499614420266</id>
     <title>A year ago I reviewed Three Cheers For Sweet Revenge by MCR! #mychemicalromance </title>
@@ -91,5 +75,21 @@
     <content>Replying to @✨Stink✨ Review of Riot! By Paramore #riot #paramore #emomusic #elderemo </content>
     <link href="https://tiktok.com/@punktoad/video/7270331306884779310" rel="alternate"/>
     <published>2023-08-23T01:58:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7270495991718006058</id>
+    <title>Are we talking about the same person? </title>
+    <updated>2023-08-23T12:38:14+00:00</updated>
+    <content>Are we talking about the same person? </content>
+    <link href="https://tiktok.com/@punktoad/video/7270495991718006058" rel="alternate"/>
+    <published>2023-08-23T12:38:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7270674143237000490</id>
+    <title>Right before they kiss </title>
+    <updated>2023-08-24T00:09:07+00:00</updated>
+    <content>Right before they kiss </content>
+    <link href="https://tiktok.com/@punktoad/video/7270674143237000490" rel="alternate"/>
+    <published>2023-08-24T00:09:07+00:00</published>
   </entry>
 </feed>
