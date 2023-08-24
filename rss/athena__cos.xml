@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-08-22T19:22:56+00:00</updated>
+  <updated>2023-08-23T20:57:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7264991901521169706</id>
-    <title>@Dylanpool is the only reason I know about @Chris Bumstead 😂💪 #cbum #daddycbum #gymtok #gymdate </title>
-    <updated>2023-08-08T16:39:09+00:00</updated>
-    <content>@Dylanpool is the only reason I know about @Chris Bumstead 😂💪 #cbum #daddycbum #gymtok #gymdate </content>
-    <link href="https://tiktok.com/@athena__cos/video/7264991901521169706" rel="alternate"/>
-    <published>2023-08-08T16:39:09+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7265789279060823342</id>
     <title>The Lasso of Truth character and cosplay edition @Bella LeBaron  #sheracosplay #wonderwomancosplay #shera #wonderwoman </title>
@@ -91,5 +83,13 @@
     <content>Upgrades people UPGRADES #womeninarmor </content>
     <link href="https://tiktok.com/@athena__cos/video/7270229244549139754" rel="alternate"/>
     <published>2023-08-22T19:22:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7270624656808365358</id>
+    <title>Yes thats a Barnes and Noble membership card ladies one at a time please  New hair by @beth✨ !!! It looks amazing! </title>
+    <updated>2023-08-23T20:57:12+00:00</updated>
+    <content>Yes thats a Barnes and Noble membership card ladies one at a time please  New hair by @beth✨ !!! It looks amazing! </content>
+    <link href="https://tiktok.com/@athena__cos/video/7270624656808365358" rel="alternate"/>
+    <published>2023-08-23T20:57:12+00:00</published>
   </entry>
 </feed>
