@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@tracksuitsandredwine_</id>
   <title>@tracksuitsandredwine_ | TikTok</title>
-  <updated>2023-08-22T10:15:18+00:00</updated>
+  <updated>2023-08-23T08:30:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -77,19 +77,19 @@
     <published>2023-08-18T01:19:24+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@tracksuitsandredwine_/video/7268548854323170562</id>
-    <title>sry</title>
-    <updated>2023-08-18T06:41:59+00:00</updated>
-    <content>sry</content>
-    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7268548854323170562" rel="alternate"/>
-    <published>2023-08-18T06:41:59+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@tracksuitsandredwine_/video/7270088187987447042</id>
     <title>bojack from forever ago</title>
     <updated>2023-08-22T10:15:18+00:00</updated>
     <content>bojack from forever ago</content>
     <link href="https://tiktok.com/@tracksuitsandredwine_/video/7270088187987447042" rel="alternate"/>
     <published>2023-08-22T10:15:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tracksuitsandredwine_/video/7270432134949653761</id>
+    <title>pls take this audio away from me. </title>
+    <updated>2023-08-23T08:30:01+00:00</updated>
+    <content>pls take this audio away from me. </content>
+    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7270432134949653761" rel="alternate"/>
+    <published>2023-08-23T08:30:01+00:00</published>
   </entry>
 </feed>
