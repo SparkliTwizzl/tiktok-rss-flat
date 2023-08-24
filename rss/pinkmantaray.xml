@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pinkmantaray</id>
   <title>@pinkmantaray | TikTok</title>
-  <updated>2023-08-21T20:03:18+00:00</updated>
+  <updated>2023-08-23T21:22:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @pinkmantaray</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pinkmantaray/video/7265145611291495726</id>
-    <title>I may not be able to run very fast but I can jump on to things! Thanks to @Cal Calamia for filming this after the trot 🙏🏼 #transgender #transathlete #boxjump #trickjump #athlete </title>
-    <updated>2023-08-09T02:35:46+00:00</updated>
-    <content>I may not be able to run very fast but I can jump on to things! Thanks to @Cal Calamia for filming this after the trot 🙏🏼 #transgender #transathlete #boxjump #trickjump #athlete </content>
-    <link href="https://tiktok.com/@pinkmantaray/video/7265145611291495726" rel="alternate"/>
-    <published>2023-08-09T02:35:46+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pinkmantaray/video/7265492622670712106</id>
     <title>Replying to @eff :) genetics are neat! #redbeard #transbeard #beard #transgender #testosterone #hrt</title>
@@ -96,5 +88,13 @@
     <content>Olympian and brand consultant @LaurenGibbs shares her thoughts on competing with trans women on last week's episode of #DEARSCHUYLER! Listen anywhere you get your podcasts. #transgender #transathlete #transwomenarewomen #womenssports </content>
     <link href="https://tiktok.com/@pinkmantaray/video/7269868527715175711" rel="alternate"/>
     <published>2023-08-21T20:03:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pinkmantaray/video/7270631232738807071</id>
+    <title>Baby me! 19 years old and just leaning in again. I wish I could give him a hug ❤️ #transgender #trans #transman #testosterone #hrt #voicecomparison </title>
+    <updated>2023-08-23T21:22:59+00:00</updated>
+    <content>Baby me! 19 years old and just leaning in again. I wish I could give him a hug ❤️ #transgender #trans #transman #testosterone #hrt #voicecomparison </content>
+    <link href="https://tiktok.com/@pinkmantaray/video/7270631232738807071" rel="alternate"/>
+    <published>2023-08-23T21:22:59+00:00</published>
   </entry>
 </feed>

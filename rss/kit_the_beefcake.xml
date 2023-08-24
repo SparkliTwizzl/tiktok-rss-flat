@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kit_the_beefcake</id>
   <title>@kit_the_beefcake | TikTok</title>
-  <updated>2023-08-22T22:40:23+00:00</updated>
+  <updated>2023-08-24T04:57:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kit_the_beefcake</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7268835211327212846</id>
-    <title>[no title]</title>
-    <updated>2023-08-19T01:13:07+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7268835211327212846" rel="alternate"/>
-    <published>2023-08-19T01:13:07+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7268919639453814059</id>
-    <title>[no title]</title>
-    <updated>2023-08-19T06:40:57+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7268919639453814059" rel="alternate"/>
-    <published>2023-08-19T06:40:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7269012834405666091</id>
-    <title>[no title]</title>
-    <updated>2023-08-19T12:42:50+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7269012834405666091" rel="alternate"/>
-    <published>2023-08-19T12:42:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7269199386704448810</id>
     <title>Hi tiktok this is a skort with shorts underneath just in case you wanna get upset with me</title>
@@ -91,5 +67,29 @@
     <content>Its like… practice right??? </content>
     <link href="https://tiktok.com/@kit_the_beefcake/video/7270280167279447338" rel="alternate"/>
     <published>2023-08-22T22:40:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7270420189307571498</id>
+    <title>Its good right?</title>
+    <updated>2023-08-23T07:44:25+00:00</updated>
+    <content>Its good right?</content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7270420189307571498" rel="alternate"/>
+    <published>2023-08-23T07:44:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7270653191312657706</id>
+    <title>#onthisday </title>
+    <updated>2023-08-23T22:47:53+00:00</updated>
+    <content>#onthisday </content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7270653191312657706" rel="alternate"/>
+    <published>2023-08-23T22:47:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7270748343410658602</id>
+    <title>[no title]</title>
+    <updated>2023-08-24T04:57:06+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7270748343410658602" rel="alternate"/>
+    <published>2023-08-24T04:57:06+00:00</published>
   </entry>
 </feed>
