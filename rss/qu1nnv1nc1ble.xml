@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@qu1nnv1nc1ble</id>
   <title>@qu1nnv1nc1ble | TikTok</title>
-  <updated>2023-08-22T02:21:36+00:00</updated>
+  <updated>2023-08-24T03:01:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @qu1nnv1nc1ble</subtitle>
-  <entry>
-    <id>https://tiktok.com/@qu1nnv1nc1ble/video/7265835588501310766</id>
-    <title>Can’t stop thinkin of this song 🎧 | original: Tek It ~ by Cafunè</title>
-    <updated>2023-08-10T23:13:07+00:00</updated>
-    <content>Can’t stop thinkin of this song 🎧 | original: Tek It ~ by Cafunè</content>
-    <link href="https://tiktok.com/@qu1nnv1nc1ble/video/7265835588501310766" rel="alternate"/>
-    <published>2023-08-10T23:13:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@qu1nnv1nc1ble/video/7266176136147668266</id>
     <title>Wanna trade diaries?📔 #femboy #femboyfriday #pretty </title>
@@ -91,5 +83,13 @@
     <content>Its the blue hair isn’t it? 💙</content>
     <link href="https://tiktok.com/@qu1nnv1nc1ble/video/7269966107144899883" rel="alternate"/>
     <published>2023-08-22T02:21:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@qu1nnv1nc1ble/video/7270718545477111083</id>
+    <title>Tell me im wrong 🥀 #idareyou </title>
+    <updated>2023-08-24T03:01:27+00:00</updated>
+    <content>Tell me im wrong 🥀 #idareyou </content>
+    <link href="https://tiktok.com/@qu1nnv1nc1ble/video/7270718545477111083" rel="alternate"/>
+    <published>2023-08-24T03:01:27+00:00</published>
   </entry>
 </feed>

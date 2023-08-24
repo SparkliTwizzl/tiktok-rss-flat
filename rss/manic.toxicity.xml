@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@manic.toxicity</id>
   <title>@manic.toxicity | TikTok</title>
-  <updated>2023-08-20T21:06:19+00:00</updated>
+  <updated>2023-08-24T01:04:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @manic.toxicity</subtitle>
-  <entry>
-    <id>https://tiktok.com/@manic.toxicity/video/7260349058571603243</id>
-    <title>a year later and its still true💅🏼 🫡 #onthisday #fyp #foryou </title>
-    <updated>2023-07-27T04:22:40+00:00</updated>
-    <content>a year later and its still true💅🏼 🫡 #onthisday #fyp #foryou </content>
-    <link href="https://tiktok.com/@manic.toxicity/video/7260349058571603243" rel="alternate"/>
-    <published>2023-07-27T04:22:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@manic.toxicity/video/7260943259147504942</id>
     <title>skin breakouts &lt;&lt;&lt; #fyp #foryou </title>
@@ -91,5 +83,13 @@
     <content>oversize t-shirts &gt;&gt;&gt;  (ive run out of things to post, enjoy me saving the sound for later)</content>
     <link href="https://tiktok.com/@manic.toxicity/video/7269513739592846635" rel="alternate"/>
     <published>2023-08-20T21:06:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@manic.toxicity/video/7270688359515917614</id>
+    <title>Baldurs Gate 3 stream starting now!!  twitch.tv/manictoxicity #fyp #foryou #twitch #baldursgate3 </title>
+    <updated>2023-08-24T01:04:19+00:00</updated>
+    <content>Baldurs Gate 3 stream starting now!!  twitch.tv/manictoxicity #fyp #foryou #twitch #baldursgate3 </content>
+    <link href="https://tiktok.com/@manic.toxicity/video/7270688359515917614" rel="alternate"/>
+    <published>2023-08-24T01:04:19+00:00</published>
   </entry>
 </feed>
