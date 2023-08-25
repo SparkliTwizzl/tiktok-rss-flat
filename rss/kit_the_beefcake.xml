@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kit_the_beefcake</id>
   <title>@kit_the_beefcake | TikTok</title>
-  <updated>2023-08-24T04:57:06+00:00</updated>
+  <updated>2023-08-24T23:59:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kit_the_beefcake</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7269199386704448810</id>
-    <title>Hi tiktok this is a skort with shorts underneath just in case you wanna get upset with me</title>
-    <updated>2023-08-20T00:46:26+00:00</updated>
-    <content>Hi tiktok this is a skort with shorts underneath just in case you wanna get upset with me</content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7269199386704448810" rel="alternate"/>
-    <published>2023-08-20T00:46:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7269413810358865195</id>
     <title>they keep track of how many times I get hit on and get mad 😂😂 </title>
@@ -91,5 +83,13 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@kit_the_beefcake/video/7270748343410658602" rel="alternate"/>
     <published>2023-08-24T04:57:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7271042856385547563</id>
+    <title>I think second to last is best :) or first maybe…</title>
+    <updated>2023-08-24T23:59:59+00:00</updated>
+    <content>I think second to last is best :) or first maybe…</content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7271042856385547563" rel="alternate"/>
+    <published>2023-08-24T23:59:59+00:00</published>
   </entry>
 </feed>
