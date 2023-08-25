@@ -13,14 +13,6 @@
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @grouch_thebird</subtitle>
   <entry>
-    <id>https://tiktok.com/@grouch_thebird/video/7265174267048873262</id>
-    <title>[no title]</title>
-    <updated>2023-08-09T04:26:56+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@grouch_thebird/video/7265174267048873262" rel="alternate"/>
-    <published>2023-08-09T04:26:56+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@grouch_thebird/video/7265177516392877355</id>
     <title>[no title]</title>
     <updated>2023-08-09T04:39:33+00:00</updated>
@@ -83,6 +75,14 @@
     <content>I think maybe there's something wrong with me ( I am fully aware that I have a manic disorder but it just means my brain is a little spicy)</content>
     <link href="https://tiktok.com/@grouch_thebird/video/7269485921941277998" rel="alternate"/>
     <published>2023-08-20T19:18:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grouch_thebird/video/7270289571156397354</id>
+    <title>[no title]</title>
+    <updated>2023-08-22T23:16:49+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@grouch_thebird/video/7270289571156397354" rel="alternate"/>
+    <published>2023-08-22T23:16:49+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@grouch_thebird/video/7270302323363237166</id>
