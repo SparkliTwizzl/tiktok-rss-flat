@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-08-24T23:32:17+00:00</updated>
+  <updated>2023-08-25T00:13:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7269099484221672747</id>
-    <title>#solardidsystem #despair </title>
-    <updated>2023-08-19T18:18:45+00:00</updated>
-    <content>#solardidsystem #despair </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7269099484221672747" rel="alternate"/>
-    <published>2023-08-19T18:18:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7269179313893674282</id>
     <title>Replying to @thefake_system #reply try being an adult and treating others with respect #solardidsystem #ssmidnight </title>
@@ -91,5 +83,13 @@
     <content>Replying to @stuffwithbits #reply to @Mandolin #solardidsystem #dissociativeidentitydisorder #ssperegrine </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7271035699216796970" rel="alternate"/>
     <published>2023-08-24T23:32:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7271046220775361838</id>
+    <title>I wasn't sure I wanted to make this video but then I saw @HazyAndSlightlyDazey posted something similar so they gave me the courage 🥰 #solardidsystem #dissociativeidentitydisorder #ssquinn </title>
+    <updated>2023-08-25T00:13:05+00:00</updated>
+    <content>I wasn't sure I wanted to make this video but then I saw @HazyAndSlightlyDazey posted something similar so they gave me the courage 🥰 #solardidsystem #dissociativeidentitydisorder #ssquinn </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7271046220775361838" rel="alternate"/>
+    <published>2023-08-25T00:13:05+00:00</published>
   </entry>
 </feed>
