@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-08-23T20:57:12+00:00</updated>
+  <updated>2023-08-24T19:29:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7265789279060823342</id>
-    <title>The Lasso of Truth character and cosplay edition @Bella LeBaron  #sheracosplay #wonderwomancosplay #shera #wonderwoman </title>
-    <updated>2023-08-10T20:13:28+00:00</updated>
-    <content>The Lasso of Truth character and cosplay edition @Bella LeBaron  #sheracosplay #wonderwomancosplay #shera #wonderwoman </content>
-    <link href="https://tiktok.com/@athena__cos/video/7265789279060823342" rel="alternate"/>
-    <published>2023-08-10T20:13:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7266168064268586286</id>
     <title>My first timing filming and posting a workout as well as my first leg day in over two weeks!! @VILLAGE HIDDEN IN IRON #demonslayer #animegym #gymtok #womenwholift </title>
@@ -91,5 +83,13 @@
     <content>Yes thats a Barnes and Noble membership card ladies one at a time please  New hair by @beth✨ !!! It looks amazing! </content>
     <link href="https://tiktok.com/@athena__cos/video/7270624656808365358" rel="alternate"/>
     <published>2023-08-23T20:57:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7270973087347330350</id>
+    <title>I don’t have Naga but I brought my German Shepard to make up for it 🖤 #korrasami #korracosplay #avatar </title>
+    <updated>2023-08-24T19:29:24+00:00</updated>
+    <content>I don’t have Naga but I brought my German Shepard to make up for it 🖤 #korrasami #korracosplay #avatar </content>
+    <link href="https://tiktok.com/@athena__cos/video/7270973087347330350" rel="alternate"/>
+    <published>2023-08-24T19:29:24+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@atreegod</id>
   <title>@atreegod | TikTok</title>
-  <updated>2023-08-23T18:57:59+00:00</updated>
+  <updated>2023-08-24T21:12:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @atreegod</subtitle>
-  <entry>
-    <id>https://tiktok.com/@atreegod/video/7268338990032473387</id>
-    <title>Yall im so happy w these shorts from @HUMANKIND! Use code GODOFTREES for 10% off ! #sponsored #wlw #lgbtq </title>
-    <updated>2023-08-17T17:07:35+00:00</updated>
-    <content>Yall im so happy w these shorts from @HUMANKIND! Use code GODOFTREES for 10% off ! #sponsored #wlw #lgbtq </content>
-    <link href="https://tiktok.com/@atreegod/video/7268338990032473387" rel="alternate"/>
-    <published>2023-08-17T17:07:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@atreegod/video/7268775950983105835</id>
     <title>Cleatibb out my drafts why do i slvt myself out on here so hard 💀 #wlw #lgbtq </title>
@@ -77,19 +69,27 @@
     <published>2023-08-22T16:12:58+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@atreegod/video/7270339486205218094</id>
-    <title>Sorry 4 all the spam lol #wlw #lgbtq</title>
-    <updated>2023-08-23T02:30:36+00:00</updated>
-    <content>Sorry 4 all the spam lol #wlw #lgbtq</content>
-    <link href="https://tiktok.com/@atreegod/video/7270339486205218094" rel="alternate"/>
-    <published>2023-08-23T02:30:36+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@atreegod/video/7270593922718616874</id>
     <title>Just the two hottest lesbos in nyc #wlw #lgbtq </title>
     <updated>2023-08-23T18:57:59+00:00</updated>
     <content>Just the two hottest lesbos in nyc #wlw #lgbtq </content>
     <link href="https://tiktok.com/@atreegod/video/7270593922718616874" rel="alternate"/>
     <published>2023-08-23T18:57:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7270960432838511918</id>
+    <title>The girl i like likes this song #wlw #lgbtq </title>
+    <updated>2023-08-24T18:40:19+00:00</updated>
+    <content>The girl i like likes this song #wlw #lgbtq </content>
+    <link href="https://tiktok.com/@atreegod/video/7270960432838511918" rel="alternate"/>
+    <published>2023-08-24T18:40:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7270999782083104043</id>
+    <title>Steppin in da shower #wlw #lgbtq</title>
+    <updated>2023-08-24T21:12:51+00:00</updated>
+    <content>Steppin in da shower #wlw #lgbtq</content>
+    <link href="https://tiktok.com/@atreegod/video/7270999782083104043" rel="alternate"/>
+    <published>2023-08-24T21:12:51+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-08-02T18:12:48+00:00</updated>
+  <updated>2023-08-24T19:08:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7259116402496490798</id>
-    <title>Whaaaa? #fyp #actingchallenge </title>
-    <updated>2023-07-23T20:39:20+00:00</updated>
-    <content>Whaaaa? #fyp #actingchallenge </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7259116402496490798" rel="alternate"/>
-    <published>2023-07-23T20:39:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7259192431483063594</id>
     <title>Omg, I couldn't not. #fyp </title>
@@ -91,5 +83,13 @@
     <content>I'm sorry if this is inconvenient to anyone, but I need this to be priority. Otherwise I will feel completely useless to my community. I love you all, and I'll see you soon. Be kind. </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7262789529080220971" rel="alternate"/>
     <published>2023-08-02T18:12:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7270967760635645226</id>
+    <title>See you soon. 😘 </title>
+    <updated>2023-08-24T19:08:41+00:00</updated>
+    <content>See you soon. 😘 </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7270967760635645226" rel="alternate"/>
+    <published>2023-08-24T19:08:41+00:00</published>
   </entry>
 </feed>
