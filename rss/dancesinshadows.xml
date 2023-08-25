@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-08-17T22:09:21+00:00</updated>
+  <updated>2023-08-23T14:48:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7265750928467283205</id>
-    <title>my family, minus all the animals ❤️ Paul and Mini don't cosplay as much as I do, but they do dress up at cons and for Halloween. hopefully will revisit this family cosplay again for one of the cons #onthisday #theaddamsfamily #morticiaaddams #wednesdayadd</title>
-    <updated>2023-08-10T17:44:28+00:00</updated>
-    <content>my family, minus all the animals ❤️ Paul and Mini don't cosplay as much as I do, but they do dress up at cons and for Halloween. hopefully will revisit this family cosplay again for one of the cons #onthisday #theaddamsfamily #morticiaaddams #wednesdayaddams #familycosplay </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7265750928467283205" rel="alternate"/>
-    <published>2023-08-10T17:44:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7266128462824393990</id>
     <title>Fun fact: I used to repaint Barbies and Monster High dolls for 10 years before moving on to cosplay and makeup. I always enjoyed creating detailed characters, now just on a larger and more interactive scale 💄 🩵 #notyourbarbiegirl #maladytheclown #clownoc </title>
@@ -91,5 +83,13 @@
     <content>#onthisday #maladytheclown </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7268416783693008134" rel="alternate"/>
     <published>2023-08-17T22:09:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7270529657760517381</id>
+    <title>#onthisday </title>
+    <updated>2023-08-23T14:48:23+00:00</updated>
+    <content>#onthisday </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7270529657760517381" rel="alternate"/>
+    <published>2023-08-23T14:48:23+00:00</published>
   </entry>
 </feed>
