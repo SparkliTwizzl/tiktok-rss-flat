@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maruzee_dragon</id>
   <title>@maruzee_dragon | TikTok</title>
-  <updated>2023-08-21T20:32:34+00:00</updated>
+  <updated>2023-08-24T15:21:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maruzee_dragon</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maruzee_dragon/video/7262916983195258117</id>
-    <title>I've tweaked the ending of the Scorpion Kick with fans a bit. Should I keep the split at the end or go back to the first version @𝕸𝖆𝖗𝖚𝖟𝖊𝖊 𝕯𝖗𝖆𝖌𝖔𝖓 🐲 ? It's just a draft before I turn it into a transition 🫠 #martialarts #sport #mma #flexible </title>
-    <updated>2023-08-03T02:27:20+00:00</updated>
-    <content>I've tweaked the ending of the Scorpion Kick with fans a bit. Should I keep the split at the end or go back to the first version @𝕸𝖆𝖗𝖚𝖟𝖊𝖊 𝕯𝖗𝖆𝖌𝖔𝖓 🐲 ? It's just a draft before I turn it into a transition 🫠 #martialarts #sport #mma #flexible </content>
-    <link href="https://tiktok.com/@maruzee_dragon/video/7262916983195258117" rel="alternate"/>
-    <published>2023-08-03T02:27:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maruzee_dragon/video/7263470676672072965</id>
     <title>Just a casual day practicing sai-tisfying martial arts moves, inspired by none other than the twin-sai wielding Raphael himself! Embracing my inner Ninja Turtles spirit! 🐢💪 #martialarts #sport #fitness #training #ninjaturtles </title>
@@ -91,5 +83,13 @@
     <content>Check the amazing look with Kokomi underwater #GenshinImpactFontaine #GenshinImpact Try out this amazing filter!</content>
     <link href="https://tiktok.com/@maruzee_dragon/video/7269876175621672197" rel="alternate"/>
     <published>2023-08-21T20:32:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maruzee_dragon/video/7270909216745917701</id>
+    <title>Réponse à @slickteez  Maybe not my smoothest transition, but this one was more about fun than perfection!😁👍 #martialarts #kicks #trainedprofessional #sport #anime </title>
+    <updated>2023-08-24T15:21:16+00:00</updated>
+    <content>Réponse à @slickteez  Maybe not my smoothest transition, but this one was more about fun than perfection!😁👍 #martialarts #kicks #trainedprofessional #sport #anime </content>
+    <link href="https://tiktok.com/@maruzee_dragon/video/7270909216745917701" rel="alternate"/>
+    <published>2023-08-24T15:21:16+00:00</published>
   </entry>
 </feed>

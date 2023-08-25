@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@hyndsyghts</id>
   <title>@hyndsyghts | TikTok</title>
-  <updated>2023-08-18T22:21:11+00:00</updated>
+  <updated>2023-08-24T22:35:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @hyndsyghts</subtitle>
-  <entry>
-    <id>https://tiktok.com/@hyndsyghts/video/7253127729279683883</id>
-    <title>always something huh #gratitude #lgbtq </title>
-    <updated>2023-07-07T17:20:11+00:00</updated>
-    <content>always something huh #gratitude #lgbtq </content>
-    <link href="https://tiktok.com/@hyndsyghts/video/7253127729279683883" rel="alternate"/>
-    <published>2023-07-07T17:20:11+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@hyndsyghts/video/7253985658719440171</id>
     <title>where are the PVRIS lesbians?? ... Same Soul, You &amp; I, Anyone Else, Separate, Heaven, Eyelids... #lgbtq #wlw #pvris </title>
@@ -91,5 +83,13 @@
     <content>haven't really been posting much on tt anymore but I'm around #lgbtq #wlw </content>
     <link href="https://tiktok.com/@hyndsyghts/video/7268790890896919854" rel="alternate"/>
     <published>2023-08-18T22:21:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@hyndsyghts/video/7271021153655721259</id>
+    <title>autistic in corporate, fake it til you make it things #lgbtq #actuallyautistic </title>
+    <updated>2023-08-24T22:35:48+00:00</updated>
+    <content>autistic in corporate, fake it til you make it things #lgbtq #actuallyautistic </content>
+    <link href="https://tiktok.com/@hyndsyghts/video/7271021153655721259" rel="alternate"/>
+    <published>2023-08-24T22:35:48+00:00</published>
   </entry>
 </feed>

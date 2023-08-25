@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@villainsupport</id>
   <title>@villainsupport | TikTok</title>
-  <updated>2023-08-22T20:39:24+00:00</updated>
+  <updated>2023-08-24T20:37:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @villainsupport</subtitle>
-  <entry>
-    <id>https://tiktok.com/@villainsupport/video/7265746982612765994</id>
-    <title>#vampire #broke #mob #taxi #acmetok #acmevillainsupport </title>
-    <updated>2023-08-10T17:29:18+00:00</updated>
-    <content>#vampire #broke #mob #taxi #acmetok #acmevillainsupport </content>
-    <link href="https://tiktok.com/@villainsupport/video/7265746982612765994" rel="alternate"/>
-    <published>2023-08-10T17:29:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@villainsupport/video/7266098725582572846</id>
     <title>#broke #vampire #mob #villain #evil #acmetok #acmevillainsupport </title>
@@ -91,5 +83,13 @@
     <content>There’s reasons Gary went broke.</content>
     <link href="https://tiktok.com/@villainsupport/video/7270248992863227178" rel="alternate"/>
     <published>2023-08-22T20:39:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@villainsupport/video/7270990673808002346</id>
+    <title>Manifesting New Powers</title>
+    <updated>2023-08-24T20:37:32+00:00</updated>
+    <content>Manifesting New Powers</content>
+    <link href="https://tiktok.com/@villainsupport/video/7270990673808002346" rel="alternate"/>
+    <published>2023-08-24T20:37:32+00:00</published>
   </entry>
 </feed>
