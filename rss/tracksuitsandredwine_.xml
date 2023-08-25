@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@tracksuitsandredwine_</id>
   <title>@tracksuitsandredwine_ | TikTok</title>
-  <updated>2023-08-23T08:30:01+00:00</updated>
+  <updated>2023-08-24T08:26:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @tracksuitsandredwine_</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tracksuitsandredwine_/video/7262364401125166354</id>
-    <title>lego batman is the best batman. </title>
-    <updated>2023-08-01T14:43:03+00:00</updated>
-    <content>lego batman is the best batman. </content>
-    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7262364401125166354" rel="alternate"/>
-    <published>2023-08-01T14:43:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tracksuitsandredwine_/video/7262726906070568200</id>
     <title>lego batman pt 2@lia :) </title>
@@ -91,5 +83,13 @@
     <content>pls take this audio away from me. </content>
     <link href="https://tiktok.com/@tracksuitsandredwine_/video/7270432134949653761" rel="alternate"/>
     <published>2023-08-23T08:30:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tracksuitsandredwine_/video/7270802242607795457</id>
+    <title>so real</title>
+    <updated>2023-08-24T08:26:10+00:00</updated>
+    <content>so real</content>
+    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7270802242607795457" rel="alternate"/>
+    <published>2023-08-24T08:26:10+00:00</published>
   </entry>
 </feed>
