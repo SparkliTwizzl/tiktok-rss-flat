@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@qu1nnv1nc1ble</id>
   <title>@qu1nnv1nc1ble | TikTok</title>
-  <updated>2023-08-25T03:05:23+00:00</updated>
+  <updated>2023-08-25T17:00:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @qu1nnv1nc1ble</subtitle>
-  <entry>
-    <id>https://tiktok.com/@qu1nnv1nc1ble/video/7267372034668154154</id>
-    <title>What are all those muscles even for anyway 😤 #flirt #bro #bromance #muscles #dudesbeingdudes #prettyboy #alpha </title>
-    <updated>2023-08-15T02:35:20+00:00</updated>
-    <content>What are all those muscles even for anyway 😤 #flirt #bro #bromance #muscles #dudesbeingdudes #prettyboy #alpha </content>
-    <link href="https://tiktok.com/@qu1nnv1nc1ble/video/7267372034668154154" rel="alternate"/>
-    <published>2023-08-15T02:35:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@qu1nnv1nc1ble/video/7267544675421162798</id>
     <title>*insert caption here*</title>
@@ -91,5 +83,13 @@
     <content>Alright fall 2023, don’t disappoint me #fall #goodvibes #CapCut </content>
     <link href="https://tiktok.com/@qu1nnv1nc1ble/video/7271090645899496747" rel="alternate"/>
     <published>2023-08-25T03:05:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@qu1nnv1nc1ble/video/7271305922465615146</id>
+    <title>Should have been nicer then ✌️🖤 | older draft</title>
+    <updated>2023-08-25T17:00:50+00:00</updated>
+    <content>Should have been nicer then ✌️🖤 | older draft</content>
+    <link href="https://tiktok.com/@qu1nnv1nc1ble/video/7271305922465615146" rel="alternate"/>
+    <published>2023-08-25T17:00:50+00:00</published>
   </entry>
 </feed>
