@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kit_the_beefcake</id>
   <title>@kit_the_beefcake | TikTok</title>
-  <updated>2023-08-24T23:59:59+00:00</updated>
+  <updated>2023-08-25T03:59:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kit_the_beefcake</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7269413810358865195</id>
-    <title>they keep track of how many times I get hit on and get mad 😂😂 </title>
-    <updated>2023-08-20T14:38:39+00:00</updated>
-    <content>they keep track of how many times I get hit on and get mad 😂😂 </content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7269413810358865195" rel="alternate"/>
-    <published>2023-08-20T14:38:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7269609122167917870</id>
     <title>#exmormon #accountant </title>
@@ -91,5 +83,13 @@
     <content>I think second to last is best :) or first maybe…</content>
     <link href="https://tiktok.com/@kit_the_beefcake/video/7271042856385547563" rel="alternate"/>
     <published>2023-08-24T23:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7271104513589742891</id>
+    <title>Im gonna clean it i swear 😂 #adhd #funny #2319 #monstersinc #fyp #foryou #neurodivergent </title>
+    <updated>2023-08-25T03:59:14+00:00</updated>
+    <content>Im gonna clean it i swear 😂 #adhd #funny #2319 #monstersinc #fyp #foryou #neurodivergent </content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7271104513589742891" rel="alternate"/>
+    <published>2023-08-25T03:59:14+00:00</published>
   </entry>
 </feed>
