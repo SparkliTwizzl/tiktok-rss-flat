@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-08-26T01:47:02+00:00</updated>
+  <updated>2023-08-21T18:39:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7268789903402470699</id>
+    <title>Guess where i am </title>
+    <updated>2023-08-18T22:17:18+00:00</updated>
+    <content>Guess where i am </content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7268789903402470699" rel="alternate"/>
+    <published>2023-08-18T22:17:18+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7269051284366380331</id>
     <title>11:11</title>
@@ -83,13 +91,5 @@
     <content>Hide your wife hide your mom </content>
     <link href="https://tiktok.com/@kaylabutternut/video/7269847045597515054" rel="alternate"/>
     <published>2023-08-21T18:39:46+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7271441533629369643</id>
-    <title>Guess the pokemon on my shorts and I’ll marry you</title>
-    <updated>2023-08-26T01:47:02+00:00</updated>
-    <content>Guess the pokemon on my shorts and I’ll marry you</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7271441533629369643" rel="alternate"/>
-    <published>2023-08-26T01:47:02+00:00</published>
   </entry>
 </feed>
