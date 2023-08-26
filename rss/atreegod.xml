@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@atreegod</id>
   <title>@atreegod | TikTok</title>
-  <updated>2023-08-24T21:12:51+00:00</updated>
+  <updated>2023-08-25T23:58:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @atreegod</subtitle>
-  <entry>
-    <id>https://tiktok.com/@atreegod/video/7268775950983105835</id>
-    <title>Cleatibb out my drafts why do i slvt myself out on here so hard 💀 #wlw #lgbtq </title>
-    <updated>2023-08-18T21:23:08+00:00</updated>
-    <content>Cleatibb out my drafts why do i slvt myself out on here so hard 💀 #wlw #lgbtq </content>
-    <link href="https://tiktok.com/@atreegod/video/7268775950983105835" rel="alternate"/>
-    <published>2023-08-18T21:23:08+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@atreegod/video/7268812257264487722</id>
-    <title>Just tryna be a handsome girl #wlw #lgbtq </title>
-    <updated>2023-08-18T23:44:05+00:00</updated>
-    <content>Just tryna be a handsome girl #wlw #lgbtq </content>
-    <link href="https://tiktok.com/@atreegod/video/7268812257264487722" rel="alternate"/>
-    <published>2023-08-18T23:44:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@atreegod/video/7268909056754978091</id>
     <title>Commute home got us messed up #lgbtq #wlw </title>
@@ -91,5 +75,21 @@
     <content>Steppin in da shower #wlw #lgbtq</content>
     <link href="https://tiktok.com/@atreegod/video/7270999782083104043" rel="alternate"/>
     <published>2023-08-24T21:12:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7271399112095075630</id>
+    <title>I like to feel pretty , not just handsome🫵 #wlw #lgbtq</title>
+    <updated>2023-08-25T23:02:24+00:00</updated>
+    <content>I like to feel pretty , not just handsome🫵 #wlw #lgbtq</content>
+    <link href="https://tiktok.com/@atreegod/video/7271399112095075630" rel="alternate"/>
+    <published>2023-08-25T23:02:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7271413478806621482</id>
+    <title>Time to design sum tats #wlw #lgbtq </title>
+    <updated>2023-08-25T23:58:09+00:00</updated>
+    <content>Time to design sum tats #wlw #lgbtq </content>
+    <link href="https://tiktok.com/@atreegod/video/7271413478806621482" rel="alternate"/>
+    <published>2023-08-25T23:58:09+00:00</published>
   </entry>
 </feed>
