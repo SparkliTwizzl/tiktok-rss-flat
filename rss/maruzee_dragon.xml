@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maruzee_dragon</id>
   <title>@maruzee_dragon | TikTok</title>
-  <updated>2023-08-24T15:21:16+00:00</updated>
+  <updated>2023-08-26T02:13:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maruzee_dragon</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maruzee_dragon/video/7263470676672072965</id>
-    <title>Just a casual day practicing sai-tisfying martial arts moves, inspired by none other than the twin-sai wielding Raphael himself! Embracing my inner Ninja Turtles spirit! 🐢💪 #martialarts #sport #fitness #training #ninjaturtles </title>
-    <updated>2023-08-04T14:15:56+00:00</updated>
-    <content>Just a casual day practicing sai-tisfying martial arts moves, inspired by none other than the twin-sai wielding Raphael himself! Embracing my inner Ninja Turtles spirit! 🐢💪 #martialarts #sport #fitness #training #ninjaturtles </content>
-    <link href="https://tiktok.com/@maruzee_dragon/video/7263470676672072965" rel="alternate"/>
-    <published>2023-08-04T14:15:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maruzee_dragon/video/7265512669652831493</id>
     <title>Got a bit inspired by Valorant for this transition...Any teams recruiting a fresh agent?! #videogames #gamer #valorant #gaming #transition </title>
@@ -91,5 +83,13 @@
     <content>Réponse à @slickteez  Maybe not my smoothest transition, but this one was more about fun than perfection!😁👍 #martialarts #kicks #trainedprofessional #sport #anime </content>
     <link href="https://tiktok.com/@maruzee_dragon/video/7270909216745917701" rel="alternate"/>
     <published>2023-08-24T15:21:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maruzee_dragon/video/7271448458446376197</id>
+    <title>Who else is waiting for MK1🥹?! #kick #martialarts #sport #videogames #mk #gaming </title>
+    <updated>2023-08-26T02:13:48+00:00</updated>
+    <content>Who else is waiting for MK1🥹?! #kick #martialarts #sport #videogames #mk #gaming </content>
+    <link href="https://tiktok.com/@maruzee_dragon/video/7271448458446376197" rel="alternate"/>
+    <published>2023-08-26T02:13:48+00:00</published>
   </entry>
 </feed>
