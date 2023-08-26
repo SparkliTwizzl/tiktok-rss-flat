@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-08-25T11:18:42+00:00</updated>
+  <updated>2023-08-24T14:32:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7269056289739918638</id>
+    <title>Mosty jokes 😜 #taylorswift #CapCut </title>
+    <updated>2023-08-19T15:31:14+00:00</updated>
+    <content>Mosty jokes 😜 #taylorswift #CapCut </content>
+    <link href="https://tiktok.com/@punktoad/video/7269056289739918638" rel="alternate"/>
+    <published>2023-08-19T15:31:14+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7269177745949723946</id>
     <title>He has full food &amp; water bowls #catdad #livingwithcats </title>
@@ -83,13 +91,5 @@
     <content>Review of Enema of the State - Blink 182 #blink182 #enemaofthestate #poppunk #albumreview #onthisday </content>
     <link href="https://tiktok.com/@punktoad/video/7270896672253709610" rel="alternate"/>
     <published>2023-08-24T14:32:43+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7271217739371515179</id>
-    <title>Stay away from my seed! </title>
-    <updated>2023-08-25T11:18:42+00:00</updated>
-    <content>Stay away from my seed! </content>
-    <link href="https://tiktok.com/@punktoad/video/7271217739371515179" rel="alternate"/>
-    <published>2023-08-25T11:18:42+00:00</published>
   </entry>
 </feed>
