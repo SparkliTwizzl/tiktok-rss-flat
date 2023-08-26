@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@liil.dork.alex</id>
   <title>@liil.dork.alex | TikTok</title>
-  <updated>2023-08-26T15:00:38+00:00</updated>
+  <updated>2023-08-19T02:19:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @liil.dork.alex</subtitle>
+  <entry>
+    <id>https://tiktok.com/@liil.dork.alex/video/7261035553494306094</id>
+    <title>Replying to @Michele 🫡 i gotchu </title>
+    <updated>2023-07-29T00:46:37+00:00</updated>
+    <content>Replying to @Michele 🫡 i gotchu </content>
+    <link href="https://tiktok.com/@liil.dork.alex/video/7261035553494306094" rel="alternate"/>
+    <published>2023-07-29T00:46:37+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@liil.dork.alex/video/7261736155010436395</id>
     <title>Replying to @Manne this is such a good song too 💁🏼‍♀️</title>
@@ -83,13 +91,5 @@
     <content>Of course had to hop on this sound 👀</content>
     <link href="https://tiktok.com/@liil.dork.alex/video/7268852264603766058" rel="alternate"/>
     <published>2023-08-19T02:19:19+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@liil.dork.alex/video/7271646011456605482</id>
-    <title>#CapCut i dont take many photos but this filter is cool😋</title>
-    <updated>2023-08-26T15:00:38+00:00</updated>
-    <content>#CapCut i dont take many photos but this filter is cool😋</content>
-    <link href="https://tiktok.com/@liil.dork.alex/video/7271646011456605482" rel="alternate"/>
-    <published>2023-08-26T15:00:38+00:00</published>
   </entry>
 </feed>
