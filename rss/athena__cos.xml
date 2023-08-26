@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-08-25T17:30:36+00:00</updated>
+  <updated>2023-08-26T16:43:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7266533909096123690</id>
-    <title>Inspired by @TJ version!  #gym #womenwholift </title>
-    <updated>2023-08-12T20:23:01+00:00</updated>
-    <content>Inspired by @TJ version!  #gym #womenwholift </content>
-    <link href="https://tiktok.com/@athena__cos/video/7266533909096123690" rel="alternate"/>
-    <published>2023-08-12T20:23:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7267285998357220651</id>
     <title>Not me simping for @Bella LeBaron s Shera when she starts that runway walk 😭🤌🏻🫡  #sheracosplay #wonderwomancosplay #wlwcosplay </title>
@@ -91,5 +83,13 @@
     <content>She would be a fitness creator for sure 😂 </content>
     <link href="https://tiktok.com/@athena__cos/video/7271313591163194667" rel="alternate"/>
     <published>2023-08-25T17:30:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7271672657546906926</id>
+    <title>What if Fairies were like sirens??  My siren fairy is @Raine Emery !  #fantasy #ladyknight #knightcosplay #fae #fairycosplay #fantasyaesthetic #capcut </title>
+    <updated>2023-08-26T16:43:56+00:00</updated>
+    <content>What if Fairies were like sirens??  My siren fairy is @Raine Emery !  #fantasy #ladyknight #knightcosplay #fae #fairycosplay #fantasyaesthetic #capcut </content>
+    <link href="https://tiktok.com/@athena__cos/video/7271672657546906926" rel="alternate"/>
+    <published>2023-08-26T16:43:56+00:00</published>
   </entry>
 </feed>
