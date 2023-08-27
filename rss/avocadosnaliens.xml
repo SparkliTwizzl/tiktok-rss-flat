@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avocadosnaliens</id>
   <title>@avocadosnaliens | TikTok</title>
-  <updated>2023-08-23T23:54:04+00:00</updated>
+  <updated>2023-08-27T18:10:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avocadosnaliens</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avocadosnaliens/video/7265375740638530858</id>
-    <title>[no title]</title>
-    <updated>2023-08-09T17:28:47+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@avocadosnaliens/video/7265375740638530858" rel="alternate"/>
-    <published>2023-08-09T17:28:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avocadosnaliens/video/7265398333810740526</id>
     <title>Replying to @Eriika Stephanie St- #curlyhairtutorial #curlyhairupdo #curlyhairroutine </title>
@@ -91,5 +83,13 @@
     <content>#sleepparalysis </content>
     <link href="https://tiktok.com/@avocadosnaliens/video/7270670242827799850" rel="alternate"/>
     <published>2023-08-23T23:54:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7272066106284641582</id>
+    <title>One day ill actually take you theough a full wedding day. I need an assistant badly 📷 #getdressedwithme </title>
+    <updated>2023-08-27T18:10:43+00:00</updated>
+    <content>One day ill actually take you theough a full wedding day. I need an assistant badly 📷 #getdressedwithme </content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7272066106284641582" rel="alternate"/>
+    <published>2023-08-27T18:10:43+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-08-26T16:43:56+00:00</updated>
+  <updated>2023-08-27T17:08:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7267285998357220651</id>
-    <title>Not me simping for @Bella LeBaron s Shera when she starts that runway walk 😭🤌🏻🫡  #sheracosplay #wonderwomancosplay #wlwcosplay </title>
-    <updated>2023-08-14T21:01:29+00:00</updated>
-    <content>Not me simping for @Bella LeBaron s Shera when she starts that runway walk 😭🤌🏻🫡  #sheracosplay #wonderwomancosplay #wlwcosplay </content>
-    <link href="https://tiktok.com/@athena__cos/video/7267285998357220651" rel="alternate"/>
-    <published>2023-08-14T21:01:29+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7268400475186236715</id>
     <title>If you need a confidence boost, I recommend using this on your cosplay vids #korracosplay #korra </title>
@@ -91,5 +83,13 @@
     <content>What if Fairies were like sirens??  My siren fairy is @Raine Emery !  #fantasy #ladyknight #knightcosplay #fae #fairycosplay #fantasyaesthetic #capcut </content>
     <link href="https://tiktok.com/@athena__cos/video/7271672657546906926" rel="alternate"/>
     <published>2023-08-26T16:43:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7272049915096796459</id>
+    <title>He’s a literal teddy bear #korracosplay #avatar #avatarcosplay </title>
+    <updated>2023-08-27T17:08:01+00:00</updated>
+    <content>He’s a literal teddy bear #korracosplay #avatar #avatarcosplay </content>
+    <link href="https://tiktok.com/@athena__cos/video/7272049915096796459" rel="alternate"/>
+    <published>2023-08-27T17:08:01+00:00</published>
   </entry>
 </feed>
