@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-08-25T20:48:04+00:00</updated>
+  <updated>2023-08-27T20:55:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7270593368613276971</id>
-    <title>Replying to @ncaafootball09wii #reply #solardidsystem #sssaphira #ssvesper </title>
-    <updated>2023-08-23T18:55:47+00:00</updated>
-    <content>Replying to @ncaafootball09wii #reply #solardidsystem #sssaphira #ssvesper </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7270593368613276971" rel="alternate"/>
-    <published>2023-08-23T18:55:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7270619167038967082</id>
     <title>Replying to @thetruekiwi #reply #solardidsystem #ssvesper Fusion was never the goal of our relationship. We like being separate too much. </title>
@@ -91,5 +83,13 @@
     <content>Replying to @serenadusk #reply of course 🥰 #solardidsystem #ladybug </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7271364484449701166" rel="alternate"/>
     <published>2023-08-25T20:48:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7272108557275860267</id>
+    <title>Replying to @cyberlioness #reply @Solar (Taylor's Version) For another deep dive into our experience as persecutors, check out the video I linked about what the inside of our head sounds like. #solardidsystem #ssquinn #dissociativeidentitydisorder #persec</title>
+    <updated>2023-08-27T20:55:27+00:00</updated>
+    <content>Replying to @cyberlioness #reply @Solar (Taylor's Version) For another deep dive into our experience as persecutors, check out the video I linked about what the inside of our head sounds like. #solardidsystem #ssquinn #dissociativeidentitydisorder #persecutor #persecutoralter </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7272108557275860267" rel="alternate"/>
+    <published>2023-08-27T20:55:27+00:00</published>
   </entry>
 </feed>
