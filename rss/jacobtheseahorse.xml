@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jacobtheseahorse</id>
   <title>@jacobtheseahorse | TikTok</title>
-  <updated>2023-08-24T12:59:34+00:00</updated>
+  <updated>2023-08-27T10:13:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jacobtheseahorse</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7263530831669447968</id>
-    <title>the world is better with you in it 💜 #song #mentalhealth #prevention #survive #depression #anxiety #support #you #are #loved #keepgoing #trans #lgbt #duet #music #sing #harmony </title>
-    <updated>2023-08-04T18:09:24+00:00</updated>
-    <content>the world is better with you in it 💜 #song #mentalhealth #prevention #survive #depression #anxiety #support #you #are #loved #keepgoing #trans #lgbt #duet #music #sing #harmony </content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7263530831669447968" rel="alternate"/>
-    <published>2023-08-04T18:09:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jacobtheseahorse/video/7264308554973138208</id>
     <title>#duet with @Allison Tennyson #chronicillness holy guacamole, that is such an important reframe #longcovid #chronicillness #disability #sensoryprocessingdisorder #actuallyautistic #adhd #adhdtiktok #asd #fatigue #me #cfs </title>
@@ -91,5 +83,13 @@
     <content>Replying to @user123472626278 pedantry is all when and good when it doesn't risk harm to other people. I am letting you know this causes me harm.  and although you don't need to understand I am happy to keep trying to explain. what I'm not willing to do is argue over pedantry. #trans #pregnancy #transpregnancy #chestfeeding #breastfeeding #language #dysphoria </content>
     <link href="https://tiktok.com/@jacobtheseahorse/video/7270872691396054305" rel="alternate"/>
     <published>2023-08-24T12:59:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7271943191010512161</id>
+    <title>Replying to @moomintroll104  I want to be as approachable as possible but I have a limit when it comes to making out that my marginalised community need to toe an invisible line before we're worthy of respect and basic rights.  #trans #ally #transgender #</title>
+    <updated>2023-08-27T10:13:41+00:00</updated>
+    <content>Replying to @moomintroll104  I want to be as approachable as possible but I have a limit when it comes to making out that my marginalised community need to toe an invisible line before we're worthy of respect and basic rights.  #trans #ally #transgender #queer #lgbt </content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7271943191010512161" rel="alternate"/>
+    <published>2023-08-27T10:13:41+00:00</published>
   </entry>
 </feed>
