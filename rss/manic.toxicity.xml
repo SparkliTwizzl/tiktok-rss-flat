@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@manic.toxicity</id>
   <title>@manic.toxicity | TikTok</title>
-  <updated>2023-08-26T01:29:35+00:00</updated>
+  <updated>2023-08-27T18:23:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @manic.toxicity</subtitle>
-  <entry>
-    <id>https://tiktok.com/@manic.toxicity/video/7263558879903092011</id>
-    <title>just me and you, and you and me, alone #fyp #foryou </title>
-    <updated>2023-08-04T20:02:34+00:00</updated>
-    <content>just me and you, and you and me, alone #fyp #foryou </content>
-    <link href="https://tiktok.com/@manic.toxicity/video/7263558879903092011" rel="alternate"/>
-    <published>2023-08-04T20:02:34+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@manic.toxicity/video/7264322256786967850</id>
     <title>i only talk to dogs, because they dint understand me ! #fyp #foryou </title>
@@ -91,5 +83,13 @@
     <content>baldurs game streak w some buddies! starting now ! #fyp #foryou  twitch.tv/manictoxicity  irs connected to my link tree in bio ! </content>
     <link href="https://tiktok.com/@manic.toxicity/video/7271437015483305259" rel="alternate"/>
     <published>2023-08-26T01:29:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@manic.toxicity/video/7272069389187370282</id>
+    <title>#onthisday  this makes me wanna do the eyeshadow under my eyeliner again hahah dear god if ore my eyebrows </title>
+    <updated>2023-08-27T18:23:24+00:00</updated>
+    <content>#onthisday  this makes me wanna do the eyeshadow under my eyeliner again hahah dear god if ore my eyebrows </content>
+    <link href="https://tiktok.com/@manic.toxicity/video/7272069389187370282" rel="alternate"/>
+    <published>2023-08-27T18:23:24+00:00</published>
   </entry>
 </feed>
