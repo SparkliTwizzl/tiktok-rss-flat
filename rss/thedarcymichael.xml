@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-08-26T20:20:53+00:00</updated>
+  <updated>2023-08-28T17:59:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7267557805861752070</id>
-    <title>Moving, the marriage test. </title>
-    <updated>2023-08-15T14:36:05+00:00</updated>
-    <content>Moving, the marriage test. </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7267557805861752070" rel="alternate"/>
-    <published>2023-08-15T14:36:05+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7267978593752403206</id>
-    <title>Excuse us while we gush like the couple of proud dads we are. Trust us this was the least sappiest take so consider yourselves lucky. #prouddads #bcwhales #parenting #pride #darcyandjer </title>
-    <updated>2023-08-16T17:48:57+00:00</updated>
-    <content>Excuse us while we gush like the couple of proud dads we are. Trust us this was the least sappiest take so consider yourselves lucky. #prouddads #bcwhales #parenting #pride #darcyandjer </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7267978593752403206" rel="alternate"/>
-    <published>2023-08-16T17:48:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7268315485408709893</id>
     <title>The attitude is gratitude. </title>
@@ -91,5 +75,21 @@
     <content>Replying to @Randomness with Renee 💚 gardening, spitfulness &amp; adhd all in on video just for you!</content>
     <link href="https://tiktok.com/@thedarcymichael/video/7271728589853314310" rel="alternate"/>
     <published>2023-08-26T20:20:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7272399369553333509</id>
+    <title>We love the trust #standup #trustfall </title>
+    <updated>2023-08-28T15:43:50+00:00</updated>
+    <content>We love the trust #standup #trustfall </content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7272399369553333509" rel="alternate"/>
+    <published>2023-08-28T15:43:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7272434294503509254</id>
+    <title>The marriage test continues but dont worry yall, im here to watch over him </title>
+    <updated>2023-08-28T17:59:21+00:00</updated>
+    <content>The marriage test continues but dont worry yall, im here to watch over him </content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7272434294503509254" rel="alternate"/>
+    <published>2023-08-28T17:59:21+00:00</published>
   </entry>
 </feed>
