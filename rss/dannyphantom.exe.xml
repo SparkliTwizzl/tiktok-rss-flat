@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dannyphantom.exe</id>
   <title>@dannyphantom.exe | TikTok</title>
-  <updated>2023-08-27T02:15:28+00:00</updated>
+  <updated>2023-08-28T02:16:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dannyphantom.exe</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7269593397667613995</id>
-    <title>how do people go to sleep in complete silence like ARE U CRAZY??</title>
-    <updated>2023-08-21T02:15:19+00:00</updated>
-    <content>how do people go to sleep in complete silence like ARE U CRAZY??</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7269593397667613995" rel="alternate"/>
-    <published>2023-08-21T02:15:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dannyphantom.exe/video/7269593706804677931</id>
     <title>tag someone who loves “doing” lgbt</title>
@@ -91,5 +83,13 @@
     <content>wish i had green eyes</content>
     <link href="https://tiktok.com/@dannyphantom.exe/video/7271819939588148522" rel="alternate"/>
     <published>2023-08-27T02:15:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7272191185693805867</id>
+    <title>VILLIAN DONT TELL THEM ABOUT THE BODIES</title>
+    <updated>2023-08-28T02:16:08+00:00</updated>
+    <content>VILLIAN DONT TELL THEM ABOUT THE BODIES</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7272191185693805867" rel="alternate"/>
+    <published>2023-08-28T02:16:08+00:00</published>
   </entry>
 </feed>
