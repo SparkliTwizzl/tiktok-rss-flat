@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@atreegod</id>
   <title>@atreegod | TikTok</title>
-  <updated>2023-08-28T15:35:44+00:00</updated>
+  <updated>2023-08-28T20:59:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @atreegod</subtitle>
-  <entry>
-    <id>https://tiktok.com/@atreegod/video/7268909056754978091</id>
-    <title>Commute home got us messed up #lgbtq #wlw </title>
-    <updated>2023-08-19T05:59:52+00:00</updated>
-    <content>Commute home got us messed up #lgbtq #wlw </content>
-    <link href="https://tiktok.com/@atreegod/video/7268909056754978091" rel="alternate"/>
-    <published>2023-08-19T05:59:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@atreegod/video/7269169463449128238</id>
     <title>Work vs home #wlw #lgbtq </title>
@@ -91,5 +83,13 @@
     <content>I like this one more #wlw #lgbtq </content>
     <link href="https://tiktok.com/@atreegod/video/7272397156215049515" rel="alternate"/>
     <published>2023-08-28T15:35:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7272480539070827822</id>
+    <title>Hi welcome to bluestone 🤓 #wlw #lgbtq #barista </title>
+    <updated>2023-08-28T20:59:00+00:00</updated>
+    <content>Hi welcome to bluestone 🤓 #wlw #lgbtq #barista </content>
+    <link href="https://tiktok.com/@atreegod/video/7272480539070827822" rel="alternate"/>
+    <published>2023-08-28T20:59:00+00:00</published>
   </entry>
 </feed>
