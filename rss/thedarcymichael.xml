@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-08-28T17:59:21+00:00</updated>
+  <updated>2023-08-28T18:32:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -77,19 +77,19 @@
     <published>2023-08-26T20:20:53+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7272399369553333509</id>
-    <title>We love the trust #standup #trustfall </title>
-    <updated>2023-08-28T15:43:50+00:00</updated>
-    <content>We love the trust #standup #trustfall </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7272399369553333509" rel="alternate"/>
-    <published>2023-08-28T15:43:50+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7272434294503509254</id>
     <title>The marriage test continues but dont worry yall, im here to watch over him </title>
     <updated>2023-08-28T17:59:21+00:00</updated>
     <content>The marriage test continues but dont worry yall, im here to watch over him </content>
     <link href="https://tiktok.com/@thedarcymichael/video/7272434294503509254" rel="alternate"/>
     <published>2023-08-28T17:59:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7272442899785108742</id>
+    <title>#stitch with @PinkNews 🏳️‍🌈🏳️‍⚧️ love &amp; acceptance shouldnt be feared. ❤️</title>
+    <updated>2023-08-28T18:32:45+00:00</updated>
+    <content>#stitch with @PinkNews 🏳️‍🌈🏳️‍⚧️ love &amp; acceptance shouldnt be feared. ❤️</content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7272442899785108742" rel="alternate"/>
+    <published>2023-08-28T18:32:45+00:00</published>
   </entry>
 </feed>
