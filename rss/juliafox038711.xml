@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@juliafox038711</id>
   <title>@juliafox038711 | TikTok</title>
-  <updated>2023-08-23T16:40:11+00:00</updated>
+  <updated>2023-08-28T04:41:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juliafox038711</subtitle>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7267355798626422059</id>
-    <title>like i cannot wait untill my next one</title>
-    <updated>2023-08-15T01:32:21+00:00</updated>
-    <content>like i cannot wait untill my next one</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7267355798626422059" rel="alternate"/>
-    <published>2023-08-15T01:32:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@juliafox038711/video/7267798768454536491</id>
     <title>🤞🤞</title>
@@ -91,5 +83,13 @@
     <content>#infiniteworld THIS IS SO COOL OML #aidilter #capcut </content>
     <link href="https://tiktok.com/@juliafox038711/video/7270558410150579499" rel="alternate"/>
     <published>2023-08-23T16:40:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7272228499203558699</id>
+    <title>posting for the first half, was on BEAT</title>
+    <updated>2023-08-28T04:41:00+00:00</updated>
+    <content>posting for the first half, was on BEAT</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7272228499203558699" rel="alternate"/>
+    <published>2023-08-28T04:41:00+00:00</published>
   </entry>
 </feed>
