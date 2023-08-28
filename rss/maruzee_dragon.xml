@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maruzee_dragon</id>
   <title>@maruzee_dragon | TikTok</title>
-  <updated>2023-08-26T02:13:48+00:00</updated>
+  <updated>2023-08-28T02:14:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maruzee_dragon</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maruzee_dragon/video/7265512669652831493</id>
-    <title>Got a bit inspired by Valorant for this transition...Any teams recruiting a fresh agent?! #videogames #gamer #valorant #gaming #transition </title>
-    <updated>2023-08-10T02:19:56+00:00</updated>
-    <content>Got a bit inspired by Valorant for this transition...Any teams recruiting a fresh agent?! #videogames #gamer #valorant #gaming #transition </content>
-    <link href="https://tiktok.com/@maruzee_dragon/video/7265512669652831493" rel="alternate"/>
-    <published>2023-08-10T02:19:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maruzee_dragon/video/7265880516216376581</id>
     <title>Réponse à @xxxv1o  Challenge accepted: Scorpion Kick + fans + transition ✔️. I got a bit inspired by Kitana as well!😅 #transition #mk #skills #videogames </title>
@@ -91,5 +83,13 @@
     <content>Who else is waiting for MK1🥹?! #kick #martialarts #sport #videogames #mk #gaming </content>
     <link href="https://tiktok.com/@maruzee_dragon/video/7271448458446376197" rel="alternate"/>
     <published>2023-08-26T02:13:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maruzee_dragon/video/7272190851940437253</id>
+    <title>Yes, that was me... 🫠👍</title>
+    <updated>2023-08-28T02:14:41+00:00</updated>
+    <content>Yes, that was me... 🫠👍</content>
+    <link href="https://tiktok.com/@maruzee_dragon/video/7272190851940437253" rel="alternate"/>
+    <published>2023-08-28T02:14:41+00:00</published>
   </entry>
 </feed>
