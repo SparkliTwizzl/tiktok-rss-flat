@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ohgobliin</id>
   <title>@ohgobliin | TikTok</title>
-  <updated>2023-08-29T20:16:18.815562+00:00</updated>
+  <updated>2023-08-26T16:25:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,4 +12,84 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ohgobliin</subtitle>
+  <entry>
+    <id>https://tiktok.com/@ohgobliin/video/7254729666370604315</id>
+    <title>@miles for you bb</title>
+    <updated>2023-07-12T00:56:48+00:00</updated>
+    <content>@miles for you bb</content>
+    <link href="https://tiktok.com/@ohgobliin/video/7254729666370604315" rel="alternate"/>
+    <published>2023-07-12T00:56:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ohgobliin/video/7258261291775577370</id>
+    <title>[no title]</title>
+    <updated>2023-07-21T13:20:56+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@ohgobliin/video/7258261291775577370" rel="alternate"/>
+    <published>2023-07-21T13:20:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ohgobliin/video/7258730242011876634</id>
+    <title>[no title]</title>
+    <updated>2023-07-22T19:40:38+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@ohgobliin/video/7258730242011876634" rel="alternate"/>
+    <published>2023-07-22T19:40:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ohgobliin/video/7261097060252929307</id>
+    <title>this music video awoke something in me as a child</title>
+    <updated>2023-07-29T04:45:56+00:00</updated>
+    <content>this music video awoke something in me as a child</content>
+    <link href="https://tiktok.com/@ohgobliin/video/7261097060252929307" rel="alternate"/>
+    <published>2023-07-29T04:45:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ohgobliin/video/7262783286626290977</id>
+    <title>[no title]</title>
+    <updated>2023-08-02T17:48:32+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@ohgobliin/video/7262783286626290977" rel="alternate"/>
+    <published>2023-08-02T17:48:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ohgobliin/video/7264149346751368481</id>
+    <title>[no title]</title>
+    <updated>2023-08-06T10:09:34+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@ohgobliin/video/7264149346751368481" rel="alternate"/>
+    <published>2023-08-06T10:09:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ohgobliin/video/7264346779041238304</id>
+    <title>for those in the back</title>
+    <updated>2023-08-06T22:55:51+00:00</updated>
+    <content>for those in the back</content>
+    <link href="https://tiktok.com/@ohgobliin/video/7264346779041238304" rel="alternate"/>
+    <published>2023-08-06T22:55:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ohgobliin/video/7269843085431934241</id>
+    <title>[no title]</title>
+    <updated>2023-08-21T18:24:11+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@ohgobliin/video/7269843085431934241" rel="alternate"/>
+    <published>2023-08-21T18:24:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ohgobliin/video/7270992055025896737</id>
+    <title>[no title]</title>
+    <updated>2023-08-24T20:42:47+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@ohgobliin/video/7270992055025896737" rel="alternate"/>
+    <published>2023-08-24T20:42:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ohgobliin/video/7271667836374797601</id>
+    <title>for you&lt;3</title>
+    <updated>2023-08-26T16:25:08+00:00</updated>
+    <content>for you&lt;3</content>
+    <link href="https://tiktok.com/@ohgobliin/video/7271667836374797601" rel="alternate"/>
+    <published>2023-08-26T16:25:08+00:00</published>
+  </entry>
 </feed>
