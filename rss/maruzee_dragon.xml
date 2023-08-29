@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maruzee_dragon</id>
   <title>@maruzee_dragon | TikTok</title>
-  <updated>2023-08-28T02:14:41+00:00</updated>
+  <updated>2023-08-29T00:05:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maruzee_dragon</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maruzee_dragon/video/7265880516216376581</id>
-    <title>Réponse à @xxxv1o  Challenge accepted: Scorpion Kick + fans + transition ✔️. I got a bit inspired by Kitana as well!😅 #transition #mk #skills #videogames </title>
-    <updated>2023-08-11T02:07:23+00:00</updated>
-    <content>Réponse à @xxxv1o  Challenge accepted: Scorpion Kick + fans + transition ✔️. I got a bit inspired by Kitana as well!😅 #transition #mk #skills #videogames </content>
-    <link href="https://tiktok.com/@maruzee_dragon/video/7265880516216376581" rel="alternate"/>
-    <published>2023-08-11T02:07:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maruzee_dragon/video/7266808105655209222</id>
     <title>Some Raphael-inspired moves for today🐢✨️...How about we dive into some Elektra action next?! #martialarts #sports #training #kick </title>
@@ -91,5 +83,13 @@
     <content>Yes, that was me... 🫠👍</content>
     <link href="https://tiktok.com/@maruzee_dragon/video/7272190851940437253" rel="alternate"/>
     <published>2023-08-28T02:14:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maruzee_dragon/video/7272528601541528837</id>
+    <title>Unleashing my inner warrior 💪🔥 #transitions #cosplay #NieRAutomata #NarakaBladepoint #gloryisours </title>
+    <updated>2023-08-29T00:05:18+00:00</updated>
+    <content>Unleashing my inner warrior 💪🔥 #transitions #cosplay #NieRAutomata #NarakaBladepoint #gloryisours </content>
+    <link href="https://tiktok.com/@maruzee_dragon/video/7272528601541528837" rel="alternate"/>
+    <published>2023-08-29T00:05:18+00:00</published>
   </entry>
 </feed>
