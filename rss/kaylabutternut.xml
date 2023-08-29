@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-08-27T22:26:36+00:00</updated>
+  <updated>2023-08-29T02:26:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7269051284366380331</id>
-    <title>11:11</title>
-    <updated>2023-08-19T15:11:49+00:00</updated>
-    <content>11:11</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7269051284366380331" rel="alternate"/>
-    <published>2023-08-19T15:11:49+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7269080009304804650</id>
-    <title>Weird mirror, insane view</title>
-    <updated>2023-08-19T17:03:10+00:00</updated>
-    <content>Weird mirror, insane view</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7269080009304804650" rel="alternate"/>
-    <published>2023-08-19T17:03:10+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7269081292254285102</id>
-    <title>I’m my own favorite lady</title>
-    <updated>2023-08-19T17:08:07+00:00</updated>
-    <content>I’m my own favorite lady</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7269081292254285102" rel="alternate"/>
-    <published>2023-08-19T17:08:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7269082047577066794</id>
     <title>Posting without worrying too much </title>
@@ -91,5 +67,29 @@
     <content>@trap 💋 always stuck in my head</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7272132019176443178" rel="alternate"/>
     <published>2023-08-27T22:26:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7272561510197595435</id>
+    <title>Jeans or nah</title>
+    <updated>2023-08-29T02:13:11+00:00</updated>
+    <content>Jeans or nah</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7272561510197595435" rel="alternate"/>
+    <published>2023-08-29T02:13:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7272564034841464110</id>
+    <title>[no title]</title>
+    <updated>2023-08-29T02:22:58+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7272564034841464110" rel="alternate"/>
+    <published>2023-08-29T02:22:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7272564852563004718</id>
+    <title>[no title]</title>
+    <updated>2023-08-29T02:26:03+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7272564852563004718" rel="alternate"/>
+    <published>2023-08-29T02:26:03+00:00</published>
   </entry>
 </feed>
