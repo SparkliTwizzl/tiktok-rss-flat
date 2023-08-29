@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-08-27T20:55:27+00:00</updated>
+  <updated>2023-08-29T18:29:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7270619167038967082</id>
-    <title>Replying to @thetruekiwi #reply #solardidsystem #ssvesper Fusion was never the goal of our relationship. We like being separate too much. </title>
-    <updated>2023-08-23T20:35:57+00:00</updated>
-    <content>Replying to @thetruekiwi #reply #solardidsystem #ssvesper Fusion was never the goal of our relationship. We like being separate too much. </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7270619167038967082" rel="alternate"/>
-    <published>2023-08-23T20:35:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7270634450734583086</id>
-    <title>A little longer video talking about the different relationships we have/have had in our system #solardidsystem #ssvesper #dissociativeidentitydisorder </title>
-    <updated>2023-08-23T21:35:10+00:00</updated>
-    <content>A little longer video talking about the different relationships we have/have had in our system #solardidsystem #ssvesper #dissociativeidentitydisorder </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7270634450734583086" rel="alternate"/>
-    <published>2023-08-23T21:35:10+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7270643620150070571</id>
-    <title>We missed talking to each other so much #solardidsystem #ssvesper #sssaphira </title>
-    <updated>2023-08-23T22:10:48+00:00</updated>
-    <content>We missed talking to each other so much #solardidsystem #ssvesper #sssaphira </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7270643620150070571" rel="alternate"/>
-    <published>2023-08-23T22:10:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7271035699216796970</id>
     <title>Replying to @stuffwithbits #reply to @Mandolin #solardidsystem #dissociativeidentitydisorder #ssperegrine </title>
@@ -91,5 +67,29 @@
     <content>Replying to @cyberlioness #reply @Solar (Taylor's Version) For another deep dive into our experience as persecutors, check out the video I linked about what the inside of our head sounds like. #solardidsystem #ssquinn #dissociativeidentitydisorder #persecutor #persecutoralter </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7272108557275860267" rel="alternate"/>
     <published>2023-08-27T20:55:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7272796066796309802</id>
+    <title>Stay safe ⛑️🧥👖#solardidsystem #ssquinn #biker #motorcycle #safety </title>
+    <updated>2023-08-29T17:23:20+00:00</updated>
+    <content>Stay safe ⛑️🧥👖#solardidsystem #ssquinn #biker #motorcycle #safety </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7272796066796309802" rel="alternate"/>
+    <published>2023-08-29T17:23:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7272805845623409966</id>
+    <title>Does this mean the FNAF movie will have TSwift Easter eggs? 🤔🤔🤔 #taylorswift #1989taylorsversion #fivenightsatfreddys #fnaf </title>
+    <updated>2023-08-29T18:01:27+00:00</updated>
+    <content>Does this mean the FNAF movie will have TSwift Easter eggs? 🤔🤔🤔 #taylorswift #1989taylorsversion #fivenightsatfreddys #fnaf </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7272805845623409966" rel="alternate"/>
+    <published>2023-08-29T18:01:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7272813088779324714</id>
+    <title>You do not know because you do not seek to understand. Your knowledge is not complete because you have a degree. There is always more to be learned. Listen to us. #solardidsystem #ssquinn #dissociativeidentitydisorder </title>
+    <updated>2023-08-29T18:29:29+00:00</updated>
+    <content>You do not know because you do not seek to understand. Your knowledge is not complete because you have a degree. There is always more to be learned. Listen to us. #solardidsystem #ssquinn #dissociativeidentitydisorder </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7272813088779324714" rel="alternate"/>
+    <published>2023-08-29T18:29:29+00:00</published>
   </entry>
 </feed>
