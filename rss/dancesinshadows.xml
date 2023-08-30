@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-08-28T14:36:06+00:00</updated>
+  <updated>2023-08-30T15:29:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7267224839134530821</id>
-    <title>#duet with @DancesinShadows  I have two sides, the calm collected one, and the chaotic creative side. 😅#maladytheclown  #maladyandglum #adhd #neurodivergent </title>
-    <updated>2023-08-14T17:04:02+00:00</updated>
-    <content>#duet with @DancesinShadows  I have two sides, the calm collected one, and the chaotic creative side. 😅#maladytheclown  #maladyandglum #adhd #neurodivergent </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7267224839134530821" rel="alternate"/>
-    <published>2023-08-14T17:04:02+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7267585274186583302</id>
     <title>feel free to duet. I confuse alot of people with my gender fluidity, and as a result, have heard some pretty unbelievable things about myself.  😅 #glumthesupernaturalhitman #mindyourbusiness #genderfluid </title>
@@ -91,5 +83,13 @@
     <content>It was nice while it lasted. Now to get the kiddo ready for a new school year, and prep for my own booth next month at Hamilton Comicon #fanexpo #backtoreality😭 </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7272381918988061958" rel="alternate"/>
     <published>2023-08-28T14:36:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7273137760435719429</id>
+    <title>a better look at my Pirate Harley look from #fanexpocanada my original costume for the day did not get finished in time, so I put this together the day of the con 😅 most of this is thrifted from over the years  #harleyquinn #pirateharleyquinn #pirateharle</title>
+    <updated>2023-08-30T15:29:09+00:00</updated>
+    <content>a better look at my Pirate Harley look from #fanexpocanada my original costume for the day did not get finished in time, so I put this together the day of the con 😅 most of this is thrifted from over the years  #harleyquinn #pirateharleyquinn #pirateharleyquinncosplay </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7273137760435719429" rel="alternate"/>
+    <published>2023-08-30T15:29:09+00:00</published>
   </entry>
 </feed>
