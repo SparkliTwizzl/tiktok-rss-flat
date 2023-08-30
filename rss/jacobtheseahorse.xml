@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jacobtheseahorse</id>
   <title>@jacobtheseahorse | TikTok</title>
-  <updated>2023-08-27T10:13:41+00:00</updated>
+  <updated>2023-08-30T15:06:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jacobtheseahorse</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7264308554973138208</id>
-    <title>#duet with @Allison Tennyson #chronicillness holy guacamole, that is such an important reframe #longcovid #chronicillness #disability #sensoryprocessingdisorder #actuallyautistic #adhd #adhdtiktok #asd #fatigue #me #cfs </title>
-    <updated>2023-08-06T20:27:22+00:00</updated>
-    <content>#duet with @Allison Tennyson #chronicillness holy guacamole, that is such an important reframe #longcovid #chronicillness #disability #sensoryprocessingdisorder #actuallyautistic #adhd #adhdtiktok #asd #fatigue #me #cfs </content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7264308554973138208" rel="alternate"/>
-    <published>2023-08-06T20:27:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jacobtheseahorse/video/7266938406855298336</id>
     <title>#duet with @cammi mcdermott 🌈 #nonbinary I'm supposed to be asleep but I had to sing with this because it spoke to me in such a deep way.  (I'm singing quietly so I don't wake my kids!) my transness is so important to me and for me that involves loving an</title>
@@ -91,5 +83,13 @@
     <content>Replying to @moomintroll104  I want to be as approachable as possible but I have a limit when it comes to making out that my marginalised community need to toe an invisible line before we're worthy of respect and basic rights.  #trans #ally #transgender #queer #lgbt </content>
     <link href="https://tiktok.com/@jacobtheseahorse/video/7271943191010512161" rel="alternate"/>
     <published>2023-08-27T10:13:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7273132001752845600</id>
+    <title>#stitch with @Lindsay Borow I love a horrifying personification of a tooth on my dental products #graphicdesign #parenting #parents #toothpaste </title>
+    <updated>2023-08-30T15:06:52+00:00</updated>
+    <content>#stitch with @Lindsay Borow I love a horrifying personification of a tooth on my dental products #graphicdesign #parenting #parents #toothpaste </content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7273132001752845600" rel="alternate"/>
+    <published>2023-08-30T15:06:52+00:00</published>
   </entry>
 </feed>
