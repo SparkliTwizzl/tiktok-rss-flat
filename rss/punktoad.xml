@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-08-29T18:04:22+00:00</updated>
+  <updated>2023-08-31T01:42:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7270144803558559022</id>
-    <title>I dont wanna </title>
-    <updated>2023-08-22T13:55:06+00:00</updated>
-    <content>I dont wanna </content>
-    <link href="https://tiktok.com/@punktoad/video/7270144803558559022" rel="alternate"/>
-    <published>2023-08-22T13:55:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7270331306884779310</id>
     <title>Replying to @✨Stink✨ Review of Riot! By Paramore #riot #paramore #emomusic #elderemo </title>
@@ -91,5 +83,13 @@
     <content>I said what I said #respect </content>
     <link href="https://tiktok.com/@punktoad/video/7272806577986456875" rel="alternate"/>
     <published>2023-08-29T18:04:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7273295877106830638</id>
+    <title>I cant get away from it #cottoneyejoe </title>
+    <updated>2023-08-31T01:42:52+00:00</updated>
+    <content>I cant get away from it #cottoneyejoe </content>
+    <link href="https://tiktok.com/@punktoad/video/7273295877106830638" rel="alternate"/>
+    <published>2023-08-31T01:42:52+00:00</published>
   </entry>
 </feed>
