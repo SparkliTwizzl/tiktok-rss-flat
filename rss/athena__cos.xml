@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-08-29T20:34:14+00:00</updated>
+  <updated>2023-08-31T18:09:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7269489591936191787</id>
-    <title>Conversations with Zaheer, Homelander edition </title>
-    <updated>2023-08-20T19:32:34+00:00</updated>
-    <content>Conversations with Zaheer, Homelander edition </content>
-    <link href="https://tiktok.com/@athena__cos/video/7269489591936191787" rel="alternate"/>
-    <published>2023-08-20T19:32:34+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7269814851256470827</id>
     <title>This post is a little more vulnerable ( a lot more vulnerable) than my usual content. That first picture was hard to look at because it is from the lowest point of my life. A time i could hardly look myself in the mirror and felt no hope. I worked hard fo</title>
@@ -91,5 +83,13 @@
     <content>@VILLAGE HIDDEN IN IRON spoils me for real 😭💜 fun fact, cherry blossoms are my favorite flower! </content>
     <link href="https://tiktok.com/@athena__cos/video/7272845241118428458" rel="alternate"/>
     <published>2023-08-29T20:34:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7273550099068865834</id>
+    <title>This goes for cosplay as well (or muscles IN cosplay) #women #buffwomen </title>
+    <updated>2023-08-31T18:09:23+00:00</updated>
+    <content>This goes for cosplay as well (or muscles IN cosplay) #women #buffwomen </content>
+    <link href="https://tiktok.com/@athena__cos/video/7273550099068865834" rel="alternate"/>
+    <published>2023-08-31T18:09:23+00:00</published>
   </entry>
 </feed>
