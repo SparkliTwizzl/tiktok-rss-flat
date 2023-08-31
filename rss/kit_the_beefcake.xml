@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kit_the_beefcake</id>
   <title>@kit_the_beefcake | TikTok</title>
-  <updated>2023-08-30T03:05:03+00:00</updated>
+  <updated>2023-08-31T00:54:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,30 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kit_the_beefcake</subtitle>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7268575621859560747</id>
+    <title>[no title]</title>
+    <updated>2023-08-18T08:26:29+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7268575621859560747" rel="alternate"/>
+    <published>2023-08-18T08:26:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7268919639453814059</id>
+    <title>[no title]</title>
+    <updated>2023-08-19T06:40:57+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7268919639453814059" rel="alternate"/>
+    <published>2023-08-19T06:40:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7269413810358865195</id>
+    <title>they keep track of how many times I get hit on and get mad 😂😂 </title>
+    <updated>2023-08-20T14:38:39+00:00</updated>
+    <content>they keep track of how many times I get hit on and get mad 😂😂 </content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7269413810358865195" rel="alternate"/>
+    <published>2023-08-20T14:38:39+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7270058026487532846</id>
     <title>Guys shes gorgeous oml i get to see her tonight im so excited </title>
@@ -37,14 +61,6 @@
     <published>2023-08-24T23:59:59+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7271104513589742891</id>
-    <title>Im gonna clean it i swear 😂 #adhd #funny #2319 #monstersinc #fyp #foryou #neurodivergent </title>
-    <updated>2023-08-25T03:59:14+00:00</updated>
-    <content>Im gonna clean it i swear 😂 #adhd #funny #2319 #monstersinc #fyp #foryou #neurodivergent </content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7271104513589742891" rel="alternate"/>
-    <published>2023-08-25T03:59:14+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7271808126351887658</id>
     <title>theories??? </title>
     <updated>2023-08-27T01:29:41+00:00</updated>
@@ -61,35 +77,19 @@
     <published>2023-08-28T10:53:11+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7272546399710055726</id>
-    <title>Its hopeless</title>
-    <updated>2023-08-29T01:14:31+00:00</updated>
-    <content>Its hopeless</content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7272546399710055726" rel="alternate"/>
-    <published>2023-08-29T01:14:31+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7272719359179623723</id>
-    <title>Its expensive for me to be alive 🥲</title>
-    <updated>2023-08-29T12:25:43+00:00</updated>
-    <content>Its expensive for me to be alive 🥲</content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7272719359179623723" rel="alternate"/>
-    <published>2023-08-29T12:25:43+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7272928973162663210</id>
-    <title>[no title]</title>
-    <updated>2023-08-30T01:59:09+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7272928973162663210" rel="alternate"/>
-    <published>2023-08-30T01:59:09+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7272945945732517163</id>
     <title>[no title]</title>
     <updated>2023-08-30T03:05:03+00:00</updated>
     <content>[no description]</content>
     <link href="https://tiktok.com/@kit_the_beefcake/video/7272945945732517163" rel="alternate"/>
     <published>2023-08-30T03:05:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7273283540911951146</id>
+    <title>#duet with @The Ebony Ranger ☭ PREACH </title>
+    <updated>2023-08-31T00:54:59+00:00</updated>
+    <content>#duet with @The Ebony Ranger ☭ PREACH </content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7273283540911951146" rel="alternate"/>
+    <published>2023-08-31T00:54:59+00:00</published>
   </entry>
 </feed>
