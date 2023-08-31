@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@manic.toxicity</id>
   <title>@manic.toxicity | TikTok</title>
-  <updated>2023-08-27T18:23:24+00:00</updated>
+  <updated>2023-08-31T20:16:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @manic.toxicity</subtitle>
-  <entry>
-    <id>https://tiktok.com/@manic.toxicity/video/7264322256786967850</id>
-    <title>i only talk to dogs, because they dint understand me ! #fyp #foryou </title>
-    <updated>2023-08-06T21:20:40+00:00</updated>
-    <content>i only talk to dogs, because they dint understand me ! #fyp #foryou </content>
-    <link href="https://tiktok.com/@manic.toxicity/video/7264322256786967850" rel="alternate"/>
-    <published>2023-08-06T21:20:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@manic.toxicity/video/7265045689875418411</id>
     <title>bike reveal for all those whove been asking &lt;3 :) #fyp #foryou</title>
@@ -91,5 +83,13 @@
     <content>#onthisday  this makes me wanna do the eyeshadow under my eyeliner again hahah dear god if ore my eyebrows </content>
     <link href="https://tiktok.com/@manic.toxicity/video/7272069389187370282" rel="alternate"/>
     <published>2023-08-27T18:23:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@manic.toxicity/video/7273582943497604398</id>
+    <title>bike was out of commisipn for a bit, but were back up n running :) #fyp #foryou </title>
+    <updated>2023-08-31T20:16:57+00:00</updated>
+    <content>bike was out of commisipn for a bit, but were back up n running :) #fyp #foryou </content>
+    <link href="https://tiktok.com/@manic.toxicity/video/7273582943497604398" rel="alternate"/>
+    <published>2023-08-31T20:16:57+00:00</published>
   </entry>
 </feed>
