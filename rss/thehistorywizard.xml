@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thehistorywizard</id>
   <title>@thehistorywizard | TikTok</title>
-  <updated>2023-08-30T13:34:45+00:00</updated>
+  <updated>2023-08-31T13:24:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thehistorywizard</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thehistorywizard/video/7269201480161234218</id>
-    <title>#stitch with @Leah Orleans AKA Stahr Power I have the coolest friends. #thehistorywizard #stahrpower #renfaire </title>
-    <updated>2023-08-20T00:54:26+00:00</updated>
-    <content>#stitch with @Leah Orleans AKA Stahr Power I have the coolest friends. #thehistorywizard #stahrpower #renfaire </content>
-    <link href="https://tiktok.com/@thehistorywizard/video/7269201480161234218" rel="alternate"/>
-    <published>2023-08-20T00:54:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thehistorywizard/video/7269404612736617770</id>
     <title>Gender is a constantly evolving identity. Can't wait to see what tomorrow brings. #thehistorywizard #historytiktok #edutok #learnontiktok #wizardcommunism #gender </title>
@@ -91,5 +83,13 @@
     <content>Replying to @creature_ire The economy isn't a game. #thehistorywizard #historytiktok #edutok #learnontiktok </content>
     <link href="https://tiktok.com/@thehistorywizard/video/7273108156698479914" rel="alternate"/>
     <published>2023-08-30T13:34:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thehistorywizard/video/7273476633695096106</id>
+    <title>This is almost impressive. #thehistorywizard #historytiktok #edutok #learnontiktok #dogwhistle </title>
+    <updated>2023-08-31T13:24:17+00:00</updated>
+    <content>This is almost impressive. #thehistorywizard #historytiktok #edutok #learnontiktok #dogwhistle </content>
+    <link href="https://tiktok.com/@thehistorywizard/video/7273476633695096106" rel="alternate"/>
+    <published>2023-08-31T13:24:17+00:00</published>
   </entry>
 </feed>
