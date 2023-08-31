@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dannyphantom.exe</id>
   <title>@dannyphantom.exe | TikTok</title>
-  <updated>2023-08-29T02:17:04+00:00</updated>
+  <updated>2023-08-31T02:16:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dannyphantom.exe</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7269593706804677931</id>
-    <title>tag someone who loves “doing” lgbt</title>
-    <updated>2023-08-21T02:16:37+00:00</updated>
-    <content>tag someone who loves “doing” lgbt</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7269593706804677931" rel="alternate"/>
-    <published>2023-08-21T02:16:37+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7269964573090827563</id>
-    <title>green juice ON TOP</title>
-    <updated>2023-08-22T02:15:40+00:00</updated>
-    <content>green juice ON TOP</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7269964573090827563" rel="alternate"/>
-    <published>2023-08-22T02:15:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dannyphantom.exe/video/7270336304070642986</id>
     <title>w consent oc 👀(i love thighs)</title>
@@ -91,5 +75,21 @@
     <content>tag someone who would do this</content>
     <link href="https://tiktok.com/@dannyphantom.exe/video/7272562493489188139" rel="alternate"/>
     <published>2023-08-29T02:17:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7273304281606884651</id>
+    <title>i really tried</title>
+    <updated>2023-08-31T02:15:31+00:00</updated>
+    <content>i really tried</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7273304281606884651" rel="alternate"/>
+    <published>2023-08-31T02:15:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7273304470316944682</id>
+    <title>tag someone who’s “obsessed w bl00d”</title>
+    <updated>2023-08-31T02:16:14+00:00</updated>
+    <content>tag someone who’s “obsessed w bl00d”</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7273304470316944682" rel="alternate"/>
+    <published>2023-08-31T02:16:14+00:00</published>
   </entry>
 </feed>
