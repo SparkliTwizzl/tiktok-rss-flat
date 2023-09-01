@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@atreegod</id>
   <title>@atreegod | TikTok</title>
-  <updated>2023-08-31T21:10:50+00:00</updated>
+  <updated>2023-08-31T19:45:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @atreegod</subtitle>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7270960432838511918</id>
+    <title>The girl i like likes this song #wlw #lgbtq </title>
+    <updated>2023-08-24T18:40:19+00:00</updated>
+    <content>The girl i like likes this song #wlw #lgbtq </content>
+    <link href="https://tiktok.com/@atreegod/video/7270960432838511918" rel="alternate"/>
+    <published>2023-08-24T18:40:19+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@atreegod/video/7271481429417102635</id>
     <title>Im sweating so bad its so hot #wlw #lgbtq </title>
@@ -83,13 +91,5 @@
     <content>Haircut asf #wlw #lgbtq</content>
     <link href="https://tiktok.com/@atreegod/video/7273574779951516971" rel="alternate"/>
     <published>2023-08-31T19:45:10+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@atreegod/video/7273596850551246123</id>
-    <title>Was this attracrive say yes #wlw #lgbtq </title>
-    <updated>2023-08-31T21:10:50+00:00</updated>
-    <content>Was this attracrive say yes #wlw #lgbtq </content>
-    <link href="https://tiktok.com/@atreegod/video/7273596850551246123" rel="alternate"/>
-    <published>2023-08-31T21:10:50+00:00</published>
   </entry>
 </feed>

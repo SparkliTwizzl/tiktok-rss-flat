@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-08-31T18:09:23+00:00</updated>
+  <updated>2023-08-31T21:03:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7269814851256470827</id>
-    <title>This post is a little more vulnerable ( a lot more vulnerable) than my usual content. That first picture was hard to look at because it is from the lowest point of my life. A time i could hardly look myself in the mirror and felt no hope. I worked hard fo</title>
-    <updated>2023-08-21T16:34:51+00:00</updated>
-    <content>This post is a little more vulnerable ( a lot more vulnerable) than my usual content. That first picture was hard to look at because it is from the lowest point of my life. A time i could hardly look myself in the mirror and felt no hope. I worked hard for the girl i am today. The girl i am today is the person i needed then 💙</content>
-    <link href="https://tiktok.com/@athena__cos/video/7269814851256470827" rel="alternate"/>
-    <published>2023-08-21T16:34:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7270229244549139754</id>
     <title>Upgrades people UPGRADES #womeninarmor </title>
@@ -91,5 +83,13 @@
     <content>This goes for cosplay as well (or muscles IN cosplay) #women #buffwomen </content>
     <link href="https://tiktok.com/@athena__cos/video/7273550099068865834" rel="alternate"/>
     <published>2023-08-31T18:09:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7273594960627240235</id>
+    <title>The body dysmporhia is hitting today #gymtok #animebod #womenwholift </title>
+    <updated>2023-08-31T21:03:32+00:00</updated>
+    <content>The body dysmporhia is hitting today #gymtok #animebod #womenwholift </content>
+    <link href="https://tiktok.com/@athena__cos/video/7273594960627240235" rel="alternate"/>
+    <published>2023-08-31T21:03:32+00:00</published>
   </entry>
 </feed>
