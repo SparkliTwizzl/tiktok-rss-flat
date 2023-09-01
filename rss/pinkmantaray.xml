@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pinkmantaray</id>
   <title>@pinkmantaray | TikTok</title>
-  <updated>2023-08-29T02:55:49+00:00</updated>
+  <updated>2023-09-01T22:25:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @pinkmantaray</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pinkmantaray/video/7266594694979734827</id>
-    <title>I didn't transition out of hatred. I did it because I wanted to love and live here. #transgender #transition #transman #testosterone #hrt </title>
-    <updated>2023-08-13T00:18:56+00:00</updated>
-    <content>I didn't transition out of hatred. I did it because I wanted to love and live here. #transgender #transition #transman #testosterone #hrt </content>
-    <link href="https://tiktok.com/@pinkmantaray/video/7266594694979734827" rel="alternate"/>
-    <published>2023-08-13T00:18:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pinkmantaray/video/7267242370511441195</id>
     <title>Saigon Tiger did not disappoint! #transgender #bostonfoodies #transition </title>
@@ -96,5 +88,13 @@
     <content>Tune in for this weeks episode of #DearSchuyler, with the lovely @Elle Deran💕. Elle joined me for a conversation about how we learn to feel the most like ourselves, regardless of whether or not we are transgender. Our journeys as trans people can be a beautiful invitation to dive deeper into ourselves, and perhaps inspire others to do the same.  Sometimes those who dislike us the most are actually experiencing us as reflections of something they're not yet ready to confront in themselves.  Take a listen wherever you get your podcasts! #transgender #podcast </content>
     <link href="https://tiktok.com/@pinkmantaray/video/7272572513903758622" rel="alternate"/>
     <published>2023-08-29T02:55:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pinkmantaray/video/7273987201648676126</id>
+    <title>Replying to @Tyrone learn more by attending an allyship workshop - pinkmantaray.com/allyship 💕 #transgender #trans #transathlete #womenssports </title>
+    <updated>2023-09-01T22:25:47+00:00</updated>
+    <content>Replying to @Tyrone learn more by attending an allyship workshop - pinkmantaray.com/allyship 💕 #transgender #trans #transathlete #womenssports </content>
+    <link href="https://tiktok.com/@pinkmantaray/video/7273987201648676126" rel="alternate"/>
+    <published>2023-09-01T22:25:47+00:00</published>
   </entry>
 </feed>
