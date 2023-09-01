@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@hyndsyghts</id>
   <title>@hyndsyghts | TikTok</title>
-  <updated>2023-09-01T02:22:25+00:00</updated>
+  <updated>2023-09-01T15:25:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @hyndsyghts</subtitle>
-  <entry>
-    <id>https://tiktok.com/@hyndsyghts/video/7255455173126966570</id>
-    <title>7 months hair growth update #lgbtq #wlw #buzzcutgrowth #ootd </title>
-    <updated>2023-07-13T23:51:46+00:00</updated>
-    <content>7 months hair growth update #lgbtq #wlw #buzzcutgrowth #ootd </content>
-    <link href="https://tiktok.com/@hyndsyghts/video/7255455173126966570" rel="alternate"/>
-    <published>2023-07-13T23:51:46+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@hyndsyghts/video/7255785075676089643</id>
-    <title>evergreen 🌿 #lgbtq #wlw #sticknpoke #pvris </title>
-    <updated>2023-07-14T21:12:04+00:00</updated>
-    <content>evergreen 🌿 #lgbtq #wlw #sticknpoke #pvris </content>
-    <link href="https://tiktok.com/@hyndsyghts/video/7255785075676089643" rel="alternate"/>
-    <published>2023-07-14T21:12:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@hyndsyghts/video/7257672487255821611</id>
     <title>#actuallyautistic #lgbtq </title>
@@ -91,5 +75,21 @@
     <content>why can't I just take a pill that has all the nutrients humans need #actuallyautistic </content>
     <link href="https://tiktok.com/@hyndsyghts/video/7273677158243913003" rel="alternate"/>
     <published>2023-09-01T02:22:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@hyndsyghts/video/7273874810361449771</id>
+    <title>for the good luck for once 🙏 #first #lgbtq #sonyxm4 </title>
+    <updated>2023-09-01T15:09:24+00:00</updated>
+    <content>for the good luck for once 🙏 #first #lgbtq #sonyxm4 </content>
+    <link href="https://tiktok.com/@hyndsyghts/video/7273874810361449771" rel="alternate"/>
+    <published>2023-09-01T15:09:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@hyndsyghts/video/7273879097044929838</id>
+    <title>and that last one would have made it too #actuallyautistic #lgbtq </title>
+    <updated>2023-09-01T15:25:59+00:00</updated>
+    <content>and that last one would have made it too #actuallyautistic #lgbtq </content>
+    <link href="https://tiktok.com/@hyndsyghts/video/7273879097044929838" rel="alternate"/>
+    <published>2023-09-01T15:25:59+00:00</published>
   </entry>
 </feed>
