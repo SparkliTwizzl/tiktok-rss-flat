@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-08-31T21:03:32+00:00</updated>
+  <updated>2023-09-01T20:18:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7270229244549139754</id>
-    <title>Upgrades people UPGRADES #womeninarmor </title>
-    <updated>2023-08-22T19:22:56+00:00</updated>
-    <content>Upgrades people UPGRADES #womeninarmor </content>
-    <link href="https://tiktok.com/@athena__cos/video/7270229244549139754" rel="alternate"/>
-    <published>2023-08-22T19:22:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7270624656808365358</id>
     <title>Yes thats a Barnes and Noble membership card ladies one at a time please  New hair by @beth✨ !!! It looks amazing! </title>
@@ -91,5 +83,13 @@
     <content>The body dysmporhia is hitting today #gymtok #animebod #womenwholift </content>
     <link href="https://tiktok.com/@athena__cos/video/7273594960627240235" rel="alternate"/>
     <published>2023-08-31T21:03:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7273954414803619114</id>
+    <title>Progress is progress #womenwholift #gymgirl </title>
+    <updated>2023-09-01T20:18:14+00:00</updated>
+    <content>Progress is progress #womenwholift #gymgirl </content>
+    <link href="https://tiktok.com/@athena__cos/video/7273954414803619114" rel="alternate"/>
+    <published>2023-09-01T20:18:14+00:00</published>
   </entry>
 </feed>

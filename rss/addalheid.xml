@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@addalheid</id>
   <title>@addalheid | TikTok</title>
-  <updated>2023-08-18T19:07:16+00:00</updated>
+  <updated>2023-09-01T20:49:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @addalheid</subtitle>
-  <entry>
-    <id>https://tiktok.com/@addalheid/video/7247220373224246555</id>
-    <title>Addicted to this song 😫</title>
-    <updated>2023-06-21T19:16:31+00:00</updated>
-    <content>Addicted to this song 😫</content>
-    <link href="https://tiktok.com/@addalheid/video/7247220373224246555" rel="alternate"/>
-    <published>2023-06-21T19:16:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@addalheid/video/7247599181584534811</id>
     <title>Flash </title>
@@ -91,5 +83,13 @@
     <content>Sex in DM 🤙🏻</content>
     <link href="https://tiktok.com/@addalheid/video/7268740942423657760" rel="alternate"/>
     <published>2023-08-18T19:07:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@addalheid/video/7273962479917600033</id>
+    <title>Baby you can give it to me 😫</title>
+    <updated>2023-09-01T20:49:34+00:00</updated>
+    <content>Baby you can give it to me 😫</content>
+    <link href="https://tiktok.com/@addalheid/video/7273962479917600033" rel="alternate"/>
+    <published>2023-09-01T20:49:34+00:00</published>
   </entry>
 </feed>
