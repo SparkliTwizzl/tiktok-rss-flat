@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-08-30T18:43:45+00:00</updated>
+  <updated>2023-09-01T17:02:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7271046220775361838</id>
-    <title>I wasn't sure I wanted to make this video but then I saw @HazyAndSlightlyDazey posted something similar so they gave me the courage 🥰 #solardidsystem #dissociativeidentitydisorder #ssquinn </title>
-    <updated>2023-08-25T00:13:05+00:00</updated>
-    <content>I wasn't sure I wanted to make this video but then I saw @HazyAndSlightlyDazey posted something similar so they gave me the courage 🥰 #solardidsystem #dissociativeidentitydisorder #ssquinn </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7271046220775361838" rel="alternate"/>
-    <published>2023-08-25T00:13:05+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7271335091769576747</id>
-    <title>We had to do this twice and then I immediately put drops in her ears. Don't worry though, she got extra snackies! #solardidsystem #ssquinn #ladybug #august </title>
-    <updated>2023-08-25T18:53:59+00:00</updated>
-    <content>We had to do this twice and then I immediately put drops in her ears. Don't worry though, she got extra snackies! #solardidsystem #ssquinn #ladybug #august </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7271335091769576747" rel="alternate"/>
-    <published>2023-08-25T18:53:59+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7271344768687295790</id>
     <title>Replying to @qu33rpin3appl3 #reply #solardidsystem #ssquinn #ssoberon </title>
@@ -91,5 +75,21 @@
     <content>I'm gonna stop asking it questions 😅 #solardidsystem #ssperegrine #ssarchelaus </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7273187844120644907" rel="alternate"/>
     <published>2023-08-30T18:43:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7273885317810113835</id>
+    <title>[no title]</title>
+    <updated>2023-09-01T15:50:09+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7273885317810113835" rel="alternate"/>
+    <published>2023-09-01T15:50:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7273904013504990507</id>
+    <title>Feel free to stitch, comment or tag us! #ssperegrine #solardidsystem #dissociativeidentitydisorder </title>
+    <updated>2023-09-01T17:02:43+00:00</updated>
+    <content>Feel free to stitch, comment or tag us! #ssperegrine #solardidsystem #dissociativeidentitydisorder </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7273904013504990507" rel="alternate"/>
+    <published>2023-09-01T17:02:43+00:00</published>
   </entry>
 </feed>
