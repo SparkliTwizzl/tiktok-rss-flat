@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-08-29T22:28:55+00:00</updated>
+  <updated>2023-09-01T01:07:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,38 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7269130285554470187</id>
-    <title>They were recording me lmaooo</title>
-    <updated>2023-08-19T20:18:16+00:00</updated>
-    <content>They were recording me lmaooo</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7269130285554470187" rel="alternate"/>
-    <published>2023-08-19T20:18:16+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7269227057027009835</id>
-    <title>I forgot ab this sound </title>
-    <updated>2023-08-20T02:33:45+00:00</updated>
-    <content>I forgot ab this sound </content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7269227057027009835" rel="alternate"/>
-    <published>2023-08-20T02:33:45+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7269847045597515054</id>
-    <title>Hide your wife hide your mom </title>
-    <updated>2023-08-21T18:39:46+00:00</updated>
-    <content>Hide your wife hide your mom </content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7269847045597515054" rel="alternate"/>
-    <published>2023-08-21T18:39:46+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7272132019176443178</id>
-    <title>@trap 💋 always stuck in my head</title>
-    <updated>2023-08-27T22:26:36+00:00</updated>
-    <content>@trap 💋 always stuck in my head</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7272132019176443178" rel="alternate"/>
-    <published>2023-08-27T22:26:36+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7272561510197595435</id>
     <title>Jeans or nah</title>
@@ -91,5 +59,37 @@
     <content>Even the computer changed </content>
     <link href="https://tiktok.com/@kaylabutternut/video/7272874799175683374" rel="alternate"/>
     <published>2023-08-29T22:28:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7273620327563824426</id>
+    <title>Should I get tatoos?</title>
+    <updated>2023-08-31T22:41:55+00:00</updated>
+    <content>Should I get tatoos?</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7273620327563824426" rel="alternate"/>
+    <published>2023-08-31T22:41:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7273638337746029870</id>
+    <title>Rate the transition 1-10</title>
+    <updated>2023-08-31T23:51:47+00:00</updated>
+    <content>Rate the transition 1-10</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7273638337746029870" rel="alternate"/>
+    <published>2023-08-31T23:51:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7273640490417966382</id>
+    <title>I like this one more</title>
+    <updated>2023-09-01T00:00:08+00:00</updated>
+    <content>I like this one more</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7273640490417966382" rel="alternate"/>
+    <published>2023-09-01T00:00:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7273657931755900206</id>
+    <title>Last transition </title>
+    <updated>2023-09-01T01:07:52+00:00</updated>
+    <content>Last transition </content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7273657931755900206" rel="alternate"/>
+    <published>2023-09-01T01:07:52+00:00</published>
   </entry>
 </feed>
