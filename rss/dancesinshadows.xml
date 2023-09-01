@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-08-30T15:29:09+00:00</updated>
+  <updated>2023-09-01T15:52:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7267585274186583302</id>
-    <title>feel free to duet. I confuse alot of people with my gender fluidity, and as a result, have heard some pretty unbelievable things about myself.  😅 #glumthesupernaturalhitman #mindyourbusiness #genderfluid </title>
-    <updated>2023-08-15T16:22:40+00:00</updated>
-    <content>feel free to duet. I confuse alot of people with my gender fluidity, and as a result, have heard some pretty unbelievable things about myself.  😅 #glumthesupernaturalhitman #mindyourbusiness #genderfluid </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7267585274186583302" rel="alternate"/>
-    <published>2023-08-15T16:22:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7267939590416108805</id>
     <title>the burn out is real. it takes a lot of time and energy to create vids. it used to be fun, but with sensitive content warnings, strikes, and limited views, it often seems like a waste of time now. it's obvious this app only applies these restrictions to t</title>
@@ -91,5 +83,13 @@
     <content>a better look at my Pirate Harley look from #fanexpocanada my original costume for the day did not get finished in time, so I put this together the day of the con 😅 most of this is thrifted from over the years  #harleyquinn #pirateharleyquinn #pirateharleyquinncosplay </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7273137760435719429" rel="alternate"/>
     <published>2023-08-30T15:29:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7273885931029990662</id>
+    <title>still recouping from fanexpo. I ended up mildly sick ontop of an mcas flare up. #pirateharleyquinncosplay #pirateharleyquinn #harleyquinn </title>
+    <updated>2023-09-01T15:52:26+00:00</updated>
+    <content>still recouping from fanexpo. I ended up mildly sick ontop of an mcas flare up. #pirateharleyquinncosplay #pirateharleyquinn #harleyquinn </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7273885931029990662" rel="alternate"/>
+    <published>2023-09-01T15:52:26+00:00</published>
   </entry>
 </feed>
