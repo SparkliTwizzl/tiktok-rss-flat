@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@juliafox038711</id>
   <title>@juliafox038711 | TikTok</title>
-  <updated>2023-08-29T18:24:36+00:00</updated>
+  <updated>2023-09-01T20:53:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juliafox038711</subtitle>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7267818090434546987</id>
-    <title>cant fall asleep cuz i start my 3rd semester in a week😀 not excited </title>
-    <updated>2023-08-16T07:27:14+00:00</updated>
-    <content>cant fall asleep cuz i start my 3rd semester in a week😀 not excited </content>
-    <link href="https://tiktok.com/@juliafox038711/video/7267818090434546987" rel="alternate"/>
-    <published>2023-08-16T07:27:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@juliafox038711/video/7268042833653665066</id>
     <title>#CapCut i just think this looks cool</title>
@@ -91,5 +83,13 @@
     <content>#CapCut crazy how 2022 was prob the worst year of my 19 years of living </content>
     <link href="https://tiktok.com/@juliafox038711/video/7272811791065959722" rel="alternate"/>
     <published>2023-08-29T18:24:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7273963412801998122</id>
+    <title>i thinka ima watch rick and morty again </title>
+    <updated>2023-09-01T20:53:10+00:00</updated>
+    <content>i thinka ima watch rick and morty again </content>
+    <link href="https://tiktok.com/@juliafox038711/video/7273963412801998122" rel="alternate"/>
+    <published>2023-09-01T20:53:10+00:00</published>
   </entry>
 </feed>
