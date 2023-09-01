@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-09-01T01:07:52+00:00</updated>
+  <updated>2023-09-01T16:26:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7272561510197595435</id>
-    <title>Jeans or nah</title>
-    <updated>2023-08-29T02:13:11+00:00</updated>
-    <content>Jeans or nah</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7272561510197595435" rel="alternate"/>
-    <published>2023-08-29T02:13:11+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7272564034841464110</id>
-    <title>[no title]</title>
-    <updated>2023-08-29T02:22:58+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7272564034841464110" rel="alternate"/>
-    <published>2023-08-29T02:22:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7272564852563004718</id>
     <title>[no title]</title>
@@ -91,5 +75,21 @@
     <content>Last transition </content>
     <link href="https://tiktok.com/@kaylabutternut/video/7273657931755900206" rel="alternate"/>
     <published>2023-09-01T01:07:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7273890858846407979</id>
+    <title>The lyrics </title>
+    <updated>2023-09-01T16:11:38+00:00</updated>
+    <content>The lyrics </content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7273890858846407979" rel="alternate"/>
+    <published>2023-09-01T16:11:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7273894816700763438</id>
+    <title>I burnt myself on a straigtner </title>
+    <updated>2023-09-01T16:26:59+00:00</updated>
+    <content>I burnt myself on a straigtner </content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7273894816700763438" rel="alternate"/>
+    <published>2023-09-01T16:26:59+00:00</published>
   </entry>
 </feed>
