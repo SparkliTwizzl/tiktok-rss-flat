@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jacobtheseahorse</id>
   <title>@jacobtheseahorse | TikTok</title>
-  <updated>2023-08-31T21:30:14+00:00</updated>
+  <updated>2023-09-01T11:48:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jacobtheseahorse</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7268239770369690913</id>
-    <title>his tone of voice killed me 💀 #whoops #welcome #hi </title>
-    <updated>2023-08-17T10:42:28+00:00</updated>
-    <content>his tone of voice killed me 💀 #whoops #welcome #hi </content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7268239770369690913" rel="alternate"/>
-    <published>2023-08-17T10:42:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jacobtheseahorse/video/7270104905744944416</id>
     <title>Replying to @loopie.phoebe it's a lot of beer! people definitely assumed something medical was going on, the probably didn't assume pregnancy though! #trans #pregnancy #transpregnancy #fertility #beer #belly </title>
@@ -91,5 +83,13 @@
     <content>Replying to @xlillyxturxx  beard ✅ low voice ✅ chest hair ✅ bald head ✅ uterus ✅ 🐓❌</content>
     <link href="https://tiktok.com/@jacobtheseahorse/video/7273601870394969377" rel="alternate"/>
     <published>2023-08-31T21:30:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7273823007544544544</id>
+    <title>#duet with @ℤ𝕖𝕜𝕖 #gorillaz this sound is giving me life on a low energy day. #d6 #dice #adhd #fidget #spinner #audhd #actuallyautistic </title>
+    <updated>2023-09-01T11:48:20+00:00</updated>
+    <content>#duet with @ℤ𝕖𝕜𝕖 #gorillaz this sound is giving me life on a low energy day. #d6 #dice #adhd #fidget #spinner #audhd #actuallyautistic </content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7273823007544544544" rel="alternate"/>
+    <published>2023-09-01T11:48:20+00:00</published>
   </entry>
 </feed>
