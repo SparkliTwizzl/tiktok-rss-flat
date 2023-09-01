@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-08-24T19:08:41+00:00</updated>
+  <updated>2023-09-01T15:08:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7259192431483063594</id>
-    <title>Omg, I couldn't not. #fyp </title>
-    <updated>2023-07-24T01:34:16+00:00</updated>
-    <content>Omg, I couldn't not. #fyp </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7259192431483063594" rel="alternate"/>
-    <published>2023-07-24T01:34:16+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7259489344719752494</id>
     <title>This is not to my beautiful, lovely followers and supporters. This is to those who oppose our existence, that claim us to be predators and groomers, that refuse to look at their own dirty laundry. Use your fucking brain. #fyp #trans </title>
@@ -53,14 +45,6 @@
     <published>2023-07-28T21:26:50+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7261352439356378410</id>
-    <title>Major shift... Not sure what this means for me yet. But I'm tired of fighting. Why can't we just exist as humans? I'm guilty of falling prey to the propaganda and divide they've created, but in all honesty, I just want to live my life and let others live </title>
-    <updated>2023-07-29T21:16:14+00:00</updated>
-    <content>Major shift... Not sure what this means for me yet. But I'm tired of fighting. Why can't we just exist as humans? I'm guilty of falling prey to the propaganda and divide they've created, but in all honesty, I just want to live my life and let others live theirs. #fyp #trans #cis </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7261352439356378410" rel="alternate"/>
-    <published>2023-07-29T21:16:14+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7262121712639102250</id>
     <title>Vent tok. Lol. #fyp #trans </title>
     <updated>2023-07-31T23:01:26+00:00</updated>
@@ -91,5 +75,21 @@
     <content>See you soon. 😘 </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7270967760635645226" rel="alternate"/>
     <published>2023-08-24T19:08:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7273874057278344491</id>
+    <title>Hey. 😌 #fyp #trans </title>
+    <updated>2023-09-01T15:06:29+00:00</updated>
+    <content>Hey. 😌 #fyp #trans </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7273874057278344491" rel="alternate"/>
+    <published>2023-09-01T15:06:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7273874651158285614</id>
+    <title>Hello, my friends. I've missed you. #fyp #trans </title>
+    <updated>2023-09-01T15:08:45+00:00</updated>
+    <content>Hello, my friends. I've missed you. #fyp #trans </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7273874651158285614" rel="alternate"/>
+    <published>2023-09-01T15:08:45+00:00</published>
   </entry>
 </feed>
