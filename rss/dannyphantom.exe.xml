@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dannyphantom.exe</id>
   <title>@dannyphantom.exe | TikTok</title>
-  <updated>2023-09-01T02:16:10+00:00</updated>
+  <updated>2023-09-02T02:15:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dannyphantom.exe</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7270706672409070890</id>
-    <title>god i love this song</title>
-    <updated>2023-08-24T02:15:23+00:00</updated>
-    <content>god i love this song</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7270706672409070890" rel="alternate"/>
-    <published>2023-08-24T02:15:23+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7270706714326879531</id>
-    <title>so close</title>
-    <updated>2023-08-24T02:15:32+00:00</updated>
-    <content>so close</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7270706714326879531" rel="alternate"/>
-    <published>2023-08-24T02:15:32+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7271077697336479019</id>
-    <title>like, is this a trick question?</title>
-    <updated>2023-08-25T02:15:16+00:00</updated>
-    <content>like, is this a trick question?</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7271077697336479019" rel="alternate"/>
-    <published>2023-08-25T02:15:16+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dannyphantom.exe/video/7271077982641524014</id>
     <title>[no title]</title>
@@ -91,5 +67,29 @@
     <content>tag someone who does this</content>
     <link href="https://tiktok.com/@dannyphantom.exe/video/7273675547157204267" rel="alternate"/>
     <published>2023-09-01T02:16:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7274046399602281771</id>
+    <title>tag someone so u can ft later</title>
+    <updated>2023-09-02T02:15:15+00:00</updated>
+    <content>tag someone so u can ft later</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7274046399602281771" rel="alternate"/>
+    <published>2023-09-02T02:15:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7274046455717842218</id>
+    <title>i need to cosplay Nanami again</title>
+    <updated>2023-09-02T02:15:28+00:00</updated>
+    <content>i need to cosplay Nanami again</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7274046455717842218" rel="alternate"/>
+    <published>2023-09-02T02:15:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7274046554376359214</id>
+    <title>og video @ko yan go follow him he funny af</title>
+    <updated>2023-09-02T02:15:49+00:00</updated>
+    <content>og video @ko yan go follow him he funny af</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7274046554376359214" rel="alternate"/>
+    <published>2023-09-02T02:15:49+00:00</published>
   </entry>
 </feed>
