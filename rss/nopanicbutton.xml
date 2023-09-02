@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@nopanicbutton</id>
   <title>@nopanicbutton | TikTok</title>
-  <updated>2023-08-30T16:54:13+00:00</updated>
+  <updated>2023-09-02T01:27:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @nopanicbutton</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nopanicbutton/video/7264689086210870574</id>
-    <title>I couldn't find a way to make this funny. Some people suck. #servicedog #servicedoglife #servicedogproblems #peoplesuck #karen </title>
-    <updated>2023-08-07T21:04:06+00:00</updated>
-    <content>I couldn't find a way to make this funny. Some people suck. #servicedog #servicedoglife #servicedogproblems #peoplesuck #karen </content>
-    <link href="https://tiktok.com/@nopanicbutton/video/7264689086210870574" rel="alternate"/>
-    <published>2023-08-07T21:04:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nopanicbutton/video/7265349390032735531</id>
     <title>I'm not even gonna bother my lawyer for this one. #bris #snipsnip #darwinaward #myknivescutlongdeepandcontinuious </title>
@@ -91,5 +83,13 @@
     <content>Keep the complaints coming! #tellmewhattodo #doyourownresearch #complainaboitmybandsawnext </content>
     <link href="https://tiktok.com/@nopanicbutton/video/7273159611744636203" rel="alternate"/>
     <published>2023-08-30T16:54:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nopanicbutton/video/7274034206185950510</id>
+    <title>So my new neighbors are interesting people. #bearskin #hairy #braidablebackhair </title>
+    <updated>2023-09-02T01:27:56+00:00</updated>
+    <content>So my new neighbors are interesting people. #bearskin #hairy #braidablebackhair </content>
+    <link href="https://tiktok.com/@nopanicbutton/video/7274034206185950510" rel="alternate"/>
+    <published>2023-09-02T01:27:56+00:00</published>
   </entry>
 </feed>
