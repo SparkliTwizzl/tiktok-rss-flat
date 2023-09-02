@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@grouch_thebird</id>
   <title>@grouch_thebird | TikTok</title>
-  <updated>2023-08-31T23:13:17+00:00</updated>
+  <updated>2023-09-02T06:22:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @grouch_thebird</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grouch_thebird/video/7272892016164375854</id>
-    <title>[no title]</title>
-    <updated>2023-08-29T23:35:42+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@grouch_thebird/video/7272892016164375854" rel="alternate"/>
-    <published>2023-08-29T23:35:42+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@grouch_thebird/video/7273247932302822698</id>
-    <title>what's the sitch</title>
-    <updated>2023-08-30T22:36:50+00:00</updated>
-    <content>what's the sitch</content>
-    <link href="https://tiktok.com/@grouch_thebird/video/7273247932302822698" rel="alternate"/>
-    <published>2023-08-30T22:36:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@grouch_thebird/video/7273253914680626474</id>
-    <title>[no title]</title>
-    <updated>2023-08-30T23:00:06+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@grouch_thebird/video/7273253914680626474" rel="alternate"/>
-    <published>2023-08-30T23:00:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grouch_thebird/video/7273334883789983018</id>
     <title>[no title]</title>
@@ -91,5 +67,29 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@grouch_thebird/video/7273628402911841582" rel="alternate"/>
     <published>2023-08-31T23:13:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grouch_thebird/video/7274089717917011246</id>
+    <title>[no title]</title>
+    <updated>2023-09-02T05:03:30+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@grouch_thebird/video/7274089717917011246" rel="alternate"/>
+    <published>2023-09-02T05:03:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grouch_thebird/video/7274093274812435755</id>
+    <title>just your average green haired individual </title>
+    <updated>2023-09-02T05:17:19+00:00</updated>
+    <content>just your average green haired individual </content>
+    <link href="https://tiktok.com/@grouch_thebird/video/7274093274812435755" rel="alternate"/>
+    <published>2023-09-02T05:17:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grouch_thebird/video/7274110106332073259</id>
+    <title>Crazy? I was crazy once. They locked me in a room. A rubber room. A rubber room with rats. And rats make me crazy. Crazy? I was crazy once. They locked me in a room. A rubber room. A rubber room with rats. And rats make me crazy. Crazy? I was crazy once. </title>
+    <updated>2023-09-02T06:22:41+00:00</updated>
+    <content>Crazy? I was crazy once. They locked me in a room. A rubber room. A rubber room with rats. And rats make me crazy. Crazy? I was crazy once. They locked me in a room. A rubber room. A rubber room with rats. And rats make me crazy. Crazy? I was crazy once. They locked me in a room. A rubber room. A rubber room with rats. And rats make me crazy. Crazy? I was crazy once. They locked me in a room. A rubber room. A rubber room with rats. And rats make me crazy. Crazy? I was crazy once. They locked me in a room. A rubber room. A rubber room with rats. And rats make me crazy. Crazy? I was crazy once. They locked me in a room. A rubber room. A rubber room with rats. And rats make me crazy.</content>
+    <link href="https://tiktok.com/@grouch_thebird/video/7274110106332073259" rel="alternate"/>
+    <published>2023-09-02T06:22:41+00:00</published>
   </entry>
 </feed>
