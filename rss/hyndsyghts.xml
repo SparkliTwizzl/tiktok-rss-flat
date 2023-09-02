@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@hyndsyghts</id>
   <title>@hyndsyghts | TikTok</title>
-  <updated>2023-09-01T23:11:22+00:00</updated>
+  <updated>2023-09-02T16:21:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @hyndsyghts</subtitle>
-  <entry>
-    <id>https://tiktok.com/@hyndsyghts/video/7257738529948749102</id>
-    <title>🪲 #ootd #lgbtq </title>
-    <updated>2023-07-20T03:32:23+00:00</updated>
-    <content>🪲 #ootd #lgbtq </content>
-    <link href="https://tiktok.com/@hyndsyghts/video/7257738529948749102" rel="alternate"/>
-    <published>2023-07-20T03:32:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@hyndsyghts/video/7258333825988611370</id>
     <title>sad summer fest fit #lgbtq #wlw #ootd </title>
@@ -91,5 +83,13 @@
     <content>#ootd #lgbtq </content>
     <link href="https://tiktok.com/@hyndsyghts/video/7273999004390952238" rel="alternate"/>
     <published>2023-09-01T23:11:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@hyndsyghts/video/7274264346652413226</id>
+    <title>I will always over dress everywhere I go #lgbtq #fashion fit: @Manière De Voir </title>
+    <updated>2023-09-02T16:21:05+00:00</updated>
+    <content>I will always over dress everywhere I go #lgbtq #fashion fit: @Manière De Voir </content>
+    <link href="https://tiktok.com/@hyndsyghts/video/7274264346652413226" rel="alternate"/>
+    <published>2023-09-02T16:21:05+00:00</published>
   </entry>
 </feed>
