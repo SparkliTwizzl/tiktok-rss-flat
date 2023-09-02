@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-08-30T15:30:29+00:00</updated>
+  <updated>2023-09-02T21:08:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7267978593752403206</id>
-    <title>Excuse us while we gush like the couple of proud dads we are. Trust us this was the least sappiest take so consider yourselves lucky. #prouddads #bcwhales #parenting #pride #darcyandjer </title>
-    <updated>2023-08-16T17:48:57+00:00</updated>
-    <content>Excuse us while we gush like the couple of proud dads we are. Trust us this was the least sappiest take so consider yourselves lucky. #prouddads #bcwhales #parenting #pride #darcyandjer </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7267978593752403206" rel="alternate"/>
-    <published>2023-08-16T17:48:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7268315485408709893</id>
     <title>The attitude is gratitude. </title>
@@ -91,5 +83,13 @@
     <content>So good at being ✨humble✨</content>
     <link href="https://tiktok.com/@thedarcymichael/video/7273138103798238470" rel="alternate"/>
     <published>2023-08-30T15:30:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7274338495806606598</id>
+    <title>Really it has so many purposes but mostly…</title>
+    <updated>2023-09-02T21:08:37+00:00</updated>
+    <content>Really it has so many purposes but mostly…</content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7274338495806606598" rel="alternate"/>
+    <published>2023-09-02T21:08:37+00:00</published>
   </entry>
 </feed>
