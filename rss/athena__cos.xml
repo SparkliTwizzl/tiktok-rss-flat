@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-09-01T20:18:14+00:00</updated>
+  <updated>2023-09-02T17:51:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7270624656808365358</id>
-    <title>Yes thats a Barnes and Noble membership card ladies one at a time please  New hair by @beth✨ !!! It looks amazing! </title>
-    <updated>2023-08-23T20:57:12+00:00</updated>
-    <content>Yes thats a Barnes and Noble membership card ladies one at a time please  New hair by @beth✨ !!! It looks amazing! </content>
-    <link href="https://tiktok.com/@athena__cos/video/7270624656808365358" rel="alternate"/>
-    <published>2023-08-23T20:57:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7270973087347330350</id>
     <title>I don’t have Naga but I brought my German Shepard to make up for it 🖤 #korrasami #korracosplay #avatar </title>
@@ -91,5 +83,13 @@
     <content>Progress is progress #womenwholift #gymgirl </content>
     <link href="https://tiktok.com/@athena__cos/video/7273954414803619114" rel="alternate"/>
     <published>2023-09-01T20:18:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7274287652667673902</id>
+    <title>Wonder woman, Korra, Kassandra, the list goes ON 💅 #musclewomen #women #wonderwoman #korra #kassandra </title>
+    <updated>2023-09-02T17:51:33+00:00</updated>
+    <content>Wonder woman, Korra, Kassandra, the list goes ON 💅 #musclewomen #women #wonderwoman #korra #kassandra </content>
+    <link href="https://tiktok.com/@athena__cos/video/7274287652667673902" rel="alternate"/>
+    <published>2023-09-02T17:51:33+00:00</published>
   </entry>
 </feed>
