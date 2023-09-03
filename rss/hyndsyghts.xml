@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@hyndsyghts</id>
   <title>@hyndsyghts | TikTok</title>
-  <updated>2023-09-02T16:21:05+00:00</updated>
+  <updated>2023-09-03T21:25:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @hyndsyghts</subtitle>
-  <entry>
-    <id>https://tiktok.com/@hyndsyghts/video/7258333825988611370</id>
-    <title>sad summer fest fit #lgbtq #wlw #ootd </title>
-    <updated>2023-07-21T18:02:29+00:00</updated>
-    <content>sad summer fest fit #lgbtq #wlw #ootd </content>
-    <link href="https://tiktok.com/@hyndsyghts/video/7258333825988611370" rel="alternate"/>
-    <published>2023-07-21T18:02:29+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@hyndsyghts/video/7258707186954669355</id>
     <title>#recoveringpeoplepleaser #socialanxiety #lgbtq </title>
@@ -91,5 +83,13 @@
     <content>I will always over dress everywhere I go #lgbtq #fashion fit: @Manière De Voir </content>
     <link href="https://tiktok.com/@hyndsyghts/video/7274264346652413226" rel="alternate"/>
     <published>2023-09-02T16:21:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@hyndsyghts/video/7274713959347899690</id>
+    <title>#stitch with @Potatochippopotamus yes or no? #evanrachelwood #westworld #celebritydoppelganger </title>
+    <updated>2023-09-03T21:25:47+00:00</updated>
+    <content>#stitch with @Potatochippopotamus yes or no? #evanrachelwood #westworld #celebritydoppelganger </content>
+    <link href="https://tiktok.com/@hyndsyghts/video/7274713959347899690" rel="alternate"/>
+    <published>2023-09-03T21:25:47+00:00</published>
   </entry>
 </feed>
