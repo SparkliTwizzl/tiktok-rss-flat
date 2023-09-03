@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@rhearipley_wwe</id>
   <title>@rhearipley_wwe | TikTok</title>
-  <updated>2023-08-28T16:13:47+00:00</updated>
+  <updated>2023-09-03T02:19:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @rhearipley_wwe</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rhearipley_wwe/video/7255737915551042862</id>
-    <title>Trying new things ✨</title>
-    <updated>2023-07-14T18:09:01+00:00</updated>
-    <content>Trying new things ✨</content>
-    <link href="https://tiktok.com/@rhearipley_wwe/video/7255737915551042862" rel="alternate"/>
-    <published>2023-07-14T18:09:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rhearipley_wwe/video/7256937711200685358</id>
     <title>Always 😈</title>
@@ -91,5 +83,13 @@
     <content>Reffs these days are too power happy… All I did was sneeze… I’m innocent!!!</content>
     <link href="https://tiktok.com/@rhearipley_wwe/video/7272407018068069678" rel="alternate"/>
     <published>2023-08-28T16:13:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rhearipley_wwe/video/7274418499886255406</id>
+    <title>She a 😈 #WWEPayback</title>
+    <updated>2023-09-03T02:19:10+00:00</updated>
+    <content>She a 😈 #WWEPayback</content>
+    <link href="https://tiktok.com/@rhearipley_wwe/video/7274418499886255406" rel="alternate"/>
+    <published>2023-09-03T02:19:10+00:00</published>
   </entry>
 </feed>
