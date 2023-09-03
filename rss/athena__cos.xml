@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-09-02T17:51:33+00:00</updated>
+  <updated>2023-09-03T17:19:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7270973087347330350</id>
-    <title>I don’t have Naga but I brought my German Shepard to make up for it 🖤 #korrasami #korracosplay #avatar </title>
-    <updated>2023-08-24T19:29:24+00:00</updated>
-    <content>I don’t have Naga but I brought my German Shepard to make up for it 🖤 #korrasami #korracosplay #avatar </content>
-    <link href="https://tiktok.com/@athena__cos/video/7270973087347330350" rel="alternate"/>
-    <published>2023-08-24T19:29:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7271313591163194667</id>
     <title>She would be a fitness creator for sure 😂 </title>
@@ -91,5 +83,13 @@
     <content>Wonder woman, Korra, Kassandra, the list goes ON 💅 #musclewomen #women #wonderwoman #korra #kassandra </content>
     <link href="https://tiktok.com/@athena__cos/video/7274287652667673902" rel="alternate"/>
     <published>2023-09-02T17:51:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7274650532453567786</id>
+    <title>To celebrate the next arc of AOT 🫡 transition inspo from @Arone !!#aotcosplay #aot #scout </title>
+    <updated>2023-09-03T17:19:37+00:00</updated>
+    <content>To celebrate the next arc of AOT 🫡 transition inspo from @Arone !!#aotcosplay #aot #scout </content>
+    <link href="https://tiktok.com/@athena__cos/video/7274650532453567786" rel="alternate"/>
+    <published>2023-09-03T17:19:37+00:00</published>
   </entry>
 </feed>
