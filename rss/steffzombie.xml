@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@steffzombie</id>
   <title>@steffzombie | TikTok</title>
-  <updated>2023-09-03T16:14:08+00:00</updated>
+  <updated>2023-09-03T18:42:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @steffzombie</subtitle>
-  <entry>
-    <id>https://tiktok.com/@steffzombie/video/7243872950565309742</id>
-    <title>Its always all talk but no bite  #fy </title>
-    <updated>2023-06-12T18:46:50+00:00</updated>
-    <content>Its always all talk but no bite  #fy </content>
-    <link href="https://tiktok.com/@steffzombie/video/7243872950565309742" rel="alternate"/>
-    <published>2023-06-12T18:46:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@steffzombie/video/7243924340792626474</id>
     <title>Replying to @localgay_tohfan   Im on my way</title>
@@ -91,5 +83,13 @@
     <content>10-12 shows a week ☺️ @Awakening #fy </content>
     <link href="https://tiktok.com/@steffzombie/video/7274633636111043882" rel="alternate"/>
     <published>2023-09-03T16:14:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@steffzombie/video/7274671941326212395</id>
+    <title>Keep your faith 🙏🏾 . </title>
+    <updated>2023-09-03T18:42:40+00:00</updated>
+    <content>Keep your faith 🙏🏾 . </content>
+    <link href="https://tiktok.com/@steffzombie/video/7274671941326212395" rel="alternate"/>
+    <published>2023-09-03T18:42:40+00:00</published>
   </entry>
 </feed>
