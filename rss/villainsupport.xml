@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@villainsupport</id>
   <title>@villainsupport | TikTok</title>
-  <updated>2023-09-02T16:49:51+00:00</updated>
+  <updated>2023-09-03T15:00:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @villainsupport</subtitle>
-  <entry>
-    <id>https://tiktok.com/@villainsupport/video/7267592838081350958</id>
-    <title>#stitch with @serranaiman I WISH I WAS A CENTAUR #centaur #horse #acmetok #acmevillainsupport </title>
-    <updated>2023-08-15T16:52:07+00:00</updated>
-    <content>#stitch with @serranaiman I WISH I WAS A CENTAUR #centaur #horse #acmetok #acmevillainsupport </content>
-    <link href="https://tiktok.com/@villainsupport/video/7267592838081350958" rel="alternate"/>
-    <published>2023-08-15T16:52:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@villainsupport/video/7268019273040186667</id>
     <title>#fight #centaur #acmetok #acmevillainsupport </title>
@@ -91,5 +83,13 @@
     <content>#duet with @Kosmic Kitties LLC #acmevillainsupport </content>
     <link href="https://tiktok.com/@villainsupport/video/7274271770360679723" rel="alternate"/>
     <published>2023-09-02T16:49:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@villainsupport/video/7274614771159239982</id>
+    <title>#stitch with @Tales from the Stinky Dragon #justiceforjerry🐹 #villain #hamsters #acmetok #acmevillainsupport </title>
+    <updated>2023-09-03T15:00:56+00:00</updated>
+    <content>#stitch with @Tales from the Stinky Dragon #justiceforjerry🐹 #villain #hamsters #acmetok #acmevillainsupport </content>
+    <link href="https://tiktok.com/@villainsupport/video/7274614771159239982" rel="alternate"/>
+    <published>2023-09-03T15:00:56+00:00</published>
   </entry>
 </feed>
