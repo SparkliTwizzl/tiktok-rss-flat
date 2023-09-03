@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-09-03T17:19:37+00:00</updated>
+  <updated>2023-09-03T21:47:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7271313591163194667</id>
-    <title>She would be a fitness creator for sure 😂 </title>
-    <updated>2023-08-25T17:30:36+00:00</updated>
-    <content>She would be a fitness creator for sure 😂 </content>
-    <link href="https://tiktok.com/@athena__cos/video/7271313591163194667" rel="alternate"/>
-    <published>2023-08-25T17:30:36+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7271672657546906926</id>
     <title>What if Fairies were like sirens??  My siren fairy is @Raine Emery !  #fantasy #ladyknight #knightcosplay #fae #fairycosplay #fantasyaesthetic #capcut </title>
@@ -91,5 +83,13 @@
     <content>To celebrate the next arc of AOT 🫡 transition inspo from @Arone !!#aotcosplay #aot #scout </content>
     <link href="https://tiktok.com/@athena__cos/video/7274650532453567786" rel="alternate"/>
     <published>2023-09-03T17:19:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7274719665853566250</id>
+    <title>There are a few fictional stories i think we would rather watch than experience #fiction #fantasy #attackontitan #aotcosplay </title>
+    <updated>2023-09-03T21:47:53+00:00</updated>
+    <content>There are a few fictional stories i think we would rather watch than experience #fiction #fantasy #attackontitan #aotcosplay </content>
+    <link href="https://tiktok.com/@athena__cos/video/7274719665853566250" rel="alternate"/>
+    <published>2023-09-03T21:47:53+00:00</published>
   </entry>
 </feed>
