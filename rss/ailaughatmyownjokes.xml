@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ailaughatmyownjokes</id>
   <title>@ailaughatmyownjokes | TikTok</title>
-  <updated>2023-08-29T14:54:51+00:00</updated>
+  <updated>2023-09-04T15:47:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ailaughatmyownjokes</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ailaughatmyownjokes/video/7262019370308668704</id>
-    <title>Starting on the 2nd of August the discount code will be available *bites lip* just click on the link in my instagram Bio *does a backflip* #hamburg #harrypotter </title>
-    <updated>2023-07-31T16:24:10+00:00</updated>
-    <content>Starting on the 2nd of August the discount code will be available *bites lip* just click on the link in my instagram Bio *does a backflip* #hamburg #harrypotter </content>
-    <link href="https://tiktok.com/@ailaughatmyownjokes/video/7262019370308668704" rel="alternate"/>
-    <published>2023-07-31T16:24:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ailaughatmyownjokes/video/7262380330311519521</id>
     <title>Hogwarts school of witchcraft and fare gli spaghetti alla carbonara come si deve.  Pasta scotta = espulsione #italy #harrypotter </title>
@@ -91,5 +83,13 @@
     <content>Oh nooo... I guess you'll have to take me to Asskaban for this one😚 #harrypotter #sketch #comedy </content>
     <link href="https://tiktok.com/@ailaughatmyownjokes/video/7272757825116392737" rel="alternate"/>
     <published>2023-08-29T14:54:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ailaughatmyownjokes/video/7274997915557416224</id>
+    <title>Tastes just like chicken👍 #harrypotter #sketch #comedy </title>
+    <updated>2023-09-04T15:47:35+00:00</updated>
+    <content>Tastes just like chicken👍 #harrypotter #sketch #comedy </content>
+    <link href="https://tiktok.com/@ailaughatmyownjokes/video/7274997915557416224" rel="alternate"/>
+    <published>2023-09-04T15:47:35+00:00</published>
   </entry>
 </feed>
