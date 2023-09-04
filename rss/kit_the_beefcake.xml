@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kit_the_beefcake</id>
   <title>@kit_the_beefcake | TikTok</title>
-  <updated>2023-09-03T02:26:52+00:00</updated>
+  <updated>2023-09-03T21:46:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kit_the_beefcake</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7262936126577593643</id>
-    <title>Kara played me like a fiddle in 90 degree heat </title>
-    <updated>2023-08-03T03:41:42+00:00</updated>
-    <content>Kara played me like a fiddle in 90 degree heat </content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7262936126577593643" rel="alternate"/>
-    <published>2023-08-03T03:41:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7263047641309826350</id>
     <title>#exmormon #mormon #storytime #confession </title>
@@ -91,5 +83,13 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@kit_the_beefcake/video/7274420466926832938" rel="alternate"/>
     <published>2023-09-03T02:26:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7274719427550072107</id>
+    <title>#onthisday </title>
+    <updated>2023-09-03T21:46:57+00:00</updated>
+    <content>#onthisday </content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7274719427550072107" rel="alternate"/>
+    <published>2023-09-03T21:46:57+00:00</published>
   </entry>
 </feed>
