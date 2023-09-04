@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@nopanicbutton</id>
   <title>@nopanicbutton | TikTok</title>
-  <updated>2023-09-02T01:27:56+00:00</updated>
+  <updated>2023-09-04T20:41:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @nopanicbutton</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nopanicbutton/video/7265349390032735531</id>
-    <title>I'm not even gonna bother my lawyer for this one. #bris #snipsnip #darwinaward #myknivescutlongdeepandcontinuious </title>
-    <updated>2023-08-09T15:46:37+00:00</updated>
-    <content>I'm not even gonna bother my lawyer for this one. #bris #snipsnip #darwinaward #myknivescutlongdeepandcontinuious </content>
-    <link href="https://tiktok.com/@nopanicbutton/video/7265349390032735531" rel="alternate"/>
-    <published>2023-08-09T15:46:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nopanicbutton/video/7266144972011982126</id>
     <title>Nothing wrong with multipurpose tools. #kinktok #specialchair #duckplucker </title>
@@ -91,5 +83,13 @@
     <content>So my new neighbors are interesting people. #bearskin #hairy #braidablebackhair </content>
     <link href="https://tiktok.com/@nopanicbutton/video/7274034206185950510" rel="alternate"/>
     <published>2023-09-02T01:27:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nopanicbutton/video/7275073680714059051</id>
+    <title>John may lose his business card privileges. #calmdown #shoppingspree #werenotthekardashians </title>
+    <updated>2023-09-04T20:41:41+00:00</updated>
+    <content>John may lose his business card privileges. #calmdown #shoppingspree #werenotthekardashians </content>
+    <link href="https://tiktok.com/@nopanicbutton/video/7275073680714059051" rel="alternate"/>
+    <published>2023-09-04T20:41:41+00:00</published>
   </entry>
 </feed>
