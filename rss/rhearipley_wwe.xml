@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@rhearipley_wwe</id>
   <title>@rhearipley_wwe | TikTok</title>
-  <updated>2023-09-03T02:19:10+00:00</updated>
+  <updated>2023-09-04T18:21:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @rhearipley_wwe</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rhearipley_wwe/video/7256937711200685358</id>
-    <title>Always 😈</title>
-    <updated>2023-07-17T23:44:48+00:00</updated>
-    <content>Always 😈</content>
-    <link href="https://tiktok.com/@rhearipley_wwe/video/7256937711200685358" rel="alternate"/>
-    <published>2023-07-17T23:44:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rhearipley_wwe/video/7258450797782945070</id>
     <title>#duet with @WWE NXT 😍🤤😘 #DirtyDom </title>
@@ -91,5 +83,13 @@
     <content>She a 😈 #WWEPayback</content>
     <link href="https://tiktok.com/@rhearipley_wwe/video/7274418499886255406" rel="alternate"/>
     <published>2023-09-03T02:19:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rhearipley_wwe/video/7275037535150214446</id>
+    <title>Mami’s world ⚖️</title>
+    <updated>2023-09-04T18:21:26+00:00</updated>
+    <content>Mami’s world ⚖️</content>
+    <link href="https://tiktok.com/@rhearipley_wwe/video/7275037535150214446" rel="alternate"/>
+    <published>2023-09-04T18:21:26+00:00</published>
   </entry>
 </feed>
