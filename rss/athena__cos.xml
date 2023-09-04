@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-09-04T17:41:23+00:00</updated>
+  <updated>2023-09-04T20:00:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7272049915096796459</id>
-    <title>He’s a literal teddy bear #korracosplay #avatar #avatarcosplay </title>
-    <updated>2023-08-27T17:08:01+00:00</updated>
-    <content>He’s a literal teddy bear #korracosplay #avatar #avatarcosplay </content>
-    <link href="https://tiktok.com/@athena__cos/video/7272049915096796459" rel="alternate"/>
-    <published>2023-08-27T17:08:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7272499994689588522</id>
     <title>Motivation is a MYTH #jiujitsu </title>
@@ -91,5 +83,13 @@
     <content>I’m actually not a huge Ghost face fanatic, but this sound is just PERFECT for spooky season #spookyseason #scream #ghostface </content>
     <link href="https://tiktok.com/@athena__cos/video/7275027241233288491" rel="alternate"/>
     <published>2023-09-04T17:41:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7275063181721226542</id>
+    <title>Dedicate your hearts #aot #attackontitan </title>
+    <updated>2023-09-04T20:00:57+00:00</updated>
+    <content>Dedicate your hearts #aot #attackontitan </content>
+    <link href="https://tiktok.com/@athena__cos/video/7275063181721226542" rel="alternate"/>
+    <published>2023-09-04T20:00:57+00:00</published>
   </entry>
 </feed>
