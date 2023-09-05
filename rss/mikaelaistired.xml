@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@mikaelaistired</id>
   <title>@mikaelaistired | TikTok</title>
-  <updated>2023-08-25T15:50:31+00:00</updated>
+  <updated>2023-09-05T12:01:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @mikaelaistired</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mikaelaistired/video/7266127491918630190</id>
-    <title>Wanted to make sure you knew</title>
-    <updated>2023-08-11T18:05:57+00:00</updated>
-    <content>Wanted to make sure you knew</content>
-    <link href="https://tiktok.com/@mikaelaistired/video/7266127491918630190" rel="alternate"/>
-    <published>2023-08-11T18:05:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mikaelaistired/video/7266181003511663915</id>
     <title>I definitely dont thanks</title>
@@ -91,5 +83,13 @@
     <content>I had no idea what she was gonna say but lol</content>
     <link href="https://tiktok.com/@mikaelaistired/video/7271287811188247854" rel="alternate"/>
     <published>2023-08-25T15:50:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mikaelaistired/video/7275310764888575275</id>
+    <title>I disappeared there a bit </title>
+    <updated>2023-09-05T12:01:43+00:00</updated>
+    <content>I disappeared there a bit </content>
+    <link href="https://tiktok.com/@mikaelaistired/video/7275310764888575275" rel="alternate"/>
+    <published>2023-09-05T12:01:43+00:00</published>
   </entry>
 </feed>
