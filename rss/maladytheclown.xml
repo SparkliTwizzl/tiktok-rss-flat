@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maladytheclown</id>
   <title>@maladytheclown | TikTok</title>
-  <updated>2023-08-03T19:35:50+00:00</updated>
+  <updated>2023-08-15T16:26:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maladytheclown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maladytheclown/video/7259498123922246917</id>
-    <title>💚💚💚 song by @ashnikko #cheerleader #maladytheclown #dancesinshadows </title>
-    <updated>2023-07-24T21:20:24+00:00</updated>
-    <content>💚💚💚 song by @ashnikko #cheerleader #maladytheclown #dancesinshadows </content>
-    <link href="https://tiktok.com/@maladytheclown/video/7259498123922246917" rel="alternate"/>
-    <published>2023-07-24T21:20:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maladytheclown/video/7259548701046230277</id>
     <title>feel free to join 💚 #dancesinshadows #maladytheclown #neongreen </title>
@@ -91,5 +83,13 @@
     <content>planning on new steampink looks coming soon ❤️😅 like, real soon. I need promo pics for my merch shop relaunch featuring windup keys,wigs, jewelry, and more. #onthisday #steampunk #dancesinshadows #makeupartist </content>
     <link href="https://tiktok.com/@maladytheclown/video/7263182022938610950" rel="alternate"/>
     <published>2023-08-03T19:35:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maladytheclown/video/7267586270354869509</id>
+    <title>Poor Glum. He's very confused and a tad terrified. voice/audio: @That's a Bad Idea #dragking #dancesinshadows #glumthesupernaturalhitman   </title>
+    <updated>2023-08-15T16:26:32+00:00</updated>
+    <content>Poor Glum. He's very confused and a tad terrified. voice/audio: @That's a Bad Idea #dragking #dancesinshadows #glumthesupernaturalhitman   </content>
+    <link href="https://tiktok.com/@maladytheclown/video/7267586270354869509" rel="alternate"/>
+    <published>2023-08-15T16:26:32+00:00</published>
   </entry>
 </feed>
