@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@juliafox038711</id>
   <title>@juliafox038711 | TikTok</title>
-  <updated>2023-09-03T21:59:24+00:00</updated>
+  <updated>2023-09-05T04:55:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juliafox038711</subtitle>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7268528842548022571</id>
-    <title>id cringe but i was so smooth with it tho</title>
-    <updated>2023-08-18T05:24:35+00:00</updated>
-    <content>id cringe but i was so smooth with it tho</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7268528842548022571" rel="alternate"/>
-    <published>2023-08-18T05:24:35+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7268537641245674794</id>
-    <title>ive wanted my hair to do this again for idk how long #foryou </title>
-    <updated>2023-08-18T05:58:37+00:00</updated>
-    <content>ive wanted my hair to do this again for idk how long #foryou </content>
-    <link href="https://tiktok.com/@juliafox038711/video/7268537641245674794" rel="alternate"/>
-    <published>2023-08-18T05:58:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@juliafox038711/video/7268541068424006955</id>
     <title>i love you so</title>
@@ -91,5 +75,21 @@
     <content>#CapCut you bring me so much joy, it’s indescribable </content>
     <link href="https://tiktok.com/@juliafox038711/video/7274722638566559019" rel="alternate"/>
     <published>2023-09-03T21:59:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7275198166725709098</id>
+    <title>teheh</title>
+    <updated>2023-09-05T04:44:55+00:00</updated>
+    <content>teheh</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7275198166725709098" rel="alternate"/>
+    <published>2023-09-05T04:44:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7275201025827441962</id>
+    <title>my only dance move </title>
+    <updated>2023-09-05T04:55:57+00:00</updated>
+    <content>my only dance move </content>
+    <link href="https://tiktok.com/@juliafox038711/video/7275201025827441962" rel="alternate"/>
+    <published>2023-09-05T04:55:57+00:00</published>
   </entry>
 </feed>
