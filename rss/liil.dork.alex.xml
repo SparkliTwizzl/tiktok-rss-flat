@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@liil.dork.alex</id>
   <title>@liil.dork.alex | TikTok</title>
-  <updated>2023-09-02T03:35:37+00:00</updated>
+  <updated>2023-09-05T00:01:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @liil.dork.alex</subtitle>
-  <entry>
-    <id>https://tiktok.com/@liil.dork.alex/video/7265546965558234414</id>
-    <title>I didnt change the livht color 😅😳</title>
-    <updated>2023-08-10T04:33:15+00:00</updated>
-    <content>I didnt change the livht color 😅😳</content>
-    <link href="https://tiktok.com/@liil.dork.alex/video/7265546965558234414" rel="alternate"/>
-    <published>2023-08-10T04:33:15+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@liil.dork.alex/video/7266300616287292715</id>
-    <title>[no title]</title>
-    <updated>2023-08-12T05:17:47+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@liil.dork.alex/video/7266300616287292715" rel="alternate"/>
-    <published>2023-08-12T05:17:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@liil.dork.alex/video/7267393334136835374</id>
     <title>Gotta get back to where i was 😮‍💨</title>
@@ -91,5 +75,21 @@
     <content>Talk 2 me girl </content>
     <link href="https://tiktok.com/@liil.dork.alex/video/7274067108332391726" rel="alternate"/>
     <published>2023-09-02T03:35:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@liil.dork.alex/video/7275108948938738990</id>
+    <title>They dont do it like me 🤠</title>
+    <updated>2023-09-04T22:58:31+00:00</updated>
+    <content>They dont do it like me 🤠</content>
+    <link href="https://tiktok.com/@liil.dork.alex/video/7275108948938738990" rel="alternate"/>
+    <published>2023-09-04T22:58:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@liil.dork.alex/video/7275125221785455915</id>
+    <title>I liked this one better 😂</title>
+    <updated>2023-09-05T00:01:40+00:00</updated>
+    <content>I liked this one better 😂</content>
+    <link href="https://tiktok.com/@liil.dork.alex/video/7275125221785455915" rel="alternate"/>
+    <published>2023-09-05T00:01:40+00:00</published>
   </entry>
 </feed>
