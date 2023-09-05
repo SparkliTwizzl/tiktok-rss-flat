@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@atreegod</id>
   <title>@atreegod | TikTok</title>
-  <updated>2023-09-03T00:00:59+00:00</updated>
+  <updated>2023-09-05T16:48:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @atreegod</subtitle>
-  <entry>
-    <id>https://tiktok.com/@atreegod/video/7272011690949102890</id>
-    <title>Real (i am in a dungeon send help) #wlw #lgbtq</title>
-    <updated>2023-08-27T14:39:55+00:00</updated>
-    <content>Real (i am in a dungeon send help) #wlw #lgbtq</content>
-    <link href="https://tiktok.com/@atreegod/video/7272011690949102890" rel="alternate"/>
-    <published>2023-08-27T14:39:55+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@atreegod/video/7272238106181504299</id>
     <title>Im so expressive w my eyebrows lol #wlw #lgbtq</title>
@@ -91,5 +83,13 @@
     <content>Alqays touching my damn hair (someone should pull it) #wlw #lgbtq </content>
     <link href="https://tiktok.com/@atreegod/video/7274382885891673387" rel="alternate"/>
     <published>2023-09-03T00:00:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7275384610366721326</id>
+    <title>Fit check for errand day #wlw #lgbtq </title>
+    <updated>2023-09-05T16:48:12+00:00</updated>
+    <content>Fit check for errand day #wlw #lgbtq </content>
+    <link href="https://tiktok.com/@atreegod/video/7275384610366721326" rel="alternate"/>
+    <published>2023-09-05T16:48:12+00:00</published>
   </entry>
 </feed>
