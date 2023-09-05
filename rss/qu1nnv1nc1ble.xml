@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@qu1nnv1nc1ble</id>
   <title>@qu1nnv1nc1ble | TikTok</title>
-  <updated>2023-09-03T20:00:12+00:00</updated>
+  <updated>2023-09-05T02:02:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @qu1nnv1nc1ble</subtitle>
-  <entry>
-    <id>https://tiktok.com/@qu1nnv1nc1ble/video/7270930377097727275</id>
-    <title>It won’t phase me ✌️</title>
-    <updated>2023-08-24T16:43:29+00:00</updated>
-    <content>It won’t phase me ✌️</content>
-    <link href="https://tiktok.com/@qu1nnv1nc1ble/video/7270930377097727275" rel="alternate"/>
-    <published>2023-08-24T16:43:29+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@qu1nnv1nc1ble/video/7271090645899496747</id>
     <title>Alright fall 2023, don’t disappoint me #fall #goodvibes #CapCut </title>
@@ -91,5 +83,13 @@
     <content>IG 😘</content>
     <link href="https://tiktok.com/@qu1nnv1nc1ble/video/7274691911544327470" rel="alternate"/>
     <published>2023-09-03T20:00:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@qu1nnv1nc1ble/video/7275156265939012906</id>
+    <title>Plz dont look at my mirror it’s too dorty🤮</title>
+    <updated>2023-09-05T02:02:05+00:00</updated>
+    <content>Plz dont look at my mirror it’s too dorty🤮</content>
+    <link href="https://tiktok.com/@qu1nnv1nc1ble/video/7275156265939012906" rel="alternate"/>
+    <published>2023-09-05T02:02:05+00:00</published>
   </entry>
 </feed>
