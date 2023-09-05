@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jacobtheseahorse</id>
   <title>@jacobtheseahorse | TikTok</title>
-  <updated>2023-09-01T11:48:20+00:00</updated>
+  <updated>2023-09-05T19:13:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jacobtheseahorse</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7270104905744944416</id>
-    <title>Replying to @loopie.phoebe it's a lot of beer! people definitely assumed something medical was going on, the probably didn't assume pregnancy though! #trans #pregnancy #transpregnancy #fertility #beer #belly </title>
-    <updated>2023-08-22T11:20:10+00:00</updated>
-    <content>Replying to @loopie.phoebe it's a lot of beer! people definitely assumed something medical was going on, the probably didn't assume pregnancy though! #trans #pregnancy #transpregnancy #fertility #beer #belly </content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7270104905744944416" rel="alternate"/>
-    <published>2023-08-22T11:20:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jacobtheseahorse/video/7270150407387696417</id>
     <title>Replying to @timewastin80 like 97% of the weight was his head I'm sure of it.  2 years on and he still uses it like a battrring ram 🙃 #bigbaby #baby #nipe #ytans #transpregnancy #lgbt #birth </title>
@@ -91,5 +83,13 @@
     <content>#duet with @ℤ𝕖𝕜𝕖 #gorillaz this sound is giving me life on a low energy day. #d6 #dice #adhd #fidget #spinner #audhd #actuallyautistic </content>
     <link href="https://tiktok.com/@jacobtheseahorse/video/7273823007544544544" rel="alternate"/>
     <published>2023-09-01T11:48:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7275422156798823713</id>
+    <title>commonly asked questions - 1. yes I'm trans 2. yes I stopped testosterone 3. my baby is big because my husband is very tall, nothing to do with testosterone 4. no pregnancy isn't necessarily a womanly thing, it's just a cool thing my (trans) body can do 5</title>
+    <updated>2023-09-05T19:13:47+00:00</updated>
+    <content>commonly asked questions - 1. yes I'm trans 2. yes I stopped testosterone 3. my baby is big because my husband is very tall, nothing to do with testosterone 4. no pregnancy isn't necessarily a womanly thing, it's just a cool thing my (trans) body can do 5. that said, there was dysphoria around certain body parts and the relentless social gendering happy to answer more questions if you have them! #trans #transpregnancy #homebirth #midwifery #nhs #birth #lgbtqparents</content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7275422156798823713" rel="alternate"/>
+    <published>2023-09-05T19:13:47+00:00</published>
   </entry>
 </feed>
