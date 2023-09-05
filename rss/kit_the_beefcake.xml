@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kit_the_beefcake</id>
   <title>@kit_the_beefcake | TikTok</title>
-  <updated>2023-09-04T07:00:08+00:00</updated>
+  <updated>2023-09-04T23:22:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kit_the_beefcake</subtitle>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7263047641309826350</id>
+    <title>#exmormon #mormon #storytime #confession </title>
+    <updated>2023-08-03T10:54:30+00:00</updated>
+    <content>#exmormon #mormon #storytime #confession </content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7263047641309826350" rel="alternate"/>
+    <published>2023-08-03T10:54:30+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7263253936444935467</id>
     <title>He got his first gf shortly after and they look really happy so I won't say who it was. it's just a memory that tickles me. #ufc #mma #storytime #confession </title>
@@ -61,14 +69,6 @@
     <published>2023-08-28T10:53:11+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7274082569354808622</id>
-    <title>[no title]</title>
-    <updated>2023-09-02T04:35:38+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7274082569354808622" rel="alternate"/>
-    <published>2023-09-02T04:35:38+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7274420466926832938</id>
     <title>[no title]</title>
     <updated>2023-09-03T02:26:52+00:00</updated>
@@ -77,19 +77,19 @@
     <published>2023-09-03T02:26:52+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7274719427550072107</id>
-    <title>#onthisday </title>
-    <updated>2023-09-03T21:46:57+00:00</updated>
-    <content>#onthisday </content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7274719427550072107" rel="alternate"/>
-    <published>2023-09-03T21:46:57+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7274861865631616302</id>
     <title>[no title]</title>
     <updated>2023-09-04T07:00:08+00:00</updated>
     <content>[no description]</content>
     <link href="https://tiktok.com/@kit_the_beefcake/video/7274861865631616302" rel="alternate"/>
     <published>2023-09-04T07:00:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7275115199428873514</id>
+    <title>[no title]</title>
+    <updated>2023-09-04T23:22:46+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7275115199428873514" rel="alternate"/>
+    <published>2023-09-04T23:22:46+00:00</published>
   </entry>
 </feed>
