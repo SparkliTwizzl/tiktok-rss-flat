@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-09-04T20:44:49+00:00</updated>
+  <updated>2023-09-05T21:33:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7272805845623409966</id>
-    <title>Does this mean the FNAF movie will have TSwift Easter eggs? 🤔🤔🤔 #taylorswift #1989taylorsversion #fivenightsatfreddys #fnaf </title>
-    <updated>2023-08-29T18:01:27+00:00</updated>
-    <content>Does this mean the FNAF movie will have TSwift Easter eggs? 🤔🤔🤔 #taylorswift #1989taylorsversion #fivenightsatfreddys #fnaf </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7272805845623409966" rel="alternate"/>
-    <published>2023-08-29T18:01:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7272813088779324714</id>
     <title>You do not know because you do not seek to understand. Your knowledge is not complete because you have a degree. There is always more to be learned. Listen to us. #solardidsystem #ssquinn #dissociativeidentitydisorder </title>
@@ -91,5 +83,13 @@
     <content>The subsystem has fused. It is no longer necessary for us to be separate. My name is Zyra. #solardidsystem #sszyra #dissociativeidentitydisorder </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7275074486649605419" rel="alternate"/>
     <published>2023-09-04T20:44:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7275458222608125230</id>
+    <title>[no title]</title>
+    <updated>2023-09-05T21:33:51+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7275458222608125230" rel="alternate"/>
+    <published>2023-09-05T21:33:51+00:00</published>
   </entry>
 </feed>
