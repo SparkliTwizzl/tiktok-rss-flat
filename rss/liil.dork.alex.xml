@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@liil.dork.alex</id>
   <title>@liil.dork.alex | TikTok</title>
-  <updated>2023-09-05T00:01:40+00:00</updated>
+  <updated>2023-09-05T22:06:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @liil.dork.alex</subtitle>
-  <entry>
-    <id>https://tiktok.com/@liil.dork.alex/video/7267393334136835374</id>
-    <title>Gotta get back to where i was 😮‍💨</title>
-    <updated>2023-08-15T03:58:07+00:00</updated>
-    <content>Gotta get back to where i was 😮‍💨</content>
-    <link href="https://tiktok.com/@liil.dork.alex/video/7267393334136835374" rel="alternate"/>
-    <published>2023-08-15T03:58:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@liil.dork.alex/video/7267617810841586990</id>
     <title>Replying to @Cyrus  not where i was 🫠 but what happens when you fall off for a bit. Muscle memory do be coming in handy tho 😏</title>
@@ -91,5 +83,13 @@
     <content>I liked this one better 😂</content>
     <link href="https://tiktok.com/@liil.dork.alex/video/7275125221785455915" rel="alternate"/>
     <published>2023-09-05T00:01:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@liil.dork.alex/video/7275466780477328682</id>
+    <title>Still asks me for grandkids 😭 </title>
+    <updated>2023-09-05T22:06:59+00:00</updated>
+    <content>Still asks me for grandkids 😭 </content>
+    <link href="https://tiktok.com/@liil.dork.alex/video/7275466780477328682" rel="alternate"/>
+    <published>2023-09-05T22:06:59+00:00</published>
   </entry>
 </feed>
