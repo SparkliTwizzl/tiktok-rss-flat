@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-09-05T06:07:31+00:00</updated>
+  <updated>2023-09-05T13:47:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7272579300983885098</id>
-    <title>At least 3 in 1 second</title>
-    <updated>2023-08-29T03:22:07+00:00</updated>
-    <content>At least 3 in 1 second</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7272579300983885098" rel="alternate"/>
-    <published>2023-08-29T03:22:07+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7272848632053943594</id>
-    <title>My lil orange guy on the mirror</title>
-    <updated>2023-08-29T20:47:20+00:00</updated>
-    <content>My lil orange guy on the mirror</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7272848632053943594" rel="alternate"/>
-    <published>2023-08-29T20:47:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7272874799175683374</id>
     <title>Even the computer changed </title>
@@ -91,5 +75,21 @@
     <content>Omg goodnight </content>
     <link href="https://tiktok.com/@kaylabutternut/video/7275219416676191530" rel="alternate"/>
     <published>2023-09-05T06:07:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7275337392536472874</id>
+    <title>[no title]</title>
+    <updated>2023-09-05T13:45:00+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7275337392536472874" rel="alternate"/>
+    <published>2023-09-05T13:45:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7275338011603193130</id>
+    <title>#onthisday OH IM BRINGING THE RED LIP BACK</title>
+    <updated>2023-09-05T13:47:24+00:00</updated>
+    <content>#onthisday OH IM BRINGING THE RED LIP BACK</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7275338011603193130" rel="alternate"/>
+    <published>2023-09-05T13:47:24+00:00</published>
   </entry>
 </feed>
