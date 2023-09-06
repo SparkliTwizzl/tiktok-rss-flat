@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@villainsupport</id>
   <title>@villainsupport | TikTok</title>
-  <updated>2023-09-06T17:33:47+00:00</updated>
+  <updated>2023-09-06T20:29:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @villainsupport</subtitle>
-  <entry>
-    <id>https://tiktok.com/@villainsupport/video/7269127295615405355</id>
-    <title>A Villain is Unhappy with the Deluxe Portable Lair #villain #lair #customerservice #acmetok #acmevillainsupport </title>
-    <updated>2023-08-19T20:06:38+00:00</updated>
-    <content>A Villain is Unhappy with the Deluxe Portable Lair #villain #lair #customerservice #acmetok #acmevillainsupport </content>
-    <link href="https://tiktok.com/@villainsupport/video/7269127295615405355" rel="alternate"/>
-    <published>2023-08-19T20:06:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@villainsupport/video/7270248992863227178</id>
     <title>There’s reasons Gary went broke.</title>
@@ -91,5 +83,13 @@
     <content>#neapolitan #acmetok #acmevillainsupport </content>
     <link href="https://tiktok.com/@villainsupport/video/7275767440884141358" rel="alternate"/>
     <published>2023-09-06T17:33:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@villainsupport/video/7275812675622292782</id>
+    <title>#kitty #villain #acmetok #acmevillainsupport </title>
+    <updated>2023-09-06T20:29:16+00:00</updated>
+    <content>#kitty #villain #acmetok #acmevillainsupport </content>
+    <link href="https://tiktok.com/@villainsupport/video/7275812675622292782" rel="alternate"/>
+    <published>2023-09-06T20:29:16+00:00</published>
   </entry>
 </feed>
