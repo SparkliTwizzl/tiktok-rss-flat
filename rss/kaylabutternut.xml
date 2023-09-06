@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-09-05T20:48:30+00:00</updated>
+  <updated>2023-09-06T03:08:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7273640490417966382</id>
-    <title>I like this one more</title>
-    <updated>2023-09-01T00:00:08+00:00</updated>
-    <content>I like this one more</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7273640490417966382" rel="alternate"/>
-    <published>2023-09-01T00:00:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7273657931755900206</id>
     <title>Last transition </title>
@@ -91,5 +83,13 @@
     <content>The leaves in the back are going back up</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7275446552343153962" rel="alternate"/>
     <published>2023-09-05T20:48:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7275544462217055530</id>
+    <title>#stitch with @kayla I’ve never been so scared in my life</title>
+    <updated>2023-09-06T03:08:34+00:00</updated>
+    <content>#stitch with @kayla I’ve never been so scared in my life</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7275544462217055530" rel="alternate"/>
+    <published>2023-09-06T03:08:34+00:00</published>
   </entry>
 </feed>
