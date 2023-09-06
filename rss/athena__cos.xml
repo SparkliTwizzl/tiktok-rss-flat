@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-09-05T21:48:31+00:00</updated>
+  <updated>2023-09-06T21:32:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7272845241118428458</id>
-    <title>@VILLAGE HIDDEN IN IRON spoils me for real 😭💜 fun fact, cherry blossoms are my favorite flower! </title>
-    <updated>2023-08-29T20:34:14+00:00</updated>
-    <content>@VILLAGE HIDDEN IN IRON spoils me for real 😭💜 fun fact, cherry blossoms are my favorite flower! </content>
-    <link href="https://tiktok.com/@athena__cos/video/7272845241118428458" rel="alternate"/>
-    <published>2023-08-29T20:34:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7273550099068865834</id>
     <title>This goes for cosplay as well (or muscles IN cosplay) #women #buffwomen </title>
@@ -91,5 +83,13 @@
     <content>First time glitched so we’re reuploading 😂 </content>
     <link href="https://tiktok.com/@athena__cos/video/7275462012392590635" rel="alternate"/>
     <published>2023-09-05T21:48:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7275829067939892526</id>
+    <title>I rolled down that hill so many times for yall </title>
+    <updated>2023-09-06T21:32:59+00:00</updated>
+    <content>I rolled down that hill so many times for yall </content>
+    <link href="https://tiktok.com/@athena__cos/video/7275829067939892526" rel="alternate"/>
+    <published>2023-09-06T21:32:59+00:00</published>
   </entry>
 </feed>

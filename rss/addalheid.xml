@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@addalheid</id>
   <title>@addalheid | TikTok</title>
-  <updated>2023-09-06T19:34:19+00:00</updated>
+  <updated>2023-09-06T19:46:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,22 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @addalheid</subtitle>
+  <entry>
+    <id>https://tiktok.com/@addalheid/video/7247599181584534811</id>
+    <title>Flash </title>
+    <updated>2023-06-22T19:46:33+00:00</updated>
+    <content>Flash </content>
+    <link href="https://tiktok.com/@addalheid/video/7247599181584534811" rel="alternate"/>
+    <published>2023-06-22T19:46:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@addalheid/video/7253422365781134618</id>
+    <title>Call me superman</title>
+    <updated>2023-07-08T12:23:27+00:00</updated>
+    <content>Call me superman</content>
+    <link href="https://tiktok.com/@addalheid/video/7253422365781134618" rel="alternate"/>
+    <published>2023-07-08T12:23:27+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@addalheid/video/7257444139581656347</id>
     <title>🤍</title>
@@ -35,22 +51,6 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@addalheid/video/7260242043828571419" rel="alternate"/>
     <published>2023-07-26T21:27:14+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@addalheid/video/7261704146057825562</id>
-    <title>#CapCut </title>
-    <updated>2023-07-30T20:00:59+00:00</updated>
-    <content>#CapCut </content>
-    <link href="https://tiktok.com/@addalheid/video/7261704146057825562" rel="alternate"/>
-    <published>2023-07-30T20:00:59+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@addalheid/video/7262340112825077024</id>
-    <title>What’s yours ? 😊</title>
-    <updated>2023-08-01T13:08:46+00:00</updated>
-    <content>What’s yours ? 😊</content>
-    <link href="https://tiktok.com/@addalheid/video/7262340112825077024" rel="alternate"/>
-    <published>2023-08-01T13:08:46+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@addalheid/video/7267632554054815009</id>
@@ -85,11 +85,11 @@
     <published>2023-09-02T15:23:28+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@addalheid/video/7275798526234266913</id>
-    <title>[no title]</title>
-    <updated>2023-09-06T19:34:19+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@addalheid/video/7275798526234266913" rel="alternate"/>
-    <published>2023-09-06T19:34:19+00:00</published>
+    <id>https://tiktok.com/@addalheid/video/7275801720242883873</id>
+    <title>♾️</title>
+    <updated>2023-09-06T19:46:43+00:00</updated>
+    <content>♾️</content>
+    <link href="https://tiktok.com/@addalheid/video/7275801720242883873" rel="alternate"/>
+    <published>2023-09-06T19:46:43+00:00</published>
   </entry>
 </feed>
