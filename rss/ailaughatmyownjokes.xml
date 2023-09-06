@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ailaughatmyownjokes</id>
   <title>@ailaughatmyownjokes | TikTok</title>
-  <updated>2023-09-04T15:47:35+00:00</updated>
+  <updated>2023-09-06T13:13:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ailaughatmyownjokes</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ailaughatmyownjokes/video/7262380330311519521</id>
-    <title>Hogwarts school of witchcraft and fare gli spaghetti alla carbonara come si deve.  Pasta scotta = espulsione #italy #harrypotter </title>
-    <updated>2023-08-01T15:44:52+00:00</updated>
-    <content>Hogwarts school of witchcraft and fare gli spaghetti alla carbonara come si deve.  Pasta scotta = espulsione #italy #harrypotter </content>
-    <link href="https://tiktok.com/@ailaughatmyownjokes/video/7262380330311519521" rel="alternate"/>
-    <published>2023-08-01T15:44:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ailaughatmyownjokes/video/7263887874247019808</id>
     <title>Whoop whoop das the sound of dah polis #sketch #comedy</title>
@@ -91,5 +83,13 @@
     <content>Tastes just like chicken👍 #harrypotter #sketch #comedy </content>
     <link href="https://tiktok.com/@ailaughatmyownjokes/video/7274997915557416224" rel="alternate"/>
     <published>2023-09-04T15:47:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ailaughatmyownjokes/video/7275700481450626337</id>
+    <title>This sound spoke to me so i had to use it. (Felt cute might delete later uwu)</title>
+    <updated>2023-09-06T13:13:51+00:00</updated>
+    <content>This sound spoke to me so i had to use it. (Felt cute might delete later uwu)</content>
+    <link href="https://tiktok.com/@ailaughatmyownjokes/video/7275700481450626337" rel="alternate"/>
+    <published>2023-09-06T13:13:51+00:00</published>
   </entry>
 </feed>
