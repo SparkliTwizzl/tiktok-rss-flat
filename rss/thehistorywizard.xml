@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thehistorywizard</id>
   <title>@thehistorywizard | TikTok</title>
-  <updated>2023-09-06T14:01:22+00:00</updated>
+  <updated>2023-09-06T16:37:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thehistorywizard</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thehistorywizard/video/7272909927272746282</id>
-    <title>I'm back. #thehistorywizard </title>
-    <updated>2023-08-30T00:45:11+00:00</updated>
-    <content>I'm back. #thehistorywizard </content>
-    <link href="https://tiktok.com/@thehistorywizard/video/7272909927272746282" rel="alternate"/>
-    <published>2023-08-30T00:45:11+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thehistorywizard/video/7273108156698479914</id>
     <title>Replying to @creature_ire The economy isn't a game. #thehistorywizard #historytiktok #edutok #learnontiktok </title>
@@ -91,5 +83,13 @@
     <content>Replying to @sledsnk8 Don't Fuck Them 2024. #thehistorywizard #historytiktok #edutok #learnontiktok </content>
     <link href="https://tiktok.com/@thehistorywizard/video/7275712699806371114" rel="alternate"/>
     <published>2023-09-06T14:01:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thehistorywizard/video/7275752915816467754</id>
+    <title>Replying to @forkliftoperator.87 🤣🤣🤣 #thehistorywizard #historytiktok #edutok #learnontiktok #villianera </title>
+    <updated>2023-09-06T16:37:26+00:00</updated>
+    <content>Replying to @forkliftoperator.87 🤣🤣🤣 #thehistorywizard #historytiktok #edutok #learnontiktok #villianera </content>
+    <link href="https://tiktok.com/@thehistorywizard/video/7275752915816467754" rel="alternate"/>
+    <published>2023-09-06T16:37:26+00:00</published>
   </entry>
 </feed>
