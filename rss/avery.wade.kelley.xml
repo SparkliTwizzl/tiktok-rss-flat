@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-09-06T17:28:30+00:00</updated>
+  <updated>2023-09-06T22:35:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7260984093595192618</id>
-    <title>Stop it. Lol. #fyp </title>
-    <updated>2023-07-28T21:26:50+00:00</updated>
-    <content>Stop it. Lol. #fyp </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7260984093595192618" rel="alternate"/>
-    <published>2023-07-28T21:26:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7261352439356378410</id>
     <title>Major shift... Not sure what this means for me yet. But I'm tired of fighting. Why can't we just exist as humans? I'm guilty of falling prey to the propaganda and divide they've created, but in all honesty, I just want to live my life and let others live </title>
@@ -91,5 +83,13 @@
     <content>Just being honest and ranting, laughing at myself cause I don't know what else to do. 🤣🤣🤣 #fyp #trans </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7275766092310531371" rel="alternate"/>
     <published>2023-09-06T17:28:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7275845287946554666</id>
+    <title>Lol... No, but for real. #fyp </title>
+    <updated>2023-09-06T22:35:53+00:00</updated>
+    <content>Lol... No, but for real. #fyp </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7275845287946554666" rel="alternate"/>
+    <published>2023-09-06T22:35:53+00:00</published>
   </entry>
 </feed>
