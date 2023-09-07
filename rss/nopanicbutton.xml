@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@nopanicbutton</id>
   <title>@nopanicbutton | TikTok</title>
-  <updated>2023-09-04T20:41:41+00:00</updated>
+  <updated>2023-09-06T23:11:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @nopanicbutton</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nopanicbutton/video/7266144972011982126</id>
-    <title>Nothing wrong with multipurpose tools. #kinktok #specialchair #duckplucker </title>
-    <updated>2023-08-11T19:13:46+00:00</updated>
-    <content>Nothing wrong with multipurpose tools. #kinktok #specialchair #duckplucker </content>
-    <link href="https://tiktok.com/@nopanicbutton/video/7266144972011982126" rel="alternate"/>
-    <published>2023-08-11T19:13:46+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nopanicbutton/video/7267282140474232106</id>
     <title>This couldn't have been comfortable to wear.... #kinktok #ouch #smellslikeprunes </title>
@@ -91,5 +83,13 @@
     <content>John may lose his business card privileges. #calmdown #shoppingspree #werenotthekardashians </content>
     <link href="https://tiktok.com/@nopanicbutton/video/7275073680714059051" rel="alternate"/>
     <published>2023-09-04T20:41:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nopanicbutton/video/7275854373241064747</id>
+    <title>We all show affection differently... #kinktok #scary#bedroomantics #isitsafe </title>
+    <updated>2023-09-06T23:11:11+00:00</updated>
+    <content>We all show affection differently... #kinktok #scary#bedroomantics #isitsafe </content>
+    <link href="https://tiktok.com/@nopanicbutton/video/7275854373241064747" rel="alternate"/>
+    <published>2023-09-06T23:11:11+00:00</published>
   </entry>
 </feed>
