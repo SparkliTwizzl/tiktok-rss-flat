@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-09-06T21:32:59+00:00</updated>
+  <updated>2023-09-07T19:16:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7273550099068865834</id>
-    <title>This goes for cosplay as well (or muscles IN cosplay) #women #buffwomen </title>
-    <updated>2023-08-31T18:09:23+00:00</updated>
-    <content>This goes for cosplay as well (or muscles IN cosplay) #women #buffwomen </content>
-    <link href="https://tiktok.com/@athena__cos/video/7273550099068865834" rel="alternate"/>
-    <published>2023-08-31T18:09:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7273594960627240235</id>
     <title>The body dysmporhia is hitting today #gymtok #animebod #womenwholift </title>
@@ -91,5 +83,13 @@
     <content>I rolled down that hill so many times for yall </content>
     <link href="https://tiktok.com/@athena__cos/video/7275829067939892526" rel="alternate"/>
     <published>2023-09-06T21:32:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7276164900391587114</id>
+    <title>I have such an emotional attachment to this song #attackontitan #aotcosplay </title>
+    <updated>2023-09-07T19:16:12+00:00</updated>
+    <content>I have such an emotional attachment to this song #attackontitan #aotcosplay </content>
+    <link href="https://tiktok.com/@athena__cos/video/7276164900391587114" rel="alternate"/>
+    <published>2023-09-07T19:16:12+00:00</published>
   </entry>
 </feed>
