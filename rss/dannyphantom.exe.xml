@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dannyphantom.exe</id>
   <title>@dannyphantom.exe | TikTok</title>
-  <updated>2023-09-05T02:19:47+00:00</updated>
+  <updated>2023-09-07T02:16:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dannyphantom.exe</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7273675547157204267</id>
-    <title>tag someone who does this</title>
-    <updated>2023-09-01T02:16:10+00:00</updated>
-    <content>tag someone who does this</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7273675547157204267" rel="alternate"/>
-    <published>2023-09-01T02:16:10+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7274046399602281771</id>
-    <title>tag someone so u can ft later</title>
-    <updated>2023-09-02T02:15:15+00:00</updated>
-    <content>tag someone so u can ft later</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7274046399602281771" rel="alternate"/>
-    <published>2023-09-02T02:15:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dannyphantom.exe/video/7274046455717842218</id>
     <title>i need to cosplay Nanami again</title>
@@ -91,5 +75,21 @@
     <content>tag ur tall or short friend</content>
     <link href="https://tiktok.com/@dannyphantom.exe/video/7275160814183648555" rel="alternate"/>
     <published>2023-09-05T02:19:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7275901900204084523</id>
+    <title>gang</title>
+    <updated>2023-09-07T02:15:33+00:00</updated>
+    <content>gang</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7275901900204084523" rel="alternate"/>
+    <published>2023-09-07T02:15:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7275902112637242666</id>
+    <title>@WholeWheatPete 🍞 @Arny besto friendos. i wont choose</title>
+    <updated>2023-09-07T02:16:26+00:00</updated>
+    <content>@WholeWheatPete 🍞 @Arny besto friendos. i wont choose</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7275902112637242666" rel="alternate"/>
+    <published>2023-09-07T02:16:26+00:00</published>
   </entry>
 </feed>
