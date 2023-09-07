@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-09-06T22:35:53+00:00</updated>
+  <updated>2023-09-07T19:49:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7261352439356378410</id>
-    <title>Major shift... Not sure what this means for me yet. But I'm tired of fighting. Why can't we just exist as humans? I'm guilty of falling prey to the propaganda and divide they've created, but in all honesty, I just want to live my life and let others live </title>
-    <updated>2023-07-29T21:16:14+00:00</updated>
-    <content>Major shift... Not sure what this means for me yet. But I'm tired of fighting. Why can't we just exist as humans? I'm guilty of falling prey to the propaganda and divide they've created, but in all honesty, I just want to live my life and let others live theirs. #fyp #trans #cis </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7261352439356378410" rel="alternate"/>
-    <published>2023-07-29T21:16:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7262121712639102250</id>
     <title>Vent tok. Lol. #fyp #trans </title>
@@ -91,5 +83,13 @@
     <content>Lol... No, but for real. #fyp </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7275845287946554666" rel="alternate"/>
     <published>2023-09-06T22:35:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7276173505580911914</id>
+    <title>Life lessons. ALWAYS do your research for stylists, tattoo artists, micro-blading technicians, surgons, anyone that does a permanent or semi-permanent modification on your body. I ended up being really mean to this person because I was so upset, but at th</title>
+    <updated>2023-09-07T19:49:34+00:00</updated>
+    <content>Life lessons. ALWAYS do your research for stylists, tattoo artists, micro-blading technicians, surgons, anyone that does a permanent or semi-permanent modification on your body. I ended up being really mean to this person because I was so upset, but at the end of the day, it was my fault for allowing it to happen and not fully communicating and doing my research, and they didn't deserve the anger I dished out on them.  Be careful, ask for what you want, and don't settle. Even if it takes you years to find the right artist, I promise it's worth it.  Have patience.  - Not Chester #fyp </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7276173505580911914" rel="alternate"/>
+    <published>2023-09-07T19:49:34+00:00</published>
   </entry>
 </feed>
