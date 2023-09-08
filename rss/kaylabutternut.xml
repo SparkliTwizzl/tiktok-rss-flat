@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-09-06T21:32:47+00:00</updated>
+  <updated>2023-09-08T00:39:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7273894816700763438</id>
-    <title>I burnt myself on a straigtner </title>
-    <updated>2023-09-01T16:26:59+00:00</updated>
-    <content>I burnt myself on a straigtner </content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7273894816700763438" rel="alternate"/>
-    <published>2023-09-01T16:26:59+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7275122460792540459</id>
     <title>Needing this lighting back</title>
@@ -91,5 +83,13 @@
     <content>If you know what I mean</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7275829034133507374" rel="alternate"/>
     <published>2023-09-06T21:32:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7276248303581383979</id>
+    <title>Replying to @Patrick R do you agree or should i have chosen fishnets </title>
+    <updated>2023-09-08T00:39:43+00:00</updated>
+    <content>Replying to @Patrick R do you agree or should i have chosen fishnets </content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7276248303581383979" rel="alternate"/>
+    <published>2023-09-08T00:39:43+00:00</published>
   </entry>
 </feed>

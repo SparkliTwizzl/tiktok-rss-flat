@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kit_the_beefcake</id>
   <title>@kit_the_beefcake | TikTok</title>
-  <updated>2023-09-07T09:50:09+00:00</updated>
+  <updated>2023-09-08T00:48:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,38 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kit_the_beefcake</subtitle>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7262936126577593643</id>
+    <title>Kara played me like a fiddle in 90 degree heat </title>
+    <updated>2023-08-03T03:41:42+00:00</updated>
+    <content>Kara played me like a fiddle in 90 degree heat </content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7262936126577593643" rel="alternate"/>
+    <published>2023-08-03T03:41:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7263047641309826350</id>
+    <title>#exmormon #mormon #storytime #confession </title>
+    <updated>2023-08-03T10:54:30+00:00</updated>
+    <content>#exmormon #mormon #storytime #confession </content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7263047641309826350" rel="alternate"/>
+    <published>2023-08-03T10:54:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7263253936444935467</id>
+    <title>He got his first gf shortly after and they look really happy so I won't say who it was. it's just a memory that tickles me. #ufc #mma #storytime #confession </title>
+    <updated>2023-08-04T00:15:04+00:00</updated>
+    <content>He got his first gf shortly after and they look really happy so I won't say who it was. it's just a memory that tickles me. #ufc #mma #storytime #confession </content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7263253936444935467" rel="alternate"/>
+    <published>2023-08-04T00:15:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7265663669780909354</id>
+    <title>okay in my defense it was COVID and they had a boat </title>
+    <updated>2023-08-10T12:06:23+00:00</updated>
+    <content>okay in my defense it was COVID and they had a boat </content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7265663669780909354" rel="alternate"/>
+    <published>2023-08-10T12:06:23+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7267530478440172846</id>
     <title>[no title]</title>
@@ -45,51 +77,19 @@
     <published>2023-08-28T10:53:11+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7274420466926832938</id>
-    <title>[no title]</title>
-    <updated>2023-09-03T02:26:52+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7274420466926832938" rel="alternate"/>
-    <published>2023-09-03T02:26:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7274861865631616302</id>
-    <title>[no title]</title>
-    <updated>2023-09-04T07:00:08+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7274861865631616302" rel="alternate"/>
-    <published>2023-09-04T07:00:08+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7275115199428873514</id>
-    <title>[no title]</title>
-    <updated>2023-09-04T23:22:46+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7275115199428873514" rel="alternate"/>
-    <published>2023-09-04T23:22:46+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7275344035252817194</id>
-    <title>Keep it PG yall remember where we are 😝</title>
-    <updated>2023-09-05T14:10:44+00:00</updated>
-    <content>Keep it PG yall remember where we are 😝</content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7275344035252817194" rel="alternate"/>
-    <published>2023-09-05T14:10:44+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7275581268031474990</id>
-    <title>[no title]</title>
-    <updated>2023-09-06T05:31:30+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7275581268031474990" rel="alternate"/>
-    <published>2023-09-06T05:31:30+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7276018870224440622</id>
     <title>[no title]</title>
     <updated>2023-09-07T09:50:09+00:00</updated>
     <content>[no description]</content>
     <link href="https://tiktok.com/@kit_the_beefcake/video/7276018870224440622" rel="alternate"/>
     <published>2023-09-07T09:50:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7276250518073183530</id>
+    <title>[no title]</title>
+    <updated>2023-09-08T00:48:25+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7276250518073183530" rel="alternate"/>
+    <published>2023-09-08T00:48:25+00:00</published>
   </entry>
 </feed>
