@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-09-07T19:49:34+00:00</updated>
+  <updated>2023-09-08T17:37:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7262121712639102250</id>
-    <title>Vent tok. Lol. #fyp #trans </title>
-    <updated>2023-07-31T23:01:26+00:00</updated>
-    <content>Vent tok. Lol. #fyp #trans </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7262121712639102250" rel="alternate"/>
-    <published>2023-07-31T23:01:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7262368812350147883</id>
     <title>Facts. #fyp #trans </title>
@@ -91,5 +83,13 @@
     <content>Life lessons. ALWAYS do your research for stylists, tattoo artists, micro-blading technicians, surgons, anyone that does a permanent or semi-permanent modification on your body. I ended up being really mean to this person because I was so upset, but at the end of the day, it was my fault for allowing it to happen and not fully communicating and doing my research, and they didn't deserve the anger I dished out on them.  Be careful, ask for what you want, and don't settle. Even if it takes you years to find the right artist, I promise it's worth it.  Have patience.  - Not Chester #fyp </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7276173505580911914" rel="alternate"/>
     <published>2023-09-07T19:49:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7276510545795124523</id>
+    <title>In less than a month, I leave my home state, fleeing because of the rediculous laws put in place for trans people.  The last time I moved out of Florida, I went to WA in 2012 and lived there for two years. I was young and reckless, experiencing beautiful </title>
+    <updated>2023-09-08T17:37:25+00:00</updated>
+    <content>In less than a month, I leave my home state, fleeing because of the rediculous laws put in place for trans people.  The last time I moved out of Florida, I went to WA in 2012 and lived there for two years. I was young and reckless, experiencing beautiful and ugly things, and fell straight on my ass. Homeless, jobless, no car, no hope. My mom flew me back home where I came into myself through a plethora of difficult life lessons.  This is scary for me, but I'm trying to me excited about it. Everything I've known, all my memories, my security in seeing the Spanish Moss over the brick roads of downtown, the booming thunderstorms... I will miss the Swamp dearly.  But I'm excited to ascend into the clouds, a mile high in the sky, on a mountain...  Maybe I'll be able to touch the stars, and that's exciting... #fyp #trans </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7276510545795124523" rel="alternate"/>
+    <published>2023-09-08T17:37:25+00:00</published>
   </entry>
 </feed>
