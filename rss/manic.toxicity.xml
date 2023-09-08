@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@manic.toxicity</id>
   <title>@manic.toxicity | TikTok</title>
-  <updated>2023-09-06T21:58:41+00:00</updated>
+  <updated>2023-09-08T20:06:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @manic.toxicity</subtitle>
-  <entry>
-    <id>https://tiktok.com/@manic.toxicity/video/7267239005727640875</id>
-    <title>ignore my dirty ass visor. you can thank my dog for the hair and my riding buddy for the fingerprints &gt;:( #fyp #foryou </title>
-    <updated>2023-08-14T17:59:13+00:00</updated>
-    <content>ignore my dirty ass visor. you can thank my dog for the hair and my riding buddy for the fingerprints &gt;:( #fyp #foryou </content>
-    <link href="https://tiktok.com/@manic.toxicity/video/7267239005727640875" rel="alternate"/>
-    <published>2023-08-14T17:59:13+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@manic.toxicity/video/7267663926714764586</id>
     <title>can you make it last forever ? &lt;3 #fyp #foryou </title>
@@ -91,5 +83,13 @@
     <content>heres desert. #fyp #foryou </content>
     <link href="https://tiktok.com/@manic.toxicity/video/7275835695103741230" rel="alternate"/>
     <published>2023-09-06T21:58:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@manic.toxicity/video/7276548964571254059</id>
+    <title>i am not aloud to look like this when i get old. i refuse. #fyp #foryou </title>
+    <updated>2023-09-08T20:06:28+00:00</updated>
+    <content>i am not aloud to look like this when i get old. i refuse. #fyp #foryou </content>
+    <link href="https://tiktok.com/@manic.toxicity/video/7276548964571254059" rel="alternate"/>
+    <published>2023-09-08T20:06:28+00:00</published>
   </entry>
 </feed>
