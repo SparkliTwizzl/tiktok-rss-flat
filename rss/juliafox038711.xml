@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@juliafox038711</id>
   <title>@juliafox038711 | TikTok</title>
-  <updated>2023-09-08T01:45:05+00:00</updated>
+  <updated>2023-09-08T19:15:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juliafox038711</subtitle>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7272228499203558699</id>
-    <title>posting for the first half, was on BEAT</title>
-    <updated>2023-08-28T04:41:00+00:00</updated>
-    <content>posting for the first half, was on BEAT</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7272228499203558699" rel="alternate"/>
-    <published>2023-08-28T04:41:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7272811791065959722</id>
-    <title>#CapCut crazy how 2022 was prob the worst year of my 19 years of living </title>
-    <updated>2023-08-29T18:24:36+00:00</updated>
-    <content>#CapCut crazy how 2022 was prob the worst year of my 19 years of living </content>
-    <link href="https://tiktok.com/@juliafox038711/video/7272811791065959722" rel="alternate"/>
-    <published>2023-08-29T18:24:36+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@juliafox038711/video/7273963412801998122</id>
     <title>i thinka ima watch rick and morty again </title>
@@ -91,5 +75,21 @@
     <content>work shirt came in ☺️</content>
     <link href="https://tiktok.com/@juliafox038711/video/7276265151848795434" rel="alternate"/>
     <published>2023-09-08T01:45:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7276533051541277995</id>
+    <title>im living up this red</title>
+    <updated>2023-09-08T19:04:45+00:00</updated>
+    <content>im living up this red</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7276533051541277995" rel="alternate"/>
+    <published>2023-09-08T19:04:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7276535956683885870</id>
+    <title>i feel like i did pretty good considering this was the first time ive ever colored my own hair</title>
+    <updated>2023-09-08T19:15:57+00:00</updated>
+    <content>i feel like i did pretty good considering this was the first time ive ever colored my own hair</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7276535956683885870" rel="alternate"/>
+    <published>2023-09-08T19:15:57+00:00</published>
   </entry>
 </feed>
