@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-09-06T12:51:24+00:00</updated>
+  <updated>2023-09-08T12:44:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7268332699947896070</id>
-    <title>I'll be bringing this look to #fanexpotoronto next week along with several other characters. keep and eye out and come say hey if you see me ❤️ #cheerleader #lolita  #wonderlandcosplay </title>
-    <updated>2023-08-17T16:43:04+00:00</updated>
-    <content>I'll be bringing this look to #fanexpotoronto next week along with several other characters. keep and eye out and come say hey if you see me ❤️ #cheerleader #lolita  #wonderlandcosplay </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7268332699947896070" rel="alternate"/>
-    <published>2023-08-17T16:43:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7268416783693008134</id>
     <title>#onthisday #maladytheclown </title>
@@ -91,5 +83,13 @@
     <content>#duet with @DancesinShadows   it happens  #maladytheclown  #maladyandglum #adhd #overstimulation </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7275694706766417157" rel="alternate"/>
     <published>2023-09-06T12:51:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7276435042157464838</id>
+    <title>Kiddo is back at school, and I'm still trodding around the house with allergies. I've tried to film a few times, but my face is not makeup friendly atm 😅 #onthisday #maladytheclown </title>
+    <updated>2023-09-08T12:44:17+00:00</updated>
+    <content>Kiddo is back at school, and I'm still trodding around the house with allergies. I've tried to film a few times, but my face is not makeup friendly atm 😅 #onthisday #maladytheclown </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7276435042157464838" rel="alternate"/>
+    <published>2023-09-08T12:44:17+00:00</published>
   </entry>
 </feed>
