@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@juliafox038711</id>
   <title>@juliafox038711 | TikTok</title>
-  <updated>2023-09-05T04:55:57+00:00</updated>
+  <updated>2023-09-08T01:45:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,38 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juliafox038711</subtitle>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7268541068424006955</id>
-    <title>i love you so</title>
-    <updated>2023-08-18T06:12:02+00:00</updated>
-    <content>i love you so</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7268541068424006955" rel="alternate"/>
-    <published>2023-08-18T06:12:02+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7269595232314854698</id>
-    <title>an old video but worked with the templant ya know</title>
-    <updated>2023-08-21T02:22:28+00:00</updated>
-    <content>an old video but worked with the templant ya know</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7269595232314854698" rel="alternate"/>
-    <published>2023-08-21T02:22:28+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7269604509465234734</id>
-    <title>🍷 🍷🍷🍷🍷🍷</title>
-    <updated>2023-08-21T02:58:26+00:00</updated>
-    <content>🍷 🍷🍷🍷🍷🍷</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7269604509465234734" rel="alternate"/>
-    <published>2023-08-21T02:58:26+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7270558410150579499</id>
-    <title>#infiniteworld THIS IS SO COOL OML #aidilter #capcut </title>
-    <updated>2023-08-23T16:40:11+00:00</updated>
-    <content>#infiniteworld THIS IS SO COOL OML #aidilter #capcut </content>
-    <link href="https://tiktok.com/@juliafox038711/video/7270558410150579499" rel="alternate"/>
-    <published>2023-08-23T16:40:11+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@juliafox038711/video/7272228499203558699</id>
     <title>posting for the first half, was on BEAT</title>
@@ -91,5 +59,37 @@
     <content>my only dance move </content>
     <link href="https://tiktok.com/@juliafox038711/video/7275201025827441962" rel="alternate"/>
     <published>2023-09-05T04:55:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7276253375497473322</id>
+    <title>suprise</title>
+    <updated>2023-09-08T00:59:28+00:00</updated>
+    <content>suprise</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7276253375497473322" rel="alternate"/>
+    <published>2023-09-08T00:59:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7276254170997329194</id>
+    <title>wondering if i shoukd dye the other side</title>
+    <updated>2023-09-08T01:02:30+00:00</updated>
+    <content>wondering if i shoukd dye the other side</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7276254170997329194" rel="alternate"/>
+    <published>2023-09-08T01:02:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7276256701941091627</id>
+    <title>teheh</title>
+    <updated>2023-09-08T01:12:25+00:00</updated>
+    <content>teheh</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7276256701941091627" rel="alternate"/>
+    <published>2023-09-08T01:12:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7276265151848795434</id>
+    <title>work shirt came in ☺️</title>
+    <updated>2023-09-08T01:45:05+00:00</updated>
+    <content>work shirt came in ☺️</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7276265151848795434" rel="alternate"/>
+    <published>2023-09-08T01:45:05+00:00</published>
   </entry>
 </feed>
