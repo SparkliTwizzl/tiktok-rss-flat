@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@nopanicbutton</id>
   <title>@nopanicbutton | TikTok</title>
-  <updated>2023-09-06T23:11:11+00:00</updated>
+  <updated>2023-09-08T16:06:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @nopanicbutton</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nopanicbutton/video/7267282140474232106</id>
-    <title>This couldn't have been comfortable to wear.... #kinktok #ouch #smellslikeprunes </title>
-    <updated>2023-08-14T20:46:34+00:00</updated>
-    <content>This couldn't have been comfortable to wear.... #kinktok #ouch #smellslikeprunes </content>
-    <link href="https://tiktok.com/@nopanicbutton/video/7267282140474232106" rel="alternate"/>
-    <published>2023-08-14T20:46:34+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nopanicbutton/video/7268066809834786090</id>
     <title>It's a closed ceremony so no, you can't watch. #skyclad #pagan #ostara #bareitall #itscolddontjudgeme </title>
@@ -91,5 +83,13 @@
     <content>We all show affection differently... #kinktok #scary#bedroomantics #isitsafe </content>
     <link href="https://tiktok.com/@nopanicbutton/video/7275854373241064747" rel="alternate"/>
     <published>2023-09-06T23:11:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nopanicbutton/video/7276487192292150570</id>
+    <title>There's no wrong way.... #whateverworks #howdoyoudoit  Be sure to join us on Discord! Link in bio!</title>
+    <updated>2023-09-08T16:06:47+00:00</updated>
+    <content>There's no wrong way.... #whateverworks #howdoyoudoit  Be sure to join us on Discord! Link in bio!</content>
+    <link href="https://tiktok.com/@nopanicbutton/video/7276487192292150570" rel="alternate"/>
+    <published>2023-09-08T16:06:47+00:00</published>
   </entry>
 </feed>
