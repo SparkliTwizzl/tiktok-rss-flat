@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-09-06T14:18:59+00:00</updated>
+  <updated>2023-09-08T00:01:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7272806577986456875</id>
-    <title>I said what I said #respect </title>
-    <updated>2023-08-29T18:04:22+00:00</updated>
-    <content>I said what I said #respect </content>
-    <link href="https://tiktok.com/@punktoad/video/7272806577986456875" rel="alternate"/>
-    <published>2023-08-29T18:04:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7273295877106830638</id>
     <title>I cant get away from it #cottoneyejoe </title>
@@ -91,5 +83,13 @@
     <content>So gooood #onthisday </content>
     <link href="https://tiktok.com/@punktoad/video/7275717249602719019" rel="alternate"/>
     <published>2023-09-06T14:18:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7276238457645665578</id>
+    <title>I will not explain the mood I am currently in </title>
+    <updated>2023-09-08T00:01:35+00:00</updated>
+    <content>I will not explain the mood I am currently in </content>
+    <link href="https://tiktok.com/@punktoad/video/7276238457645665578" rel="alternate"/>
+    <published>2023-09-08T00:01:35+00:00</published>
   </entry>
 </feed>
