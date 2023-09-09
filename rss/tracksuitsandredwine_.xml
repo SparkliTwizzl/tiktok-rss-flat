@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@tracksuitsandredwine_</id>
   <title>@tracksuitsandredwine_ | TikTok</title>
-  <updated>2023-09-06T10:43:32+00:00</updated>
+  <updated>2023-09-03T01:33:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @tracksuitsandredwine_</subtitle>
+  <entry>
+    <id>https://tiktok.com/@tracksuitsandredwine_/video/7262726906070568200</id>
+    <title>lego batman pt 2@lia :) </title>
+    <updated>2023-08-02T14:09:44+00:00</updated>
+    <content>lego batman pt 2@lia :) </content>
+    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7262726906070568200" rel="alternate"/>
+    <published>2023-08-02T14:09:44+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@tracksuitsandredwine_/video/7264158045893233938</id>
     <title>🤘</title>
@@ -83,13 +91,5 @@
     <content>new piercing 💪</content>
     <link href="https://tiktok.com/@tracksuitsandredwine_/video/7274406849842040065" rel="alternate"/>
     <published>2023-09-03T01:33:58+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@tracksuitsandredwine_/video/7275661748756073730</id>
-    <title>fleabag draft from forever ago</title>
-    <updated>2023-09-06T10:43:32+00:00</updated>
-    <content>fleabag draft from forever ago</content>
-    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7275661748756073730" rel="alternate"/>
-    <published>2023-09-06T10:43:32+00:00</published>
   </entry>
 </feed>
