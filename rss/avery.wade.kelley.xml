@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-09-08T17:37:25+00:00</updated>
+  <updated>2023-09-09T15:50:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7262368812350147883</id>
-    <title>Facts. #fyp #trans </title>
-    <updated>2023-08-01T15:00:15+00:00</updated>
-    <content>Facts. #fyp #trans </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7262368812350147883" rel="alternate"/>
-    <published>2023-08-01T15:00:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7262789529080220971</id>
     <title>I'm sorry if this is inconvenient to anyone, but I need this to be priority. Otherwise I will feel completely useless to my community. I love you all, and I'll see you soon. Be kind. </title>
@@ -91,5 +83,13 @@
     <content>In less than a month, I leave my home state, fleeing because of the rediculous laws put in place for trans people.  The last time I moved out of Florida, I went to WA in 2012 and lived there for two years. I was young and reckless, experiencing beautiful and ugly things, and fell straight on my ass. Homeless, jobless, no car, no hope. My mom flew me back home where I came into myself through a plethora of difficult life lessons.  This is scary for me, but I'm trying to me excited about it. Everything I've known, all my memories, my security in seeing the Spanish Moss over the brick roads of downtown, the booming thunderstorms... I will miss the Swamp dearly.  But I'm excited to ascend into the clouds, a mile high in the sky, on a mountain...  Maybe I'll be able to touch the stars, and that's exciting... #fyp #trans </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7276510545795124523" rel="alternate"/>
     <published>2023-09-08T17:37:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7276854116523969838</id>
+    <title>Seriously, it's a problem. Leave us alone, we're not doing absolutely anything to you OR your children but offering education and acceptance. #fyp #trans </title>
+    <updated>2023-09-09T15:50:37+00:00</updated>
+    <content>Seriously, it's a problem. Leave us alone, we're not doing absolutely anything to you OR your children but offering education and acceptance. #fyp #trans </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7276854116523969838" rel="alternate"/>
+    <published>2023-09-09T15:50:37+00:00</published>
   </entry>
 </feed>
