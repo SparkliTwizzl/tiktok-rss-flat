@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-09-08T12:44:17+00:00</updated>
+  <updated>2023-09-08T23:44:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7268416783693008134</id>
-    <title>#onthisday #maladytheclown </title>
-    <updated>2023-08-17T22:09:21+00:00</updated>
-    <content>#onthisday #maladytheclown </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7268416783693008134" rel="alternate"/>
-    <published>2023-08-17T22:09:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7270529657760517381</id>
     <title>#onthisday </title>
@@ -91,5 +83,13 @@
     <content>Kiddo is back at school, and I'm still trodding around the house with allergies. I've tried to film a few times, but my face is not makeup friendly atm 😅 #onthisday #maladytheclown </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7276435042157464838" rel="alternate"/>
     <published>2023-09-08T12:44:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7276605069406113029</id>
+    <title>picked up this cute bat dress from @Hot Topic  ❤️ #witchcostume #countdowntohalloween </title>
+    <updated>2023-09-08T23:44:07+00:00</updated>
+    <content>picked up this cute bat dress from @Hot Topic  ❤️ #witchcostume #countdowntohalloween </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7276605069406113029" rel="alternate"/>
+    <published>2023-09-08T23:44:07+00:00</published>
   </entry>
 </feed>

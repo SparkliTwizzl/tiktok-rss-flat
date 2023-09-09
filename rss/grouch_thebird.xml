@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@grouch_thebird</id>
   <title>@grouch_thebird | TikTok</title>
-  <updated>2023-09-02T06:22:41+00:00</updated>
+  <updated>2023-09-09T04:59:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @grouch_thebird</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grouch_thebird/video/7273334883789983018</id>
-    <title>[no title]</title>
-    <updated>2023-08-31T04:14:25+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@grouch_thebird/video/7273334883789983018" rel="alternate"/>
-    <published>2023-08-31T04:14:25+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@grouch_thebird/video/7273337119723113771</id>
-    <title>[no title]</title>
-    <updated>2023-08-31T04:23:03+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@grouch_thebird/video/7273337119723113771" rel="alternate"/>
-    <published>2023-08-31T04:23:03+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@grouch_thebird/video/7273341176189603115</id>
-    <title>[no title]</title>
-    <updated>2023-08-31T04:38:37+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@grouch_thebird/video/7273341176189603115" rel="alternate"/>
-    <published>2023-08-31T04:38:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grouch_thebird/video/7273343010736311595</id>
     <title>[no title]</title>
@@ -91,5 +67,29 @@
     <content>Crazy? I was crazy once. They locked me in a room. A rubber room. A rubber room with rats. And rats make me crazy. Crazy? I was crazy once. They locked me in a room. A rubber room. A rubber room with rats. And rats make me crazy. Crazy? I was crazy once. They locked me in a room. A rubber room. A rubber room with rats. And rats make me crazy. Crazy? I was crazy once. They locked me in a room. A rubber room. A rubber room with rats. And rats make me crazy. Crazy? I was crazy once. They locked me in a room. A rubber room. A rubber room with rats. And rats make me crazy. Crazy? I was crazy once. They locked me in a room. A rubber room. A rubber room with rats. And rats make me crazy.</content>
     <link href="https://tiktok.com/@grouch_thebird/video/7274110106332073259" rel="alternate"/>
     <published>2023-09-02T06:22:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grouch_thebird/video/7276683991145532714</id>
+    <title>[no title]</title>
+    <updated>2023-09-09T04:50:33+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@grouch_thebird/video/7276683991145532714" rel="alternate"/>
+    <published>2023-09-09T04:50:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grouch_thebird/video/7276684532970048810</id>
+    <title>[no title]</title>
+    <updated>2023-09-09T04:52:43+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@grouch_thebird/video/7276684532970048810" rel="alternate"/>
+    <published>2023-09-09T04:52:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grouch_thebird/video/7276686403340111146</id>
+    <title>[no title]</title>
+    <updated>2023-09-09T04:59:53+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@grouch_thebird/video/7276686403340111146" rel="alternate"/>
+    <published>2023-09-09T04:59:53+00:00</published>
   </entry>
 </feed>

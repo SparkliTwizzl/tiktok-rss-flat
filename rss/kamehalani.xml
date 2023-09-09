@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kamehalani</id>
   <title>@kamehalani | TikTok</title>
-  <updated>2023-09-06T17:46:38+00:00</updated>
+  <updated>2023-09-09T05:06:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kamehalani</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kamehalani/video/7266616327308070187</id>
-    <title>Especially “that just aint me” </title>
-    <updated>2023-08-13T01:42:45+00:00</updated>
-    <content>Especially “that just aint me” </content>
-    <link href="https://tiktok.com/@kamehalani/video/7266616327308070187" rel="alternate"/>
-    <published>2023-08-13T01:42:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kamehalani/video/7266657945138498859</id>
     <title>Thousands are still missing 100s are deceased. Dont be a douche and cry about your vacation. If you care about our āina donate. #kanaka #nativetiktok #nativehawaiian #hawaii #maui #stoptourisminhawaii #hawaiitiktok </title>
@@ -91,5 +83,13 @@
     <content>Replying to @Timmmayyyy #kanaka #nativetiktok #hawaii #hawaiian #nativehawaiian #hawaiitiktok #maui </content>
     <link href="https://tiktok.com/@kamehalani/video/7275770772356926766" rel="alternate"/>
     <published>2023-09-06T17:46:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kamehalani/video/7276688002267516203</id>
+    <title>And id have two tattoos and a million memories and spiderman to remind me. </title>
+    <updated>2023-09-09T05:06:16+00:00</updated>
+    <content>And id have two tattoos and a million memories and spiderman to remind me. </content>
+    <link href="https://tiktok.com/@kamehalani/video/7276688002267516203" rel="alternate"/>
+    <published>2023-09-09T05:06:16+00:00</published>
   </entry>
 </feed>
