@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-09-08T17:50:30+00:00</updated>
+  <updated>2023-09-09T00:25:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7273187844120644907</id>
-    <title>I'm gonna stop asking it questions 😅 #solardidsystem #ssperegrine #ssarchelaus </title>
-    <updated>2023-08-30T18:43:45+00:00</updated>
-    <content>I'm gonna stop asking it questions 😅 #solardidsystem #ssperegrine #ssarchelaus </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7273187844120644907" rel="alternate"/>
-    <published>2023-08-30T18:43:45+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7273885317810113835</id>
-    <title>[no title]</title>
-    <updated>2023-09-01T15:50:09+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7273885317810113835" rel="alternate"/>
-    <published>2023-09-01T15:50:09+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7273904013504990507</id>
-    <title>Feel free to stitch, comment or tag us! #ssperegrine #solardidsystem #dissociativeidentitydisorder </title>
-    <updated>2023-09-01T17:02:43+00:00</updated>
-    <content>Feel free to stitch, comment or tag us! #ssperegrine #solardidsystem #dissociativeidentitydisorder </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7273904013504990507" rel="alternate"/>
-    <published>2023-09-01T17:02:43+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7273981038102252846</id>
     <title>my baby. my best friend. mine 💝 #solardidsystem #ladybug </title>
@@ -91,5 +67,29 @@
     <content>Replying to @monicawhere #reply #solardidsystem #dissociativeidentitydisorder #ssvirgo </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7276513925066394926" rel="alternate"/>
     <published>2023-09-08T17:50:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7276605208225041710</id>
+    <title>#duet with @Justin Nunley got me again @Spamandriel 🤣🤣🤣 #solardidsystem #ssvirgo #ssduets #blindduet #blindreact #rickroll </title>
+    <updated>2023-09-08T23:44:45+00:00</updated>
+    <content>#duet with @Justin Nunley got me again @Spamandriel 🤣🤣🤣 #solardidsystem #ssvirgo #ssduets #blindduet #blindreact #rickroll </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7276605208225041710" rel="alternate"/>
+    <published>2023-09-08T23:44:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7276608658744626478</id>
+    <title>#solardidsystem #ssvirgo </title>
+    <updated>2023-09-08T23:58:09+00:00</updated>
+    <content>#solardidsystem #ssvirgo </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7276608658744626478" rel="alternate"/>
+    <published>2023-09-08T23:58:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7276615715224882474</id>
+    <title>#stitch with @Tally Mark Systemour red play button app history is bonkers #solardidsystem #ssvirgo </title>
+    <updated>2023-09-09T00:25:30+00:00</updated>
+    <content>#stitch with @Tally Mark Systemour red play button app history is bonkers #solardidsystem #ssvirgo </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7276615715224882474" rel="alternate"/>
+    <published>2023-09-09T00:25:30+00:00</published>
   </entry>
 </feed>
