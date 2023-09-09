@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kit_the_beefcake</id>
   <title>@kit_the_beefcake | TikTok</title>
-  <updated>2023-09-09T00:19:40+00:00</updated>
+  <updated>2023-09-09T11:31:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kit_the_beefcake</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7265663669780909354</id>
-    <title>okay in my defense it was COVID and they had a boat </title>
-    <updated>2023-08-10T12:06:23+00:00</updated>
-    <content>okay in my defense it was COVID and they had a boat </content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7265663669780909354" rel="alternate"/>
-    <published>2023-08-10T12:06:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7267530478440172846</id>
     <title>[no title]</title>
@@ -91,5 +83,13 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@kit_the_beefcake/video/7276614208320474410" rel="alternate"/>
     <published>2023-09-09T00:19:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7276787096004840750</id>
+    <title>[no title]</title>
+    <updated>2023-09-09T11:31:11+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7276787096004840750" rel="alternate"/>
+    <published>2023-09-09T11:31:11+00:00</published>
   </entry>
 </feed>
