@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@addalheid</id>
   <title>@addalheid | TikTok</title>
-  <updated>2023-09-06T19:46:43+00:00</updated>
+  <updated>2023-09-09T18:49:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @addalheid</subtitle>
-  <entry>
-    <id>https://tiktok.com/@addalheid/video/7247599181584534811</id>
-    <title>Flash </title>
-    <updated>2023-06-22T19:46:33+00:00</updated>
-    <content>Flash </content>
-    <link href="https://tiktok.com/@addalheid/video/7247599181584534811" rel="alternate"/>
-    <published>2023-06-22T19:46:33+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@addalheid/video/7253422365781134618</id>
-    <title>Call me superman</title>
-    <updated>2023-07-08T12:23:27+00:00</updated>
-    <content>Call me superman</content>
-    <link href="https://tiktok.com/@addalheid/video/7253422365781134618" rel="alternate"/>
-    <published>2023-07-08T12:23:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@addalheid/video/7257444139581656347</id>
     <title>🤍</title>
@@ -91,5 +75,21 @@
     <content>♾️</content>
     <link href="https://tiktok.com/@addalheid/video/7275801720242883873" rel="alternate"/>
     <published>2023-09-06T19:46:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@addalheid/video/7276878269356576033</id>
+    <title>You looking ? </title>
+    <updated>2023-09-09T17:24:18+00:00</updated>
+    <content>You looking ? </content>
+    <link href="https://tiktok.com/@addalheid/video/7276878269356576033" rel="alternate"/>
+    <published>2023-09-09T17:24:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@addalheid/video/7276900165359832353</id>
+    <title>🫢</title>
+    <updated>2023-09-09T18:49:15+00:00</updated>
+    <content>🫢</content>
+    <link href="https://tiktok.com/@addalheid/video/7276900165359832353" rel="alternate"/>
+    <published>2023-09-09T18:49:15+00:00</published>
   </entry>
 </feed>
