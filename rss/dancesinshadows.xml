@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-09-08T23:44:07+00:00</updated>
+  <updated>2023-09-09T15:50:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7270529657760517381</id>
-    <title>#onthisday </title>
-    <updated>2023-08-23T14:48:23+00:00</updated>
-    <content>#onthisday </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7270529657760517381" rel="alternate"/>
-    <published>2023-08-23T14:48:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7271445771684252934</id>
     <title>Day 2 complete of @FAN EXPO Toronto. Some minor highlights of the last 2 days, as I usually have my phone stashed away #fanexpotoronto #maladytheclown #harleyquinn </title>
@@ -91,5 +83,13 @@
     <content>picked up this cute bat dress from @Hot Topic  ❤️ #witchcostume #countdowntohalloween </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7276605069406113029" rel="alternate"/>
     <published>2023-09-08T23:44:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7276854033518693638</id>
+    <title>my favorite time of year ❤️ from September til November, it's like a big Ole energy fest and soul recconect here with the spirits and those who walked before. #countdowntohalloween #witchcostume #dancesinshadows </title>
+    <updated>2023-09-09T15:50:12+00:00</updated>
+    <content>my favorite time of year ❤️ from September til November, it's like a big Ole energy fest and soul recconect here with the spirits and those who walked before. #countdowntohalloween #witchcostume #dancesinshadows </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7276854033518693638" rel="alternate"/>
+    <published>2023-09-09T15:50:12+00:00</published>
   </entry>
 </feed>
