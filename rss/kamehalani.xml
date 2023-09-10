@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kamehalani</id>
   <title>@kamehalani | TikTok</title>
-  <updated>2023-09-10T00:25:27+00:00</updated>
+  <updated>2023-09-09T23:13:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kamehalani</subtitle>
+  <entry>
+    <id>https://tiktok.com/@kamehalani/video/7267216900977888555</id>
+    <title>Not your paradise #kanaka #nativetiktok #nativehawaiian #hawaii #maui #stoptourisminhawaii #hawaiitiktok #hawaiian </title>
+    <updated>2023-08-14T16:33:28+00:00</updated>
+    <content>Not your paradise #kanaka #nativetiktok #nativehawaiian #hawaii #maui #stoptourisminhawaii #hawaiitiktok #hawaiian </content>
+    <link href="https://tiktok.com/@kamehalani/video/7267216900977888555" rel="alternate"/>
+    <published>2023-08-14T16:33:28+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@kamehalani/video/7267706002521263403</id>
     <title>Im sorry i got emotional #kanaka #nativetiktok #nativehawaiian #hawaii #maui #stoptourisminhawaii #hawaiitiktok #hawaiian </title>
@@ -83,13 +91,5 @@
     <content>My oppinion on this #ashtonkutcher #milakunis #dannymasterson #believesurvivors #that70sshow </content>
     <link href="https://tiktok.com/@kamehalani/video/7276968248892083502" rel="alternate"/>
     <published>2023-09-09T23:13:31+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kamehalani/video/7276986768312913195</id>
-    <title>“I swear ill hit you back when i get paid” type dude </title>
-    <updated>2023-09-10T00:25:27+00:00</updated>
-    <content>“I swear ill hit you back when i get paid” type dude </content>
-    <link href="https://tiktok.com/@kamehalani/video/7276986768312913195" rel="alternate"/>
-    <published>2023-09-10T00:25:27+00:00</published>
   </entry>
 </feed>

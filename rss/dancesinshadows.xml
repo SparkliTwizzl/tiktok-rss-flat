@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-09-09T15:50:12+00:00</updated>
+  <updated>2023-09-10T14:41:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7271445771684252934</id>
-    <title>Day 2 complete of @FAN EXPO Toronto. Some minor highlights of the last 2 days, as I usually have my phone stashed away #fanexpotoronto #maladytheclown #harleyquinn </title>
-    <updated>2023-08-26T02:03:24+00:00</updated>
-    <content>Day 2 complete of @FAN EXPO Toronto. Some minor highlights of the last 2 days, as I usually have my phone stashed away #fanexpotoronto #maladytheclown #harleyquinn </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7271445771684252934" rel="alternate"/>
-    <published>2023-08-26T02:03:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7271817260669488390</id>
     <title>3 out of 4 days down at #fanexpo and I am feeling the wear and tear on my body, but the soul is happy with all the moments we had with friends new and "family" alike. My favorite experience is with the kids, as they are so into cosplay and just wanna forg</title>
@@ -91,5 +83,13 @@
     <content>my favorite time of year ❤️ from September til November, it's like a big Ole energy fest and soul recconect here with the spirits and those who walked before. #countdowntohalloween #witchcostume #dancesinshadows </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7276854033518693638" rel="alternate"/>
     <published>2023-09-09T15:50:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7277207455950589189</id>
+    <title>a closer look at the Pirate Harley look that I wore to @FAN EXPO. I plan to stop by the London con and I'll have a booth at the Hamilton comiccon at the end of the month  #pirate  #pirateharleyquinn #harleyquinn </title>
+    <updated>2023-09-10T14:41:39+00:00</updated>
+    <content>a closer look at the Pirate Harley look that I wore to @FAN EXPO. I plan to stop by the London con and I'll have a booth at the Hamilton comiccon at the end of the month  #pirate  #pirateharleyquinn #harleyquinn </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7277207455950589189" rel="alternate"/>
+    <published>2023-09-10T14:41:39+00:00</published>
   </entry>
 </feed>
