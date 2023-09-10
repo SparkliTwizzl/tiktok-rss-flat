@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-09-09T17:40:04+00:00</updated>
+  <updated>2023-09-10T02:12:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7274021669549952302</id>
-    <title>Great question, @✨ The Starlight Syndicate ✨ thanks for being curious! #solardidsystem #sszyra </title>
-    <updated>2023-09-02T00:39:18+00:00</updated>
-    <content>Great question, @✨ The Starlight Syndicate ✨ thanks for being curious! #solardidsystem #sszyra </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7274021669549952302" rel="alternate"/>
-    <published>2023-09-02T00:39:18+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7274345149721873706</id>
-    <title>I think the word is "spitballing" #solardidsystem #ssquinn #dissociativeidentitydisorder </title>
-    <updated>2023-09-02T21:34:39+00:00</updated>
-    <content>I think the word is "spitballing" #solardidsystem #ssquinn #dissociativeidentitydisorder </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7274345149721873706" rel="alternate"/>
-    <published>2023-09-02T21:34:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7274660955605273899</id>
     <title>Replying to @jmwhite0 #reply #solardidsystem #ssquinn #dissociativeidentitydisorder </title>
@@ -91,5 +75,21 @@
     <content>Replying to @_sharksystem_ #reply this took so long because not a whole lot of us front very often #solardidsystem #taylorswift #ssperegrine #sszenith #ssmidnight #ssquinn #ssfletcher #ssrio #ssvegas #sszyra #ssvirgo #erastour </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7276882317321293102" rel="alternate"/>
     <published>2023-09-09T17:40:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7277003772033764650</id>
+    <title>I love Horizon (of which we have a fictive) and Taylor Swift (of whom we have a factive) 😄 #ssvirgo #solardidsystem #alterintro #alterintroduction </title>
+    <updated>2023-09-10T01:31:23+00:00</updated>
+    <content>I love Horizon (of which we have a fictive) and Taylor Swift (of whom we have a factive) 😄 #ssvirgo #solardidsystem #alterintro #alterintroduction </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7277003772033764650" rel="alternate"/>
+    <published>2023-09-10T01:31:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7277014450773839147</id>
+    <title>I'm still not sure what my point was or if I even made it. Brain is kinda soupy. #solardidsystem #ssvirgo #ssperegrine </title>
+    <updated>2023-09-10T02:12:48+00:00</updated>
+    <content>I'm still not sure what my point was or if I even made it. Brain is kinda soupy. #solardidsystem #ssvirgo #ssperegrine </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7277014450773839147" rel="alternate"/>
+    <published>2023-09-10T02:12:48+00:00</published>
   </entry>
 </feed>
