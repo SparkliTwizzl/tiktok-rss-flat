@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jacobtheseahorse</id>
   <title>@jacobtheseahorse | TikTok</title>
-  <updated>2023-09-05T19:13:47+00:00</updated>
+  <updated>2023-09-10T18:46:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jacobtheseahorse</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7270150407387696417</id>
-    <title>Replying to @timewastin80 like 97% of the weight was his head I'm sure of it.  2 years on and he still uses it like a battrring ram 🙃 #bigbaby #baby #nipe #ytans #transpregnancy #lgbt #birth </title>
-    <updated>2023-08-22T14:16:45+00:00</updated>
-    <content>Replying to @timewastin80 like 97% of the weight was his head I'm sure of it.  2 years on and he still uses it like a battrring ram 🙃 #bigbaby #baby #nipe #ytans #transpregnancy #lgbt #birth </content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7270150407387696417" rel="alternate"/>
-    <published>2023-08-22T14:16:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jacobtheseahorse/video/7270431207043697953</id>
     <title>Replying to @txgan.d1 can we normalise not talking about the genitals of strangers in the internet?  oh, wait. that already is normal and you're just rude if you do this.  #trans #transgender #transpregnancy #rude </title>
@@ -91,5 +83,13 @@
     <content>commonly asked questions - 1. yes I'm trans 2. yes I stopped testosterone 3. my baby is big because my husband is very tall, nothing to do with testosterone 4. no pregnancy isn't necessarily a womanly thing, it's just a cool thing my (trans) body can do 5. that said, there was dysphoria around certain body parts and the relentless social gendering happy to answer more questions if you have them! #trans #transpregnancy #homebirth #midwifery #nhs #birth #lgbtqparents</content>
     <link href="https://tiktok.com/@jacobtheseahorse/video/7275422156798823713" rel="alternate"/>
     <published>2023-09-05T19:13:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7277270598911413537</id>
+    <title>this is a simple trick that we use all the time in our #parenting  it's easy to add in and is a way of explaining complex things without overwhelming our #kids #lgbtparents  #leftistparenting #gentleparenting #transparents #seahorsedad </title>
+    <updated>2023-09-10T18:46:43+00:00</updated>
+    <content>this is a simple trick that we use all the time in our #parenting  it's easy to add in and is a way of explaining complex things without overwhelming our #kids #lgbtparents  #leftistparenting #gentleparenting #transparents #seahorsedad </content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7277270598911413537" rel="alternate"/>
+    <published>2023-09-10T18:46:43+00:00</published>
   </entry>
 </feed>
