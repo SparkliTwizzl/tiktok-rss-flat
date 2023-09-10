@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-09-09T21:09:54+00:00</updated>
+  <updated>2023-09-10T17:46:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7274287652667673902</id>
-    <title>Wonder woman, Korra, Kassandra, the list goes ON 💅 #musclewomen #women #wonderwoman #korra #kassandra </title>
-    <updated>2023-09-02T17:51:33+00:00</updated>
-    <content>Wonder woman, Korra, Kassandra, the list goes ON 💅 #musclewomen #women #wonderwoman #korra #kassandra </content>
-    <link href="https://tiktok.com/@athena__cos/video/7274287652667673902" rel="alternate"/>
-    <published>2023-09-02T17:51:33+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7274650532453567786</id>
     <title>To celebrate the next arc of AOT 🫡 transition inspo from @Arone !!#aotcosplay #aot #scout </title>
@@ -91,5 +83,13 @@
     <content>I discovered i do not wear a lot of different colored cosplays while trying to put this together 😂 the other majority color was “black” </content>
     <link href="https://tiktok.com/@athena__cos/video/7276936383602756907" rel="alternate"/>
     <published>2023-09-09T21:09:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7277255156083772714</id>
+    <title>Witchy vibes for spooky season ONLY #spookyseason #witchyvibes #witchaesthetic #halloween #fall #coven @Bella LeBaron @𝐊𝐢𝐤𝐢 𝐌𝐨𝐫𝐚 @🦊prototype fox @Raine Emery @✨TheKurliGirli✨ </title>
+    <updated>2023-09-10T17:46:54+00:00</updated>
+    <content>Witchy vibes for spooky season ONLY #spookyseason #witchyvibes #witchaesthetic #halloween #fall #coven @Bella LeBaron @𝐊𝐢𝐤𝐢 𝐌𝐨𝐫𝐚 @🦊prototype fox @Raine Emery @✨TheKurliGirli✨ </content>
+    <link href="https://tiktok.com/@athena__cos/video/7277255156083772714" rel="alternate"/>
+    <published>2023-09-10T17:46:54+00:00</published>
   </entry>
 </feed>
