@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@qu1nnv1nc1ble</id>
   <title>@qu1nnv1nc1ble | TikTok</title>
-  <updated>2023-09-10T00:01:18+00:00</updated>
+  <updated>2023-09-10T20:00:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @qu1nnv1nc1ble</subtitle>
-  <entry>
-    <id>https://tiktok.com/@qu1nnv1nc1ble/video/7272094859396156715</id>
-    <title>@bri🧿 has the literal best transitions, I had to give this one a go✨💙 | ~ uggh, imma do it again, I wanna nail it </title>
-    <updated>2023-08-27T20:02:16+00:00</updated>
-    <content>@bri🧿 has the literal best transitions, I had to give this one a go✨💙 | ~ uggh, imma do it again, I wanna nail it </content>
-    <link href="https://tiktok.com/@qu1nnv1nc1ble/video/7272094859396156715" rel="alternate"/>
-    <published>2023-08-27T20:02:16+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@qu1nnv1nc1ble/video/7272563969385155886</id>
     <title>🫶🫵 | ✨ #phonk #lighting #asthetic #bluehair #of #pretty #beautiful #makeuptutorial ✨</title>
@@ -91,5 +83,13 @@
     <content>Replying to @Unavailable I love what I do, go cry about it. </content>
     <link href="https://tiktok.com/@qu1nnv1nc1ble/video/7276980542418062634" rel="alternate"/>
     <published>2023-09-10T00:01:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@qu1nnv1nc1ble/video/7277289709028543787</id>
+    <title>Erasing me wont make your girl want me any less my guy 🤷</title>
+    <updated>2023-09-10T20:00:54+00:00</updated>
+    <content>Erasing me wont make your girl want me any less my guy 🤷</content>
+    <link href="https://tiktok.com/@qu1nnv1nc1ble/video/7277289709028543787" rel="alternate"/>
+    <published>2023-09-10T20:00:54+00:00</published>
   </entry>
 </feed>
