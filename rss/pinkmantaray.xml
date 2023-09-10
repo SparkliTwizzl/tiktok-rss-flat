@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pinkmantaray</id>
   <title>@pinkmantaray | TikTok</title>
-  <updated>2023-09-02T23:09:37+00:00</updated>
+  <updated>2023-09-10T18:51:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,19 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @pinkmantaray</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pinkmantaray/video/7268363326076226847</id>
-    <title>CW: Discussion of suicide.
- 
- Nearly a decade ago, I found myself deeply alone in my own dark thoughts. I was miserable and had stopped seeing myself in the future. In that moment, reaching out for help saved my life. Talking about suicide can be difficul</title>
-    <updated>2023-08-17T18:42:02+00:00</updated>
-    <content>CW: Discussion of suicide.
- 
- Nearly a decade ago, I found myself deeply alone in my own dark thoughts. I was miserable and had stopped seeing myself in the future. In that moment, reaching out for help saved my life. Talking about suicide can be difficult and painful – and society often adds another layer of shame and judgment that only worsens the experience. Talking about suicide and what leads a person to ending their own life can help prevent it. This is why I'm partnering with the American Foundation for Suicide Prevention @afspnational. Research, support, and humanity are at the core of this fight. Get involved at the link in my bio! 
- #AFSPPartner #TalkAwaytheDark </content>
-    <link href="https://tiktok.com/@pinkmantaray/video/7268363326076226847" rel="alternate"/>
-    <published>2023-08-17T18:42:02+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pinkmantaray/video/7268415458427161887</id>
     <title>Preorder my book #HeSheThey at hstbook.com! #transgender #booktok #books #transauthor #audiobook </title>
@@ -96,5 +83,13 @@
     <content>Replying to @John Roach #transgender #trans #hatecomments </content>
     <link href="https://tiktok.com/@pinkmantaray/video/7274369606276500766" rel="alternate"/>
     <published>2023-09-02T23:09:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pinkmantaray/video/7277271806225009950</id>
+    <title>Some thoughts after swimming as a trans man #transgender #trans #transathlete #transswimmer #speedo </title>
+    <updated>2023-09-10T18:51:42+00:00</updated>
+    <content>Some thoughts after swimming as a trans man #transgender #trans #transathlete #transswimmer #speedo </content>
+    <link href="https://tiktok.com/@pinkmantaray/video/7277271806225009950" rel="alternate"/>
+    <published>2023-09-10T18:51:42+00:00</published>
   </entry>
 </feed>
