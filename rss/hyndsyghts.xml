@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@hyndsyghts</id>
   <title>@hyndsyghts | TikTok</title>
-  <updated>2023-09-03T21:25:47+00:00</updated>
+  <updated>2023-09-11T02:18:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @hyndsyghts</subtitle>
-  <entry>
-    <id>https://tiktok.com/@hyndsyghts/video/7258707186954669355</id>
-    <title>#recoveringpeoplepleaser #socialanxiety #lgbtq </title>
-    <updated>2023-07-22T18:11:21+00:00</updated>
-    <content>#recoveringpeoplepleaser #socialanxiety #lgbtq </content>
-    <link href="https://tiktok.com/@hyndsyghts/video/7258707186954669355" rel="alternate"/>
-    <published>2023-07-22T18:11:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@hyndsyghts/video/7262510762462154027</id>
     <title>everyone's avoiding something #lgbtq </title>
@@ -91,5 +83,13 @@
     <content>#stitch with @Potatochippopotamus yes or no? #evanrachelwood #westworld #celebritydoppelganger </content>
     <link href="https://tiktok.com/@hyndsyghts/video/7274713959347899690" rel="alternate"/>
     <published>2023-09-03T21:25:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@hyndsyghts/video/7277386927072873771</id>
+    <title>might as well get over it instead of worrying about judgment from boring &amp; insecure people #lgbtq </title>
+    <updated>2023-09-11T02:18:11+00:00</updated>
+    <content>might as well get over it instead of worrying about judgment from boring &amp; insecure people #lgbtq </content>
+    <link href="https://tiktok.com/@hyndsyghts/video/7277386927072873771" rel="alternate"/>
+    <published>2023-09-11T02:18:11+00:00</published>
   </entry>
 </feed>

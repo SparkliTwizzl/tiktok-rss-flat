@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maruzee_dragon</id>
   <title>@maruzee_dragon | TikTok</title>
-  <updated>2023-09-08T01:18:29+00:00</updated>
+  <updated>2023-09-11T01:16:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maruzee_dragon</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maruzee_dragon/video/7269876175621672197</id>
-    <title>Check the amazing look with Kokomi underwater #GenshinImpactFontaine #GenshinImpact Try out this amazing filter!</title>
-    <updated>2023-08-21T20:32:34+00:00</updated>
-    <content>Check the amazing look with Kokomi underwater #GenshinImpactFontaine #GenshinImpact Try out this amazing filter!</content>
-    <link href="https://tiktok.com/@maruzee_dragon/video/7269876175621672197" rel="alternate"/>
-    <published>2023-08-21T20:32:34+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maruzee_dragon/video/7270909216745917701</id>
     <title>Réponse à @slickteez  Maybe not my smoothest transition, but this one was more about fun than perfection!😁👍 #martialarts #kicks #trainedprofessional #sport #anime </title>
@@ -91,5 +83,13 @@
     <content>Dreaming of starring in a live action 🥹... #martialarts #hero #anime #netflix </content>
     <link href="https://tiktok.com/@maruzee_dragon/video/7276258312729971973" rel="alternate"/>
     <published>2023-09-08T01:18:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maruzee_dragon/video/7277370952806092037</id>
+    <title>Bringing out my inner Nami with some Bo Staff action.💥 Do you guys like this version better?  . #onepiece #anime #liveaction #martialarts #kick #nami #netflix #edit </title>
+    <updated>2023-09-11T01:16:08+00:00</updated>
+    <content>Bringing out my inner Nami with some Bo Staff action.💥 Do you guys like this version better?  . #onepiece #anime #liveaction #martialarts #kick #nami #netflix #edit </content>
+    <link href="https://tiktok.com/@maruzee_dragon/video/7277370952806092037" rel="alternate"/>
+    <published>2023-09-11T01:16:08+00:00</published>
   </entry>
 </feed>
