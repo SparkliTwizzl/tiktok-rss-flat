@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@nopanicbutton</id>
   <title>@nopanicbutton | TikTok</title>
-  <updated>2023-09-11T15:28:06+00:00</updated>
+  <updated>2023-09-11T21:00:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @nopanicbutton</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nopanicbutton/video/7269868485365337390</id>
-    <title>Just in case you need to hear this. #improudofyou </title>
-    <updated>2023-08-21T20:02:51+00:00</updated>
-    <content>Just in case you need to hear this. #improudofyou </content>
-    <link href="https://tiktok.com/@nopanicbutton/video/7269868485365337390" rel="alternate"/>
-    <published>2023-08-21T20:02:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nopanicbutton/video/7270497518255885610</id>
     <title>It's always interesting when the DM can predict your play. Join us on Discord! Link in bio! #dnd #playtime #dm #polycule #kinktok </title>
@@ -91,5 +83,13 @@
     <content>Grilled cheese chicken sandwich! #gourmet #eatup #yum #pun </content>
     <link href="https://tiktok.com/@nopanicbutton/video/7277590428537425195" rel="alternate"/>
     <published>2023-09-11T15:28:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nopanicbutton/video/7277676061637332266</id>
+    <title>The joys of indoor gardening. Don't forget to join us on Discord!  Link in bio! #hydroponics </title>
+    <updated>2023-09-11T21:00:17+00:00</updated>
+    <content>The joys of indoor gardening. Don't forget to join us on Discord!  Link in bio! #hydroponics </content>
+    <link href="https://tiktok.com/@nopanicbutton/video/7277676061637332266" rel="alternate"/>
+    <published>2023-09-11T21:00:17+00:00</published>
   </entry>
 </feed>
