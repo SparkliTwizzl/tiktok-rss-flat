@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@transcendent_tess</id>
   <title>@transcendent_tess | TikTok</title>
-  <updated>2023-08-21T16:48:51+00:00</updated>
+  <updated>2023-09-11T15:34:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @transcendent_tess</subtitle>
-  <entry>
-    <id>https://tiktok.com/@transcendent_tess/video/7256471833988304171</id>
-    <title>you've been naughty, huh? 😏 #alphabetmafia🌈 #kneadingdough #cooking #lesbiansoftiktok #pizzatime🍕 #lgbt🌈 #fyp #funny </title>
-    <updated>2023-07-16T17:36:59+00:00</updated>
-    <content>you've been naughty, huh? 😏 #alphabetmafia🌈 #kneadingdough #cooking #lesbiansoftiktok #pizzatime🍕 #lgbt🌈 #fyp #funny </content>
-    <link href="https://tiktok.com/@transcendent_tess/video/7256471833988304171" rel="alternate"/>
-    <published>2023-07-16T17:36:59+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@transcendent_tess/video/7262882094110575915</id>
-    <title>I said I was goin' do it... And I did it!!! 😁😁😁 #truck #trucker #truckerslife #lgbt🌈 #renovation </title>
-    <updated>2023-08-03T00:12:00+00:00</updated>
-    <content>I said I was goin' do it... And I did it!!! 😁😁😁 #truck #trucker #truckerslife #lgbt🌈 #renovation </content>
-    <link href="https://tiktok.com/@transcendent_tess/video/7262882094110575915" rel="alternate"/>
-    <published>2023-08-03T00:12:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@transcendent_tess/video/7265024150845001003</id>
     <title>someday...</title>
@@ -91,5 +75,21 @@
     <content>ring camera caught something unusual last night.#neighborscat #catsoftiktok #ringdoorbell #fyp #funny #notacatperson #catsarefunny </content>
     <link href="https://tiktok.com/@transcendent_tess/video/7269818436530933038" rel="alternate"/>
     <published>2023-08-21T16:48:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@transcendent_tess/video/7277586102079343914</id>
+    <title>you know what I'm saying? 😅 #truck #trucker #truckerlife #overtheroad #regionaldriver #driver #lost #whereami #fyp #relateable #lgbt🌈 #transtruckergirl #transtrucker </title>
+    <updated>2023-09-11T15:11:25+00:00</updated>
+    <content>you know what I'm saying? 😅 #truck #trucker #truckerlife #overtheroad #regionaldriver #driver #lost #whereami #fyp #relateable #lgbt🌈 #transtruckergirl #transtrucker </content>
+    <link href="https://tiktok.com/@transcendent_tess/video/7277586102079343914" rel="alternate"/>
+    <published>2023-09-11T15:11:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@transcendent_tess/video/7277592069558766891</id>
+    <title>#duet with @RichardEats #cheesypotatoes  sorry, hon that's a bit much, even for me.</title>
+    <updated>2023-09-11T15:34:24+00:00</updated>
+    <content>#duet with @RichardEats #cheesypotatoes  sorry, hon that's a bit much, even for me.</content>
+    <link href="https://tiktok.com/@transcendent_tess/video/7277592069558766891" rel="alternate"/>
+    <published>2023-09-11T15:34:24+00:00</published>
   </entry>
 </feed>
