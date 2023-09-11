@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-09-10T21:02:51+00:00</updated>
+  <updated>2023-09-11T19:58:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7273830257596271918</id>
-    <title>Thanks for watching #midwestlife </title>
-    <updated>2023-09-01T12:16:33+00:00</updated>
-    <content>Thanks for watching #midwestlife </content>
-    <link href="https://tiktok.com/@punktoad/video/7273830257596271918" rel="alternate"/>
-    <published>2023-09-01T12:16:33+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7274008004180053291</id>
     <title>Its just how we roll #hxctiktok </title>
@@ -91,5 +83,13 @@
     <content>I guess some people don’t want to be called out </content>
     <link href="https://tiktok.com/@punktoad/video/7277305648772042027" rel="alternate"/>
     <published>2023-09-10T21:02:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7277660115052891434</id>
+    <title>Still relevant #onthisday </title>
+    <updated>2023-09-11T19:58:23+00:00</updated>
+    <content>Still relevant #onthisday </content>
+    <link href="https://tiktok.com/@punktoad/video/7277660115052891434" rel="alternate"/>
+    <published>2023-09-11T19:58:23+00:00</published>
   </entry>
 </feed>
