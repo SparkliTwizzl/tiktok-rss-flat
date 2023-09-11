@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@manic.toxicity</id>
   <title>@manic.toxicity | TikTok</title>
-  <updated>2023-09-08T20:06:28+00:00</updated>
+  <updated>2023-09-11T21:33:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @manic.toxicity</subtitle>
-  <entry>
-    <id>https://tiktok.com/@manic.toxicity/video/7267663926714764586</id>
-    <title>can you make it last forever ? &lt;3 #fyp #foryou </title>
-    <updated>2023-08-15T21:28:03+00:00</updated>
-    <content>can you make it last forever ? &lt;3 #fyp #foryou </content>
-    <link href="https://tiktok.com/@manic.toxicity/video/7267663926714764586" rel="alternate"/>
-    <published>2023-08-15T21:28:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@manic.toxicity/video/7269513739592846635</id>
     <title>oversize t-shirts &gt;&gt;&gt;  (ive run out of things to post, enjoy me saving the sound for later)</title>
@@ -91,5 +83,13 @@
     <content>i am not aloud to look like this when i get old. i refuse. #fyp #foryou </content>
     <link href="https://tiktok.com/@manic.toxicity/video/7276548964571254059" rel="alternate"/>
     <published>2023-09-08T20:06:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@manic.toxicity/video/7277684551869140266</id>
+    <title>bound to happen to me &lt;3 #fyp #foryou</title>
+    <updated>2023-09-11T21:33:14+00:00</updated>
+    <content>bound to happen to me &lt;3 #fyp #foryou</content>
+    <link href="https://tiktok.com/@manic.toxicity/video/7277684551869140266" rel="alternate"/>
+    <published>2023-09-11T21:33:14+00:00</published>
   </entry>
 </feed>
