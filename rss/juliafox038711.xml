@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@juliafox038711</id>
   <title>@juliafox038711 | TikTok</title>
-  <updated>2023-09-08T23:19:12+00:00</updated>
+  <updated>2023-09-11T01:43:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juliafox038711</subtitle>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7274722638566559019</id>
-    <title>#CapCut you bring me so much joy, it’s indescribable </title>
-    <updated>2023-09-03T21:59:24+00:00</updated>
-    <content>#CapCut you bring me so much joy, it’s indescribable </content>
-    <link href="https://tiktok.com/@juliafox038711/video/7274722638566559019" rel="alternate"/>
-    <published>2023-09-03T21:59:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@juliafox038711/video/7275198166725709098</id>
     <title>teheh</title>
@@ -91,5 +83,13 @@
     <content>sweet baby nova needed loves</content>
     <link href="https://tiktok.com/@juliafox038711/video/7276598603240590634" rel="alternate"/>
     <published>2023-09-08T23:19:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7277377940344589610</id>
+    <title>i still wanna do a venom/AOT cosplay or something 👏 should i ?</title>
+    <updated>2023-09-11T01:43:19+00:00</updated>
+    <content>i still wanna do a venom/AOT cosplay or something 👏 should i ?</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7277377940344589610" rel="alternate"/>
+    <published>2023-09-11T01:43:19+00:00</published>
   </entry>
 </feed>
