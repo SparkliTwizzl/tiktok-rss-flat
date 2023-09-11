@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@nopanicbutton</id>
   <title>@nopanicbutton | TikTok</title>
-  <updated>2023-09-08T16:06:47+00:00</updated>
+  <updated>2023-09-11T15:28:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @nopanicbutton</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nopanicbutton/video/7268066809834786090</id>
-    <title>It's a closed ceremony so no, you can't watch. #skyclad #pagan #ostara #bareitall #itscolddontjudgeme </title>
-    <updated>2023-08-16T23:31:23+00:00</updated>
-    <content>It's a closed ceremony so no, you can't watch. #skyclad #pagan #ostara #bareitall #itscolddontjudgeme </content>
-    <link href="https://tiktok.com/@nopanicbutton/video/7268066809834786090" rel="alternate"/>
-    <published>2023-08-16T23:31:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nopanicbutton/video/7269868485365337390</id>
     <title>Just in case you need to hear this. #improudofyou </title>
@@ -91,5 +83,13 @@
     <content>There's no wrong way.... #whateverworks #howdoyoudoit  Be sure to join us on Discord! Link in bio!</content>
     <link href="https://tiktok.com/@nopanicbutton/video/7276487192292150570" rel="alternate"/>
     <published>2023-09-08T16:06:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nopanicbutton/video/7277590428537425195</id>
+    <title>Grilled cheese chicken sandwich! #gourmet #eatup #yum #pun </title>
+    <updated>2023-09-11T15:28:06+00:00</updated>
+    <content>Grilled cheese chicken sandwich! #gourmet #eatup #yum #pun </content>
+    <link href="https://tiktok.com/@nopanicbutton/video/7277590428537425195" rel="alternate"/>
+    <published>2023-09-11T15:28:06+00:00</published>
   </entry>
 </feed>
