@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-09-11T18:24:19+00:00</updated>
+  <updated>2023-09-12T19:26:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7274719665853566250</id>
-    <title>There are a few fictional stories i think we would rather watch than experience #fiction #fantasy #attackontitan #aotcosplay </title>
-    <updated>2023-09-03T21:47:53+00:00</updated>
-    <content>There are a few fictional stories i think we would rather watch than experience #fiction #fantasy #attackontitan #aotcosplay </content>
-    <link href="https://tiktok.com/@athena__cos/video/7274719665853566250" rel="alternate"/>
-    <published>2023-09-03T21:47:53+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7275027241233288491</id>
     <title>I’m actually not a huge Ghost face fanatic, but this sound is just PERFECT for spooky season #spookyseason #scream #ghostface </title>
@@ -91,5 +83,13 @@
     <content>Transition by @梓緋 ZiFei !! This is probably one of my new favorite AOT vids now </content>
     <link href="https://tiktok.com/@athena__cos/video/7277635862333033770" rel="alternate"/>
     <published>2023-09-11T18:24:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7278022900060261678</id>
+    <title>@joshua made me see it and now i can’t unsee it 😂 #catgirl #nya #gymtok </title>
+    <updated>2023-09-12T19:26:10+00:00</updated>
+    <content>@joshua made me see it and now i can’t unsee it 😂 #catgirl #nya #gymtok </content>
+    <link href="https://tiktok.com/@athena__cos/video/7278022900060261678" rel="alternate"/>
+    <published>2023-09-12T19:26:10+00:00</published>
   </entry>
 </feed>
