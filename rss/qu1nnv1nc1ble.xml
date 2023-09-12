@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@qu1nnv1nc1ble</id>
   <title>@qu1nnv1nc1ble | TikTok</title>
-  <updated>2023-09-10T20:00:54+00:00</updated>
+  <updated>2023-09-12T02:05:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @qu1nnv1nc1ble</subtitle>
-  <entry>
-    <id>https://tiktok.com/@qu1nnv1nc1ble/video/7272563969385155886</id>
-    <title>🫶🫵 | ✨ #phonk #lighting #asthetic #bluehair #of #pretty #beautiful #makeuptutorial ✨</title>
-    <updated>2023-08-29T02:22:36+00:00</updated>
-    <content>🫶🫵 | ✨ #phonk #lighting #asthetic #bluehair #of #pretty #beautiful #makeuptutorial ✨</content>
-    <link href="https://tiktok.com/@qu1nnv1nc1ble/video/7272563969385155886" rel="alternate"/>
-    <published>2023-08-29T02:22:36+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@qu1nnv1nc1ble/video/7273394696616037674</id>
-    <title>[no title]</title>
-    <updated>2023-08-31T08:06:26+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@qu1nnv1nc1ble/video/7273394696616037674" rel="alternate"/>
-    <published>2023-08-31T08:06:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@qu1nnv1nc1ble/video/7273649026489175339</id>
     <title>[no title]</title>
@@ -91,5 +75,21 @@
     <content>Erasing me wont make your girl want me any less my guy 🤷</content>
     <link href="https://tiktok.com/@qu1nnv1nc1ble/video/7277289709028543787" rel="alternate"/>
     <published>2023-09-10T20:00:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@qu1nnv1nc1ble/video/7277719662455049514</id>
+    <title>I like this outfit  🖤 | #outfitchecks #slowreveal #trending </title>
+    <updated>2023-09-11T23:49:27+00:00</updated>
+    <content>I like this outfit  🖤 | #outfitchecks #slowreveal #trending </content>
+    <link href="https://tiktok.com/@qu1nnv1nc1ble/video/7277719662455049514" rel="alternate"/>
+    <published>2023-09-11T23:49:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@qu1nnv1nc1ble/video/7277754599249956139</id>
+    <title>Also this mash-up is a banger 🙌</title>
+    <updated>2023-09-12T02:05:01+00:00</updated>
+    <content>Also this mash-up is a banger 🙌</content>
+    <link href="https://tiktok.com/@qu1nnv1nc1ble/video/7277754599249956139" rel="alternate"/>
+    <published>2023-09-12T02:05:01+00:00</published>
   </entry>
 </feed>
