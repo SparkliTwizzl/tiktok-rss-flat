@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ailaughatmyownjokes</id>
   <title>@ailaughatmyownjokes | TikTok</title>
-  <updated>2023-09-08T14:01:05+00:00</updated>
+  <updated>2023-09-12T17:50:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ailaughatmyownjokes</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ailaughatmyownjokes/video/7264985000087473440</id>
-    <title>We all know this is how it went. #beautyandthebeast #sketch #comedy</title>
-    <updated>2023-08-08T16:12:19+00:00</updated>
-    <content>We all know this is how it went. #beautyandthebeast #sketch #comedy</content>
-    <link href="https://tiktok.com/@ailaughatmyownjokes/video/7264985000087473440" rel="alternate"/>
-    <published>2023-08-08T16:12:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ailaughatmyownjokes/video/7266835186900274465</id>
     <title>I'd be such a silly goofy 911 operator... you can't take me anywhereee🤪🤪 #sketch #comedy</title>
@@ -91,5 +83,13 @@
     <content>This is what I got from the 2 episodes I watched. Hope it's accurate enough👍 #toohotohandle #sketch #comedy </content>
     <link href="https://tiktok.com/@ailaughatmyownjokes/video/7276454812789607712" rel="alternate"/>
     <published>2023-09-08T14:01:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ailaughatmyownjokes/video/7277998371829271840</id>
+    <title>I like ruining stories for you guys :)  #rapunzel #tangled #sketch #comedy </title>
+    <updated>2023-09-12T17:50:52+00:00</updated>
+    <content>I like ruining stories for you guys :)  #rapunzel #tangled #sketch #comedy </content>
+    <link href="https://tiktok.com/@ailaughatmyownjokes/video/7277998371829271840" rel="alternate"/>
+    <published>2023-09-12T17:50:52+00:00</published>
   </entry>
 </feed>
