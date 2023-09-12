@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@liil.dork.alex</id>
   <title>@liil.dork.alex | TikTok</title>
-  <updated>2023-09-11T23:17:41+00:00</updated>
+  <updated>2023-09-12T17:18:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @liil.dork.alex</subtitle>
-  <entry>
-    <id>https://tiktok.com/@liil.dork.alex/video/7272857768007109931</id>
-    <title>Specially if someone aint being treated right! </title>
-    <updated>2023-08-29T21:22:50+00:00</updated>
-    <content>Specially if someone aint being treated right! </content>
-    <link href="https://tiktok.com/@liil.dork.alex/video/7272857768007109931" rel="alternate"/>
-    <published>2023-08-29T21:22:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@liil.dork.alex/video/7272901619950423339</id>
     <title>[no title]</title>
@@ -91,5 +83,13 @@
     <content>I miss music like this 😫</content>
     <link href="https://tiktok.com/@liil.dork.alex/video/7277711491531279662" rel="alternate"/>
     <published>2023-09-11T23:17:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@liil.dork.alex/video/7277990074824822059</id>
+    <title>So tired of people being so unloyal to their partners </title>
+    <updated>2023-09-12T17:18:52+00:00</updated>
+    <content>So tired of people being so unloyal to their partners </content>
+    <link href="https://tiktok.com/@liil.dork.alex/video/7277990074824822059" rel="alternate"/>
+    <published>2023-09-12T17:18:52+00:00</published>
   </entry>
 </feed>
