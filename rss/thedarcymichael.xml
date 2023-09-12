@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-09-11T23:44:43+00:00</updated>
+  <updated>2023-09-12T19:32:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7271323125810253061</id>
-    <title>When he guessed the wrong plant 😂</title>
-    <updated>2023-08-25T18:07:27+00:00</updated>
-    <content>When he guessed the wrong plant 😂</content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7271323125810253061" rel="alternate"/>
-    <published>2023-08-25T18:07:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7271728589853314310</id>
     <title>Replying to @Randomness with Renee 💚 gardening, spitfulness &amp; adhd all in on video just for you!</title>
@@ -91,5 +83,13 @@
     <content>This was insightful?</content>
     <link href="https://tiktok.com/@thedarcymichael/video/7277718482752441605" rel="alternate"/>
     <published>2023-09-11T23:44:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7278024464875506949</id>
+    <title>#stitch with @ADHD Ben when my adhd meets my french laugh 😂</title>
+    <updated>2023-09-12T19:32:06+00:00</updated>
+    <content>#stitch with @ADHD Ben when my adhd meets my french laugh 😂</content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7278024464875506949" rel="alternate"/>
+    <published>2023-09-12T19:32:06+00:00</published>
   </entry>
 </feed>

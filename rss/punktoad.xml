@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-09-12T01:10:15+00:00</updated>
+  <updated>2023-09-12T18:38:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7274168369174252846</id>
-    <title>Family means nothing in Smash </title>
-    <updated>2023-09-02T10:09:30+00:00</updated>
-    <content>Family means nothing in Smash </content>
-    <link href="https://tiktok.com/@punktoad/video/7274168369174252846" rel="alternate"/>
-    <published>2023-09-02T10:09:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7274557977263230254</id>
     <title>I’m not paid enough to be positive </title>
@@ -91,5 +83,13 @@
     <content>At least i showed up </content>
     <link href="https://tiktok.com/@punktoad/video/7277740506019269931" rel="alternate"/>
     <published>2023-09-12T01:10:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7278010731738434858</id>
+    <title>Braised Duck Tongue flavored Lays #foreignfood #review #lays </title>
+    <updated>2023-09-12T18:38:58+00:00</updated>
+    <content>Braised Duck Tongue flavored Lays #foreignfood #review #lays </content>
+    <link href="https://tiktok.com/@punktoad/video/7278010731738434858" rel="alternate"/>
+    <published>2023-09-12T18:38:58+00:00</published>
   </entry>
 </feed>
