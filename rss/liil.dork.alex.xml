@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@liil.dork.alex</id>
   <title>@liil.dork.alex | TikTok</title>
-  <updated>2023-09-11T16:33:46+00:00</updated>
+  <updated>2023-09-11T23:17:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @liil.dork.alex</subtitle>
-  <entry>
-    <id>https://tiktok.com/@liil.dork.alex/video/7268852264603766058</id>
-    <title>Of course had to hop on this sound 👀</title>
-    <updated>2023-08-19T02:19:19+00:00</updated>
-    <content>Of course had to hop on this sound 👀</content>
-    <link href="https://tiktok.com/@liil.dork.alex/video/7268852264603766058" rel="alternate"/>
-    <published>2023-08-19T02:19:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@liil.dork.alex/video/7272857768007109931</id>
     <title>Specially if someone aint being treated right! </title>
@@ -91,5 +83,13 @@
     <content>Think lunas ready for me to have someone else to take my love aggression out on 😂</content>
     <link href="https://tiktok.com/@liil.dork.alex/video/7277607377182919978" rel="alternate"/>
     <published>2023-09-11T16:33:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@liil.dork.alex/video/7277711491531279662</id>
+    <title>I miss music like this 😫</title>
+    <updated>2023-09-11T23:17:41+00:00</updated>
+    <content>I miss music like this 😫</content>
+    <link href="https://tiktok.com/@liil.dork.alex/video/7277711491531279662" rel="alternate"/>
+    <published>2023-09-11T23:17:41+00:00</published>
   </entry>
 </feed>
