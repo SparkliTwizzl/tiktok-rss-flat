@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jacobtheseahorse</id>
   <title>@jacobtheseahorse | TikTok</title>
-  <updated>2023-09-12T10:08:22+00:00</updated>
+  <updated>2023-09-12T14:36:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jacobtheseahorse</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7270620821670923552</id>
-    <title>Replying to @katherinethequeef I have spent far too long thinking about my organs in relation to pregnancy! @je@Jen Hamilton can you shed any light on the organisation of my organs? #cool #gross #pregnancy #birth #labour #labor #trans #transpregnancy </title>
-    <updated>2023-08-23T20:42:11+00:00</updated>
-    <content>Replying to @katherinethequeef I have spent far too long thinking about my organs in relation to pregnancy! @je@Jen Hamilton can you shed any light on the organisation of my organs? #cool #gross #pregnancy #birth #labour #labor #trans #transpregnancy </content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7270620821670923552" rel="alternate"/>
-    <published>2023-08-23T20:42:11+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jacobtheseahorse/video/7270829625083759904</id>
     <title>Replying to @the_adventures_of_laura personally I would hate to use the term "front hole" for myself, but I still advocate for someone else who does want it.  We all have different needs, and that's ok. Let's use the language that's right for each individ</title>
@@ -91,5 +83,13 @@
     <content>#onthisday it's the anniversary of my tiktok journey! I'm grateful to everyone who has supported me through this #trans #transpregnancy #seahorsedad </content>
     <link href="https://tiktok.com/@jacobtheseahorse/video/7277879151120485664" rel="alternate"/>
     <published>2023-09-12T10:08:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7277948194993098017</id>
+    <title>Replying to @claireb8535 this comment makes such a good point. I'm lucky to have a nurse who makes the effort to go above and beyond, but if she didn't follow my sample through then we may never see the results or it may never get tested. we need a system</title>
+    <updated>2023-09-12T14:36:11+00:00</updated>
+    <content>Replying to @claireb8535 this comment makes such a good point. I'm lucky to have a nurse who makes the effort to go above and beyond, but if she didn't follow my sample through then we may never see the results or it may never get tested. we need a system based on the reality of people's bodies, not an arbitrary one based on assumptions of gender. #trans #healthcare #smeartest #papsmear #cervicalscreening #mybody </content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7277948194993098017" rel="alternate"/>
+    <published>2023-09-12T14:36:11+00:00</published>
   </entry>
 </feed>
