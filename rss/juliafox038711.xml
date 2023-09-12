@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@juliafox038711</id>
   <title>@juliafox038711 | TikTok</title>
-  <updated>2023-09-11T01:43:19+00:00</updated>
+  <updated>2023-09-12T06:16:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juliafox038711</subtitle>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7275198166725709098</id>
-    <title>teheh</title>
-    <updated>2023-09-05T04:44:55+00:00</updated>
-    <content>teheh</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7275198166725709098" rel="alternate"/>
-    <published>2023-09-05T04:44:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7275201025827441962</id>
-    <title>my only dance move </title>
-    <updated>2023-09-05T04:55:57+00:00</updated>
-    <content>my only dance move </content>
-    <link href="https://tiktok.com/@juliafox038711/video/7275201025827441962" rel="alternate"/>
-    <published>2023-09-05T04:55:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@juliafox038711/video/7276253375497473322</id>
     <title>suprise</title>
@@ -91,5 +75,21 @@
     <content>i still wanna do a venom/AOT cosplay or something 👏 should i ?</content>
     <link href="https://tiktok.com/@juliafox038711/video/7277377940344589610" rel="alternate"/>
     <published>2023-09-11T01:43:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7277816554061073710</id>
+    <title>ive listened to this song religiously at one point in my life at 8am every morning </title>
+    <updated>2023-09-12T06:05:44+00:00</updated>
+    <content>ive listened to this song religiously at one point in my life at 8am every morning </content>
+    <link href="https://tiktok.com/@juliafox038711/video/7277816554061073710" rel="alternate"/>
+    <published>2023-09-12T06:05:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7277819263073684779</id>
+    <title>i miss transitions </title>
+    <updated>2023-09-12T06:16:11+00:00</updated>
+    <content>i miss transitions </content>
+    <link href="https://tiktok.com/@juliafox038711/video/7277819263073684779" rel="alternate"/>
+    <published>2023-09-12T06:16:11+00:00</published>
   </entry>
 </feed>
