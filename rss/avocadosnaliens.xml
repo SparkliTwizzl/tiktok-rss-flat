@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avocadosnaliens</id>
   <title>@avocadosnaliens | TikTok</title>
-  <updated>2023-09-03T20:33:55+00:00</updated>
+  <updated>2023-09-11T21:55:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avocadosnaliens</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avocadosnaliens/video/7266617484692688170</id>
-    <title>IM WIFED UP BITCHES</title>
-    <updated>2023-08-13T01:47:12+00:00</updated>
-    <content>IM WIFED UP BITCHES</content>
-    <link href="https://tiktok.com/@avocadosnaliens/video/7266617484692688170" rel="alternate"/>
-    <published>2023-08-13T01:47:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avocadosnaliens/video/7267227229866822955</id>
     <title>I have never dropped that much money on jeans IN MY LIFE BUT OH MY GOD IM IM LOVE WITH THEM. #agoldejeans #anthropologie #justgetdressed </title>
@@ -91,5 +83,13 @@
     <content>Cute lil coastal farm wedding today</content>
     <link href="https://tiktok.com/@avocadosnaliens/video/7274700614888607018" rel="alternate"/>
     <published>2023-09-03T20:33:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7277690349324127531</id>
+    <title>#stitch with @Kat Shortsleeve👕 #snashandgrab #sanfrancisco #bayarea #psa </title>
+    <updated>2023-09-11T21:55:41+00:00</updated>
+    <content>#stitch with @Kat Shortsleeve👕 #snashandgrab #sanfrancisco #bayarea #psa </content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7277690349324127531" rel="alternate"/>
+    <published>2023-09-11T21:55:41+00:00</published>
   </entry>
 </feed>
