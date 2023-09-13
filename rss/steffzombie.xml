@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@steffzombie</id>
   <title>@steffzombie | TikTok</title>
-  <updated>2023-09-12T20:41:23+00:00</updated>
+  <updated>2023-09-13T16:25:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -69,14 +69,6 @@
     <published>2023-09-01T23:30:13+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@steffzombie/video/7277759031576382762</id>
-    <title>Dressing for my happiness. :) #lgbt #fy </title>
-    <updated>2023-09-12T02:22:11+00:00</updated>
-    <content>Dressing for my happiness. :) #lgbt #fy </content>
-    <link href="https://tiktok.com/@steffzombie/video/7277759031576382762" rel="alternate"/>
-    <published>2023-09-12T02:22:11+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@steffzombie/video/7277769652623756590</id>
     <title>Dizziness #fy </title>
     <updated>2023-09-12T03:03:27+00:00</updated>
@@ -91,5 +83,13 @@
     <content>My ex is 💀 ✌🏾 ME #fy #Lbtq #queer </content>
     <link href="https://tiktok.com/@steffzombie/video/7278042295339896110" rel="alternate"/>
     <published>2023-09-12T20:41:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@steffzombie/video/7278347375935032619</id>
+    <title>Im one of his prophets. #fy #spirt </title>
+    <updated>2023-09-13T16:25:32+00:00</updated>
+    <content>Im one of his prophets. #fy #spirt </content>
+    <link href="https://tiktok.com/@steffzombie/video/7278347375935032619" rel="alternate"/>
+    <published>2023-09-13T16:25:32+00:00</published>
   </entry>
 </feed>
