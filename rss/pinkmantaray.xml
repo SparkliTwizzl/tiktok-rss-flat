@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pinkmantaray</id>
   <title>@pinkmantaray | TikTok</title>
-  <updated>2023-09-10T18:51:42+00:00</updated>
+  <updated>2023-09-13T02:27:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @pinkmantaray</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pinkmantaray/video/7268415458427161887</id>
-    <title>Preorder my book #HeSheThey at hstbook.com! #transgender #booktok #books #transauthor #audiobook </title>
-    <updated>2023-08-17T22:04:21+00:00</updated>
-    <content>Preorder my book #HeSheThey at hstbook.com! #transgender #booktok #books #transauthor #audiobook </content>
-    <link href="https://tiktok.com/@pinkmantaray/video/7268415458427161887" rel="alternate"/>
-    <published>2023-08-17T22:04:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pinkmantaray/video/7268457226661154078</id>
     <title>Travel work set up! #workremote #traveltiktok #transgender #advocacy </title>
@@ -91,5 +83,13 @@
     <content>Some thoughts after swimming as a trans man #transgender #trans #transathlete #transswimmer #speedo </content>
     <link href="https://tiktok.com/@pinkmantaray/video/7277271806225009950" rel="alternate"/>
     <published>2023-09-10T18:51:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pinkmantaray/video/7278131373813124383</id>
+    <title>Join me in talking with trans athlete and amazing human, @Angel Flores on this week's episode of #DearSchuyler. Angel's story was spotlit in Queer Eye a few years ago and since has used her platform to talk about her experience as an athlete and trans per</title>
+    <updated>2023-09-13T02:27:14+00:00</updated>
+    <content>Join me in talking with trans athlete and amazing human, @Angel Flores on this week's episode of #DearSchuyler. Angel's story was spotlit in Queer Eye a few years ago and since has used her platform to talk about her experience as an athlete and trans person. She is funny, smart, powerful and empowered. I was inspired by her outlook on her life, particularly when talking about sports as a trans person. Anyone can - and should - learn from her. Take a listen to our conversation anywhere you get your podcasts! #transgender #transathlete #podcast </content>
+    <link href="https://tiktok.com/@pinkmantaray/video/7278131373813124383" rel="alternate"/>
+    <published>2023-09-13T02:27:14+00:00</published>
   </entry>
 </feed>
