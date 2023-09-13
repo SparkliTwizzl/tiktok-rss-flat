@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@manic.toxicity</id>
   <title>@manic.toxicity | TikTok</title>
-  <updated>2023-09-13T01:10:03+00:00</updated>
+  <updated>2023-09-13T21:31:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @manic.toxicity</subtitle>
-  <entry>
-    <id>https://tiktok.com/@manic.toxicity/video/7270688359515917614</id>
-    <title>Baldurs Gate 3 stream starting now!!  twitch.tv/manictoxicity #fyp #foryou #twitch #baldursgate3 </title>
-    <updated>2023-08-24T01:04:19+00:00</updated>
-    <content>Baldurs Gate 3 stream starting now!!  twitch.tv/manictoxicity #fyp #foryou #twitch #baldursgate3 </content>
-    <link href="https://tiktok.com/@manic.toxicity/video/7270688359515917614" rel="alternate"/>
-    <published>2023-08-24T01:04:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@manic.toxicity/video/7271437015483305259</id>
     <title>baldurs game streak w some buddies! starting now ! #fyp #foryou  twitch.tv/manictoxicity  irs connected to my link tree in bio ! </title>
@@ -91,5 +83,13 @@
     <content>of the yes indeed ✨ #fyp #foryiu #teentitans #starfire</content>
     <link href="https://tiktok.com/@manic.toxicity/video/7278111533501222190" rel="alternate"/>
     <published>2023-09-13T01:10:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@manic.toxicity/video/7278426214589599018</id>
+    <title>boogie woogie woogie wooo #fyp #foryou #biketok #cbr300 #slow </title>
+    <updated>2023-09-13T21:31:11+00:00</updated>
+    <content>boogie woogie woogie wooo #fyp #foryou #biketok #cbr300 #slow </content>
+    <link href="https://tiktok.com/@manic.toxicity/video/7278426214589599018" rel="alternate"/>
+    <published>2023-09-13T21:31:11+00:00</published>
   </entry>
 </feed>
