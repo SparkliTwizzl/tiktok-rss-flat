@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-09-12T00:34:48+00:00</updated>
+  <updated>2023-09-13T21:57:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7275219416676191530</id>
-    <title>Omg goodnight </title>
-    <updated>2023-09-05T06:07:31+00:00</updated>
-    <content>Omg goodnight </content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7275219416676191530" rel="alternate"/>
-    <published>2023-09-05T06:07:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7275337392536472874</id>
     <title>[no title]</title>
@@ -91,5 +83,13 @@
     <content>Even after months, this sound still sticks with me </content>
     <link href="https://tiktok.com/@kaylabutternut/video/7277731349035863338" rel="alternate"/>
     <published>2023-09-12T00:34:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7278433135858044203</id>
+    <title>Off to work</title>
+    <updated>2023-09-13T21:57:59+00:00</updated>
+    <content>Off to work</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7278433135858044203" rel="alternate"/>
+    <published>2023-09-13T21:57:59+00:00</published>
   </entry>
 </feed>
