@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-09-13T04:07:30+00:00</updated>
+  <updated>2023-09-13T18:50:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7277014450773839147</id>
-    <title>I'm still not sure what my point was or if I even made it. Brain is kinda soupy. #solardidsystem #ssvirgo #ssperegrine </title>
-    <updated>2023-09-10T02:12:48+00:00</updated>
-    <content>I'm still not sure what my point was or if I even made it. Brain is kinda soupy. #solardidsystem #ssvirgo #ssperegrine </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7277014450773839147" rel="alternate"/>
-    <published>2023-09-10T02:12:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7277614012576042283</id>
     <title>@Jimmy John’s 🥪 I ask so little of you and you can't even make your most basic sandwich correctly </title>
@@ -91,5 +83,13 @@
     <content>We're also really good at over explaining the same thing in different ways so it sounds like we know more than we do. This video is a great example of that actually. Was there a point to this? Probably not but to be very honest I'm not sure. 99% of our confidence is fake. #solardidsystem #ssquinn </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7278157229700861230" rel="alternate"/>
     <published>2023-09-13T04:07:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7278384843136847146</id>
+    <title>I hate my role #ssquinn #solardidsystem #dissociativeidentitydisorder </title>
+    <updated>2023-09-13T18:50:47+00:00</updated>
+    <content>I hate my role #ssquinn #solardidsystem #dissociativeidentitydisorder </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7278384843136847146" rel="alternate"/>
+    <published>2023-09-13T18:50:47+00:00</published>
   </entry>
 </feed>
