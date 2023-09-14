@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@villainsupport</id>
   <title>@villainsupport | TikTok</title>
-  <updated>2023-09-11T21:14:23+00:00</updated>
+  <updated>2023-09-14T00:20:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @villainsupport</subtitle>
-  <entry>
-    <id>https://tiktok.com/@villainsupport/video/7274614771159239982</id>
-    <title>#stitch with @Tales from the Stinky Dragon #justiceforjerry🐹 #villain #hamsters #acmetok #acmevillainsupport </title>
-    <updated>2023-09-03T15:00:56+00:00</updated>
-    <content>#stitch with @Tales from the Stinky Dragon #justiceforjerry🐹 #villain #hamsters #acmetok #acmevillainsupport </content>
-    <link href="https://tiktok.com/@villainsupport/video/7274614771159239982" rel="alternate"/>
-    <published>2023-09-03T15:00:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@villainsupport/video/7275050112949275946</id>
     <title>“Superhuman” by @evancurriescifi is a fantastic book - I’m looking forward to diving into the sequels!  Check it out, link in my linktree!</title>
@@ -91,5 +83,13 @@
     <content>#acmetok #acmevillainsupport #dresdenfiles #jimbutcher #dresdentok </content>
     <link href="https://tiktok.com/@villainsupport/video/7277679702146403627" rel="alternate"/>
     <published>2023-09-11T21:14:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@villainsupport/video/7278469842418683178</id>
+    <title>#stitch with @Tales from the Stinky Dragon #stinkydragonpod #acmetok #acmevillainsupport </title>
+    <updated>2023-09-14T00:20:27+00:00</updated>
+    <content>#stitch with @Tales from the Stinky Dragon #stinkydragonpod #acmetok #acmevillainsupport </content>
+    <link href="https://tiktok.com/@villainsupport/video/7278469842418683178" rel="alternate"/>
+    <published>2023-09-14T00:20:27+00:00</published>
   </entry>
 </feed>
