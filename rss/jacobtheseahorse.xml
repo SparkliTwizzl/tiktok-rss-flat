@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jacobtheseahorse</id>
   <title>@jacobtheseahorse | TikTok</title>
-  <updated>2023-09-14T11:10:40+00:00</updated>
+  <updated>2023-09-14T14:00:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jacobtheseahorse</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7277270598911413537</id>
-    <title>this is a simple trick that we use all the time in our #parenting  it's easy to add in and is a way of explaining complex things without overwhelming our #kids #lgbtparents  #leftistparenting #gentleparenting #transparents #seahorsedad </title>
-    <updated>2023-09-10T18:46:43+00:00</updated>
-    <content>this is a simple trick that we use all the time in our #parenting  it's easy to add in and is a way of explaining complex things without overwhelming our #kids #lgbtparents  #leftistparenting #gentleparenting #transparents #seahorsedad </content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7277270598911413537" rel="alternate"/>
-    <published>2023-09-10T18:46:43+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jacobtheseahorse/video/7277859746927938848</id>
     <title>I love my trans body, but in a world that assumes cis-ness it can be uncomfortable to access healthcare. but our health is worth it, so we do the thing #trans #smeartest #papsmear #cervicalscreening #transhealthcare #healthcare </title>
@@ -91,5 +83,13 @@
     <content>Replying to @andreea_me1 you can see the moment that my compassion kicks in.  I have a revulsion response to patriarchy and sexism. but when it's being upheld by the people hurt by it I mainly feel sad.  although, it's telling that if you had the power you would still subjugate women.  #trans #feminism #intersectionalfeminism #lgbt #sexism </content>
     <link href="https://tiktok.com/@jacobtheseahorse/video/7278637412304063776" rel="alternate"/>
     <published>2023-09-14T11:10:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7278681197578833184</id>
+    <title>Replying to @mainlyjustscrolling honestly even if it was the perkiest perk that ever perked, why does it bother you? oh no! someone is having a nice life! ahhhh! #trans #perk #lgbt </title>
+    <updated>2023-09-14T14:00:33+00:00</updated>
+    <content>Replying to @mainlyjustscrolling honestly even if it was the perkiest perk that ever perked, why does it bother you? oh no! someone is having a nice life! ahhhh! #trans #perk #lgbt </content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7278681197578833184" rel="alternate"/>
+    <published>2023-09-14T14:00:33+00:00</published>
   </entry>
 </feed>
