@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kamehalani</id>
   <title>@kamehalani | TikTok</title>
-  <updated>2023-09-14T17:24:41+00:00</updated>
+  <updated>2023-09-14T15:59:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kamehalani</subtitle>
+  <entry>
+    <id>https://tiktok.com/@kamehalani/video/7273149107152227627</id>
+    <title>#stitch with @Sweet.T.808.backup  #kanaka #nativetiktok #nativehawaiian #hawaii #hawaiian #stoptourisminhawaii #maui  </title>
+    <updated>2023-08-30T16:13:37+00:00</updated>
+    <content>#stitch with @Sweet.T.808.backup  #kanaka #nativetiktok #nativehawaiian #hawaii #hawaiian #stoptourisminhawaii #maui  </content>
+    <link href="https://tiktok.com/@kamehalani/video/7273149107152227627" rel="alternate"/>
+    <published>2023-08-30T16:13:37+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@kamehalani/video/7273549833019985195</id>
     <title>#stitch with @Oprah #greenscreen no! #kanaka #nativetiktok #hawaii #hawaiian #nativehawaiian #maui #hawaiitiktok </title>
@@ -83,13 +91,5 @@
     <content>Replying to @Scarb stop #kanaka #nativetiktok #hawaii #hawaiitiktok #nativehawaiian #native </content>
     <link href="https://tiktok.com/@kamehalani/video/7278711799027862830" rel="alternate"/>
     <published>2023-09-14T15:59:21+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kamehalani/video/7278733771770236202</id>
-    <title>Yall feel me on this ? #bpd #mentalhealthmatters </title>
-    <updated>2023-09-14T17:24:41+00:00</updated>
-    <content>Yall feel me on this ? #bpd #mentalhealthmatters </content>
-    <link href="https://tiktok.com/@kamehalani/video/7278733771770236202" rel="alternate"/>
-    <published>2023-09-14T17:24:41+00:00</published>
   </entry>
 </feed>

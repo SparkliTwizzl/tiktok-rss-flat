@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jacobtheseahorse</id>
   <title>@jacobtheseahorse | TikTok</title>
-  <updated>2023-09-14T16:25:47+00:00</updated>
+  <updated>2023-09-14T19:02:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jacobtheseahorse</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7277879151120485664</id>
-    <title>#onthisday it's the anniversary of my tiktok journey! I'm grateful to everyone who has supported me through this #trans #transpregnancy #seahorsedad </title>
-    <updated>2023-09-12T10:08:22+00:00</updated>
-    <content>#onthisday it's the anniversary of my tiktok journey! I'm grateful to everyone who has supported me through this #trans #transpregnancy #seahorsedad </content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7277879151120485664" rel="alternate"/>
-    <published>2023-09-12T10:08:22+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7277948194993098017</id>
-    <title>Replying to @claireb8535 this comment makes such a good point. I'm lucky to have a nurse who makes the effort to go above and beyond, but if she didn't follow my sample through then we may never see the results or it may never get tested. we need a system</title>
-    <updated>2023-09-12T14:36:11+00:00</updated>
-    <content>Replying to @claireb8535 this comment makes such a good point. I'm lucky to have a nurse who makes the effort to go above and beyond, but if she didn't follow my sample through then we may never see the results or it may never get tested. we need a system based on the reality of people's bodies, not an arbitrary one based on assumptions of gender. #trans #healthcare #smeartest #papsmear #cervicalscreening #mybody </content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7277948194993098017" rel="alternate"/>
-    <published>2023-09-12T14:36:11+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jacobtheseahorse/video/7278062509708299552</id>
     <title>Replying to @staffybullmummy thank you for your question, it gives me a chance to clarify some things that I bet a few people are wondering #trans #transhealthcare #smeartest #papsmear #cervicalscreening #lgbtq </title>
@@ -91,5 +75,21 @@
     <content>Replying to @lucycousins6 cool question!  ultimately most humans will respond in a similar way to high levels of testosterone or estrogen the exception would be some intersex people who have androgen insensitivity or similar #trans #hormones #bald #hairloss #testosterone </content>
     <link href="https://tiktok.com/@jacobtheseahorse/video/7278718629187783969" rel="alternate"/>
     <published>2023-09-14T16:25:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7278749241709825313</id>
+    <title>come see me at the modern family show! London  23rd September 2023 I'll be there all day answering questions and being available for people. I would love to see you there! #themodernfamilyshow #modernfamily #advocate #transparenting #seahorse </title>
+    <updated>2023-09-14T18:24:35+00:00</updated>
+    <content>come see me at the modern family show! London  23rd September 2023 I'll be there all day answering questions and being available for people. I would love to see you there! #themodernfamilyshow #modernfamily #advocate #transparenting #seahorse </content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7278749241709825313" rel="alternate"/>
+    <published>2023-09-14T18:24:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7278758928417115425</id>
+    <title>Replying to @juicycherrylucy darn it!  all sorted now. it's amazing what testosterone does #trans #testosterone #hormones #2yearsontestosterone #13years </title>
+    <updated>2023-09-14T19:02:11+00:00</updated>
+    <content>Replying to @juicycherrylucy darn it!  all sorted now. it's amazing what testosterone does #trans #testosterone #hormones #2yearsontestosterone #13years </content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7278758928417115425" rel="alternate"/>
+    <published>2023-09-14T19:02:11+00:00</published>
   </entry>
 </feed>
