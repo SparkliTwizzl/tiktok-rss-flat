@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kit_the_beefcake</id>
   <title>@kit_the_beefcake | TikTok</title>
-  <updated>2023-09-13T09:52:35+00:00</updated>
+  <updated>2023-09-14T02:56:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kit_the_beefcake</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7268575621859560747</id>
-    <title>[no title]</title>
-    <updated>2023-08-18T08:26:29+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7268575621859560747" rel="alternate"/>
-    <published>2023-08-18T08:26:29+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7271808126351887658</id>
-    <title>theories??? </title>
-    <updated>2023-08-27T01:29:41+00:00</updated>
-    <content>theories??? </content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7271808126351887658" rel="alternate"/>
-    <published>2023-08-27T01:29:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7272324371018976554</id>
     <title>WHY</title>
@@ -91,5 +75,21 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@kit_the_beefcake/video/7278246076849638699" rel="alternate"/>
     <published>2023-09-13T09:52:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7278472984354934058</id>
+    <title>[no title]</title>
+    <updated>2023-09-14T00:32:37+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7278472984354934058" rel="alternate"/>
+    <published>2023-09-14T00:32:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7278510183163268398</id>
+    <title>[no title]</title>
+    <updated>2023-09-14T02:56:59+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7278510183163268398" rel="alternate"/>
+    <published>2023-09-14T02:56:59+00:00</published>
   </entry>
 </feed>
