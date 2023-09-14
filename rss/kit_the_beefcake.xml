@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kit_the_beefcake</id>
   <title>@kit_the_beefcake | TikTok</title>
-  <updated>2023-09-14T02:56:59+00:00</updated>
+  <updated>2023-09-14T11:08:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -77,19 +77,19 @@
     <published>2023-09-13T09:52:35+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7278472984354934058</id>
-    <title>[no title]</title>
-    <updated>2023-09-14T00:32:37+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7278472984354934058" rel="alternate"/>
-    <published>2023-09-14T00:32:37+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7278510183163268398</id>
     <title>[no title]</title>
     <updated>2023-09-14T02:56:59+00:00</updated>
     <content>[no description]</content>
     <link href="https://tiktok.com/@kit_the_beefcake/video/7278510183163268398" rel="alternate"/>
     <published>2023-09-14T02:56:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7278636891187006750</id>
+    <title>Dont study here. Cant un-recommend it enough. </title>
+    <updated>2023-09-14T11:08:42+00:00</updated>
+    <content>Dont study here. Cant un-recommend it enough. </content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7278636891187006750" rel="alternate"/>
+    <published>2023-09-14T11:08:42+00:00</published>
   </entry>
 </feed>
