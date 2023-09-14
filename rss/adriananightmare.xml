@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@adriananightmare</id>
   <title>@adriananightmare | TikTok</title>
-  <updated>2023-08-19T20:09:35+00:00</updated>
+  <updated>2023-09-13T23:30:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @adriananightmare</subtitle>
-  <entry>
-    <id>https://tiktok.com/@adriananightmare/video/7255009014935719211</id>
-    <title>I loved you before this. But I knew I had finally met somebody as wild horse free as me. I'm blessed to know you. #fyp </title>
-    <updated>2023-07-12T19:00:28+00:00</updated>
-    <content>I loved you before this. But I knew I had finally met somebody as wild horse free as me. I'm blessed to know you. #fyp </content>
-    <link href="https://tiktok.com/@adriananightmare/video/7255009014935719211" rel="alternate"/>
-    <published>2023-07-12T19:00:28+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@adriananightmare/video/7259140225635732782</id>
-    <title>[no title]</title>
-    <updated>2023-07-23T22:11:44+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@adriananightmare/video/7259140225635732782" rel="alternate"/>
-    <published>2023-07-23T22:11:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@adriananightmare/video/7259790367418109227</id>
     <title>thought I'd catch up with the trends.</title>
@@ -91,5 +75,21 @@
     <content>bet. 🖤</content>
     <link href="https://tiktok.com/@adriananightmare/video/7269128034739916074" rel="alternate"/>
     <published>2023-08-19T20:09:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@adriananightmare/video/7278455272455015726</id>
+    <title>credit to @James Hoyles for the idea</title>
+    <updated>2023-09-13T23:23:52+00:00</updated>
+    <content>credit to @James Hoyles for the idea</content>
+    <link href="https://tiktok.com/@adriananightmare/video/7278455272455015726" rel="alternate"/>
+    <published>2023-09-13T23:23:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@adriananightmare/video/7278456894799351083</id>
+    <title>idk</title>
+    <updated>2023-09-13T23:30:14+00:00</updated>
+    <content>idk</content>
+    <link href="https://tiktok.com/@adriananightmare/video/7278456894799351083" rel="alternate"/>
+    <published>2023-09-13T23:30:14+00:00</published>
   </entry>
 </feed>
