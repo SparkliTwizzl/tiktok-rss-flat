@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@qu1nnv1nc1ble</id>
   <title>@qu1nnv1nc1ble | TikTok</title>
-  <updated>2023-09-14T03:00:51+00:00</updated>
+  <updated>2023-09-14T14:46:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @qu1nnv1nc1ble</subtitle>
-  <entry>
-    <id>https://tiktok.com/@qu1nnv1nc1ble/video/7276222696000605486</id>
-    <title>✖️What ever happens… happens✖️</title>
-    <updated>2023-09-07T23:00:22+00:00</updated>
-    <content>✖️What ever happens… happens✖️</content>
-    <link href="https://tiktok.com/@qu1nnv1nc1ble/video/7276222696000605486" rel="alternate"/>
-    <published>2023-09-07T23:00:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@qu1nnv1nc1ble/video/7276640274481368366</id>
     <title>Whooooa, do what?! </title>
@@ -91,5 +83,13 @@
     <content>Last I checked its mine, sooo</content>
     <link href="https://tiktok.com/@qu1nnv1nc1ble/video/7278511184372993326" rel="alternate"/>
     <published>2023-09-14T03:00:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@qu1nnv1nc1ble/video/7278693089554844970</id>
+    <title>Do you also have this specific kinda chatacter development in your blueprints? 👀</title>
+    <updated>2023-09-14T14:46:50+00:00</updated>
+    <content>Do you also have this specific kinda chatacter development in your blueprints? 👀</content>
+    <link href="https://tiktok.com/@qu1nnv1nc1ble/video/7278693089554844970" rel="alternate"/>
+    <published>2023-09-14T14:46:50+00:00</published>
   </entry>
 </feed>
