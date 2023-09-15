@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jacobtheseahorse</id>
   <title>@jacobtheseahorse | TikTok</title>
-  <updated>2023-09-14T19:02:11+00:00</updated>
+  <updated>2023-09-15T10:18:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jacobtheseahorse</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7278062509708299552</id>
-    <title>Replying to @staffybullmummy thank you for your question, it gives me a chance to clarify some things that I bet a few people are wondering #trans #transhealthcare #smeartest #papsmear #cervicalscreening #lgbtq </title>
-    <updated>2023-09-12T21:59:50+00:00</updated>
-    <content>Replying to @staffybullmummy thank you for your question, it gives me a chance to clarify some things that I bet a few people are wondering #trans #transhealthcare #smeartest #papsmear #cervicalscreening #lgbtq </content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7278062509708299552" rel="alternate"/>
-    <published>2023-09-12T21:59:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jacobtheseahorse/video/7278199676363361569</id>
     <title>we love this book by @Juno  how do you talk to your kids about gender and trans identities? #trans #transtok #transbooks #kidsbooks #picturebook #readwithme </title>
@@ -91,5 +83,13 @@
     <content>Replying to @juicycherrylucy darn it!  all sorted now. it's amazing what testosterone does #trans #testosterone #hormones #2yearsontestosterone #13years </content>
     <link href="https://tiktok.com/@jacobtheseahorse/video/7278758928417115425" rel="alternate"/>
     <published>2023-09-14T19:02:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7278994966787984673</id>
+    <title>Replying to @who.tf.is.lou thank you for asking, I bet there's so many people who would appreciate hearing this too #smear #smeartest #cervical #healthcare #papsmear </title>
+    <updated>2023-09-15T10:18:12+00:00</updated>
+    <content>Replying to @who.tf.is.lou thank you for asking, I bet there's so many people who would appreciate hearing this too #smear #smeartest #cervical #healthcare #papsmear </content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7278994966787984673" rel="alternate"/>
+    <published>2023-09-15T10:18:12+00:00</published>
   </entry>
 </feed>
