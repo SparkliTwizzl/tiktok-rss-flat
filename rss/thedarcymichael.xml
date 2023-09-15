@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-09-13T13:23:49+00:00</updated>
+  <updated>2023-09-14T18:41:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7271728589853314310</id>
-    <title>Replying to @Randomness with Renee 💚 gardening, spitfulness &amp; adhd all in on video just for you!</title>
-    <updated>2023-08-26T20:20:53+00:00</updated>
-    <content>Replying to @Randomness with Renee 💚 gardening, spitfulness &amp; adhd all in on video just for you!</content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7271728589853314310" rel="alternate"/>
-    <published>2023-08-26T20:20:53+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7273138103798238470</id>
     <title>So good at being ✨humble✨</title>
@@ -91,5 +83,13 @@
     <content>Thanks Winnipeg for a great show last night and thanks to @The Chicks for an incredible time on monday. Toronto, see you thursday !</content>
     <link href="https://tiktok.com/@thedarcymichael/video/7278300658279681285" rel="alternate"/>
     <published>2023-09-13T13:23:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7278753685675494661</id>
+    <title>“What part of the spectrum do you tap dance on?” Love you @BrucioMcCulloch #adhd #storytime #neurospicy </title>
+    <updated>2023-09-14T18:41:49+00:00</updated>
+    <content>“What part of the spectrum do you tap dance on?” Love you @BrucioMcCulloch #adhd #storytime #neurospicy </content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7278753685675494661" rel="alternate"/>
+    <published>2023-09-14T18:41:49+00:00</published>
   </entry>
 </feed>
