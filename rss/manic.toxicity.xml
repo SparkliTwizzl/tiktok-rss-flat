@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@manic.toxicity</id>
   <title>@manic.toxicity | TikTok</title>
-  <updated>2023-09-13T21:31:11+00:00</updated>
+  <updated>2023-09-14T21:44:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @manic.toxicity</subtitle>
-  <entry>
-    <id>https://tiktok.com/@manic.toxicity/video/7271437015483305259</id>
-    <title>baldurs game streak w some buddies! starting now ! #fyp #foryou  twitch.tv/manictoxicity  irs connected to my link tree in bio ! </title>
-    <updated>2023-08-26T01:29:35+00:00</updated>
-    <content>baldurs game streak w some buddies! starting now ! #fyp #foryou  twitch.tv/manictoxicity  irs connected to my link tree in bio ! </content>
-    <link href="https://tiktok.com/@manic.toxicity/video/7271437015483305259" rel="alternate"/>
-    <published>2023-08-26T01:29:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@manic.toxicity/video/7272069389187370282</id>
     <title>#onthisday  this makes me wanna do the eyeshadow under my eyeliner again hahah dear god if ore my eyebrows </title>
@@ -91,5 +83,13 @@
     <content>boogie woogie woogie wooo #fyp #foryou #biketok #cbr300 #slow </content>
     <link href="https://tiktok.com/@manic.toxicity/video/7278426214589599018" rel="alternate"/>
     <published>2023-09-13T21:31:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@manic.toxicity/video/7278800691546672430</id>
+    <title>the fuckin sun’d be gone #foryou #foryou </title>
+    <updated>2023-09-14T21:44:16+00:00</updated>
+    <content>the fuckin sun’d be gone #foryou #foryou </content>
+    <link href="https://tiktok.com/@manic.toxicity/video/7278800691546672430" rel="alternate"/>
+    <published>2023-09-14T21:44:16+00:00</published>
   </entry>
 </feed>
