@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-09-14T18:41:49+00:00</updated>
+  <updated>2023-09-15T13:02:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7273138103798238470</id>
-    <title>So good at being ✨humble✨</title>
-    <updated>2023-08-30T15:30:29+00:00</updated>
-    <content>So good at being ✨humble✨</content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7273138103798238470" rel="alternate"/>
-    <published>2023-08-30T15:30:29+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7274338495806606598</id>
     <title>Really it has so many purposes but mostly…</title>
@@ -91,5 +83,13 @@
     <content>“What part of the spectrum do you tap dance on?” Love you @BrucioMcCulloch #adhd #storytime #neurospicy </content>
     <link href="https://tiktok.com/@thedarcymichael/video/7278753685675494661" rel="alternate"/>
     <published>2023-09-14T18:41:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7279037373382413573</id>
+    <title>In case there was any confusion on where we stand… unions across the world are fighting for our fair share, Jer &amp; I stand with them. ✊ union strong ✊</title>
+    <updated>2023-09-15T13:02:40+00:00</updated>
+    <content>In case there was any confusion on where we stand… unions across the world are fighting for our fair share, Jer &amp; I stand with them. ✊ union strong ✊</content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7279037373382413573" rel="alternate"/>
+    <published>2023-09-15T13:02:40+00:00</published>
   </entry>
 </feed>
