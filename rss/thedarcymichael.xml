@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-09-15T13:02:40+00:00</updated>
+  <updated>2023-09-15T21:18:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7274338495806606598</id>
-    <title>Really it has so many purposes but mostly…</title>
-    <updated>2023-09-02T21:08:37+00:00</updated>
-    <content>Really it has so many purposes but mostly…</content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7274338495806606598" rel="alternate"/>
-    <published>2023-09-02T21:08:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7275080415029759237</id>
     <title>Jers obsessed with making me work. </title>
@@ -91,5 +83,13 @@
     <content>In case there was any confusion on where we stand… unions across the world are fighting for our fair share, Jer &amp; I stand with them. ✊ union strong ✊</content>
     <link href="https://tiktok.com/@thedarcymichael/video/7279037373382413573" rel="alternate"/>
     <published>2023-09-15T13:02:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7279165225960508677</id>
+    <title>It’s been a long few days on the road… #adhd #manchild #marriedlife #funny </title>
+    <updated>2023-09-15T21:18:48+00:00</updated>
+    <content>It’s been a long few days on the road… #adhd #manchild #marriedlife #funny </content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7279165225960508677" rel="alternate"/>
+    <published>2023-09-15T21:18:48+00:00</published>
   </entry>
 </feed>
