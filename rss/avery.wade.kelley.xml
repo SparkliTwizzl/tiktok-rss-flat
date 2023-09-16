@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-09-14T17:11:50+00:00</updated>
+  <updated>2023-09-15T20:21:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7273874651158285614</id>
-    <title>Hello, my friends. I've missed you. #fyp #trans </title>
-    <updated>2023-09-01T15:08:45+00:00</updated>
-    <content>Hello, my friends. I've missed you. #fyp #trans </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7273874651158285614" rel="alternate"/>
-    <published>2023-09-01T15:08:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7274279758995803434</id>
     <title>Let your inner kiddo play today. #fyp #trans </title>
@@ -91,5 +83,13 @@
     <content>Such a simple concept that so many grasp, and others don't. I struggle with feeding myself every single day, and doing the things I need to do such as cleaning the house or planning doctors visits. If you take care of plants, try taking care of yourself while you're doing the same for them. Got a dog? Prepare both of your meals at the same time. We deserve to be cared for by ourselves. You're worth that, I promise. #fyp #mentalhealth #trans </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7278730463450041646" rel="alternate"/>
     <published>2023-09-14T17:11:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7279150360457907502</id>
+    <title>Sober from alcohol for almost 3 years, and I feel the difference. I was slowly killing myself with it, and when I stopped, it took a while for everything to stop hurting too. But, it's getting better. The main focus is today, and that's all we can do. Lov</title>
+    <updated>2023-09-15T20:21:16+00:00</updated>
+    <content>Sober from alcohol for almost 3 years, and I feel the difference. I was slowly killing myself with it, and when I stopped, it took a while for everything to stop hurting too. But, it's getting better. The main focus is today, and that's all we can do. Love yourself in the making. And don't forget to be human.  #fyp #trans </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7279150360457907502" rel="alternate"/>
+    <published>2023-09-15T20:21:16+00:00</published>
   </entry>
 </feed>
