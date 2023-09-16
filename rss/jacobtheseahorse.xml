@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jacobtheseahorse</id>
   <title>@jacobtheseahorse | TikTok</title>
-  <updated>2023-09-15T18:36:57+00:00</updated>
+  <updated>2023-09-16T18:32:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jacobtheseahorse</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7278354284859624737</id>
-    <title>Replying to @life_with_yaz such a great question thank you! I hope I've answered it in a way that makes sense, I'm happy to elaborate if it'll help 🏳️‍⚧️ #trans #transman #transmasculine #identity #lgbtq #whoami </title>
-    <updated>2023-09-13T16:51:59+00:00</updated>
-    <content>Replying to @life_with_yaz such a great question thank you! I hope I've answered it in a way that makes sense, I'm happy to elaborate if it'll help 🏳️‍⚧️ #trans #transman #transmasculine #identity #lgbtq #whoami </content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7278354284859624737" rel="alternate"/>
-    <published>2023-09-13T16:51:59+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jacobtheseahorse/video/7278620502237777185</id>
     <title>it literally took me less than 10 minutes to fill out and I was doing other things at the same time! #survey #reproductivehealth #transpregnancy #pregnancy #birth #contraception #study </title>
@@ -91,5 +83,13 @@
     <content>Replying to @alisonsaxby thanks for saying I'm lovely, I try to provide a space where we can talk about these tricky things. usually when someone doesn't like the term cisgender, it's because they've heard bad things about it. but at the core, there's genuinely nothing to actually dislike.  there was the same pushback about the word "straight" back in the day. ultimately, trans people and cis people have different experiences and it's valuable to be able to talk about that. you don't have to use the word for yourself, but it still exists and is useful regardless  #trans #cis #allosexual #asexual #lgbt #queer </content>
     <link href="https://tiktok.com/@jacobtheseahorse/video/7279123510394375457" rel="alternate"/>
     <published>2023-09-15T18:36:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7279493506475789601</id>
+    <title>Replying to @smashpar  #trans #is #beautiful </title>
+    <updated>2023-09-16T18:32:45+00:00</updated>
+    <content>Replying to @smashpar  #trans #is #beautiful </content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7279493506475789601" rel="alternate"/>
+    <published>2023-09-16T18:32:45+00:00</published>
   </entry>
 </feed>
