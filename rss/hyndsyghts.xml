@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@hyndsyghts</id>
   <title>@hyndsyghts | TikTok</title>
-  <updated>2023-09-16T03:53:02+00:00</updated>
+  <updated>2023-09-16T19:10:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @hyndsyghts</subtitle>
-  <entry>
-    <id>https://tiktok.com/@hyndsyghts/video/7271021153655721259</id>
-    <title>autistic in corporate, fake it til you make it things #lgbtq #actuallyautistic </title>
-    <updated>2023-08-24T22:35:48+00:00</updated>
-    <content>autistic in corporate, fake it til you make it things #lgbtq #actuallyautistic </content>
-    <link href="https://tiktok.com/@hyndsyghts/video/7271021153655721259" rel="alternate"/>
-    <published>2023-08-24T22:35:48+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@hyndsyghts/video/7273677158243913003</id>
-    <title>why can't I just take a pill that has all the nutrients humans need #actuallyautistic </title>
-    <updated>2023-09-01T02:22:25+00:00</updated>
-    <content>why can't I just take a pill that has all the nutrients humans need #actuallyautistic </content>
-    <link href="https://tiktok.com/@hyndsyghts/video/7273677158243913003" rel="alternate"/>
-    <published>2023-09-01T02:22:25+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@hyndsyghts/video/7273874810361449771</id>
-    <title>for the good luck for once 🙏 #first #lgbtq #sonyxm4 </title>
-    <updated>2023-09-01T15:09:24+00:00</updated>
-    <content>for the good luck for once 🙏 #first #lgbtq #sonyxm4 </content>
-    <link href="https://tiktok.com/@hyndsyghts/video/7273874810361449771" rel="alternate"/>
-    <published>2023-09-01T15:09:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@hyndsyghts/video/7273879097044929838</id>
     <title>and that last one would have made it too #actuallyautistic #lgbtq </title>
@@ -91,5 +67,29 @@
     <content>insane view #toronto #lgbtq </content>
     <link href="https://tiktok.com/@hyndsyghts/video/7279266766730087722" rel="alternate"/>
     <published>2023-09-16T03:53:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@hyndsyghts/video/7279459471515045163</id>
+    <title>Toronto Vlog Day 1 #pvris #livemusic #lgbtq </title>
+    <updated>2023-09-16T16:20:45+00:00</updated>
+    <content>Toronto Vlog Day 1 #pvris #livemusic #lgbtq </content>
+    <link href="https://tiktok.com/@hyndsyghts/video/7279459471515045163" rel="alternate"/>
+    <published>2023-09-16T16:20:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@hyndsyghts/video/7279492394167323946</id>
+    <title>everytime I tried to do this at the Toronto sign, men harrassed me so I'm doing it in my hotel room above the sign🫡 #tubegirl </title>
+    <updated>2023-09-16T18:28:29+00:00</updated>
+    <content>everytime I tried to do this at the Toronto sign, men harrassed me so I'm doing it in my hotel room above the sign🫡 #tubegirl </content>
+    <link href="https://tiktok.com/@hyndsyghts/video/7279492394167323946" rel="alternate"/>
+    <published>2023-09-16T18:28:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@hyndsyghts/video/7279503102326197550</id>
+    <title>#tubegirl #android </title>
+    <updated>2023-09-16T19:10:04+00:00</updated>
+    <content>#tubegirl #android </content>
+    <link href="https://tiktok.com/@hyndsyghts/video/7279503102326197550" rel="alternate"/>
+    <published>2023-09-16T19:10:04+00:00</published>
   </entry>
 </feed>
