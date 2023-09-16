@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-09-15T23:34:47+00:00</updated>
+  <updated>2023-09-16T19:03:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7276164900391587114</id>
-    <title>I have such an emotional attachment to this song #attackontitan #aotcosplay </title>
-    <updated>2023-09-07T19:16:12+00:00</updated>
-    <content>I have such an emotional attachment to this song #attackontitan #aotcosplay </content>
-    <link href="https://tiktok.com/@athena__cos/video/7276164900391587114" rel="alternate"/>
-    <published>2023-09-07T19:16:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7276537455061372206</id>
     <title>Pov: a group of knights stumble on fairies 🍃✨  Knights are @Bella LeBaron and @𝐊𝐢𝐤𝐢 𝐌𝐨𝐫𝐚 and the fairies are @Raine Emery @🦊prototype fox @✨TheKurliGirli✨   #ladyknight #knight #knightcosplay #knightcore #fantasy #fantasycosplay </title>
@@ -91,5 +83,13 @@
     <content>This is not even slightly a joke #transformers #optimusprime </content>
     <link href="https://tiktok.com/@athena__cos/video/7279200233353973034" rel="alternate"/>
     <published>2023-09-15T23:34:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7279501288373505326</id>
+    <title>One eye was giving “possessed goat” #genshinimpact #kirara #kiraracosplay #catgirl #cosplay </title>
+    <updated>2023-09-16T19:03:00+00:00</updated>
+    <content>One eye was giving “possessed goat” #genshinimpact #kirara #kiraracosplay #catgirl #cosplay </content>
+    <link href="https://tiktok.com/@athena__cos/video/7279501288373505326" rel="alternate"/>
+    <published>2023-09-16T19:03:00+00:00</published>
   </entry>
 </feed>
