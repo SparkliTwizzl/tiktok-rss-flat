@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maruzee_dragon</id>
   <title>@maruzee_dragon | TikTok</title>
-  <updated>2023-09-15T01:19:05+00:00</updated>
+  <updated>2023-09-16T01:23:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maruzee_dragon</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maruzee_dragon/video/7272190851940437253</id>
-    <title>Yes, that was me... 🫠👍</title>
-    <updated>2023-08-28T02:14:41+00:00</updated>
-    <content>Yes, that was me... 🫠👍</content>
-    <link href="https://tiktok.com/@maruzee_dragon/video/7272190851940437253" rel="alternate"/>
-    <published>2023-08-28T02:14:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maruzee_dragon/video/7272528601541528837</id>
     <title>Unleashing my inner warrior 💪🔥 #transitions #cosplay #NieRAutomata #NarakaBladepoint #gloryisours </title>
@@ -91,5 +83,13 @@
     <content>The walk is back!... I know, it's a simple transition, but I'm just having fun here!😁 . #transition #outfit #autumn #fashion #y2k </content>
     <link href="https://tiktok.com/@maruzee_dragon/video/7278856061635808518" rel="alternate"/>
     <published>2023-09-15T01:19:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maruzee_dragon/video/7279228244501695750</id>
+    <title>How about more Juri from Street Fighter? And maybe with some extra kicks?! I know, the hair's not quite right, but I worked with what I had 🥲... Ib: @Lucia Liu ☂️ #transition #cosplay #streetfighter #martialarts #kick #videogames #gamer #chunli </title>
+    <updated>2023-09-16T01:23:22+00:00</updated>
+    <content>How about more Juri from Street Fighter? And maybe with some extra kicks?! I know, the hair's not quite right, but I worked with what I had 🥲... Ib: @Lucia Liu ☂️ #transition #cosplay #streetfighter #martialarts #kick #videogames #gamer #chunli </content>
+    <link href="https://tiktok.com/@maruzee_dragon/video/7279228244501695750" rel="alternate"/>
+    <published>2023-09-16T01:23:22+00:00</published>
   </entry>
 </feed>
