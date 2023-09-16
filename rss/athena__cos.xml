@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-09-15T19:36:12+00:00</updated>
+  <updated>2023-09-15T23:34:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7275829067939892526</id>
-    <title>I rolled down that hill so many times for yall </title>
-    <updated>2023-09-06T21:32:59+00:00</updated>
-    <content>I rolled down that hill so many times for yall </content>
-    <link href="https://tiktok.com/@athena__cos/video/7275829067939892526" rel="alternate"/>
-    <published>2023-09-06T21:32:59+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7276164900391587114</id>
     <title>I have such an emotional attachment to this song #attackontitan #aotcosplay </title>
@@ -91,5 +83,13 @@
     <content>I love how my content is either angst or cute little cat dances (I am my own yin and yang)  #genshinimpact #genshinimpactcosplay #genshincosplay #kirara #amber #aloycosplay #raidenshogun #animedance </content>
     <link href="https://tiktok.com/@athena__cos/video/7279138739085937963" rel="alternate"/>
     <published>2023-09-15T19:36:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7279200233353973034</id>
+    <title>This is not even slightly a joke #transformers #optimusprime </title>
+    <updated>2023-09-15T23:34:47+00:00</updated>
+    <content>This is not even slightly a joke #transformers #optimusprime </content>
+    <link href="https://tiktok.com/@athena__cos/video/7279200233353973034" rel="alternate"/>
+    <published>2023-09-15T23:34:47+00:00</published>
   </entry>
 </feed>
