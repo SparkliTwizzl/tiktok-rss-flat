@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-09-15T21:18:48+00:00</updated>
+  <updated>2023-09-16T11:57:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7275080415029759237</id>
-    <title>Jers obsessed with making me work. </title>
-    <updated>2023-09-04T21:07:40+00:00</updated>
-    <content>Jers obsessed with making me work. </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7275080415029759237" rel="alternate"/>
-    <published>2023-09-04T21:07:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7275156430133497094</id>
     <title>Dad mode ✨activated✨</title>
@@ -91,5 +83,13 @@
     <content>It’s been a long few days on the road… #adhd #manchild #marriedlife #funny </content>
     <link href="https://tiktok.com/@thedarcymichael/video/7279165225960508677" rel="alternate"/>
     <published>2023-09-15T21:18:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7279391718015782150</id>
+    <title>Can not believe how much fun we’re having these days. Even Darcy’s enjoying working which is why I added another 10 dates! Thanks Toronto and Ottawa for some great shows. Tonight were in London then the US leg begins next month! See ya soon </title>
+    <updated>2023-09-16T11:57:41+00:00</updated>
+    <content>Can not believe how much fun we’re having these days. Even Darcy’s enjoying working which is why I added another 10 dates! Thanks Toronto and Ottawa for some great shows. Tonight were in London then the US leg begins next month! See ya soon </content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7279391718015782150" rel="alternate"/>
+    <published>2023-09-16T11:57:41+00:00</published>
   </entry>
 </feed>
