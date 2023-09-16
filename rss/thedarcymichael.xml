@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-09-16T11:57:41+00:00</updated>
+  <updated>2023-09-16T20:48:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7275156430133497094</id>
-    <title>Dad mode ✨activated✨</title>
-    <updated>2023-09-05T02:02:38+00:00</updated>
-    <content>Dad mode ✨activated✨</content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7275156430133497094" rel="alternate"/>
-    <published>2023-09-05T02:02:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7275458021726129413</id>
     <title>🙄</title>
@@ -91,5 +83,13 @@
     <content>Can not believe how much fun we’re having these days. Even Darcy’s enjoying working which is why I added another 10 dates! Thanks Toronto and Ottawa for some great shows. Tonight were in London then the US leg begins next month! See ya soon </content>
     <link href="https://tiktok.com/@thedarcymichael/video/7279391718015782150" rel="alternate"/>
     <published>2023-09-16T11:57:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7279528452212985093</id>
+    <title>He pranked… himself?!?</title>
+    <updated>2023-09-16T20:48:19+00:00</updated>
+    <content>He pranked… himself?!?</content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7279528452212985093" rel="alternate"/>
+    <published>2023-09-16T20:48:19+00:00</published>
   </entry>
 </feed>
