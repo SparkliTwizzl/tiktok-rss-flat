@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@hyndsyghts</id>
   <title>@hyndsyghts | TikTok</title>
-  <updated>2023-09-16T19:10:04+00:00</updated>
+  <updated>2023-09-17T01:57:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @hyndsyghts</subtitle>
-  <entry>
-    <id>https://tiktok.com/@hyndsyghts/video/7273879097044929838</id>
-    <title>and that last one would have made it too #actuallyautistic #lgbtq </title>
-    <updated>2023-09-01T15:25:59+00:00</updated>
-    <content>and that last one would have made it too #actuallyautistic #lgbtq </content>
-    <link href="https://tiktok.com/@hyndsyghts/video/7273879097044929838" rel="alternate"/>
-    <published>2023-09-01T15:25:59+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@hyndsyghts/video/7273999004390952238</id>
-    <title>#ootd #lgbtq </title>
-    <updated>2023-09-01T23:11:22+00:00</updated>
-    <content>#ootd #lgbtq </content>
-    <link href="https://tiktok.com/@hyndsyghts/video/7273999004390952238" rel="alternate"/>
-    <published>2023-09-01T23:11:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@hyndsyghts/video/7274264346652413226</id>
     <title>I will always over dress everywhere I go #lgbtq #fashion fit: @Manière De Voir </title>
@@ -91,5 +75,21 @@
     <content>#tubegirl #android </content>
     <link href="https://tiktok.com/@hyndsyghts/video/7279503102326197550" rel="alternate"/>
     <published>2023-09-16T19:10:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@hyndsyghts/video/7279595818334670123</id>
+    <title>recap: came for PVRIS VIP in part 1 #toronto #lgbtq </title>
+    <updated>2023-09-17T01:09:50+00:00</updated>
+    <content>recap: came for PVRIS VIP in part 1 #toronto #lgbtq </content>
+    <link href="https://tiktok.com/@hyndsyghts/video/7279595818334670123" rel="alternate"/>
+    <published>2023-09-17T01:09:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@hyndsyghts/video/7279608042394537258</id>
+    <title>this is a "go piss girl" moment #gremlincore #travel #lgbtq </title>
+    <updated>2023-09-17T01:57:14+00:00</updated>
+    <content>this is a "go piss girl" moment #gremlincore #travel #lgbtq </content>
+    <link href="https://tiktok.com/@hyndsyghts/video/7279608042394537258" rel="alternate"/>
+    <published>2023-09-17T01:57:14+00:00</published>
   </entry>
 </feed>
