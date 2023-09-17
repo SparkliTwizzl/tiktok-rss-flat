@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-09-15T20:21:16+00:00</updated>
+  <updated>2023-09-17T20:01:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7274279758995803434</id>
-    <title>Let your inner kiddo play today. #fyp #trans </title>
-    <updated>2023-09-02T17:20:52+00:00</updated>
-    <content>Let your inner kiddo play today. #fyp #trans </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7274279758995803434" rel="alternate"/>
-    <published>2023-09-02T17:20:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7275766092310531371</id>
     <title>Just being honest and ranting, laughing at myself cause I don't know what else to do. 🤣🤣🤣 #fyp #trans </title>
@@ -91,5 +83,13 @@
     <content>Sober from alcohol for almost 3 years, and I feel the difference. I was slowly killing myself with it, and when I stopped, it took a while for everything to stop hurting too. But, it's getting better. The main focus is today, and that's all we can do. Love yourself in the making. And don't forget to be human.  #fyp #trans </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7279150360457907502" rel="alternate"/>
     <published>2023-09-15T20:21:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7279887328573771051</id>
+    <title>Be Human. #fyp </title>
+    <updated>2023-09-17T20:01:08+00:00</updated>
+    <content>Be Human. #fyp </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7279887328573771051" rel="alternate"/>
+    <published>2023-09-17T20:01:08+00:00</published>
   </entry>
 </feed>
