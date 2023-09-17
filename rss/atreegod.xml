@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@atreegod</id>
   <title>@atreegod | TikTok</title>
-  <updated>2023-09-14T05:23:42+00:00</updated>
+  <updated>2023-09-17T14:35:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @atreegod</subtitle>
-  <entry>
-    <id>https://tiktok.com/@atreegod/video/7275384610366721326</id>
-    <title>Fit check for errand day #wlw #lgbtq </title>
-    <updated>2023-09-05T16:48:12+00:00</updated>
-    <content>Fit check for errand day #wlw #lgbtq </content>
-    <link href="https://tiktok.com/@atreegod/video/7275384610366721326" rel="alternate"/>
-    <published>2023-09-05T16:48:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@atreegod/video/7275459801226775851</id>
     <title>Dont mind lailas butt #wlw #lgbtq </title>
@@ -91,5 +83,13 @@
     <content>Starion lighting different #wlw #lgbtq </content>
     <link href="https://tiktok.com/@atreegod/video/7278547982990216494" rel="alternate"/>
     <published>2023-09-14T05:23:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7279803462676663595</id>
+    <title>Evvy: A Metropolitan Collection #lgbtq #wlw #nyc #themet @E </title>
+    <updated>2023-09-17T14:35:44+00:00</updated>
+    <content>Evvy: A Metropolitan Collection #lgbtq #wlw #nyc #themet @E </content>
+    <link href="https://tiktok.com/@atreegod/video/7279803462676663595" rel="alternate"/>
+    <published>2023-09-17T14:35:44+00:00</published>
   </entry>
 </feed>
