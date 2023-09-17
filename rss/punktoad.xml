@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-09-16T11:58:13+00:00</updated>
+  <updated>2023-09-17T13:00:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7275717249602719019</id>
-    <title>So gooood #onthisday </title>
-    <updated>2023-09-06T14:18:59+00:00</updated>
-    <content>So gooood #onthisday </content>
-    <link href="https://tiktok.com/@punktoad/video/7275717249602719019" rel="alternate"/>
-    <published>2023-09-06T14:18:59+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7276238457645665578</id>
     <title>I will not explain the mood I am currently in </title>
@@ -91,5 +83,13 @@
     <content>Hobbit/Hobbitses, please </content>
     <link href="https://tiktok.com/@punktoad/video/7279391751217876255" rel="alternate"/>
     <published>2023-09-16T11:58:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7279778834860346655</id>
+    <title>This was fun to make and @Thoren Bradley is a fantastic creator. </title>
+    <updated>2023-09-17T13:00:20+00:00</updated>
+    <content>This was fun to make and @Thoren Bradley is a fantastic creator. </content>
+    <link href="https://tiktok.com/@punktoad/video/7279778834860346655" rel="alternate"/>
+    <published>2023-09-17T13:00:20+00:00</published>
   </entry>
 </feed>

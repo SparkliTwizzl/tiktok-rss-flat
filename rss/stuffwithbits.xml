@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-09-15T23:01:51+00:00</updated>
+  <updated>2023-09-17T17:09:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7278087493919001899</id>
-    <title>#solardidsystem #ssquinn #dissociativeidentitydisorder </title>
-    <updated>2023-09-12T23:36:45+00:00</updated>
-    <content>#solardidsystem #ssquinn #dissociativeidentitydisorder </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7278087493919001899" rel="alternate"/>
-    <published>2023-09-12T23:36:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7278157229700861230</id>
     <title>We're also really good at over explaining the same thing in different ways so it sounds like we know more than we do. This video is a great example of that actually. Was there a point to this? Probably not but to be very honest I'm not sure. 99% of our co</title>
@@ -91,5 +83,13 @@
     <content>#stitch with @timmuhz I am never comfortable in this body. Something is always noticeable. #solardidsystem #ssquinn </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7279191752764951854" rel="alternate"/>
     <published>2023-09-15T23:01:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7279843058475109674</id>
+    <title>I'm so tired #solardidsystem #ssquinn #food #eating </title>
+    <updated>2023-09-17T17:09:15+00:00</updated>
+    <content>I'm so tired #solardidsystem #ssquinn #food #eating </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7279843058475109674" rel="alternate"/>
+    <published>2023-09-17T17:09:15+00:00</published>
   </entry>
 </feed>
