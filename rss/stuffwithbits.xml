@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-09-17T20:51:46+00:00</updated>
+  <updated>2023-09-18T18:21:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7278384843136847146</id>
-    <title>I hate my role #ssquinn #solardidsystem #dissociativeidentitydisorder </title>
-    <updated>2023-09-13T18:50:47+00:00</updated>
-    <content>I hate my role #ssquinn #solardidsystem #dissociativeidentitydisorder </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7278384843136847146" rel="alternate"/>
-    <published>2023-09-13T18:50:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7278468383245634862</id>
-    <title>Can we please just leave each other alone? #solardidsystem #ssquinn #systok #systemtok #didcommunity </title>
-    <updated>2023-09-14T00:14:48+00:00</updated>
-    <content>Can we please just leave each other alone? #solardidsystem #ssquinn #systok #systemtok #didcommunity </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7278468383245634862" rel="alternate"/>
-    <published>2023-09-14T00:14:48+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7278688401048751406</id>
-    <title>Reupload because it's not working for some people #solardidsystem #ssquinn #dissociativeidentitydisorder </title>
-    <updated>2023-09-14T14:28:50+00:00</updated>
-    <content>Reupload because it's not working for some people #solardidsystem #ssquinn #dissociativeidentitydisorder </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7278688401048751406" rel="alternate"/>
-    <published>2023-09-14T14:28:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7278717749491207467</id>
     <title>[no title]</title>
@@ -91,5 +67,29 @@
     <content>Moving from manic to scared #solardidsystem #ssquinn </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7279900404370935083" rel="alternate"/>
     <published>2023-09-17T20:51:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7280218776937844011</id>
+    <title>#solardidsystem #ssquinn </title>
+    <updated>2023-09-18T17:27:23+00:00</updated>
+    <content>#solardidsystem #ssquinn </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7280218776937844011" rel="alternate"/>
+    <published>2023-09-18T17:27:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7280228337463708971</id>
+    <title>I see you #solardidsystem #ssquinn </title>
+    <updated>2023-09-18T18:04:27+00:00</updated>
+    <content>I see you #solardidsystem #ssquinn </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7280228337463708971" rel="alternate"/>
+    <published>2023-09-18T18:04:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7280232787502796075</id>
+    <title>[no title]</title>
+    <updated>2023-09-18T18:21:41+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7280232787502796075" rel="alternate"/>
+    <published>2023-09-18T18:21:41+00:00</published>
   </entry>
 </feed>
