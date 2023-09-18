@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jacobtheseahorse</id>
   <title>@jacobtheseahorse | TikTok</title>
-  <updated>2023-09-16T18:32:45+00:00</updated>
+  <updated>2023-09-18T12:47:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jacobtheseahorse</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7278620502237777185</id>
-    <title>it literally took me less than 10 minutes to fill out and I was doing other things at the same time! #survey #reproductivehealth #transpregnancy #pregnancy #birth #contraception #study </title>
-    <updated>2023-09-14T10:05:04+00:00</updated>
-    <content>it literally took me less than 10 minutes to fill out and I was doing other things at the same time! #survey #reproductivehealth #transpregnancy #pregnancy #birth #contraception #study </content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7278620502237777185" rel="alternate"/>
-    <published>2023-09-14T10:05:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jacobtheseahorse/video/7278637412304063776</id>
     <title>Replying to @andreea_me1 you can see the moment that my compassion kicks in.  I have a revulsion response to patriarchy and sexism. but when it's being upheld by the people hurt by it I mainly feel sad.  although, it's telling that if you had the power yo</title>
@@ -91,5 +83,13 @@
     <content>Replying to @smashpar  #trans #is #beautiful </content>
     <link href="https://tiktok.com/@jacobtheseahorse/video/7279493506475789601" rel="alternate"/>
     <published>2023-09-16T18:32:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7280146776756096289</id>
+    <title>this sound is iconic, follow the sound link to find the original creator as she's fab #autism #actuallyautistic #trans #queer</title>
+    <updated>2023-09-18T12:47:48+00:00</updated>
+    <content>this sound is iconic, follow the sound link to find the original creator as she's fab #autism #actuallyautistic #trans #queer</content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7280146776756096289" rel="alternate"/>
+    <published>2023-09-18T12:47:48+00:00</published>
   </entry>
 </feed>
