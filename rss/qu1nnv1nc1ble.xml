@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@qu1nnv1nc1ble</id>
   <title>@qu1nnv1nc1ble | TikTok</title>
-  <updated>2023-09-17T04:52:45+00:00</updated>
+  <updated>2023-09-17T21:58:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @qu1nnv1nc1ble</subtitle>
-  <entry>
-    <id>https://tiktok.com/@qu1nnv1nc1ble/video/7277289709028543787</id>
-    <title>Erasing me wont make your girl want me any less my guy 🤷</title>
-    <updated>2023-09-10T20:00:54+00:00</updated>
-    <content>Erasing me wont make your girl want me any less my guy 🤷</content>
-    <link href="https://tiktok.com/@qu1nnv1nc1ble/video/7277289709028543787" rel="alternate"/>
-    <published>2023-09-10T20:00:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@qu1nnv1nc1ble/video/7277719662455049514</id>
     <title>I like this outfit  🖤 | #outfitchecks #slowreveal #trending </title>
@@ -91,5 +83,13 @@
     <content>#newchapter </content>
     <link href="https://tiktok.com/@qu1nnv1nc1ble/video/7279653245155396906" rel="alternate"/>
     <published>2023-09-17T04:52:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@qu1nnv1nc1ble/video/7279917718034205994</id>
+    <title>✖️💉✖️| #transmasculine #transmasc #transgenderftm #ftm #phonky #lighting #darkaesthetic #pan #poly #demi </title>
+    <updated>2023-09-17T21:58:56+00:00</updated>
+    <content>✖️💉✖️| #transmasculine #transmasc #transgenderftm #ftm #phonky #lighting #darkaesthetic #pan #poly #demi </content>
+    <link href="https://tiktok.com/@qu1nnv1nc1ble/video/7279917718034205994" rel="alternate"/>
+    <published>2023-09-17T21:58:56+00:00</published>
   </entry>
 </feed>
