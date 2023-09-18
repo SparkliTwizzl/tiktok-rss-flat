@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-09-16T19:03:00+00:00</updated>
+  <updated>2023-09-17T15:29:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7276537455061372206</id>
-    <title>Pov: a group of knights stumble on fairies 🍃✨  Knights are @Bella LeBaron and @𝐊𝐢𝐤𝐢 𝐌𝐨𝐫𝐚 and the fairies are @Raine Emery @🦊prototype fox @✨TheKurliGirli✨   #ladyknight #knight #knightcosplay #knightcore #fantasy #fantasycosplay </title>
-    <updated>2023-09-08T19:21:47+00:00</updated>
-    <content>Pov: a group of knights stumble on fairies 🍃✨  Knights are @Bella LeBaron and @𝐊𝐢𝐤𝐢 𝐌𝐨𝐫𝐚 and the fairies are @Raine Emery @🦊prototype fox @✨TheKurliGirli✨   #ladyknight #knight #knightcosplay #knightcore #fantasy #fantasycosplay </content>
-    <link href="https://tiktok.com/@athena__cos/video/7276537455061372206" rel="alternate"/>
-    <published>2023-09-08T19:21:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7276936383602756907</id>
     <title>I discovered i do not wear a lot of different colored cosplays while trying to put this together 😂 the other majority color was “black” </title>
@@ -91,5 +83,13 @@
     <content>One eye was giving “possessed goat” #genshinimpact #kirara #kiraracosplay #catgirl #cosplay </content>
     <link href="https://tiktok.com/@athena__cos/video/7279501288373505326" rel="alternate"/>
     <published>2023-09-16T19:03:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7279817334569667883</id>
+    <title>Thank tou to @Sparta Training for the weapons! They were able to customize my stunt sword and shield to look like Wonder Womans and it is beautiful! The quality was perfect and as you can see @Bella LeBaron and i had a blast  #stunt #stuntweapon #fightcho</title>
+    <updated>2023-09-17T15:29:28+00:00</updated>
+    <content>Thank tou to @Sparta Training for the weapons! They were able to customize my stunt sword and shield to look like Wonder Womans and it is beautiful! The quality was perfect and as you can see @Bella LeBaron and i had a blast  #stunt #stuntweapon #fightchoreography </content>
+    <link href="https://tiktok.com/@athena__cos/video/7279817334569667883" rel="alternate"/>
+    <published>2023-09-17T15:29:28+00:00</published>
   </entry>
 </feed>
