@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@addalheid</id>
   <title>@addalheid | TikTok</title>
-  <updated>2023-09-17T10:30:07+00:00</updated>
+  <updated>2023-09-18T11:21:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @addalheid</subtitle>
-  <entry>
-    <id>https://tiktok.com/@addalheid/video/7260242043828571419</id>
-    <title>[no title]</title>
-    <updated>2023-07-26T21:27:14+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@addalheid/video/7260242043828571419" rel="alternate"/>
-    <published>2023-07-26T21:27:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@addalheid/video/7267632554054815009</id>
     <title>[no title]</title>
@@ -91,5 +83,13 @@
     <content>If i was your boyfriend 🫡</content>
     <link href="https://tiktok.com/@addalheid/video/7279740215294545185" rel="alternate"/>
     <published>2023-09-17T10:30:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@addalheid/video/7280124497628335392</id>
+    <title>😅</title>
+    <updated>2023-09-18T11:21:25+00:00</updated>
+    <content>😅</content>
+    <link href="https://tiktok.com/@addalheid/video/7280124497628335392" rel="alternate"/>
+    <published>2023-09-18T11:21:25+00:00</published>
   </entry>
 </feed>
