@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@liil.dork.alex</id>
   <title>@liil.dork.alex | TikTok</title>
-  <updated>2023-09-19T03:31:50+00:00</updated>
+  <updated>2023-09-16T03:15:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @liil.dork.alex</subtitle>
+  <entry>
+    <id>https://tiktok.com/@liil.dork.alex/video/7274067108332391726</id>
+    <title>Talk 2 me girl </title>
+    <updated>2023-09-02T03:35:37+00:00</updated>
+    <content>Talk 2 me girl </content>
+    <link href="https://tiktok.com/@liil.dork.alex/video/7274067108332391726" rel="alternate"/>
+    <published>2023-09-02T03:35:37+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@liil.dork.alex/video/7275108948938738990</id>
     <title>They dont do it like me 🤠</title>
@@ -83,13 +91,5 @@
     <content>The bass in this song is fantastic 🤌🏼✨</content>
     <link href="https://tiktok.com/@liil.dork.alex/video/7279257211627523359" rel="alternate"/>
     <published>2023-09-16T03:15:58+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@liil.dork.alex/video/7280374563320401182</id>
-    <title>Flash ⚠️ ⚠️ ⚠️ </title>
-    <updated>2023-09-19T03:31:50+00:00</updated>
-    <content>Flash ⚠️ ⚠️ ⚠️ </content>
-    <link href="https://tiktok.com/@liil.dork.alex/video/7280374563320401182" rel="alternate"/>
-    <published>2023-09-19T03:31:50+00:00</published>
   </entry>
 </feed>
