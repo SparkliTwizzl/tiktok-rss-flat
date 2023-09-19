@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-09-19T16:02:12+00:00</updated>
+  <updated>2023-09-19T20:02:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7278022900060261678</id>
-    <title>@joshua made me see it and now i can’t unsee it 😂 #catgirl #nya #gymtok </title>
-    <updated>2023-09-12T19:26:10+00:00</updated>
-    <content>@joshua made me see it and now i can’t unsee it 😂 #catgirl #nya #gymtok </content>
-    <link href="https://tiktok.com/@athena__cos/video/7278022900060261678" rel="alternate"/>
-    <published>2023-09-12T19:26:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7278352267890249006</id>
     <title>Sun and Moon encapsulates us so well @Bella LeBaron   #sun #moon #duo </title>
@@ -91,5 +83,13 @@
     <content>Manifesting powerful catgirl energy 🖤🤍  #yinyang #catgirl #techwear #catgirls @Jackie O </content>
     <link href="https://tiktok.com/@athena__cos/video/7280567942767512875" rel="alternate"/>
     <published>2023-09-19T16:02:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7280629743131839790</id>
+    <title>@🦊prototype fox chose such a cute dance!! I was terrified my cosplay would rip 😂 #genshinimpact #genshincosplay #kiraragenshin #kiraracosplay </title>
+    <updated>2023-09-19T20:02:00+00:00</updated>
+    <content>@🦊prototype fox chose such a cute dance!! I was terrified my cosplay would rip 😂 #genshinimpact #genshincosplay #kiraragenshin #kiraracosplay </content>
+    <link href="https://tiktok.com/@athena__cos/video/7280629743131839790" rel="alternate"/>
+    <published>2023-09-19T20:02:00+00:00</published>
   </entry>
 </feed>
