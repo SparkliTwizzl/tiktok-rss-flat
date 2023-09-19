@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jacobtheseahorse</id>
   <title>@jacobtheseahorse | TikTok</title>
-  <updated>2023-09-18T18:01:30+00:00</updated>
+  <updated>2023-09-19T12:55:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jacobtheseahorse</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7278718629187783969</id>
-    <title>Replying to @lucycousins6 cool question!  ultimately most humans will respond in a similar way to high levels of testosterone or estrogen the exception would be some intersex people who have androgen insensitivity or similar #trans #hormones #bald #hairlo</title>
-    <updated>2023-09-14T16:25:47+00:00</updated>
-    <content>Replying to @lucycousins6 cool question!  ultimately most humans will respond in a similar way to high levels of testosterone or estrogen the exception would be some intersex people who have androgen insensitivity or similar #trans #hormones #bald #hairloss #testosterone </content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7278718629187783969" rel="alternate"/>
-    <published>2023-09-14T16:25:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jacobtheseahorse/video/7278749241709825313</id>
     <title>come see me at the modern family show! London  23rd September 2023 I'll be there all day answering questions and being available for people. I would love to see you there! #themodernfamilyshow #modernfamily #advocate #transparenting #seahorse </title>
@@ -91,5 +83,13 @@
     <content>[not an ad!] I was so excited to see these in Aldi and especially excited when I saw the price! let me know if you want me to do a deep dive or read excerpts, from what I've seen they're fab 🏳️‍⚧️🏳️‍🌈 #trans #lgbt #blm #disabilitytiktok #diversity #families #books #kidsbooks #booktok </content>
     <link href="https://tiktok.com/@jacobtheseahorse/video/7280227631256145184" rel="alternate"/>
     <published>2023-09-18T18:01:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7280519834650053920</id>
+    <title>if you have ideas of where I can host this kind of content please let me know I think it's really valuable to normalise trans bodies, especially within birthwork and also outside of corn material. my mailing list is the best place to get updates, find it </title>
+    <updated>2023-09-19T12:55:23+00:00</updated>
+    <content>if you have ideas of where I can host this kind of content please let me know I think it's really valuable to normalise trans bodies, especially within birthwork and also outside of corn material. my mailing list is the best place to get updates, find it in my shmink in shmio #trans #birth #birthphotography #transpregnancy #lgbt #of #buymeacoffee #smallbusinessowner </content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7280519834650053920" rel="alternate"/>
+    <published>2023-09-19T12:55:23+00:00</published>
   </entry>
 </feed>
