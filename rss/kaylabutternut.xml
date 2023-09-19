@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-09-17T23:34:40+00:00</updated>
+  <updated>2023-09-19T17:56:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7276248303581383979</id>
-    <title>Replying to @Patrick R do you agree or should i have chosen fishnets </title>
-    <updated>2023-09-08T00:39:43+00:00</updated>
-    <content>Replying to @Patrick R do you agree or should i have chosen fishnets </content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7276248303581383979" rel="alternate"/>
-    <published>2023-09-08T00:39:43+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7277731349035863338</id>
     <title>Even after months, this sound still sticks with me </title>
@@ -91,5 +83,13 @@
     <content>They should make doing this in heels an Olympic event </content>
     <link href="https://tiktok.com/@kaylabutternut/video/7279942368592252203" rel="alternate"/>
     <published>2023-09-17T23:34:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7280597372110081326</id>
+    <title>I need a sandwich I’m hungry</title>
+    <updated>2023-09-19T17:56:23+00:00</updated>
+    <content>I need a sandwich I’m hungry</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7280597372110081326" rel="alternate"/>
+    <published>2023-09-19T17:56:23+00:00</published>
   </entry>
 </feed>
