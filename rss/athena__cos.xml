@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-09-18T20:05:03+00:00</updated>
+  <updated>2023-09-19T16:02:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7277635862333033770</id>
-    <title>Transition by @梓緋 ZiFei !! This is probably one of my new favorite AOT vids now </title>
-    <updated>2023-09-11T18:24:19+00:00</updated>
-    <content>Transition by @梓緋 ZiFei !! This is probably one of my new favorite AOT vids now </content>
-    <link href="https://tiktok.com/@athena__cos/video/7277635862333033770" rel="alternate"/>
-    <published>2023-09-11T18:24:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7278022900060261678</id>
     <title>@joshua made me see it and now i can’t unsee it 😂 #catgirl #nya #gymtok </title>
@@ -91,5 +83,13 @@
     <content>☯️ tried on our cat girls today and noticed something… #satarougojo #sugurugeto #yinyang </content>
     <link href="https://tiktok.com/@athena__cos/video/7280259428853632302" rel="alternate"/>
     <published>2023-09-18T20:05:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7280567942767512875</id>
+    <title>Manifesting powerful catgirl energy 🖤🤍  #yinyang #catgirl #techwear #catgirls @Jackie O </title>
+    <updated>2023-09-19T16:02:12+00:00</updated>
+    <content>Manifesting powerful catgirl energy 🖤🤍  #yinyang #catgirl #techwear #catgirls @Jackie O </content>
+    <link href="https://tiktok.com/@athena__cos/video/7280567942767512875" rel="alternate"/>
+    <published>2023-09-19T16:02:12+00:00</published>
   </entry>
 </feed>
