@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pinkmantaray</id>
   <title>@pinkmantaray | TikTok</title>
-  <updated>2023-09-19T01:52:36+00:00</updated>
+  <updated>2023-09-19T20:25:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @pinkmantaray</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pinkmantaray/video/7274369606276500766</id>
-    <title>Replying to @John Roach #transgender #trans #hatecomments </title>
-    <updated>2023-09-02T23:09:37+00:00</updated>
-    <content>Replying to @John Roach #transgender #trans #hatecomments </content>
-    <link href="https://tiktok.com/@pinkmantaray/video/7274369606276500766" rel="alternate"/>
-    <published>2023-09-02T23:09:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pinkmantaray/video/7277271806225009950</id>
     <title>Some thoughts after swimming as a trans man #transgender #trans #transathlete #transswimmer #speedo </title>
@@ -91,5 +83,13 @@
     <content>Replying to @💅🏻 Schuyler's chronicles of body hair! #transgender #bodyhair #chesthair #testosterone #hrt </content>
     <link href="https://tiktok.com/@pinkmantaray/video/7280349006788644139" rel="alternate"/>
     <published>2023-09-19T01:52:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pinkmantaray/video/7280635785857010975</id>
+    <title>Last month I visited Transcending Adolescence down in Florida and what a wonderful experience it was! #transgender #transkids #genderaffirming </title>
+    <updated>2023-09-19T20:25:23+00:00</updated>
+    <content>Last month I visited Transcending Adolescence down in Florida and what a wonderful experience it was! #transgender #transkids #genderaffirming </content>
+    <link href="https://tiktok.com/@pinkmantaray/video/7280635785857010975" rel="alternate"/>
+    <published>2023-09-19T20:25:23+00:00</published>
   </entry>
 </feed>
