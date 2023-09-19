@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@hyndsyghts</id>
   <title>@hyndsyghts | TikTok</title>
-  <updated>2023-09-17T23:32:38+00:00</updated>
+  <updated>2023-09-19T01:55:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @hyndsyghts</subtitle>
-  <entry>
-    <id>https://tiktok.com/@hyndsyghts/video/7277386927072873771</id>
-    <title>might as well get over it instead of worrying about judgment from boring &amp; insecure people #lgbtq </title>
-    <updated>2023-09-11T02:18:11+00:00</updated>
-    <content>might as well get over it instead of worrying about judgment from boring &amp; insecure people #lgbtq </content>
-    <link href="https://tiktok.com/@hyndsyghts/video/7277386927072873771" rel="alternate"/>
-    <published>2023-09-11T02:18:11+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@hyndsyghts/video/7278093231349468462</id>
     <title>of course change is hard until it's not anymore. that's what growth is #lgbtq #growth #tubegirl </title>
@@ -91,5 +83,13 @@
     <content>the rbf vlog #travel #toronto #lgbtq </content>
     <link href="https://tiktok.com/@hyndsyghts/video/7279941845851950378" rel="alternate"/>
     <published>2023-09-17T23:32:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@hyndsyghts/video/7280349701478649130</id>
+    <title>I think that this is a trap that a lot of people find themselves in especially AFAB #lgbtq </title>
+    <updated>2023-09-19T01:55:17+00:00</updated>
+    <content>I think that this is a trap that a lot of people find themselves in especially AFAB #lgbtq </content>
+    <link href="https://tiktok.com/@hyndsyghts/video/7280349701478649130" rel="alternate"/>
+    <published>2023-09-19T01:55:17+00:00</published>
   </entry>
 </feed>
