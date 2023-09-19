@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-09-17T15:29:28+00:00</updated>
+  <updated>2023-09-18T20:05:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7276936383602756907</id>
-    <title>I discovered i do not wear a lot of different colored cosplays while trying to put this together 😂 the other majority color was “black” </title>
-    <updated>2023-09-09T21:09:54+00:00</updated>
-    <content>I discovered i do not wear a lot of different colored cosplays while trying to put this together 😂 the other majority color was “black” </content>
-    <link href="https://tiktok.com/@athena__cos/video/7276936383602756907" rel="alternate"/>
-    <published>2023-09-09T21:09:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7277255156083772714</id>
-    <title>Witchy vibes for spooky season ONLY #spookyseason #witchyvibes #witchaesthetic #halloween #fall #coven @Bella LeBaron @𝐊𝐢𝐤𝐢 𝐌𝐨𝐫𝐚 @🦊prototype fox @Raine Emery @✨TheKurliGirli✨ </title>
-    <updated>2023-09-10T17:46:54+00:00</updated>
-    <content>Witchy vibes for spooky season ONLY #spookyseason #witchyvibes #witchaesthetic #halloween #fall #coven @Bella LeBaron @𝐊𝐢𝐤𝐢 𝐌𝐨𝐫𝐚 @🦊prototype fox @Raine Emery @✨TheKurliGirli✨ </content>
-    <link href="https://tiktok.com/@athena__cos/video/7277255156083772714" rel="alternate"/>
-    <published>2023-09-10T17:46:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7277635862333033770</id>
     <title>Transition by @梓緋 ZiFei !! This is probably one of my new favorite AOT vids now </title>
@@ -91,5 +75,21 @@
     <content>Thank tou to @Sparta Training for the weapons! They were able to customize my stunt sword and shield to look like Wonder Womans and it is beautiful! The quality was perfect and as you can see @Bella LeBaron and i had a blast  #stunt #stuntweapon #fightchoreography </content>
     <link href="https://tiktok.com/@athena__cos/video/7279817334569667883" rel="alternate"/>
     <published>2023-09-17T15:29:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7280197465410637102</id>
+    <title>I didn’t expect to love Kirara as much as i do 😍 thank you @CosFun for sending me this cosplay!! #kirara #genshinimpact #kiraracosplay #catgirl #genshinimpactcosplay </title>
+    <updated>2023-09-18T16:04:37+00:00</updated>
+    <content>I didn’t expect to love Kirara as much as i do 😍 thank you @CosFun for sending me this cosplay!! #kirara #genshinimpact #kiraracosplay #catgirl #genshinimpactcosplay </content>
+    <link href="https://tiktok.com/@athena__cos/video/7280197465410637102" rel="alternate"/>
+    <published>2023-09-18T16:04:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7280259428853632302</id>
+    <title>☯️ tried on our cat girls today and noticed something… #satarougojo #sugurugeto #yinyang </title>
+    <updated>2023-09-18T20:05:03+00:00</updated>
+    <content>☯️ tried on our cat girls today and noticed something… #satarougojo #sugurugeto #yinyang </content>
+    <link href="https://tiktok.com/@athena__cos/video/7280259428853632302" rel="alternate"/>
+    <published>2023-09-18T20:05:03+00:00</published>
   </entry>
 </feed>
