@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jacobtheseahorse</id>
   <title>@jacobtheseahorse | TikTok</title>
-  <updated>2023-09-19T22:22:59+00:00</updated>
+  <updated>2023-09-20T19:56:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jacobtheseahorse</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7278758928417115425</id>
-    <title>Replying to @juicycherrylucy darn it!  all sorted now. it's amazing what testosterone does #trans #testosterone #hormones #2yearsontestosterone #13years </title>
-    <updated>2023-09-14T19:02:11+00:00</updated>
-    <content>Replying to @juicycherrylucy darn it!  all sorted now. it's amazing what testosterone does #trans #testosterone #hormones #2yearsontestosterone #13years </content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7278758928417115425" rel="alternate"/>
-    <published>2023-09-14T19:02:11+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7278994966787984673</id>
-    <title>Replying to @who.tf.is.lou thank you for asking, I bet there's so many people who would appreciate hearing this too #smear #smeartest #cervical #healthcare #papsmear </title>
-    <updated>2023-09-15T10:18:12+00:00</updated>
-    <content>Replying to @who.tf.is.lou thank you for asking, I bet there's so many people who would appreciate hearing this too #smear #smeartest #cervical #healthcare #papsmear </content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7278994966787984673" rel="alternate"/>
-    <published>2023-09-15T10:18:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jacobtheseahorse/video/7279065486795525408</id>
     <title>Replying to @loubowers3 great question! testosterone won't stop a pregnancy but for many people while they're taking it they wouldn't be able to get pregnant. for lots of reasons it's important to stop testosterone if you're wanting to get pregnant #testo</title>
@@ -91,5 +75,21 @@
     <content>Replying to @riojarose I was raised by my grandparents and was never given a clear explanation as to why. for that reason it's so important to me that I give clear, understandable information to my kids. #trans #transparent #gentleparent #loved #honest </content>
     <link href="https://tiktok.com/@jacobtheseahorse/video/7280666082136870177" rel="alternate"/>
     <published>2023-09-19T22:22:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7280988900217130273</id>
+    <title>Replying to @sunrise_sam ah there it is. it doesn't usually take long for the true colours to show. cis is not a harmful term, it just means "not-trans", the pushback against it is entirely driven by transphobia #cis #trans #honesty #queer #lgbt #queertok</title>
+    <updated>2023-09-20T19:15:36+00:00</updated>
+    <content>Replying to @sunrise_sam ah there it is. it doesn't usually take long for the true colours to show. cis is not a harmful term, it just means "not-trans", the pushback against it is entirely driven by transphobia #cis #trans #honesty #queer #lgbt #queertok </content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7280988900217130273" rel="alternate"/>
+    <published>2023-09-20T19:15:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7280999388493745440</id>
+    <title>Replying to @sunrise_sam 🥲 it really hurts your feelings when you attack a marginalised group and allies are there to protect them.  thanks to the #ally that got this response. I see your comments and I value your support</title>
+    <updated>2023-09-20T19:56:19+00:00</updated>
+    <content>Replying to @sunrise_sam 🥲 it really hurts your feelings when you attack a marginalised group and allies are there to protect them.  thanks to the #ally that got this response. I see your comments and I value your support</content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7280999388493745440" rel="alternate"/>
+    <published>2023-09-20T19:56:19+00:00</published>
   </entry>
 </feed>
