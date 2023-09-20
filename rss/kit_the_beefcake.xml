@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kit_the_beefcake</id>
   <title>@kit_the_beefcake | TikTok</title>
-  <updated>2023-09-20T05:04:21+00:00</updated>
+  <updated>2023-09-20T14:21:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -61,14 +61,6 @@
     <published>2023-09-16T00:51:01+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7279327542618803502</id>
-    <title>#tubegirl #tubegirleffect </title>
-    <updated>2023-09-16T07:49:06+00:00</updated>
-    <content>#tubegirl #tubegirleffect </content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7279327542618803502" rel="alternate"/>
-    <published>2023-09-16T07:49:06+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7279908015606746399</id>
     <title>[no title]</title>
     <updated>2023-09-17T21:21:26+00:00</updated>
@@ -85,11 +77,19 @@
     <published>2023-09-18T13:11:02+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7280769510796266795</id>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7280788404747521322</id>
     <title>[no title]</title>
-    <updated>2023-09-20T05:04:21+00:00</updated>
+    <updated>2023-09-20T06:17:44+00:00</updated>
     <content>[no description]</content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7280769510796266795" rel="alternate"/>
-    <published>2023-09-20T05:04:21+00:00</published>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7280788404747521322" rel="alternate"/>
+    <published>2023-09-20T06:17:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7280913023424859435</id>
+    <title>[no title]</title>
+    <updated>2023-09-20T14:21:16+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7280913023424859435" rel="alternate"/>
+    <published>2023-09-20T14:21:16+00:00</published>
   </entry>
 </feed>
