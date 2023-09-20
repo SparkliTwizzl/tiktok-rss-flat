@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kamehalani</id>
   <title>@kamehalani | TikTok</title>
-  <updated>2023-09-19T00:26:34+00:00</updated>
+  <updated>2023-09-18T20:57:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kamehalani</subtitle>
+  <entry>
+    <id>https://tiktok.com/@kamehalani/video/7275770772356926766</id>
+    <title>Replying to @Timmmayyyy #kanaka #nativetiktok #hawaii #hawaiian #nativehawaiian #hawaiitiktok #maui </title>
+    <updated>2023-09-06T17:46:38+00:00</updated>
+    <content>Replying to @Timmmayyyy #kanaka #nativetiktok #hawaii #hawaiian #nativehawaiian #hawaiitiktok #maui </content>
+    <link href="https://tiktok.com/@kamehalani/video/7275770772356926766" rel="alternate"/>
+    <published>2023-09-06T17:46:38+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@kamehalani/video/7276688002267516203</id>
     <title>And id have two tattoos and a million memories and spiderman to remind me. </title>
@@ -83,13 +91,5 @@
     <content>Replying to @user252072 my people are so smart. #kanaka #nativetiktok #hawaii #nativetiktok #hawaiitiktok #nativehawaiian #polynesian </content>
     <link href="https://tiktok.com/@kamehalani/video/7280273046680685866" rel="alternate"/>
     <published>2023-09-18T20:57:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kamehalani/video/7280326826067512619</id>
-    <title>Its actually really good and really affordable! #kimchichicbeauty </title>
-    <updated>2023-09-19T00:26:34+00:00</updated>
-    <content>Its actually really good and really affordable! #kimchichicbeauty </content>
-    <link href="https://tiktok.com/@kamehalani/video/7280326826067512619" rel="alternate"/>
-    <published>2023-09-19T00:26:34+00:00</published>
   </entry>
 </feed>
