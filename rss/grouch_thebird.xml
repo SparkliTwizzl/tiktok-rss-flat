@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@grouch_thebird</id>
   <title>@grouch_thebird | TikTok</title>
-  <updated>2023-09-16T01:47:01+00:00</updated>
+  <updated>2023-09-20T17:36:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @grouch_thebird</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grouch_thebird/video/7274093274812435755</id>
-    <title>just your average green haired individual </title>
-    <updated>2023-09-02T05:17:19+00:00</updated>
-    <content>just your average green haired individual </content>
-    <link href="https://tiktok.com/@grouch_thebird/video/7274093274812435755" rel="alternate"/>
-    <published>2023-09-02T05:17:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grouch_thebird/video/7274110106332073259</id>
     <title>Crazy? I was crazy once. They locked me in a room. A rubber room. A rubber room with rats. And rats make me crazy. Crazy? I was crazy once. They locked me in a room. A rubber room. A rubber room with rats. And rats make me crazy. Crazy? I was crazy once. </title>
@@ -91,5 +83,13 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@grouch_thebird/video/7279234276804021546" rel="alternate"/>
     <published>2023-09-16T01:47:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grouch_thebird/video/7280963219160616238</id>
+    <title>[no title]</title>
+    <updated>2023-09-20T17:36:02+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@grouch_thebird/video/7280963219160616238" rel="alternate"/>
+    <published>2023-09-20T17:36:02+00:00</published>
   </entry>
 </feed>
