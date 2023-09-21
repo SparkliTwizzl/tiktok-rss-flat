@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-09-20T05:27:59+00:00</updated>
+  <updated>2023-09-21T02:31:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7278471421343370542</id>
-    <title>I still can’t find the phone</title>
-    <updated>2023-09-14T00:26:32+00:00</updated>
-    <content>I still can’t find the phone</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7278471421343370542" rel="alternate"/>
-    <published>2023-09-14T00:26:32+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7278539872510512427</id>
     <title>Ok but what kind of tequila </title>
@@ -91,5 +83,13 @@
     <content>Sleep schedule who</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7280775587269070122" rel="alternate"/>
     <published>2023-09-20T05:27:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7281101180414053674</id>
+    <title>Why would they invent heels like this they’re not for walking</title>
+    <updated>2023-09-21T02:31:25+00:00</updated>
+    <content>Why would they invent heels like this they’re not for walking</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7281101180414053674" rel="alternate"/>
+    <published>2023-09-21T02:31:25+00:00</published>
   </entry>
 </feed>
