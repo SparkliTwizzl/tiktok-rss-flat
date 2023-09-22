@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@juliafox038711</id>
   <title>@juliafox038711 | TikTok</title>
-  <updated>2023-09-22T17:24:43+00:00</updated>
+  <updated>2023-09-22T18:28:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,38 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juliafox038711</subtitle>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7276535956683885870</id>
-    <title>i feel like i did pretty good considering this was the first time ive ever colored my own hair</title>
-    <updated>2023-09-08T19:15:57+00:00</updated>
-    <content>i feel like i did pretty good considering this was the first time ive ever colored my own hair</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7276535956683885870" rel="alternate"/>
-    <published>2023-09-08T19:15:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7276598603240590634</id>
-    <title>sweet baby nova needed loves</title>
-    <updated>2023-09-08T23:19:12+00:00</updated>
-    <content>sweet baby nova needed loves</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7276598603240590634" rel="alternate"/>
-    <published>2023-09-08T23:19:12+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7277377940344589610</id>
-    <title>i still wanna do a venom/AOT cosplay or something 👏 should i ?</title>
-    <updated>2023-09-11T01:43:19+00:00</updated>
-    <content>i still wanna do a venom/AOT cosplay or something 👏 should i ?</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7277377940344589610" rel="alternate"/>
-    <published>2023-09-11T01:43:19+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7277816554061073710</id>
-    <title>ive listened to this song religiously at one point in my life at 8am every morning </title>
-    <updated>2023-09-12T06:05:44+00:00</updated>
-    <content>ive listened to this song religiously at one point in my life at 8am every morning </content>
-    <link href="https://tiktok.com/@juliafox038711/video/7277816554061073710" rel="alternate"/>
-    <published>2023-09-12T06:05:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@juliafox038711/video/7277819263073684779</id>
     <title>i miss transitions </title>
@@ -91,5 +59,37 @@
     <content>never relized how fast red fades</content>
     <link href="https://tiktok.com/@juliafox038711/video/7281702478175800607" rel="alternate"/>
     <published>2023-09-22T17:24:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7281707352833805599</id>
+    <title>me anytime he talks about a female </title>
+    <updated>2023-09-22T17:43:38+00:00</updated>
+    <content>me anytime he talks about a female </content>
+    <link href="https://tiktok.com/@juliafox038711/video/7281707352833805599" rel="alternate"/>
+    <published>2023-09-22T17:43:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7281711658190261535</id>
+    <title>[no title]</title>
+    <updated>2023-09-22T18:00:19+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7281711658190261535" rel="alternate"/>
+    <published>2023-09-22T18:00:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7281717066497887518</id>
+    <title>[no title]</title>
+    <updated>2023-09-22T18:21:25+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7281717066497887518" rel="alternate"/>
+    <published>2023-09-22T18:21:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7281718954958064926</id>
+    <title>a constant battle, i care way too much about my hair</title>
+    <updated>2023-09-22T18:28:39+00:00</updated>
+    <content>a constant battle, i care way too much about my hair</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7281718954958064926" rel="alternate"/>
+    <published>2023-09-22T18:28:39+00:00</published>
   </entry>
 </feed>
