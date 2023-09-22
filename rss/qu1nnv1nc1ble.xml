@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@qu1nnv1nc1ble</id>
   <title>@qu1nnv1nc1ble | TikTok</title>
-  <updated>2023-09-22T02:44:31+00:00</updated>
+  <updated>2023-09-22T16:40:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @qu1nnv1nc1ble</subtitle>
-  <entry>
-    <id>https://tiktok.com/@qu1nnv1nc1ble/video/7278033041912614186</id>
-    <title>Excuse my work set up in the back you guys, im so sorry 😮‍💨</title>
-    <updated>2023-09-12T20:05:40+00:00</updated>
-    <content>Excuse my work set up in the back you guys, im so sorry 😮‍💨</content>
-    <link href="https://tiktok.com/@qu1nnv1nc1ble/video/7278033041912614186" rel="alternate"/>
-    <published>2023-09-12T20:05:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@qu1nnv1nc1ble/video/7278144406136327470</id>
     <title>Just one bite? 🫦 </title>
@@ -91,5 +83,13 @@
     <content>Sorry it took me so long to read XD</content>
     <link href="https://tiktok.com/@qu1nnv1nc1ble/video/7281475652836920607" rel="alternate"/>
     <published>2023-09-22T02:44:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@qu1nnv1nc1ble/video/7281691000077159723</id>
+    <title>THAT TRANSITION 🫠  also sorry I look rough rn I just rolled out of bed for this😅</title>
+    <updated>2023-09-22T16:40:14+00:00</updated>
+    <content>THAT TRANSITION 🫠  also sorry I look rough rn I just rolled out of bed for this😅</content>
+    <link href="https://tiktok.com/@qu1nnv1nc1ble/video/7281691000077159723" rel="alternate"/>
+    <published>2023-09-22T16:40:14+00:00</published>
   </entry>
 </feed>
