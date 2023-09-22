@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jacobtheseahorse</id>
   <title>@jacobtheseahorse | TikTok</title>
-  <updated>2023-09-22T06:43:39+00:00</updated>
+  <updated>2023-09-22T10:49:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jacobtheseahorse</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7279123510394375457</id>
-    <title>Replying to @alisonsaxby thanks for saying I'm lovely, I try to provide a space where we can talk about these tricky things. usually when someone doesn't like the term cisgender, it's because they've heard bad things about it. but at the core, there's gen</title>
-    <updated>2023-09-15T18:36:57+00:00</updated>
-    <content>Replying to @alisonsaxby thanks for saying I'm lovely, I try to provide a space where we can talk about these tricky things. usually when someone doesn't like the term cisgender, it's because they've heard bad things about it. but at the core, there's genuinely nothing to actually dislike.  there was the same pushback about the word "straight" back in the day. ultimately, trans people and cis people have different experiences and it's valuable to be able to talk about that. you don't have to use the word for yourself, but it still exists and is useful regardless  #trans #cis #allosexual #asexual #lgbt #queer </content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7279123510394375457" rel="alternate"/>
-    <published>2023-09-15T18:36:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jacobtheseahorse/video/7279493506475789601</id>
     <title>Replying to @smashpar  #trans #is #beautiful </title>
@@ -91,5 +83,13 @@
     <content>Replying to @akj7368 I hope this clarifies things both trans and cis people have genders, the only difference is that our genders don'tv align with our sex at birth (and the gender assumptions that come along with that) #trans #cis #gender #transgender #question </content>
     <link href="https://tiktok.com/@jacobtheseahorse/video/7281537267364056352" rel="alternate"/>
     <published>2023-09-22T06:43:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7281600755734220064</id>
+    <title>anyone else need a good sob today?! #parenting #parents #postnatal #postpartum #toddler #kids </title>
+    <updated>2023-09-22T10:49:58+00:00</updated>
+    <content>anyone else need a good sob today?! #parenting #parents #postnatal #postpartum #toddler #kids </content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7281600755734220064" rel="alternate"/>
+    <published>2023-09-22T10:49:58+00:00</published>
   </entry>
 </feed>

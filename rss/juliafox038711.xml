@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@juliafox038711</id>
   <title>@juliafox038711 | TikTok</title>
-  <updated>2023-09-22T03:56:18+00:00</updated>
+  <updated>2023-09-22T15:14:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juliafox038711</subtitle>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7276265151848795434</id>
-    <title>work shirt came in ☺️</title>
-    <updated>2023-09-08T01:45:05+00:00</updated>
-    <content>work shirt came in ☺️</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7276265151848795434" rel="alternate"/>
-    <published>2023-09-08T01:45:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@juliafox038711/video/7276533051541277995</id>
     <title>im living up this red</title>
@@ -91,5 +83,13 @@
     <content>idk why i didnt post this when i made it but i love this draft</content>
     <link href="https://tiktok.com/@juliafox038711/video/7281494141350038814" rel="alternate"/>
     <published>2023-09-22T03:56:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7281668823768517919</id>
+    <title>[no title]</title>
+    <updated>2023-09-22T15:14:10+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7281668823768517919" rel="alternate"/>
+    <published>2023-09-22T15:14:10+00:00</published>
   </entry>
 </feed>
