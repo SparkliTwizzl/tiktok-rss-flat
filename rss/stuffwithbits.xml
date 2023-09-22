@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-09-22T01:04:55+00:00</updated>
+  <updated>2023-09-22T20:19:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7279098178731789614</id>
-    <title>#solardidsystem #ssquinn #taylorswift #unhingedtaylorswiftlyric </title>
-    <updated>2023-09-15T16:58:49+00:00</updated>
-    <content>#solardidsystem #ssquinn #taylorswift #unhingedtaylorswiftlyric </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7279098178731789614" rel="alternate"/>
-    <published>2023-09-15T16:58:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7279191752764951854</id>
     <title>#stitch with @timmuhz I am never comfortable in this body. Something is always noticeable. #solardidsystem #ssquinn </title>
@@ -91,5 +83,13 @@
     <content>You've got this 👊 (reminder for followers that those who do not identify themselves do not wish to be identified) #solardidsystem #dissociativeidentitydisorder #healing #mentalhealth </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7281449984216599850" rel="alternate"/>
     <published>2023-09-22T01:04:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7281747482479004970</id>
+    <title>we're exhausted. so much activity all the time. no one knows who they are. mass chaos. how many are there? dozens? hundreds? it's literally impossible to tell. who am I? who knows? not me. #solardidsystem #dissociativeidentitydisorder </title>
+    <updated>2023-09-22T20:19:24+00:00</updated>
+    <content>we're exhausted. so much activity all the time. no one knows who they are. mass chaos. how many are there? dozens? hundreds? it's literally impossible to tell. who am I? who knows? not me. #solardidsystem #dissociativeidentitydisorder </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7281747482479004970" rel="alternate"/>
+    <published>2023-09-22T20:19:24+00:00</published>
   </entry>
 </feed>
