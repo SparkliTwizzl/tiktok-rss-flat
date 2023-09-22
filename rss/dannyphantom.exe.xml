@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dannyphantom.exe</id>
   <title>@dannyphantom.exe | TikTok</title>
-  <updated>2023-09-21T02:16:43+00:00</updated>
+  <updated>2023-09-22T02:20:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dannyphantom.exe</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7279243269962321194</id>
-    <title>tag someone ur gonna fight</title>
-    <updated>2023-09-16T02:21:50+00:00</updated>
-    <content>tag someone ur gonna fight</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7279243269962321194" rel="alternate"/>
-    <published>2023-09-16T02:21:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7279243335691177262</id>
-    <title>#greenscreenvideo </title>
-    <updated>2023-09-16T02:22:01+00:00</updated>
-    <content>#greenscreenvideo </content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7279243335691177262" rel="alternate"/>
-    <published>2023-09-16T02:22:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dannyphantom.exe/video/7279612737951386922</id>
     <title>call me h0m0ph0bic bc i hate myself</title>
@@ -91,5 +75,21 @@
     <content>tag ur gf/bf/partner</content>
     <link href="https://tiktok.com/@dannyphantom.exe/video/7281097380655648043" rel="alternate"/>
     <published>2023-09-21T02:16:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7281469137128361262</id>
+    <title>:)</title>
+    <updated>2023-09-22T02:19:18+00:00</updated>
+    <content>:)</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7281469137128361262" rel="alternate"/>
+    <published>2023-09-22T02:19:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7281469329726623018</id>
+    <title>@Arny pls dont be mad</title>
+    <updated>2023-09-22T02:20:03+00:00</updated>
+    <content>@Arny pls dont be mad</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7281469329726623018" rel="alternate"/>
+    <published>2023-09-22T02:20:03+00:00</published>
   </entry>
 </feed>

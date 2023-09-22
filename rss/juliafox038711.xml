@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@juliafox038711</id>
   <title>@juliafox038711 | TikTok</title>
-  <updated>2023-09-20T22:14:59+00:00</updated>
+  <updated>2023-09-21T23:02:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juliafox038711</subtitle>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7276254170997329194</id>
-    <title>wondering if i shoukd dye the other side</title>
-    <updated>2023-09-08T01:02:30+00:00</updated>
-    <content>wondering if i shoukd dye the other side</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7276254170997329194" rel="alternate"/>
-    <published>2023-09-08T01:02:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@juliafox038711/video/7276256701941091627</id>
     <title>teheh</title>
@@ -91,5 +83,13 @@
     <content>we cookin #chef #homemadepizza </content>
     <link href="https://tiktok.com/@juliafox038711/video/7281035109724212510" rel="alternate"/>
     <published>2023-09-20T22:14:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7281418492404829470</id>
+    <title>ive been working out since august 28th and im finally seeing tiny changes :)</title>
+    <updated>2023-09-21T23:02:39+00:00</updated>
+    <content>ive been working out since august 28th and im finally seeing tiny changes :)</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7281418492404829470" rel="alternate"/>
+    <published>2023-09-21T23:02:39+00:00</published>
   </entry>
 </feed>
