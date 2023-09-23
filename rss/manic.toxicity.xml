@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@manic.toxicity</id>
   <title>@manic.toxicity | TikTok</title>
-  <updated>2023-09-19T20:18:01+00:00</updated>
+  <updated>2023-09-23T00:03:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @manic.toxicity</subtitle>
-  <entry>
-    <id>https://tiktok.com/@manic.toxicity/video/7273582943497604398</id>
-    <title>bike was out of commisipn for a bit, but were back up n running :) #fyp #foryou </title>
-    <updated>2023-08-31T20:16:57+00:00</updated>
-    <content>bike was out of commisipn for a bit, but were back up n running :) #fyp #foryou </content>
-    <link href="https://tiktok.com/@manic.toxicity/video/7273582943497604398" rel="alternate"/>
-    <published>2023-08-31T20:16:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@manic.toxicity/video/7274392859439156522</id>
     <title>twitch stream starts in 20 minutes! twitch.tv/manictoxicity  i will do this trend again later, its been stuck in my head for days #fyp #foryou </title>
@@ -91,5 +83,13 @@
     <content>cleaning put drafts 🫶🏼</content>
     <link href="https://tiktok.com/@manic.toxicity/video/7280633882465144107" rel="alternate"/>
     <published>2023-09-19T20:18:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@manic.toxicity/video/7281805138975624490</id>
+    <title>✨ shine bright like a diamond ✨ #greenscreen #greenscreenvideo #fyp #foryou  excuse the horrible quality video LOL</title>
+    <updated>2023-09-23T00:03:07+00:00</updated>
+    <content>✨ shine bright like a diamond ✨ #greenscreen #greenscreenvideo #fyp #foryou  excuse the horrible quality video LOL</content>
+    <link href="https://tiktok.com/@manic.toxicity/video/7281805138975624490" rel="alternate"/>
+    <published>2023-09-23T00:03:07+00:00</published>
   </entry>
 </feed>
