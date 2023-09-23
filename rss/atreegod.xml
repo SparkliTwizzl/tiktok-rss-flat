@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@atreegod</id>
   <title>@atreegod | TikTok</title>
-  <updated>2023-09-22T16:16:19+00:00</updated>
+  <updated>2023-09-23T02:27:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @atreegod</subtitle>
-  <entry>
-    <id>https://tiktok.com/@atreegod/video/7277708148004179242</id>
-    <title>Post nap trader joes run. Feeling: fever dream state of mind #wlw #lgbt </title>
-    <updated>2023-09-11T23:04:44+00:00</updated>
-    <content>Post nap trader joes run. Feeling: fever dream state of mind #wlw #lgbt </content>
-    <link href="https://tiktok.com/@atreegod/video/7277708148004179242" rel="alternate"/>
-    <published>2023-09-11T23:04:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@atreegod/video/7277724180924370222</id>
     <title>Its so nice out tonight #wlw #lg </title>
@@ -91,5 +83,13 @@
     <content>Roomie fit check #wlw #lgbtq @x_c.arianna </content>
     <link href="https://tiktok.com/@atreegod/video/7281684841362541870" rel="alternate"/>
     <published>2023-09-22T16:16:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7281842425448975658</id>
+    <title>Shower seranade #wlw #lgbtq </title>
+    <updated>2023-09-23T02:27:46+00:00</updated>
+    <content>Shower seranade #wlw #lgbtq </content>
+    <link href="https://tiktok.com/@atreegod/video/7281842425448975658" rel="alternate"/>
+    <published>2023-09-23T02:27:46+00:00</published>
   </entry>
 </feed>
