@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dannyphantom.exe</id>
   <title>@dannyphantom.exe | TikTok</title>
-  <updated>2023-09-22T02:20:03+00:00</updated>
+  <updated>2023-09-23T02:41:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dannyphantom.exe</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7279612737951386922</id>
-    <title>call me h0m0ph0bic bc i hate myself</title>
-    <updated>2023-09-17T02:15:29+00:00</updated>
-    <content>call me h0m0ph0bic bc i hate myself</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7279612737951386922" rel="alternate"/>
-    <published>2023-09-17T02:15:29+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7279612764270742827</id>
-    <title>[no title]</title>
-    <updated>2023-09-17T02:15:40+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7279612764270742827" rel="alternate"/>
-    <published>2023-09-17T02:15:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dannyphantom.exe/video/7279983969909722410</id>
     <title>u  k n o w  o t h e r  w o m e n</title>
@@ -91,5 +75,21 @@
     <content>@Arny pls dont be mad</content>
     <link href="https://tiktok.com/@dannyphantom.exe/video/7281469329726623018" rel="alternate"/>
     <published>2023-09-22T02:20:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7281845352943193386</id>
+    <title>dont hit us up. give us ur mom’s #</title>
+    <updated>2023-09-23T02:39:18+00:00</updated>
+    <content>dont hit us up. give us ur mom’s #</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7281845352943193386" rel="alternate"/>
+    <published>2023-09-23T02:39:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7281845820192722218</id>
+    <title>@Arny @WholeWheatPete 🍞 </title>
+    <updated>2023-09-23T02:41:00+00:00</updated>
+    <content>@Arny @WholeWheatPete 🍞 </content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7281845820192722218" rel="alternate"/>
+    <published>2023-09-23T02:41:00+00:00</published>
   </entry>
 </feed>
