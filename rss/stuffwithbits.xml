@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-09-22T20:19:24+00:00</updated>
+  <updated>2023-09-23T02:18:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7279191752764951854</id>
-    <title>#stitch with @timmuhz I am never comfortable in this body. Something is always noticeable. #solardidsystem #ssquinn </title>
-    <updated>2023-09-15T23:01:51+00:00</updated>
-    <content>#stitch with @timmuhz I am never comfortable in this body. Something is always noticeable. #solardidsystem #ssquinn </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7279191752764951854" rel="alternate"/>
-    <published>2023-09-15T23:01:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7279843058475109674</id>
-    <title>I'm so tired #solardidsystem #ssquinn #food #eating </title>
-    <updated>2023-09-17T17:09:15+00:00</updated>
-    <content>I'm so tired #solardidsystem #ssquinn #food #eating </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7279843058475109674" rel="alternate"/>
-    <published>2023-09-17T17:09:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7279900404370935083</id>
     <title>Moving from manic to scared #solardidsystem #ssquinn </title>
@@ -91,5 +75,21 @@
     <content>we're exhausted. so much activity all the time. no one knows who they are. mass chaos. how many are there? dozens? hundreds? it's literally impossible to tell. who am I? who knows? not me. #solardidsystem #dissociativeidentitydisorder </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7281747482479004970" rel="alternate"/>
     <published>2023-09-22T20:19:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7281769156322594094</id>
+    <title>If you watched until the end, we're friends now 💝 #solardidsystem #dissociativeidentitydisorder #ssupdate </title>
+    <updated>2023-09-22T21:43:28+00:00</updated>
+    <content>If you watched until the end, we're friends now 💝 #solardidsystem #dissociativeidentitydisorder #ssupdate </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7281769156322594094" rel="alternate"/>
+    <published>2023-09-22T21:43:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7281840078656179499</id>
+    <title>[no title]</title>
+    <updated>2023-09-23T02:18:41+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7281840078656179499" rel="alternate"/>
+    <published>2023-09-23T02:18:41+00:00</published>
   </entry>
 </feed>
