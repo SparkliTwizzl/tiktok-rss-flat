@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-09-23T02:18:41+00:00</updated>
+  <updated>2023-09-23T19:02:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7279900404370935083</id>
-    <title>Moving from manic to scared #solardidsystem #ssquinn </title>
-    <updated>2023-09-17T20:51:46+00:00</updated>
-    <content>Moving from manic to scared #solardidsystem #ssquinn </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7279900404370935083" rel="alternate"/>
-    <published>2023-09-17T20:51:46+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7280218776937844011</id>
     <title>#solardidsystem #ssquinn </title>
@@ -91,5 +83,13 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@stuffwithbits/video/7281840078656179499" rel="alternate"/>
     <published>2023-09-23T02:18:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7282098813098052910</id>
+    <title>I'm between 14-17 and I'm a mouse girl. Like the birds I have a mouse form and a human form with my mouse ears. My best friend is a vampire named Vera. #solardidsystem #dissociativeidentitydisorder #sswillow </title>
+    <updated>2023-09-23T19:02:45+00:00</updated>
+    <content>I'm between 14-17 and I'm a mouse girl. Like the birds I have a mouse form and a human form with my mouse ears. My best friend is a vampire named Vera. #solardidsystem #dissociativeidentitydisorder #sswillow </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7282098813098052910" rel="alternate"/>
+    <published>2023-09-23T19:02:45+00:00</published>
   </entry>
 </feed>
