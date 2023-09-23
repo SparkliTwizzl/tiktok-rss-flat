@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@tracksuitsandredwine_</id>
   <title>@tracksuitsandredwine_ | TikTok</title>
-  <updated>2023-09-22T03:02:59+00:00</updated>
+  <updated>2023-09-23T14:12:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -61,14 +61,6 @@
     <published>2023-09-03T01:33:58+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@tracksuitsandredwine_/video/7275661748756073730</id>
-    <title>fleabag draft from forever ago</title>
-    <updated>2023-09-06T10:43:32+00:00</updated>
-    <content>fleabag draft from forever ago</content>
-    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7275661748756073730" rel="alternate"/>
-    <published>2023-09-06T10:43:32+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@tracksuitsandredwine_/video/7278995409631055106</id>
     <title>femme luffy #onepiece </title>
     <updated>2023-09-15T10:19:51+00:00</updated>
@@ -91,5 +83,13 @@
     <content>girl next door fr</content>
     <link href="https://tiktok.com/@tracksuitsandredwine_/video/7281480421303471362" rel="alternate"/>
     <published>2023-09-22T03:02:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tracksuitsandredwine_/video/7282024029291023618</id>
+    <title>being a chronically unforgiving person is EXHAUSTING</title>
+    <updated>2023-09-23T14:12:25+00:00</updated>
+    <content>being a chronically unforgiving person is EXHAUSTING</content>
+    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7282024029291023618" rel="alternate"/>
+    <published>2023-09-23T14:12:25+00:00</published>
   </entry>
 </feed>
