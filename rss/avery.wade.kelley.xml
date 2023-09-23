@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-09-22T16:20:02+00:00</updated>
+  <updated>2023-09-23T17:41:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7276510545795124523</id>
-    <title>In less than a month, I leave my home state, fleeing because of the rediculous laws put in place for trans people.  The last time I moved out of Florida, I went to WA in 2012 and lived there for two years. I was young and reckless, experiencing beautiful </title>
-    <updated>2023-09-08T17:37:25+00:00</updated>
-    <content>In less than a month, I leave my home state, fleeing because of the rediculous laws put in place for trans people.  The last time I moved out of Florida, I went to WA in 2012 and lived there for two years. I was young and reckless, experiencing beautiful and ugly things, and fell straight on my ass. Homeless, jobless, no car, no hope. My mom flew me back home where I came into myself through a plethora of difficult life lessons.  This is scary for me, but I'm trying to me excited about it. Everything I've known, all my memories, my security in seeing the Spanish Moss over the brick roads of downtown, the booming thunderstorms... I will miss the Swamp dearly.  But I'm excited to ascend into the clouds, a mile high in the sky, on a mountain...  Maybe I'll be able to touch the stars, and that's exciting... #fyp #trans </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7276510545795124523" rel="alternate"/>
-    <published>2023-09-08T17:37:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7276854116523969838</id>
     <title>Seriously, it's a problem. Leave us alone, we're not doing absolutely anything to you OR your children but offering education and acceptance. #fyp #trans </title>
@@ -91,5 +83,13 @@
     <content>Another injury... Such is life. Bad timing, though. We leave for CO on the 9th. 😅 #fyp </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7281685806375406894" rel="alternate"/>
     <published>2023-09-22T16:20:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7282077856832802090</id>
+    <title>They're fucking amazing.  I had to wear this brace for 3 months after my MCL replacement. It's making me feel a certain way wearing it again on the opposite, but my partner is helping me so much. Haha. Just a reminder to change my perspective. ☺️ #fyp </title>
+    <updated>2023-09-23T17:41:29+00:00</updated>
+    <content>They're fucking amazing.  I had to wear this brace for 3 months after my MCL replacement. It's making me feel a certain way wearing it again on the opposite, but my partner is helping me so much. Haha. Just a reminder to change my perspective. ☺️ #fyp </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7282077856832802090" rel="alternate"/>
+    <published>2023-09-23T17:41:29+00:00</published>
   </entry>
 </feed>
