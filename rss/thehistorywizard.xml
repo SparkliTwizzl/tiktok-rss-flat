@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thehistorywizard</id>
   <title>@thehistorywizard | TikTok</title>
-  <updated>2023-09-23T22:11:44+00:00</updated>
+  <updated>2023-09-24T17:47:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thehistorywizard</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thehistorywizard/video/7277584820140559658</id>
-    <title>Replying to @thandevorn It's because of who is using them. #thehistorywizard #historytiktok #edutok #learnontiktok #dogwhistle </title>
-    <updated>2023-09-11T15:06:20+00:00</updated>
-    <content>Replying to @thandevorn It's because of who is using them. #thehistorywizard #historytiktok #edutok #learnontiktok #dogwhistle </content>
-    <link href="https://tiktok.com/@thehistorywizard/video/7277584820140559658" rel="alternate"/>
-    <published>2023-09-11T15:06:20+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@thehistorywizard/video/7278325424512372010</id>
-    <title>Metaknowledge is my specialty. #thehistorywizard #historytiktok #edutok #learnontiktok #genocide </title>
-    <updated>2023-09-13T15:00:12+00:00</updated>
-    <content>Metaknowledge is my specialty. #thehistorywizard #historytiktok #edutok #learnontiktok #genocide </content>
-    <link href="https://tiktok.com/@thehistorywizard/video/7278325424512372010" rel="alternate"/>
-    <published>2023-09-13T15:00:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thehistorywizard/video/7278685849800215851</id>
     <title>Anti choice folks are an odd lot. #thehistorywizard #historytiktok #edutok #learnontiktok #prochoice </title>
@@ -91,5 +75,21 @@
     <content>Replying to @lukabhbtbv6 Why do you keep trying? #thehistorywizard #historytiktok #edutok #learnontiktok #dogwhistle </content>
     <link href="https://tiktok.com/@thehistorywizard/video/7282147521193938218" rel="alternate"/>
     <published>2023-09-23T22:11:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thehistorywizard/video/7282431341444992298</id>
+    <title>#stitch with @The History Wizard Let's get this done. #thehistorywizard #historytiktok #edutok #learnontiktok #wizardcommunism </title>
+    <updated>2023-09-24T16:33:05+00:00</updated>
+    <content>#stitch with @The History Wizard Let's get this done. #thehistorywizard #historytiktok #edutok #learnontiktok #wizardcommunism </content>
+    <link href="https://tiktok.com/@thehistorywizard/video/7282431341444992298" rel="alternate"/>
+    <published>2023-09-24T16:33:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thehistorywizard/video/7282450571381067054</id>
+    <title>#stitch with @BigBangMike I don't jave a sword... #thehistorywizard #historytiktok #edutok #learnontiktok </title>
+    <updated>2023-09-24T17:47:45+00:00</updated>
+    <content>#stitch with @BigBangMike I don't jave a sword... #thehistorywizard #historytiktok #edutok #learnontiktok </content>
+    <link href="https://tiktok.com/@thehistorywizard/video/7282450571381067054" rel="alternate"/>
+    <published>2023-09-24T17:47:45+00:00</published>
   </entry>
 </feed>
