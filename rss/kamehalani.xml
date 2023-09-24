@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kamehalani</id>
   <title>@kamehalani | TikTok</title>
-  <updated>2023-09-24T17:06:09+00:00</updated>
+  <updated>2023-09-24T05:44:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kamehalani</subtitle>
+  <entry>
+    <id>https://tiktok.com/@kamehalani/video/7276968248892083502</id>
+    <title>My oppinion on this #ashtonkutcher #milakunis #dannymasterson #believesurvivors #that70sshow </title>
+    <updated>2023-09-09T23:13:31+00:00</updated>
+    <content>My oppinion on this #ashtonkutcher #milakunis #dannymasterson #believesurvivors #that70sshow </content>
+    <link href="https://tiktok.com/@kamehalani/video/7276968248892083502" rel="alternate"/>
+    <published>2023-09-09T23:13:31+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@kamehalani/video/7277642917605412138</id>
     <title>Replying to @ChlorophyllKisses #greenscreen yikes </title>
@@ -83,13 +91,5 @@
     <content>Its been a pretty bad week. But thank g-d for @Dolly Parton </content>
     <link href="https://tiktok.com/@kamehalani/video/7282264063193697582" rel="alternate"/>
     <published>2023-09-24T05:44:07+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kamehalani/video/7282439850538683690</id>
-    <title>Shes small but mighty #masc #wlw #lgbt </title>
-    <updated>2023-09-24T17:06:09+00:00</updated>
-    <content>Shes small but mighty #masc #wlw #lgbt </content>
-    <link href="https://tiktok.com/@kamehalani/video/7282439850538683690" rel="alternate"/>
-    <published>2023-09-24T17:06:09+00:00</published>
   </entry>
 </feed>
