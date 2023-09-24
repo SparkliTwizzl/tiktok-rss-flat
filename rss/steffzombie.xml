@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@steffzombie</id>
   <title>@steffzombie | TikTok</title>
-  <updated>2023-09-15T22:02:31+00:00</updated>
+  <updated>2023-09-24T01:36:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @steffzombie</subtitle>
-  <entry>
-    <id>https://tiktok.com/@steffzombie/video/7243632637951167790</id>
-    <title>Replying to @jesusanarcristo   Dc @A really basic TikTok page .  All they thems are they/ dayums 💓 #fyp #nonbinary </title>
-    <updated>2023-06-12T03:14:18+00:00</updated>
-    <content>Replying to @jesusanarcristo   Dc @A really basic TikTok page .  All they thems are they/ dayums 💓 #fyp #nonbinary </content>
-    <link href="https://tiktok.com/@steffzombie/video/7243632637951167790" rel="alternate"/>
-    <published>2023-06-12T03:14:18+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@steffzombie/video/7243872950565309742</id>
-    <title>Its always all talk but no bite  #fy </title>
-    <updated>2023-06-12T18:46:50+00:00</updated>
-    <content>Its always all talk but no bite  #fy </content>
-    <link href="https://tiktok.com/@steffzombie/video/7243872950565309742" rel="alternate"/>
-    <published>2023-06-12T18:46:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@steffzombie/video/7243924340792626474</id>
     <title>Replying to @localgay_tohfan   Im on my way</title>
@@ -91,5 +75,21 @@
     <content>“Another day another !? ..” #fy </content>
     <link href="https://tiktok.com/@steffzombie/video/7279176447590272298" rel="alternate"/>
     <published>2023-09-15T22:02:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@steffzombie/video/7282197883372211499</id>
+    <title>Dress for yourself not others and their opinions wont faze you. #fy </title>
+    <updated>2023-09-24T01:27:09+00:00</updated>
+    <content>Dress for yourself not others and their opinions wont faze you. #fy </content>
+    <link href="https://tiktok.com/@steffzombie/video/7282197883372211499" rel="alternate"/>
+    <published>2023-09-24T01:27:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@steffzombie/video/7282200260011658539</id>
+    <title>Wassup !? #pan</title>
+    <updated>2023-09-24T01:36:21+00:00</updated>
+    <content>Wassup !? #pan</content>
+    <link href="https://tiktok.com/@steffzombie/video/7282200260011658539" rel="alternate"/>
+    <published>2023-09-24T01:36:21+00:00</published>
   </entry>
 </feed>
