@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@juliafox038711</id>
   <title>@juliafox038711 | TikTok</title>
-  <updated>2023-09-24T20:08:22+00:00</updated>
+  <updated>2023-09-24T20:21:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juliafox038711</subtitle>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7281707352833805599</id>
-    <title>me anytime he talks about a female </title>
-    <updated>2023-09-22T17:43:38+00:00</updated>
-    <content>me anytime he talks about a female </content>
-    <link href="https://tiktok.com/@juliafox038711/video/7281707352833805599" rel="alternate"/>
-    <published>2023-09-22T17:43:38+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7281711658190261535</id>
-    <title>[no title]</title>
-    <updated>2023-09-22T18:00:19+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7281711658190261535" rel="alternate"/>
-    <published>2023-09-22T18:00:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@juliafox038711/video/7281717066497887518</id>
     <title>[no title]</title>
@@ -91,5 +75,21 @@
     <content>#FreezeFramePhoto idk, i got good side profiles is all im sayin </content>
     <link href="https://tiktok.com/@juliafox038711/video/7282486811702611231" rel="alternate"/>
     <published>2023-09-24T20:08:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7282488590540492062</id>
+    <title>like no stacy, im not saying my situation was worse or better, im just saying i get how you feel</title>
+    <updated>2023-09-24T20:15:15+00:00</updated>
+    <content>like no stacy, im not saying my situation was worse or better, im just saying i get how you feel</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7282488590540492062" rel="alternate"/>
+    <published>2023-09-24T20:15:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7282490134992342302</id>
+    <title>im blaming how pale i am on the filter. yup.</title>
+    <updated>2023-09-24T20:21:15+00:00</updated>
+    <content>im blaming how pale i am on the filter. yup.</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7282490134992342302" rel="alternate"/>
+    <published>2023-09-24T20:21:15+00:00</published>
   </entry>
 </feed>
