@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-09-23T19:18:40+00:00</updated>
+  <updated>2023-09-24T17:02:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7279817334569667883</id>
-    <title>Thank tou to @Sparta Training for the weapons! They were able to customize my stunt sword and shield to look like Wonder Womans and it is beautiful! The quality was perfect and as you can see @Bella LeBaron and i had a blast  #stunt #stuntweapon #fightcho</title>
-    <updated>2023-09-17T15:29:28+00:00</updated>
-    <content>Thank tou to @Sparta Training for the weapons! They were able to customize my stunt sword and shield to look like Wonder Womans and it is beautiful! The quality was perfect and as you can see @Bella LeBaron and i had a blast  #stunt #stuntweapon #fightchoreography </content>
-    <link href="https://tiktok.com/@athena__cos/video/7279817334569667883" rel="alternate"/>
-    <published>2023-09-17T15:29:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7280197465410637102</id>
     <title>I didn’t expect to love Kirara as much as i do 😍 thank you @CosFun for sending me this cosplay!! #kirara #genshinimpact #kiraracosplay #catgirl #genshinimpactcosplay </title>
@@ -91,5 +83,13 @@
     <content>Catch @Jackie O and i as Cats today at Fan X! </content>
     <link href="https://tiktok.com/@athena__cos/video/7282102916150873387" rel="alternate"/>
     <published>2023-09-23T19:18:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7282438991536852266</id>
+    <title>New version of the vid that started it all 💙 #wonderwoman #wonderwomancosplay #fanxsaltlake #buffwomen #wlwcosplay </title>
+    <updated>2023-09-24T17:02:53+00:00</updated>
+    <content>New version of the vid that started it all 💙 #wonderwoman #wonderwomancosplay #fanxsaltlake #buffwomen #wlwcosplay </content>
+    <link href="https://tiktok.com/@athena__cos/video/7282438991536852266" rel="alternate"/>
+    <published>2023-09-24T17:02:53+00:00</published>
   </entry>
 </feed>
