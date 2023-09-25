@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kit_the_beefcake</id>
   <title>@kit_the_beefcake | TikTok</title>
-  <updated>2023-09-23T03:52:15+00:00</updated>
+  <updated>2023-09-25T09:01:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kit_the_beefcake</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7278141333708033326</id>
-    <title>[no title]</title>
-    <updated>2023-09-13T03:05:47+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7278141333708033326" rel="alternate"/>
-    <published>2023-09-13T03:05:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7278246076849638699</id>
     <title>[no title]</title>
@@ -91,5 +83,13 @@
     <content>#duet with @jadeblairxox </content>
     <link href="https://tiktok.com/@kit_the_beefcake/video/7281864179680578859" rel="alternate"/>
     <published>2023-09-23T03:52:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7282686005579189547</id>
+    <title>never thought I'd make it this far, bless 🫶</title>
+    <updated>2023-09-25T09:01:46+00:00</updated>
+    <content>never thought I'd make it this far, bless 🫶</content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7282686005579189547" rel="alternate"/>
+    <published>2023-09-25T09:01:46+00:00</published>
   </entry>
 </feed>
