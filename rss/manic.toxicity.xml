@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@manic.toxicity</id>
   <title>@manic.toxicity | TikTok</title>
-  <updated>2023-09-23T00:03:07+00:00</updated>
+  <updated>2023-09-24T22:47:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @manic.toxicity</subtitle>
-  <entry>
-    <id>https://tiktok.com/@manic.toxicity/video/7274392859439156522</id>
-    <title>twitch stream starts in 20 minutes! twitch.tv/manictoxicity  i will do this trend again later, its been stuck in my head for days #fyp #foryou </title>
-    <updated>2023-09-03T00:39:48+00:00</updated>
-    <content>twitch stream starts in 20 minutes! twitch.tv/manictoxicity  i will do this trend again later, its been stuck in my head for days #fyp #foryou </content>
-    <link href="https://tiktok.com/@manic.toxicity/video/7274392859439156522" rel="alternate"/>
-    <published>2023-09-03T00:39:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@manic.toxicity/video/7275834723140701483</id>
     <title>the live. the wire. #fyp #foryou </title>
@@ -91,5 +83,13 @@
     <content>✨ shine bright like a diamond ✨ #greenscreen #greenscreenvideo #fyp #foryou  excuse the horrible quality video LOL</content>
     <link href="https://tiktok.com/@manic.toxicity/video/7281805138975624490" rel="alternate"/>
     <published>2023-09-23T00:03:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@manic.toxicity/video/7282527729612868907</id>
+    <title>&gt;:( #fyp #foryou </title>
+    <updated>2023-09-24T22:47:15+00:00</updated>
+    <content>&gt;:( #fyp #foryou </content>
+    <link href="https://tiktok.com/@manic.toxicity/video/7282527729612868907" rel="alternate"/>
+    <published>2023-09-24T22:47:15+00:00</published>
   </entry>
 </feed>
