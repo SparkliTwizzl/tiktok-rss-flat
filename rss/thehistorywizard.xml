@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thehistorywizard</id>
   <title>@thehistorywizard | TikTok</title>
-  <updated>2023-09-25T13:27:27+00:00</updated>
+  <updated>2023-09-25T15:08:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thehistorywizard</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thehistorywizard/video/7279052540665187626</id>
-    <title>Replying to @zenngaldejare We can't afford to ignore it. #thehistorywizard #historytiktok #edutok #learnontiktok #dogwhistle </title>
-    <updated>2023-09-15T14:01:42+00:00</updated>
-    <content>Replying to @zenngaldejare We can't afford to ignore it. #thehistorywizard #historytiktok #edutok #learnontiktok #dogwhistle </content>
-    <link href="https://tiktok.com/@thehistorywizard/video/7279052540665187626" rel="alternate"/>
-    <published>2023-09-15T14:01:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thehistorywizard/video/7279561229255937323</id>
     <title>Replying to @that_guy_from_london_ No. #thehistorywizard #historytiktok #edutok #learnontiktok #capitalism #communism </title>
@@ -91,5 +83,13 @@
     <content>Replying to @advocatus_tortelliniNo. #thehistorywizard #historytiktok #edutok #learnontiktok #dogwhistle </content>
     <link href="https://tiktok.com/@thehistorywizard/video/7282754541320195370" rel="alternate"/>
     <published>2023-09-25T13:27:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thehistorywizard/video/7282780513092242731</id>
+    <title>#stitch with @The History Wizard  Thank you so much. #thehistorywizard #historytiktok #edutok #learnontiktok </title>
+    <updated>2023-09-25T15:08:09+00:00</updated>
+    <content>#stitch with @The History Wizard  Thank you so much. #thehistorywizard #historytiktok #edutok #learnontiktok </content>
+    <link href="https://tiktok.com/@thehistorywizard/video/7282780513092242731" rel="alternate"/>
+    <published>2023-09-25T15:08:09+00:00</published>
   </entry>
 </feed>
