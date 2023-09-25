@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avocadosnaliens</id>
   <title>@avocadosnaliens | TikTok</title>
-  <updated>2023-09-25T06:52:36+00:00</updated>
+  <updated>2023-09-25T20:58:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avocadosnaliens</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avocadosnaliens/video/7267625980137704746</id>
-    <title>#onthisday </title>
-    <updated>2023-08-15T19:00:45+00:00</updated>
-    <content>#onthisday </content>
-    <link href="https://tiktok.com/@avocadosnaliens/video/7267625980137704746" rel="alternate"/>
-    <published>2023-08-15T19:00:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avocadosnaliens/video/7267775706946342190</id>
     <title>Ah yes the infamous mouth boy </title>
@@ -91,5 +83,13 @@
     <content>Those flowers were from my mom 🫶</content>
     <link href="https://tiktok.com/@avocadosnaliens/video/7282652798624255274" rel="alternate"/>
     <published>2023-09-25T06:52:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7282870940856257834</id>
+    <title>It breaks my heart</title>
+    <updated>2023-09-25T20:58:59+00:00</updated>
+    <content>It breaks my heart</content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7282870940856257834" rel="alternate"/>
+    <published>2023-09-25T20:58:59+00:00</published>
   </entry>
 </feed>

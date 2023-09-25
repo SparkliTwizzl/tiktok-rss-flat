@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-09-23T17:41:29+00:00</updated>
+  <updated>2023-09-25T20:53:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7276854116523969838</id>
-    <title>Seriously, it's a problem. Leave us alone, we're not doing absolutely anything to you OR your children but offering education and acceptance. #fyp #trans </title>
-    <updated>2023-09-09T15:50:37+00:00</updated>
-    <content>Seriously, it's a problem. Leave us alone, we're not doing absolutely anything to you OR your children but offering education and acceptance. #fyp #trans </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7276854116523969838" rel="alternate"/>
-    <published>2023-09-09T15:50:37+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7278001199327137070</id>
-    <title>Just another Life Lesson. Things will change eventually. It's a part of life. Whether you've lost someone, or have chosen a new career path, or even met someone new; It's a change. So, ride with it. Feel the feelings that come with it. And just experience</title>
-    <updated>2023-09-12T18:02:08+00:00</updated>
-    <content>Just another Life Lesson. Things will change eventually. It's a part of life. Whether you've lost someone, or have chosen a new career path, or even met someone new; It's a change. So, ride with it. Feel the feelings that come with it. And just experience. Just be. #fyp #trans </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7278001199327137070" rel="alternate"/>
-    <published>2023-09-12T18:02:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7278051085527371050</id>
     <title>#duet with @ErinInTheMorning #Trans </title>
@@ -91,5 +75,21 @@
     <content>They're fucking amazing.  I had to wear this brace for 3 months after my MCL replacement. It's making me feel a certain way wearing it again on the opposite, but my partner is helping me so much. Haha. Just a reminder to change my perspective. ☺️ #fyp </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7282077856832802090" rel="alternate"/>
     <published>2023-09-23T17:41:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7282864401831497003</id>
+    <title>Getting close!! Ah! #fyp #trans </title>
+    <updated>2023-09-25T20:33:36+00:00</updated>
+    <content>Getting close!! Ah! #fyp #trans </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7282864401831497003" rel="alternate"/>
+    <published>2023-09-25T20:33:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7282869504948948270</id>
+    <title>I can't make this shit up. Lol. #fyp </title>
+    <updated>2023-09-25T20:53:25+00:00</updated>
+    <content>I can't make this shit up. Lol. #fyp </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7282869504948948270" rel="alternate"/>
+    <published>2023-09-25T20:53:25+00:00</published>
   </entry>
 </feed>
