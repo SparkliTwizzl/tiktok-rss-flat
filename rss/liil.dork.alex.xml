@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@liil.dork.alex</id>
   <title>@liil.dork.alex | TikTok</title>
-  <updated>2023-09-20T15:45:14+00:00</updated>
+  <updated>2023-09-25T22:04:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @liil.dork.alex</subtitle>
-  <entry>
-    <id>https://tiktok.com/@liil.dork.alex/video/7273911781465066794</id>
-    <title>The little lick at the end 😭</title>
-    <updated>2023-09-01T17:32:53+00:00</updated>
-    <content>The little lick at the end 😭</content>
-    <link href="https://tiktok.com/@liil.dork.alex/video/7273911781465066794" rel="alternate"/>
-    <published>2023-09-01T17:32:53+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@liil.dork.alex/video/7274067108332391726</id>
     <title>Talk 2 me girl </title>
@@ -91,5 +83,13 @@
     <content>What did she put in this song😭 it wont get outta my head </content>
     <link href="https://tiktok.com/@liil.dork.alex/video/7280934656105598250" rel="alternate"/>
     <published>2023-09-20T15:45:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@liil.dork.alex/video/7282887777409273134</id>
+    <title>Photos brought to you by caleb 😂</title>
+    <updated>2023-09-25T22:04:23+00:00</updated>
+    <content>Photos brought to you by caleb 😂</content>
+    <link href="https://tiktok.com/@liil.dork.alex/video/7282887777409273134" rel="alternate"/>
+    <published>2023-09-25T22:04:23+00:00</published>
   </entry>
 </feed>
