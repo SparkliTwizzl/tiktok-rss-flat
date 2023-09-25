@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-09-24T17:02:53+00:00</updated>
+  <updated>2023-09-25T16:38:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7280197465410637102</id>
-    <title>I didn’t expect to love Kirara as much as i do 😍 thank you @CosFun for sending me this cosplay!! #kirara #genshinimpact #kiraracosplay #catgirl #genshinimpactcosplay </title>
-    <updated>2023-09-18T16:04:37+00:00</updated>
-    <content>I didn’t expect to love Kirara as much as i do 😍 thank you @CosFun for sending me this cosplay!! #kirara #genshinimpact #kiraracosplay #catgirl #genshinimpactcosplay </content>
-    <link href="https://tiktok.com/@athena__cos/video/7280197465410637102" rel="alternate"/>
-    <published>2023-09-18T16:04:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7280259428853632302</id>
     <title>☯️ tried on our cat girls today and noticed something… #satarougojo #sugurugeto #yinyang </title>
@@ -91,5 +83,13 @@
     <content>New version of the vid that started it all 💙 #wonderwoman #wonderwomancosplay #fanxsaltlake #buffwomen #wlwcosplay </content>
     <link href="https://tiktok.com/@athena__cos/video/7282438991536852266" rel="alternate"/>
     <published>2023-09-24T17:02:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7282803791563361578</id>
+    <title>This was my entire Fan X weekend in one audio </title>
+    <updated>2023-09-25T16:38:31+00:00</updated>
+    <content>This was my entire Fan X weekend in one audio </content>
+    <link href="https://tiktok.com/@athena__cos/video/7282803791563361578" rel="alternate"/>
+    <published>2023-09-25T16:38:31+00:00</published>
   </entry>
 </feed>
