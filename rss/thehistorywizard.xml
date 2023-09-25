@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thehistorywizard</id>
   <title>@thehistorywizard | TikTok</title>
-  <updated>2023-09-24T17:47:45+00:00</updated>
+  <updated>2023-09-25T13:27:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thehistorywizard</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thehistorywizard/video/7278685849800215851</id>
-    <title>Anti choice folks are an odd lot. #thehistorywizard #historytiktok #edutok #learnontiktok #prochoice </title>
-    <updated>2023-09-14T14:18:56+00:00</updated>
-    <content>Anti choice folks are an odd lot. #thehistorywizard #historytiktok #edutok #learnontiktok #prochoice </content>
-    <link href="https://tiktok.com/@thehistorywizard/video/7278685849800215851" rel="alternate"/>
-    <published>2023-09-14T14:18:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thehistorywizard/video/7279052540665187626</id>
     <title>Replying to @zenngaldejare We can't afford to ignore it. #thehistorywizard #historytiktok #edutok #learnontiktok #dogwhistle </title>
@@ -91,5 +83,13 @@
     <content>#stitch with @BigBangMike I don't jave a sword... #thehistorywizard #historytiktok #edutok #learnontiktok </content>
     <link href="https://tiktok.com/@thehistorywizard/video/7282450571381067054" rel="alternate"/>
     <published>2023-09-24T17:47:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thehistorywizard/video/7282754541320195370</id>
+    <title>Replying to @advocatus_tortelliniNo. #thehistorywizard #historytiktok #edutok #learnontiktok #dogwhistle </title>
+    <updated>2023-09-25T13:27:27+00:00</updated>
+    <content>Replying to @advocatus_tortelliniNo. #thehistorywizard #historytiktok #edutok #learnontiktok #dogwhistle </content>
+    <link href="https://tiktok.com/@thehistorywizard/video/7282754541320195370" rel="alternate"/>
+    <published>2023-09-25T13:27:27+00:00</published>
   </entry>
 </feed>
