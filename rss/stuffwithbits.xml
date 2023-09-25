@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-09-24T20:47:50+00:00</updated>
+  <updated>2023-09-25T21:21:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7280232787502796075</id>
-    <title>[no title]</title>
-    <updated>2023-09-18T18:21:41+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7280232787502796075" rel="alternate"/>
-    <published>2023-09-18T18:21:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7281434682191858986</id>
     <title>[no title]</title>
@@ -91,5 +83,13 @@
     <content>Replying to @jules_s15 #reply #dissociativeidentitydisorder #solardidsystem #ssglacier #sswysteria </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7282496973683346731" rel="alternate"/>
     <published>2023-09-24T20:47:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7282876699128253739</id>
+    <title>Ladybug kiss test results: a little bit did come off on her, but it was super simple to wipe off with a baby wipe and I didn't get a mouth full of fur, so it passes! #solardidsystem #kikizcosmeticzunboxing #kikizcosmeticz </title>
+    <updated>2023-09-25T21:21:23+00:00</updated>
+    <content>Ladybug kiss test results: a little bit did come off on her, but it was super simple to wipe off with a baby wipe and I didn't get a mouth full of fur, so it passes! #solardidsystem #kikizcosmeticzunboxing #kikizcosmeticz </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7282876699128253739" rel="alternate"/>
+    <published>2023-09-25T21:21:23+00:00</published>
   </entry>
 </feed>
