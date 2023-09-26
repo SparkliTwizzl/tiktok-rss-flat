@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-09-26T01:51:05+00:00</updated>
+  <updated>2023-09-26T04:32:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7281445039098711338</id>
-    <title>It really does feel like the brain is the enemy in this situation. Like what happened to a little bit at a time instead of everything all at once? #solardidsystem #dissociativeidentitydisorder </title>
-    <updated>2023-09-22T00:45:43+00:00</updated>
-    <content>It really does feel like the brain is the enemy in this situation. Like what happened to a little bit at a time instead of everything all at once? #solardidsystem #dissociativeidentitydisorder </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7281445039098711338" rel="alternate"/>
-    <published>2023-09-22T00:45:43+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7281449984216599850</id>
-    <title>You've got this 👊 (reminder for followers that those who do not identify themselves do not wish to be identified) #solardidsystem #dissociativeidentitydisorder #healing #mentalhealth </title>
-    <updated>2023-09-22T01:04:55+00:00</updated>
-    <content>You've got this 👊 (reminder for followers that those who do not identify themselves do not wish to be identified) #solardidsystem #dissociativeidentitydisorder #healing #mentalhealth </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7281449984216599850" rel="alternate"/>
-    <published>2023-09-22T01:04:55+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7281747482479004970</id>
     <title>we're exhausted. so much activity all the time. no one knows who they are. mass chaos. how many are there? dozens? hundreds? it's literally impossible to tell. who am I? who knows? not me. #solardidsystem #dissociativeidentitydisorder </title>
@@ -91,5 +75,21 @@
     <content>Replying to @dee_aus23 #reply she's so tolerant of all our shenanigans #solardidsystem #ladybug </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7282946228655197486" rel="alternate"/>
     <published>2023-09-26T01:51:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7282974914313850158</id>
+    <title>Unproblematic fave #solardidsystem #ladybug </title>
+    <updated>2023-09-26T03:42:25+00:00</updated>
+    <content>Unproblematic fave #solardidsystem #ladybug </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7282974914313850158" rel="alternate"/>
+    <published>2023-09-26T03:42:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7282987830375320878</id>
+    <title>All I know right now is that there's a lot more of us than we ever expected. I'm just required to exist at the moment. I suppose the rest comes later. #solardidsystem #sshalcyon </title>
+    <updated>2023-09-26T04:32:34+00:00</updated>
+    <content>All I know right now is that there's a lot more of us than we ever expected. I'm just required to exist at the moment. I suppose the rest comes later. #solardidsystem #sshalcyon </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7282987830375320878" rel="alternate"/>
+    <published>2023-09-26T04:32:34+00:00</published>
   </entry>
 </feed>
