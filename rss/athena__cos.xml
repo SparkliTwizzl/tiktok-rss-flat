@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-09-25T16:38:31+00:00</updated>
+  <updated>2023-09-26T20:48:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7280259428853632302</id>
-    <title>☯️ tried on our cat girls today and noticed something… #satarougojo #sugurugeto #yinyang </title>
-    <updated>2023-09-18T20:05:03+00:00</updated>
-    <content>☯️ tried on our cat girls today and noticed something… #satarougojo #sugurugeto #yinyang </content>
-    <link href="https://tiktok.com/@athena__cos/video/7280259428853632302" rel="alternate"/>
-    <published>2023-09-18T20:05:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7280567942767512875</id>
     <title>Manifesting powerful catgirl energy 🖤🤍  #yinyang #catgirl #techwear #catgirls @Jackie O </title>
@@ -91,5 +83,13 @@
     <content>This was my entire Fan X weekend in one audio </content>
     <link href="https://tiktok.com/@athena__cos/video/7282803791563361578" rel="alternate"/>
     <published>2023-09-25T16:38:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7283239280527412523</id>
+    <title>Not where i want to be, but trying to still be happy where i am  #buffwomen #gymtok #gymgirl #strongwomen </title>
+    <updated>2023-09-26T20:48:24+00:00</updated>
+    <content>Not where i want to be, but trying to still be happy where i am  #buffwomen #gymtok #gymgirl #strongwomen </content>
+    <link href="https://tiktok.com/@athena__cos/video/7283239280527412523" rel="alternate"/>
+    <published>2023-09-26T20:48:24+00:00</published>
   </entry>
 </feed>
