@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kit_the_beefcake</id>
   <title>@kit_the_beefcake | TikTok</title>
-  <updated>2023-09-25T09:01:46+00:00</updated>
+  <updated>2023-09-26T00:25:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,38 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kit_the_beefcake</subtitle>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7276787096004840750</id>
+    <title>[no title]</title>
+    <updated>2023-09-09T11:31:11+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7276787096004840750" rel="alternate"/>
+    <published>2023-09-09T11:31:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7277484390739889454</id>
+    <title>#stitch with @Starryfawnn #starryfawnnontwitter </title>
+    <updated>2023-09-11T08:36:57+00:00</updated>
+    <content>#stitch with @Starryfawnn #starryfawnnontwitter </content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7277484390739889454" rel="alternate"/>
+    <published>2023-09-11T08:36:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7278090699830988075</id>
+    <title>[no title]</title>
+    <updated>2023-09-12T23:49:11+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7278090699830988075" rel="alternate"/>
+    <published>2023-09-12T23:49:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7278141333708033326</id>
+    <title>[no title]</title>
+    <updated>2023-09-13T03:05:47+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7278141333708033326" rel="alternate"/>
+    <published>2023-09-13T03:05:47+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7278246076849638699</id>
     <title>[no title]</title>
@@ -27,46 +59,6 @@
     <content>Replying to @trustysgtsalt </content>
     <link href="https://tiktok.com/@kit_the_beefcake/video/7279018897989324063" rel="alternate"/>
     <published>2023-09-15T11:51:11+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7279219871999626526</id>
-    <title>[no title]</title>
-    <updated>2023-09-16T00:51:01+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7279219871999626526" rel="alternate"/>
-    <published>2023-09-16T00:51:01+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7279908015606746399</id>
-    <title>[no title]</title>
-    <updated>2023-09-17T21:21:26+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7279908015606746399" rel="alternate"/>
-    <published>2023-09-17T21:21:26+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7280152702603005214</id>
-    <title>[no title]</title>
-    <updated>2023-09-18T13:11:02+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7280152702603005214" rel="alternate"/>
-    <published>2023-09-18T13:11:02+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7280788404747521322</id>
-    <title>[no title]</title>
-    <updated>2023-09-20T06:17:44+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7280788404747521322" rel="alternate"/>
-    <published>2023-09-20T06:17:44+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7281252830109912363</id>
-    <title>I even offered to fly her out 😭😭#kitthebeefcake </title>
-    <updated>2023-09-21T12:19:54+00:00</updated>
-    <content>I even offered to fly her out 😭😭#kitthebeefcake </content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7281252830109912363" rel="alternate"/>
-    <published>2023-09-21T12:19:54+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7281802954175302954</id>
@@ -91,5 +83,13 @@
     <content>never thought I'd make it this far, bless 🫶</content>
     <link href="https://tiktok.com/@kit_the_beefcake/video/7282686005579189547" rel="alternate"/>
     <published>2023-09-25T09:01:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7282924076170169646</id>
+    <title>I really don't think they would somehow @Gymshark </title>
+    <updated>2023-09-26T00:25:07+00:00</updated>
+    <content>I really don't think they would somehow @Gymshark </content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7282924076170169646" rel="alternate"/>
+    <published>2023-09-26T00:25:07+00:00</published>
   </entry>
 </feed>
