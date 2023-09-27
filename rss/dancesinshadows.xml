@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-09-15T16:02:17+00:00</updated>
+  <updated>2023-09-27T13:10:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7272381918988061958</id>
-    <title>It was nice while it lasted. Now to get the kiddo ready for a new school year, and prep for my own booth next month at Hamilton Comicon #fanexpo #backtoreality😭 </title>
-    <updated>2023-08-28T14:36:06+00:00</updated>
-    <content>It was nice while it lasted. Now to get the kiddo ready for a new school year, and prep for my own booth next month at Hamilton Comicon #fanexpo #backtoreality😭 </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7272381918988061958" rel="alternate"/>
-    <published>2023-08-28T14:36:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7273137760435719429</id>
     <title>a better look at my Pirate Harley look from #fanexpocanada my original costume for the day did not get finished in time, so I put this together the day of the con 😅 most of this is thrifted from over the years  #harleyquinn #pirateharleyquinn #pirateharle</title>
@@ -91,5 +83,13 @@
     <content>sorry for being so quiet lately. I have plans to attend the london comicon (Ontario, Canada - better @FlukeyM 😝)  tomorrow, and I will be vending at the #hamiltoncomiccon both days next weekend. lots of costume updates and artwork to be made. ❤️😅  song @Kikibabyrockwell #countdowntohalloween </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7279083660521917701" rel="alternate"/>
     <published>2023-09-15T16:02:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7283492352122031365</id>
+    <title>busy few weeks with con season in full swing  #countdowntohalloween #witchcostume </title>
+    <updated>2023-09-27T13:10:16+00:00</updated>
+    <content>busy few weeks with con season in full swing  #countdowntohalloween #witchcostume </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7283492352122031365" rel="alternate"/>
+    <published>2023-09-27T13:10:16+00:00</published>
   </entry>
 </feed>
