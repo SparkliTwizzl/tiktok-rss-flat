@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kingfemme</id>
   <title>@kingfemme | TikTok</title>
-  <updated>2023-09-26T20:15:40+00:00</updated>
+  <updated>2023-09-27T15:21:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kingfemme</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kingfemme/video/7272145931116563754</id>
-    <title>Let me know if youve been on it down below!!! #fyp #balding #lgbt #trans #transmasc #ftm #mtf #finasteride #hrt #testosterone </title>
-    <updated>2023-08-27T23:20:30+00:00</updated>
-    <content>Let me know if youve been on it down below!!! #fyp #balding #lgbt #trans #transmasc #ftm #mtf #finasteride #hrt #testosterone </content>
-    <link href="https://tiktok.com/@kingfemme/video/7272145931116563754" rel="alternate"/>
-    <published>2023-08-27T23:20:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kingfemme/video/7272857632162106670</id>
     <title>#fyp #trans #lgbt #ftm #nonbinary #transmasc #hrt #facialhair </title>
@@ -91,5 +83,13 @@
     <content>We was babies 🥹🥹🥹 #husbands #partner #queerlove #lgbt #girlfriendeffect #boyfriendeffect #fyp #trans #nonbinary #transmasc </content>
     <link href="https://tiktok.com/@kingfemme/video/7283230871237184799" rel="alternate"/>
     <published>2023-09-26T20:15:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kingfemme/video/7283526115883306283</id>
+    <title>🌹🖤⛓️ #fyp #alt #panicatthedisco #drag #dragking #mashup #souljaboy #dougie #trans #lgbt #dragqueen #nonbinary #transmasc </title>
+    <updated>2023-09-27T15:21:20+00:00</updated>
+    <content>🌹🖤⛓️ #fyp #alt #panicatthedisco #drag #dragking #mashup #souljaboy #dougie #trans #lgbt #dragqueen #nonbinary #transmasc </content>
+    <link href="https://tiktok.com/@kingfemme/video/7283526115883306283" rel="alternate"/>
+    <published>2023-09-27T15:21:20+00:00</published>
   </entry>
 </feed>
