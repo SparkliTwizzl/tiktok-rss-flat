@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-09-25T20:34:14+00:00</updated>
+  <updated>2023-09-27T01:47:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7278010731738434858</id>
-    <title>Braised Duck Tongue flavored Lays #foreignfood #review #lays </title>
-    <updated>2023-09-12T18:38:58+00:00</updated>
-    <content>Braised Duck Tongue flavored Lays #foreignfood #review #lays </content>
-    <link href="https://tiktok.com/@punktoad/video/7278010731738434858" rel="alternate"/>
-    <published>2023-09-12T18:38:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7278665579559472415</id>
     <title>Its my boy Johio </title>
@@ -91,5 +83,13 @@
     <content>It will stay this clean for approximately 2 days. </content>
     <link href="https://tiktok.com/@punktoad/video/7282864563266145582" rel="alternate"/>
     <published>2023-09-25T20:34:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7283316413828205866</id>
+    <title>Yum</title>
+    <updated>2023-09-27T01:47:36+00:00</updated>
+    <content>Yum</content>
+    <link href="https://tiktok.com/@punktoad/video/7283316413828205866" rel="alternate"/>
+    <published>2023-09-27T01:47:36+00:00</published>
   </entry>
 </feed>
