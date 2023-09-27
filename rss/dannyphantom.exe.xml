@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dannyphantom.exe</id>
   <title>@dannyphantom.exe | TikTok</title>
-  <updated>2023-09-24T02:28:26+00:00</updated>
+  <updated>2023-09-27T02:17:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dannyphantom.exe</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7279983969909722410</id>
-    <title>u  k n o w  o t h e r  w o m e n</title>
-    <updated>2023-09-18T02:16:07+00:00</updated>
-    <content>u  k n o w  o t h e r  w o m e n</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7279983969909722410" rel="alternate"/>
-    <published>2023-09-18T02:16:07+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7279984210339794219</id>
-    <title>tag someone who needs more than grass</title>
-    <updated>2023-09-18T02:17:02+00:00</updated>
-    <content>tag someone who needs more than grass</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7279984210339794219" rel="alternate"/>
-    <published>2023-09-18T02:17:02+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dannyphantom.exe/video/7280354952944586030</id>
     <title>cybershot on top</title>
@@ -91,5 +75,21 @@
     <content>me when im EVIL &gt;:)</content>
     <link href="https://tiktok.com/@dannyphantom.exe/video/7282213685307641131" rel="alternate"/>
     <published>2023-09-24T02:28:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7283323709069315370</id>
+    <title>•_• - og video @funky_fungi they’re funny go follow them</title>
+    <updated>2023-09-27T02:15:58+00:00</updated>
+    <content>•_• - og video @funky_fungi they’re funny go follow them</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7283323709069315370" rel="alternate"/>
+    <published>2023-09-27T02:15:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7283323992058924334</id>
+    <title>support ur trans homies🏳️‍⚧️ JK Rowling is a horrible author and an ever worse person</title>
+    <updated>2023-09-27T02:17:06+00:00</updated>
+    <content>support ur trans homies🏳️‍⚧️ JK Rowling is a horrible author and an ever worse person</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7283323992058924334" rel="alternate"/>
+    <published>2023-09-27T02:17:06+00:00</published>
   </entry>
 </feed>

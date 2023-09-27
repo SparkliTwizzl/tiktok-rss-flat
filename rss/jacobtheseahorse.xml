@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jacobtheseahorse</id>
   <title>@jacobtheseahorse | TikTok</title>
-  <updated>2023-09-26T14:43:22+00:00</updated>
+  <updated>2023-09-26T16:30:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jacobtheseahorse</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7280146776756096289</id>
-    <title>this sound is iconic, follow the sound link to find the original creator as she's fab #autism #actuallyautistic #trans #queer</title>
-    <updated>2023-09-18T12:47:48+00:00</updated>
-    <content>this sound is iconic, follow the sound link to find the original creator as she's fab #autism #actuallyautistic #trans #queer</content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7280146776756096289" rel="alternate"/>
-    <published>2023-09-18T12:47:48+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7280195633531653409</id>
-    <title>Replying to @smilearmyjunior a big question! for the most part I had a really positive response but one really important person took this time to step away and has never come back. #trans #family #nocontact #lowcontact #disowned #transpregnancy </title>
-    <updated>2023-09-18T15:57:22+00:00</updated>
-    <content>Replying to @smilearmyjunior a big question! for the most part I had a really positive response but one really important person took this time to step away and has never come back. #trans #family #nocontact #lowcontact #disowned #transpregnancy </content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7280195633531653409" rel="alternate"/>
-    <published>2023-09-18T15:57:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jacobtheseahorse/video/7280227631256145184</id>
     <title>[not an ad!] I was so excited to see these in Aldi and especially excited when I saw the price! let me know if you want me to do a deep dive or read excerpts, from what I've seen they're fab 🏳️‍⚧️🏳️‍🌈 #trans #lgbt #blm #disabilitytiktok #diversity #famili</title>
@@ -91,5 +75,21 @@
     <content>Replying to @plutonux thanks for asking. I'm a trans man, born with a uterus (which is why I can get pregnant) #trans #transgender #transpregnancy #lgbt </content>
     <link href="https://tiktok.com/@jacobtheseahorse/video/7283145245242461472" rel="alternate"/>
     <published>2023-09-26T14:43:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7283161463622061345</id>
+    <title>#CapCut #trans #birth </title>
+    <updated>2023-09-26T15:46:32+00:00</updated>
+    <content>#CapCut #trans #birth </content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7283161463622061345" rel="alternate"/>
+    <published>2023-09-26T15:46:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7283172809239432481</id>
+    <title>I did a longer version with a birth photo after, but here's a short one ✌🏻 #CapCut #trans #birth #transisbeautiful #transpregnancy </title>
+    <updated>2023-09-26T16:30:18+00:00</updated>
+    <content>I did a longer version with a birth photo after, but here's a short one ✌🏻 #CapCut #trans #birth #transisbeautiful #transpregnancy </content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7283172809239432481" rel="alternate"/>
+    <published>2023-09-26T16:30:18+00:00</published>
   </entry>
 </feed>
