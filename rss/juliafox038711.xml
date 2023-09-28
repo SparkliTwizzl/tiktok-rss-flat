@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@juliafox038711</id>
   <title>@juliafox038711 | TikTok</title>
-  <updated>2023-09-25T18:35:36+00:00</updated>
+  <updated>2023-09-28T01:33:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juliafox038711</subtitle>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7281718954958064926</id>
-    <title>a constant battle, i care way too much about my hair</title>
-    <updated>2023-09-22T18:28:39+00:00</updated>
-    <content>a constant battle, i care way too much about my hair</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7281718954958064926" rel="alternate"/>
-    <published>2023-09-22T18:28:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@juliafox038711/video/7282475734910913822</id>
     <title>had to show off the new tat 😩</title>
@@ -91,5 +83,13 @@
     <content>i think id pull hela girls</content>
     <link href="https://tiktok.com/@juliafox038711/video/7282833993010138399" rel="alternate"/>
     <published>2023-09-25T18:35:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7283683923966676254</id>
+    <title>i had a bad day, so were gonna color my hair</title>
+    <updated>2023-09-28T01:33:48+00:00</updated>
+    <content>i had a bad day, so were gonna color my hair</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7283683923966676254" rel="alternate"/>
+    <published>2023-09-28T01:33:48+00:00</published>
   </entry>
 </feed>
