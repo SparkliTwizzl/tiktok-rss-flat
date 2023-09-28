@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-09-27T15:33:21+00:00</updated>
+  <updated>2023-09-28T01:51:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7279180407042542879</id>
-    <title>Theyre really aggressive </title>
-    <updated>2023-09-15T22:17:52+00:00</updated>
-    <content>Theyre really aggressive </content>
-    <link href="https://tiktok.com/@punktoad/video/7279180407042542879" rel="alternate"/>
-    <published>2023-09-15T22:17:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7279391751217876255</id>
     <title>Hobbit/Hobbitses, please </title>
@@ -91,5 +83,13 @@
     <content>I hope this helps </content>
     <link href="https://tiktok.com/@punktoad/video/7283529193726577966" rel="alternate"/>
     <published>2023-09-27T15:33:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7283688481438649631</id>
+    <title>Tasty jam </title>
+    <updated>2023-09-28T01:51:28+00:00</updated>
+    <content>Tasty jam </content>
+    <link href="https://tiktok.com/@punktoad/video/7283688481438649631" rel="alternate"/>
+    <published>2023-09-28T01:51:28+00:00</published>
   </entry>
 </feed>
