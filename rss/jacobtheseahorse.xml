@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jacobtheseahorse</id>
   <title>@jacobtheseahorse | TikTok</title>
-  <updated>2023-09-28T12:25:36+00:00</updated>
+  <updated>2023-09-28T19:08:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jacobtheseahorse</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7280519834650053920</id>
-    <title>if you have ideas of where I can host this kind of content please let me know I think it's really valuable to normalise trans bodies, especially within birthwork and also outside of corn material. my mailing list is the best place to get updates, find it </title>
-    <updated>2023-09-19T12:55:23+00:00</updated>
-    <content>if you have ideas of where I can host this kind of content please let me know I think it's really valuable to normalise trans bodies, especially within birthwork and also outside of corn material. my mailing list is the best place to get updates, find it in my shmink in shmio #trans #birth #birthphotography #transpregnancy #lgbt #of #buymeacoffee #smallbusinessowner </content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7280519834650053920" rel="alternate"/>
-    <published>2023-09-19T12:55:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jacobtheseahorse/video/7280666082136870177</id>
     <title>Replying to @riojarose I was raised by my grandparents and was never given a clear explanation as to why. for that reason it's so important to me that I give clear, understandable information to my kids. #trans #transparent #gentleparent #loved #honest </title>
@@ -91,5 +83,13 @@
     <content>I've been using this analogy for a while to explain why I'm finding masking so hard how are you feeling post pandemic? do you think it's affected your mental health and your ability to mask? #adhd #audhd #autistic #autistictiktok #adhdtiktok #masking #tic </content>
     <link href="https://tiktok.com/@jacobtheseahorse/video/7283851911567068448" rel="alternate"/>
     <published>2023-09-28T12:25:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7283955857337896224</id>
+    <title>#CapCut making one of these because my kid loves them and she'll be stoked that it's Papa's face in it </title>
+    <updated>2023-09-28T19:08:56+00:00</updated>
+    <content>#CapCut making one of these because my kid loves them and she'll be stoked that it's Papa's face in it </content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7283955857337896224" rel="alternate"/>
+    <published>2023-09-28T19:08:56+00:00</published>
   </entry>
 </feed>
