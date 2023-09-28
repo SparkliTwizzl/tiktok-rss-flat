@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-09-28T16:21:22+00:00</updated>
+  <updated>2023-09-28T21:41:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7278730463450041646</id>
-    <title>Such a simple concept that so many grasp, and others don't. I struggle with feeding myself every single day, and doing the things I need to do such as cleaning the house or planning doctors visits. If you take care of plants, try taking care of yourself w</title>
-    <updated>2023-09-14T17:11:50+00:00</updated>
-    <content>Such a simple concept that so many grasp, and others don't. I struggle with feeding myself every single day, and doing the things I need to do such as cleaning the house or planning doctors visits. If you take care of plants, try taking care of yourself while you're doing the same for them. Got a dog? Prepare both of your meals at the same time. We deserve to be cared for by ourselves. You're worth that, I promise. #fyp #mentalhealth #trans </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7278730463450041646" rel="alternate"/>
-    <published>2023-09-14T17:11:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7279150360457907502</id>
-    <title>Sober from alcohol for almost 3 years, and I feel the difference. I was slowly killing myself with it, and when I stopped, it took a while for everything to stop hurting too. But, it's getting better. The main focus is today, and that's all we can do. Lov</title>
-    <updated>2023-09-15T20:21:16+00:00</updated>
-    <content>Sober from alcohol for almost 3 years, and I feel the difference. I was slowly killing myself with it, and when I stopped, it took a while for everything to stop hurting too. But, it's getting better. The main focus is today, and that's all we can do. Love yourself in the making. And don't forget to be human.  #fyp #trans </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7279150360457907502" rel="alternate"/>
-    <published>2023-09-15T20:21:16+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7279887328573771051</id>
     <title>Be Human. #fyp </title>
@@ -91,5 +75,21 @@
     <content>To be honest, it never closed. Lol. I haven't had this thing in for two years. #fyp </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7283912642144701742" rel="alternate"/>
     <published>2023-09-28T16:21:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7283988115281251627</id>
+    <title>Sometimes you just gotta pretend you're in a music video, and feel the fuckin music. #fyp #goth </title>
+    <updated>2023-09-28T21:14:12+00:00</updated>
+    <content>Sometimes you just gotta pretend you're in a music video, and feel the fuckin music. #fyp #goth </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7283988115281251627" rel="alternate"/>
+    <published>2023-09-28T21:14:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7283995143252839723</id>
+    <title>Gotta learn to laugh at yourself. 😅 #fyp </title>
+    <updated>2023-09-28T21:41:25+00:00</updated>
+    <content>Gotta learn to laugh at yourself. 😅 #fyp </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7283995143252839723" rel="alternate"/>
+    <published>2023-09-28T21:41:25+00:00</published>
   </entry>
 </feed>
