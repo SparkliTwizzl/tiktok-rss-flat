@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jacobtheseahorse</id>
   <title>@jacobtheseahorse | TikTok</title>
-  <updated>2023-09-26T16:30:18+00:00</updated>
+  <updated>2023-09-28T12:25:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jacobtheseahorse</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7280227631256145184</id>
-    <title>[not an ad!] I was so excited to see these in Aldi and especially excited when I saw the price! let me know if you want me to do a deep dive or read excerpts, from what I've seen they're fab 🏳️‍⚧️🏳️‍🌈 #trans #lgbt #blm #disabilitytiktok #diversity #famili</title>
-    <updated>2023-09-18T18:01:30+00:00</updated>
-    <content>[not an ad!] I was so excited to see these in Aldi and especially excited when I saw the price! let me know if you want me to do a deep dive or read excerpts, from what I've seen they're fab 🏳️‍⚧️🏳️‍🌈 #trans #lgbt #blm #disabilitytiktok #diversity #families #books #kidsbooks #booktok </content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7280227631256145184" rel="alternate"/>
-    <published>2023-09-18T18:01:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jacobtheseahorse/video/7280519834650053920</id>
     <title>if you have ideas of where I can host this kind of content please let me know I think it's really valuable to normalise trans bodies, especially within birthwork and also outside of corn material. my mailing list is the best place to get updates, find it </title>
@@ -91,5 +83,13 @@
     <content>I did a longer version with a birth photo after, but here's a short one ✌🏻 #CapCut #trans #birth #transisbeautiful #transpregnancy </content>
     <link href="https://tiktok.com/@jacobtheseahorse/video/7283172809239432481" rel="alternate"/>
     <published>2023-09-26T16:30:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7283851911567068448</id>
+    <title>I've been using this analogy for a while to explain why I'm finding masking so hard how are you feeling post pandemic? do you think it's affected your mental health and your ability to mask? #adhd #audhd #autistic #autistictiktok #adhdtiktok #masking #tic</title>
+    <updated>2023-09-28T12:25:36+00:00</updated>
+    <content>I've been using this analogy for a while to explain why I'm finding masking so hard how are you feeling post pandemic? do you think it's affected your mental health and your ability to mask? #adhd #audhd #autistic #autistictiktok #adhdtiktok #masking #tic </content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7283851911567068448" rel="alternate"/>
+    <published>2023-09-28T12:25:36+00:00</published>
   </entry>
 </feed>
