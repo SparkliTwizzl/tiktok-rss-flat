@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-09-28T01:18:26+00:00</updated>
+  <updated>2023-09-28T16:16:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7273885931029990662</id>
-    <title>still recouping from fanexpo. I ended up mildly sick ontop of an mcas flare up. #pirateharleyquinncosplay #pirateharleyquinn #harleyquinn </title>
-    <updated>2023-09-01T15:52:26+00:00</updated>
-    <content>still recouping from fanexpo. I ended up mildly sick ontop of an mcas flare up. #pirateharleyquinncosplay #pirateharleyquinn #harleyquinn </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7273885931029990662" rel="alternate"/>
-    <published>2023-09-01T15:52:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7274268142472301829</id>
     <title>been working on art for my booth at the Hamilton Comicon at the end of this month while my face heals from 4 days of convention. I'm OK, eyes are a little angry and sore.  #harleyquinn #pirateharleyquinn </title>
@@ -91,5 +83,13 @@
     <content>I just acquired yet another harley outfit. I will have to do a montage of all her looks that I now have ❤️ #harleyquinn #pirateharleyquinn #pirate </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7283679996294597894" rel="alternate"/>
     <published>2023-09-28T01:18:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7283911365780180229</id>
+    <title>feel free to duet  #vampire #nicethings #countdowntohalloween </title>
+    <updated>2023-09-28T16:16:15+00:00</updated>
+    <content>feel free to duet  #vampire #nicethings #countdowntohalloween </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7283911365780180229" rel="alternate"/>
+    <published>2023-09-28T16:16:15+00:00</published>
   </entry>
 </feed>
