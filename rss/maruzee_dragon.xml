@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maruzee_dragon</id>
   <title>@maruzee_dragon | TikTok</title>
-  <updated>2023-09-27T01:16:44+00:00</updated>
+  <updated>2023-09-28T01:28:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maruzee_dragon</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maruzee_dragon/video/7273306180427058438</id>
-    <title>Viper Ning is one of my favorite cosplay looks that I've made so far!🥹🫶 #trainedprofessional #martialarts #videogames #gaming #gamer #transition </title>
-    <updated>2023-08-31T02:22:44+00:00</updated>
-    <content>Viper Ning is one of my favorite cosplay looks that I've made so far!🥹🫶 #trainedprofessional #martialarts #videogames #gaming #gamer #transition </content>
-    <link href="https://tiktok.com/@maruzee_dragon/video/7273306180427058438" rel="alternate"/>
-    <published>2023-08-31T02:22:44+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@maruzee_dragon/video/7274791422719479046</id>
-    <title>I got petals in my eyes 😂...A bit late, but here's my take on the ASHLEY LOOK AT ME umbrella transition trend! Ib: @Lucia Liu </title>
-    <updated>2023-09-04T02:26:14+00:00</updated>
-    <content>I got petals in my eyes 😂...A bit late, but here's my take on the ASHLEY LOOK AT ME umbrella transition trend! Ib: @Lucia Liu </content>
-    <link href="https://tiktok.com/@maruzee_dragon/video/7274791422719479046" rel="alternate"/>
-    <published>2023-09-04T02:26:14+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@maruzee_dragon/video/7275811938817297670</id>
-    <title>Catching some Nami vibes from this. Do you?😂 #martialarts #onepiece #anime #getaguitar </title>
-    <updated>2023-09-06T20:26:20+00:00</updated>
-    <content>Catching some Nami vibes from this. Do you?😂 #martialarts #onepiece #anime #getaguitar </content>
-    <link href="https://tiktok.com/@maruzee_dragon/video/7275811938817297670" rel="alternate"/>
-    <published>2023-09-06T20:26:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maruzee_dragon/video/7276258312729971973</id>
     <title>Dreaming of starring in a live action 🥹... #martialarts #hero #anime #netflix </title>
@@ -59,6 +35,14 @@
     <content>I don't look like Nami anymore with my new hair 🫠 Ib: @Mirta Miler 💗</content>
     <link href="https://tiktok.com/@maruzee_dragon/video/7278484463602945285" rel="alternate"/>
     <published>2023-09-14T01:17:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maruzee_dragon/video/7278856061635808518</id>
+    <title>The walk is back!... I know, it's a simple transition, but I'm just having fun here!😁 . #transition #outfit #autumn #fashion #y2k </title>
+    <updated>2023-09-15T01:19:05+00:00</updated>
+    <content>The walk is back!... I know, it's a simple transition, but I'm just having fun here!😁 . #transition #outfit #autumn #fashion #y2k </content>
+    <link href="https://tiktok.com/@maruzee_dragon/video/7278856061635808518" rel="alternate"/>
+    <published>2023-09-15T01:19:05+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@maruzee_dragon/video/7279228244501695750</id>
@@ -85,11 +69,27 @@
     <published>2023-09-21T01:23:24+00:00</published>
   </entry>
   <entry>
+    <id>https://tiktok.com/@maruzee_dragon/video/7282217232866741509</id>
+    <title>Should I redo this Lightsabers transition...BUT BETTER?!🤔 #lightsaber #starwars #trainedprofessional #martialarts #sport #mma </title>
+    <updated>2023-09-24T02:42:09+00:00</updated>
+    <content>Should I redo this Lightsabers transition...BUT BETTER?!🤔 #lightsaber #starwars #trainedprofessional #martialarts #sport #mma </content>
+    <link href="https://tiktok.com/@maruzee_dragon/video/7282217232866741509" rel="alternate"/>
+    <published>2023-09-24T02:42:09+00:00</published>
+  </entry>
+  <entry>
     <id>https://tiktok.com/@maruzee_dragon/video/7283308470772845829</id>
     <title>Couldn't wait to share this transition with you guys!!😱 Flipping into warrior mode!💪 #transition #trainedprofessional #martialarts #warriors #sword #action #liveaction #halloweensoon #halloween2023 #halloweenhorrornights </title>
     <updated>2023-09-27T01:16:44+00:00</updated>
     <content>Couldn't wait to share this transition with you guys!!😱 Flipping into warrior mode!💪 #transition #trainedprofessional #martialarts #warriors #sword #action #liveaction #halloweensoon #halloween2023 #halloweenhorrornights </content>
     <link href="https://tiktok.com/@maruzee_dragon/video/7283308470772845829" rel="alternate"/>
     <published>2023-09-27T01:16:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maruzee_dragon/video/7283682576403942662</id>
+    <title>Réponse à @floriannigels  Ask and you shall receive 👀  #transition #starwars #lightsaber #martialarts #trainedprofessional </title>
+    <updated>2023-09-28T01:28:27+00:00</updated>
+    <content>Réponse à @floriannigels  Ask and you shall receive 👀  #transition #starwars #lightsaber #martialarts #trainedprofessional </content>
+    <link href="https://tiktok.com/@maruzee_dragon/video/7283682576403942662" rel="alternate"/>
+    <published>2023-09-28T01:28:27+00:00</published>
   </entry>
 </feed>
