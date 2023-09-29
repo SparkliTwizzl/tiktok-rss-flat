@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thehistorywizard</id>
   <title>@thehistorywizard | TikTok</title>
-  <updated>2023-09-28T20:32:01+00:00</updated>
+  <updated>2023-09-29T13:12:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thehistorywizard</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thehistorywizard/video/7282147521193938218</id>
-    <title>Replying to @lukabhbtbv6 Why do you keep trying? #thehistorywizard #historytiktok #edutok #learnontiktok #dogwhistle </title>
-    <updated>2023-09-23T22:11:44+00:00</updated>
-    <content>Replying to @lukabhbtbv6 Why do you keep trying? #thehistorywizard #historytiktok #edutok #learnontiktok #dogwhistle </content>
-    <link href="https://tiktok.com/@thehistorywizard/video/7282147521193938218" rel="alternate"/>
-    <published>2023-09-23T22:11:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thehistorywizard/video/7282431341444992298</id>
     <title>#stitch with @The History Wizard Let's get this done. #thehistorywizard #historytiktok #edutok #learnontiktok #wizardcommunism </title>
@@ -91,5 +83,13 @@
     <content>Replying to @wetrix_x Have the day you deserve. #thehistorywizard #historytiktok #edutok #learnontiktok </content>
     <link href="https://tiktok.com/@thehistorywizard/video/7283977263782120746" rel="alternate"/>
     <published>2023-09-28T20:32:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thehistorywizard/video/7284235107873852714</id>
+    <title>Replying to @militaryposts23 Weird flex. #thehistorywizard #historytiktok #edutok #learnontiktok #dogwhistle </title>
+    <updated>2023-09-29T13:12:59+00:00</updated>
+    <content>Replying to @militaryposts23 Weird flex. #thehistorywizard #historytiktok #edutok #learnontiktok #dogwhistle </content>
+    <link href="https://tiktok.com/@thehistorywizard/video/7284235107873852714" rel="alternate"/>
+    <published>2023-09-29T13:12:59+00:00</published>
   </entry>
 </feed>
