@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@liil.dork.alex</id>
   <title>@liil.dork.alex | TikTok</title>
-  <updated>2023-09-25T22:04:23+00:00</updated>
+  <updated>2023-09-29T02:32:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -61,14 +61,6 @@
     <published>2023-09-12T17:18:52+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@liil.dork.alex/video/7278454582420835626</id>
-    <title>And a nice smiles gets me everytime 😫</title>
-    <updated>2023-09-13T23:21:13+00:00</updated>
-    <content>And a nice smiles gets me everytime 😫</content>
-    <link href="https://tiktok.com/@liil.dork.alex/video/7278454582420835626" rel="alternate"/>
-    <published>2023-09-13T23:21:13+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@liil.dork.alex/video/7278905576279624990</id>
     <title>[no title]</title>
     <updated>2023-09-15T04:31:20+00:00</updated>
@@ -91,5 +83,13 @@
     <content>Photos brought to you by caleb 😂</content>
     <link href="https://tiktok.com/@liil.dork.alex/video/7282887777409273134" rel="alternate"/>
     <published>2023-09-25T22:04:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@liil.dork.alex/video/7284070054830886187</id>
+    <title>[no title]</title>
+    <updated>2023-09-29T02:32:11+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@liil.dork.alex/video/7284070054830886187" rel="alternate"/>
+    <published>2023-09-29T02:32:11+00:00</published>
   </entry>
 </feed>
