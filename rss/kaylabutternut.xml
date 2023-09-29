@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-09-29T03:25:07+00:00</updated>
+  <updated>2023-09-29T15:32:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7279908629946436906</id>
-    <title>Cozy</title>
-    <updated>2023-09-17T21:23:50+00:00</updated>
-    <content>Cozy</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7279908629946436906" rel="alternate"/>
-    <published>2023-09-17T21:23:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7279942368592252203</id>
     <title>They should make doing this in heels an Olympic event </title>
@@ -91,5 +83,13 @@
     <content>Trying to figure out if this is my color but i think its too neon, what do you guys think</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7284083703494479147" rel="alternate"/>
     <published>2023-09-29T03:25:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7284271069542829355</id>
+    <title>THIS! SOUND! IS! MANIFESTING!</title>
+    <updated>2023-09-29T15:32:37+00:00</updated>
+    <content>THIS! SOUND! IS! MANIFESTING!</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7284271069542829355" rel="alternate"/>
+    <published>2023-09-29T15:32:37+00:00</published>
   </entry>
 </feed>
