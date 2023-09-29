@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-09-28T04:04:17+00:00</updated>
+  <updated>2023-09-29T01:30:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -85,11 +85,11 @@
     <published>2023-09-23T06:20:30+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7283722676781305130</id>
-    <title>I wish they had this in pink</title>
-    <updated>2023-09-28T04:04:17+00:00</updated>
-    <content>I wish they had this in pink</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7283722676781305130" rel="alternate"/>
-    <published>2023-09-28T04:04:17+00:00</published>
+    <id>https://tiktok.com/@kaylabutternut/video/7284054130941758763</id>
+    <title>[no title]</title>
+    <updated>2023-09-29T01:30:22+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7284054130941758763" rel="alternate"/>
+    <published>2023-09-29T01:30:22+00:00</published>
   </entry>
 </feed>
