@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maruzee_dragon</id>
   <title>@maruzee_dragon | TikTok</title>
-  <updated>2023-09-28T01:28:27+00:00</updated>
+  <updated>2023-09-29T01:36:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maruzee_dragon</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maruzee_dragon/video/7276258312729971973</id>
-    <title>Dreaming of starring in a live action 🥹... #martialarts #hero #anime #netflix </title>
-    <updated>2023-09-08T01:18:29+00:00</updated>
-    <content>Dreaming of starring in a live action 🥹... #martialarts #hero #anime #netflix </content>
-    <link href="https://tiktok.com/@maruzee_dragon/video/7276258312729971973" rel="alternate"/>
-    <published>2023-09-08T01:18:29+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maruzee_dragon/video/7277370952806092037</id>
     <title>Bringing out my inner Nami with some Bo Staff action.💥 Do you guys like this version better?  . #onepiece #anime #liveaction #martialarts #kick #nami #netflix #edit </title>
@@ -91,5 +83,13 @@
     <content>Réponse à @floriannigels  Ask and you shall receive 👀  #transition #starwars #lightsaber #martialarts #trainedprofessional </content>
     <link href="https://tiktok.com/@maruzee_dragon/video/7283682576403942662" rel="alternate"/>
     <published>2023-09-28T01:28:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maruzee_dragon/video/7284055684071574790</id>
+    <title>Doing The Walk again, but this time we're in a whole different dimension!🌌👀 #transition #outfit #autumn #fashion </title>
+    <updated>2023-09-29T01:36:17+00:00</updated>
+    <content>Doing The Walk again, but this time we're in a whole different dimension!🌌👀 #transition #outfit #autumn #fashion </content>
+    <link href="https://tiktok.com/@maruzee_dragon/video/7284055684071574790" rel="alternate"/>
+    <published>2023-09-29T01:36:17+00:00</published>
   </entry>
 </feed>
