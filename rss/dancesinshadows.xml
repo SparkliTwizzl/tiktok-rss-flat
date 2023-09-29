@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-09-28T16:16:15+00:00</updated>
+  <updated>2023-09-29T06:26:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7274268142472301829</id>
-    <title>been working on art for my booth at the Hamilton Comicon at the end of this month while my face heals from 4 days of convention. I'm OK, eyes are a little angry and sore.  #harleyquinn #pirateharleyquinn </title>
-    <updated>2023-09-02T16:35:37+00:00</updated>
-    <content>been working on art for my booth at the Hamilton Comicon at the end of this month while my face heals from 4 days of convention. I'm OK, eyes are a little angry and sore.  #harleyquinn #pirateharleyquinn </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7274268142472301829" rel="alternate"/>
-    <published>2023-09-02T16:35:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7275694706766417157</id>
     <title>#duet with @DancesinShadows   it happens  #maladytheclown  #maladyandglum #adhd #overstimulation </title>
@@ -91,5 +83,13 @@
     <content>feel free to duet  #vampire #nicethings #countdowntohalloween </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7283911365780180229" rel="alternate"/>
     <published>2023-09-28T16:16:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7284130544005287173</id>
+    <title>hugs 🩵 #glumthesupernaturalhitman #dailyreminder </title>
+    <updated>2023-09-29T06:26:48+00:00</updated>
+    <content>hugs 🩵 #glumthesupernaturalhitman #dailyreminder </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7284130544005287173" rel="alternate"/>
+    <published>2023-09-29T06:26:48+00:00</published>
   </entry>
 </feed>
