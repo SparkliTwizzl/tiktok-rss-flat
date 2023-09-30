@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-09-29T14:46:12+00:00</updated>
+  <updated>2023-09-30T15:49:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7281831542991703338</id>
-    <title>Vibe Checkpoint </title>
-    <updated>2023-09-23T01:45:34+00:00</updated>
-    <content>Vibe Checkpoint </content>
-    <link href="https://tiktok.com/@punktoad/video/7281831542991703338" rel="alternate"/>
-    <published>2023-09-23T01:45:34+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7282016896101174574</id>
     <title>This is one of my first Tik Tok videos ever. There is so much I would change now that I’m editing but there is also so much i love about it. </title>
@@ -91,5 +83,13 @@
     <content>Who let me download this app </content>
     <link href="https://tiktok.com/@punktoad/video/7284259108436397355" rel="alternate"/>
     <published>2023-09-29T14:46:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7284646480684633386</id>
+    <title>I’m never going back… </title>
+    <updated>2023-09-30T15:49:02+00:00</updated>
+    <content>I’m never going back… </content>
+    <link href="https://tiktok.com/@punktoad/video/7284646480684633386" rel="alternate"/>
+    <published>2023-09-30T15:49:02+00:00</published>
   </entry>
 </feed>
