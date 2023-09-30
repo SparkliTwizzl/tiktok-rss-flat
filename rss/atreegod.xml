@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@atreegod</id>
   <title>@atreegod | TikTok</title>
-  <updated>2023-09-27T17:26:14+00:00</updated>
+  <updated>2023-09-30T00:05:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @atreegod</subtitle>
-  <entry>
-    <id>https://tiktok.com/@atreegod/video/7279803462676663595</id>
-    <title>Evvy: A Metropolitan Collection #lgbtq #wlw #nyc #themet @E </title>
-    <updated>2023-09-17T14:35:44+00:00</updated>
-    <content>Evvy: A Metropolitan Collection #lgbtq #wlw #nyc #themet @E </content>
-    <link href="https://tiktok.com/@atreegod/video/7279803462676663595" rel="alternate"/>
-    <published>2023-09-17T14:35:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@atreegod/video/7279871711477058862</id>
     <title>Well back to existing without gf (jm losing my mind) #wlw #lgbtq </title>
@@ -91,5 +83,13 @@
     <content>Issa fit check ma #wlw #lbtq </content>
     <link href="https://tiktok.com/@atreegod/video/7283558289273654570" rel="alternate"/>
     <published>2023-09-27T17:26:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7284403318250605870</id>
+    <title>I bit my lip sorryyy #wlw #lgbtq</title>
+    <updated>2023-09-30T00:05:27+00:00</updated>
+    <content>I bit my lip sorryyy #wlw #lgbtq</content>
+    <link href="https://tiktok.com/@atreegod/video/7284403318250605870" rel="alternate"/>
+    <published>2023-09-30T00:05:27+00:00</published>
   </entry>
 </feed>
