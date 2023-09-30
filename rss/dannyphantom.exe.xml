@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dannyphantom.exe</id>
   <title>@dannyphantom.exe | TikTok</title>
-  <updated>2023-09-29T02:15:54+00:00</updated>
+  <updated>2023-09-30T02:16:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dannyphantom.exe</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7281469137128361262</id>
-    <title>:)</title>
-    <updated>2023-09-22T02:19:18+00:00</updated>
-    <content>:)</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7281469137128361262" rel="alternate"/>
-    <published>2023-09-22T02:19:18+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7281469329726623018</id>
-    <title>@Arny pls dont be mad</title>
-    <updated>2023-09-22T02:20:03+00:00</updated>
-    <content>@Arny pls dont be mad</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7281469329726623018" rel="alternate"/>
-    <published>2023-09-22T02:20:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dannyphantom.exe/video/7281845352943193386</id>
     <title>dont hit us up. give us ur mom’s #</title>
@@ -91,5 +75,21 @@
     <content>uki is that dog in me</content>
     <link href="https://tiktok.com/@dannyphantom.exe/video/7284065859767733546" rel="alternate"/>
     <published>2023-09-29T02:15:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7284437144578329899</id>
+    <title>tag someone who does this</title>
+    <updated>2023-09-30T02:16:42+00:00</updated>
+    <content>tag someone who does this</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7284437144578329899" rel="alternate"/>
+    <published>2023-09-30T02:16:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7284437194826140971</id>
+    <title>I AM INNOCENT ITS THE ADHD I SWEAR</title>
+    <updated>2023-09-30T02:16:59+00:00</updated>
+    <content>I AM INNOCENT ITS THE ADHD I SWEAR</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7284437194826140971" rel="alternate"/>
+    <published>2023-09-30T02:16:59+00:00</published>
   </entry>
 </feed>
