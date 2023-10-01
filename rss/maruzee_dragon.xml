@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maruzee_dragon</id>
   <title>@maruzee_dragon | TikTok</title>
-  <updated>2023-09-30T01:40:18+00:00</updated>
+  <updated>2023-10-01T02:27:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maruzee_dragon</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maruzee_dragon/video/7278484463602945285</id>
-    <title>I don't look like Nami anymore with my new hair 🫠 Ib: @Mirta Miler 💗</title>
-    <updated>2023-09-14T01:17:06+00:00</updated>
-    <content>I don't look like Nami anymore with my new hair 🫠 Ib: @Mirta Miler 💗</content>
-    <link href="https://tiktok.com/@maruzee_dragon/video/7278484463602945285" rel="alternate"/>
-    <published>2023-09-14T01:17:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maruzee_dragon/video/7278856061635808518</id>
     <title>The walk is back!... I know, it's a simple transition, but I'm just having fun here!😁 . #transition #outfit #autumn #fashion #y2k </title>
@@ -91,5 +83,13 @@
     <content>Cuz you asked for more, here's a version with purple lightsabers! 💜🌌 #trainedprofessional #starwars #lightsaber #martialarts #transition </content>
     <link href="https://tiktok.com/@maruzee_dragon/video/7284427803272006917" rel="alternate"/>
     <published>2023-09-30T01:40:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maruzee_dragon/video/7284810991559380230</id>
+    <title>Réponse à @darksonic__  Hold up, is it just me, or are we getting Star Wars meets Valorant vibes here?😂💚 #martialarts #transition #trainedprofessional #lightsaber </title>
+    <updated>2023-10-01T02:27:16+00:00</updated>
+    <content>Réponse à @darksonic__  Hold up, is it just me, or are we getting Star Wars meets Valorant vibes here?😂💚 #martialarts #transition #trainedprofessional #lightsaber </content>
+    <link href="https://tiktok.com/@maruzee_dragon/video/7284810991559380230" rel="alternate"/>
+    <published>2023-10-01T02:27:16+00:00</published>
   </entry>
 </feed>
