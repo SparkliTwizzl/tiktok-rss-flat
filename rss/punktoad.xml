@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-09-30T15:49:02+00:00</updated>
+  <updated>2023-10-01T20:40:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7282016896101174574</id>
-    <title>This is one of my first Tik Tok videos ever. There is so much I would change now that I’m editing but there is also so much i love about it. </title>
-    <updated>2023-09-23T13:44:56+00:00</updated>
-    <content>This is one of my first Tik Tok videos ever. There is so much I would change now that I’m editing but there is also so much i love about it. </content>
-    <link href="https://tiktok.com/@punktoad/video/7282016896101174574" rel="alternate"/>
-    <published>2023-09-23T13:44:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7282428477184265514</id>
     <title>Im just a silly little guy </title>
@@ -91,5 +83,13 @@
     <content>I’m never going back… </content>
     <link href="https://tiktok.com/@punktoad/video/7284646480684633386" rel="alternate"/>
     <published>2023-09-30T15:49:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7285092616268549422</id>
+    <title>she wasn’t hitting her PR’s </title>
+    <updated>2023-10-01T20:40:16+00:00</updated>
+    <content>she wasn’t hitting her PR’s </content>
+    <link href="https://tiktok.com/@punktoad/video/7285092616268549422" rel="alternate"/>
+    <published>2023-10-01T20:40:16+00:00</published>
   </entry>
 </feed>
