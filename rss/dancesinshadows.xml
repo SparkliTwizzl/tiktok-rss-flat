@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-09-29T06:26:48+00:00</updated>
+  <updated>2023-10-01T01:59:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7275694706766417157</id>
-    <title>#duet with @DancesinShadows   it happens  #maladytheclown  #maladyandglum #adhd #overstimulation </title>
-    <updated>2023-09-06T12:51:24+00:00</updated>
-    <content>#duet with @DancesinShadows   it happens  #maladytheclown  #maladyandglum #adhd #overstimulation </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7275694706766417157" rel="alternate"/>
-    <published>2023-09-06T12:51:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7276435042157464838</id>
     <title>Kiddo is back at school, and I'm still trodding around the house with allergies. I've tried to film a few times, but my face is not makeup friendly atm 😅 #onthisday #maladytheclown </title>
@@ -91,5 +83,13 @@
     <content>hugs 🩵 #glumthesupernaturalhitman #dailyreminder </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7284130544005287173" rel="alternate"/>
     <published>2023-09-29T06:26:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7284803811519024390</id>
+    <title>always loved this song 💗 #purpleaesthetic #witchcostume #countdowntohalloween </title>
+    <updated>2023-10-01T01:59:24+00:00</updated>
+    <content>always loved this song 💗 #purpleaesthetic #witchcostume #countdowntohalloween </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7284803811519024390" rel="alternate"/>
+    <published>2023-10-01T01:59:24+00:00</published>
   </entry>
 </feed>
