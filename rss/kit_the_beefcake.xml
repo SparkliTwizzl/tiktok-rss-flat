@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kit_the_beefcake</id>
   <title>@kit_the_beefcake | TikTok</title>
-  <updated>2023-10-01T07:28:51+00:00</updated>
+  <updated>2023-10-01T11:35:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kit_the_beefcake</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7283343805623946538</id>
-    <title>#onthisday </title>
-    <updated>2023-09-27T03:34:00+00:00</updated>
-    <content>#onthisday </content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7283343805623946538" rel="alternate"/>
-    <published>2023-09-27T03:34:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7283469179116637483</id>
     <title>#hauntingadeline </title>
@@ -91,5 +83,13 @@
     <content>@jadeblairxox gooo go go! just Google kitthebeefcake or go to twitter</content>
     <link href="https://tiktok.com/@kit_the_beefcake/video/7284888579439054126" rel="alternate"/>
     <published>2023-10-01T07:28:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7284952000436145454</id>
+    <title>[no title]</title>
+    <updated>2023-10-01T11:35:08+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7284952000436145454" rel="alternate"/>
+    <published>2023-10-01T11:35:08+00:00</published>
   </entry>
 </feed>
