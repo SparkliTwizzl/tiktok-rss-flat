@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@atreegod</id>
   <title>@atreegod | TikTok</title>
-  <updated>2023-09-30T21:38:15+00:00</updated>
+  <updated>2023-10-01T01:51:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @atreegod</subtitle>
-  <entry>
-    <id>https://tiktok.com/@atreegod/video/7279932838349229355</id>
-    <title>#wlw #lgbtq </title>
-    <updated>2023-09-17T22:57:41+00:00</updated>
-    <content>#wlw #lgbtq </content>
-    <link href="https://tiktok.com/@atreegod/video/7279932838349229355" rel="alternate"/>
-    <published>2023-09-17T22:57:41+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@atreegod/video/7280226756399746350</id>
-    <title>Rainy day jn nyc calls for a top 1% cosplay</title>
-    <updated>2023-09-18T17:58:16+00:00</updated>
-    <content>Rainy day jn nyc calls for a top 1% cosplay</content>
-    <link href="https://tiktok.com/@atreegod/video/7280226756399746350" rel="alternate"/>
-    <published>2023-09-18T17:58:16+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@atreegod/video/7281453813012401454</id>
     <title>I just want to be a handsome woman 🗞💥💥 #wlw #lgbtq </title>
@@ -91,5 +75,21 @@
     <content>Long awaited lol #wlw #lgbtq #maschaircut </content>
     <link href="https://tiktok.com/@atreegod/video/7284736446202760490" rel="alternate"/>
     <published>2023-09-30T21:38:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7284801466009799979</id>
+    <title>New jacketttt #wlw </title>
+    <updated>2023-10-01T01:50:33+00:00</updated>
+    <content>New jacketttt #wlw </content>
+    <link href="https://tiktok.com/@atreegod/video/7284801466009799979" rel="alternate"/>
+    <published>2023-10-01T01:50:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7284801822596992302</id>
+    <title>[no title]</title>
+    <updated>2023-10-01T01:51:52+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@atreegod/video/7284801822596992302" rel="alternate"/>
+    <published>2023-10-01T01:51:52+00:00</published>
   </entry>
 </feed>
