@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-09-30T23:23:24+00:00</updated>
+  <updated>2023-10-01T15:25:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7280985358110756142</id>
-    <title>Spoopy season is afoot. #fyp #trans </title>
-    <updated>2023-09-20T19:01:56+00:00</updated>
-    <content>Spoopy season is afoot. #fyp #trans </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7280985358110756142" rel="alternate"/>
-    <published>2023-09-20T19:01:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7281685806375406894</id>
     <title>Another injury... Such is life. Bad timing, though. We leave for CO on the 9th. 😅 #fyp </title>
@@ -91,5 +83,13 @@
     <content>Nosfuratu. #fyp #trans </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7284763565670796590" rel="alternate"/>
     <published>2023-09-30T23:23:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7285011543933160746</id>
+    <title>Acting things. My seestor did it first. Lol. #fyp </title>
+    <updated>2023-10-01T15:25:43+00:00</updated>
+    <content>Acting things. My seestor did it first. Lol. #fyp </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7285011543933160746" rel="alternate"/>
+    <published>2023-10-01T15:25:43+00:00</published>
   </entry>
 </feed>

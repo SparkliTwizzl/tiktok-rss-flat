@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-09-30T17:13:38+00:00</updated>
+  <updated>2023-10-01T17:20:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7282102916150873387</id>
-    <title>Catch @Jackie O and i as Cats today at Fan X! </title>
-    <updated>2023-09-23T19:18:40+00:00</updated>
-    <content>Catch @Jackie O and i as Cats today at Fan X! </content>
-    <link href="https://tiktok.com/@athena__cos/video/7282102916150873387" rel="alternate"/>
-    <published>2023-09-23T19:18:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7282438991536852266</id>
     <title>New version of the vid that started it all 💙 #wonderwoman #wonderwomancosplay #fanxsaltlake #buffwomen #wlwcosplay </title>
@@ -91,5 +83,13 @@
     <content>Korrasami transition!  It was so fun getting to hang out as these two! We need to cosplay them again @katarina 🙏🙏  #korra #korrasami #korrasamicosplay #korracosplay #asamicosplay #avatar #wlw </content>
     <link href="https://tiktok.com/@athena__cos/video/7284668271880686890" rel="alternate"/>
     <published>2023-09-30T17:13:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7285041195657497898</id>
+    <title>With Genshin outfits? Yeah they’re like prada 😂 @🦊prototype fox im sorry if it cuts you iff at all 😭  @Bella LeBaron @Raine Emery  #genshinimpact #genshin #genshincosplay </title>
+    <updated>2023-10-01T17:20:40+00:00</updated>
+    <content>With Genshin outfits? Yeah they’re like prada 😂 @🦊prototype fox im sorry if it cuts you iff at all 😭  @Bella LeBaron @Raine Emery  #genshinimpact #genshin #genshincosplay </content>
+    <link href="https://tiktok.com/@athena__cos/video/7285041195657497898" rel="alternate"/>
+    <published>2023-10-01T17:20:40+00:00</published>
   </entry>
 </feed>
