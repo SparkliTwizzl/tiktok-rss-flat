@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-10-02T01:40:12+00:00</updated>
+  <updated>2023-10-02T14:45:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -77,19 +77,19 @@
     <published>2023-09-28T01:19:12+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7284360813090049285</id>
-    <title>Lets relive my favourite week ever. #husbands #prank #jeopardy #comedy #funny #couplescomedy </title>
-    <updated>2023-09-29T21:20:21+00:00</updated>
-    <content>Lets relive my favourite week ever. #husbands #prank #jeopardy #comedy #funny #couplescomedy </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7284360813090049285" rel="alternate"/>
-    <published>2023-09-29T21:20:21+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7285169950593912069</id>
     <title>The dumbest dad joke</title>
     <updated>2023-10-02T01:40:12+00:00</updated>
     <content>The dumbest dad joke</content>
     <link href="https://tiktok.com/@thedarcymichael/video/7285169950593912069" rel="alternate"/>
     <published>2023-10-02T01:40:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7285372271001193733</id>
+    <title>He takes the bait every time @Yuma Dog #goldenretrieverlife #comedy #dogsoftiktok </title>
+    <updated>2023-10-02T14:45:19+00:00</updated>
+    <content>He takes the bait every time @Yuma Dog #goldenretrieverlife #comedy #dogsoftiktok </content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7285372271001193733" rel="alternate"/>
+    <published>2023-10-02T14:45:19+00:00</published>
   </entry>
 </feed>
