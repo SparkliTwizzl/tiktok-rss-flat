@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-10-01T04:54:37+00:00</updated>
+  <updated>2023-10-02T03:15:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7281101180414053674</id>
-    <title>Why would they invent heels like this they’re not for walking</title>
-    <updated>2023-09-21T02:31:25+00:00</updated>
-    <content>Why would they invent heels like this they’re not for walking</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7281101180414053674" rel="alternate"/>
-    <published>2023-09-21T02:31:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7281363962044714282</id>
     <title>Guess where I’m about to go</title>
@@ -91,5 +83,13 @@
     <content>Im sweaty</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7284848899813166378" rel="alternate"/>
     <published>2023-10-01T04:54:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7285194341289577770</id>
+    <title>I want to go on vacation </title>
+    <updated>2023-10-02T03:15:01+00:00</updated>
+    <content>I want to go on vacation </content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7285194341289577770" rel="alternate"/>
+    <published>2023-10-02T03:15:01+00:00</published>
   </entry>
 </feed>
