@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kit_the_beefcake</id>
   <title>@kit_the_beefcake | TikTok</title>
-  <updated>2023-10-01T22:30:45+00:00</updated>
+  <updated>2023-10-02T09:47:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kit_the_beefcake</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7283479604055067947</id>
-    <title>#duet with @𝔱𝔬𝔞𝔰𝔱 </title>
-    <updated>2023-09-27T12:20:58+00:00</updated>
-    <content>#duet with @𝔱𝔬𝔞𝔰𝔱 </content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7283479604055067947" rel="alternate"/>
-    <published>2023-09-27T12:20:58+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7283626143696129323</id>
-    <title>[no title]</title>
-    <updated>2023-09-27T21:49:35+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7283626143696129323" rel="alternate"/>
-    <published>2023-09-27T21:49:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7283764517257874731</id>
     <title>in retrospect, should've known he wasn't the healthiest move for me 😂</title>
@@ -91,5 +75,21 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@kit_the_beefcake/video/7285121101787614510" rel="alternate"/>
     <published>2023-10-01T22:30:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7285285408093637930</id>
+    <title>[no title]</title>
+    <updated>2023-10-02T09:09:27+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7285285408093637930" rel="alternate"/>
+    <published>2023-10-02T09:09:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7285295231694671147</id>
+    <title>#stitch with @maddie mac </title>
+    <updated>2023-10-02T09:47:20+00:00</updated>
+    <content>#stitch with @maddie mac </content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7285295231694671147" rel="alternate"/>
+    <published>2023-10-02T09:47:20+00:00</published>
   </entry>
 </feed>
