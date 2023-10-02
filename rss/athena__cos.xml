@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-10-02T17:35:49+00:00</updated>
+  <updated>2023-10-02T21:24:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7282803791563361578</id>
-    <title>This was my entire Fan X weekend in one audio </title>
-    <updated>2023-09-25T16:38:31+00:00</updated>
-    <content>This was my entire Fan X weekend in one audio </content>
-    <link href="https://tiktok.com/@athena__cos/video/7282803791563361578" rel="alternate"/>
-    <published>2023-09-25T16:38:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7283239280527412523</id>
     <title>Not where i want to be, but trying to still be happy where i am  #buffwomen #gymtok #gymgirl #strongwomen </title>
@@ -91,5 +83,13 @@
     <content>I swear we played with it for like five minutes  @Jackie O #catgirl #neko #nekogirl </content>
     <link href="https://tiktok.com/@athena__cos/video/7285416152249929002" rel="alternate"/>
     <published>2023-10-02T17:35:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7285475043084094762</id>
+    <title>Do we want to see more gladiator wonder woman content? Let me know below! </title>
+    <updated>2023-10-02T21:24:20+00:00</updated>
+    <content>Do we want to see more gladiator wonder woman content? Let me know below! </content>
+    <link href="https://tiktok.com/@athena__cos/video/7285475043084094762" rel="alternate"/>
+    <published>2023-10-02T21:24:20+00:00</published>
   </entry>
 </feed>
