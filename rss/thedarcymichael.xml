@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-10-02T14:45:19+00:00</updated>
+  <updated>2023-10-02T19:12:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7279391718015782150</id>
-    <title>Can not believe how much fun we’re having these days. Even Darcy’s enjoying working which is why I added another 10 dates! Thanks Toronto and Ottawa for some great shows. Tonight were in London then the US leg begins next month! See ya soon </title>
-    <updated>2023-09-16T11:57:41+00:00</updated>
-    <content>Can not believe how much fun we’re having these days. Even Darcy’s enjoying working which is why I added another 10 dates! Thanks Toronto and Ottawa for some great shows. Tonight were in London then the US leg begins next month! See ya soon </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7279391718015782150" rel="alternate"/>
-    <published>2023-09-16T11:57:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7279528452212985093</id>
     <title>He pranked… himself?!?</title>
@@ -91,5 +83,13 @@
     <content>He takes the bait every time @Yuma Dog #goldenretrieverlife #comedy #dogsoftiktok </content>
     <link href="https://tiktok.com/@thedarcymichael/video/7285372271001193733" rel="alternate"/>
     <published>2023-10-02T14:45:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7285441092898573574</id>
+    <title>Jer wanted to apologize for this livestream meanwhile I think yall owe me a thank you #livestream #outtakes #filterfail #livestreamclips #tiktoklive #funny #comedy #emojis </title>
+    <updated>2023-10-02T19:12:23+00:00</updated>
+    <content>Jer wanted to apologize for this livestream meanwhile I think yall owe me a thank you #livestream #outtakes #filterfail #livestreamclips #tiktoklive #funny #comedy #emojis </content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7285441092898573574" rel="alternate"/>
+    <published>2023-10-02T19:12:23+00:00</published>
   </entry>
 </feed>
