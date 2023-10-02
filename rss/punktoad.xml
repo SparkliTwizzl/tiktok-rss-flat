@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-10-01T20:40:16+00:00</updated>
+  <updated>2023-10-02T17:29:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7282428477184265514</id>
-    <title>Im just a silly little guy </title>
-    <updated>2023-09-24T16:22:01+00:00</updated>
-    <content>Im just a silly little guy </content>
-    <link href="https://tiktok.com/@punktoad/video/7282428477184265514" rel="alternate"/>
-    <published>2023-09-24T16:22:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7282864563266145582</id>
     <title>It will stay this clean for approximately 2 days. </title>
@@ -91,5 +83,13 @@
     <content>she wasn’t hitting her PR’s </content>
     <link href="https://tiktok.com/@punktoad/video/7285092616268549422" rel="alternate"/>
     <published>2023-10-01T20:40:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7285414420145048878</id>
+    <title>Smells like 5-layer beefy in here </title>
+    <updated>2023-10-02T17:29:14+00:00</updated>
+    <content>Smells like 5-layer beefy in here </content>
+    <link href="https://tiktok.com/@punktoad/video/7285414420145048878" rel="alternate"/>
+    <published>2023-10-02T17:29:14+00:00</published>
   </entry>
 </feed>

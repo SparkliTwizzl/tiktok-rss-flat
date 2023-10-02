@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-10-02T19:12:23+00:00</updated>
+  <updated>2023-10-02T22:26:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7279528452212985093</id>
-    <title>He pranked… himself?!?</title>
-    <updated>2023-09-16T20:48:19+00:00</updated>
-    <content>He pranked… himself?!?</content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7279528452212985093" rel="alternate"/>
-    <published>2023-09-16T20:48:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7280214029199609093</id>
     <title>You wanted more, we’ll give you more. </title>
@@ -91,5 +83,13 @@
     <content>Jer wanted to apologize for this livestream meanwhile I think yall owe me a thank you #livestream #outtakes #filterfail #livestreamclips #tiktoklive #funny #comedy #emojis </content>
     <link href="https://tiktok.com/@thedarcymichael/video/7285441092898573574" rel="alternate"/>
     <published>2023-10-02T19:12:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7285490999323806981</id>
+    <title>since today is Mental Health Awareness day and also ADHD awareness month, I wanted to to take a second to acknowledge how incredible it has been performing on this tour in theatres full of other neurodivergent friends.  I dont remember ever being in a roo</title>
+    <updated>2023-10-02T22:26:04+00:00</updated>
+    <content>since today is Mental Health Awareness day and also ADHD awareness month, I wanted to to take a second to acknowledge how incredible it has been performing on this tour in theatres full of other neurodivergent friends.  I dont remember ever being in a room that has felt more safe, or loving, as we have on this silly little comedy tour.  Whether people are coming with their friends or family or coming on their own, our hope is that whoever is in the audience leaves feeling happy and secure in themselves.  Thank you for giving us a platform to spread some comedy and joy around some topics that might not get enough light some days.  Be kind to yourself and go take your meds. #mentalhealthawareness #adhd #adhdawarenessmonth #comedy #standup #busydonkey #neurodivergent</content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7285490999323806981" rel="alternate"/>
+    <published>2023-10-02T22:26:04+00:00</published>
   </entry>
 </feed>
