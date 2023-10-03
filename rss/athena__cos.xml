@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-10-02T21:24:20+00:00</updated>
+  <updated>2023-10-03T20:08:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7283239280527412523</id>
-    <title>Not where i want to be, but trying to still be happy where i am  #buffwomen #gymtok #gymgirl #strongwomen </title>
-    <updated>2023-09-26T20:48:24+00:00</updated>
-    <content>Not where i want to be, but trying to still be happy where i am  #buffwomen #gymtok #gymgirl #strongwomen </content>
-    <link href="https://tiktok.com/@athena__cos/video/7283239280527412523" rel="alternate"/>
-    <published>2023-09-26T20:48:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7283560261405920554</id>
     <title>I don’t have the broach, but first to guess the cosplay gets a prize! </title>
@@ -91,5 +83,13 @@
     <content>Do we want to see more gladiator wonder woman content? Let me know below! </content>
     <link href="https://tiktok.com/@athena__cos/video/7285475043084094762" rel="alternate"/>
     <published>2023-10-02T21:24:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7285826562551745834</id>
+    <title>What does spiderwoman do when she’s done being spiderwoman for the day? This audio reignited my spiderman obsession #spidersuit #spiderman #spiderverse </title>
+    <updated>2023-10-03T20:08:29+00:00</updated>
+    <content>What does spiderwoman do when she’s done being spiderwoman for the day? This audio reignited my spiderman obsession #spidersuit #spiderman #spiderverse </content>
+    <link href="https://tiktok.com/@athena__cos/video/7285826562551745834" rel="alternate"/>
+    <published>2023-10-03T20:08:29+00:00</published>
   </entry>
 </feed>
