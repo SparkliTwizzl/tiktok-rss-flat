@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@steffzombie</id>
   <title>@steffzombie | TikTok</title>
-  <updated>2023-10-02T03:20:34+00:00</updated>
+  <updated>2023-10-03T01:17:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @steffzombie</subtitle>
-  <entry>
-    <id>https://tiktok.com/@steffzombie/video/7248783863579741483</id>
-    <title>Baggy clothes for cool tricks&gt;. #fy #lgbt #greenscreenvideo </title>
-    <updated>2023-06-26T00:23:44+00:00</updated>
-    <content>Baggy clothes for cool tricks&gt;. #fy #lgbt #greenscreenvideo </content>
-    <link href="https://tiktok.com/@steffzombie/video/7248783863579741483" rel="alternate"/>
-    <published>2023-06-26T00:23:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@steffzombie/video/7270262470500027691</id>
     <title>Monster high vibes forsure. #fy </title>
@@ -91,5 +83,13 @@
     <content>No pain no gain? #scary #saw</content>
     <link href="https://tiktok.com/@steffzombie/video/7285195764739951915" rel="alternate"/>
     <published>2023-10-02T03:20:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@steffzombie/video/7285535131572522283</id>
+    <title>God made me extra zesty  #fy </title>
+    <updated>2023-10-03T01:17:32+00:00</updated>
+    <content>God made me extra zesty  #fy </content>
+    <link href="https://tiktok.com/@steffzombie/video/7285535131572522283" rel="alternate"/>
+    <published>2023-10-03T01:17:32+00:00</published>
   </entry>
 </feed>
