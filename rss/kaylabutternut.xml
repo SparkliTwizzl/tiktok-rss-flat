@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-10-02T03:15:01+00:00</updated>
+  <updated>2023-10-03T01:30:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7281363962044714282</id>
-    <title>Guess where I’m about to go</title>
-    <updated>2023-09-21T19:31:10+00:00</updated>
-    <content>Guess where I’m about to go</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7281363962044714282" rel="alternate"/>
-    <published>2023-09-21T19:31:10+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7281902262920744234</id>
-    <title>2 am</title>
-    <updated>2023-09-23T06:20:30+00:00</updated>
-    <content>2 am</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7281902262920744234" rel="alternate"/>
-    <published>2023-09-23T06:20:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7284054130941758763</id>
     <title>[no title]</title>
@@ -91,5 +75,21 @@
     <content>I want to go on vacation </content>
     <link href="https://tiktok.com/@kaylabutternut/video/7285194341289577770" rel="alternate"/>
     <published>2023-10-02T03:15:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7285537852493008170</id>
+    <title>The phone case adds to the drama</title>
+    <updated>2023-10-03T01:28:05+00:00</updated>
+    <content>The phone case adds to the drama</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7285537852493008170" rel="alternate"/>
+    <published>2023-10-03T01:28:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7285538580569771310</id>
+    <title>Hit my line if you can teach me how to do makeup</title>
+    <updated>2023-10-03T01:30:50+00:00</updated>
+    <content>Hit my line if you can teach me how to do makeup</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7285538580569771310" rel="alternate"/>
+    <published>2023-10-03T01:30:50+00:00</published>
   </entry>
 </feed>

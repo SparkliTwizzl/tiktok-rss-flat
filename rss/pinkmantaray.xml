@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pinkmantaray</id>
   <title>@pinkmantaray | TikTok</title>
-  <updated>2023-10-01T21:54:24+00:00</updated>
+  <updated>2023-10-03T00:13:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @pinkmantaray</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pinkmantaray/video/7280635785857010975</id>
-    <title>Last month I visited Transcending Adolescence down in Florida and what a wonderful experience it was! #transgender #transkids #genderaffirming </title>
-    <updated>2023-09-19T20:25:23+00:00</updated>
-    <content>Last month I visited Transcending Adolescence down in Florida and what a wonderful experience it was! #transgender #transkids #genderaffirming </content>
-    <link href="https://tiktok.com/@pinkmantaray/video/7280635785857010975" rel="alternate"/>
-    <published>2023-09-19T20:25:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pinkmantaray/video/7280660488990526750</id>
     <title>Trans spaces are sacred, so glad that Transcending Adolescence exists 💕 #transgender #transathlete #protecttranskids</title>
@@ -91,5 +83,13 @@
     <content>Preorder the book for more! Link in bio or at HSTBook.com 💕🏳️‍⚧️ #transgender #trans #lgbtqhistorymonth #transauthor </content>
     <link href="https://tiktok.com/@pinkmantaray/video/7285111728109571374" rel="alternate"/>
     <published>2023-10-01T21:54:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pinkmantaray/video/7285518742077885742</id>
+    <title>Clothing has no gender! Thanks for lending me your shorts @Sarah Ehsani 🧿 سِرا  💕 #running #transathlete #transgender #gender </title>
+    <updated>2023-10-03T00:13:51+00:00</updated>
+    <content>Clothing has no gender! Thanks for lending me your shorts @Sarah Ehsani 🧿 سِرا  💕 #running #transathlete #transgender #gender </content>
+    <link href="https://tiktok.com/@pinkmantaray/video/7285518742077885742" rel="alternate"/>
+    <published>2023-10-03T00:13:51+00:00</published>
   </entry>
 </feed>
