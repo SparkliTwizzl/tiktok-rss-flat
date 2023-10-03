@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pinkmantaray</id>
   <title>@pinkmantaray | TikTok</title>
-  <updated>2023-10-03T00:13:51+00:00</updated>
+  <updated>2023-10-03T18:52:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @pinkmantaray</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pinkmantaray/video/7280660488990526750</id>
-    <title>Trans spaces are sacred, so glad that Transcending Adolescence exists 💕 #transgender #transathlete #protecttranskids</title>
-    <updated>2023-09-19T22:01:15+00:00</updated>
-    <content>Trans spaces are sacred, so glad that Transcending Adolescence exists 💕 #transgender #transathlete #protecttranskids</content>
-    <link href="https://tiktok.com/@pinkmantaray/video/7280660488990526750" rel="alternate"/>
-    <published>2023-09-19T22:01:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pinkmantaray/video/7280692630239956254</id>
     <title>Unpacking &amp; thoughts about trans kids' summer camp #transgender #protecttranskids #summercamp </title>
@@ -91,5 +83,13 @@
     <content>Clothing has no gender! Thanks for lending me your shorts @Sarah Ehsani 🧿 سِرا  💕 #running #transathlete #transgender #gender </content>
     <link href="https://tiktok.com/@pinkmantaray/video/7285518742077885742" rel="alternate"/>
     <published>2023-10-03T00:13:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pinkmantaray/video/7285807066122423594</id>
+    <title>Continuing on #LGBTQHistoryMonth, here's some background on the word CISGENDER - which is not a bad word or a slur. PREORDER my upcoming book, He/She/They: How We Talk About Gender and Why It Matters, to learn more 💕 #transgender #trans #cisgender</title>
+    <updated>2023-10-03T18:52:59+00:00</updated>
+    <content>Continuing on #LGBTQHistoryMonth, here's some background on the word CISGENDER - which is not a bad word or a slur. PREORDER my upcoming book, He/She/They: How We Talk About Gender and Why It Matters, to learn more 💕 #transgender #trans #cisgender</content>
+    <link href="https://tiktok.com/@pinkmantaray/video/7285807066122423594" rel="alternate"/>
+    <published>2023-10-03T18:52:59+00:00</published>
   </entry>
 </feed>

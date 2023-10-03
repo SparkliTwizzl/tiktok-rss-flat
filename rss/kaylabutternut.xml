@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-10-03T04:30:45+00:00</updated>
+  <updated>2023-10-03T17:51:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7284083703494479147</id>
-    <title>Trying to figure out if this is my color but i think its too neon, what do you guys think</title>
-    <updated>2023-09-29T03:25:07+00:00</updated>
-    <content>Trying to figure out if this is my color but i think its too neon, what do you guys think</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7284083703494479147" rel="alternate"/>
-    <published>2023-09-29T03:25:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7284271069542829355</id>
     <title>THIS! SOUND! IS! MANIFESTING!</title>
@@ -91,5 +83,13 @@
     <content>Wait for it</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7285584889347394859" rel="alternate"/>
     <published>2023-10-03T04:30:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7285791215444905258</id>
+    <title>How’s your sleep schedule </title>
+    <updated>2023-10-03T17:51:32+00:00</updated>
+    <content>How’s your sleep schedule </content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7285791215444905258" rel="alternate"/>
+    <published>2023-10-03T17:51:32+00:00</published>
   </entry>
 </feed>
