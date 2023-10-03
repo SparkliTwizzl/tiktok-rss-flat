@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maruzee_dragon</id>
   <title>@maruzee_dragon | TikTok</title>
-  <updated>2023-10-01T02:27:16+00:00</updated>
+  <updated>2023-10-03T01:16:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maruzee_dragon</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maruzee_dragon/video/7278856061635808518</id>
-    <title>The walk is back!... I know, it's a simple transition, but I'm just having fun here!😁 . #transition #outfit #autumn #fashion #y2k </title>
-    <updated>2023-09-15T01:19:05+00:00</updated>
-    <content>The walk is back!... I know, it's a simple transition, but I'm just having fun here!😁 . #transition #outfit #autumn #fashion #y2k </content>
-    <link href="https://tiktok.com/@maruzee_dragon/video/7278856061635808518" rel="alternate"/>
-    <published>2023-09-15T01:19:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maruzee_dragon/video/7279228244501695750</id>
     <title>How about more Juri from Street Fighter? And maybe with some extra kicks?! I know, the hair's not quite right, but I worked with what I had 🥲... Ib: @Lucia Liu ☂️ #transition #cosplay #streetfighter #martialarts #kick #videogames #gamer #chunli </title>
@@ -91,5 +83,13 @@
     <content>Réponse à @darksonic__  Hold up, is it just me, or are we getting Star Wars meets Valorant vibes here?😂💚 #martialarts #transition #trainedprofessional #lightsaber </content>
     <link href="https://tiktok.com/@maruzee_dragon/video/7284810991559380230" rel="alternate"/>
     <published>2023-10-01T02:27:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maruzee_dragon/video/7285535046117625094</id>
+    <title>Réponse à @kate_love325 WELL, it didn't turn out as I wanted, BUT I've got yellow lightsabers!😂👍 And I switched up the intro a bit... #starwars #lightsaber #martialarts #transition </title>
+    <updated>2023-10-03T01:16:58+00:00</updated>
+    <content>Réponse à @kate_love325 WELL, it didn't turn out as I wanted, BUT I've got yellow lightsabers!😂👍 And I switched up the intro a bit... #starwars #lightsaber #martialarts #transition </content>
+    <link href="https://tiktok.com/@maruzee_dragon/video/7285535046117625094" rel="alternate"/>
+    <published>2023-10-03T01:16:58+00:00</published>
   </entry>
 </feed>
