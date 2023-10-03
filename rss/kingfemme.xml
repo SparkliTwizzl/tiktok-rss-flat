@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kingfemme</id>
   <title>@kingfemme | TikTok</title>
-  <updated>2023-10-02T18:52:52+00:00</updated>
+  <updated>2023-10-02T21:41:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kingfemme</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kingfemme/video/7275037255167790379</id>
-    <title>Your resident cowthey🤠💅🏾 #fyp #lgbt #cowboy #cowthey #cowgirl #trans #nonbinary #dallas #ftm #transmasc #whip </title>
-    <updated>2023-09-04T18:20:21+00:00</updated>
-    <content>Your resident cowthey🤠💅🏾 #fyp #lgbt #cowboy #cowthey #cowgirl #trans #nonbinary #dallas #ftm #transmasc #whip </content>
-    <link href="https://tiktok.com/@kingfemme/video/7275037255167790379" rel="alternate"/>
-    <published>2023-09-04T18:20:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kingfemme/video/7277018011511311658</id>
     <title>Replying to @mx.e_lie.universe #fyp #lgbt #hrt #gender #testosterone #trans #transmasc #nonbinary #gendertransition #ftm </title>
@@ -91,5 +83,13 @@
     <content>Replying to @Brooke #greenscreen #topsurgery #trans #transmasc #fyp #lgbt #ftm #nonbinary #hrt </content>
     <link href="https://tiktok.com/@kingfemme/video/7285435979958258990" rel="alternate"/>
     <published>2023-10-02T18:52:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kingfemme/video/7285479402605989163</id>
+    <title>#stitch with @Date Right Stuff #trans #fyp #comedy #lgbt #topsurgery </title>
+    <updated>2023-10-02T21:41:10+00:00</updated>
+    <content>#stitch with @Date Right Stuff #trans #fyp #comedy #lgbt #topsurgery </content>
+    <link href="https://tiktok.com/@kingfemme/video/7285479402605989163" rel="alternate"/>
+    <published>2023-10-02T21:41:10+00:00</published>
   </entry>
 </feed>
