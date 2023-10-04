@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avocadosnaliens</id>
   <title>@avocadosnaliens | TikTok</title>
-  <updated>2023-10-04T01:56:55+00:00</updated>
+  <updated>2023-10-04T20:19:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avocadosnaliens</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avocadosnaliens/video/7279487084258250026</id>
-    <title>[no title]</title>
-    <updated>2023-09-16T18:07:55+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@avocadosnaliens/video/7279487084258250026" rel="alternate"/>
-    <published>2023-09-16T18:07:55+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avocadosnaliens/video/7282652798624255274</id>
     <title>Those flowers were from my mom 🫶</title>
@@ -91,5 +83,13 @@
     <content>My adhd is my photography and my photography is my adhd. #photography #35mmfilm #nikon </content>
     <link href="https://tiktok.com/@avocadosnaliens/video/7285916394368011562" rel="alternate"/>
     <published>2023-10-04T01:56:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7286200544610274602</id>
+    <title>Ive been meaning to make this video for a while now! Enjoy🫶 #photographygear #weddingphotographer #photographersoftiktok </title>
+    <updated>2023-10-04T20:19:39+00:00</updated>
+    <content>Ive been meaning to make this video for a while now! Enjoy🫶 #photographygear #weddingphotographer #photographersoftiktok </content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7286200544610274602" rel="alternate"/>
+    <published>2023-10-04T20:19:39+00:00</published>
   </entry>
 </feed>
