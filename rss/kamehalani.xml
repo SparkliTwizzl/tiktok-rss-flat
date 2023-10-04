@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kamehalani</id>
   <title>@kamehalani | TikTok</title>
-  <updated>2023-09-27T15:16:02+00:00</updated>
+  <updated>2023-10-04T02:42:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kamehalani</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kamehalani/video/7278087570368597290</id>
-    <title>This is so weird fr #kanaka #nativetiktok #jewish #jewtok #jewishcheck </title>
-    <updated>2023-09-12T23:37:05+00:00</updated>
-    <content>This is so weird fr #kanaka #nativetiktok #jewish #jewtok #jewishcheck </content>
-    <link href="https://tiktok.com/@kamehalani/video/7278087570368597290" rel="alternate"/>
-    <published>2023-09-12T23:37:05+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kamehalani/video/7278087572453117226</id>
-    <title>But were you though? </title>
-    <updated>2023-09-12T23:37:06+00:00</updated>
-    <content>But were you though? </content>
-    <link href="https://tiktok.com/@kamehalani/video/7278087572453117226" rel="alternate"/>
-    <published>2023-09-12T23:37:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kamehalani/video/7278337448248118570</id>
     <title>Replying to @Susan Wagers Farzalo #greenscreen wow #kanaka #nativetiktok #hawaii #hawaiitiktok #maui #nativehawaiian </title>
@@ -91,5 +75,21 @@
     <content>Look at whats happening… #kanaka #nativetiktok #hawaiitiktok #nativehawaiian #polynesian #hawaii </content>
     <link href="https://tiktok.com/@kamehalani/video/7283524728701127966" rel="alternate"/>
     <published>2023-09-27T15:16:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kamehalani/video/7285925963362323743</id>
+    <title>My oppinion on this #lgbt #lashondra </title>
+    <updated>2023-10-04T02:34:33+00:00</updated>
+    <content>My oppinion on this #lgbt #lashondra </content>
+    <link href="https://tiktok.com/@kamehalani/video/7285925963362323743" rel="alternate"/>
+    <published>2023-10-04T02:34:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kamehalani/video/7285928014565707039</id>
+    <title>#edawareness thank you for your support these years. It is never too late to start living! #edrec0very </title>
+    <updated>2023-10-04T02:42:05+00:00</updated>
+    <content>#edawareness thank you for your support these years. It is never too late to start living! #edrec0very </content>
+    <link href="https://tiktok.com/@kamehalani/video/7285928014565707039" rel="alternate"/>
+    <published>2023-10-04T02:42:05+00:00</published>
   </entry>
 </feed>
