@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ailaughatmyownjokes</id>
   <title>@ailaughatmyownjokes | TikTok</title>
-  <updated>2023-10-02T15:51:28+00:00</updated>
+  <updated>2023-10-04T15:12:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ailaughatmyownjokes</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ailaughatmyownjokes/video/7272757825116392737</id>
-    <title>Oh nooo... I guess you'll have to take me to Asskaban for this one😚 #harrypotter #sketch #comedy </title>
-    <updated>2023-08-29T14:54:51+00:00</updated>
-    <content>Oh nooo... I guess you'll have to take me to Asskaban for this one😚 #harrypotter #sketch #comedy </content>
-    <link href="https://tiktok.com/@ailaughatmyownjokes/video/7272757825116392737" rel="alternate"/>
-    <published>2023-08-29T14:54:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ailaughatmyownjokes/video/7274997915557416224</id>
     <title>Tastes just like chicken👍 #harrypotter #sketch #comedy </title>
@@ -91,5 +83,13 @@
     <content>I caused a lot of funerals #thevampirediaries #tvd #sketch #comedy </content>
     <link href="https://tiktok.com/@ailaughatmyownjokes/video/7285389307282558241" rel="alternate"/>
     <published>2023-10-02T15:51:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ailaughatmyownjokes/video/7286121530910690592</id>
+    <title>I'm no longer sick😄 #harrypotter #sketch #comedy </title>
+    <updated>2023-10-04T15:12:53+00:00</updated>
+    <content>I'm no longer sick😄 #harrypotter #sketch #comedy </content>
+    <link href="https://tiktok.com/@ailaughatmyownjokes/video/7286121530910690592" rel="alternate"/>
+    <published>2023-10-04T15:12:53+00:00</published>
   </entry>
 </feed>

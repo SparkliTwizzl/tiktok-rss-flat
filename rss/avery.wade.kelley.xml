@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-10-03T16:31:16+00:00</updated>
+  <updated>2023-10-04T13:44:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7281685806375406894</id>
-    <title>Another injury... Such is life. Bad timing, though. We leave for CO on the 9th. 😅 #fyp </title>
-    <updated>2023-09-22T16:20:02+00:00</updated>
-    <content>Another injury... Such is life. Bad timing, though. We leave for CO on the 9th. 😅 #fyp </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7281685806375406894" rel="alternate"/>
-    <published>2023-09-22T16:20:02+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7282077856832802090</id>
     <title>They're fucking amazing.  I had to wear this brace for 3 months after my MCL replacement. It's making me feel a certain way wearing it again on the opposite, but my partner is helping me so much. Haha. Just a reminder to change my perspective. ☺️ #fyp </title>
@@ -91,5 +83,13 @@
     <content>Discovered this a few days ago. I've never seen this before, does anyone else have this? Lol. #fyp </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7285770565686906158" rel="alternate"/>
     <published>2023-10-03T16:31:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7286098562977500458</id>
+    <title>I will walk this life next to you, loyally, sweetly, understanding and compassionate. Roux, we're getting married. #fyp #trans </title>
+    <updated>2023-10-04T13:44:10+00:00</updated>
+    <content>I will walk this life next to you, loyally, sweetly, understanding and compassionate. Roux, we're getting married. #fyp #trans </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7286098562977500458" rel="alternate"/>
+    <published>2023-10-04T13:44:10+00:00</published>
   </entry>
 </feed>
