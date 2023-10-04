@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@nopanicbutton</id>
   <title>@nopanicbutton | TikTok</title>
-  <updated>2023-10-02T16:18:18+00:00</updated>
+  <updated>2023-10-04T19:45:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @nopanicbutton</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nopanicbutton/video/7277676061637332266</id>
-    <title>The joys of indoor gardening. Don't forget to join us on Discord!  Link in bio! #hydroponics </title>
-    <updated>2023-09-11T21:00:17+00:00</updated>
-    <content>The joys of indoor gardening. Don't forget to join us on Discord!  Link in bio! #hydroponics </content>
-    <link href="https://tiktok.com/@nopanicbutton/video/7277676061637332266" rel="alternate"/>
-    <published>2023-09-11T21:00:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nopanicbutton/video/7278462288783330603</id>
     <title>Every holiday has it's season.   #no #waityourturnchirstmas </title>
@@ -91,5 +83,13 @@
     <content>Tacos are my favorite. #tacos #yum #eatit Join us on Discord! Link in bio!</content>
     <link href="https://tiktok.com/@nopanicbutton/video/7285396143897431338" rel="alternate"/>
     <published>2023-10-02T16:18:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nopanicbutton/video/7286191657010220330</id>
+    <title>My life is a cosmic gag reel. Join us on Discord! Link in bio </title>
+    <updated>2023-10-04T19:45:17+00:00</updated>
+    <content>My life is a cosmic gag reel. Join us on Discord! Link in bio </content>
+    <link href="https://tiktok.com/@nopanicbutton/video/7286191657010220330" rel="alternate"/>
+    <published>2023-10-04T19:45:17+00:00</published>
   </entry>
 </feed>
