@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@itspeachyfr</id>
   <title>@itspeachyfr | TikTok</title>
-  <updated>2023-08-18T19:18:33+00:00</updated>
+  <updated>2023-10-04T00:31:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @itspeachyfr</subtitle>
-  <entry>
-    <id>https://tiktok.com/@itspeachyfr/video/7258417787243384110</id>
-    <title>be gone- </title>
-    <updated>2023-07-21T23:28:17+00:00</updated>
-    <content>be gone- </content>
-    <link href="https://tiktok.com/@itspeachyfr/video/7258417787243384110" rel="alternate"/>
-    <published>2023-07-21T23:28:17+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@itspeachyfr/video/7260245137916202282</id>
-    <title>back on the road … </title>
-    <updated>2023-07-26T21:39:14+00:00</updated>
-    <content>back on the road … </content>
-    <link href="https://tiktok.com/@itspeachyfr/video/7260245137916202282" rel="alternate"/>
-    <published>2023-07-26T21:39:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@itspeachyfr/video/7265498343617367338</id>
     <title>brown eyes </title>
@@ -91,5 +75,21 @@
     <content>thats what she said </content>
     <link href="https://tiktok.com/@itspeachyfr/video/7268743820886543658" rel="alternate"/>
     <published>2023-08-18T19:18:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@itspeachyfr/video/7285893810331176238</id>
+    <title>oh a kick with this song </title>
+    <updated>2023-10-04T00:29:22+00:00</updated>
+    <content>oh a kick with this song </content>
+    <link href="https://tiktok.com/@itspeachyfr/video/7285893810331176238" rel="alternate"/>
+    <published>2023-10-04T00:29:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@itspeachyfr/video/7285894443813637419</id>
+    <title>well go figure </title>
+    <updated>2023-10-04T00:31:44+00:00</updated>
+    <content>well go figure </content>
+    <link href="https://tiktok.com/@itspeachyfr/video/7285894443813637419" rel="alternate"/>
+    <published>2023-10-04T00:31:44+00:00</published>
   </entry>
 </feed>
