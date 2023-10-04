@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-10-04T03:24:34+00:00</updated>
+  <updated>2023-10-04T07:57:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7284271069542829355</id>
-    <title>THIS! SOUND! IS! MANIFESTING!</title>
-    <updated>2023-09-29T15:32:37+00:00</updated>
-    <content>THIS! SOUND! IS! MANIFESTING!</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7284271069542829355" rel="alternate"/>
-    <published>2023-09-29T15:32:37+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7284342428134313258</id>
-    <title>A rare jeans moment </title>
-    <updated>2023-09-29T20:09:17+00:00</updated>
-    <content>A rare jeans moment </content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7284342428134313258" rel="alternate"/>
-    <published>2023-09-29T20:09:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7284412475074776362</id>
     <title>Genuinely this is probably accurate </title>
@@ -91,5 +75,21 @@
     <content>Jeans or the split skirt tomorrow?</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7285938951699975466" rel="alternate"/>
     <published>2023-10-04T03:24:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7286003472506309934</id>
+    <title>Oops</title>
+    <updated>2023-10-04T07:35:34+00:00</updated>
+    <content>Oops</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7286003472506309934" rel="alternate"/>
+    <published>2023-10-04T07:35:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7286008974422510894</id>
+    <title>Bro she’s so funny (if you look closely you can see me drop my metal beads lmao)</title>
+    <updated>2023-10-04T07:57:56+00:00</updated>
+    <content>Bro she’s so funny (if you look closely you can see me drop my metal beads lmao)</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7286008974422510894" rel="alternate"/>
+    <published>2023-10-04T07:57:56+00:00</published>
   </entry>
 </feed>
