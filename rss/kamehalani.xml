@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kamehalani</id>
   <title>@kamehalani | TikTok</title>
-  <updated>2023-10-04T02:42:05+00:00</updated>
+  <updated>2023-10-04T16:19:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kamehalani</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kamehalani/video/7278337448248118570</id>
-    <title>Replying to @Susan Wagers Farzalo #greenscreen wow #kanaka #nativetiktok #hawaii #hawaiitiktok #maui #nativehawaiian </title>
-    <updated>2023-09-13T15:46:55+00:00</updated>
-    <content>Replying to @Susan Wagers Farzalo #greenscreen wow #kanaka #nativetiktok #hawaii #hawaiitiktok #maui #nativehawaiian </content>
-    <link href="https://tiktok.com/@kamehalani/video/7278337448248118570" rel="alternate"/>
-    <published>2023-09-13T15:46:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kamehalani/video/7278711799027862830</id>
-    <title>Replying to @Scarb stop #kanaka #nativetiktok #hawaii #hawaiitiktok #nativehawaiian #native </title>
-    <updated>2023-09-14T15:59:21+00:00</updated>
-    <content>Replying to @Scarb stop #kanaka #nativetiktok #hawaii #hawaiitiktok #nativehawaiian #native </content>
-    <link href="https://tiktok.com/@kamehalani/video/7278711799027862830" rel="alternate"/>
-    <published>2023-09-14T15:59:21+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kamehalani/video/7280266822182538539</id>
-    <title>Happy late new year loves! Remember that you should not be antisemtic #jewish #jewtok #judiasm #jewishtiktok </title>
-    <updated>2023-09-18T20:33:43+00:00</updated>
-    <content>Happy late new year loves! Remember that you should not be antisemtic #jewish #jewtok #judiasm #jewishtiktok </content>
-    <link href="https://tiktok.com/@kamehalani/video/7280266822182538539" rel="alternate"/>
-    <published>2023-09-18T20:33:43+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kamehalani/video/7280273046680685866</id>
     <title>Replying to @user252072 my people are so smart. #kanaka #nativetiktok #hawaii #nativetiktok #hawaiitiktok #nativehawaiian #polynesian </title>
@@ -91,5 +67,29 @@
     <content>#edawareness thank you for your support these years. It is never too late to start living! #edrec0very </content>
     <link href="https://tiktok.com/@kamehalani/video/7285928014565707039" rel="alternate"/>
     <published>2023-10-04T02:42:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kamehalani/video/7286128997438688543</id>
+    <title>Ummmmm unless you are black or asian i wouldnt be accepting a half baked apology just because your fav yt le$bian is in hot water. #lundenandolivia #lgbt </title>
+    <updated>2023-10-04T15:42:10+00:00</updated>
+    <content>Ummmmm unless you are black or asian i wouldnt be accepting a half baked apology just because your fav yt le$bian is in hot water. #lundenandolivia #lgbt </content>
+    <link href="https://tiktok.com/@kamehalani/video/7286128997438688543" rel="alternate"/>
+    <published>2023-10-04T15:42:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kamehalani/video/7286132050225057055</id>
+    <title>Im sad #judiasm #jewishtiktok #jewtok #jewish </title>
+    <updated>2023-10-04T15:53:59+00:00</updated>
+    <content>Im sad #judiasm #jewishtiktok #jewtok #jewish </content>
+    <link href="https://tiktok.com/@kamehalani/video/7286132050225057055" rel="alternate"/>
+    <published>2023-10-04T15:53:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kamehalani/video/7286138480520989983</id>
+    <title>#greenscreen healing the world with comedy #jewishtiktok #judiasm #jewtok #jewish #jewishwomen </title>
+    <updated>2023-10-04T16:19:02+00:00</updated>
+    <content>#greenscreen healing the world with comedy #jewishtiktok #judiasm #jewtok #jewish #jewishwomen </content>
+    <link href="https://tiktok.com/@kamehalani/video/7286138480520989983" rel="alternate"/>
+    <published>2023-10-04T16:19:02+00:00</published>
   </entry>
 </feed>
