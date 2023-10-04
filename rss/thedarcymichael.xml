@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-10-03T19:00:12+00:00</updated>
+  <updated>2023-10-04T16:27:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7281123273876753670</id>
-    <title>we tolerate you</title>
-    <updated>2023-09-21T03:57:17+00:00</updated>
-    <content>we tolerate you</content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7281123273876753670" rel="alternate"/>
-    <published>2023-09-21T03:57:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7281651705610046726</id>
     <title>Yay?</title>
@@ -91,5 +83,13 @@
     <content>Sorry i got so mad at the end 😎😬 As a comedian, It always feels weird being genuine but i think its good to share the good news and the not so good news sometimes too. So here i am humbly trying to get the word out to being my husband a little joy #comedy #husbands #marriedlife #adhd #couples #darcyandjer #CapCut </content>
     <link href="https://tiktok.com/@thedarcymichael/video/7285809030805736710" rel="alternate"/>
     <published>2023-10-03T19:00:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7286140647436782854</id>
+    <title>Happy birthday to my sweet prince @Shhhhecret account ! I’m constantly just in awe of everything you’ve taken on.  From fatherhood, to performing,  to daddyhood (wwwwwink) you never cease to amaze me. I can’t wait to see what you do next, I just hope what</title>
+    <updated>2023-10-04T16:27:00+00:00</updated>
+    <content>Happy birthday to my sweet prince @Shhhhecret account ! I’m constantly just in awe of everything you’ve taken on.  From fatherhood, to performing,  to daddyhood (wwwwwink) you never cease to amaze me. I can’t wait to see what you do next, I just hope whatever it is it’s easier on your knees. (wwwwink)</content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7286140647436782854" rel="alternate"/>
+    <published>2023-10-04T16:27:00+00:00</published>
   </entry>
 </feed>
