@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avocadosnaliens</id>
   <title>@avocadosnaliens | TikTok</title>
-  <updated>2023-10-03T21:25:56+00:00</updated>
+  <updated>2023-10-04T01:56:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avocadosnaliens</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avocadosnaliens/video/7277690349324127531</id>
-    <title>#stitch with @Kat Shortsleeve👕 #snashandgrab #sanfrancisco #bayarea #psa </title>
-    <updated>2023-09-11T21:55:41+00:00</updated>
-    <content>#stitch with @Kat Shortsleeve👕 #snashandgrab #sanfrancisco #bayarea #psa </content>
-    <link href="https://tiktok.com/@avocadosnaliens/video/7277690349324127531" rel="alternate"/>
-    <published>2023-09-11T21:55:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avocadosnaliens/video/7279487084258250026</id>
     <title>[no title]</title>
@@ -91,5 +83,13 @@
     <content>No hate its a joke🤪🤪🤪</content>
     <link href="https://tiktok.com/@avocadosnaliens/video/7285846490466192686" rel="alternate"/>
     <published>2023-10-03T21:25:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7285916394368011562</id>
+    <title>My adhd is my photography and my photography is my adhd. #photography #35mmfilm #nikon </title>
+    <updated>2023-10-04T01:56:55+00:00</updated>
+    <content>My adhd is my photography and my photography is my adhd. #photography #35mmfilm #nikon </content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7285916394368011562" rel="alternate"/>
+    <published>2023-10-04T01:56:55+00:00</published>
   </entry>
 </feed>
