@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-10-03T17:40:20+00:00</updated>
+  <updated>2023-10-04T00:53:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7282987830375320878</id>
-    <title>All I know right now is that there's a lot more of us than we ever expected. I'm just required to exist at the moment. I suppose the rest comes later. #solardidsystem #sshalcyon </title>
-    <updated>2023-09-26T04:32:34+00:00</updated>
-    <content>All I know right now is that there's a lot more of us than we ever expected. I'm just required to exist at the moment. I suppose the rest comes later. #solardidsystem #sshalcyon </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7282987830375320878" rel="alternate"/>
-    <published>2023-09-26T04:32:34+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7283273277508832558</id>
     <title>The spot on her chin is just a little pimple. She gets them from time to time. She sees the vet again Friday for her next arthritis shot 💝 #solardidsystem #ladybug #cat #cats #catsoftiktok </title>
@@ -91,5 +83,13 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@stuffwithbits/video/7285788378103057707" rel="alternate"/>
     <published>2023-10-03T17:40:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7285900073630846251</id>
+    <title>here's your proof of life #solardidsystem #ssaylix #sshalcyon </title>
+    <updated>2023-10-04T00:53:38+00:00</updated>
+    <content>here's your proof of life #solardidsystem #ssaylix #sshalcyon </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7285900073630846251" rel="alternate"/>
+    <published>2023-10-04T00:53:38+00:00</published>
   </entry>
 </feed>
