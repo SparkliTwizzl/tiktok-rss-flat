@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-10-05T02:31:12+00:00</updated>
+  <updated>2023-10-05T05:31:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7284766828046486830</id>
-    <title>[no title]</title>
-    <updated>2023-09-30T23:36:03+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7284766828046486830" rel="alternate"/>
-    <published>2023-09-30T23:36:03+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7284848899813166378</id>
-    <title>Im sweaty</title>
-    <updated>2023-10-01T04:54:37+00:00</updated>
-    <content>Im sweaty</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7284848899813166378" rel="alternate"/>
-    <published>2023-10-01T04:54:37+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7285194341289577770</id>
-    <title>I want to go on vacation </title>
-    <updated>2023-10-02T03:15:01+00:00</updated>
-    <content>I want to go on vacation </content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7285194341289577770" rel="alternate"/>
-    <published>2023-10-02T03:15:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7285537852493008170</id>
     <title>The phone case adds to the drama</title>
@@ -91,5 +67,29 @@
     <content>I hope you buy her flowers</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7286296310351678766" rel="alternate"/>
     <published>2023-10-05T02:31:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7286313575721831722</id>
+    <title>SHES SO FUNNY</title>
+    <updated>2023-10-05T03:38:17+00:00</updated>
+    <content>SHES SO FUNNY</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7286313575721831722" rel="alternate"/>
+    <published>2023-10-05T03:38:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7286327431085002027</id>
+    <title>I can’t decide what shoes to wear </title>
+    <updated>2023-10-05T04:32:13+00:00</updated>
+    <content>I can’t decide what shoes to wear </content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7286327431085002027" rel="alternate"/>
+    <published>2023-10-05T04:32:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7286342724175940906</id>
+    <title>Top comment is the name of the cowboy in the back</title>
+    <updated>2023-10-05T05:31:52+00:00</updated>
+    <content>Top comment is the name of the cowboy in the back</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7286342724175940906" rel="alternate"/>
+    <published>2023-10-05T05:31:52+00:00</published>
   </entry>
 </feed>
