@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jacobtheseahorse</id>
   <title>@jacobtheseahorse | TikTok</title>
-  <updated>2023-10-04T21:08:00+00:00</updated>
+  <updated>2023-10-05T15:19:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jacobtheseahorse</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7280988900217130273</id>
-    <title>Replying to @sunrise_sam ah there it is. it doesn't usually take long for the true colours to show. cis is not a harmful term, it just means "not-trans", the pushback against it is entirely driven by transphobia #cis #trans #honesty #queer #lgbt #queertok</title>
-    <updated>2023-09-20T19:15:36+00:00</updated>
-    <content>Replying to @sunrise_sam ah there it is. it doesn't usually take long for the true colours to show. cis is not a harmful term, it just means "not-trans", the pushback against it is entirely driven by transphobia #cis #trans #honesty #queer #lgbt #queertok </content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7280988900217130273" rel="alternate"/>
-    <published>2023-09-20T19:15:36+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jacobtheseahorse/video/7280999388493745440</id>
     <title>Replying to @sunrise_sam 🥲 it really hurts your feelings when you attack a marginalised group and allies are there to protect them.  thanks to the #ally that got this response. I see your comments and I value your support</title>
@@ -91,5 +83,13 @@
     <content>I have so much footage of myself from coming out to having chest surgery and beyond. it's kind of healing to share it, so I hope you enjoy it. I'll be releasing more as I go through it all! please do ask questions and I'll do my best to answer  #trans #transition #back #memories #transgender #past #growth #beforeandafter #hormones #lgbtq #queer #lgbtqia #survivors </content>
     <link href="https://tiktok.com/@jacobtheseahorse/video/7286213044999310624" rel="alternate"/>
     <published>2023-10-04T21:08:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7286494323976228129</id>
+    <title>I bet you people please to the extent that it hurts you.  this is your reminder that "no" has power and value and you're worth it!  #peoplepleaser #no #lgtbq #audhd #cptsd #therapy #support </title>
+    <updated>2023-10-05T15:19:28+00:00</updated>
+    <content>I bet you people please to the extent that it hurts you.  this is your reminder that "no" has power and value and you're worth it!  #peoplepleaser #no #lgtbq #audhd #cptsd #therapy #support </content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7286494323976228129" rel="alternate"/>
+    <published>2023-10-05T15:19:28+00:00</published>
   </entry>
 </feed>
