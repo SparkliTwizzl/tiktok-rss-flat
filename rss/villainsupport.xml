@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@villainsupport</id>
   <title>@villainsupport | TikTok</title>
-  <updated>2023-10-05T16:38:57+00:00</updated>
+  <updated>2023-10-05T20:51:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @villainsupport</subtitle>
-  <entry>
-    <id>https://tiktok.com/@villainsupport/video/7282830300852604203</id>
-    <title>It was so great to meet all of you! #fanxsaltlake #acmetok #acmevillainsupport </title>
-    <updated>2023-09-25T18:21:19+00:00</updated>
-    <content>It was so great to meet all of you! #fanxsaltlake #acmetok #acmevillainsupport </content>
-    <link href="https://tiktok.com/@villainsupport/video/7282830300852604203" rel="alternate"/>
-    <published>2023-09-25T18:21:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@villainsupport/video/7283189557892468014</id>
     <title>#fanxsaltlake #acmetok #acmevillainsupport </title>
@@ -91,5 +83,13 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@villainsupport/video/7286514723879685406" rel="alternate"/>
     <published>2023-10-05T16:38:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@villainsupport/video/7286579816801815839</id>
+    <title>The Dresden Files Book 1: Storm Front (Part 6: Bianca the Vampire) #dresdenfiles #harrydresden #jimbutcher #vampire #wizard #magic #acmetok #acmevillainsupport </title>
+    <updated>2023-10-05T20:51:24+00:00</updated>
+    <content>The Dresden Files Book 1: Storm Front (Part 6: Bianca the Vampire) #dresdenfiles #harrydresden #jimbutcher #vampire #wizard #magic #acmetok #acmevillainsupport </content>
+    <link href="https://tiktok.com/@villainsupport/video/7286579816801815839" rel="alternate"/>
+    <published>2023-10-05T20:51:24+00:00</published>
   </entry>
 </feed>

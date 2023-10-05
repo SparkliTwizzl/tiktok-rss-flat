@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@manic.toxicity</id>
   <title>@manic.toxicity | TikTok</title>
-  <updated>2023-10-03T22:55:54+00:00</updated>
+  <updated>2023-10-05T21:34:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @manic.toxicity</subtitle>
-  <entry>
-    <id>https://tiktok.com/@manic.toxicity/video/7277684551869140266</id>
-    <title>bound to happen to me &lt;3 #fyp #foryou</title>
-    <updated>2023-09-11T21:33:14+00:00</updated>
-    <content>bound to happen to me &lt;3 #fyp #foryou</content>
-    <link href="https://tiktok.com/@manic.toxicity/video/7277684551869140266" rel="alternate"/>
-    <published>2023-09-11T21:33:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@manic.toxicity/video/7278111533501222190</id>
     <title>of the yes indeed ✨ #fyp #foryiu #teentitans #starfire</title>
@@ -91,5 +83,13 @@
     <content>like im the only girl in the world #fyp #foryou #biktok #5up1down #motorcycle #slow #300cc </content>
     <link href="https://tiktok.com/@manic.toxicity/video/7285869726947970346" rel="alternate"/>
     <published>2023-10-03T22:55:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@manic.toxicity/video/7286590836962364714</id>
+    <title>yes my hair is wet, i am blonde i promise #fyp #foryou </title>
+    <updated>2023-10-05T21:34:16+00:00</updated>
+    <content>yes my hair is wet, i am blonde i promise #fyp #foryou </content>
+    <link href="https://tiktok.com/@manic.toxicity/video/7286590836962364714" rel="alternate"/>
+    <published>2023-10-05T21:34:16+00:00</published>
   </entry>
 </feed>
