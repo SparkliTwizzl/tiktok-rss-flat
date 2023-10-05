@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@hyndsyghts</id>
   <title>@hyndsyghts | TikTok</title>
-  <updated>2023-09-27T00:08:21+00:00</updated>
+  <updated>2023-10-05T18:24:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @hyndsyghts</subtitle>
-  <entry>
-    <id>https://tiktok.com/@hyndsyghts/video/7279608042394537258</id>
-    <title>this is a "go piss girl" moment #gremlincore #travel #lgbtq </title>
-    <updated>2023-09-17T01:57:14+00:00</updated>
-    <content>this is a "go piss girl" moment #gremlincore #travel #lgbtq </content>
-    <link href="https://tiktok.com/@hyndsyghts/video/7279608042394537258" rel="alternate"/>
-    <published>2023-09-17T01:57:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@hyndsyghts/video/7279933605747428650</id>
     <title>this was at like 9am girl #lgbtq #travel </title>
@@ -91,5 +83,13 @@
     <content>#existentialanxiety #ocd #therapy #lgbtq </content>
     <link href="https://tiktok.com/@hyndsyghts/video/7283290822005574942" rel="alternate"/>
     <published>2023-09-27T00:08:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@hyndsyghts/video/7286541914961104171</id>
+    <title>#stitch with @Tré Vayne #actuallyautistic #hermit </title>
+    <updated>2023-10-05T18:24:23+00:00</updated>
+    <content>#stitch with @Tré Vayne #actuallyautistic #hermit </content>
+    <link href="https://tiktok.com/@hyndsyghts/video/7286541914961104171" rel="alternate"/>
+    <published>2023-10-05T18:24:23+00:00</published>
   </entry>
 </feed>
