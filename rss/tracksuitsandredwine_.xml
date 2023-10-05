@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@tracksuitsandredwine_</id>
   <title>@tracksuitsandredwine_ | TikTok</title>
-  <updated>2023-10-05T07:12:48+00:00</updated>
+  <updated>2023-10-05T07:17:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @tracksuitsandredwine_</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tracksuitsandredwine_/video/7270802242607795457</id>
-    <title>so real</title>
-    <updated>2023-08-24T08:26:10+00:00</updated>
-    <content>so real</content>
-    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7270802242607795457" rel="alternate"/>
-    <published>2023-08-24T08:26:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tracksuitsandredwine_/video/7271634452357352705</id>
     <title>not my vibe 🥱 </title>
@@ -91,5 +83,13 @@
     <content>binky cos</content>
     <link href="https://tiktok.com/@tracksuitsandredwine_/video/7286368893780774145" rel="alternate"/>
     <published>2023-10-05T07:12:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tracksuitsandredwine_/video/7286370192777563393</id>
+    <title>last one i promise xoxo</title>
+    <updated>2023-10-05T07:17:46+00:00</updated>
+    <content>last one i promise xoxo</content>
+    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7286370192777563393" rel="alternate"/>
+    <published>2023-10-05T07:17:46+00:00</published>
   </entry>
 </feed>
