@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-10-04T20:00:19+00:00</updated>
+  <updated>2023-10-05T12:56:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -69,14 +69,6 @@
     <published>2023-10-01T20:40:16+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@punktoad/video/7285414420145048878</id>
-    <title>Smells like 5-layer beefy in here </title>
-    <updated>2023-10-02T17:29:14+00:00</updated>
-    <content>Smells like 5-layer beefy in here </content>
-    <link href="https://tiktok.com/@punktoad/video/7285414420145048878" rel="alternate"/>
-    <published>2023-10-02T17:29:14+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@punktoad/video/7285526793463860522</id>
     <title>I loved this trend 😅</title>
     <updated>2023-10-03T00:45:07+00:00</updated>
@@ -91,5 +83,13 @@
     <content>I would hate all of these </content>
     <link href="https://tiktok.com/@punktoad/video/7286195561479490862" rel="alternate"/>
     <published>2023-10-04T20:00:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7286457284203646254</id>
+    <title>#CapCut </title>
+    <updated>2023-10-05T12:56:09+00:00</updated>
+    <content>#CapCut </content>
+    <link href="https://tiktok.com/@punktoad/video/7286457284203646254" rel="alternate"/>
+    <published>2023-10-05T12:56:09+00:00</published>
   </entry>
 </feed>
