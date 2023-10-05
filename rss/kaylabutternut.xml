@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-10-05T05:31:52+00:00</updated>
+  <updated>2023-10-05T17:43:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7285537852493008170</id>
-    <title>The phone case adds to the drama</title>
-    <updated>2023-10-03T01:28:05+00:00</updated>
-    <content>The phone case adds to the drama</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7285537852493008170" rel="alternate"/>
-    <published>2023-10-03T01:28:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7285538580569771310</id>
     <title>Hit my line if you can teach me how to do makeup</title>
@@ -91,5 +83,13 @@
     <content>Top comment is the name of the cowboy in the back</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7286342724175940906" rel="alternate"/>
     <published>2023-10-05T05:31:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7286531321919294763</id>
+    <title>Like no</title>
+    <updated>2023-10-05T17:43:23+00:00</updated>
+    <content>Like no</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7286531321919294763" rel="alternate"/>
+    <published>2023-10-05T17:43:23+00:00</published>
   </entry>
 </feed>
