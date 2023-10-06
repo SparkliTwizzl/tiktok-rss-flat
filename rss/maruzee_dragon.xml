@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maruzee_dragon</id>
   <title>@maruzee_dragon | TikTok</title>
-  <updated>2023-10-04T01:17:23+00:00</updated>
+  <updated>2023-10-06T02:16:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maruzee_dragon</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maruzee_dragon/video/7280709388497734918</id>
-    <title>Time flies, it's been a year since I created this transition! So here's a remake with a character from Street Fighter, JURI💗... Should I try a Mortal Kombat one next?🤔🐲 #transition #mk #videogames #gamer #martialarts #trick #skills #gaming #cosplay </title>
-    <updated>2023-09-20T01:10:58+00:00</updated>
-    <content>Time flies, it's been a year since I created this transition! So here's a remake with a character from Street Fighter, JURI💗... Should I try a Mortal Kombat one next?🤔🐲 #transition #mk #videogames #gamer #martialarts #trick #skills #gaming #cosplay </content>
-    <link href="https://tiktok.com/@maruzee_dragon/video/7280709388497734918" rel="alternate"/>
-    <published>2023-09-20T01:10:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maruzee_dragon/video/7281083679886134533</id>
     <title>I'm seeing a bit of Star Wars mixed with MK!😂 And yep, the walk's back again!👍 #martialarts #transition #trainedprofessional #lightsaber </title>
@@ -91,5 +83,13 @@
     <content>Oops, I ACCIDENTALLY brought back Harley Quinn for spooky season! I'm sorry 😂 #transition #cosplay #harleyquinn #dccomics </content>
     <link href="https://tiktok.com/@maruzee_dragon/video/7285906237378596101" rel="alternate"/>
     <published>2023-10-04T01:17:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maruzee_dragon/video/7286663650251672837</id>
+    <title>Réponse à @emilija3651 Pink lightsabers 💗 And Star Wars meets MK vibes again!👍 #starwars #lightsaber #martialarts #transition </title>
+    <updated>2023-10-06T02:16:33+00:00</updated>
+    <content>Réponse à @emilija3651 Pink lightsabers 💗 And Star Wars meets MK vibes again!👍 #starwars #lightsaber #martialarts #transition </content>
+    <link href="https://tiktok.com/@maruzee_dragon/video/7286663650251672837" rel="alternate"/>
+    <published>2023-10-06T02:16:33+00:00</published>
   </entry>
 </feed>
