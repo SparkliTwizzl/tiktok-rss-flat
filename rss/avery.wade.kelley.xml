@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-10-06T04:13:13+00:00</updated>
+  <updated>2023-10-06T16:44:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7283912642144701742</id>
-    <title>To be honest, it never closed. Lol. I haven't had this thing in for two years. #fyp </title>
-    <updated>2023-09-28T16:21:22+00:00</updated>
-    <content>To be honest, it never closed. Lol. I haven't had this thing in for two years. #fyp </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7283912642144701742" rel="alternate"/>
-    <published>2023-09-28T16:21:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7283988115281251627</id>
     <title>Sometimes you just gotta pretend you're in a music video, and feel the fuckin music. #fyp #goth </title>
@@ -91,5 +83,13 @@
     <content>#duet with @Safe Space Learning, being the operative word. </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7286693543052070187" rel="alternate"/>
     <published>2023-10-06T04:13:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7286887302104730922</id>
+    <title>Sold my baby. :[  It gave me so much joy, man... I will miss that bike. Kawasaki Ninja 300 2015. 🖤 I fully plan to get another one, but there's nothing like your first one. This was hard to let go. #fyp </title>
+    <updated>2023-10-06T16:44:49+00:00</updated>
+    <content>Sold my baby. :[  It gave me so much joy, man... I will miss that bike. Kawasaki Ninja 300 2015. 🖤 I fully plan to get another one, but there's nothing like your first one. This was hard to let go. #fyp </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7286887302104730922" rel="alternate"/>
+    <published>2023-10-06T16:44:49+00:00</published>
   </entry>
 </feed>
