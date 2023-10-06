@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@steffzombie</id>
   <title>@steffzombie | TikTok</title>
-  <updated>2023-10-05T16:15:29+00:00</updated>
+  <updated>2023-10-06T00:41:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @steffzombie</subtitle>
-  <entry>
-    <id>https://tiktok.com/@steffzombie/video/7273652449737575722</id>
-    <title>Black goths are valid 😞🤘🏾</title>
-    <updated>2023-09-01T00:46:33+00:00</updated>
-    <content>Black goths are valid 😞🤘🏾</content>
-    <link href="https://tiktok.com/@steffzombie/video/7273652449737575722" rel="alternate"/>
-    <published>2023-09-01T00:46:33+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@steffzombie/video/7274003877676993835</id>
-    <title>Karate queer.</title>
-    <updated>2023-09-01T23:30:13+00:00</updated>
-    <content>Karate queer.</content>
-    <link href="https://tiktok.com/@steffzombie/video/7274003877676993835" rel="alternate"/>
-    <published>2023-09-01T23:30:13+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@steffzombie/video/7282197883372211499</id>
     <title>Dress for yourself not others and their opinions wont faze you. #fy </title>
@@ -91,5 +75,21 @@
     <content>Zesty &gt;&gt;&gt;&gt;&gt; Bland #fy </content>
     <link href="https://tiktok.com/@steffzombie/video/7286508637416262958" rel="alternate"/>
     <published>2023-10-05T16:15:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@steffzombie/video/7286630391023177002</id>
+    <title>👁️ 👄 🛑 #spooki</title>
+    <updated>2023-10-06T00:07:40+00:00</updated>
+    <content>👁️ 👄 🛑 #spooki</content>
+    <link href="https://tiktok.com/@steffzombie/video/7286630391023177002" rel="alternate"/>
+    <published>2023-10-06T00:07:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@steffzombie/video/7286639249678437678</id>
+    <title>Tall dark and Spooky?  #fy </title>
+    <updated>2023-10-06T00:41:59+00:00</updated>
+    <content>Tall dark and Spooky?  #fy </content>
+    <link href="https://tiktok.com/@steffzombie/video/7286639249678437678" rel="alternate"/>
+    <published>2023-10-06T00:41:59+00:00</published>
   </entry>
 </feed>

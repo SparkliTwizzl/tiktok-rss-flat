@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-10-05T03:11:26+00:00</updated>
+  <updated>2023-10-06T00:35:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7281747386660048133</id>
-    <title>I think they knew? #manchild #parentingfail #dad #mom #funny #whoops #fail </title>
-    <updated>2023-09-22T20:18:53+00:00</updated>
-    <content>I think they knew? #manchild #parentingfail #dad #mom #funny #whoops #fail </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7281747386660048133" rel="alternate"/>
-    <published>2023-09-22T20:18:53+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7283210819469446406</id>
     <title>I understood his reasoning once I saw why #propertytour #gardener #plantdaddy55 #review #rental #airbnbfinds #comedy #funny </title>
@@ -91,5 +83,13 @@
     <content>Spent all week planning this surprise. Totally worth it! #surpriseparty #surprisingmywife #husbandoftheyear #comedy #funny #fail </content>
     <link href="https://tiktok.com/@thedarcymichael/video/7286306715291749637" rel="alternate"/>
     <published>2023-10-05T03:11:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7286637647504690437</id>
+    <title>Zero remorse #plants #funny #family #marriedlife #gardener </title>
+    <updated>2023-10-06T00:35:37+00:00</updated>
+    <content>Zero remorse #plants #funny #family #marriedlife #gardener </content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7286637647504690437" rel="alternate"/>
+    <published>2023-10-06T00:35:37+00:00</published>
   </entry>
 </feed>
