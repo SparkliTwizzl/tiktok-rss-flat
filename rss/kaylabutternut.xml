@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-10-05T22:47:29+00:00</updated>
+  <updated>2023-10-06T02:21:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7285584889347394859</id>
-    <title>Wait for it</title>
-    <updated>2023-10-03T04:30:45+00:00</updated>
-    <content>Wait for it</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7285584889347394859" rel="alternate"/>
-    <published>2023-10-03T04:30:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7285938951699975466</id>
     <title>Jeans or the split skirt tomorrow?</title>
@@ -91,5 +83,13 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7286609733698604331" rel="alternate"/>
     <published>2023-10-05T22:47:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7286664973621677358</id>
+    <title>The stockings noooooo</title>
+    <updated>2023-10-06T02:21:52+00:00</updated>
+    <content>The stockings noooooo</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7286664973621677358" rel="alternate"/>
+    <published>2023-10-06T02:21:52+00:00</published>
   </entry>
 </feed>
