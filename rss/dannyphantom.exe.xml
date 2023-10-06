@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dannyphantom.exe</id>
   <title>@dannyphantom.exe | TikTok</title>
-  <updated>2023-10-05T02:17:46+00:00</updated>
+  <updated>2023-10-06T02:34:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dannyphantom.exe</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7284065859767733546</id>
-    <title>uki is that dog in me</title>
-    <updated>2023-09-29T02:15:54+00:00</updated>
-    <content>uki is that dog in me</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7284065859767733546" rel="alternate"/>
-    <published>2023-09-29T02:15:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7284437144578329899</id>
-    <title>tag someone who does this</title>
-    <updated>2023-09-30T02:16:42+00:00</updated>
-    <content>tag someone who does this</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7284437144578329899" rel="alternate"/>
-    <published>2023-09-30T02:16:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dannyphantom.exe/video/7284807851204185386</id>
     <title>tag your best friend </title>
@@ -91,5 +75,21 @@
     <content>tag someone in a situation-ship</content>
     <link href="https://tiktok.com/@dannyphantom.exe/video/7286292838613044523" rel="alternate"/>
     <published>2023-10-05T02:17:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7286667920212643114</id>
+    <title>HELP AHHhh</title>
+    <updated>2023-10-06T02:33:21+00:00</updated>
+    <content>HELP AHHhh</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7286667920212643114" rel="alternate"/>
+    <published>2023-10-06T02:33:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7286668255714905387</id>
+    <title>the joke is that im 🏳️‍🌈</title>
+    <updated>2023-10-06T02:34:36+00:00</updated>
+    <content>the joke is that im 🏳️‍🌈</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7286668255714905387" rel="alternate"/>
+    <published>2023-10-06T02:34:36+00:00</published>
   </entry>
 </feed>
