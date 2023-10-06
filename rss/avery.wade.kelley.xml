@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-10-04T17:56:20+00:00</updated>
+  <updated>2023-10-06T04:13:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7282864401831497003</id>
-    <title>Getting close!! Ah! #fyp #trans </title>
-    <updated>2023-09-25T20:33:36+00:00</updated>
-    <content>Getting close!! Ah! #fyp #trans </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7282864401831497003" rel="alternate"/>
-    <published>2023-09-25T20:33:36+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7282869504948948270</id>
-    <title>I can't make this shit up. Lol. #fyp </title>
-    <updated>2023-09-25T20:53:25+00:00</updated>
-    <content>I can't make this shit up. Lol. #fyp </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7282869504948948270" rel="alternate"/>
-    <published>2023-09-25T20:53:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7283912642144701742</id>
     <title>To be honest, it never closed. Lol. I haven't had this thing in for two years. #fyp </title>
@@ -91,5 +75,21 @@
     <content>It's happening!!! #fyp #trans </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7286163562731425066" rel="alternate"/>
     <published>2023-10-04T17:56:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7286669443948629294</id>
+    <title>It's so surreal and bittersweet... #fyp #trans </title>
+    <updated>2023-10-06T02:39:13+00:00</updated>
+    <content>It's so surreal and bittersweet... #fyp #trans </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7286669443948629294" rel="alternate"/>
+    <published>2023-10-06T02:39:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7286693543052070187</id>
+    <title>#duet with @Safe Space Learning, being the operative word. </title>
+    <updated>2023-10-06T04:13:13+00:00</updated>
+    <content>#duet with @Safe Space Learning, being the operative word. </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7286693543052070187" rel="alternate"/>
+    <published>2023-10-06T04:13:13+00:00</published>
   </entry>
 </feed>
