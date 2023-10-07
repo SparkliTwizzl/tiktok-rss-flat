@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avocadosnaliens</id>
   <title>@avocadosnaliens | TikTok</title>
-  <updated>2023-10-06T22:19:17+00:00</updated>
+  <updated>2023-10-05T05:37:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avocadosnaliens</subtitle>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7282870940856257834</id>
+    <title>It breaks my heart</title>
+    <updated>2023-09-25T20:58:59+00:00</updated>
+    <content>It breaks my heart</content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7282870940856257834" rel="alternate"/>
+    <published>2023-09-25T20:58:59+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@avocadosnaliens/video/7283583359500995883</id>
     <title>It went well you guys!!!! When i ordered my food he asked if we could just share the plate becuase im tiny and i cant eat all that on my own🫶and they said chivalry was dead. So thoughtful 🥹</title>
@@ -83,13 +91,5 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@avocadosnaliens/video/7286344240999746859" rel="alternate"/>
     <published>2023-10-05T05:37:32+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@avocadosnaliens/video/7286973542560959790</id>
-    <title>[no title]</title>
-    <updated>2023-10-06T22:19:17+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@avocadosnaliens/video/7286973542560959790" rel="alternate"/>
-    <published>2023-10-06T22:19:17+00:00</published>
   </entry>
 </feed>
