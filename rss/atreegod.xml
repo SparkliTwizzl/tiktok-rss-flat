@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@atreegod</id>
   <title>@atreegod | TikTok</title>
-  <updated>2023-10-07T04:51:23+00:00</updated>
+  <updated>2023-10-06T04:39:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @atreegod</subtitle>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7283558289273654570</id>
+    <title>Issa fit check ma #wlw #lbtq </title>
+    <updated>2023-09-27T17:26:14+00:00</updated>
+    <content>Issa fit check ma #wlw #lbtq </content>
+    <link href="https://tiktok.com/@atreegod/video/7283558289273654570" rel="alternate"/>
+    <published>2023-09-27T17:26:14+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@atreegod/video/7284403318250605870</id>
     <title>I bit my lip sorryyy #wlw #lgbtq</title>
@@ -83,13 +91,5 @@
     <content>Brent at it ageeain #wlw #lgbtq </content>
     <link href="https://tiktok.com/@atreegod/video/7286700342648016174" rel="alternate"/>
     <published>2023-10-06T04:39:16+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@atreegod/video/7287074575966375210</id>
-    <title>Wink wink #wlw </title>
-    <updated>2023-10-07T04:51:23+00:00</updated>
-    <content>Wink wink #wlw </content>
-    <link href="https://tiktok.com/@atreegod/video/7287074575966375210" rel="alternate"/>
-    <published>2023-10-07T04:51:23+00:00</published>
   </entry>
 </feed>
