@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@juliafox038711</id>
   <title>@juliafox038711 | TikTok</title>
-  <updated>2023-10-03T18:58:49+00:00</updated>
+  <updated>2023-10-07T00:07:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juliafox038711</subtitle>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7282481114235686174</id>
-    <title>only posting cuz she smelled my face and it was cute </title>
-    <updated>2023-09-24T19:46:16+00:00</updated>
-    <content>only posting cuz she smelled my face and it was cute </content>
-    <link href="https://tiktok.com/@juliafox038711/video/7282481114235686174" rel="alternate"/>
-    <published>2023-09-24T19:46:16+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@juliafox038711/video/7282482958441778462</id>
     <title>[no title]</title>
@@ -91,5 +83,13 @@
     <content>i actually really enioy making videos like this and think ima continue to do so</content>
     <link href="https://tiktok.com/@juliafox038711/video/7285808614407736606" rel="alternate"/>
     <published>2023-10-03T18:58:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7287001398548516126</id>
+    <title>#CapCut ik my senior prom was 2 years ago now but i still ADORE this dress and will keep it forever</title>
+    <updated>2023-10-07T00:07:20+00:00</updated>
+    <content>#CapCut ik my senior prom was 2 years ago now but i still ADORE this dress and will keep it forever</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7287001398548516126" rel="alternate"/>
+    <published>2023-10-07T00:07:20+00:00</published>
   </entry>
 </feed>
