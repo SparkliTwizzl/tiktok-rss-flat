@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@steffzombie</id>
   <title>@steffzombie | TikTok</title>
-  <updated>2023-10-06T18:50:23+00:00</updated>
+  <updated>2023-10-06T23:01:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @steffzombie</subtitle>
-  <entry>
-    <id>https://tiktok.com/@steffzombie/video/7270262470500027691</id>
-    <title>Monster high vibes forsure. #fy </title>
-    <updated>2023-08-22T21:31:49+00:00</updated>
-    <content>Monster high vibes forsure. #fy </content>
-    <link href="https://tiktok.com/@steffzombie/video/7270262470500027691" rel="alternate"/>
-    <published>2023-08-22T21:31:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@steffzombie/video/7273613692674264366</id>
     <title>Let the Spooky content commence 😏 #fy #ghostface #lgbq #nonbinary </title>
@@ -91,5 +83,13 @@
     <content>Fem but dom 🤫 #fy </content>
     <link href="https://tiktok.com/@steffzombie/video/7286919699353554222" rel="alternate"/>
     <published>2023-10-06T18:50:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@steffzombie/video/7286984446333734190</id>
+    <title>He always wanna play a game bruh. #fy #saw </title>
+    <updated>2023-10-06T23:01:35+00:00</updated>
+    <content>He always wanna play a game bruh. #fy #saw </content>
+    <link href="https://tiktok.com/@steffzombie/video/7286984446333734190" rel="alternate"/>
+    <published>2023-10-06T23:01:35+00:00</published>
   </entry>
 </feed>
