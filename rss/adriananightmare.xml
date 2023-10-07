@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@adriananightmare</id>
   <title>@adriananightmare | TikTok</title>
-  <updated>2023-10-06T22:42:17+00:00</updated>
+  <updated>2023-10-07T17:08:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @adriananightmare</subtitle>
-  <entry>
-    <id>https://tiktok.com/@adriananightmare/video/7285077593274043690</id>
-    <title>[no title]</title>
-    <updated>2023-10-01T19:41:59+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@adriananightmare/video/7285077593274043690" rel="alternate"/>
-    <published>2023-10-01T19:41:59+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@adriananightmare/video/7285809283692825898</id>
-    <title>[no title]</title>
-    <updated>2023-10-03T19:01:28+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@adriananightmare/video/7285809283692825898" rel="alternate"/>
-    <published>2023-10-03T19:01:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@adriananightmare/video/7285818915547090219</id>
     <title>[no title]</title>
@@ -91,5 +75,21 @@
     <content>Please, educate yourself. This is only to name a few. </content>
     <link href="https://tiktok.com/@adriananightmare/video/7286979471641464107" rel="alternate"/>
     <published>2023-10-06T22:42:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@adriananightmare/video/7287261242241076523</id>
+    <title>[no title]</title>
+    <updated>2023-10-07T16:55:38+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@adriananightmare/video/7287261242241076523" rel="alternate"/>
+    <published>2023-10-07T16:55:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@adriananightmare/video/7287264654579993898</id>
+    <title>[no title]</title>
+    <updated>2023-10-07T17:08:53+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@adriananightmare/video/7287264654579993898" rel="alternate"/>
+    <published>2023-10-07T17:08:53+00:00</published>
   </entry>
 </feed>
