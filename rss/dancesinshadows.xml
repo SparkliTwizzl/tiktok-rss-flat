@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-10-03T11:59:00+00:00</updated>
+  <updated>2023-10-08T15:27:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7276605069406113029</id>
-    <title>picked up this cute bat dress from @Hot Topic  ❤️ #witchcostume #countdowntohalloween </title>
-    <updated>2023-09-08T23:44:07+00:00</updated>
-    <content>picked up this cute bat dress from @Hot Topic  ❤️ #witchcostume #countdowntohalloween </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7276605069406113029" rel="alternate"/>
-    <published>2023-09-08T23:44:07+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7276854033518693638</id>
-    <title>my favorite time of year ❤️ from September til November, it's like a big Ole energy fest and soul recconect here with the spirits and those who walked before. #countdowntohalloween #witchcostume #dancesinshadows </title>
-    <updated>2023-09-09T15:50:12+00:00</updated>
-    <content>my favorite time of year ❤️ from September til November, it's like a big Ole energy fest and soul recconect here with the spirits and those who walked before. #countdowntohalloween #witchcostume #dancesinshadows </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7276854033518693638" rel="alternate"/>
-    <published>2023-09-09T15:50:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7277207455950589189</id>
     <title>a closer look at the Pirate Harley look that I wore to @FAN EXPO. I plan to stop by the London con and I'll have a booth at the Hamilton comiccon at the end of the month  #pirate  #pirateharleyquinn #harleyquinn </title>
@@ -91,5 +75,21 @@
     <content>Maddam Cure reflecting on the last few years... #maddamcure #retrovibes #miniseries </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7285700494583008518" rel="alternate"/>
     <published>2023-10-03T11:59:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7287607506526833926</id>
+    <title>First time solo on stage. I didn't get a chance to plan, prep or rehearse anything prior, after a very stressful day. I'll be back again this Wednesday #glumthesupernaturalhitman #dragperformance #dragperformer </title>
+    <updated>2023-10-08T15:19:09+00:00</updated>
+    <content>First time solo on stage. I didn't get a chance to plan, prep or rehearse anything prior, after a very stressful day. I'll be back again this Wednesday #glumthesupernaturalhitman #dragperformance #dragperformer </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7287607506526833926" rel="alternate"/>
+    <published>2023-10-08T15:19:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7287609700869311749</id>
+    <title>ill be at Frightmare in the Falls all 3 days at the end of the month. #witchcostume #countdowntohalloween </title>
+    <updated>2023-10-08T15:27:40+00:00</updated>
+    <content>ill be at Frightmare in the Falls all 3 days at the end of the month. #witchcostume #countdowntohalloween </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7287609700869311749" rel="alternate"/>
+    <published>2023-10-08T15:27:40+00:00</published>
   </entry>
 </feed>
