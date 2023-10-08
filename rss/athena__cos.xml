@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-10-07T17:42:31+00:00</updated>
+  <updated>2023-10-08T16:34:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7284340309985856814</id>
-    <title>☀️ and 🌙 vibes for sure in this 💜💜💜 @Bella LeBaron #ladyknight #knight #knightcosplay #knightcore #fantasycosplay </title>
-    <updated>2023-09-29T20:01:00+00:00</updated>
-    <content>☀️ and 🌙 vibes for sure in this 💜💜💜 @Bella LeBaron #ladyknight #knight #knightcosplay #knightcore #fantasycosplay </content>
-    <link href="https://tiktok.com/@athena__cos/video/7284340309985856814" rel="alternate"/>
-    <published>2023-09-29T20:01:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7284668271880686890</id>
     <title>Korrasami transition!  It was so fun getting to hang out as these two! We need to cosplay them again @katarina 🙏🙏  #korra #korrasami #korrasamicosplay #korracosplay #asamicosplay #avatar #wlw </title>
@@ -91,5 +83,13 @@
     <content>Jiu Jitsu is life </content>
     <link href="https://tiktok.com/@athena__cos/video/7287273326928710958" rel="alternate"/>
     <published>2023-10-07T17:42:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7287626765747440939</id>
+    <title>I like violence what can i say @Bella LeBaron first spooky outfit of the season!  #witch #witchy #spookyseason #halloween #wednesday #witchtok </title>
+    <updated>2023-10-08T16:34:07+00:00</updated>
+    <content>I like violence what can i say @Bella LeBaron first spooky outfit of the season!  #witch #witchy #spookyseason #halloween #wednesday #witchtok </content>
+    <link href="https://tiktok.com/@athena__cos/video/7287626765747440939" rel="alternate"/>
+    <published>2023-10-08T16:34:07+00:00</published>
   </entry>
 </feed>

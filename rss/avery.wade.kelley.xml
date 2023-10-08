@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-10-06T18:50:59+00:00</updated>
+  <updated>2023-10-08T15:21:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7283988115281251627</id>
-    <title>Sometimes you just gotta pretend you're in a music video, and feel the fuckin music. #fyp #goth </title>
-    <updated>2023-09-28T21:14:12+00:00</updated>
-    <content>Sometimes you just gotta pretend you're in a music video, and feel the fuckin music. #fyp #goth </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7283988115281251627" rel="alternate"/>
-    <published>2023-09-28T21:14:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7283995143252839723</id>
     <title>Gotta learn to laugh at yourself. 😅 #fyp </title>
@@ -91,5 +83,13 @@
     <content>Replying to @shelbyriggan77 I'm DED. #fyp </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7286919843989720362" rel="alternate"/>
     <published>2023-10-06T18:50:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7287608178714397995</id>
+    <title>This feels like it's not even happening. But, it is, and I'm so sad about it. You gave me so much, and I will always be grateful for every single one of you. And those not pictured, know you are loved, and you are killin it. I genuinely love you all. 🖤 #f</title>
+    <updated>2023-10-08T15:21:59+00:00</updated>
+    <content>This feels like it's not even happening. But, it is, and I'm so sad about it. You gave me so much, and I will always be grateful for every single one of you. And those not pictured, know you are loved, and you are killin it. I genuinely love you all. 🖤 #fyp </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7287608178714397995" rel="alternate"/>
+    <published>2023-10-08T15:21:59+00:00</published>
   </entry>
 </feed>
