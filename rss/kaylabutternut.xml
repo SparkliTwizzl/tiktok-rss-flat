@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-10-08T05:41:58+00:00</updated>
+  <updated>2023-10-08T21:28:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7286296310351678766</id>
-    <title>I hope you buy her flowers</title>
-    <updated>2023-10-05T02:31:12+00:00</updated>
-    <content>I hope you buy her flowers</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7286296310351678766" rel="alternate"/>
-    <published>2023-10-05T02:31:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7286313575721831722</id>
     <title>SHES SO FUNNY</title>
@@ -91,5 +83,13 @@
     <content>I got no love for this outfit</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7287458702704004395" rel="alternate"/>
     <published>2023-10-08T05:41:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7287702572654152991</id>
+    <title>I need a grilled cheese and a coffee</title>
+    <updated>2023-10-08T21:28:12+00:00</updated>
+    <content>I need a grilled cheese and a coffee</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7287702572654152991" rel="alternate"/>
+    <published>2023-10-08T21:28:12+00:00</published>
   </entry>
 </feed>
