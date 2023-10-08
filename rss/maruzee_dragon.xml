@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maruzee_dragon</id>
   <title>@maruzee_dragon | TikTok</title>
-  <updated>2023-10-06T02:16:33+00:00</updated>
+  <updated>2023-10-08T01:46:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maruzee_dragon</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maruzee_dragon/video/7281083679886134533</id>
-    <title>I'm seeing a bit of Star Wars mixed with MK!😂 And yep, the walk's back again!👍 #martialarts #transition #trainedprofessional #lightsaber </title>
-    <updated>2023-09-21T01:23:24+00:00</updated>
-    <content>I'm seeing a bit of Star Wars mixed with MK!😂 And yep, the walk's back again!👍 #martialarts #transition #trainedprofessional #lightsaber </content>
-    <link href="https://tiktok.com/@maruzee_dragon/video/7281083679886134533" rel="alternate"/>
-    <published>2023-09-21T01:23:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maruzee_dragon/video/7282217232866741509</id>
     <title>Should I redo this Lightsabers transition...BUT BETTER?!🤔 #lightsaber #starwars #trainedprofessional #martialarts #sport #mma </title>
@@ -91,5 +83,13 @@
     <content>Réponse à @emilija3651 Pink lightsabers 💗 And Star Wars meets MK vibes again!👍 #starwars #lightsaber #martialarts #transition </content>
     <link href="https://tiktok.com/@maruzee_dragon/video/7286663650251672837" rel="alternate"/>
     <published>2023-10-06T02:16:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maruzee_dragon/video/7287398210136575237</id>
+    <title>First time cosplaying as an alternate version of me!😁👍 Create yours with the Lensa app and show me the result!✨️ #lensaapp #transition #martialarts #training #ai #cosplay</title>
+    <updated>2023-10-08T01:46:59+00:00</updated>
+    <content>First time cosplaying as an alternate version of me!😁👍 Create yours with the Lensa app and show me the result!✨️ #lensaapp #transition #martialarts #training #ai #cosplay</content>
+    <link href="https://tiktok.com/@maruzee_dragon/video/7287398210136575237" rel="alternate"/>
+    <published>2023-10-08T01:46:59+00:00</published>
   </entry>
 </feed>
