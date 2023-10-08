@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-10-06T17:14:58+00:00</updated>
+  <updated>2023-10-08T02:16:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7285938951699975466</id>
-    <title>Jeans or the split skirt tomorrow?</title>
-    <updated>2023-10-04T03:24:34+00:00</updated>
-    <content>Jeans or the split skirt tomorrow?</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7285938951699975466" rel="alternate"/>
-    <published>2023-10-04T03:24:34+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7286003472506309934</id>
-    <title>Oops</title>
-    <updated>2023-10-04T07:35:34+00:00</updated>
-    <content>Oops</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7286003472506309934" rel="alternate"/>
-    <published>2023-10-04T07:35:34+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7286008974422510894</id>
     <title>Bro she’s so funny (if you look closely you can see me drop my metal beads lmao)</title>
@@ -85,11 +69,27 @@
     <published>2023-10-05T22:47:29+00:00</published>
   </entry>
   <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7286664973621677358</id>
+    <title>The stockings noooooo</title>
+    <updated>2023-10-06T02:21:52+00:00</updated>
+    <content>The stockings noooooo</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7286664973621677358" rel="alternate"/>
+    <published>2023-10-06T02:21:52+00:00</published>
+  </entry>
+  <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7286895112074825006</id>
     <title>Good morning :)</title>
     <updated>2023-10-06T17:14:58+00:00</updated>
     <content>Good morning :)</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7286895112074825006" rel="alternate"/>
     <published>2023-10-06T17:14:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7287405779320098090</id>
+    <title>Glasses on or off</title>
+    <updated>2023-10-08T02:16:30+00:00</updated>
+    <content>Glasses on or off</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7287405779320098090" rel="alternate"/>
+    <published>2023-10-08T02:16:30+00:00</published>
   </entry>
 </feed>
