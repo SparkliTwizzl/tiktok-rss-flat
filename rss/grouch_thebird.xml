@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@grouch_thebird</id>
   <title>@grouch_thebird | TikTok</title>
-  <updated>2023-10-07T02:08:59+00:00</updated>
+  <updated>2023-10-08T00:38:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -45,14 +45,6 @@
     <published>2023-10-03T22:49:04+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@grouch_thebird/video/7286550093619121439</id>
-    <title>that's your instincts screaming☺️</title>
-    <updated>2023-10-05T18:56:09+00:00</updated>
-    <content>that's your instincts screaming☺️</content>
-    <link href="https://tiktok.com/@grouch_thebird/video/7286550093619121439" rel="alternate"/>
-    <published>2023-10-05T18:56:09+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@grouch_thebird/video/7286638376684490015</id>
     <title>Chaos agrees</title>
     <updated>2023-10-06T00:38:36+00:00</updated>
@@ -91,5 +83,13 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@grouch_thebird/video/7287032763889274143" rel="alternate"/>
     <published>2023-10-07T02:08:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grouch_thebird/video/7287380329009007902</id>
+    <title>#CapCut I like her she looks evil😈</title>
+    <updated>2023-10-08T00:38:01+00:00</updated>
+    <content>#CapCut I like her she looks evil😈</content>
+    <link href="https://tiktok.com/@grouch_thebird/video/7287380329009007902" rel="alternate"/>
+    <published>2023-10-08T00:38:01+00:00</published>
   </entry>
 </feed>
