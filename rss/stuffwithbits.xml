@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-10-08T16:45:44+00:00</updated>
+  <updated>2023-10-09T18:56:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7285788378103057707</id>
-    <title>[no title]</title>
-    <updated>2023-10-03T17:40:20+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7285788378103057707" rel="alternate"/>
-    <published>2023-10-03T17:40:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7285900073630846251</id>
     <title>here's your proof of life #solardidsystem #ssaylix #sshalcyon </title>
@@ -91,5 +83,13 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@stuffwithbits/video/7287629773021531434" rel="alternate"/>
     <published>2023-10-08T16:45:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7288034521713347882</id>
+    <title>#stitch with @Christian hot take.... you're right. #solardidsystem </title>
+    <updated>2023-10-09T18:56:27+00:00</updated>
+    <content>#stitch with @Christian hot take.... you're right. #solardidsystem </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7288034521713347882" rel="alternate"/>
+    <published>2023-10-09T18:56:27+00:00</published>
   </entry>
 </feed>
