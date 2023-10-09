@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jacobtheseahorse</id>
   <title>@jacobtheseahorse | TikTok</title>
-  <updated>2023-10-06T10:49:54+00:00</updated>
+  <updated>2023-10-09T14:38:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jacobtheseahorse</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7281537267364056352</id>
-    <title>Replying to @akj7368 I hope this clarifies things both trans and cis people have genders, the only difference is that our genders don'tv align with our sex at birth (and the gender assumptions that come along with that) #trans #cis #gender #transgender #q</title>
-    <updated>2023-09-22T06:43:39+00:00</updated>
-    <content>Replying to @akj7368 I hope this clarifies things both trans and cis people have genders, the only difference is that our genders don'tv align with our sex at birth (and the gender assumptions that come along with that) #trans #cis #gender #transgender #question </content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7281537267364056352" rel="alternate"/>
-    <published>2023-09-22T06:43:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jacobtheseahorse/video/7281600755734220064</id>
     <title>anyone else need a good sob today?! #parenting #parents #postnatal #postpartum #toddler #kids </title>
@@ -91,5 +83,13 @@
     <content>as a trans person in the UK right now, my everyday is smothered in an existential fear that I can't even articulate. I'm going to be taking time off work to look after myself but you can support what we do by getting t-shirts or you can also buy me a coffee to support me while I recoup. it's all appreciated and it all keeps me going as we fight this. thanks folks #trans #transgender #ally #support #transphobia #transrights #transrightsarehumanrights #lgbtq #lgbtqia #politics </content>
     <link href="https://tiktok.com/@jacobtheseahorse/video/7286795923944901920" rel="alternate"/>
     <published>2023-10-06T10:49:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7287968101772168481</id>
+    <title>Replying to @princessyasmine12 I didn't breastfeed, I did lactate and make a small amount of milk for my babies because human bodies are amazing. what's also amazing is that people who haven't given birth can also lactate and make milk for their babies. m</title>
+    <updated>2023-10-09T14:38:32+00:00</updated>
+    <content>Replying to @princessyasmine12 I didn't breastfeed, I did lactate and make a small amount of milk for my babies because human bodies are amazing. what's also amazing is that people who haven't given birth can also lactate and make milk for their babies. many trans women breastfeed their babies, which is such a beautiful thing to be able to do. #trans #breastfeeding #chestfeeding #infantfeeding #milk #humanmilk #lgbt </content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7287968101772168481" rel="alternate"/>
+    <published>2023-10-09T14:38:32+00:00</published>
   </entry>
 </feed>
