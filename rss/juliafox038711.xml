@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@juliafox038711</id>
   <title>@juliafox038711 | TikTok</title>
-  <updated>2023-10-08T16:03:52+00:00</updated>
+  <updated>2023-10-09T17:56:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juliafox038711</subtitle>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7282484223657643294</id>
-    <title>what he said</title>
-    <updated>2023-09-24T19:58:16+00:00</updated>
-    <content>what he said</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7282484223657643294" rel="alternate"/>
-    <published>2023-09-24T19:58:16+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@juliafox038711/video/7282486811702611231</id>
     <title>#FreezeFramePhoto idk, i got good side profiles is all im sayin </title>
@@ -91,5 +83,13 @@
     <content>post work video</content>
     <link href="https://tiktok.com/@juliafox038711/video/7287618990887734559" rel="alternate"/>
     <published>2023-10-08T16:03:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7288019139724086558</id>
+    <title>my precious baby nova</title>
+    <updated>2023-10-09T17:56:37+00:00</updated>
+    <content>my precious baby nova</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7288019139724086558" rel="alternate"/>
+    <published>2023-10-09T17:56:37+00:00</published>
   </entry>
 </feed>
