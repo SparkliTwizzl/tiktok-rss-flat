@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maruzee_dragon</id>
   <title>@maruzee_dragon | TikTok</title>
-  <updated>2023-10-08T01:46:59+00:00</updated>
+  <updated>2023-10-09T02:16:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maruzee_dragon</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maruzee_dragon/video/7282217232866741509</id>
-    <title>Should I redo this Lightsabers transition...BUT BETTER?!🤔 #lightsaber #starwars #trainedprofessional #martialarts #sport #mma </title>
-    <updated>2023-09-24T02:42:09+00:00</updated>
-    <content>Should I redo this Lightsabers transition...BUT BETTER?!🤔 #lightsaber #starwars #trainedprofessional #martialarts #sport #mma </content>
-    <link href="https://tiktok.com/@maruzee_dragon/video/7282217232866741509" rel="alternate"/>
-    <published>2023-09-24T02:42:09+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maruzee_dragon/video/7283308470772845829</id>
     <title>Couldn't wait to share this transition with you guys!!😱 Flipping into warrior mode!💪 #transition #trainedprofessional #martialarts #warriors #sword #action #liveaction #halloweensoon #halloween2023 #halloweenhorrornights </title>
@@ -91,5 +83,13 @@
     <content>First time cosplaying as an alternate version of me!😁👍 Create yours with the Lensa app and show me the result!✨️ #lensaapp #transition #martialarts #training #ai #cosplay</content>
     <link href="https://tiktok.com/@maruzee_dragon/video/7287398210136575237" rel="alternate"/>
     <published>2023-10-08T01:46:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maruzee_dragon/video/7287776851500518662</id>
+    <title>Since you asked A LOT... here’s more lightsaber action for you!👀 #lightsaber #starwars #transition #martialarts </title>
+    <updated>2023-10-09T02:16:18+00:00</updated>
+    <content>Since you asked A LOT... here’s more lightsaber action for you!👀 #lightsaber #starwars #transition #martialarts </content>
+    <link href="https://tiktok.com/@maruzee_dragon/video/7287776851500518662" rel="alternate"/>
+    <published>2023-10-09T02:16:18+00:00</published>
   </entry>
 </feed>
