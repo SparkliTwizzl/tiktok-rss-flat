@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-10-08T21:28:12+00:00</updated>
+  <updated>2023-10-09T00:02:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7286313575721831722</id>
-    <title>SHES SO FUNNY</title>
-    <updated>2023-10-05T03:38:17+00:00</updated>
-    <content>SHES SO FUNNY</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7286313575721831722" rel="alternate"/>
-    <published>2023-10-05T03:38:17+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7286327431085002027</id>
-    <title>I can’t decide what shoes to wear </title>
-    <updated>2023-10-05T04:32:13+00:00</updated>
-    <content>I can’t decide what shoes to wear </content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7286327431085002027" rel="alternate"/>
-    <published>2023-10-05T04:32:13+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7286342724175940906</id>
-    <title>Top comment is the name of the cowboy in the back</title>
-    <updated>2023-10-05T05:31:52+00:00</updated>
-    <content>Top comment is the name of the cowboy in the back</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7286342724175940906" rel="alternate"/>
-    <published>2023-10-05T05:31:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7286531321919294763</id>
     <title>Like no</title>
@@ -91,5 +67,29 @@
     <content>I need a grilled cheese and a coffee</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7287702572654152991" rel="alternate"/>
     <published>2023-10-08T21:28:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7287740792750312746</id>
+    <title>A lil different </title>
+    <updated>2023-10-08T23:56:31+00:00</updated>
+    <content>A lil different </content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7287740792750312746" rel="alternate"/>
+    <published>2023-10-08T23:56:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7287741472818924846</id>
+    <title>[no title]</title>
+    <updated>2023-10-08T23:59:08+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7287741472818924846" rel="alternate"/>
+    <published>2023-10-08T23:59:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7287742427966836011</id>
+    <title>Back camera supremacy </title>
+    <updated>2023-10-09T00:02:54+00:00</updated>
+    <content>Back camera supremacy </content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7287742427966836011" rel="alternate"/>
+    <published>2023-10-09T00:02:54+00:00</published>
   </entry>
 </feed>
