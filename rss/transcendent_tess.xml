@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@transcendent_tess</id>
   <title>@transcendent_tess | TikTok</title>
-  <updated>2023-10-10T01:43:04+00:00</updated>
+  <updated>2023-10-10T09:51:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @transcendent_tess</subtitle>
-  <entry>
-    <id>https://tiktok.com/@transcendent_tess/video/7267608647818169642</id>
-    <title>sometimes I just be angy! #emo #emogirls #fyp </title>
-    <updated>2023-08-15T17:53:29+00:00</updated>
-    <content>sometimes I just be angy! #emo #emogirls #fyp </content>
-    <link href="https://tiktok.com/@transcendent_tess/video/7267608647818169642" rel="alternate"/>
-    <published>2023-08-15T17:53:29+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@transcendent_tess/video/7269818436530933038</id>
     <title>ring camera caught something unusual last night.#neighborscat #catsoftiktok #ringdoorbell #fyp #funny #notacatperson #catsarefunny </title>
@@ -91,5 +83,13 @@
     <content>do you see it too? #kidsonbikes #wizard #witch #funny #wizarding #youreawizard #fyp </content>
     <link href="https://tiktok.com/@transcendent_tess/video/7288139330009255211" rel="alternate"/>
     <published>2023-10-10T01:43:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@transcendent_tess/video/7288265067311811886</id>
+    <title>I am so excited to finally have the beans and means to announce this. more details to follow.  any resources and advice is welcome, I'm always on the comments. #lgbt🌈 #alphabetmafia🌈 #bottomsurgery #grs #srs #trans #transmtf #transgender #transgenderwoman</title>
+    <updated>2023-10-10T09:51:04+00:00</updated>
+    <content>I am so excited to finally have the beans and means to announce this. more details to follow.  any resources and advice is welcome, I'm always on the comments. #lgbt🌈 #alphabetmafia🌈 #bottomsurgery #grs #srs #trans #transmtf #transgender #transgenderwoman🌈 #lesbiansoftiktok #fyp </content>
+    <link href="https://tiktok.com/@transcendent_tess/video/7288265067311811886" rel="alternate"/>
+    <published>2023-10-10T09:51:04+00:00</published>
   </entry>
 </feed>
