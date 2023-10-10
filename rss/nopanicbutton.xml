@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@nopanicbutton</id>
   <title>@nopanicbutton | TikTok</title>
-  <updated>2023-10-06T22:43:55+00:00</updated>
+  <updated>2023-10-10T00:46:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @nopanicbutton</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nopanicbutton/video/7279196804418227498</id>
-    <title>Does the DNR ever actually do anything but harass and intimidate? #donttreadonme #getoffmyland #landofthefree </title>
-    <updated>2023-09-15T23:21:27+00:00</updated>
-    <content>Does the DNR ever actually do anything but harass and intimidate? #donttreadonme #getoffmyland #landofthefree </content>
-    <link href="https://tiktok.com/@nopanicbutton/video/7279196804418227498" rel="alternate"/>
-    <published>2023-09-15T23:21:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nopanicbutton/video/7280182730464382254</id>
     <title>Please don't mail biohazards without letting me know.  #witchtok #witchcraft #witchesoftiktok #commonsense #gross </title>
@@ -91,5 +83,13 @@
     <content>The fat kid loves pantry purges! #yum #eatit #wastenotwantnot </content>
     <link href="https://tiktok.com/@nopanicbutton/video/7286979901201108267" rel="alternate"/>
     <published>2023-10-06T22:43:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nopanicbutton/video/7288124669306211626</id>
+    <title>The system is broken. </title>
+    <updated>2023-10-10T00:46:13+00:00</updated>
+    <content>The system is broken. </content>
+    <link href="https://tiktok.com/@nopanicbutton/video/7288124669306211626" rel="alternate"/>
+    <published>2023-10-10T00:46:13+00:00</published>
   </entry>
 </feed>
