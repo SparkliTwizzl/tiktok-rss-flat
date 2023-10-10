@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kit_the_beefcake</id>
   <title>@kit_the_beefcake | TikTok</title>
-  <updated>2023-10-09T17:19:36+00:00</updated>
+  <updated>2023-10-10T04:36:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kit_the_beefcake</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7278246076849638699</id>
-    <title>[no title]</title>
-    <updated>2023-09-13T09:52:35+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7278246076849638699" rel="alternate"/>
-    <published>2023-09-13T09:52:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7279018897989324063</id>
     <title>Replying to @trustysgtsalt </title>
@@ -91,5 +83,13 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@kit_the_beefcake/video/7288009602921368878" rel="alternate"/>
     <published>2023-10-09T17:19:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7288183948436327723</id>
+    <title>[no title]</title>
+    <updated>2023-10-10T04:36:09+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7288183948436327723" rel="alternate"/>
+    <published>2023-10-10T04:36:09+00:00</published>
   </entry>
 </feed>
