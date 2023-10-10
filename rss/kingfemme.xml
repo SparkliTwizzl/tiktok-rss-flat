@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kingfemme</id>
   <title>@kingfemme | TikTok</title>
-  <updated>2023-10-10T02:11:32+00:00</updated>
+  <updated>2023-10-09T19:41:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,22 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kingfemme</subtitle>
+  <entry>
+    <id>https://tiktok.com/@kingfemme/video/7279925980905377067</id>
+    <title>#fyp #lgbt #trans #transmasc #nonbinary #hrt #ftm #mtf </title>
+    <updated>2023-09-17T22:31:05+00:00</updated>
+    <content>#fyp #lgbt #trans #transmasc #nonbinary #hrt #ftm #mtf </content>
+    <link href="https://tiktok.com/@kingfemme/video/7279925980905377067" rel="alternate"/>
+    <published>2023-09-17T22:31:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kingfemme/video/7282202190884719903</id>
+    <title>#stitch with @asher  #transmasc #fyp #lgbt #bipoc #transman #ftm #nonbinary #blackmen </title>
+    <updated>2023-09-24T01:43:52+00:00</updated>
+    <content>#stitch with @asher  #transmasc #fyp #lgbt #bipoc #transman #ftm #nonbinary #blackmen </content>
+    <link href="https://tiktok.com/@kingfemme/video/7282202190884719903" rel="alternate"/>
+    <published>2023-09-24T01:43:52+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@kingfemme/video/7282527328532450591</id>
     <title>Replying to @🇱🇷🐘 #trans #hrt #BIPOC #fyp #lgbt #transmasc #blackmen #testosterone #ftm #nonbinary </title>
@@ -75,21 +91,5 @@
     <content>Replying to @Chunky Mongoose #trans #hrt #fyp #storytime #lgbt #transmasc #ftm #nonbinary #transfemme #mtf #doctors </content>
     <link href="https://tiktok.com/@kingfemme/video/7288046085749198123" rel="alternate"/>
     <published>2023-10-09T19:41:20+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kingfemme/video/7288139985675668782</id>
-    <title>#stitch with @sugeneshin  #fyp #johnmayer #andycohen #lgbt #bisexual #gay #dl </title>
-    <updated>2023-10-10T01:45:38+00:00</updated>
-    <content>#stitch with @sugeneshin  #fyp #johnmayer #andycohen #lgbt #bisexual #gay #dl </content>
-    <link href="https://tiktok.com/@kingfemme/video/7288139985675668782" rel="alternate"/>
-    <published>2023-10-10T01:45:38+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kingfemme/video/7288146667197484330</id>
-    <title>I JUST WANNA LOVE YOU #cats #fyp #kittens #comedy </title>
-    <updated>2023-10-10T02:11:32+00:00</updated>
-    <content>I JUST WANNA LOVE YOU #cats #fyp #kittens #comedy </content>
-    <link href="https://tiktok.com/@kingfemme/video/7288146667197484330" rel="alternate"/>
-    <published>2023-10-10T02:11:32+00:00</published>
   </entry>
 </feed>
