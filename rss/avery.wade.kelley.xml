@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-10-09T01:46:34+00:00</updated>
+  <updated>2023-10-10T12:59:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7284385579817585963</id>
-    <title>This is my personal experience. People are having different excuses not to have their horomones filled out, or people are just being extremely difficult and making us jump through loops like a fucking sick circus.  Also, if they don't give you back your p</title>
-    <updated>2023-09-29T22:56:36+00:00</updated>
-    <content>This is my personal experience. People are having different excuses not to have their horomones filled out, or people are just being extremely difficult and making us jump through loops like a fucking sick circus.  Also, if they don't give you back your prescription, raise hell and say "I will go to someone who will fill it. It is my property." Don't let them take it, don't let them talk bullshit, and don't give up. 🏳️‍⚧️ #fyp #trans </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7284385579817585963" rel="alternate"/>
-    <published>2023-09-29T22:56:36+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7284763565670796590</id>
     <title>Nosfuratu. #fyp #trans </title>
@@ -91,5 +83,13 @@
     <content>Replying to @tdgreens I just wanted to be clear about my intentions behind responding to the Chester comments. Nothing but love to you all. #fyp </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7287769146396396842" rel="alternate"/>
     <published>2023-10-09T01:46:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7288313537229819179</id>
+    <title>We did it! We are out! Now comes the traveling. Woot Woot! #fyp #trans </title>
+    <updated>2023-10-10T12:59:04+00:00</updated>
+    <content>We did it! We are out! Now comes the traveling. Woot Woot! #fyp #trans </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7288313537229819179" rel="alternate"/>
+    <published>2023-10-10T12:59:04+00:00</published>
   </entry>
 </feed>
