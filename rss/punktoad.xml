@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-10-10T02:44:54+00:00</updated>
+  <updated>2023-10-10T17:55:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7285526793463860522</id>
-    <title>I loved this trend 😅</title>
-    <updated>2023-10-03T00:45:07+00:00</updated>
-    <content>I loved this trend 😅</content>
-    <link href="https://tiktok.com/@punktoad/video/7285526793463860522" rel="alternate"/>
-    <published>2023-10-03T00:45:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7286195561479490862</id>
     <title>I would hate all of these </title>
@@ -91,5 +83,13 @@
     <content>Replying to @Emma Celeste </content>
     <link href="https://tiktok.com/@punktoad/video/7288155250962205995" rel="alternate"/>
     <published>2023-10-10T02:44:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7288389921709100330</id>
+    <title>Miss me with all that </title>
+    <updated>2023-10-10T17:55:32+00:00</updated>
+    <content>Miss me with all that </content>
+    <link href="https://tiktok.com/@punktoad/video/7288389921709100330" rel="alternate"/>
+    <published>2023-10-10T17:55:32+00:00</published>
   </entry>
 </feed>
