@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-10-08T15:27:40+00:00</updated>
+  <updated>2023-10-10T13:18:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7277207455950589189</id>
-    <title>a closer look at the Pirate Harley look that I wore to @FAN EXPO. I plan to stop by the London con and I'll have a booth at the Hamilton comiccon at the end of the month  #pirate  #pirateharleyquinn #harleyquinn </title>
-    <updated>2023-09-10T14:41:39+00:00</updated>
-    <content>a closer look at the Pirate Harley look that I wore to @FAN EXPO. I plan to stop by the London con and I'll have a booth at the Hamilton comiccon at the end of the month  #pirate  #pirateharleyquinn #harleyquinn </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7277207455950589189" rel="alternate"/>
-    <published>2023-09-10T14:41:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7279083660521917701</id>
     <title>sorry for being so quiet lately. I have plans to attend the london comicon (Ontario, Canada - better @FlukeyM 😝)  tomorrow, and I will be vending at the #hamiltoncomiccon both days next weekend. lots of costume updates and artwork to be made. ❤️😅  song @K</title>
@@ -91,5 +83,13 @@
     <content>ill be at Frightmare in the Falls all 3 days at the end of the month. #witchcostume #countdowntohalloween </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7287609700869311749" rel="alternate"/>
     <published>2023-10-08T15:27:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7288318629140040966</id>
+    <title>It seems the app cut rhw rest of the vid? oh well.. song @Julia Riew  #maddamcure #miniseries </title>
+    <updated>2023-10-10T13:18:41+00:00</updated>
+    <content>It seems the app cut rhw rest of the vid? oh well.. song @Julia Riew  #maddamcure #miniseries </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7288318629140040966" rel="alternate"/>
+    <published>2023-10-10T13:18:41+00:00</published>
   </entry>
 </feed>
