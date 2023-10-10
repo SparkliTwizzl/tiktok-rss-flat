@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-10-09T16:24:38+00:00</updated>
+  <updated>2023-10-10T02:44:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7285414420145048878</id>
-    <title>Smells like 5-layer beefy in here </title>
-    <updated>2023-10-02T17:29:14+00:00</updated>
-    <content>Smells like 5-layer beefy in here </content>
-    <link href="https://tiktok.com/@punktoad/video/7285414420145048878" rel="alternate"/>
-    <published>2023-10-02T17:29:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7285526793463860522</id>
     <title>I loved this trend 😅</title>
@@ -91,5 +83,13 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@punktoad/video/7287995445312245034" rel="alternate"/>
     <published>2023-10-09T16:24:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7288155250962205995</id>
+    <title>Replying to @Emma Celeste </title>
+    <updated>2023-10-10T02:44:54+00:00</updated>
+    <content>Replying to @Emma Celeste </content>
+    <link href="https://tiktok.com/@punktoad/video/7288155250962205995" rel="alternate"/>
+    <published>2023-10-10T02:44:54+00:00</published>
   </entry>
 </feed>

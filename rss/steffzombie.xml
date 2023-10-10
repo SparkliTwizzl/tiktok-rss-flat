@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@steffzombie</id>
   <title>@steffzombie | TikTok</title>
-  <updated>2023-10-10T01:00:35+00:00</updated>
+  <updated>2023-10-09T22:49:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @steffzombie</subtitle>
+  <entry>
+    <id>https://tiktok.com/@steffzombie/video/7282197883372211499</id>
+    <title>Dress for yourself not others and their opinions wont faze you. #fy </title>
+    <updated>2023-09-24T01:27:09+00:00</updated>
+    <content>Dress for yourself not others and their opinions wont faze you. #fy </content>
+    <link href="https://tiktok.com/@steffzombie/video/7282197883372211499" rel="alternate"/>
+    <published>2023-09-24T01:27:09+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@steffzombie/video/7282200260011658539</id>
     <title>Wassup !? #pan</title>
@@ -83,13 +91,5 @@
     <content>Crazy is the new black #fy </content>
     <link href="https://tiktok.com/@steffzombie/video/7288094686474980650" rel="alternate"/>
     <published>2023-10-09T22:49:49+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@steffzombie/video/7288128395106323755</id>
-    <title>My legs are too lwong 🥲 #fy </title>
-    <updated>2023-10-10T01:00:35+00:00</updated>
-    <content>My legs are too lwong 🥲 #fy </content>
-    <link href="https://tiktok.com/@steffzombie/video/7288128395106323755" rel="alternate"/>
-    <published>2023-10-10T01:00:35+00:00</published>
   </entry>
 </feed>
