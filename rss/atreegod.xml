@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@atreegod</id>
   <title>@atreegod | TikTok</title>
-  <updated>2023-10-09T21:26:01+00:00</updated>
+  <updated>2023-10-10T21:47:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @atreegod</subtitle>
-  <entry>
-    <id>https://tiktok.com/@atreegod/video/7284736446202760490</id>
-    <title>Long awaited lol #wlw #lgbtq #maschaircut </title>
-    <updated>2023-09-30T21:38:15+00:00</updated>
-    <content>Long awaited lol #wlw #lgbtq #maschaircut </content>
-    <link href="https://tiktok.com/@atreegod/video/7284736446202760490" rel="alternate"/>
-    <published>2023-09-30T21:38:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@atreegod/video/7284801466009799979</id>
     <title>New jacketttt #wlw </title>
@@ -91,5 +83,13 @@
     <content>How we feel ab it? #wlw #lgbtq </content>
     <link href="https://tiktok.com/@atreegod/video/7288073064208796970" rel="alternate"/>
     <published>2023-10-09T21:26:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7288449649365503278</id>
+    <title>I feel like scholarly dracula w this filter and new hair lol #wlw #lgbtq </title>
+    <updated>2023-10-10T21:47:14+00:00</updated>
+    <content>I feel like scholarly dracula w this filter and new hair lol #wlw #lgbtq </content>
+    <link href="https://tiktok.com/@atreegod/video/7288449649365503278" rel="alternate"/>
+    <published>2023-10-10T21:47:14+00:00</published>
   </entry>
 </feed>
