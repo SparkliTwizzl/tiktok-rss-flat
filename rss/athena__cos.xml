@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-10-09T17:03:39+00:00</updated>
+  <updated>2023-10-10T17:29:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7285041195657497898</id>
-    <title>With Genshin outfits? Yeah they’re like prada 😂 @🦊prototype fox im sorry if it cuts you iff at all 😭  @Bella LeBaron @Raine Emery  #genshinimpact #genshin #genshincosplay </title>
-    <updated>2023-10-01T17:20:40+00:00</updated>
-    <content>With Genshin outfits? Yeah they’re like prada 😂 @🦊prototype fox im sorry if it cuts you iff at all 😭  @Bella LeBaron @Raine Emery  #genshinimpact #genshin #genshincosplay </content>
-    <link href="https://tiktok.com/@athena__cos/video/7285041195657497898" rel="alternate"/>
-    <published>2023-10-01T17:20:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7285416152249929002</id>
     <title>I swear we played with it for like five minutes  @Jackie O #catgirl #neko #nekogirl </title>
@@ -91,5 +83,13 @@
     <content>Some of them KIND OF resemble a heart 😂 the eevelutions here are @Bella LeBaron @🦊prototype fox @Raine Emery @Charleemanderz </content>
     <link href="https://tiktok.com/@athena__cos/video/7288005493010828587" rel="alternate"/>
     <published>2023-10-09T17:03:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7288383146242870574</id>
+    <title>Hes my idol fr #jjk #jjkcosplay #yujiitadori </title>
+    <updated>2023-10-10T17:29:09+00:00</updated>
+    <content>Hes my idol fr #jjk #jjkcosplay #yujiitadori </content>
+    <link href="https://tiktok.com/@athena__cos/video/7288383146242870574" rel="alternate"/>
+    <published>2023-10-10T17:29:09+00:00</published>
   </entry>
 </feed>
