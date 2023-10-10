@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jacobtheseahorse</id>
   <title>@jacobtheseahorse | TikTok</title>
-  <updated>2023-10-09T14:38:32+00:00</updated>
+  <updated>2023-10-10T11:50:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jacobtheseahorse</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7281600755734220064</id>
-    <title>anyone else need a good sob today?! #parenting #parents #postnatal #postpartum #toddler #kids </title>
-    <updated>2023-09-22T10:49:58+00:00</updated>
-    <content>anyone else need a good sob today?! #parenting #parents #postnatal #postpartum #toddler #kids </content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7281600755734220064" rel="alternate"/>
-    <published>2023-09-22T10:49:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jacobtheseahorse/video/7283145245242461472</id>
     <title>Replying to @plutonux thanks for asking. I'm a trans man, born with a uterus (which is why I can get pregnant) #trans #transgender #transpregnancy #lgbt </title>
@@ -91,5 +83,13 @@
     <content>Replying to @princessyasmine12 I didn't breastfeed, I did lactate and make a small amount of milk for my babies because human bodies are amazing. what's also amazing is that people who haven't given birth can also lactate and make milk for their babies. many trans women breastfeed their babies, which is such a beautiful thing to be able to do. #trans #breastfeeding #chestfeeding #infantfeeding #milk #humanmilk #lgbt </content>
     <link href="https://tiktok.com/@jacobtheseahorse/video/7287968101772168481" rel="alternate"/>
     <published>2023-10-09T14:38:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7288295987683101985</id>
+    <title>@Trans Pride Manchester see you there! to everyone who's thinking of coming, stay safe and stay hydrated. say hi if you see me! if you can't make it, please share/repost.  and to my trans family - you matter and we will get through this 💜🏳️‍⚧️ #trans #pea</title>
+    <updated>2023-10-10T11:50:53+00:00</updated>
+    <content>@Trans Pride Manchester see you there! to everyone who's thinking of coming, stay safe and stay hydrated. say hi if you see me! if you can't make it, please share/repost.  and to my trans family - you matter and we will get through this 💜🏳️‍⚧️ #trans #peacefulprotest #resist #transgender #transrights #transrightsarehumanrights #cisally #manchester #uk #staysafe #lgbt #lgbtq </content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7288295987683101985" rel="alternate"/>
+    <published>2023-10-10T11:50:53+00:00</published>
   </entry>
 </feed>
