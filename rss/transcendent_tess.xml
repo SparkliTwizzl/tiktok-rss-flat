@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@transcendent_tess</id>
   <title>@transcendent_tess | TikTok</title>
-  <updated>2023-10-07T12:21:36+00:00</updated>
+  <updated>2023-10-10T01:43:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @transcendent_tess</subtitle>
-  <entry>
-    <id>https://tiktok.com/@transcendent_tess/video/7267281288267042090</id>
-    <title>#stitch with @not.jayswift </title>
-    <updated>2023-08-14T20:43:11+00:00</updated>
-    <content>#stitch with @not.jayswift </content>
-    <link href="https://tiktok.com/@transcendent_tess/video/7267281288267042090" rel="alternate"/>
-    <published>2023-08-14T20:43:11+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@transcendent_tess/video/7267608647818169642</id>
     <title>sometimes I just be angy! #emo #emogirls #fyp </title>
@@ -91,5 +83,13 @@
     <content>you ever just wake up... and regret. #trucker #trucklife #truckerproblems </content>
     <link href="https://tiktok.com/@transcendent_tess/video/7287190491517488426" rel="alternate"/>
     <published>2023-10-07T12:21:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@transcendent_tess/video/7288139330009255211</id>
+    <title>do you see it too? #kidsonbikes #wizard #witch #funny #wizarding #youreawizard #fyp </title>
+    <updated>2023-10-10T01:43:04+00:00</updated>
+    <content>do you see it too? #kidsonbikes #wizard #witch #funny #wizarding #youreawizard #fyp </content>
+    <link href="https://tiktok.com/@transcendent_tess/video/7288139330009255211" rel="alternate"/>
+    <published>2023-10-10T01:43:04+00:00</published>
   </entry>
 </feed>
