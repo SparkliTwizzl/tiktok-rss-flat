@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@charlesthegr8</id>
   <title>@charlesthegr8 | TikTok</title>
-  <updated>2023-10-09T15:11:49+00:00</updated>
+  <updated>2023-10-11T15:53:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @charlesthegr8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7271317158662130987</id>
-    <title>Listen with headphones for the effect!!! 🎧#soundfx #anime #charlesthgr8 </title>
-    <updated>2023-08-25T17:44:26+00:00</updated>
-    <content>Listen with headphones for the effect!!! 🎧#soundfx #anime #charlesthgr8 </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7271317158662130987" rel="alternate"/>
-    <published>2023-08-25T17:44:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@charlesthegr8/video/7275384352626789674</id>
     <title>Choose the people you hang out with wisely 🤔 #iykyk #charlesthgr8 #relateable </title>
@@ -91,5 +83,13 @@
     <content>🦆 #iykyk #fyp #relatable #charlesthegr8 </content>
     <link href="https://tiktok.com/@charlesthegr8/video/7287976664544415019" rel="alternate"/>
     <published>2023-10-09T15:11:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7288729573192355118</id>
+    <title>🦋🦋🦋 #iykyk #fyp #relatable #charlesthegr8 </title>
+    <updated>2023-10-11T15:53:43+00:00</updated>
+    <content>🦋🦋🦋 #iykyk #fyp #relatable #charlesthegr8 </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7288729573192355118" rel="alternate"/>
+    <published>2023-10-11T15:53:43+00:00</published>
   </entry>
 </feed>
