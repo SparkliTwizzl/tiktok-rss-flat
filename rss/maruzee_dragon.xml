@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maruzee_dragon</id>
   <title>@maruzee_dragon | TikTok</title>
-  <updated>2023-10-10T01:27:53+00:00</updated>
+  <updated>2023-10-11T01:28:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maruzee_dragon</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maruzee_dragon/video/7283682576403942662</id>
-    <title>Réponse à @floriannigels  Ask and you shall receive 👀  #transition #starwars #lightsaber #martialarts #trainedprofessional </title>
-    <updated>2023-09-28T01:28:27+00:00</updated>
-    <content>Réponse à @floriannigels  Ask and you shall receive 👀  #transition #starwars #lightsaber #martialarts #trainedprofessional </content>
-    <link href="https://tiktok.com/@maruzee_dragon/video/7283682576403942662" rel="alternate"/>
-    <published>2023-09-28T01:28:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maruzee_dragon/video/7284055684071574790</id>
     <title>Doing The Walk again, but this time we're in a whole different dimension!🌌👀 #transition #outfit #autumn #fashion </title>
@@ -91,5 +83,13 @@
     <content>Discover the newest Genshin Impact character, Neuvillette, and immerse yourself in the world of his elemental powers at NYCC! @GenshinImpact_En  #genshinimpact #Neuvillette #FontaineNYCC #NYCC </content>
     <link href="https://tiktok.com/@maruzee_dragon/video/7288135459283176709" rel="alternate"/>
     <published>2023-10-10T01:27:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maruzee_dragon/video/7288506599524617478</id>
+    <title>Casual Harley Quinn transition cuz it's spooky season, ok byebye 👋🎃 #spookyseason #dccomics #harleyquinn #halloween #cosplay #transition #kick #villain </title>
+    <updated>2023-10-11T01:28:07+00:00</updated>
+    <content>Casual Harley Quinn transition cuz it's spooky season, ok byebye 👋🎃 #spookyseason #dccomics #harleyquinn #halloween #cosplay #transition #kick #villain </content>
+    <link href="https://tiktok.com/@maruzee_dragon/video/7288506599524617478" rel="alternate"/>
+    <published>2023-10-11T01:28:07+00:00</published>
   </entry>
 </feed>
