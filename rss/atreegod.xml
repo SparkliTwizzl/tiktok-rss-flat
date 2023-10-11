@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@atreegod</id>
   <title>@atreegod | TikTok</title>
-  <updated>2023-10-10T21:47:14+00:00</updated>
+  <updated>2023-10-11T02:02:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @atreegod</subtitle>
-  <entry>
-    <id>https://tiktok.com/@atreegod/video/7284801466009799979</id>
-    <title>New jacketttt #wlw </title>
-    <updated>2023-10-01T01:50:33+00:00</updated>
-    <content>New jacketttt #wlw </content>
-    <link href="https://tiktok.com/@atreegod/video/7284801466009799979" rel="alternate"/>
-    <published>2023-10-01T01:50:33+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@atreegod/video/7285049886796451118</id>
     <title>I dropped my pen :(( #wlw #lgbtq </title>
@@ -91,5 +83,13 @@
     <content>I feel like scholarly dracula w this filter and new hair lol #wlw #lgbtq </content>
     <link href="https://tiktok.com/@atreegod/video/7288449649365503278" rel="alternate"/>
     <published>2023-10-10T21:47:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7288515405792988462</id>
+    <title>And we both love itttt #wlw #lgbtq #cat </title>
+    <updated>2023-10-11T02:02:25+00:00</updated>
+    <content>And we both love itttt #wlw #lgbtq #cat </content>
+    <link href="https://tiktok.com/@atreegod/video/7288515405792988462" rel="alternate"/>
+    <published>2023-10-11T02:02:25+00:00</published>
   </entry>
 </feed>
