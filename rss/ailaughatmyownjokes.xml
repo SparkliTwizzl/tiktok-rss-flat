@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ailaughatmyownjokes</id>
   <title>@ailaughatmyownjokes | TikTok</title>
-  <updated>2023-10-08T16:20:42+00:00</updated>
+  <updated>2023-10-11T18:01:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ailaughatmyownjokes</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ailaughatmyownjokes/video/7275700481450626337</id>
-    <title>This sound spoke to me so i had to use it. (Felt cute might delete later uwu)</title>
-    <updated>2023-09-06T13:13:51+00:00</updated>
-    <content>This sound spoke to me so i had to use it. (Felt cute might delete later uwu)</content>
-    <link href="https://tiktok.com/@ailaughatmyownjokes/video/7275700481450626337" rel="alternate"/>
-    <published>2023-09-06T13:13:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ailaughatmyownjokes/video/7276454812789607712</id>
     <title>This is what I got from the 2 episodes I watched. Hope it's accurate enough👍 #toohotohandle #sketch #comedy </title>
@@ -91,5 +83,13 @@
     <content>I will not apologize. Ever.  #frozen #sketch #comedy </content>
     <link href="https://tiktok.com/@ailaughatmyownjokes/video/7287623360807308576" rel="alternate"/>
     <published>2023-10-08T16:20:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ailaughatmyownjokes/video/7288762534419647776</id>
+    <title>Running in a cape is unsafe for me #harrypotter #sketch #comedy </title>
+    <updated>2023-10-11T18:01:16+00:00</updated>
+    <content>Running in a cape is unsafe for me #harrypotter #sketch #comedy </content>
+    <link href="https://tiktok.com/@ailaughatmyownjokes/video/7288762534419647776" rel="alternate"/>
+    <published>2023-10-11T18:01:16+00:00</published>
   </entry>
 </feed>
