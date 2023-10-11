@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@steffzombie</id>
   <title>@steffzombie | TikTok</title>
-  <updated>2023-10-11T03:46:16+00:00</updated>
+  <updated>2023-10-11T19:14:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -69,14 +69,6 @@
     <published>2023-10-09T20:04:46+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@steffzombie/video/7288490486539701550</id>
-    <title>Replying to @shoosh6585  I/CONIC 😚 #fy </title>
-    <updated>2023-10-11T00:25:47+00:00</updated>
-    <content>Replying to @shoosh6585  I/CONIC 😚 #fy </content>
-    <link href="https://tiktok.com/@steffzombie/video/7288490486539701550" rel="alternate"/>
-    <published>2023-10-11T00:25:47+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@steffzombie/video/7288509197128453422</id>
     <title>Im all you need ? 😂🥺 #fyp #lgbt </title>
     <updated>2023-10-11T01:38:20+00:00</updated>
@@ -91,5 +83,13 @@
     <content>What do you MEAN!!!?? </content>
     <link href="https://tiktok.com/@steffzombie/video/7288542125833112875" rel="alternate"/>
     <published>2023-10-11T03:46:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@steffzombie/video/7288781290990538026</id>
+    <title>Ex bf &lt;&lt;&lt; his mom     #fy </title>
+    <updated>2023-10-11T19:14:18+00:00</updated>
+    <content>Ex bf &lt;&lt;&lt; his mom     #fy </content>
+    <link href="https://tiktok.com/@steffzombie/video/7288781290990538026" rel="alternate"/>
+    <published>2023-10-11T19:14:18+00:00</published>
   </entry>
 </feed>

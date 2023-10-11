@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-10-11T16:10:57+00:00</updated>
+  <updated>2023-10-11T18:58:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7285372271001193733</id>
-    <title>He takes the bait every time @Yuma Dog #goldenretrieverlife #comedy #dogsoftiktok </title>
-    <updated>2023-10-02T14:45:19+00:00</updated>
-    <content>He takes the bait every time @Yuma Dog #goldenretrieverlife #comedy #dogsoftiktok </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7285372271001193733" rel="alternate"/>
-    <published>2023-10-02T14:45:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7285441092898573574</id>
     <title>Jer wanted to apologize for this livestream meanwhile I think yall owe me a thank you #livestream #outtakes #filterfail #livestreamclips #tiktoklive #funny #comedy #emojis </title>
@@ -91,5 +83,13 @@
     <content>It has POCKETS ladies #unboxing #plants #kaftan #plantdaddy #darcyandjer </content>
     <link href="https://tiktok.com/@thedarcymichael/video/7288734110816783621" rel="alternate"/>
     <published>2023-10-11T16:10:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7288777328199601413</id>
+    <title>I like to share this story every national coming out day not to celebrate me coming out but to remind parents its their job to love their kids unconditionally. The greatest gift my parents ever gave me was that of freedom to be myself. I found a partner I</title>
+    <updated>2023-10-11T18:58:41+00:00</updated>
+    <content>I like to share this story every national coming out day not to celebrate me coming out but to remind parents its their job to love their kids unconditionally. The greatest gift my parents ever gave me was that of freedom to be myself. I found a partner I love, we raised a daughter, we made a good life for ourselves and their choices that day helped lay the groundwork. Parents, be the hope your child needs #standup #comingout #storytime #comedy #parenting </content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7288777328199601413" rel="alternate"/>
+    <published>2023-10-11T18:58:41+00:00</published>
   </entry>
 </feed>
