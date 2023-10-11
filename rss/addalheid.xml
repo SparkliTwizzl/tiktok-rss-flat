@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@addalheid</id>
   <title>@addalheid | TikTok</title>
-  <updated>2023-10-06T16:20:14+00:00</updated>
+  <updated>2023-10-09T12:06:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -53,14 +53,6 @@
     <published>2023-09-11T01:29:01+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@addalheid/video/7280124497628335392</id>
-    <title>😅</title>
-    <updated>2023-09-18T11:21:25+00:00</updated>
-    <content>😅</content>
-    <link href="https://tiktok.com/@addalheid/video/7280124497628335392" rel="alternate"/>
-    <published>2023-09-18T11:21:25+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@addalheid/video/7280210896352185632</id>
     <title>🥺</title>
     <updated>2023-09-18T16:56:34+00:00</updated>
@@ -91,5 +83,13 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@addalheid/video/7286881063568231713" rel="alternate"/>
     <published>2023-10-06T16:20:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@addalheid/video/7287928986183814432</id>
+    <title>Mood of the day</title>
+    <updated>2023-10-09T12:06:46+00:00</updated>
+    <content>Mood of the day</content>
+    <link href="https://tiktok.com/@addalheid/video/7287928986183814432" rel="alternate"/>
+    <published>2023-10-09T12:06:46+00:00</published>
   </entry>
 </feed>
