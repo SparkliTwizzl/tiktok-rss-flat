@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@manic.toxicity</id>
   <title>@manic.toxicity | TikTok</title>
-  <updated>2023-10-08T20:16:30+00:00</updated>
+  <updated>2023-10-11T20:00:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @manic.toxicity</subtitle>
-  <entry>
-    <id>https://tiktok.com/@manic.toxicity/video/7278800691546672430</id>
-    <title>the fuckin sun’d be gone #foryou #foryou </title>
-    <updated>2023-09-14T21:44:16+00:00</updated>
-    <content>the fuckin sun’d be gone #foryou #foryou </content>
-    <link href="https://tiktok.com/@manic.toxicity/video/7278800691546672430" rel="alternate"/>
-    <published>2023-09-14T21:44:16+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@manic.toxicity/video/7280633882465144107</id>
-    <title>cleaning put drafts 🫶🏼</title>
-    <updated>2023-09-19T20:18:01+00:00</updated>
-    <content>cleaning put drafts 🫶🏼</content>
-    <link href="https://tiktok.com/@manic.toxicity/video/7280633882465144107" rel="alternate"/>
-    <published>2023-09-19T20:18:01+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@manic.toxicity/video/7281805138975624490</id>
-    <title>✨ shine bright like a diamond ✨ #greenscreen #greenscreenvideo #fyp #foryou  excuse the horrible quality video LOL</title>
-    <updated>2023-09-23T00:03:07+00:00</updated>
-    <content>✨ shine bright like a diamond ✨ #greenscreen #greenscreenvideo #fyp #foryou  excuse the horrible quality video LOL</content>
-    <link href="https://tiktok.com/@manic.toxicity/video/7281805138975624490" rel="alternate"/>
-    <published>2023-09-23T00:03:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@manic.toxicity/video/7282527729612868907</id>
     <title>&gt;:( #fyp #foryou </title>
@@ -91,5 +67,29 @@
     <content>Replying to @Whitney  peep the eyeliner for the day #fyp #foryou #spook </content>
     <link href="https://tiktok.com/@manic.toxicity/video/7287684088012557614" rel="alternate"/>
     <published>2023-10-08T20:16:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@manic.toxicity/video/7288763315931696430</id>
+    <title>mt instagram is in my link tree, and if you cant find it, its the same as my tiktok user… please keep me posted if you have infoemation so i can tey to get this account taken down. i love you all very much, thank you all for your support! #fyp #foryou #no</title>
+    <updated>2023-10-11T18:04:32+00:00</updated>
+    <content>mt instagram is in my link tree, and if you cant find it, its the same as my tiktok user… please keep me posted if you have infoemation so i can tey to get this account taken down. i love you all very much, thank you all for your support! #fyp #foryou #notmyaccouny #scam </content>
+    <link href="https://tiktok.com/@manic.toxicity/video/7288763315931696430" rel="alternate"/>
+    <published>2023-10-11T18:04:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@manic.toxicity/video/7288763450963037482</id>
+    <title>#bikes #motorcycle #biketok #honda #300 #cbr #cbr300 </title>
+    <updated>2023-10-11T18:05:06+00:00</updated>
+    <content>#bikes #motorcycle #biketok #honda #300 #cbr #cbr300 </content>
+    <link href="https://tiktok.com/@manic.toxicity/video/7288763450963037482" rel="alternate"/>
+    <published>2023-10-11T18:05:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@manic.toxicity/video/7288793124871212334</id>
+    <title>a pretty liar. #fyp #foryou </title>
+    <updated>2023-10-11T20:00:11+00:00</updated>
+    <content>a pretty liar. #fyp #foryou </content>
+    <link href="https://tiktok.com/@manic.toxicity/video/7288793124871212334" rel="alternate"/>
+    <published>2023-10-11T20:00:11+00:00</published>
   </entry>
 </feed>
