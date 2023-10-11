@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-10-09T15:02:25+00:00</updated>
+  <updated>2023-10-11T16:10:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7285169950593912069</id>
-    <title>The dumbest dad joke</title>
-    <updated>2023-10-02T01:40:12+00:00</updated>
-    <content>The dumbest dad joke</content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7285169950593912069" rel="alternate"/>
-    <published>2023-10-02T01:40:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7285372271001193733</id>
     <title>He takes the bait every time @Yuma Dog #goldenretrieverlife #comedy #dogsoftiktok </title>
@@ -91,5 +83,13 @@
     <content>this was an emotional roller coaster!  #standupcomedy #adhd #busydonkey #couplecomedy #popquiz #overheard #justforlaughs  I dont know if its lame to talk about the stress of touring or performing cuz I also understand that what we do is very silly. However before tiktok, the most I think I ever sold to a show was maybe 300 and here we are a few years later embarking on this wild adventure with you all.  We’re both always so touched when people even want to watch our silly videos let alone leave their house to come see us live. So a genuine thank you to everyone that has made plans to see us. But also just as much thanks to everyone here on tiktok that watches our content online, yall have changed our lives.  We cant wait to disappoint you 🤓</content>
     <link href="https://tiktok.com/@thedarcymichael/video/7287974278824348934" rel="alternate"/>
     <published>2023-10-09T15:02:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7288734110816783621</id>
+    <title>It has POCKETS ladies #unboxing #plants #kaftan #plantdaddy #darcyandjer </title>
+    <updated>2023-10-11T16:10:57+00:00</updated>
+    <content>It has POCKETS ladies #unboxing #plants #kaftan #plantdaddy #darcyandjer </content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7288734110816783621" rel="alternate"/>
+    <published>2023-10-11T16:10:57+00:00</published>
   </entry>
 </feed>
