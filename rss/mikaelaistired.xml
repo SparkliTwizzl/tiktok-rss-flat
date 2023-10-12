@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@mikaelaistired</id>
   <title>@mikaelaistired | TikTok</title>
-  <updated>2023-10-11T22:35:40+00:00</updated>
+  <updated>2023-10-04T12:12:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @mikaelaistired</subtitle>
+  <entry>
+    <id>https://tiktok.com/@mikaelaistired/video/7267230503969836331</id>
+    <title>Not what i had planned for today but very important </title>
+    <updated>2023-08-14T17:26:16+00:00</updated>
+    <content>Not what i had planned for today but very important </content>
+    <link href="https://tiktok.com/@mikaelaistired/video/7267230503969836331" rel="alternate"/>
+    <published>2023-08-14T17:26:16+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@mikaelaistired/video/7267621885909667115</id>
     <title>The short version</title>
@@ -83,13 +91,5 @@
     <content>I tried the yearbook AI thing and its full on gender euphoria for me #AgostoDump </content>
     <link href="https://tiktok.com/@mikaelaistired/video/7286075054276791598" rel="alternate"/>
     <published>2023-10-04T12:12:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mikaelaistired/video/7288833192856096046</id>
-    <title>Im sorry this was accidental but then the music just made it too good not to share im sorry</title>
-    <updated>2023-10-11T22:35:40+00:00</updated>
-    <content>Im sorry this was accidental but then the music just made it too good not to share im sorry</content>
-    <link href="https://tiktok.com/@mikaelaistired/video/7288833192856096046" rel="alternate"/>
-    <published>2023-10-11T22:35:40+00:00</published>
   </entry>
 </feed>
