@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-10-10T12:59:04+00:00</updated>
+  <updated>2023-10-12T01:50:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7284763565670796590</id>
-    <title>Nosfuratu. #fyp #trans </title>
-    <updated>2023-09-30T23:23:24+00:00</updated>
-    <content>Nosfuratu. #fyp #trans </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7284763565670796590" rel="alternate"/>
-    <published>2023-09-30T23:23:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7285770565686906158</id>
     <title>Discovered this a few days ago. I've never seen this before, does anyone else have this? Lol. #fyp </title>
@@ -91,5 +83,13 @@
     <content>We did it! We are out! Now comes the traveling. Woot Woot! #fyp #trans </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7288313537229819179" rel="alternate"/>
     <published>2023-10-10T12:59:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7288883405905759531</id>
+    <title>Keeping along. Hai, I'm delirious, how are you. #fyp #trans </title>
+    <updated>2023-10-12T01:50:26+00:00</updated>
+    <content>Keeping along. Hai, I'm delirious, how are you. #fyp #trans </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7288883405905759531" rel="alternate"/>
+    <published>2023-10-12T01:50:26+00:00</published>
   </entry>
 </feed>
