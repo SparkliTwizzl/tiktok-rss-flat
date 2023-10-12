@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@atreegod</id>
   <title>@atreegod | TikTok</title>
-  <updated>2023-10-11T02:02:25+00:00</updated>
+  <updated>2023-10-11T22:32:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @atreegod</subtitle>
-  <entry>
-    <id>https://tiktok.com/@atreegod/video/7285049886796451118</id>
-    <title>I dropped my pen :(( #wlw #lgbtq </title>
-    <updated>2023-10-01T17:54:26+00:00</updated>
-    <content>I dropped my pen :(( #wlw #lgbtq </content>
-    <link href="https://tiktok.com/@atreegod/video/7285049886796451118" rel="alternate"/>
-    <published>2023-10-01T17:54:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@atreegod/video/7285050856808910123</id>
     <title>Nyc goes from air polution to floods in 3 months and ppl deny climate change? Anyways #wlw #nyc #lgbtq </title>
@@ -91,5 +83,13 @@
     <content>And we both love itttt #wlw #lgbtq #cat </content>
     <link href="https://tiktok.com/@atreegod/video/7288515405792988462" rel="alternate"/>
     <published>2023-10-11T02:02:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7288832478868032811</id>
+    <title>And i got oneee :o @E #wlw #lgbtq </title>
+    <updated>2023-10-11T22:32:55+00:00</updated>
+    <content>And i got oneee :o @E #wlw #lgbtq </content>
+    <link href="https://tiktok.com/@atreegod/video/7288832478868032811" rel="alternate"/>
+    <published>2023-10-11T22:32:55+00:00</published>
   </entry>
 </feed>
