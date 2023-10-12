@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@steffzombie</id>
   <title>@steffzombie | TikTok</title>
-  <updated>2023-10-11T19:14:18+00:00</updated>
+  <updated>2023-10-11T01:38:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,22 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @steffzombie</subtitle>
+  <entry>
+    <id>https://tiktok.com/@steffzombie/video/7274003877676993835</id>
+    <title>Karate queer.</title>
+    <updated>2023-09-01T23:30:13+00:00</updated>
+    <content>Karate queer.</content>
+    <link href="https://tiktok.com/@steffzombie/video/7274003877676993835" rel="alternate"/>
+    <published>2023-09-01T23:30:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@steffzombie/video/7282197883372211499</id>
+    <title>Dress for yourself not others and their opinions wont faze you. #fy </title>
+    <updated>2023-09-24T01:27:09+00:00</updated>
+    <content>Dress for yourself not others and their opinions wont faze you. #fy </content>
+    <link href="https://tiktok.com/@steffzombie/video/7282197883372211499" rel="alternate"/>
+    <published>2023-09-24T01:27:09+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@steffzombie/video/7282200260011658539</id>
     <title>Wassup !? #pan</title>
@@ -75,21 +91,5 @@
     <content>Im all you need ? 😂🥺 #fyp #lgbt </content>
     <link href="https://tiktok.com/@steffzombie/video/7288509197128453422" rel="alternate"/>
     <published>2023-10-11T01:38:20+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@steffzombie/video/7288542125833112875</id>
-    <title>What do you MEAN!!!?? </title>
-    <updated>2023-10-11T03:46:16+00:00</updated>
-    <content>What do you MEAN!!!?? </content>
-    <link href="https://tiktok.com/@steffzombie/video/7288542125833112875" rel="alternate"/>
-    <published>2023-10-11T03:46:16+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@steffzombie/video/7288781290990538026</id>
-    <title>Ex bf &lt;&lt;&lt; his mom     #fy </title>
-    <updated>2023-10-11T19:14:18+00:00</updated>
-    <content>Ex bf &lt;&lt;&lt; his mom     #fy </content>
-    <link href="https://tiktok.com/@steffzombie/video/7288781290990538026" rel="alternate"/>
-    <published>2023-10-11T19:14:18+00:00</published>
   </entry>
 </feed>
