@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@charlesthegr8</id>
   <title>@charlesthegr8 | TikTok</title>
-  <updated>2023-10-11T15:53:43+00:00</updated>
+  <updated>2023-10-12T17:16:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @charlesthegr8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7275384352626789674</id>
-    <title>Choose the people you hang out with wisely 🤔 #iykyk #charlesthgr8 #relateable </title>
-    <updated>2023-09-05T16:47:12+00:00</updated>
-    <content>Choose the people you hang out with wisely 🤔 #iykyk #charlesthgr8 #relateable </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7275384352626789674" rel="alternate"/>
-    <published>2023-09-05T16:47:12+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7278371711157030190</id>
-    <title>Give him a pretty face and all is forgiven!!! 😂 #relatable #anime #hunterxhunter #charlesthegr8 </title>
-    <updated>2023-09-13T17:59:46+00:00</updated>
-    <content>Give him a pretty face and all is forgiven!!! 😂 #relatable #anime #hunterxhunter #charlesthegr8 </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7278371711157030190" rel="alternate"/>
-    <published>2023-09-13T17:59:46+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@charlesthegr8/video/7279925837690916126</id>
     <title>We have our reasons 😂 #relatable #iykyk #charlesthegr8 </title>
@@ -91,5 +75,21 @@
     <content>🦋🦋🦋 #iykyk #fyp #relatable #charlesthegr8 </content>
     <link href="https://tiktok.com/@charlesthegr8/video/7288729573192355118" rel="alternate"/>
     <published>2023-10-11T15:53:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7289101004220632366</id>
+    <title>She’s a lil mini me 😂 #iykyk #fyp #relatable #charlesthegr8 </title>
+    <updated>2023-10-12T15:54:49+00:00</updated>
+    <content>She’s a lil mini me 😂 #iykyk #fyp #relatable #charlesthegr8 </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7289101004220632366" rel="alternate"/>
+    <published>2023-10-12T15:54:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7289122128161508651</id>
+    <title>Learn a whole song is tiring 😴 #iykyk #fyp #relatable #charlesthegr8 </title>
+    <updated>2023-10-12T17:16:46+00:00</updated>
+    <content>Learn a whole song is tiring 😴 #iykyk #fyp #relatable #charlesthegr8 </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7289122128161508651" rel="alternate"/>
+    <published>2023-10-12T17:16:46+00:00</published>
   </entry>
 </feed>
