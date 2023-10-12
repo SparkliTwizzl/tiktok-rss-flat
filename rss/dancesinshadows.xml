@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-10-10T13:18:41+00:00</updated>
+  <updated>2023-10-12T14:10:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7279083660521917701</id>
-    <title>sorry for being so quiet lately. I have plans to attend the london comicon (Ontario, Canada - better @FlukeyM 😝)  tomorrow, and I will be vending at the #hamiltoncomiccon both days next weekend. lots of costume updates and artwork to be made. ❤️😅  song @K</title>
-    <updated>2023-09-15T16:02:17+00:00</updated>
-    <content>sorry for being so quiet lately. I have plans to attend the london comicon (Ontario, Canada - better @FlukeyM 😝)  tomorrow, and I will be vending at the #hamiltoncomiccon both days next weekend. lots of costume updates and artwork to be made. ❤️😅  song @Kikibabyrockwell #countdowntohalloween </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7279083660521917701" rel="alternate"/>
-    <published>2023-09-15T16:02:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7283492352122031365</id>
     <title>busy few weeks with con season in full swing  #countdowntohalloween #witchcostume </title>
@@ -91,5 +83,13 @@
     <content>It seems the app cut rhw rest of the vid? oh well.. song @Julia Riew  #maddamcure #miniseries </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7288318629140040966" rel="alternate"/>
     <published>2023-10-10T13:18:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7289074044283014406</id>
+    <title>*flash warning* Now that con season is over, it's time to focus more on my drag performances. I was a super shy kid, and cried at the thought of school plays. I do my best to face my fears, and so it's time to face this one as well 💙 #dragperformance #dra</title>
+    <updated>2023-10-12T14:10:05+00:00</updated>
+    <content>*flash warning* Now that con season is over, it's time to focus more on my drag performances. I was a super shy kid, and cried at the thought of school plays. I do my best to face my fears, and so it's time to face this one as well 💙 #dragperformance #dragperformer #dancesinshadows </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7289074044283014406" rel="alternate"/>
+    <published>2023-10-12T14:10:05+00:00</published>
   </entry>
 </feed>
