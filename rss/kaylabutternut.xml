@@ -13,14 +13,6 @@
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
   <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7286609733698604331</id>
-    <title>[no title]</title>
-    <updated>2023-10-05T22:47:29+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7286609733698604331" rel="alternate"/>
-    <published>2023-10-05T22:47:29+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7286664973621677358</id>
     <title>The stockings noooooo</title>
     <updated>2023-10-06T02:21:52+00:00</updated>
@@ -75,6 +67,14 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7287807534201867566" rel="alternate"/>
     <published>2023-10-09T04:15:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7287807874128989482</id>
+    <title>Secret draft</title>
+    <updated>2023-10-09T04:16:48+00:00</updated>
+    <content>Secret draft</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7287807874128989482" rel="alternate"/>
+    <published>2023-10-09T04:16:48+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7288782881218940203</id>
