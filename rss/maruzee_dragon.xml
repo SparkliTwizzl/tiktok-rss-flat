@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maruzee_dragon</id>
   <title>@maruzee_dragon | TikTok</title>
-  <updated>2023-10-11T01:28:07+00:00</updated>
+  <updated>2023-10-13T02:26:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maruzee_dragon</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maruzee_dragon/video/7284055684071574790</id>
-    <title>Doing The Walk again, but this time we're in a whole different dimension!🌌👀 #transition #outfit #autumn #fashion </title>
-    <updated>2023-09-29T01:36:17+00:00</updated>
-    <content>Doing The Walk again, but this time we're in a whole different dimension!🌌👀 #transition #outfit #autumn #fashion </content>
-    <link href="https://tiktok.com/@maruzee_dragon/video/7284055684071574790" rel="alternate"/>
-    <published>2023-09-29T01:36:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maruzee_dragon/video/7284427803272006917</id>
     <title>Cuz you asked for more, here's a version with purple lightsabers! 💜🌌 #trainedprofessional #starwars #lightsaber #martialarts #transition </title>
@@ -91,5 +83,13 @@
     <content>Casual Harley Quinn transition cuz it's spooky season, ok byebye 👋🎃 #spookyseason #dccomics #harleyquinn #halloween #cosplay #transition #kick #villain </content>
     <link href="https://tiktok.com/@maruzee_dragon/video/7288506599524617478" rel="alternate"/>
     <published>2023-10-11T01:28:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maruzee_dragon/video/7289263841764986117</id>
+    <title>Debating if Skarlet from MK should be my Halloween costume this year! Thoughts?🤔 #mk #transition #halloween #idea #cosplay #spookyseason #martialarts </title>
+    <updated>2023-10-13T02:26:36+00:00</updated>
+    <content>Debating if Skarlet from MK should be my Halloween costume this year! Thoughts?🤔 #mk #transition #halloween #idea #cosplay #spookyseason #martialarts </content>
+    <link href="https://tiktok.com/@maruzee_dragon/video/7289263841764986117" rel="alternate"/>
+    <published>2023-10-13T02:26:36+00:00</published>
   </entry>
 </feed>
