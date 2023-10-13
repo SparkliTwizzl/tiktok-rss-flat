@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-10-12T17:04:47+00:00</updated>
+  <updated>2023-10-13T17:08:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7285826562551745834</id>
-    <title>What does spiderwoman do when she’s done being spiderwoman for the day? This audio reignited my spiderman obsession #spidersuit #spiderman #spiderverse </title>
-    <updated>2023-10-03T20:08:29+00:00</updated>
-    <content>What does spiderwoman do when she’s done being spiderwoman for the day? This audio reignited my spiderman obsession #spidersuit #spiderman #spiderverse </content>
-    <link href="https://tiktok.com/@athena__cos/video/7285826562551745834" rel="alternate"/>
-    <published>2023-10-03T20:08:29+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7286165881141398827</id>
     <title>I still think about her</title>
@@ -91,5 +83,13 @@
     <content>Based off the art by @Reza Vaporeon !  Bellas head tilt is my favorite 😭💜 #eevee #pokemon @Bella LeBaron @🦊prototype fox @Charleemanderz @Raine Emery </content>
     <link href="https://tiktok.com/@athena__cos/video/7289119033943805230" rel="alternate"/>
     <published>2023-10-12T17:04:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7289491001700338987</id>
+    <title>This audio lives in my brain on a loop @Bella LeBaron </title>
+    <updated>2023-10-13T17:08:12+00:00</updated>
+    <content>This audio lives in my brain on a loop @Bella LeBaron </content>
+    <link href="https://tiktok.com/@athena__cos/video/7289491001700338987" rel="alternate"/>
+    <published>2023-10-13T17:08:12+00:00</published>
   </entry>
 </feed>

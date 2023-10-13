@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@atreegod</id>
   <title>@atreegod | TikTok</title>
-  <updated>2023-10-11T22:32:55+00:00</updated>
+  <updated>2023-10-13T19:52:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @atreegod</subtitle>
-  <entry>
-    <id>https://tiktok.com/@atreegod/video/7285050856808910123</id>
-    <title>Nyc goes from air polution to floods in 3 months and ppl deny climate change? Anyways #wlw #nyc #lgbtq </title>
-    <updated>2023-10-01T17:58:10+00:00</updated>
-    <content>Nyc goes from air polution to floods in 3 months and ppl deny climate change? Anyways #wlw #nyc #lgbtq </content>
-    <link href="https://tiktok.com/@atreegod/video/7285050856808910123" rel="alternate"/>
-    <published>2023-10-01T17:58:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@atreegod/video/7285469785595563310</id>
     <title>Mascs can wear pink! We are allowed! #wlw #lgbtq </title>
@@ -91,5 +83,13 @@
     <content>And i got oneee :o @E #wlw #lgbtq </content>
     <link href="https://tiktok.com/@atreegod/video/7288832478868032811" rel="alternate"/>
     <published>2023-10-11T22:32:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7289533293576359210</id>
+    <title>Roommates who work together is crazy #wlw #lgbtq</title>
+    <updated>2023-10-13T19:52:17+00:00</updated>
+    <content>Roommates who work together is crazy #wlw #lgbtq</content>
+    <link href="https://tiktok.com/@atreegod/video/7289533293576359210" rel="alternate"/>
+    <published>2023-10-13T19:52:17+00:00</published>
   </entry>
 </feed>
