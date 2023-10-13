@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@liil.dork.alex</id>
   <title>@liil.dork.alex | TikTok</title>
-  <updated>2023-10-07T23:50:51+00:00</updated>
+  <updated>2023-10-12T23:23:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @liil.dork.alex</subtitle>
-  <entry>
-    <id>https://tiktok.com/@liil.dork.alex/video/7276223696665185578</id>
-    <title>Jus like  Mariah Carey said “ touch my body” </title>
-    <updated>2023-09-07T23:04:20+00:00</updated>
-    <content>Jus like  Mariah Carey said “ touch my body” </content>
-    <link href="https://tiktok.com/@liil.dork.alex/video/7276223696665185578" rel="alternate"/>
-    <published>2023-09-07T23:04:20+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@liil.dork.alex/video/7276614789437295918</id>
-    <title>🛑 ⬇️</title>
-    <updated>2023-09-09T00:21:57+00:00</updated>
-    <content>🛑 ⬇️</content>
-    <link href="https://tiktok.com/@liil.dork.alex/video/7276614789437295918" rel="alternate"/>
-    <published>2023-09-09T00:21:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@liil.dork.alex/video/7277990074824822059</id>
     <title>So tired of people being so unloyal to their partners </title>
@@ -91,5 +75,21 @@
     <content>Its whatever you want 💁🏼‍♀️</content>
     <link href="https://tiktok.com/@liil.dork.alex/video/7287368230836948267" rel="alternate"/>
     <published>2023-10-07T23:50:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@liil.dork.alex/video/7289207602569841963</id>
+    <title>Wanted to ise this sound again 🙇🏼‍♀️</title>
+    <updated>2023-10-12T22:48:33+00:00</updated>
+    <content>Wanted to ise this sound again 🙇🏼‍♀️</content>
+    <link href="https://tiktok.com/@liil.dork.alex/video/7289207602569841963" rel="alternate"/>
+    <published>2023-10-12T22:48:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@liil.dork.alex/video/7289216514555661610</id>
+    <title>Been tryin to get this down 😭</title>
+    <updated>2023-10-12T23:23:04+00:00</updated>
+    <content>Been tryin to get this down 😭</content>
+    <link href="https://tiktok.com/@liil.dork.alex/video/7289216514555661610" rel="alternate"/>
+    <published>2023-10-12T23:23:04+00:00</published>
   </entry>
 </feed>
