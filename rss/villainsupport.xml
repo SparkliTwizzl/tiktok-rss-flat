@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@villainsupport</id>
   <title>@villainsupport | TikTok</title>
-  <updated>2023-10-12T17:04:27+00:00</updated>
+  <updated>2023-10-13T21:15:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @villainsupport</subtitle>
-  <entry>
-    <id>https://tiktok.com/@villainsupport/video/7284365721734270239</id>
-    <title>[no title]</title>
-    <updated>2023-09-29T21:39:33+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@villainsupport/video/7284365721734270239" rel="alternate"/>
-    <published>2023-09-29T21:39:33+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@villainsupport/video/7284673889584614687</id>
     <title>#stitch with @Tales from the Stinky Dragon </title>
@@ -91,5 +83,13 @@
     <content>Short version</content>
     <link href="https://tiktok.com/@villainsupport/video/7289118964284689694" rel="alternate"/>
     <published>2023-10-12T17:04:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@villainsupport/video/7289554704017804575</id>
+    <title>Pergax ordered some double miniature teacup mosquito dragons. They didn’t arrive. John needs to find out why.</title>
+    <updated>2023-10-13T21:15:30+00:00</updated>
+    <content>Pergax ordered some double miniature teacup mosquito dragons. They didn’t arrive. John needs to find out why.</content>
+    <link href="https://tiktok.com/@villainsupport/video/7289554704017804575" rel="alternate"/>
+    <published>2023-10-13T21:15:30+00:00</published>
   </entry>
 </feed>
