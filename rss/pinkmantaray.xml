@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pinkmantaray</id>
   <title>@pinkmantaray | TikTok</title>
-  <updated>2023-10-09T18:40:04+00:00</updated>
+  <updated>2023-10-12T21:40:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @pinkmantaray</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pinkmantaray/video/7281070915297873183</id>
-    <title>Replying to @Henriismyname  #transgender #transman #transbeard #testosterone #hrt </title>
-    <updated>2023-09-21T00:33:56+00:00</updated>
-    <content>Replying to @Henriismyname  #transgender #transman #transbeard #testosterone #hrt </content>
-    <link href="https://tiktok.com/@pinkmantaray/video/7281070915297873183" rel="alternate"/>
-    <published>2023-09-21T00:33:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pinkmantaray/video/7281379311528021279</id>
     <title>Had a lovely run the other morning with my MIL and wife ❤️ #transgender #transathlete #running #halfmarathontraining </title>
@@ -91,5 +83,13 @@
     <content>HELP ME CALL DAX IN. A recent episode of the Armchair Expert with Dax Shepard and @JVN features Dax pushing JVN about trans athletes, claiming to be an ally but also leaning into some dangerous territory. I respect Dax and his work - I have enjoyed his podcast - and I believe he wants to be an ally. And because of this, I am certain that he can be more intentional about how he has this conversation. In fact, it is his responsibility as someone with a platform and power to be intentional and careful, especially if he wants his actions to align with his statements of allyship. Dax, if you want to discuss trans athletes and trans people in sports from a place of respect, allyship, and compassion, do so when everyone is prepared to have that conversation. Please send this to Dax on IG to call him in. The conversation about trans athletes too frequently is done without care or compassion. If you want to talk about us, talk WITH us. #transgender #transathlete #trans #armchairexpertpodcast</content>
     <link href="https://tiktok.com/@pinkmantaray/video/7288030307251506478" rel="alternate"/>
     <published>2023-10-09T18:40:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pinkmantaray/video/7289189942755101998</id>
+    <title>#NationalComingOutDay is always a moment for me to reflect. I used to feel so much disconnection with old images of myself but these days, I feel so much empowerment in looking backwards. All these old photos are a testament to my growth - and the possibi</title>
+    <updated>2023-10-12T21:40:03+00:00</updated>
+    <content>#NationalComingOutDay is always a moment for me to reflect. I used to feel so much disconnection with old images of myself but these days, I feel so much empowerment in looking backwards. All these old photos are a testament to my growth - and the possibility of growth overall. I invited you to dive into exploring your own identity and authenticity, as well. My upcoming book, He/She/They: How We Talk About Gender and Why It Matters, can help you get a head start! Preorder anywhere you buy books or ar HSTBook.com! 💕🏳️‍⚧️ #transgender #comingout #transition #gender</content>
+    <link href="https://tiktok.com/@pinkmantaray/video/7289189942755101998" rel="alternate"/>
+    <published>2023-10-12T21:40:03+00:00</published>
   </entry>
 </feed>
