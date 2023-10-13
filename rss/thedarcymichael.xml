@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-10-13T13:18:28+00:00</updated>
+  <updated>2023-10-13T15:34:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7285809030805736710</id>
-    <title>Sorry i got so mad at the end 😎😬 As a comedian, It always feels weird being genuine but i think its good to share the good news and the not so good news sometimes too. So here i am humbly trying to get the word out to being my husband a little joy #comedy</title>
-    <updated>2023-10-03T19:00:12+00:00</updated>
-    <content>Sorry i got so mad at the end 😎😬 As a comedian, It always feels weird being genuine but i think its good to share the good news and the not so good news sometimes too. So here i am humbly trying to get the word out to being my husband a little joy #comedy #husbands #marriedlife #adhd #couples #darcyandjer #CapCut </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7285809030805736710" rel="alternate"/>
-    <published>2023-10-03T19:00:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7286140647436782854</id>
     <title>Happy birthday to my sweet prince @Shhhhecret account ! I’m constantly just in awe of everything you’ve taken on.  From fatherhood, to performing,  to daddyhood (wwwwwink) you never cease to amaze me. I can’t wait to see what you do next, I just hope what</title>
@@ -91,5 +83,13 @@
     <content>Busy Donkey Does Broadway?!!? We’ve come a long way from sneaky plants into the house. So wild, we’re so grateful to each and every one of you, what a ride.but also this square is sensory overload 😂 #busydonkey #broadway #timesquare #darcyandjer #standup </content>
     <link href="https://tiktok.com/@thedarcymichael/video/7289431834595790085" rel="alternate"/>
     <published>2023-10-13T13:18:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7289466873920408837</id>
+    <title>The exact moment darcy saw this in time square. </title>
+    <updated>2023-10-13T15:34:27+00:00</updated>
+    <content>The exact moment darcy saw this in time square. </content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7289466873920408837" rel="alternate"/>
+    <published>2023-10-13T15:34:27+00:00</published>
   </entry>
 </feed>
