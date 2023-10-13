@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ryn_rrj</id>
   <title>@ryn_rrj | TikTok</title>
-  <updated>2023-06-02T00:05:05+00:00</updated>
+  <updated>2023-07-08T21:21:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ryn_rrj</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ryn_rrj/video/7220553253489085739</id>
-    <title>For legal reasons this is a joke. Also, i believe everyone should have a hobby they arent particularly good at and embroidery is mine. Ik its not great but it makes me happy #hobby #piano #embroidery #craft #fabric #music #joke #funny </title>
-    <updated>2023-04-10T22:34:38+00:00</updated>
-    <content>For legal reasons this is a joke. Also, i believe everyone should have a hobby they arent particularly good at and embroidery is mine. Ik its not great but it makes me happy #hobby #piano #embroidery #craft #fabric #music #joke #funny </content>
-    <link href="https://tiktok.com/@ryn_rrj/video/7220553253489085739" rel="alternate"/>
-    <published>2023-04-10T22:34:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ryn_rrj/video/7222758853144792362</id>
     <title>#brain #science #tiktok come through for me here #musician #performer #performance </title>
@@ -91,5 +83,13 @@
     <content>I mean you never know unless you try . . . . #sondheim #sweeneytodd #musical #theater #musicaltheater #singing #music #dreamrole </content>
     <link href="https://tiktok.com/@ryn_rrj/video/7239873024185634094" rel="alternate"/>
     <published>2023-06-02T00:05:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ryn_rrj/video/7253561024228445486</id>
+    <title>#transjoy #translivesmatter #filter #lgbt #queer #ftm #old </title>
+    <updated>2023-07-08T21:21:35+00:00</updated>
+    <content>#transjoy #translivesmatter #filter #lgbt #queer #ftm #old </content>
+    <link href="https://tiktok.com/@ryn_rrj/video/7253561024228445486" rel="alternate"/>
+    <published>2023-07-08T21:21:35+00:00</published>
   </entry>
 </feed>
