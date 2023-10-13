@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@addalheid</id>
   <title>@addalheid | TikTok</title>
-  <updated>2023-10-13T08:47:34+00:00</updated>
+  <updated>2023-10-13T11:02:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -85,11 +85,11 @@
     <published>2023-10-12T14:53:24+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@addalheid/video/7289362006988131616</id>
-    <title>Rate this haircut </title>
-    <updated>2023-10-13T08:47:34+00:00</updated>
-    <content>Rate this haircut </content>
-    <link href="https://tiktok.com/@addalheid/video/7289362006988131616" rel="alternate"/>
-    <published>2023-10-13T08:47:34+00:00</published>
+    <id>https://tiktok.com/@addalheid/video/7289396771837594913</id>
+    <title>[no title]</title>
+    <updated>2023-10-13T11:02:30+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@addalheid/video/7289396771837594913" rel="alternate"/>
+    <published>2023-10-13T11:02:30+00:00</published>
   </entry>
 </feed>
