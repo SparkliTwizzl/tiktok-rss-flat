@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pinkmantaray</id>
   <title>@pinkmantaray | TikTok</title>
-  <updated>2023-10-12T21:40:03+00:00</updated>
+  <updated>2023-10-14T04:40:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @pinkmantaray</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pinkmantaray/video/7281379311528021279</id>
-    <title>Had a lovely run the other morning with my MIL and wife ❤️ #transgender #transathlete #running #halfmarathontraining </title>
-    <updated>2023-09-21T20:30:40+00:00</updated>
-    <content>Had a lovely run the other morning with my MIL and wife ❤️ #transgender #transathlete #running #halfmarathontraining </content>
-    <link href="https://tiktok.com/@pinkmantaray/video/7281379311528021279" rel="alternate"/>
-    <published>2023-09-21T20:30:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pinkmantaray/video/7282160737957580062</id>
     <title>We still have a lot of work to do. Allies, join the fight. Link in bio. #transgender #allyship #lgbtq </title>
@@ -91,5 +83,13 @@
     <content>#NationalComingOutDay is always a moment for me to reflect. I used to feel so much disconnection with old images of myself but these days, I feel so much empowerment in looking backwards. All these old photos are a testament to my growth - and the possibility of growth overall. I invited you to dive into exploring your own identity and authenticity, as well. My upcoming book, He/She/They: How We Talk About Gender and Why It Matters, can help you get a head start! Preorder anywhere you buy books or ar HSTBook.com! 💕🏳️‍⚧️ #transgender #comingout #transition #gender</content>
     <link href="https://tiktok.com/@pinkmantaray/video/7289189942755101998" rel="alternate"/>
     <published>2023-10-12T21:40:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pinkmantaray/video/7289669386326084910</id>
+    <title>Taking care of my body as a trans person feels like radical resistance to all the systems that do not want trans people here and thriving. #transgender #remotework #travel </title>
+    <updated>2023-10-14T04:40:35+00:00</updated>
+    <content>Taking care of my body as a trans person feels like radical resistance to all the systems that do not want trans people here and thriving. #transgender #remotework #travel </content>
+    <link href="https://tiktok.com/@pinkmantaray/video/7289669386326084910" rel="alternate"/>
+    <published>2023-10-14T04:40:35+00:00</published>
   </entry>
 </feed>
