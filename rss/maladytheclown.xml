@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maladytheclown</id>
   <title>@maladytheclown | TikTok</title>
-  <updated>2023-09-30T15:42:35+00:00</updated>
+  <updated>2023-10-14T16:44:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maladytheclown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maladytheclown/video/7260887823211826438</id>
-    <title>#dancesinshadows #neongreen #maladytheclown </title>
-    <updated>2023-07-28T15:13:08+00:00</updated>
-    <content>#dancesinshadows #neongreen #maladytheclown </content>
-    <link href="https://tiktok.com/@maladytheclown/video/7260887823211826438" rel="alternate"/>
-    <published>2023-07-28T15:13:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maladytheclown/video/7262017026212908294</id>
     <title>#maladytheclown #dancesinshadows #vampire </title>
@@ -91,5 +83,13 @@
     <content>a general mood of late. I've worked so hard these last few years, only to feel used and abandoned by so called friends #maladytheclown </content>
     <link href="https://tiktok.com/@maladytheclown/video/7284644860697644294" rel="alternate"/>
     <published>2023-09-30T15:42:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maladytheclown/video/7289856110595443974</id>
+    <title>#maladytheclown #clownmakeup #makeupartist </title>
+    <updated>2023-10-14T16:44:52+00:00</updated>
+    <content>#maladytheclown #clownmakeup #makeupartist </content>
+    <link href="https://tiktok.com/@maladytheclown/video/7289856110595443974" rel="alternate"/>
+    <published>2023-10-14T16:44:52+00:00</published>
   </entry>
 </feed>
