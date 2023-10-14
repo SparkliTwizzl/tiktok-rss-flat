@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-10-14T18:07:02+00:00</updated>
+  <updated>2023-10-14T20:35:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7286163562731425066</id>
-    <title>It's happening!!! #fyp #trans </title>
-    <updated>2023-10-04T17:56:20+00:00</updated>
-    <content>It's happening!!! #fyp #trans </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7286163562731425066" rel="alternate"/>
-    <published>2023-10-04T17:56:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7286669443948629294</id>
     <title>It's so surreal and bittersweet... #fyp #trans </title>
@@ -91,5 +83,13 @@
     <content>We're here... #fyp #trans </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7289877253922508074" rel="alternate"/>
     <published>2023-10-14T18:07:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7289915608995499307</id>
+    <title>Here's a delirious draft from one of our AirBNBs. I was so sleepy. Lol. This probably will be a once in a blue moon series, but I find myself playing a lot of weird instruments and thought I'd share the little diddies I come up with. Lol. #fyp #trans </title>
+    <updated>2023-10-14T20:35:58+00:00</updated>
+    <content>Here's a delirious draft from one of our AirBNBs. I was so sleepy. Lol. This probably will be a once in a blue moon series, but I find myself playing a lot of weird instruments and thought I'd share the little diddies I come up with. Lol. #fyp #trans </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7289915608995499307" rel="alternate"/>
+    <published>2023-10-14T20:35:58+00:00</published>
   </entry>
 </feed>
