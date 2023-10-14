@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@manic.toxicity</id>
   <title>@manic.toxicity | TikTok</title>
-  <updated>2023-10-13T16:42:23+00:00</updated>
+  <updated>2023-10-14T21:19:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @manic.toxicity</subtitle>
-  <entry>
-    <id>https://tiktok.com/@manic.toxicity/video/7283607006315892011</id>
-    <title>*cries in bullied 300cc* #fyp #foryou #biktok #300cc #honda #hondacbr #hondacbr300r </title>
-    <updated>2023-09-27T20:35:18+00:00</updated>
-    <content>*cries in bullied 300cc* #fyp #foryou #biktok #300cc #honda #hondacbr #hondacbr300r </content>
-    <link href="https://tiktok.com/@manic.toxicity/video/7283607006315892011" rel="alternate"/>
-    <published>2023-09-27T20:35:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@manic.toxicity/video/7285869726947970346</id>
     <title>like im the only girl in the world #fyp #foryou #biktok #5up1down #motorcycle #slow #300cc </title>
@@ -91,5 +83,13 @@
     <content>i just wanna be your sweetheart 🫶🏼🖤 #fyp #foryou #alternative </content>
     <link href="https://tiktok.com/@manic.toxicity/video/7289484348288519470" rel="alternate"/>
     <published>2023-10-13T16:42:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@manic.toxicity/video/7289926716384988458</id>
+    <title>‼️FAKE SMOKE ‼️ IT IS NOT REAL‼️PAY NO ATTENTION‼️ #fyp #foryou </title>
+    <updated>2023-10-14T21:19:05+00:00</updated>
+    <content>‼️FAKE SMOKE ‼️ IT IS NOT REAL‼️PAY NO ATTENTION‼️ #fyp #foryou </content>
+    <link href="https://tiktok.com/@manic.toxicity/video/7289926716384988458" rel="alternate"/>
+    <published>2023-10-14T21:19:05+00:00</published>
   </entry>
 </feed>
