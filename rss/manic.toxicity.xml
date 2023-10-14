@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@manic.toxicity</id>
   <title>@manic.toxicity | TikTok</title>
-  <updated>2023-10-12T21:31:26+00:00</updated>
+  <updated>2023-10-13T16:42:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -45,14 +45,6 @@
     <published>2023-10-05T21:34:16+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@manic.toxicity/video/7287296672441388331</id>
-    <title>do you think im spooky? #fyp #foryou </title>
-    <updated>2023-10-07T19:13:04+00:00</updated>
-    <content>do you think im spooky? #fyp #foryou </content>
-    <link href="https://tiktok.com/@manic.toxicity/video/7287296672441388331" rel="alternate"/>
-    <published>2023-10-07T19:13:04+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@manic.toxicity/video/7287684088012557614</id>
     <title>Replying to @Whitney  peep the eyeliner for the day #fyp #foryou #spook </title>
     <updated>2023-10-08T20:16:30+00:00</updated>
@@ -91,5 +83,13 @@
     <content>im insane #_fyp #foryou #fyp </content>
     <link href="https://tiktok.com/@manic.toxicity/video/7289187738123816234" rel="alternate"/>
     <published>2023-10-12T21:31:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@manic.toxicity/video/7289484348288519470</id>
+    <title>i just wanna be your sweetheart 🫶🏼🖤 #fyp #foryou #alternative </title>
+    <updated>2023-10-13T16:42:23+00:00</updated>
+    <content>i just wanna be your sweetheart 🫶🏼🖤 #fyp #foryou #alternative </content>
+    <link href="https://tiktok.com/@manic.toxicity/video/7289484348288519470" rel="alternate"/>
+    <published>2023-10-13T16:42:23+00:00</published>
   </entry>
 </feed>
