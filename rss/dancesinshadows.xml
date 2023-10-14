@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-10-13T23:07:53+00:00</updated>
+  <updated>2023-10-14T16:39:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7283679996294597894</id>
-    <title>I just acquired yet another harley outfit. I will have to do a montage of all her looks that I now have ❤️ #harleyquinn #pirateharleyquinn #pirate </title>
-    <updated>2023-09-28T01:18:26+00:00</updated>
-    <content>I just acquired yet another harley outfit. I will have to do a montage of all her looks that I now have ❤️ #harleyquinn #pirateharleyquinn #pirate </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7283679996294597894" rel="alternate"/>
-    <published>2023-09-28T01:18:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7283911365780180229</id>
     <title>feel free to duet  #vampire #nicethings #countdowntohalloween </title>
@@ -91,5 +83,13 @@
     <content>More from the other night 💙#dancesinshadows #dragperformer #dragperformance </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7289583716278488325" rel="alternate"/>
     <published>2023-10-13T23:07:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7289854851230534917</id>
+    <title>upcoming events:  frightmare in the falls October 27 - 29th at booth 511 weekly drag shows at @ the well on Wednesday  #pirateharleyquinn #harleyquinn #harleyquinncosplay </title>
+    <updated>2023-10-14T16:39:59+00:00</updated>
+    <content>upcoming events:  frightmare in the falls October 27 - 29th at booth 511 weekly drag shows at @ the well on Wednesday  #pirateharleyquinn #harleyquinn #harleyquinncosplay </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7289854851230534917" rel="alternate"/>
+    <published>2023-10-14T16:39:59+00:00</published>
   </entry>
 </feed>
