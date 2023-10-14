@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maruzee_dragon</id>
   <title>@maruzee_dragon | TikTok</title>
-  <updated>2023-10-13T02:26:36+00:00</updated>
+  <updated>2023-10-14T02:05:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maruzee_dragon</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maruzee_dragon/video/7284427803272006917</id>
-    <title>Cuz you asked for more, here's a version with purple lightsabers! 💜🌌 #trainedprofessional #starwars #lightsaber #martialarts #transition </title>
-    <updated>2023-09-30T01:40:18+00:00</updated>
-    <content>Cuz you asked for more, here's a version with purple lightsabers! 💜🌌 #trainedprofessional #starwars #lightsaber #martialarts #transition </content>
-    <link href="https://tiktok.com/@maruzee_dragon/video/7284427803272006917" rel="alternate"/>
-    <published>2023-09-30T01:40:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maruzee_dragon/video/7284810991559380230</id>
     <title>Réponse à @darksonic__  Hold up, is it just me, or are we getting Star Wars meets Valorant vibes here?😂💚 #martialarts #transition #trainedprofessional #lightsaber </title>
@@ -91,5 +83,13 @@
     <content>Debating if Skarlet from MK should be my Halloween costume this year! Thoughts?🤔 #mk #transition #halloween #idea #cosplay #spookyseason #martialarts </content>
     <link href="https://tiktok.com/@maruzee_dragon/video/7289263841764986117" rel="alternate"/>
     <published>2023-10-13T02:26:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maruzee_dragon/video/7289629563817069829</id>
+    <title>Halloween + MK = The perfect excuse to bring out my Kitana cosplay!💙 #mortalkombat #cosplay #action #videogames #mk #transition </title>
+    <updated>2023-10-14T02:05:47+00:00</updated>
+    <content>Halloween + MK = The perfect excuse to bring out my Kitana cosplay!💙 #mortalkombat #cosplay #action #videogames #mk #transition </content>
+    <link href="https://tiktok.com/@maruzee_dragon/video/7289629563817069829" rel="alternate"/>
+    <published>2023-10-14T02:05:47+00:00</published>
   </entry>
 </feed>
