@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-10-12T17:56:15+00:00</updated>
+  <updated>2023-10-14T01:13:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7287351894186462507</id>
-    <title>My #speaknowtaylorsversion cardigan has arrived! I love it so much! #solardidsystem #sszyra #taylorswift @Taylor Swift @Taylor Nation </title>
-    <updated>2023-10-07T22:47:22+00:00</updated>
-    <content>My #speaknowtaylorsversion cardigan has arrived! I love it so much! #solardidsystem #sszyra #taylorswift @Taylor Swift @Taylor Nation </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7287351894186462507" rel="alternate"/>
-    <published>2023-10-07T22:47:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7287371689183202606</id>
     <title>Replying to @themaskedsystem404#reply thank you for having this discussion with me 🥰 #solardidsystem </title>
@@ -53,14 +45,6 @@
     <published>2023-10-09T18:56:27+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7288046198454308139</id>
-    <title>please don't make fun of my name. I really like it. #solardidsystem #sstragedeigh </title>
-    <updated>2023-10-09T19:41:40+00:00</updated>
-    <content>please don't make fun of my name. I really like it. #solardidsystem #sstragedeigh </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7288046198454308139" rel="alternate"/>
-    <published>2023-10-09T19:41:40+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7288071811625995562</id>
     <title>If god actually cared about us he would have saved us. either he's not real or he's evil. #solardidsystem #ssaurora #christianity #exvangelical </title>
     <updated>2023-10-09T21:21:06+00:00</updated>
@@ -91,5 +75,21 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@stuffwithbits/video/7289132283666271534" rel="alternate"/>
     <published>2023-10-12T17:56:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7289588618996223274</id>
+    <title>#stitch with @Michael Berry I'm exhausted #solardidsystem </title>
+    <updated>2023-10-13T23:27:05+00:00</updated>
+    <content>#stitch with @Michael Berry I'm exhausted #solardidsystem </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7289588618996223274" rel="alternate"/>
+    <published>2023-10-13T23:27:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7289616025912479018</id>
+    <title>Eras Tour Movie time!!! #solardidsystem #taylorswift #erastourmovie </title>
+    <updated>2023-10-14T01:13:24+00:00</updated>
+    <content>Eras Tour Movie time!!! #solardidsystem #taylorswift #erastourmovie </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7289616025912479018" rel="alternate"/>
+    <published>2023-10-14T01:13:24+00:00</published>
   </entry>
 </feed>
