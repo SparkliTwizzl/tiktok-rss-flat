@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@nopanicbutton</id>
   <title>@nopanicbutton | TikTok</title>
-  <updated>2023-10-13T22:26:13+00:00</updated>
+  <updated>2023-10-11T20:19:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @nopanicbutton</subtitle>
+  <entry>
+    <id>https://tiktok.com/@nopanicbutton/video/7281046965369097518</id>
+    <title>RIP John. Join us on Discord! Link is in my bio!</title>
+    <updated>2023-09-20T23:00:59+00:00</updated>
+    <content>RIP John. Join us on Discord! Link is in my bio!</content>
+    <link href="https://tiktok.com/@nopanicbutton/video/7281046965369097518" rel="alternate"/>
+    <published>2023-09-20T23:00:59+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@nopanicbutton/video/7281782088985185582</id>
     <title>Not a paid ad. I love this thing! look for one at https//s.vevor.com/bfQwle #vevor #vevorcode @Vevor_US </title>
@@ -83,13 +91,5 @@
     <content>John finally let one pass by! </content>
     <link href="https://tiktok.com/@nopanicbutton/video/7288798104885775662" rel="alternate"/>
     <published>2023-10-11T20:19:30+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@nopanicbutton/video/7289572929032113454</id>
-    <title>I annoy myself sometimes. #manlaw #mustbedone #canthelpmyself </title>
-    <updated>2023-10-13T22:26:13+00:00</updated>
-    <content>I annoy myself sometimes. #manlaw #mustbedone #canthelpmyself </content>
-    <link href="https://tiktok.com/@nopanicbutton/video/7289572929032113454" rel="alternate"/>
-    <published>2023-10-13T22:26:13+00:00</published>
   </entry>
 </feed>
