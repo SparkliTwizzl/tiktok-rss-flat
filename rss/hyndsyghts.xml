@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@hyndsyghts</id>
   <title>@hyndsyghts | TikTok</title>
-  <updated>2023-10-08T22:42:45+00:00</updated>
+  <updated>2023-10-14T23:48:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @hyndsyghts</subtitle>
-  <entry>
-    <id>https://tiktok.com/@hyndsyghts/video/7280349701478649130</id>
-    <title>I think that this is a trap that a lot of people find themselves in especially AFAB #lgbtq </title>
-    <updated>2023-09-19T01:55:17+00:00</updated>
-    <content>I think that this is a trap that a lot of people find themselves in especially AFAB #lgbtq </content>
-    <link href="https://tiktok.com/@hyndsyghts/video/7280349701478649130" rel="alternate"/>
-    <published>2023-09-19T01:55:17+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@hyndsyghts/video/7281458456752655647</id>
-    <title>this is how I flirt tho #lgbtq #wlw </title>
-    <updated>2023-09-22T01:37:48+00:00</updated>
-    <content>this is how I flirt tho #lgbtq #wlw </content>
-    <link href="https://tiktok.com/@hyndsyghts/video/7281458456752655647" rel="alternate"/>
-    <published>2023-09-22T01:37:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@hyndsyghts/video/7281800010205793566</id>
     <title>representing the double middle names #lgbtq #fashion </title>
@@ -91,5 +75,21 @@
     <content>#itgirl #lgbtq #wlw </content>
     <link href="https://tiktok.com/@hyndsyghts/video/7287721790950886699" rel="alternate"/>
     <published>2023-10-08T22:42:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@hyndsyghts/video/7289964072332741931</id>
+    <title>#actuallyautistic #lgbtq </title>
+    <updated>2023-10-14T23:44:00+00:00</updated>
+    <content>#actuallyautistic #lgbtq </content>
+    <link href="https://tiktok.com/@hyndsyghts/video/7289964072332741931" rel="alternate"/>
+    <published>2023-10-14T23:44:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@hyndsyghts/video/7289965222008311083</id>
+    <title>fall is hermit season #lgbtq </title>
+    <updated>2023-10-14T23:48:28+00:00</updated>
+    <content>fall is hermit season #lgbtq </content>
+    <link href="https://tiktok.com/@hyndsyghts/video/7289965222008311083" rel="alternate"/>
+    <published>2023-10-14T23:48:28+00:00</published>
   </entry>
 </feed>

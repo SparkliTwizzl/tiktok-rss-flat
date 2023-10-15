@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maruzee_dragon</id>
   <title>@maruzee_dragon | TikTok</title>
-  <updated>2023-10-14T02:05:47+00:00</updated>
+  <updated>2023-10-15T01:25:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maruzee_dragon</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maruzee_dragon/video/7284810991559380230</id>
-    <title>Réponse à @darksonic__  Hold up, is it just me, or are we getting Star Wars meets Valorant vibes here?😂💚 #martialarts #transition #trainedprofessional #lightsaber </title>
-    <updated>2023-10-01T02:27:16+00:00</updated>
-    <content>Réponse à @darksonic__  Hold up, is it just me, or are we getting Star Wars meets Valorant vibes here?😂💚 #martialarts #transition #trainedprofessional #lightsaber </content>
-    <link href="https://tiktok.com/@maruzee_dragon/video/7284810991559380230" rel="alternate"/>
-    <published>2023-10-01T02:27:16+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maruzee_dragon/video/7285535046117625094</id>
     <title>Réponse à @kate_love325 WELL, it didn't turn out as I wanted, BUT I've got yellow lightsabers!😂👍 And I switched up the intro a bit... #starwars #lightsaber #martialarts #transition </title>
@@ -91,5 +83,13 @@
     <content>Halloween + MK = The perfect excuse to bring out my Kitana cosplay!💙 #mortalkombat #cosplay #action #videogames #mk #transition </content>
     <link href="https://tiktok.com/@maruzee_dragon/video/7289629563817069829" rel="alternate"/>
     <published>2023-10-14T02:05:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maruzee_dragon/video/7289990340172352774</id>
+    <title>Réponse à @that1sydneyrose I was planning on taking a short break, BUT so many of you asked for it... I just had to do another one with orange lightsabers!😁🧡 #starwars #lightsaber #martialarts #transition </title>
+    <updated>2023-10-15T01:25:47+00:00</updated>
+    <content>Réponse à @that1sydneyrose I was planning on taking a short break, BUT so many of you asked for it... I just had to do another one with orange lightsabers!😁🧡 #starwars #lightsaber #martialarts #transition </content>
+    <link href="https://tiktok.com/@maruzee_dragon/video/7289990340172352774" rel="alternate"/>
+    <published>2023-10-15T01:25:47+00:00</published>
   </entry>
 </feed>
