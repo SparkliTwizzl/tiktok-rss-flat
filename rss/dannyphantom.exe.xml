@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dannyphantom.exe</id>
   <title>@dannyphantom.exe | TikTok</title>
-  <updated>2023-10-14T02:18:09+00:00</updated>
+  <updated>2023-10-15T02:17:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dannyphantom.exe</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7286292838613044523</id>
-    <title>tag someone in a situation-ship</title>
-    <updated>2023-10-05T02:17:46+00:00</updated>
-    <content>tag someone in a situation-ship</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7286292838613044523" rel="alternate"/>
-    <published>2023-10-05T02:17:46+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7286667920212643114</id>
-    <title>HELP AHHhh</title>
-    <updated>2023-10-06T02:33:21+00:00</updated>
-    <content>HELP AHHhh</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7286667920212643114" rel="alternate"/>
-    <published>2023-10-06T02:33:21+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7286668255714905387</id>
-    <title>the joke is that im 🏳️‍🌈</title>
-    <updated>2023-10-06T02:34:36+00:00</updated>
-    <content>the joke is that im 🏳️‍🌈</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7286668255714905387" rel="alternate"/>
-    <published>2023-10-06T02:34:36+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dannyphantom.exe/video/7288148623563476267</id>
     <title>POV: I repurposed the memory space for Star Wars Lore</title>
@@ -91,5 +67,29 @@
     <content>tag someone who uses ADHD math</content>
     <link href="https://tiktok.com/@dannyphantom.exe/video/7289632705615056170" rel="alternate"/>
     <published>2023-10-14T02:18:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7290003097370299691</id>
+    <title>tag someone who does this</title>
+    <updated>2023-10-15T02:15:22+00:00</updated>
+    <content>tag someone who does this</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7290003097370299691" rel="alternate"/>
+    <published>2023-10-15T02:15:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7290003219260968238</id>
+    <title>the only person i gossip w bc she has friends and i dont</title>
+    <updated>2023-10-15T02:15:54+00:00</updated>
+    <content>the only person i gossip w bc she has friends and i dont</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7290003219260968238" rel="alternate"/>
+    <published>2023-10-15T02:15:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7290003683318779179</id>
+    <title>why must mu love forsaken me @Damien Haas @nick meyer @Xumiiz </title>
+    <updated>2023-10-15T02:17:41+00:00</updated>
+    <content>why must mu love forsaken me @Damien Haas @nick meyer @Xumiiz </content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7290003683318779179" rel="alternate"/>
+    <published>2023-10-15T02:17:41+00:00</published>
   </entry>
 </feed>
