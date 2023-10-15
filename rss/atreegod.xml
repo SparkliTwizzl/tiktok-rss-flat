@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@atreegod</id>
   <title>@atreegod | TikTok</title>
-  <updated>2023-10-13T19:52:17+00:00</updated>
+  <updated>2023-10-15T16:19:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @atreegod</subtitle>
-  <entry>
-    <id>https://tiktok.com/@atreegod/video/7285469785595563310</id>
-    <title>Mascs can wear pink! We are allowed! #wlw #lgbtq </title>
-    <updated>2023-10-02T21:03:56+00:00</updated>
-    <content>Mascs can wear pink! We are allowed! #wlw #lgbtq </content>
-    <link href="https://tiktok.com/@atreegod/video/7285469785595563310" rel="alternate"/>
-    <published>2023-10-02T21:03:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@atreegod/video/7285503230413507886</id>
-    <title>I love my new vest #wlw </title>
-    <updated>2023-10-02T23:13:43+00:00</updated>
-    <content>I love my new vest #wlw </content>
-    <link href="https://tiktok.com/@atreegod/video/7285503230413507886" rel="alternate"/>
-    <published>2023-10-02T23:13:43+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@atreegod/video/7286625399054912810</id>
     <title>hehehehehRAHAHHHHHHH #wlw #lgbtq </title>
@@ -91,5 +75,21 @@
     <content>Roommates who work together is crazy #wlw #lgbtq</content>
     <link href="https://tiktok.com/@atreegod/video/7289533293576359210" rel="alternate"/>
     <published>2023-10-13T19:52:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7290219615181983019</id>
+    <title>Or ya homiessss #wlw #lgbtq </title>
+    <updated>2023-10-15T16:15:39+00:00</updated>
+    <content>Or ya homiessss #wlw #lgbtq </content>
+    <link href="https://tiktok.com/@atreegod/video/7290219615181983019" rel="alternate"/>
+    <published>2023-10-15T16:15:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7290220529946987819</id>
+    <title>Okayyy all done w these #wlw </title>
+    <updated>2023-10-15T16:19:12+00:00</updated>
+    <content>Okayyy all done w these #wlw </content>
+    <link href="https://tiktok.com/@atreegod/video/7290220529946987819" rel="alternate"/>
+    <published>2023-10-15T16:19:12+00:00</published>
   </entry>
 </feed>
