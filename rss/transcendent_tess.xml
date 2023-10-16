@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@transcendent_tess</id>
   <title>@transcendent_tess | TikTok</title>
-  <updated>2023-10-12T15:40:31+00:00</updated>
+  <updated>2023-10-16T12:31:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @transcendent_tess</subtitle>
-  <entry>
-    <id>https://tiktok.com/@transcendent_tess/video/7286718887381667118</id>
-    <title>I didn't find the problem, it errored on me... again.#worklife #trucker #lgbttruckers #tripack #apu #thermoking #trucklife #sleeper #sleeperberthproblems </title>
-    <updated>2023-10-06T05:51:21+00:00</updated>
-    <content>I didn't find the problem, it errored on me... again.#worklife #trucker #lgbttruckers #tripack #apu #thermoking #trucklife #sleeper #sleeperberthproblems </content>
-    <link href="https://tiktok.com/@transcendent_tess/video/7286718887381667118" rel="alternate"/>
-    <published>2023-10-06T05:51:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@transcendent_tess/video/7286747451392806187</id>
     <title>this is my brain #adhd #trucklife #sleeper #trucker #morningcoffee #adhdtiktok #adhdcheck #cooking #iowa #lgbttruckers #lgbt #fyp #funny </title>
@@ -91,5 +83,13 @@
     <content>I did manage to get some sleep. 😰 #trucker #truckerlife #truckerproblems #reefer #sleeperberth #transtrucker #lgbttruckers #lgbt🌈 #workingconditions </content>
     <link href="https://tiktok.com/@transcendent_tess/video/7289097309458091306" rel="alternate"/>
     <published>2023-10-12T15:40:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@transcendent_tess/video/7290532959373806890</id>
+    <title>I'm not ready for today. get back to me in 2 hours</title>
+    <updated>2023-10-16T12:31:42+00:00</updated>
+    <content>I'm not ready for today. get back to me in 2 hours</content>
+    <link href="https://tiktok.com/@transcendent_tess/video/7290532959373806890" rel="alternate"/>
+    <published>2023-10-16T12:31:42+00:00</published>
   </entry>
 </feed>
