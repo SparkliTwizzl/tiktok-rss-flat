@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pinkmantaray</id>
   <title>@pinkmantaray | TikTok</title>
-  <updated>2023-10-14T04:40:35+00:00</updated>
+  <updated>2023-10-16T21:03:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @pinkmantaray</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pinkmantaray/video/7282160737957580062</id>
-    <title>We still have a lot of work to do. Allies, join the fight. Link in bio. #transgender #allyship #lgbtq </title>
-    <updated>2023-09-23T23:03:04+00:00</updated>
-    <content>We still have a lot of work to do. Allies, join the fight. Link in bio. #transgender #allyship #lgbtq </content>
-    <link href="https://tiktok.com/@pinkmantaray/video/7282160737957580062" rel="alternate"/>
-    <published>2023-09-23T23:03:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pinkmantaray/video/7282520218151161118</id>
     <title>Replying to @Lu  it would behoove us to learn the history! #transgender #bathrooms #transbathrooms </title>
@@ -91,5 +83,13 @@
     <content>Taking care of my body as a trans person feels like radical resistance to all the systems that do not want trans people here and thriving. #transgender #remotework #travel </content>
     <link href="https://tiktok.com/@pinkmantaray/video/7289669386326084910" rel="alternate"/>
     <published>2023-10-14T04:40:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pinkmantaray/video/7290664929512721706</id>
+    <title>TOMORROW IS LAUNCH DAY which means today is the last day to preorder and receive a free gift! HSTBook.com 💕🙏🏼 #transgender #transauthor #heshethey #gender </title>
+    <updated>2023-10-16T21:03:44+00:00</updated>
+    <content>TOMORROW IS LAUNCH DAY which means today is the last day to preorder and receive a free gift! HSTBook.com 💕🙏🏼 #transgender #transauthor #heshethey #gender </content>
+    <link href="https://tiktok.com/@pinkmantaray/video/7290664929512721706" rel="alternate"/>
+    <published>2023-10-16T21:03:44+00:00</published>
   </entry>
 </feed>
