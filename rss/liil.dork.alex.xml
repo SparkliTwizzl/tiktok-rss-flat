@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@liil.dork.alex</id>
   <title>@liil.dork.alex | TikTok</title>
-  <updated>2023-10-12T23:23:04+00:00</updated>
+  <updated>2023-10-16T01:58:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @liil.dork.alex</subtitle>
-  <entry>
-    <id>https://tiktok.com/@liil.dork.alex/video/7277990074824822059</id>
-    <title>So tired of people being so unloyal to their partners </title>
-    <updated>2023-09-12T17:18:52+00:00</updated>
-    <content>So tired of people being so unloyal to their partners </content>
-    <link href="https://tiktok.com/@liil.dork.alex/video/7277990074824822059" rel="alternate"/>
-    <published>2023-09-12T17:18:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@liil.dork.alex/video/7278905576279624990</id>
     <title>[no title]</title>
@@ -91,5 +83,13 @@
     <content>Been tryin to get this down 😭</content>
     <link href="https://tiktok.com/@liil.dork.alex/video/7289216514555661610" rel="alternate"/>
     <published>2023-10-12T23:23:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@liil.dork.alex/video/7290369732950248746</id>
+    <title>Thank you @HAZEY for the change up. Got me feelin myself 💁🏼‍♀️</title>
+    <updated>2023-10-16T01:58:13+00:00</updated>
+    <content>Thank you @HAZEY for the change up. Got me feelin myself 💁🏼‍♀️</content>
+    <link href="https://tiktok.com/@liil.dork.alex/video/7290369732950248746" rel="alternate"/>
+    <published>2023-10-16T01:58:13+00:00</published>
   </entry>
 </feed>
