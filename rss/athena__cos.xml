@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-10-15T16:58:52+00:00</updated>
+  <updated>2023-10-16T18:25:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7286882681202199851</id>
-    <title>Theres two types of people 💅 Fairies @Raine Emery @🦊prototype fox @✨TheKurliGirli✨ knights @𝐊𝐢𝐤𝐢 𝐌𝐨𝐫𝐚 @Bella LeBaron #knight #knightcore #knightcosplay #fantasy #fantasycosplay </title>
-    <updated>2023-10-06T16:26:46+00:00</updated>
-    <content>Theres two types of people 💅 Fairies @Raine Emery @🦊prototype fox @✨TheKurliGirli✨ knights @𝐊𝐢𝐤𝐢 𝐌𝐨𝐫𝐚 @Bella LeBaron #knight #knightcore #knightcosplay #fantasy #fantasycosplay </content>
-    <link href="https://tiktok.com/@athena__cos/video/7286882681202199851" rel="alternate"/>
-    <published>2023-10-06T16:26:46+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7287273326928710958</id>
     <title>Jiu Jitsu is life </title>
@@ -91,5 +83,13 @@
     <content>Going back to my knight roots with @Jackie O  #knightcore #knightcosplay #ladyknight #womeninarmor </content>
     <link href="https://tiktok.com/@athena__cos/video/7290230752250252587" rel="alternate"/>
     <published>2023-10-15T16:58:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7290624112719023406</id>
+    <title>@Bella LeBaron lets start a coven together #witch #witchaesthetic #halloween #coven </title>
+    <updated>2023-10-16T18:25:29+00:00</updated>
+    <content>@Bella LeBaron lets start a coven together #witch #witchaesthetic #halloween #coven </content>
+    <link href="https://tiktok.com/@athena__cos/video/7290624112719023406" rel="alternate"/>
+    <published>2023-10-16T18:25:29+00:00</published>
   </entry>
 </feed>
