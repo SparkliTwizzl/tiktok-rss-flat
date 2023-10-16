@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thehistorywizard</id>
   <title>@thehistorywizard | TikTok</title>
-  <updated>2023-10-15T19:21:38+00:00</updated>
+  <updated>2023-10-15T23:21:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thehistorywizard</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thehistorywizard/video/7287683539431296302</id>
-    <title>Replying to @kebablaina  Do better. #thehistorywizard #historytiktok #edutok #learnontiktok #dobetter </title>
-    <updated>2023-10-08T20:14:24+00:00</updated>
-    <content>Replying to @kebablaina  Do better. #thehistorywizard #historytiktok #edutok #learnontiktok #dobetter </content>
-    <link href="https://tiktok.com/@thehistorywizard/video/7287683539431296302" rel="alternate"/>
-    <published>2023-10-08T20:14:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thehistorywizard/video/7287958509109595438</id>
     <title>The more you know. #thehistorywizard #historytiktok #edutok #learnontiktok #theparadoxoftolerance </title>
@@ -91,5 +83,13 @@
     <content>Replying to @theatremom5677 because they can. #thehistorywizard #historytiktok #edutok #learnontiktok </content>
     <link href="https://tiktok.com/@thehistorywizard/video/7290267545985322286" rel="alternate"/>
     <published>2023-10-15T19:21:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thehistorywizard/video/7290329391010450734</id>
+    <title>#stitch with @Katie I just had a gender crisis. You can't give me another. #thehistorywizard #historytiktok #edutok #learnontiktok #gender </title>
+    <updated>2023-10-15T23:21:38+00:00</updated>
+    <content>#stitch with @Katie I just had a gender crisis. You can't give me another. #thehistorywizard #historytiktok #edutok #learnontiktok #gender </content>
+    <link href="https://tiktok.com/@thehistorywizard/video/7290329391010450734" rel="alternate"/>
+    <published>2023-10-15T23:21:38+00:00</published>
   </entry>
 </feed>
