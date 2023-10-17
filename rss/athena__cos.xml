@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-10-16T18:25:29+00:00</updated>
+  <updated>2023-10-17T17:09:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7287273326928710958</id>
-    <title>Jiu Jitsu is life </title>
-    <updated>2023-10-07T17:42:31+00:00</updated>
-    <content>Jiu Jitsu is life </content>
-    <link href="https://tiktok.com/@athena__cos/video/7287273326928710958" rel="alternate"/>
-    <published>2023-10-07T17:42:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7287626765747440939</id>
     <title>I like violence what can i say @Bella LeBaron first spooky outfit of the season!  #witch #witchy #spookyseason #halloween #wednesday #witchtok </title>
@@ -91,5 +83,13 @@
     <content>@Bella LeBaron lets start a coven together #witch #witchaesthetic #halloween #coven </content>
     <link href="https://tiktok.com/@athena__cos/video/7290624112719023406" rel="alternate"/>
     <published>2023-10-16T18:25:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7290975540213714218</id>
+    <title>Reunited 🤍 @Jackie O  #ladyknight #knightcore #knightcosplay #womeninarmor #fantasy #fantasycosplay </title>
+    <updated>2023-10-17T17:09:13+00:00</updated>
+    <content>Reunited 🤍 @Jackie O  #ladyknight #knightcore #knightcosplay #womeninarmor #fantasy #fantasycosplay </content>
+    <link href="https://tiktok.com/@athena__cos/video/7290975540213714218" rel="alternate"/>
+    <published>2023-10-17T17:09:13+00:00</published>
   </entry>
 </feed>
