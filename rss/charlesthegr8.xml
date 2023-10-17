@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@charlesthegr8</id>
   <title>@charlesthegr8 | TikTok</title>
-  <updated>2023-10-16T17:38:17+00:00</updated>
+  <updated>2023-10-17T20:14:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @charlesthegr8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7287754644086934826</id>
-    <title>Turned into a whole supermodel smh 😂 #iykyk #fyp #relatable #charlesthegr8 </title>
-    <updated>2023-10-09T00:50:16+00:00</updated>
-    <content>Turned into a whole supermodel smh 😂 #iykyk #fyp #relatable #charlesthegr8 </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7287754644086934826" rel="alternate"/>
-    <published>2023-10-09T00:50:16+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@charlesthegr8/video/7287928509027355950</id>
     <title>Like a completely different person 🤓 #iykyk #fyp #relatable #charlesthegr8 </title>
@@ -91,5 +83,13 @@
     <content>The switch up was crazy😂😂😂 #iykyk #bro #charlesthegr8 </content>
     <link href="https://tiktok.com/@charlesthegr8/video/7290611965372763434" rel="alternate"/>
     <published>2023-10-16T17:38:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7291023244751015210</id>
+    <title>Just some casual Riverdale slander!!! 😂 #iykyk #bored #charlesthegr8 </title>
+    <updated>2023-10-17T20:14:02+00:00</updated>
+    <content>Just some casual Riverdale slander!!! 😂 #iykyk #bored #charlesthegr8 </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7291023244751015210" rel="alternate"/>
+    <published>2023-10-17T20:14:02+00:00</published>
   </entry>
 </feed>
