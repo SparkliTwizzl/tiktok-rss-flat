@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kingfemme</id>
   <title>@kingfemme | TikTok</title>
-  <updated>2023-10-09T19:41:20+00:00</updated>
+  <updated>2023-10-17T15:21:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kingfemme</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kingfemme/video/7279925980905377067</id>
-    <title>#fyp #lgbt #trans #transmasc #nonbinary #hrt #ftm #mtf </title>
-    <updated>2023-09-17T22:31:05+00:00</updated>
-    <content>#fyp #lgbt #trans #transmasc #nonbinary #hrt #ftm #mtf </content>
-    <link href="https://tiktok.com/@kingfemme/video/7279925980905377067" rel="alternate"/>
-    <published>2023-09-17T22:31:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kingfemme/video/7282202190884719903</id>
     <title>#stitch with @asher  #transmasc #fyp #lgbt #bipoc #transman #ftm #nonbinary #blackmen </title>
@@ -91,5 +83,13 @@
     <content>Replying to @Chunky Mongoose #trans #hrt #fyp #storytime #lgbt #transmasc #ftm #nonbinary #transfemme #mtf #doctors </content>
     <link href="https://tiktok.com/@kingfemme/video/7288046085749198123" rel="alternate"/>
     <published>2023-10-09T19:41:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kingfemme/video/7290947820243275050</id>
+    <title>#CapCut #fyp #trans #hrt #transition #nonbinary #ftm #transmasc #testosterone </title>
+    <updated>2023-10-17T15:21:38+00:00</updated>
+    <content>#CapCut #fyp #trans #hrt #transition #nonbinary #ftm #transmasc #testosterone </content>
+    <link href="https://tiktok.com/@kingfemme/video/7290947820243275050" rel="alternate"/>
+    <published>2023-10-17T15:21:38+00:00</published>
   </entry>
 </feed>
