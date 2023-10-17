@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@liil.dork.alex</id>
   <title>@liil.dork.alex | TikTok</title>
-  <updated>2023-10-17T00:33:47+00:00</updated>
+  <updated>2023-10-16T01:58:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @liil.dork.alex</subtitle>
+  <entry>
+    <id>https://tiktok.com/@liil.dork.alex/video/7278905576279624990</id>
+    <title>[no title]</title>
+    <updated>2023-09-15T04:31:20+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@liil.dork.alex/video/7278905576279624990" rel="alternate"/>
+    <published>2023-09-15T04:31:20+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@liil.dork.alex/video/7280934656105598250</id>
     <title>What did she put in this song😭 it wont get outta my head </title>
@@ -83,13 +91,5 @@
     <content>Thank you @HAZEY for the change up. Got me feelin myself 💁🏼‍♀️</content>
     <link href="https://tiktok.com/@liil.dork.alex/video/7290369732950248746" rel="alternate"/>
     <published>2023-10-16T01:58:13+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@liil.dork.alex/video/7290719070419455278</id>
-    <title>♏️ season right around the corner 👀</title>
-    <updated>2023-10-17T00:33:47+00:00</updated>
-    <content>♏️ season right around the corner 👀</content>
-    <link href="https://tiktok.com/@liil.dork.alex/video/7290719070419455278" rel="alternate"/>
-    <published>2023-10-17T00:33:47+00:00</published>
   </entry>
 </feed>
