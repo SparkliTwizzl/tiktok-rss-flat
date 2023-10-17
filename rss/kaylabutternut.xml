@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-10-17T03:19:19+00:00</updated>
+  <updated>2023-10-17T17:30:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7287807534201867566</id>
-    <title>[no title]</title>
-    <updated>2023-10-09T04:15:31+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7287807534201867566" rel="alternate"/>
-    <published>2023-10-09T04:15:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7287807874128989482</id>
     <title>Secret draft</title>
@@ -91,5 +83,13 @@
     <content>It’s been a while </content>
     <link href="https://tiktok.com/@kaylabutternut/video/7290761727887609131" rel="alternate"/>
     <published>2023-10-17T03:19:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7290981063168363819</id>
+    <title>I’m getting my lashes done</title>
+    <updated>2023-10-17T17:30:32+00:00</updated>
+    <content>I’m getting my lashes done</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7290981063168363819" rel="alternate"/>
+    <published>2023-10-17T17:30:32+00:00</published>
   </entry>
 </feed>
