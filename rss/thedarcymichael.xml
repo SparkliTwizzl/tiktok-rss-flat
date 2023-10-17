@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-10-13T15:34:27+00:00</updated>
+  <updated>2023-10-17T00:40:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7285809030805736710</id>
-    <title>Sorry i got so mad at the end 😎😬 As a comedian, It always feels weird being genuine but i think its good to share the good news and the not so good news sometimes too. So here i am humbly trying to get the word out to being my husband a little joy #comedy</title>
-    <updated>2023-10-03T19:00:12+00:00</updated>
-    <content>Sorry i got so mad at the end 😎😬 As a comedian, It always feels weird being genuine but i think its good to share the good news and the not so good news sometimes too. So here i am humbly trying to get the word out to being my husband a little joy #comedy #husbands #marriedlife #adhd #couples #darcyandjer #CapCut </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7285809030805736710" rel="alternate"/>
-    <published>2023-10-03T19:00:12+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7286140647436782854</id>
-    <title>Happy birthday to my sweet prince @Shhhhecret account ! I’m constantly just in awe of everything you’ve taken on.  From fatherhood, to performing,  to daddyhood (wwwwwink) you never cease to amaze me. I can’t wait to see what you do next, I just hope what</title>
-    <updated>2023-10-04T16:27:00+00:00</updated>
-    <content>Happy birthday to my sweet prince @Shhhhecret account ! I’m constantly just in awe of everything you’ve taken on.  From fatherhood, to performing,  to daddyhood (wwwwwink) you never cease to amaze me. I can’t wait to see what you do next, I just hope whatever it is it’s easier on your knees. (wwwwink)</content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7286140647436782854" rel="alternate"/>
-    <published>2023-10-04T16:27:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7286306715291749637</id>
     <title>Spent all week planning this surprise. Totally worth it! #surpriseparty #surprisingmywife #husbandoftheyear #comedy #funny #fail </title>
@@ -43,6 +27,14 @@
     <content>Zero remorse #plants #funny #family #marriedlife #gardener </content>
     <link href="https://tiktok.com/@thedarcymichael/video/7286637647504690437" rel="alternate"/>
     <published>2023-10-06T00:35:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7287003626252356869</id>
+    <title>the ending was the perfect adhd way  #manchild #adhd #marriedlife #comedy #couplecomedy #ram1500 #impulsebuy </title>
+    <updated>2023-10-07T00:15:48+00:00</updated>
+    <content>the ending was the perfect adhd way  #manchild #adhd #marriedlife #comedy #couplecomedy #ram1500 #impulsebuy </content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7287003626252356869" rel="alternate"/>
+    <published>2023-10-07T00:15:48+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7287974278824348934</id>
@@ -91,5 +83,13 @@
     <content>The exact moment darcy saw this in time square. </content>
     <link href="https://tiktok.com/@thedarcymichael/video/7289466873920408837" rel="alternate"/>
     <published>2023-10-13T15:34:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7290720897009192197</id>
+    <title>He squashed the cake </title>
+    <updated>2023-10-17T00:40:44+00:00</updated>
+    <content>He squashed the cake </content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7290720897009192197" rel="alternate"/>
+    <published>2023-10-17T00:40:44+00:00</published>
   </entry>
 </feed>
