@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pinkmantaray</id>
   <title>@pinkmantaray | TikTok</title>
-  <updated>2023-10-17T01:12:03+00:00</updated>
+  <updated>2023-10-18T03:39:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @pinkmantaray</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pinkmantaray/video/7283676791191932203</id>
-    <title>This week's #DearSchuyler brings you a vulnerable, striking, and deeply compassionate conversation with consultant and educator, @Addison Rose Vincent 🙏🏼 I've listened to this episode a few times now and every time I do, I learn something new from Addison</title>
-    <updated>2023-09-28T01:06:03+00:00</updated>
-    <content>This week's #DearSchuyler brings you a vulnerable, striking, and deeply compassionate conversation with consultant and educator, @Addison Rose Vincent 🙏🏼 I've listened to this episode a few times now and every time I do, I learn something new from Addison. I reflect a little deeper. I challenge my own internalized transphobia. I'm so grateful for all Addison has offered us. Take a listen wherever you get your podcasts 💕 #transgender #trans #podcast</content>
-    <link href="https://tiktok.com/@pinkmantaray/video/7283676791191932203" rel="alternate"/>
-    <published>2023-09-28T01:06:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pinkmantaray/video/7284785403033390378</id>
     <title>For a limited time, preorder to recieve TWO bonus gifts! Visit hstbook.com/preorder for more details 🙏🏼 #booktok #transgender #author #genderliteracy #transauthors </title>
@@ -91,5 +83,13 @@
     <content>A little running update! #running #bostonhalfmarathon #dryneedling #physicaltherapy #transathlete </content>
     <link href="https://tiktok.com/@pinkmantaray/video/7290728940937760042" rel="alternate"/>
     <published>2023-10-17T01:12:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pinkmantaray/video/7291137918058417438</id>
+    <title>HE/SHE/THEY LAUNCHES TODAY 💕🎉🏳️‍⚧️ order a signed copy now before they sell out again! HSTBook.com! #transgender #trans #gender #heshethey </title>
+    <updated>2023-10-18T03:39:01+00:00</updated>
+    <content>HE/SHE/THEY LAUNCHES TODAY 💕🎉🏳️‍⚧️ order a signed copy now before they sell out again! HSTBook.com! #transgender #trans #gender #heshethey </content>
+    <link href="https://tiktok.com/@pinkmantaray/video/7291137918058417438" rel="alternate"/>
+    <published>2023-10-18T03:39:01+00:00</published>
   </entry>
 </feed>
