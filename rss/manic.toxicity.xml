@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@manic.toxicity</id>
   <title>@manic.toxicity | TikTok</title>
-  <updated>2023-10-15T20:53:20+00:00</updated>
+  <updated>2023-10-18T16:43:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @manic.toxicity</subtitle>
-  <entry>
-    <id>https://tiktok.com/@manic.toxicity/video/7286590836962364714</id>
-    <title>yes my hair is wet, i am blonde i promise #fyp #foryou </title>
-    <updated>2023-10-05T21:34:16+00:00</updated>
-    <content>yes my hair is wet, i am blonde i promise #fyp #foryou </content>
-    <link href="https://tiktok.com/@manic.toxicity/video/7286590836962364714" rel="alternate"/>
-    <published>2023-10-05T21:34:16+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@manic.toxicity/video/7287296672441388331</id>
     <title>do you think im spooky? #fyp #foryou </title>
@@ -91,5 +83,13 @@
     <content>baby i gotcha money #fyp #foryou </content>
     <link href="https://tiktok.com/@manic.toxicity/video/7290291181425003822" rel="alternate"/>
     <published>2023-10-15T20:53:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@manic.toxicity/video/7291340067245739307</id>
+    <title>heres dessert… ##fyp##foryou</title>
+    <updated>2023-10-18T16:43:32+00:00</updated>
+    <content>heres dessert… ##fyp##foryou</content>
+    <link href="https://tiktok.com/@manic.toxicity/video/7291340067245739307" rel="alternate"/>
+    <published>2023-10-18T16:43:32+00:00</published>
   </entry>
 </feed>
