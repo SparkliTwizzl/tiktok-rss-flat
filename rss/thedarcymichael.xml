@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-10-17T20:43:13+00:00</updated>
+  <updated>2023-10-18T20:57:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7286637647504690437</id>
-    <title>Zero remorse #plants #funny #family #marriedlife #gardener </title>
-    <updated>2023-10-06T00:35:37+00:00</updated>
-    <content>Zero remorse #plants #funny #family #marriedlife #gardener </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7286637647504690437" rel="alternate"/>
-    <published>2023-10-06T00:35:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7287003626252356869</id>
     <title>the ending was the perfect adhd way  #manchild #adhd #marriedlife #comedy #couplecomedy #ram1500 #impulsebuy </title>
@@ -91,5 +83,13 @@
     <content>When my husband decided this was what yall wanted, i just had to go along #roastingmyhusband #stdwm #comedy #funnycouple #adhd #newyorktour #roast #actinglike </content>
     <link href="https://tiktok.com/@thedarcymichael/video/7291030776257219846" rel="alternate"/>
     <published>2023-10-17T20:43:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7291405666521042181</id>
+    <title>20 years later and we’re still just a couple fools trying to make each other laugh #CapCut #loveislove #married #husbands</title>
+    <updated>2023-10-18T20:57:58+00:00</updated>
+    <content>20 years later and we’re still just a couple fools trying to make each other laugh #CapCut #loveislove #married #husbands</content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7291405666521042181" rel="alternate"/>
+    <published>2023-10-18T20:57:58+00:00</published>
   </entry>
 </feed>
