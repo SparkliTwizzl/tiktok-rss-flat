@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@steffzombie</id>
   <title>@steffzombie | TikTok</title>
-  <updated>2023-10-17T00:37:20+00:00</updated>
+  <updated>2023-10-13T01:10:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,30 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @steffzombie</subtitle>
+  <entry>
+    <id>https://tiktok.com/@steffzombie/video/7282200260011658539</id>
+    <title>Wassup !? #pan</title>
+    <updated>2023-09-24T01:36:21+00:00</updated>
+    <content>Wassup !? #pan</content>
+    <link href="https://tiktok.com/@steffzombie/video/7282200260011658539" rel="alternate"/>
+    <published>2023-09-24T01:36:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@steffzombie/video/7283687866574671146</id>
+    <title>Still wanna see ? #fy </title>
+    <updated>2023-09-28T01:49:00+00:00</updated>
+    <content>Still wanna see ? #fy </content>
+    <link href="https://tiktok.com/@steffzombie/video/7283687866574671146" rel="alternate"/>
+    <published>2023-09-28T01:49:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@steffzombie/video/7285195764739951915</id>
+    <title>No pain no gain? #scary #saw</title>
+    <updated>2023-10-02T03:20:34+00:00</updated>
+    <content>No pain no gain? #scary #saw</content>
+    <link href="https://tiktok.com/@steffzombie/video/7285195764739951915" rel="alternate"/>
+    <published>2023-10-02T03:20:34+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@steffzombie/video/7287351197017689386</id>
     <title>Perfect time of the year for this dance. #lgbt #spooky </title>
@@ -61,35 +85,11 @@
     <published>2023-10-12T02:26:19+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@steffzombie/video/7288932781386632494</id>
-    <title>Replying to @Ramas Ferret2  vibes before K.O #fy </title>
-    <updated>2023-10-12T05:02:01+00:00</updated>
-    <content>Replying to @Ramas Ferret2  vibes before K.O #fy </content>
-    <link href="https://tiktok.com/@steffzombie/video/7288932781386632494" rel="alternate"/>
-    <published>2023-10-12T05:02:01+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@steffzombie/video/7289244133141810478</id>
     <title>😆 🩰 #fy #ballet </title>
     <updated>2023-10-13T01:10:19+00:00</updated>
     <content>😆 🩰 #fy #ballet </content>
     <link href="https://tiktok.com/@steffzombie/video/7289244133141810478" rel="alternate"/>
     <published>2023-10-13T01:10:19+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@steffzombie/video/7289876136643939627</id>
-    <title>This ones haaaard 🪄 #fy </title>
-    <updated>2023-10-14T18:02:47+00:00</updated>
-    <content>This ones haaaard 🪄 #fy </content>
-    <link href="https://tiktok.com/@steffzombie/video/7289876136643939627" rel="alternate"/>
-    <published>2023-10-14T18:02:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@steffzombie/video/7290719993010916651</id>
-    <title>That 1% can suck butt #fyp #witch </title>
-    <updated>2023-10-17T00:37:20+00:00</updated>
-    <content>That 1% can suck butt #fyp #witch </content>
-    <link href="https://tiktok.com/@steffzombie/video/7290719993010916651" rel="alternate"/>
-    <published>2023-10-17T00:37:20+00:00</published>
   </entry>
 </feed>
