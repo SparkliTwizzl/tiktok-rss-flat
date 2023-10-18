@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avocadosnaliens</id>
   <title>@avocadosnaliens | TikTok</title>
-  <updated>2023-10-14T17:28:05+00:00</updated>
+  <updated>2023-10-18T02:14:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avocadosnaliens</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avocadosnaliens/video/7285916394368011562</id>
-    <title>My adhd is my photography and my photography is my adhd. #photography #35mmfilm #nikon </title>
-    <updated>2023-10-04T01:56:55+00:00</updated>
-    <content>My adhd is my photography and my photography is my adhd. #photography #35mmfilm #nikon </content>
-    <link href="https://tiktok.com/@avocadosnaliens/video/7285916394368011562" rel="alternate"/>
-    <published>2023-10-04T01:56:55+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avocadosnaliens/video/7286200544610274602</id>
     <title>Ive been meaning to make this video for a while now! Enjoy🫶 #photographygear #weddingphotographer #photographersoftiktok </title>
@@ -91,5 +83,13 @@
     <content>Thank you for the thoughtful gift @Hanes. RIP Golden retriever boy-you will most definitely be forgotten 🖤 #ghosted </content>
     <link href="https://tiktok.com/@avocadosnaliens/video/7289867186292772139" rel="alternate"/>
     <published>2023-10-14T17:28:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7291116020482247978</id>
+    <title>Aint no way </title>
+    <updated>2023-10-18T02:14:05+00:00</updated>
+    <content>Aint no way </content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7291116020482247978" rel="alternate"/>
+    <published>2023-10-18T02:14:05+00:00</published>
   </entry>
 </feed>
