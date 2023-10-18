@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@grouch_thebird</id>
   <title>@grouch_thebird | TikTok</title>
-  <updated>2023-10-13T03:07:54+00:00</updated>
+  <updated>2023-10-17T23:39:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @grouch_thebird</subtitle>
-  <entry>
-    <id>https://tiktok.com/@grouch_thebird/video/7286928832521620767</id>
-    <title>[no title]</title>
-    <updated>2023-10-06T19:25:46+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@grouch_thebird/video/7286928832521620767" rel="alternate"/>
-    <published>2023-10-06T19:25:46+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@grouch_thebird/video/7287032763889274143</id>
     <title>[no title]</title>
@@ -91,5 +83,13 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@grouch_thebird/video/7289274440557333791" rel="alternate"/>
     <published>2023-10-13T03:07:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grouch_thebird/video/7291076240369372447</id>
+    <title>womp womp</title>
+    <updated>2023-10-17T23:39:41+00:00</updated>
+    <content>womp womp</content>
+    <link href="https://tiktok.com/@grouch_thebird/video/7291076240369372447" rel="alternate"/>
+    <published>2023-10-17T23:39:41+00:00</published>
   </entry>
 </feed>
