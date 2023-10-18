@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thehistorywizard</id>
   <title>@thehistorywizard | TikTok</title>
-  <updated>2023-10-18T13:58:47+00:00</updated>
+  <updated>2023-10-18T16:55:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thehistorywizard</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thehistorywizard/video/7289906238379380011</id>
-    <title>Replying to @the_ravenskeeper.tv 10/10 explanation. #thehistorywizard #historytiktok #edutok #learnontiktok </title>
-    <updated>2023-10-14T19:59:37+00:00</updated>
-    <content>Replying to @the_ravenskeeper.tv 10/10 explanation. #thehistorywizard #historytiktok #edutok #learnontiktok </content>
-    <link href="https://tiktok.com/@thehistorywizard/video/7289906238379380011" rel="alternate"/>
-    <published>2023-10-14T19:59:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thehistorywizard/video/7290176721410788654</id>
     <title>Replying to @user9735244609810 Take notes. This will be on the test. #thehistorywizard #historytiktok #edutok #learnontiktok </title>
@@ -91,5 +83,13 @@
     <content>Replying to @skyek16 I sincerely hope this clears things up. #thehistorywizard #historytiktok #edutok #learnontiktok #israel #palestine </content>
     <link href="https://tiktok.com/@thehistorywizard/video/7291297618829823274" rel="alternate"/>
     <published>2023-10-18T13:58:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thehistorywizard/video/7291343126352989482</id>
+    <title>#duet with @Yaseen Be aware. #thehistorywizard #historytiktok #edutok #learnontiktok </title>
+    <updated>2023-10-18T16:55:23+00:00</updated>
+    <content>#duet with @Yaseen Be aware. #thehistorywizard #historytiktok #edutok #learnontiktok </content>
+    <link href="https://tiktok.com/@thehistorywizard/video/7291343126352989482" rel="alternate"/>
+    <published>2023-10-18T16:55:23+00:00</published>
   </entry>
 </feed>
