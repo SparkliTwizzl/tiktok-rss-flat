@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@liil.dork.alex</id>
   <title>@liil.dork.alex | TikTok</title>
-  <updated>2023-10-18T01:52:57+00:00</updated>
+  <updated>2023-10-18T07:28:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @liil.dork.alex</subtitle>
-  <entry>
-    <id>https://tiktok.com/@liil.dork.alex/video/7282887777409273134</id>
-    <title>Photos brought to you by caleb 😂</title>
-    <updated>2023-09-25T22:04:23+00:00</updated>
-    <content>Photos brought to you by caleb 😂</content>
-    <link href="https://tiktok.com/@liil.dork.alex/video/7282887777409273134" rel="alternate"/>
-    <published>2023-09-25T22:04:23+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@liil.dork.alex/video/7284755280708291886</id>
-    <title>My love ❤️🐶</title>
-    <updated>2023-09-30T22:51:16+00:00</updated>
-    <content>My love ❤️🐶</content>
-    <link href="https://tiktok.com/@liil.dork.alex/video/7284755280708291886" rel="alternate"/>
-    <published>2023-09-30T22:51:16+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@liil.dork.alex/video/7285875058164190510</id>
     <title>Fast asf boiii </title>
@@ -91,5 +75,21 @@
     <content>The stray hair hanging on for dear life </content>
     <link href="https://tiktok.com/@liil.dork.alex/video/7291110584228252974" rel="alternate"/>
     <published>2023-10-18T01:52:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@liil.dork.alex/video/7291194318986202414</id>
+    <title>@🪬Tito🪬  how could you 😭 what’s he got that i dont got </title>
+    <updated>2023-10-18T07:18:01+00:00</updated>
+    <content>@🪬Tito🪬  how could you 😭 what’s he got that i dont got </content>
+    <link href="https://tiktok.com/@liil.dork.alex/video/7291194318986202414" rel="alternate"/>
+    <published>2023-10-18T07:18:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@liil.dork.alex/video/7291197152632786222</id>
+    <title>My mother has the good jeans 😂</title>
+    <updated>2023-10-18T07:28:59+00:00</updated>
+    <content>My mother has the good jeans 😂</content>
+    <link href="https://tiktok.com/@liil.dork.alex/video/7291197152632786222" rel="alternate"/>
+    <published>2023-10-18T07:28:59+00:00</published>
   </entry>
 </feed>
