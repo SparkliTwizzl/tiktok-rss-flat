@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kit_the_beefcake</id>
   <title>@kit_the_beefcake | TikTok</title>
-  <updated>2023-10-18T06:43:52+00:00</updated>
+  <updated>2023-10-19T05:01:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kit_the_beefcake</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7284459506250157354</id>
-    <title>[no title]</title>
-    <updated>2023-09-30T03:43:30+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7284459506250157354" rel="alternate"/>
-    <published>2023-09-30T03:43:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7285712183022079278</id>
     <title>[no title]</title>
@@ -91,5 +83,13 @@
     <content>and I call him Gubby </content>
     <link href="https://tiktok.com/@kit_the_beefcake/video/7291185525271153962" rel="alternate"/>
     <published>2023-10-18T06:43:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7291530169330847018</id>
+    <title>[no title]</title>
+    <updated>2023-10-19T05:01:25+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7291530169330847018" rel="alternate"/>
+    <published>2023-10-19T05:01:25+00:00</published>
   </entry>
 </feed>

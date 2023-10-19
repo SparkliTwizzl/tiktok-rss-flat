@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pinkmantaray</id>
   <title>@pinkmantaray | TikTok</title>
-  <updated>2023-10-19T03:15:32+00:00</updated>
+  <updated>2023-10-19T04:29:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @pinkmantaray</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pinkmantaray/video/7285111728109571374</id>
-    <title>Preorder the book for more! Link in bio or at HSTBook.com 💕🏳️‍⚧️ #transgender #trans #lgbtqhistorymonth #transauthor </title>
-    <updated>2023-10-01T21:54:24+00:00</updated>
-    <content>Preorder the book for more! Link in bio or at HSTBook.com 💕🏳️‍⚧️ #transgender #trans #lgbtqhistorymonth #transauthor </content>
-    <link href="https://tiktok.com/@pinkmantaray/video/7285111728109571374" rel="alternate"/>
-    <published>2023-10-01T21:54:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pinkmantaray/video/7285518742077885742</id>
     <title>Clothing has no gender! Thanks for lending me your shorts @Sarah Ehsani 🧿 سِرا  💕 #running #transathlete #transgender #gender </title>
@@ -91,5 +83,13 @@
     <content>NYC book talk at @Greenlight Bookstore was packed with barely even any standing room... I stood up to speak nearly crying. This work is so difficult and joyful, so grief-stricken and hope-filled, and I am so grateful to be able to do it. Join in the fight by grabbing a copy at HSTBook.com. There will be signed copies all over NYC by the end of the day tomorrow. #transgender #heshethey #transauthor </content>
     <link href="https://tiktok.com/@pinkmantaray/video/7291502934280490270" rel="alternate"/>
     <published>2023-10-19T03:15:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pinkmantaray/video/7291522110202154270</id>
+    <title>A few other thoughts about the tears 💕 #transgender #trans #author #crying </title>
+    <updated>2023-10-19T04:29:58+00:00</updated>
+    <content>A few other thoughts about the tears 💕 #transgender #trans #author #crying </content>
+    <link href="https://tiktok.com/@pinkmantaray/video/7291522110202154270" rel="alternate"/>
+    <published>2023-10-19T04:29:58+00:00</published>
   </entry>
 </feed>
