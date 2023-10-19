@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-10-19T08:24:13+00:00</updated>
+  <updated>2023-10-19T16:26:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7290433173761051947</id>
-    <title>The opposite of my voice and attitude </title>
-    <updated>2023-10-16T06:04:34+00:00</updated>
-    <content>The opposite of my voice and attitude </content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7290433173761051947" rel="alternate"/>
-    <published>2023-10-16T06:04:34+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7290683487642733867</id>
-    <title>Pov: you actually got a full nights sleep</title>
-    <updated>2023-10-16T22:15:46+00:00</updated>
-    <content>Pov: you actually got a full nights sleep</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7290683487642733867" rel="alternate"/>
-    <published>2023-10-16T22:15:46+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7290761727887609131</id>
-    <title>It’s been a while </title>
-    <updated>2023-10-17T03:19:19+00:00</updated>
-    <content>It’s been a while </content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7290761727887609131" rel="alternate"/>
-    <published>2023-10-17T03:19:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7290981063168363819</id>
     <title>I’m getting my lashes done</title>
@@ -91,5 +67,29 @@
     <content>2 inches and sparkly </content>
     <link href="https://tiktok.com/@kaylabutternut/video/7291582311018106155" rel="alternate"/>
     <published>2023-10-19T08:24:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7291704552301055274</id>
+    <title>Guess my job</title>
+    <updated>2023-10-19T16:18:03+00:00</updated>
+    <content>Guess my job</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7291704552301055274" rel="alternate"/>
+    <published>2023-10-19T16:18:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7291705412011691310</id>
+    <title>Im ab to give up on this acct</title>
+    <updated>2023-10-19T16:21:21+00:00</updated>
+    <content>Im ab to give up on this acct</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7291705412011691310" rel="alternate"/>
+    <published>2023-10-19T16:21:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7291706772677545258</id>
+    <title>I’m in vegas :)</title>
+    <updated>2023-10-19T16:26:42+00:00</updated>
+    <content>I’m in vegas :)</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7291706772677545258" rel="alternate"/>
+    <published>2023-10-19T16:26:42+00:00</published>
   </entry>
 </feed>
