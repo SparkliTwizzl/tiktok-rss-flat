@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-10-17T19:00:33+00:00</updated>
+  <updated>2023-10-17T19:38:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7288071811625995562</id>
-    <title>If god actually cared about us he would have saved us. either he's not real or he's evil. #solardidsystem #ssaurora #christianity #exvangelical </title>
-    <updated>2023-10-09T21:21:06+00:00</updated>
-    <content>If god actually cared about us he would have saved us. either he's not real or he's evil. #solardidsystem #ssaurora #christianity #exvangelical </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7288071811625995562" rel="alternate"/>
-    <published>2023-10-09T21:21:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7288077413966335278</id>
     <title>honest question #solardidsystem #sstragedeigh </title>
@@ -91,5 +83,13 @@
     <content>The comforting thing about rock bottom is you know it can't get any worse. #solardidsystem #ssquinn </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7291004295988776235" rel="alternate"/>
     <published>2023-10-17T19:00:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7291014200262970666</id>
+    <title>We stand against ethnic cleansing, but we are not in a place to do much more than that. Our energy has to be devoted to staying alive right now and that's taking 100% of it. #solardidsystem #ssquinn #freepalestine </title>
+    <updated>2023-10-17T19:38:58+00:00</updated>
+    <content>We stand against ethnic cleansing, but we are not in a place to do much more than that. Our energy has to be devoted to staying alive right now and that's taking 100% of it. #solardidsystem #ssquinn #freepalestine </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7291014200262970666" rel="alternate"/>
+    <published>2023-10-17T19:38:58+00:00</published>
   </entry>
 </feed>

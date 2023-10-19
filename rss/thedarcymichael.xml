@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-10-18T20:57:58+00:00</updated>
+  <updated>2023-10-19T16:17:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7287003626252356869</id>
-    <title>the ending was the perfect adhd way  #manchild #adhd #marriedlife #comedy #couplecomedy #ram1500 #impulsebuy </title>
-    <updated>2023-10-07T00:15:48+00:00</updated>
-    <content>the ending was the perfect adhd way  #manchild #adhd #marriedlife #comedy #couplecomedy #ram1500 #impulsebuy </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7287003626252356869" rel="alternate"/>
-    <published>2023-10-07T00:15:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7287974278824348934</id>
     <title>this was an emotional roller coaster!  #standupcomedy #adhd #busydonkey #couplecomedy #popquiz #overheard #justforlaughs  I dont know if its lame to talk about the stress of touring or performing cuz I also understand that what we do is very silly. Howeve</title>
@@ -91,5 +83,13 @@
     <content>20 years later and we’re still just a couple fools trying to make each other laugh #CapCut #loveislove #married #husbands</content>
     <link href="https://tiktok.com/@thedarcymichael/video/7291405666521042181" rel="alternate"/>
     <published>2023-10-18T20:57:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7291704597205224709</id>
+    <title>Darcy will be right back after these important messages #adhd #sensoryoverload #neurodivergent </title>
+    <updated>2023-10-19T16:17:57+00:00</updated>
+    <content>Darcy will be right back after these important messages #adhd #sensoryoverload #neurodivergent </content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7291704597205224709" rel="alternate"/>
+    <published>2023-10-19T16:17:57+00:00</published>
   </entry>
 </feed>
