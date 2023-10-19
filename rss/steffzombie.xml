@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@steffzombie</id>
   <title>@steffzombie | TikTok</title>
-  <updated>2023-10-19T03:12:31+00:00</updated>
+  <updated>2023-10-19T07:09:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @steffzombie</subtitle>
-  <entry>
-    <id>https://tiktok.com/@steffzombie/video/7283687866574671146</id>
-    <title>Still wanna see ? #fy </title>
-    <updated>2023-09-28T01:49:00+00:00</updated>
-    <content>Still wanna see ? #fy </content>
-    <link href="https://tiktok.com/@steffzombie/video/7283687866574671146" rel="alternate"/>
-    <published>2023-09-28T01:49:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@steffzombie/video/7285195764739951915</id>
     <title>No pain no gain? #scary #saw</title>
@@ -91,5 +83,13 @@
     <content>I should be sleeping rn 😬</content>
     <link href="https://tiktok.com/@steffzombie/video/7291502139799653674" rel="alternate"/>
     <published>2023-10-19T03:12:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@steffzombie/video/7291563056553807147</id>
+    <title>Dont screenshot the first photo 😅</title>
+    <updated>2023-10-19T07:09:08+00:00</updated>
+    <content>Dont screenshot the first photo 😅</content>
+    <link href="https://tiktok.com/@steffzombie/video/7291563056553807147" rel="alternate"/>
+    <published>2023-10-19T07:09:08+00:00</published>
   </entry>
 </feed>
