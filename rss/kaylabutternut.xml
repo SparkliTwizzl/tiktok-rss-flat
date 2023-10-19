@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-10-18T16:29:54+00:00</updated>
+  <updated>2023-10-19T08:24:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7290405850957499691</id>
-    <title>I miss frenemies </title>
-    <updated>2023-10-16T04:18:23+00:00</updated>
-    <content>I miss frenemies </content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7290405850957499691" rel="alternate"/>
-    <published>2023-10-16T04:18:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7290433173761051947</id>
     <title>The opposite of my voice and attitude </title>
@@ -91,5 +83,13 @@
     <content>I spent 3 hours hand stitching this skirt because I’m scared of sewing machines </content>
     <link href="https://tiktok.com/@kaylabutternut/video/7291336550540135726" rel="alternate"/>
     <published>2023-10-18T16:29:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7291582311018106155</id>
+    <title>2 inches and sparkly </title>
+    <updated>2023-10-19T08:24:13+00:00</updated>
+    <content>2 inches and sparkly </content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7291582311018106155" rel="alternate"/>
+    <published>2023-10-19T08:24:13+00:00</published>
   </entry>
 </feed>
