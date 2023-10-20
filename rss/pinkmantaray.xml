@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pinkmantaray</id>
   <title>@pinkmantaray | TikTok</title>
-  <updated>2023-10-19T04:29:58+00:00</updated>
+  <updated>2023-10-20T00:55:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @pinkmantaray</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pinkmantaray/video/7285518742077885742</id>
-    <title>Clothing has no gender! Thanks for lending me your shorts @Sarah Ehsani 🧿 سِرا  💕 #running #transathlete #transgender #gender </title>
-    <updated>2023-10-03T00:13:51+00:00</updated>
-    <content>Clothing has no gender! Thanks for lending me your shorts @Sarah Ehsani 🧿 سِرا  💕 #running #transathlete #transgender #gender </content>
-    <link href="https://tiktok.com/@pinkmantaray/video/7285518742077885742" rel="alternate"/>
-    <published>2023-10-03T00:13:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pinkmantaray/video/7285807066122423594</id>
     <title>Continuing on #LGBTQHistoryMonth, here's some background on the word CISGENDER - which is not a bad word or a slur. PREORDER my upcoming book, He/She/They: How We Talk About Gender and Why It Matters, to learn more 💕 #transgender #trans #cisgender</title>
@@ -91,5 +83,13 @@
     <content>A few other thoughts about the tears 💕 #transgender #trans #author #crying </content>
     <link href="https://tiktok.com/@pinkmantaray/video/7291522110202154270" rel="alternate"/>
     <published>2023-10-19T04:29:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pinkmantaray/video/7291837874666835231</id>
+    <title>Get a signed copy of my book in NYC at Books Are Magic, WORD Books, McNally Jackson (all locations except Rockefeller), and Yu &amp; Me Books! You can also order online at HSTBook.com/buy 💕 #transgender #heshethey #author #booktok </title>
+    <updated>2023-10-20T00:55:14+00:00</updated>
+    <content>Get a signed copy of my book in NYC at Books Are Magic, WORD Books, McNally Jackson (all locations except Rockefeller), and Yu &amp; Me Books! You can also order online at HSTBook.com/buy 💕 #transgender #heshethey #author #booktok </content>
+    <link href="https://tiktok.com/@pinkmantaray/video/7291837874666835231" rel="alternate"/>
+    <published>2023-10-20T00:55:14+00:00</published>
   </entry>
 </feed>
