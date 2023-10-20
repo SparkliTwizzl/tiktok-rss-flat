@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-10-19T17:10:44+00:00</updated>
+  <updated>2023-10-20T18:15:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7288383146242870574</id>
-    <title>Hes my idol fr #jjk #jjkcosplay #yujiitadori </title>
-    <updated>2023-10-10T17:29:09+00:00</updated>
-    <content>Hes my idol fr #jjk #jjkcosplay #yujiitadori </content>
-    <link href="https://tiktok.com/@athena__cos/video/7288383146242870574" rel="alternate"/>
-    <published>2023-10-10T17:29:09+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7288727829301202218</id>
     <title>Motivation isn’t real-discipline is </title>
@@ -91,5 +83,13 @@
     <content>This trend tugged at my heart strings 🖤</content>
     <link href="https://tiktok.com/@athena__cos/video/7291718112326667566" rel="alternate"/>
     <published>2023-10-19T17:10:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7292105863806897451</id>
+    <title>Fall edition to one of my favorite videos i’ve done with @Bella LeBaron #ladyknight #knightcore #knightcosplay #womeninarmor #fantasy #fantasycosplay </title>
+    <updated>2023-10-20T18:15:24+00:00</updated>
+    <content>Fall edition to one of my favorite videos i’ve done with @Bella LeBaron #ladyknight #knightcore #knightcosplay #womeninarmor #fantasy #fantasycosplay </content>
+    <link href="https://tiktok.com/@athena__cos/video/7292105863806897451" rel="alternate"/>
+    <published>2023-10-20T18:15:24+00:00</published>
   </entry>
 </feed>
