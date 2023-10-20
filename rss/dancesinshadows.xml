@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-10-14T16:39:59+00:00</updated>
+  <updated>2023-10-20T14:35:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7283911365780180229</id>
-    <title>feel free to duet  #vampire #nicethings #countdowntohalloween </title>
-    <updated>2023-09-28T16:16:15+00:00</updated>
-    <content>feel free to duet  #vampire #nicethings #countdowntohalloween </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7283911365780180229" rel="alternate"/>
-    <published>2023-09-28T16:16:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7284130544005287173</id>
     <title>hugs 🩵 #glumthesupernaturalhitman #dailyreminder </title>
@@ -91,5 +83,13 @@
     <content>upcoming events:  frightmare in the falls October 27 - 29th at booth 511 weekly drag shows at @ the well on Wednesday  #pirateharleyquinn #harleyquinn #harleyquinncosplay </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7289854851230534917" rel="alternate"/>
     <published>2023-10-14T16:39:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7292049190144986374</id>
+    <title>My 1st number from last weeks open stage. ♥️ #dancesinshadows #dragperformer #dragperformance #dragqueen </title>
+    <updated>2023-10-20T14:35:09+00:00</updated>
+    <content>My 1st number from last weeks open stage. ♥️ #dancesinshadows #dragperformer #dragperformance #dragqueen </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7292049190144986374" rel="alternate"/>
+    <published>2023-10-20T14:35:09+00:00</published>
   </entry>
 </feed>
