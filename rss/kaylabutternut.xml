@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-10-19T21:37:45.883065+00:00</updated>
+  <updated>2023-10-19T19:28:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,4 +12,84 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7290761727887609131</id>
+    <title>It’s been a while </title>
+    <updated>2023-10-17T03:19:19+00:00</updated>
+    <content>It’s been a while </content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7290761727887609131" rel="alternate"/>
+    <published>2023-10-17T03:19:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7290981063168363819</id>
+    <title>I’m getting my lashes done</title>
+    <updated>2023-10-17T17:30:32+00:00</updated>
+    <content>I’m getting my lashes done</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7290981063168363819" rel="alternate"/>
+    <published>2023-10-17T17:30:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7291061664907005226</id>
+    <title>remember when this sound had a vice grip on tiktok</title>
+    <updated>2023-10-17T22:43:07+00:00</updated>
+    <content>remember when this sound had a vice grip on tiktok</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7291061664907005226" rel="alternate"/>
+    <published>2023-10-17T22:43:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7291243005825027371</id>
+    <title>New shoes</title>
+    <updated>2023-10-18T10:26:55+00:00</updated>
+    <content>New shoes</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7291243005825027371" rel="alternate"/>
+    <published>2023-10-18T10:26:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7291333112187866411</id>
+    <title>Should I pack this for my trip or no</title>
+    <updated>2023-10-18T16:16:31+00:00</updated>
+    <content>Should I pack this for my trip or no</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7291333112187866411" rel="alternate"/>
+    <published>2023-10-18T16:16:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7291335431130451243</id>
+    <title>This weekend </title>
+    <updated>2023-10-18T16:25:29+00:00</updated>
+    <content>This weekend </content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7291335431130451243" rel="alternate"/>
+    <published>2023-10-18T16:25:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7291336550540135726</id>
+    <title>I spent 3 hours hand stitching this skirt because I’m scared of sewing machines </title>
+    <updated>2023-10-18T16:29:54+00:00</updated>
+    <content>I spent 3 hours hand stitching this skirt because I’m scared of sewing machines </content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7291336550540135726" rel="alternate"/>
+    <published>2023-10-18T16:29:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7291582311018106155</id>
+    <title>2 inches and sparkly </title>
+    <updated>2023-10-19T08:24:13+00:00</updated>
+    <content>2 inches and sparkly </content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7291582311018106155" rel="alternate"/>
+    <published>2023-10-19T08:24:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7291706772677545258</id>
+    <title>I’m in vegas :)</title>
+    <updated>2023-10-19T16:26:42+00:00</updated>
+    <content>I’m in vegas :)</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7291706772677545258" rel="alternate"/>
+    <published>2023-10-19T16:26:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7291753722902760746</id>
+    <title>How did I not notice </title>
+    <updated>2023-10-19T19:28:45+00:00</updated>
+    <content>How did I not notice </content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7291753722902760746" rel="alternate"/>
+    <published>2023-10-19T19:28:45+00:00</published>
+  </entry>
 </feed>
