@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maruzee_dragon</id>
   <title>@maruzee_dragon | TikTok</title>
-  <updated>2023-10-19T02:22:47+00:00</updated>
+  <updated>2023-10-18T01:34:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maruzee_dragon</subtitle>
+  <entry>
+    <id>https://tiktok.com/@maruzee_dragon/video/7286663650251672837</id>
+    <title>Réponse à @emilija3651 Pink lightsabers 💗 And Star Wars meets MK vibes again!👍 #starwars #lightsaber #martialarts #transition </title>
+    <updated>2023-10-06T02:16:33+00:00</updated>
+    <content>Réponse à @emilija3651 Pink lightsabers 💗 And Star Wars meets MK vibes again!👍 #starwars #lightsaber #martialarts #transition </content>
+    <link href="https://tiktok.com/@maruzee_dragon/video/7286663650251672837" rel="alternate"/>
+    <published>2023-10-06T02:16:33+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@maruzee_dragon/video/7287398210136575237</id>
     <title>First time cosplaying as an alternate version of me!😁👍 Create yours with the Lensa app and show me the result!✨️ #lensaapp #transition #martialarts #training #ai #cosplay</title>
@@ -83,13 +91,5 @@
     <content>As you asked, here's another version of this lightsabers transition!😁👍 #starwars #lightsaber #martialarts #transition #sith #jedi </content>
     <link href="https://tiktok.com/@maruzee_dragon/video/7291105915854490886" rel="alternate"/>
     <published>2023-10-18T01:34:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@maruzee_dragon/video/7291489372615216389</id>
-    <title>Réponse à @pick_a_lily07 Lil mashup, did I miss any colors?😂🌈 #lightsaber #transition #martialarts </title>
-    <updated>2023-10-19T02:22:47+00:00</updated>
-    <content>Réponse à @pick_a_lily07 Lil mashup, did I miss any colors?😂🌈 #lightsaber #transition #martialarts </content>
-    <link href="https://tiktok.com/@maruzee_dragon/video/7291489372615216389" rel="alternate"/>
-    <published>2023-10-19T02:22:47+00:00</published>
   </entry>
 </feed>
