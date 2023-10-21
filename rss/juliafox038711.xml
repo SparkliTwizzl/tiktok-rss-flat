@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@juliafox038711</id>
   <title>@juliafox038711 | TikTok</title>
-  <updated>2023-10-18T01:26:20+00:00</updated>
+  <updated>2023-10-21T23:01:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juliafox038711</subtitle>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7288117747131714847</id>
-    <title>Replying to @💕 K I L E Y 💕 for almost 3 years i have been asked this so while i look cool, here is titan/venom </title>
-    <updated>2023-10-10T00:19:18+00:00</updated>
-    <content>Replying to @💕 K I L E Y 💕 for almost 3 years i have been asked this so while i look cool, here is titan/venom </content>
-    <link href="https://tiktok.com/@juliafox038711/video/7288117747131714847" rel="alternate"/>
-    <published>2023-10-10T00:19:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@juliafox038711/video/7288129259296673054</id>
     <title>i just really like my makeup😭🙏🏼</title>
@@ -91,5 +83,13 @@
     <content>go crazy go crazy</content>
     <link href="https://tiktok.com/@juliafox038711/video/7291103722388655391" rel="alternate"/>
     <published>2023-10-18T01:26:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7292550658836712734</id>
+    <title>ive done videos to some of these audios too😭</title>
+    <updated>2023-10-21T23:01:16+00:00</updated>
+    <content>ive done videos to some of these audios too😭</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7292550658836712734" rel="alternate"/>
+    <published>2023-10-21T23:01:16+00:00</published>
   </entry>
 </feed>
