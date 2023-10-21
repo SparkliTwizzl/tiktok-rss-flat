@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-10-20T18:15:24+00:00</updated>
+  <updated>2023-10-21T17:46:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7288727829301202218</id>
-    <title>Motivation isn’t real-discipline is </title>
-    <updated>2023-10-11T15:46:50+00:00</updated>
-    <content>Motivation isn’t real-discipline is </content>
-    <link href="https://tiktok.com/@athena__cos/video/7288727829301202218" rel="alternate"/>
-    <published>2023-10-11T15:46:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7289119033943805230</id>
     <title>Based off the art by @Reza Vaporeon !  Bellas head tilt is my favorite 😭💜 #eevee #pokemon @Bella LeBaron @🦊prototype fox @Charleemanderz @Raine Emery </title>
@@ -91,5 +83,13 @@
     <content>Fall edition to one of my favorite videos i’ve done with @Bella LeBaron #ladyknight #knightcore #knightcosplay #womeninarmor #fantasy #fantasycosplay </content>
     <link href="https://tiktok.com/@athena__cos/video/7292105863806897451" rel="alternate"/>
     <published>2023-10-20T18:15:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7292469643518692650</id>
+    <title>I would rather be where i am than where i started #gymtok #womenwholift </title>
+    <updated>2023-10-21T17:46:51+00:00</updated>
+    <content>I would rather be where i am than where i started #gymtok #womenwholift </content>
+    <link href="https://tiktok.com/@athena__cos/video/7292469643518692650" rel="alternate"/>
+    <published>2023-10-21T17:46:51+00:00</published>
   </entry>
 </feed>
