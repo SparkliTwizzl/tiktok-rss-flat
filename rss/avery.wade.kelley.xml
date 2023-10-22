@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-10-20T20:12:25+00:00</updated>
+  <updated>2023-10-22T08:59:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7287769146396396842</id>
-    <title>Replying to @tdgreens I just wanted to be clear about my intentions behind responding to the Chester comments. Nothing but love to you all. #fyp </title>
-    <updated>2023-10-09T01:46:34+00:00</updated>
-    <content>Replying to @tdgreens I just wanted to be clear about my intentions behind responding to the Chester comments. Nothing but love to you all. #fyp </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7287769146396396842" rel="alternate"/>
-    <published>2023-10-09T01:46:34+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7288313537229819179</id>
-    <title>We did it! We are out! Now comes the traveling. Woot Woot! #fyp #trans </title>
-    <updated>2023-10-10T12:59:04+00:00</updated>
-    <content>We did it! We are out! Now comes the traveling. Woot Woot! #fyp #trans </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7288313537229819179" rel="alternate"/>
-    <published>2023-10-10T12:59:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7288883405905759531</id>
     <title>Keeping along. Hai, I'm delirious, how are you. #fyp #trans </title>
@@ -91,5 +75,21 @@
     <content>So many fantastic things are happening in our lives right now, and I am extremely grateful for all of it. Thank you universe, thank you loved ones, thank you everything! #fyp #trans @Itsmedanibaby </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7292136068231548203" rel="alternate"/>
     <published>2023-10-20T20:12:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7292694585384373550</id>
+    <title>#duet with @nbcnews #gaza #freePalestine </title>
+    <updated>2023-10-22T08:20:04+00:00</updated>
+    <content>#duet with @nbcnews #gaza #freePalestine </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7292694585384373550" rel="alternate"/>
+    <published>2023-10-22T08:20:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7292704720752299307</id>
+    <title>#duet with @jamesissmiling Posting late in hopes of dodging the algorithm that has been silencing voices. #freepalestine🇵🇸❤️ </title>
+    <updated>2023-10-22T08:59:27+00:00</updated>
+    <content>#duet with @jamesissmiling Posting late in hopes of dodging the algorithm that has been silencing voices. #freepalestine🇵🇸❤️ </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7292704720752299307" rel="alternate"/>
+    <published>2023-10-22T08:59:27+00:00</published>
   </entry>
 </feed>
