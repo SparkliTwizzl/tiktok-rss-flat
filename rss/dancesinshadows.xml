@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-10-21T16:53:03+00:00</updated>
+  <updated>2023-10-22T01:39:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7284803811519024390</id>
-    <title>always loved this song 💗 #purpleaesthetic #witchcostume #countdowntohalloween </title>
-    <updated>2023-10-01T01:59:24+00:00</updated>
-    <content>always loved this song 💗 #purpleaesthetic #witchcostume #countdowntohalloween </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7284803811519024390" rel="alternate"/>
-    <published>2023-10-01T01:59:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7285700494583008518</id>
     <title>Maddam Cure reflecting on the last few years... #maddamcure #retrovibes #miniseries </title>
@@ -91,5 +83,13 @@
     <content>new flavors of ice-cream wigs are in the works! I finally had the time to sit down and make 3 more wigs. I plan to get some pics and post to my shop as soon as I can. this one is for this Wednesday's stage performance #icecream #icecreamwig #foamwig </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7292455813543726341" rel="alternate"/>
     <published>2023-10-21T16:53:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7292591366914247941</id>
+    <title>this month has really flown by so fast. I had so many plans for costumes, but so little time. I plan to bring this look to this Wednesdays open stage performance. #thisishalloween #icecream #clown </title>
+    <updated>2023-10-22T01:39:04+00:00</updated>
+    <content>this month has really flown by so fast. I had so many plans for costumes, but so little time. I plan to bring this look to this Wednesdays open stage performance. #thisishalloween #icecream #clown </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7292591366914247941" rel="alternate"/>
+    <published>2023-10-22T01:39:04+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dannyphantom.exe</id>
   <title>@dannyphantom.exe | TikTok</title>
-  <updated>2023-10-21T02:19:40+00:00</updated>
+  <updated>2023-10-22T02:28:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dannyphantom.exe</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7290003683318779179</id>
-    <title>why must mu love forsaken me @Damien Haas @nick meyer @Xumiiz </title>
-    <updated>2023-10-15T02:17:41+00:00</updated>
-    <content>why must mu love forsaken me @Damien Haas @nick meyer @Xumiiz </content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7290003683318779179" rel="alternate"/>
-    <published>2023-10-15T02:17:41+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7290374146922515758</id>
-    <title>On my way! 😐🤓</title>
-    <updated>2023-10-16T02:15:16+00:00</updated>
-    <content>On my way! 😐🤓</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7290374146922515758" rel="alternate"/>
-    <published>2023-10-16T02:15:16+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dannyphantom.exe/video/7290374228422004010</id>
     <title>welp •_•</title>
@@ -91,5 +75,21 @@
     <content>✨PLUH✨</content>
     <link href="https://tiktok.com/@dannyphantom.exe/video/7292230728027295022" rel="alternate"/>
     <published>2023-10-21T02:19:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7292603183648771374</id>
+    <title>hmmm sharks :) </title>
+    <updated>2023-10-22T02:25:03+00:00</updated>
+    <content>hmmm sharks :) </content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7292603183648771374" rel="alternate"/>
+    <published>2023-10-22T02:25:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7292604027404094762</id>
+    <title>UR FATHER LOVES U VILLIAN… I THINK</title>
+    <updated>2023-10-22T02:28:21+00:00</updated>
+    <content>UR FATHER LOVES U VILLIAN… I THINK</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7292604027404094762" rel="alternate"/>
+    <published>2023-10-22T02:28:21+00:00</published>
   </entry>
 </feed>
