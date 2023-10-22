@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@hyndsyghts</id>
   <title>@hyndsyghts | TikTok</title>
-  <updated>2023-10-15T19:04:11+00:00</updated>
+  <updated>2023-10-22T01:02:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @hyndsyghts</subtitle>
-  <entry>
-    <id>https://tiktok.com/@hyndsyghts/video/7282113371120422174</id>
-    <title>getting vaccinated is fashion #lgbtq #booster #fashion </title>
-    <updated>2023-09-23T19:59:12+00:00</updated>
-    <content>getting vaccinated is fashion #lgbtq #booster #fashion </content>
-    <link href="https://tiktok.com/@hyndsyghts/video/7282113371120422174" rel="alternate"/>
-    <published>2023-09-23T19:59:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@hyndsyghts/video/7282171363404664095</id>
     <title>got a mullet. I hate my curly hair tho 💔 #lgbtq #mullet </title>
@@ -91,5 +83,13 @@
     <content>#actuallyautistic #lgbtq </content>
     <link href="https://tiktok.com/@hyndsyghts/video/7290263049007680810" rel="alternate"/>
     <published>2023-10-15T19:04:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@hyndsyghts/video/7292581958096325931</id>
+    <title>Free Palestine </title>
+    <updated>2023-10-22T01:02:42+00:00</updated>
+    <content>Free Palestine </content>
+    <link href="https://tiktok.com/@hyndsyghts/video/7292581958096325931" rel="alternate"/>
+    <published>2023-10-22T01:02:42+00:00</published>
   </entry>
 </feed>
