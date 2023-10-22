@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-10-21T23:20:11+00:00</updated>
+  <updated>2023-10-22T16:22:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7288734110816783621</id>
-    <title>It has POCKETS ladies #unboxing #plants #kaftan #plantdaddy #darcyandjer </title>
-    <updated>2023-10-11T16:10:57+00:00</updated>
-    <content>It has POCKETS ladies #unboxing #plants #kaftan #plantdaddy #darcyandjer </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7288734110816783621" rel="alternate"/>
-    <published>2023-10-11T16:10:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7288777328199601413</id>
     <title>I like to share this story every national coming out day not to celebrate me coming out but to remind parents its their job to love their kids unconditionally. The greatest gift my parents ever gave me was that of freedom to be myself. I found a partner I</title>
@@ -91,5 +83,13 @@
     <content>We never want to let anyone down but we have to this time unfortunately.  Full statement:  Hi creeps,  It is with the heaviest heart that we have to postpone the remainder of this weeks shows.  On last nights show, I tore my meniscus in my knee doing one too many bum drops - as one does for the people! I’ve been ordered to rest (aka ADHD torture) and not perform for the next few weeks while we wait to hear it if I need surgery.  We will announce the new make up dates as soon as possible.  I’m so so sorry, please send Jer all your condolences while he has to deal with me.  Tolerate you all ! Darcy and Jer  We will be back new york, washington, philly, albany, I promise. Xo </content>
     <link href="https://tiktok.com/@thedarcymichael/video/7292555570031103238" rel="alternate"/>
     <published>2023-10-21T23:20:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7292819083840474373</id>
+    <title>Cupcakes are good but not as good as you all ❤️</title>
+    <updated>2023-10-22T16:22:44+00:00</updated>
+    <content>Cupcakes are good but not as good as you all ❤️</content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7292819083840474373" rel="alternate"/>
+    <published>2023-10-22T16:22:44+00:00</published>
   </entry>
 </feed>
