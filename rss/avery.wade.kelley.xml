@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-10-22T08:59:27+00:00</updated>
+  <updated>2023-10-22T17:34:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7288883405905759531</id>
-    <title>Keeping along. Hai, I'm delirious, how are you. #fyp #trans </title>
-    <updated>2023-10-12T01:50:26+00:00</updated>
-    <content>Keeping along. Hai, I'm delirious, how are you. #fyp #trans </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7288883405905759531" rel="alternate"/>
-    <published>2023-10-12T01:50:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7289141514406481195</id>
     <title>I am honored and humbled. Thank you!!! #fyp #trans @PinkNews 🏳️‍🌈🏳️‍⚧️ </title>
@@ -91,5 +83,13 @@
     <content>#duet with @jamesissmiling Posting late in hopes of dodging the algorithm that has been silencing voices. #freepalestine🇵🇸❤️ </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7292704720752299307" rel="alternate"/>
     <published>2023-10-22T08:59:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7292837545698790702</id>
+    <title>From Florida to Colorado, and everything in-between then and now... It's been a wild ride. #fyp #trans </title>
+    <updated>2023-10-22T17:34:29+00:00</updated>
+    <content>From Florida to Colorado, and everything in-between then and now... It's been a wild ride. #fyp #trans </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7292837545698790702" rel="alternate"/>
+    <published>2023-10-22T17:34:29+00:00</published>
   </entry>
 </feed>
