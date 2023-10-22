@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thehistorywizard</id>
   <title>@thehistorywizard | TikTok</title>
-  <updated>2023-10-22T13:55:55+00:00</updated>
+  <updated>2023-10-22T18:07:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thehistorywizard</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thehistorywizard/video/7290547809474858282</id>
-    <title>Replying to @outhousephilosophies This is not up for debate. #thehistorywizard #historytiktok #edutok #learnontiktok </title>
-    <updated>2023-10-16T13:29:21+00:00</updated>
-    <content>Replying to @outhousephilosophies This is not up for debate. #thehistorywizard #historytiktok #edutok #learnontiktok </content>
-    <link href="https://tiktok.com/@thehistorywizard/video/7290547809474858282" rel="alternate"/>
-    <published>2023-10-16T13:29:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thehistorywizard/video/7290561032349682987</id>
     <title>Replying to @dwolf77 Violence will always be necessary. #thehistorywizard #historytiktok #edutok #learnontiktok </title>
@@ -91,5 +83,13 @@
     <content>Society should tale care of people. ESPECIALLY, those who aren't "productive" #thehistorywizard #historytiktok #edutok #learnontiktok </content>
     <link href="https://tiktok.com/@thehistorywizard/video/7292781190061247787" rel="alternate"/>
     <published>2023-10-22T13:55:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thehistorywizard/video/7292845980473560366</id>
+    <title>I need it. #thehistorywizard #historytiktok #spiderman </title>
+    <updated>2023-10-22T18:07:18+00:00</updated>
+    <content>I need it. #thehistorywizard #historytiktok #spiderman </content>
+    <link href="https://tiktok.com/@thehistorywizard/video/7292845980473560366" rel="alternate"/>
+    <published>2023-10-22T18:07:18+00:00</published>
   </entry>
 </feed>
