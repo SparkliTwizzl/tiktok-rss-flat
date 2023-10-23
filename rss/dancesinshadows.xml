@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-10-22T15:34:53+00:00</updated>
+  <updated>2023-10-23T11:55:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7287607506526833926</id>
-    <title>First time solo on stage. I didn't get a chance to plan, prep or rehearse anything prior, after a very stressful day. I'll be back again this Wednesday #glumthesupernaturalhitman #dragperformance #dragperformer </title>
-    <updated>2023-10-08T15:19:09+00:00</updated>
-    <content>First time solo on stage. I didn't get a chance to plan, prep or rehearse anything prior, after a very stressful day. I'll be back again this Wednesday #glumthesupernaturalhitman #dragperformance #dragperformer </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7287607506526833926" rel="alternate"/>
-    <published>2023-10-08T15:19:09+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7287609700869311749</id>
     <title>ill be at Frightmare in the Falls all 3 days at the end of the month. #witchcostume #countdowntohalloween </title>
@@ -91,5 +83,13 @@
     <content>this week's schedule: Wednesday: open stage at the Well Friday, Sat, Sun: Frightmare in the falls booth 511 co.e say hey if at either #identifyasaproblem #clownmakeup #maladytheclown </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7292806754243546374" rel="alternate"/>
     <published>2023-10-22T15:34:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7293121343162240261</id>
+    <title>💙💙💙 #onthisday #maladytheclown #maladyandglum </title>
+    <updated>2023-10-23T11:55:39+00:00</updated>
+    <content>💙💙💙 #onthisday #maladytheclown #maladyandglum </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7293121343162240261" rel="alternate"/>
+    <published>2023-10-23T11:55:39+00:00</published>
   </entry>
 </feed>

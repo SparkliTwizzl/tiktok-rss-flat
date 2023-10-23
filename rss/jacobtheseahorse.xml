@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jacobtheseahorse</id>
   <title>@jacobtheseahorse | TikTok</title>
-  <updated>2023-10-11T12:31:05+00:00</updated>
+  <updated>2023-10-23T15:31:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jacobtheseahorse</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7283172809239432481</id>
-    <title>I did a longer version with a birth photo after, but here's a short one ✌🏻 #CapCut #trans #birth #transisbeautiful #transpregnancy </title>
-    <updated>2023-09-26T16:30:18+00:00</updated>
-    <content>I did a longer version with a birth photo after, but here's a short one ✌🏻 #CapCut #trans #birth #transisbeautiful #transpregnancy </content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7283172809239432481" rel="alternate"/>
-    <published>2023-09-26T16:30:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jacobtheseahorse/video/7283851911567068448</id>
     <title>I've been using this analogy for a while to explain why I'm finding masking so hard how are you feeling post pandemic? do you think it's affected your mental health and your ability to mask? #adhd #audhd #autistic #autistictiktok #adhdtiktok #masking #tic</title>
@@ -91,5 +83,13 @@
     <content>good luck to everyone in London for the protest today! looking forward to seeing folks at the @Trans Pride Manchester Protest on Sunday. We are loved, we are worthy 💜🏳️‍⚧️ #trans #transgender #protest #resist #exist #lgbt #allies </content>
     <link href="https://tiktok.com/@jacobtheseahorse/video/7288677443752201505" rel="alternate"/>
     <published>2023-10-11T12:31:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7293176827433061664</id>
+    <title>I don't know where I would have given birth if I could have trusted that I wouldn't have been misgendered in hospital.  on reflection, perhaps I didn't truly have birth choices because hospital didn't feel like a choice for me. #birth #pregnancy #midwife </title>
+    <updated>2023-10-23T15:31:01+00:00</updated>
+    <content>I don't know where I would have given birth if I could have trusted that I wouldn't have been misgendered in hospital.  on reflection, perhaps I didn't truly have birth choices because hospital didn't feel like a choice for me. #birth #pregnancy #midwife #baby #newborn #homebirth #hospital #waterbirth #trans #lgbtq #edi #inclusion #transgender #gender #intersectional #feminism </content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7293176827433061664" rel="alternate"/>
+    <published>2023-10-23T15:31:01+00:00</published>
   </entry>
 </feed>
