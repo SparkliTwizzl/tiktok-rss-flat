@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@juliafox038711</id>
   <title>@juliafox038711 | TikTok</title>
-  <updated>2023-10-23T20:40:23+00:00</updated>
+  <updated>2023-10-23T23:33:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juliafox038711</subtitle>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7290702794305178911</id>
-    <title>outrageous you would even suggest that ✋🏼</title>
-    <updated>2023-10-16T23:30:36+00:00</updated>
-    <content>outrageous you would even suggest that ✋🏼</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7290702794305178911" rel="alternate"/>
-    <published>2023-10-16T23:30:36+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@juliafox038711/video/7291103722388655391</id>
     <title>go crazy go crazy</title>
@@ -91,5 +83,13 @@
     <content>friendly reminder, 2004 babies are turning 20 next year</content>
     <link href="https://tiktok.com/@juliafox038711/video/7293256520270138654" rel="alternate"/>
     <published>2023-10-23T20:40:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7293301111509880094</id>
+    <title>im only a fool for you</title>
+    <updated>2023-10-23T23:33:24+00:00</updated>
+    <content>im only a fool for you</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7293301111509880094" rel="alternate"/>
+    <published>2023-10-23T23:33:24+00:00</published>
   </entry>
 </feed>
