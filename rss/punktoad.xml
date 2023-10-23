@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-10-21T20:59:39+00:00</updated>
+  <updated>2023-10-23T01:03:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7289498034818321710</id>
-    <title>beans </title>
-    <updated>2023-10-13T17:35:29+00:00</updated>
-    <content>beans </content>
-    <link href="https://tiktok.com/@punktoad/video/7289498034818321710" rel="alternate"/>
-    <published>2023-10-13T17:35:29+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7290574393418239274</id>
     <title>[no title]</title>
@@ -91,5 +83,13 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@punktoad/video/7292519333408886058" rel="alternate"/>
     <published>2023-10-21T20:59:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7292953248560876846</id>
+    <title>A simple question </title>
+    <updated>2023-10-23T01:03:27+00:00</updated>
+    <content>A simple question </content>
+    <link href="https://tiktok.com/@punktoad/video/7292953248560876846" rel="alternate"/>
+    <published>2023-10-23T01:03:27+00:00</published>
   </entry>
 </feed>
