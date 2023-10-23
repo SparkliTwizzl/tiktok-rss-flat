@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@nopanicbutton</id>
   <title>@nopanicbutton | TikTok</title>
-  <updated>2023-10-20T23:31:00+00:00</updated>
+  <updated>2023-10-23T17:25:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @nopanicbutton</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nopanicbutton/video/7284363940841196842</id>
-    <title>Not much can scare a man my age. #preggo #breeders #babyfever Join us on Discord! Link in bio!</title>
-    <updated>2023-09-29T21:32:40+00:00</updated>
-    <content>Not much can scare a man my age. #preggo #breeders #babyfever Join us on Discord! Link in bio!</content>
-    <link href="https://tiktok.com/@nopanicbutton/video/7284363940841196842" rel="alternate"/>
-    <published>2023-09-29T21:32:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nopanicbutton/video/7285396143897431338</id>
     <title>Tacos are my favorite. #tacos #yum #eatit Join us on Discord! Link in bio!</title>
@@ -91,5 +83,13 @@
     <content>There's more than one way to get value out of your employees!</content>
     <link href="https://tiktok.com/@nopanicbutton/video/7292187214740557098" rel="alternate"/>
     <published>2023-10-20T23:31:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nopanicbutton/video/7293206316955258154</id>
+    <title>I live in a swamp, how are there so many kinksters out here?!? #theyreeverywhere #kinktok #fetlife </title>
+    <updated>2023-10-23T17:25:44+00:00</updated>
+    <content>I live in a swamp, how are there so many kinksters out here?!? #theyreeverywhere #kinktok #fetlife </content>
+    <link href="https://tiktok.com/@nopanicbutton/video/7293206316955258154" rel="alternate"/>
+    <published>2023-10-23T17:25:44+00:00</published>
   </entry>
 </feed>
