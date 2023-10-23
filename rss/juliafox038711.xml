@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@juliafox038711</id>
   <title>@juliafox038711 | TikTok</title>
-  <updated>2023-10-21T23:38:10+00:00</updated>
+  <updated>2023-10-23T02:25:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juliafox038711</subtitle>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7288134448380415262</id>
-    <title>[no title]</title>
-    <updated>2023-10-10T01:24:06+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7288134448380415262" rel="alternate"/>
-    <published>2023-10-10T01:24:06+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7288140185538170142</id>
-    <title>if you know what everquest is, you rock #1999 </title>
-    <updated>2023-10-10T01:46:20+00:00</updated>
-    <content>if you know what everquest is, you rock #1999 </content>
-    <link href="https://tiktok.com/@juliafox038711/video/7288140185538170142" rel="alternate"/>
-    <published>2023-10-10T01:46:20+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7290684290629717278</id>
-    <title>idk what to even post anymore😭</title>
-    <updated>2023-10-16T22:18:46+00:00</updated>
-    <content>idk what to even post anymore😭</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7290684290629717278" rel="alternate"/>
-    <published>2023-10-16T22:18:46+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@juliafox038711/video/7290687805552971039</id>
     <title>god bless i look stupid when everyone jamming and im just 😀</title>
@@ -91,5 +67,29 @@
     <content>i dye my hair red and get a septum pericing and now they think im crazy</content>
     <link href="https://tiktok.com/@juliafox038711/video/7292560170817785119" rel="alternate"/>
     <published>2023-10-21T23:38:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7292948304281849119</id>
+    <title>i would love to wear this dress more but it is ✨see through✨</title>
+    <updated>2023-10-23T00:44:19+00:00</updated>
+    <content>i would love to wear this dress more but it is ✨see through✨</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7292948304281849119" rel="alternate"/>
+    <published>2023-10-23T00:44:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7292953735360220446</id>
+    <title>[no title]</title>
+    <updated>2023-10-23T01:05:22+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7292953735360220446" rel="alternate"/>
+    <published>2023-10-23T01:05:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7292974270529965342</id>
+    <title>had to hop on this trend before it was gone</title>
+    <updated>2023-10-23T02:25:03+00:00</updated>
+    <content>had to hop on this trend before it was gone</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7292974270529965342" rel="alternate"/>
+    <published>2023-10-23T02:25:03+00:00</published>
   </entry>
 </feed>
