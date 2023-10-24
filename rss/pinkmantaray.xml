@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pinkmantaray</id>
   <title>@pinkmantaray | TikTok</title>
-  <updated>2023-10-20T00:55:14+00:00</updated>
+  <updated>2023-10-24T01:46:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @pinkmantaray</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pinkmantaray/video/7285807066122423594</id>
-    <title>Continuing on #LGBTQHistoryMonth, here's some background on the word CISGENDER - which is not a bad word or a slur. PREORDER my upcoming book, He/She/They: How We Talk About Gender and Why It Matters, to learn more 💕 #transgender #trans #cisgender</title>
-    <updated>2023-10-03T18:52:59+00:00</updated>
-    <content>Continuing on #LGBTQHistoryMonth, here's some background on the word CISGENDER - which is not a bad word or a slur. PREORDER my upcoming book, He/She/They: How We Talk About Gender and Why It Matters, to learn more 💕 #transgender #trans #cisgender</content>
-    <link href="https://tiktok.com/@pinkmantaray/video/7285807066122423594" rel="alternate"/>
-    <published>2023-10-03T18:52:59+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pinkmantaray/video/7288030307251506478</id>
     <title>HELP ME CALL DAX IN. A recent episode of the Armchair Expert with Dax Shepard and @JVN features Dax pushing JVN about trans athletes, claiming to be an ally but also leaning into some dangerous territory. I respect Dax and his work - I have enjoyed his po</title>
@@ -91,5 +83,13 @@
     <content>Get a signed copy of my book in NYC at Books Are Magic, WORD Books, McNally Jackson (all locations except Rockefeller), and Yu &amp; Me Books! You can also order online at HSTBook.com/buy 💕 #transgender #heshethey #author #booktok </content>
     <link href="https://tiktok.com/@pinkmantaray/video/7291837874666835231" rel="alternate"/>
     <published>2023-10-20T00:55:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pinkmantaray/video/7293335322623069486</id>
+    <title>Educating and sharing about trans identity is not grooming and is not problematic. In fact, we have a responsibility as a society to educate youth on the full diversity of identity, instead of forcing them into a box. Affirming a child's declaration of id</title>
+    <updated>2023-10-24T01:46:05+00:00</updated>
+    <content>Educating and sharing about trans identity is not grooming and is not problematic. In fact, we have a responsibility as a society to educate youth on the full diversity of identity, instead of forcing them into a box. Affirming a child's declaration of identity, no matter what kind, can be lifesaving. Denying them their right to understanding their own selves is cruel. More on de-transition tomorrow. Learn much more through my book, HSTBook.com/buy. Signed copies are selling out so go grab one now!  St. Louis, I'll see you in a few hours!! RSVP for tonight or another tour stop here: HSTBook.com/tour 💕 #transgender #transition #transkids #genderaffirmingcare </content>
+    <link href="https://tiktok.com/@pinkmantaray/video/7293335322623069486" rel="alternate"/>
+    <published>2023-10-24T01:46:05+00:00</published>
   </entry>
 </feed>
