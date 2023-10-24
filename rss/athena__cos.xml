@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-10-23T17:28:47+00:00</updated>
+  <updated>2023-10-24T19:48:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7289920086347975978</id>
-    <title>Its a lifestyle 😤</title>
-    <updated>2023-10-14T20:53:22+00:00</updated>
-    <content>Its a lifestyle 😤</content>
-    <link href="https://tiktok.com/@athena__cos/video/7289920086347975978" rel="alternate"/>
-    <published>2023-10-14T20:53:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7290230752250252587</id>
     <title>Going back to my knight roots with @Jackie O  #knightcore #knightcosplay #ladyknight #womeninarmor </title>
@@ -91,5 +83,13 @@
     <content>I would go there and back again with @Bella LeBaron and @Jackie O #ladyknight #knightcosplay #womeninarmor #knightcore #fantasycosplay #lotr </content>
     <link href="https://tiktok.com/@athena__cos/video/7293207121854827819" rel="alternate"/>
     <published>2023-10-23T17:28:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7293614119079480618</id>
+    <title>@Cup is perfect as Gojo</title>
+    <updated>2023-10-24T19:48:03+00:00</updated>
+    <content>@Cup is perfect as Gojo</content>
+    <link href="https://tiktok.com/@athena__cos/video/7293614119079480618" rel="alternate"/>
+    <published>2023-10-24T19:48:03+00:00</published>
   </entry>
 </feed>
