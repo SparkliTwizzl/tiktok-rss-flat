@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-10-22T16:22:44+00:00</updated>
+  <updated>2023-10-24T13:13:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7288777328199601413</id>
-    <title>I like to share this story every national coming out day not to celebrate me coming out but to remind parents its their job to love their kids unconditionally. The greatest gift my parents ever gave me was that of freedom to be myself. I found a partner I</title>
-    <updated>2023-10-11T18:58:41+00:00</updated>
-    <content>I like to share this story every national coming out day not to celebrate me coming out but to remind parents its their job to love their kids unconditionally. The greatest gift my parents ever gave me was that of freedom to be myself. I found a partner I love, we raised a daughter, we made a good life for ourselves and their choices that day helped lay the groundwork. Parents, be the hope your child needs #standup #comingout #storytime #comedy #parenting </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7288777328199601413" rel="alternate"/>
-    <published>2023-10-11T18:58:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7289246506333261062</id>
     <title>#duet with @Beauty and Beast the Twins were so excited we got here a week early </title>
@@ -91,5 +83,13 @@
     <content>Cupcakes are good but not as good as you all ❤️</content>
     <link href="https://tiktok.com/@thedarcymichael/video/7292819083840474373" rel="alternate"/>
     <published>2023-10-22T16:22:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7293512387041168645</id>
+    <title>Don't let that toxic ex ruin your day, find the support you need to keep the 'Daves' away with @NicoretteCA. #Nicorette Partner #SmokeFree NICORETTE® contains nicotine. Stop smoking aid. Always read and follow the label.</title>
+    <updated>2023-10-24T13:13:05+00:00</updated>
+    <content>Don't let that toxic ex ruin your day, find the support you need to keep the 'Daves' away with @NicoretteCA. #Nicorette Partner #SmokeFree NICORETTE® contains nicotine. Stop smoking aid. Always read and follow the label.</content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7293512387041168645" rel="alternate"/>
+    <published>2023-10-24T13:13:05+00:00</published>
   </entry>
 </feed>
