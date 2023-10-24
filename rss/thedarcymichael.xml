@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-10-24T13:13:05+00:00</updated>
+  <updated>2023-10-24T18:38:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7289246506333261062</id>
-    <title>#duet with @Beauty and Beast the Twins were so excited we got here a week early </title>
-    <updated>2023-10-13T01:19:20+00:00</updated>
-    <content>#duet with @Beauty and Beast the Twins were so excited we got here a week early </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7289246506333261062" rel="alternate"/>
-    <published>2023-10-13T01:19:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7289431834595790085</id>
     <title>Busy Donkey Does Broadway?!!? We’ve come a long way from sneaky plants into the house. So wild, we’re so grateful to each and every one of you, what a ride.but also this square is sensory overload 😂 #busydonkey #broadway #timesquare #darcyandjer #standup </title>
@@ -91,5 +83,13 @@
     <content>Don't let that toxic ex ruin your day, find the support you need to keep the 'Daves' away with @NicoretteCA. #Nicorette Partner #SmokeFree NICORETTE® contains nicotine. Stop smoking aid. Always read and follow the label.</content>
     <link href="https://tiktok.com/@thedarcymichael/video/7293512387041168645" rel="alternate"/>
     <published>2023-10-24T13:13:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7293596240133000454</id>
+    <title>Sorry girls, I’m busy moisturizing #standup #darcyandjer #comedy #girlsnight #petpeeve </title>
+    <updated>2023-10-24T18:38:29+00:00</updated>
+    <content>Sorry girls, I’m busy moisturizing #standup #darcyandjer #comedy #girlsnight #petpeeve </content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7293596240133000454" rel="alternate"/>
+    <published>2023-10-24T18:38:29+00:00</published>
   </entry>
 </feed>
