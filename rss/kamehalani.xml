@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kamehalani</id>
   <title>@kamehalani | TikTok</title>
-  <updated>2023-10-17T01:17:09+00:00</updated>
+  <updated>2023-10-24T01:11:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kamehalani</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kamehalani/video/7282264063193697582</id>
-    <title>Its been a pretty bad week. But thank g-d for @Dolly Parton </title>
-    <updated>2023-09-24T05:44:07+00:00</updated>
-    <content>Its been a pretty bad week. But thank g-d for @Dolly Parton </content>
-    <link href="https://tiktok.com/@kamehalani/video/7282264063193697582" rel="alternate"/>
-    <published>2023-09-24T05:44:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kamehalani/video/7282836881878830378</id>
     <title>Why is it so weird for you? #lgbt #lgbt </title>
@@ -91,5 +83,13 @@
     <content>Replying to @▪︎ please watch this whole video #jewishtiktok #jewtok #jewish #palestine </content>
     <link href="https://tiktok.com/@kamehalani/video/7290730265431887134" rel="alternate"/>
     <published>2023-10-17T01:17:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kamehalani/video/7293326299639188766</id>
+    <title>My baby #wlw #lgbt </title>
+    <updated>2023-10-24T01:11:07+00:00</updated>
+    <content>My baby #wlw #lgbt </content>
+    <link href="https://tiktok.com/@kamehalani/video/7293326299639188766" rel="alternate"/>
+    <published>2023-10-24T01:11:07+00:00</published>
   </entry>
 </feed>
