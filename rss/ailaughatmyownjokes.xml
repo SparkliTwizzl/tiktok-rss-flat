@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ailaughatmyownjokes</id>
   <title>@ailaughatmyownjokes | TikTok</title>
-  <updated>2023-10-20T16:39:17+00:00</updated>
+  <updated>2023-10-24T14:45:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ailaughatmyownjokes</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ailaughatmyownjokes/video/7279060310051392801</id>
-    <title>She's now the no.1 school bully  #twilight #sketch #comedy </title>
-    <updated>2023-09-15T14:31:44+00:00</updated>
-    <content>She's now the no.1 school bully  #twilight #sketch #comedy </content>
-    <link href="https://tiktok.com/@ailaughatmyownjokes/video/7279060310051392801" rel="alternate"/>
-    <published>2023-09-15T14:31:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ailaughatmyownjokes/video/7280919201269746976</id>
     <title>Disclaimer: no orphans were insulted in the making of this video... #sketch #comedy</title>
@@ -91,5 +83,13 @@
     <content>Zendaya, if you see this... how can we rewrite the stars?  #sketch #comedy </content>
     <link href="https://tiktok.com/@ailaughatmyownjokes/video/7292081167950466336" rel="alternate"/>
     <published>2023-10-20T16:39:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ailaughatmyownjokes/video/7293536214282538273</id>
+    <title>Disclaimer: I have nothing against libras, I just googled the starsign that is incompatible with snowwhite's, who is a pisces. Das it. xoxo *does a backflip* #snowwhite #sketch #comedy </title>
+    <updated>2023-10-24T14:45:38+00:00</updated>
+    <content>Disclaimer: I have nothing against libras, I just googled the starsign that is incompatible with snowwhite's, who is a pisces. Das it. xoxo *does a backflip* #snowwhite #sketch #comedy </content>
+    <link href="https://tiktok.com/@ailaughatmyownjokes/video/7293536214282538273" rel="alternate"/>
+    <published>2023-10-24T14:45:38+00:00</published>
   </entry>
 </feed>
