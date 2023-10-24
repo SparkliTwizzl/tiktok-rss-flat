@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jacobtheseahorse</id>
   <title>@jacobtheseahorse | TikTok</title>
-  <updated>2023-10-23T15:31:01+00:00</updated>
+  <updated>2023-10-24T14:24:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jacobtheseahorse</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7283851911567068448</id>
-    <title>I've been using this analogy for a while to explain why I'm finding masking so hard how are you feeling post pandemic? do you think it's affected your mental health and your ability to mask? #adhd #audhd #autistic #autistictiktok #adhdtiktok #masking #tic</title>
-    <updated>2023-09-28T12:25:36+00:00</updated>
-    <content>I've been using this analogy for a while to explain why I'm finding masking so hard how are you feeling post pandemic? do you think it's affected your mental health and your ability to mask? #adhd #audhd #autistic #autistictiktok #adhdtiktok #masking #tic </content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7283851911567068448" rel="alternate"/>
-    <published>2023-09-28T12:25:36+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jacobtheseahorse/video/7284307754062204192</id>
     <title>last year I found footage of my early transition. I did YouTube vlogs from the day I came out to my family until 3 years on testosterone.  I realised that the recordings I have of myself singing gave me a unique opportunity, an unexpected #duet 13 years i</title>
@@ -91,5 +83,13 @@
     <content>I don't know where I would have given birth if I could have trusted that I wouldn't have been misgendered in hospital.  on reflection, perhaps I didn't truly have birth choices because hospital didn't feel like a choice for me. #birth #pregnancy #midwife #baby #newborn #homebirth #hospital #waterbirth #trans #lgbtq #edi #inclusion #transgender #gender #intersectional #feminism </content>
     <link href="https://tiktok.com/@jacobtheseahorse/video/7293176827433061664" rel="alternate"/>
     <published>2023-10-23T15:31:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7293530856226868513</id>
+    <title>Replying to @ali_wooxx of course women and mothers are women and mothers. nobody is taking away your words or your identity. if you have been wronged and had something taken from you, let me know and I'll ready the troops! we fight for autonomy and consen</title>
+    <updated>2023-10-24T14:24:49+00:00</updated>
+    <content>Replying to @ali_wooxx of course women and mothers are women and mothers. nobody is taking away your words or your identity. if you have been wronged and had something taken from you, let me know and I'll ready the troops! we fight for autonomy and consent in these parts. #consent #language #trans #gender #pregnancy #birth </content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7293530856226868513" rel="alternate"/>
+    <published>2023-10-24T14:24:49+00:00</published>
   </entry>
 </feed>
