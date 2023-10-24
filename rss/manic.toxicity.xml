@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@manic.toxicity</id>
   <title>@manic.toxicity | TikTok</title>
-  <updated>2023-10-20T22:19:59+00:00</updated>
+  <updated>2023-10-24T21:48:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @manic.toxicity</subtitle>
-  <entry>
-    <id>https://tiktok.com/@manic.toxicity/video/7288763315931696430</id>
-    <title>mt instagram is in my link tree, and if you cant find it, its the same as my tiktok user… please keep me posted if you have infoemation so i can tey to get this account taken down. i love you all very much, thank you all for your support! #fyp #foryou #no</title>
-    <updated>2023-10-11T18:04:32+00:00</updated>
-    <content>mt instagram is in my link tree, and if you cant find it, its the same as my tiktok user… please keep me posted if you have infoemation so i can tey to get this account taken down. i love you all very much, thank you all for your support! #fyp #foryou #notmyaccouny #scam </content>
-    <link href="https://tiktok.com/@manic.toxicity/video/7288763315931696430" rel="alternate"/>
-    <published>2023-10-11T18:04:32+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@manic.toxicity/video/7288763450963037482</id>
     <title>#bikes #motorcycle #biketok #honda #300 #cbr #cbr300 </title>
@@ -91,5 +83,13 @@
     <content>i could tell a sick joke #fyp #foryou </content>
     <link href="https://tiktok.com/@manic.toxicity/video/7292168928443256110" rel="alternate"/>
     <published>2023-10-20T22:19:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@manic.toxicity/video/7293645186440154411</id>
+    <title>that transition was not as clean as i wnated it to be, but i didnt wanna get outta bed #fyp #foryou </title>
+    <updated>2023-10-24T21:48:36+00:00</updated>
+    <content>that transition was not as clean as i wnated it to be, but i didnt wanna get outta bed #fyp #foryou </content>
+    <link href="https://tiktok.com/@manic.toxicity/video/7293645186440154411" rel="alternate"/>
+    <published>2023-10-24T21:48:36+00:00</published>
   </entry>
 </feed>
