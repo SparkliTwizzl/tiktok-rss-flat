@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@rhearipley_wwe</id>
   <title>@rhearipley_wwe | TikTok</title>
-  <updated>2023-10-07T23:15:58+00:00</updated>
+  <updated>2023-10-24T19:42:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @rhearipley_wwe</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rhearipley_wwe/video/7263936305040493867</id>
-    <title>@Laura Lomonaco KILLED IT! 😈</title>
-    <updated>2023-08-05T20:22:55+00:00</updated>
-    <content>@Laura Lomonaco KILLED IT! 😈</content>
-    <link href="https://tiktok.com/@rhearipley_wwe/video/7263936305040493867" rel="alternate"/>
-    <published>2023-08-05T20:22:55+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rhearipley_wwe/video/7267350111146102059</id>
     <title>All mine 😈</title>
@@ -91,5 +83,13 @@
     <content>Thank you @Cathy Kelley?… </content>
     <link href="https://tiktok.com/@rhearipley_wwe/video/7287359247225130286" rel="alternate"/>
     <published>2023-10-07T23:15:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rhearipley_wwe/video/7293612621859687723</id>
+    <title>Welcome to the Mami Games</title>
+    <updated>2023-10-24T19:42:14+00:00</updated>
+    <content>Welcome to the Mami Games</content>
+    <link href="https://tiktok.com/@rhearipley_wwe/video/7293612621859687723" rel="alternate"/>
+    <published>2023-10-24T19:42:14+00:00</published>
   </entry>
 </feed>
