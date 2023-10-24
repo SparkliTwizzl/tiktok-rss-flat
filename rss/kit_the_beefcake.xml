@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kit_the_beefcake</id>
   <title>@kit_the_beefcake | TikTok</title>
-  <updated>2023-10-23T11:13:39+00:00</updated>
+  <updated>2023-10-23T22:26:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kit_the_beefcake</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7289937842413784366</id>
-    <title>My friend showed me the screenshots of their ex roommate doing this to me??? Like girl WHAT???? Obviously someone likes whats going on and thats never okay regardless??</title>
-    <updated>2023-10-14T22:02:12+00:00</updated>
-    <content>My friend showed me the screenshots of their ex roommate doing this to me??? Like girl WHAT???? Obviously someone likes whats going on and thats never okay regardless??</content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7289937842413784366" rel="alternate"/>
-    <published>2023-10-14T22:02:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7291185525271153962</id>
     <title>and I call him Gubby </title>
@@ -91,5 +83,13 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@kit_the_beefcake/video/7293110456971988270" rel="alternate"/>
     <published>2023-10-23T11:13:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7293283921545006379</id>
+    <title>[no title]</title>
+    <updated>2023-10-23T22:26:43+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7293283921545006379" rel="alternate"/>
+    <published>2023-10-23T22:26:43+00:00</published>
   </entry>
 </feed>
