@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maladytheclown</id>
   <title>@maladytheclown | TikTok</title>
-  <updated>2023-10-17T15:00:07+00:00</updated>
+  <updated>2023-10-18T12:31:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maladytheclown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maladytheclown/video/7262372069038427398</id>
-    <title>song by @alex  I may not change the world, but I'm going to continue to do my part to make it a better place ❤️ #drag #dragking #dancesinshadows #glumthesupernaturalhitman </title>
-    <updated>2023-08-01T15:12:45+00:00</updated>
-    <content>song by @alex  I may not change the world, but I'm going to continue to do my part to make it a better place ❤️ #drag #dragking #dancesinshadows #glumthesupernaturalhitman </content>
-    <link href="https://tiktok.com/@maladytheclown/video/7262372069038427398" rel="alternate"/>
-    <published>2023-08-01T15:12:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maladytheclown/video/7262888124383005957</id>
     <title>welcome to fairly responsible airlines 😅😝 #onthisday #dancesinshadows #maladytheclown </title>
@@ -91,5 +83,13 @@
     <content>another look at my apocalypse wonderland white rabbit character 🩵  #maladytheclown #whiterabbitcosplay #wonderland #halloween </content>
     <link href="https://tiktok.com/@maladytheclown/video/7290942362736545030" rel="alternate"/>
     <published>2023-10-17T15:00:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maladytheclown/video/7291275034771950854</id>
+    <title>all these updates but still no way to organize and keep drafts better 😅 feel free to duet #thornthevampire #vampire #helluvaboss </title>
+    <updated>2023-10-18T12:31:03+00:00</updated>
+    <content>all these updates but still no way to organize and keep drafts better 😅 feel free to duet #thornthevampire #vampire #helluvaboss </content>
+    <link href="https://tiktok.com/@maladytheclown/video/7291275034771950854" rel="alternate"/>
+    <published>2023-10-18T12:31:03+00:00</published>
   </entry>
 </feed>
