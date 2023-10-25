@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@liil.dork.alex</id>
   <title>@liil.dork.alex | TikTok</title>
-  <updated>2023-10-20T03:12:03+00:00</updated>
+  <updated>2023-10-25T08:19:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @liil.dork.alex</subtitle>
-  <entry>
-    <id>https://tiktok.com/@liil.dork.alex/video/7285875058164190510</id>
-    <title>Fast asf boiii </title>
-    <updated>2023-10-03T23:16:31+00:00</updated>
-    <content>Fast asf boiii </content>
-    <link href="https://tiktok.com/@liil.dork.alex/video/7285875058164190510" rel="alternate"/>
-    <published>2023-10-03T23:16:31+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@liil.dork.alex/video/7286662887160974635</id>
-    <title>[no title]</title>
-    <updated>2023-10-06T02:13:45+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@liil.dork.alex/video/7286662887160974635" rel="alternate"/>
-    <published>2023-10-06T02:13:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@liil.dork.alex/video/7287368230836948267</id>
     <title>Its whatever you want 💁🏼‍♀️</title>
@@ -91,5 +75,21 @@
     <content>*special effects* 2 things 😏</content>
     <link href="https://tiktok.com/@liil.dork.alex/video/7291873118631709998" rel="alternate"/>
     <published>2023-10-20T03:12:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@liil.dork.alex/video/7293722145459277098</id>
+    <title>The buns takin me back man 😮‍💨 </title>
+    <updated>2023-10-25T02:47:10+00:00</updated>
+    <content>The buns takin me back man 😮‍💨 </content>
+    <link href="https://tiktok.com/@liil.dork.alex/video/7293722145459277098" rel="alternate"/>
+    <published>2023-10-25T02:47:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@liil.dork.alex/video/7293807799484566814</id>
+    <title>Jus a silly 🪿 </title>
+    <updated>2023-10-25T08:19:54+00:00</updated>
+    <content>Jus a silly 🪿 </content>
+    <link href="https://tiktok.com/@liil.dork.alex/video/7293807799484566814" rel="alternate"/>
+    <published>2023-10-25T08:19:54+00:00</published>
   </entry>
 </feed>
