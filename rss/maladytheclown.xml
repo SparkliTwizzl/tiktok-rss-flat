@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maladytheclown</id>
   <title>@maladytheclown | TikTok</title>
-  <updated>2023-10-18T12:31:03+00:00</updated>
+  <updated>2023-10-17T15:00:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -69,6 +69,14 @@
     <published>2023-09-30T15:25:35+00:00</published>
   </entry>
   <entry>
+    <id>https://tiktok.com/@maladytheclown/video/7284644860697644294</id>
+    <title>a general mood of late. I've worked so hard these last few years, only to feel used and abandoned by so called friends #maladytheclown </title>
+    <updated>2023-09-30T15:42:35+00:00</updated>
+    <content>a general mood of late. I've worked so hard these last few years, only to feel used and abandoned by so called friends #maladytheclown </content>
+    <link href="https://tiktok.com/@maladytheclown/video/7284644860697644294" rel="alternate"/>
+    <published>2023-09-30T15:42:35+00:00</published>
+  </entry>
+  <entry>
     <id>https://tiktok.com/@maladytheclown/video/7289856110595443974</id>
     <title>#maladytheclown #clownmakeup #makeupartist </title>
     <updated>2023-10-14T16:44:52+00:00</updated>
@@ -83,13 +91,5 @@
     <content>another look at my apocalypse wonderland white rabbit character 🩵  #maladytheclown #whiterabbitcosplay #wonderland #halloween </content>
     <link href="https://tiktok.com/@maladytheclown/video/7290942362736545030" rel="alternate"/>
     <published>2023-10-17T15:00:07+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@maladytheclown/video/7291275034771950854</id>
-    <title>all these updates but still no way to organize and keep drafts better 😅 feel free to duet #thornthevampire #vampire #helluvaboss </title>
-    <updated>2023-10-18T12:31:03+00:00</updated>
-    <content>all these updates but still no way to organize and keep drafts better 😅 feel free to duet #thornthevampire #vampire #helluvaboss </content>
-    <link href="https://tiktok.com/@maladytheclown/video/7291275034771950854" rel="alternate"/>
-    <published>2023-10-18T12:31:03+00:00</published>
   </entry>
 </feed>
