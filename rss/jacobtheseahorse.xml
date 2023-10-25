@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jacobtheseahorse</id>
   <title>@jacobtheseahorse | TikTok</title>
-  <updated>2023-10-24T14:24:49+00:00</updated>
+  <updated>2023-10-25T18:51:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jacobtheseahorse</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7284307754062204192</id>
-    <title>last year I found footage of my early transition. I did YouTube vlogs from the day I came out to my family until 3 years on testosterone.  I realised that the recordings I have of myself singing gave me a unique opportunity, an unexpected #duet 13 years i</title>
-    <updated>2023-09-29T17:54:28+00:00</updated>
-    <content>last year I found footage of my early transition. I did YouTube vlogs from the day I came out to my family until 3 years on testosterone.  I realised that the recordings I have of myself singing gave me a unique opportunity, an unexpected #duet 13 years in the making. every time I watch it I get chills without fail.  #trans #transition #duet #duetwithme (literally) #duetwithmyself #transgender #testosterone #music #musical #muse #feelinggood #nina #lgbt #queer #hope  #joy #chills </content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7284307754062204192" rel="alternate"/>
-    <published>2023-09-29T17:54:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jacobtheseahorse/video/7285280688293547296</id>
     <title>I love this quote by @Alexander Leon and  it impacts me in lots of ways.  so much of my childhood was performance and a relentless amount of my adulthood is finding out who I am. so many #lgbtq people are also #survivors and #neurodivergent, I'd love to h</title>
@@ -91,5 +83,13 @@
     <content>Replying to @ali_wooxx of course women and mothers are women and mothers. nobody is taking away your words or your identity. if you have been wronged and had something taken from you, let me know and I'll ready the troops! we fight for autonomy and consent in these parts. #consent #language #trans #gender #pregnancy #birth </content>
     <link href="https://tiktok.com/@jacobtheseahorse/video/7293530856226868513" rel="alternate"/>
     <published>2023-10-24T14:24:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7293970600954006816</id>
+    <title>thank you for your thoughtful comments, I appreciate your kindness. I absolutely agree where the fear is coming from, but I strongly feel it's not only misdirected, but that the fear itself is being created through disinformation by people who want to uph</title>
+    <updated>2023-10-25T18:51:14+00:00</updated>
+    <content>thank you for your thoughtful comments, I appreciate your kindness. I absolutely agree where the fear is coming from, but I strongly feel it's not only misdirected, but that the fear itself is being created through disinformation by people who want to uphold patriarchy.  trans people are not only a useful scapegoat, but the arguments used to harm us also harm cis women (e.g. that there's a "right way" to be a women, and others). I hope we can continue to build bridges between us and fight to change the system together #trans #gender #feminism #feminist #transpregnancy #lgbt #birth #pregnancy </content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7293970600954006816" rel="alternate"/>
+    <published>2023-10-25T18:51:14+00:00</published>
   </entry>
 </feed>
