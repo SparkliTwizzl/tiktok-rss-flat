@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-10-24T19:48:03+00:00</updated>
+  <updated>2023-10-25T18:58:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7290230752250252587</id>
-    <title>Going back to my knight roots with @Jackie O  #knightcore #knightcosplay #ladyknight #womeninarmor </title>
-    <updated>2023-10-15T16:58:52+00:00</updated>
-    <content>Going back to my knight roots with @Jackie O  #knightcore #knightcosplay #ladyknight #womeninarmor </content>
-    <link href="https://tiktok.com/@athena__cos/video/7290230752250252587" rel="alternate"/>
-    <published>2023-10-15T16:58:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7290624112719023406</id>
     <title>@Bella LeBaron lets start a coven together #witch #witchaesthetic #halloween #coven </title>
@@ -91,5 +83,13 @@
     <content>@Cup is perfect as Gojo</content>
     <link href="https://tiktok.com/@athena__cos/video/7293614119079480618" rel="alternate"/>
     <published>2023-10-24T19:48:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7293972333977537838</id>
+    <title>Yuji wearing Jordans just feels right @Cup is Gojo! #jjk #jjkcosplay #gojousatoru #yujiitadori </title>
+    <updated>2023-10-25T18:58:14+00:00</updated>
+    <content>Yuji wearing Jordans just feels right @Cup is Gojo! #jjk #jjkcosplay #gojousatoru #yujiitadori </content>
+    <link href="https://tiktok.com/@athena__cos/video/7293972333977537838" rel="alternate"/>
+    <published>2023-10-25T18:58:14+00:00</published>
   </entry>
 </feed>
