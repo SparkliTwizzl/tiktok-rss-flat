@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-10-24T13:13:05+00:00</updated>
+  <updated>2023-10-26T00:55:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7289246506333261062</id>
-    <title>#duet with @Beauty and Beast the Twins were so excited we got here a week early </title>
-    <updated>2023-10-13T01:19:20+00:00</updated>
-    <content>#duet with @Beauty and Beast the Twins were so excited we got here a week early </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7289246506333261062" rel="alternate"/>
-    <published>2023-10-13T01:19:20+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7289431834595790085</id>
-    <title>Busy Donkey Does Broadway?!!? We’ve come a long way from sneaky plants into the house. So wild, we’re so grateful to each and every one of you, what a ride.but also this square is sensory overload 😂 #busydonkey #broadway #timesquare #darcyandjer #standup </title>
-    <updated>2023-10-13T13:18:28+00:00</updated>
-    <content>Busy Donkey Does Broadway?!!? We’ve come a long way from sneaky plants into the house. So wild, we’re so grateful to each and every one of you, what a ride.but also this square is sensory overload 😂 #busydonkey #broadway #timesquare #darcyandjer #standup </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7289431834595790085" rel="alternate"/>
-    <published>2023-10-13T13:18:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7289466873920408837</id>
     <title>The exact moment darcy saw this in time square. </title>
@@ -91,5 +75,21 @@
     <content>Don't let that toxic ex ruin your day, find the support you need to keep the 'Daves' away with @NicoretteCA. #Nicorette Partner #SmokeFree NICORETTE® contains nicotine. Stop smoking aid. Always read and follow the label.</content>
     <link href="https://tiktok.com/@thedarcymichael/video/7293512387041168645" rel="alternate"/>
     <published>2023-10-24T13:13:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7294005889713851654</id>
+    <title>His name is baloo and we no longer have a backyard. </title>
+    <updated>2023-10-25T21:08:10+00:00</updated>
+    <content>His name is baloo and we no longer have a backyard. </content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7294005889713851654" rel="alternate"/>
+    <published>2023-10-25T21:08:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7294064375571287302</id>
+    <title>Replying to @Ame Lia stay for jers rawr, its so worth it #bearwatch </title>
+    <updated>2023-10-26T00:55:07+00:00</updated>
+    <content>Replying to @Ame Lia stay for jers rawr, its so worth it #bearwatch </content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7294064375571287302" rel="alternate"/>
+    <published>2023-10-26T00:55:07+00:00</published>
   </entry>
 </feed>
