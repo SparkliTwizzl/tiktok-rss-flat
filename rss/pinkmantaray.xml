@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pinkmantaray</id>
   <title>@pinkmantaray | TikTok</title>
-  <updated>2023-10-25T22:20:45+00:00</updated>
+  <updated>2023-10-26T02:37:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @pinkmantaray</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pinkmantaray/video/7289669386326084910</id>
-    <title>Taking care of my body as a trans person feels like radical resistance to all the systems that do not want trans people here and thriving. #transgender #remotework #travel </title>
-    <updated>2023-10-14T04:40:35+00:00</updated>
-    <content>Taking care of my body as a trans person feels like radical resistance to all the systems that do not want trans people here and thriving. #transgender #remotework #travel </content>
-    <link href="https://tiktok.com/@pinkmantaray/video/7289669386326084910" rel="alternate"/>
-    <published>2023-10-14T04:40:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pinkmantaray/video/7290664929512721706</id>
     <title>TOMORROW IS LAUNCH DAY which means today is the last day to preorder and receive a free gift! HSTBook.com 💕🙏🏼 #transgender #transauthor #heshethey #gender </title>
@@ -91,5 +83,13 @@
     <content>We made @USA TODAY's BEST-SELLING BOOKLIST!!! Get your copy at hstbook.com 💕🏳️‍⚧️ #transgender #trans #heshethey #booktok #bestseller #author </content>
     <link href="https://tiktok.com/@pinkmantaray/video/7294024563237702955" rel="alternate"/>
     <published>2023-10-25T22:20:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pinkmantaray/video/7294090631557762346</id>
+    <title>We made @USA TODAY's BEST-SELLING BOOKLIST!!! Get your copy at hstbook.com 💕🏳️‍⚧️ #transgender #trans #heshethey #booktok #bestseller #author </title>
+    <updated>2023-10-26T02:37:11+00:00</updated>
+    <content>We made @USA TODAY's BEST-SELLING BOOKLIST!!! Get your copy at hstbook.com 💕🏳️‍⚧️ #transgender #trans #heshethey #booktok #bestseller #author </content>
+    <link href="https://tiktok.com/@pinkmantaray/video/7294090631557762346" rel="alternate"/>
+    <published>2023-10-26T02:37:11+00:00</published>
   </entry>
 </feed>
