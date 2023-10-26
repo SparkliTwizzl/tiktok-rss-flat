@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@liil.dork.alex</id>
   <title>@liil.dork.alex | TikTok</title>
-  <updated>2023-10-25T19:43:23+00:00</updated>
+  <updated>2023-10-25T22:30:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @liil.dork.alex</subtitle>
-  <entry>
-    <id>https://tiktok.com/@liil.dork.alex/video/7289207602569841963</id>
-    <title>Wanted to ise this sound again 🙇🏼‍♀️</title>
-    <updated>2023-10-12T22:48:33+00:00</updated>
-    <content>Wanted to ise this sound again 🙇🏼‍♀️</content>
-    <link href="https://tiktok.com/@liil.dork.alex/video/7289207602569841963" rel="alternate"/>
-    <published>2023-10-12T22:48:33+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@liil.dork.alex/video/7289216514555661610</id>
     <title>Been tryin to get this down 😭</title>
@@ -91,5 +83,13 @@
     <content>Feel like i went back 4 years with this look </content>
     <link href="https://tiktok.com/@liil.dork.alex/video/7293983994125782303" rel="alternate"/>
     <published>2023-10-25T19:43:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@liil.dork.alex/video/7294027070823222558</id>
+    <title>🦂tis the season </title>
+    <updated>2023-10-25T22:30:30+00:00</updated>
+    <content>🦂tis the season </content>
+    <link href="https://tiktok.com/@liil.dork.alex/video/7294027070823222558" rel="alternate"/>
+    <published>2023-10-25T22:30:30+00:00</published>
   </entry>
 </feed>
