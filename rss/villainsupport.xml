@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@villainsupport</id>
   <title>@villainsupport | TikTok</title>
-  <updated>2023-10-24T21:07:16+00:00</updated>
+  <updated>2023-10-25T21:28:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @villainsupport</subtitle>
-  <entry>
-    <id>https://tiktok.com/@villainsupport/video/7286514723879685406</id>
-    <title>[no title]</title>
-    <updated>2023-10-05T16:38:57+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@villainsupport/video/7286514723879685406" rel="alternate"/>
-    <published>2023-10-05T16:38:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@villainsupport/video/7286579816801815839</id>
     <title>The Dresden Files Book 1: Storm Front (Part 6: Bianca the Vampire) #dresdenfiles #harrydresden #jimbutcher #vampire #wizard #magic #acmetok #acmevillainsupport </title>
@@ -91,5 +83,13 @@
     <content>Later that day… (Book characters only) #vampire #dracula #halloween #dresdenfiles #harrydresden #jimbutcher #acmetok #acmevillainsupport </content>
     <link href="https://tiktok.com/@villainsupport/video/7293634522938199338" rel="alternate"/>
     <published>2023-10-24T21:07:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@villainsupport/video/7294011123152506154</id>
+    <title>[no title]</title>
+    <updated>2023-10-25T21:28:38+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@villainsupport/video/7294011123152506154" rel="alternate"/>
+    <published>2023-10-25T21:28:38+00:00</published>
   </entry>
 </feed>
