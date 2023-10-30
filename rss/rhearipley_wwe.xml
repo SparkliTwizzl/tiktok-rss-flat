@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@rhearipley_wwe</id>
   <title>@rhearipley_wwe | TikTok</title>
-  <updated>2023-10-24T19:42:14+00:00</updated>
+  <updated>2023-10-26T18:57:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @rhearipley_wwe</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rhearipley_wwe/video/7267350111146102059</id>
-    <title>All mine 😈</title>
-    <updated>2023-08-15T01:10:16+00:00</updated>
-    <content>All mine 😈</content>
-    <link href="https://tiktok.com/@rhearipley_wwe/video/7267350111146102059" rel="alternate"/>
-    <published>2023-08-15T01:10:16+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rhearipley_wwe/video/7269213263810923822</id>
     <title>Cry about it 😈</title>
@@ -91,5 +83,13 @@
     <content>Welcome to the Mami Games</content>
     <link href="https://tiktok.com/@rhearipley_wwe/video/7293612621859687723" rel="alternate"/>
     <published>2023-10-24T19:42:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rhearipley_wwe/video/7294343364516842794</id>
+    <title>#WWECologne doesn’t deserve Mami and Dom Dom</title>
+    <updated>2023-10-26T18:57:51+00:00</updated>
+    <content>#WWECologne doesn’t deserve Mami and Dom Dom</content>
+    <link href="https://tiktok.com/@rhearipley_wwe/video/7294343364516842794" rel="alternate"/>
+    <published>2023-10-26T18:57:51+00:00</published>
   </entry>
 </feed>
