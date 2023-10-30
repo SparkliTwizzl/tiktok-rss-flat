@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avocadosnaliens</id>
   <title>@avocadosnaliens | TikTok</title>
-  <updated>2023-10-24T03:16:33+00:00</updated>
+  <updated>2023-10-29T17:39:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avocadosnaliens</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avocadosnaliens/video/7288610783288642859</id>
-    <title>#greenscreen </title>
-    <updated>2023-10-11T08:13:32+00:00</updated>
-    <content>#greenscreen </content>
-    <link href="https://tiktok.com/@avocadosnaliens/video/7288610783288642859" rel="alternate"/>
-    <published>2023-10-11T08:13:32+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@avocadosnaliens/video/7288851795810749742</id>
-    <title>If anyone was wondering how my day is goinf</title>
-    <updated>2023-10-11T23:47:50+00:00</updated>
-    <content>If anyone was wondering how my day is goinf</content>
-    <link href="https://tiktok.com/@avocadosnaliens/video/7288851795810749742" rel="alternate"/>
-    <published>2023-10-11T23:47:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avocadosnaliens/video/7289114380103519534</id>
     <title>#stitch with @isabellacarr </title>
@@ -91,5 +75,21 @@
     <content>Im home :(</content>
     <link href="https://tiktok.com/@avocadosnaliens/video/7293358637748112682" rel="alternate"/>
     <published>2023-10-24T03:16:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7294766525683371310</id>
+    <title>Inspired by the good ol tumblr days  . . . #falloutfits </title>
+    <updated>2023-10-27T22:19:54+00:00</updated>
+    <content>Inspired by the good ol tumblr days  . . . #falloutfits </content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7294766525683371310" rel="alternate"/>
+    <published>2023-10-27T22:19:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7295436343235120427</id>
+    <title>#weddingphotographer #engagementshoot #sanfrancisco #photographersoftiktok </title>
+    <updated>2023-10-29T17:39:10+00:00</updated>
+    <content>#weddingphotographer #engagementshoot #sanfrancisco #photographersoftiktok </content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7295436343235120427" rel="alternate"/>
+    <published>2023-10-29T17:39:10+00:00</published>
   </entry>
 </feed>

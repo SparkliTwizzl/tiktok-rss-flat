@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@charlesthegr8</id>
   <title>@charlesthegr8 | TikTok</title>
-  <updated>2023-10-23T18:06:47+00:00</updated>
+  <updated>2023-10-30T16:19:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,38 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @charlesthegr8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7289101004220632366</id>
-    <title>She’s a lil mini me 😂 #iykyk #fyp #relatable #charlesthegr8 </title>
-    <updated>2023-10-12T15:54:49+00:00</updated>
-    <content>She’s a lil mini me 😂 #iykyk #fyp #relatable #charlesthegr8 </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7289101004220632366" rel="alternate"/>
-    <published>2023-10-12T15:54:49+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7289122128161508651</id>
-    <title>Learn a whole song is tiring 😴 #iykyk #fyp #relatable #charlesthegr8 </title>
-    <updated>2023-10-12T17:16:46+00:00</updated>
-    <content>Learn a whole song is tiring 😴 #iykyk #fyp #relatable #charlesthegr8 </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7289122128161508651" rel="alternate"/>
-    <published>2023-10-12T17:16:46+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7290363114594323755</id>
-    <title>🐧 iykyk #iykyk #fyp #club penguin #charlesthegr8 </title>
-    <updated>2023-10-16T01:32:28+00:00</updated>
-    <content>🐧 iykyk #iykyk #fyp #club penguin #charlesthegr8 </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7290363114594323755" rel="alternate"/>
-    <published>2023-10-16T01:32:28+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7290422886672747819</id>
-    <title>It’s just an accessory, like can I live? 😂 #iykyk #fathers #charlesthegr8</title>
-    <updated>2023-10-16T05:24:41+00:00</updated>
-    <content>It’s just an accessory, like can I live? 😂 #iykyk #fathers #charlesthegr8</content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7290422886672747819" rel="alternate"/>
-    <published>2023-10-16T05:24:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@charlesthegr8/video/7290579350984903979</id>
     <title>The right person saying this would be 😍#iykyk #babyfever #charlesthegr8 </title>
@@ -69,6 +37,14 @@
     <published>2023-10-17T20:14:02+00:00</published>
   </entry>
   <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7291951664741895467</id>
+    <title>Better go shoot my shot basketball 🏀 #iykyk #shootyoshot #charlesthegr8 </title>
+    <updated>2023-10-20T08:17:00+00:00</updated>
+    <content>Better go shoot my shot basketball 🏀 #iykyk #shootyoshot #charlesthegr8 </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7291951664741895467" rel="alternate"/>
+    <published>2023-10-20T08:17:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://tiktok.com/@charlesthegr8/video/7292027605975387434</id>
     <title>Learn from your failures in order achieve better version of yourself!!! 🧐 ##iykyk##characterdevelopment##charlesthegr8</title>
     <updated>2023-10-20T13:11:33+00:00</updated>
@@ -91,5 +67,29 @@
     <content>@CharlesTheGr8: A pretty face and an ugly personality just makes you ugly 🤔 #iykyk #charlesthegr8 #philosophy </content>
     <link href="https://tiktok.com/@charlesthegr8/video/7293216907430464814" rel="alternate"/>
     <published>2023-10-23T18:06:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7294131327115267371</id>
+    <title>Your hearts worst enemy! #iykyk #charlesthegr8 #overthinking </title>
+    <updated>2023-10-26T05:15:01+00:00</updated>
+    <content>Your hearts worst enemy! #iykyk #charlesthegr8 #overthinking </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7294131327115267371" rel="alternate"/>
+    <published>2023-10-26T05:15:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7294154195307924778</id>
+    <title>Those intrusive thoughts are dangerous!!! 😬 #iykyk #intrusivethoughts #charlesthegr8 #capcut </title>
+    <updated>2023-10-26T06:43:47+00:00</updated>
+    <content>Those intrusive thoughts are dangerous!!! 😬 #iykyk #intrusivethoughts #charlesthegr8 #capcut </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7294154195307924778" rel="alternate"/>
+    <published>2023-10-26T06:43:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7295786792865893674</id>
+    <title>Trust your intuition 🧠 #iykyk #intuition #charlesthegr8 </title>
+    <updated>2023-10-30T16:19:13+00:00</updated>
+    <content>Trust your intuition 🧠 #iykyk #intuition #charlesthegr8 </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7295786792865893674" rel="alternate"/>
+    <published>2023-10-30T16:19:13+00:00</published>
   </entry>
 </feed>

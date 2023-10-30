@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ailaughatmyownjokes</id>
   <title>@ailaughatmyownjokes | TikTok</title>
-  <updated>2023-10-24T14:45:38+00:00</updated>
+  <updated>2023-10-29T15:46:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ailaughatmyownjokes</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ailaughatmyownjokes/video/7280919201269746976</id>
-    <title>Disclaimer: no orphans were insulted in the making of this video... #sketch #comedy</title>
-    <updated>2023-09-20T14:45:08+00:00</updated>
-    <content>Disclaimer: no orphans were insulted in the making of this video... #sketch #comedy</content>
-    <link href="https://tiktok.com/@ailaughatmyownjokes/video/7280919201269746976" rel="alternate"/>
-    <published>2023-09-20T14:45:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ailaughatmyownjokes/video/7282023230263545121</id>
     <title>My cats want to move out #lionking #sketch #comedy</title>
@@ -91,5 +83,13 @@
     <content>Disclaimer: I have nothing against libras, I just googled the starsign that is incompatible with snowwhite's, who is a pisces. Das it. xoxo *does a backflip* #snowwhite #sketch #comedy </content>
     <link href="https://tiktok.com/@ailaughatmyownjokes/video/7293536214282538273" rel="alternate"/>
     <published>2023-10-24T14:45:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ailaughatmyownjokes/video/7295407259742473505</id>
+    <title>I'm no longer allowed to give treats to kids  #halloween #trickortreat #comedy #sketch </title>
+    <updated>2023-10-29T15:46:14+00:00</updated>
+    <content>I'm no longer allowed to give treats to kids  #halloween #trickortreat #comedy #sketch </content>
+    <link href="https://tiktok.com/@ailaughatmyownjokes/video/7295407259742473505" rel="alternate"/>
+    <published>2023-10-29T15:46:14+00:00</published>
   </entry>
 </feed>
