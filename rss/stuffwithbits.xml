@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-10-30T20:32:36+00:00</updated>
+  <updated>2023-10-30T22:40:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7295151380010978603</id>
-    <title>Now That We Don't Talk is the best vault track and I will not be accepting any counter arguments at this time thank yew #solardidsystem #sszenith #taylorswift #1989taylorsversion </title>
-    <updated>2023-10-28T23:13:25+00:00</updated>
-    <content>Now That We Don't Talk is the best vault track and I will not be accepting any counter arguments at this time thank yew #solardidsystem #sszenith #taylorswift #1989taylorsversion </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7295151380010978603" rel="alternate"/>
-    <published>2023-10-28T23:13:25+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7295155931128532266</id>
-    <title>Replying to @aaronpicogram #reply #solardidsystem #sszenith </title>
-    <updated>2023-10-28T23:31:01+00:00</updated>
-    <content>Replying to @aaronpicogram #reply #solardidsystem #sszenith </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7295155931128532266" rel="alternate"/>
-    <published>2023-10-28T23:31:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7295162540235984170</id>
     <title>Would y'all like a spoilery review as well? #solardidsystem #sszenith #fnaf #fivenightsatfreddys #moviereview </title>
@@ -91,5 +75,21 @@
     <content>#duet with @Dheanasaur #fyp something WAS missing! 🤣🤣🤣 #solardidsystem #ssduets #fnaf #fivenightsatfreddys </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7295852118039170350" rel="alternate"/>
     <published>2023-10-30T20:32:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7295878838096006442</id>
+    <title>#solardidsystem #ladybug #ssunknown </title>
+    <updated>2023-10-30T22:16:19+00:00</updated>
+    <content>#solardidsystem #ladybug #ssunknown </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7295878838096006442" rel="alternate"/>
+    <published>2023-10-30T22:16:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7295885188956163374</id>
+    <title>Replying to @testicularchin #reply this is not a fight you can win. I'm giving you the opportunity to bow out gracefully. You'd be wise to take it. #ssunknown #solardidsystem </title>
+    <updated>2023-10-30T22:40:52+00:00</updated>
+    <content>Replying to @testicularchin #reply this is not a fight you can win. I'm giving you the opportunity to bow out gracefully. You'd be wise to take it. #ssunknown #solardidsystem </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7295885188956163374" rel="alternate"/>
+    <published>2023-10-30T22:40:52+00:00</published>
   </entry>
 </feed>
