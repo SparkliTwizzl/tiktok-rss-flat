@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avocadosnaliens</id>
   <title>@avocadosnaliens | TikTok</title>
-  <updated>2023-10-29T17:39:10+00:00</updated>
+  <updated>2023-10-30T18:14:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avocadosnaliens</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avocadosnaliens/video/7289114380103519534</id>
-    <title>#stitch with @isabellacarr </title>
-    <updated>2023-10-12T16:46:43+00:00</updated>
-    <content>#stitch with @isabellacarr </content>
-    <link href="https://tiktok.com/@avocadosnaliens/video/7289114380103519534" rel="alternate"/>
-    <published>2023-10-12T16:46:43+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avocadosnaliens/video/7289331909178543402</id>
     <title>Replying to @2Bigmac3404 </title>
@@ -91,5 +83,13 @@
     <content>#weddingphotographer #engagementshoot #sanfrancisco #photographersoftiktok </content>
     <link href="https://tiktok.com/@avocadosnaliens/video/7295436343235120427" rel="alternate"/>
     <published>2023-10-29T17:39:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7295816497304292650</id>
+    <title>Elizabeth and Jake are some of the most kind, gentle, adorable, just DREAM clients you could ever wish for. Im excited to share more of my work on here-i shouldve been doing it this entire time but life…lifes you right up sometimes. That and my fear of no</title>
+    <updated>2023-10-30T18:14:30+00:00</updated>
+    <content>Elizabeth and Jake are some of the most kind, gentle, adorable, just DREAM clients you could ever wish for. Im excited to share more of my work on here-i shouldve been doing it this entire time but life…lifes you right up sometimes. That and my fear of not being able to make tiktoks that werent cheesy/could represent my work properly. But I do hope you enjoy this content🥹. This is my real life. This is what im doing around the clock when im not waking up to make a tiktok of me getting ready for work #tahoewedding #laketahoe #photographerlife #weddingphotographers </content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7295816497304292650" rel="alternate"/>
+    <published>2023-10-30T18:14:30+00:00</published>
   </entry>
 </feed>
