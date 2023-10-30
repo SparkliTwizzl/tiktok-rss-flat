@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@villainsupport</id>
   <title>@villainsupport | TikTok</title>
-  <updated>2023-10-25T21:28:38+00:00</updated>
+  <updated>2023-10-26T20:01:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @villainsupport</subtitle>
-  <entry>
-    <id>https://tiktok.com/@villainsupport/video/7286579816801815839</id>
-    <title>The Dresden Files Book 1: Storm Front (Part 6: Bianca the Vampire) #dresdenfiles #harrydresden #jimbutcher #vampire #wizard #magic #acmetok #acmevillainsupport </title>
-    <updated>2023-10-05T20:51:24+00:00</updated>
-    <content>The Dresden Files Book 1: Storm Front (Part 6: Bianca the Vampire) #dresdenfiles #harrydresden #jimbutcher #vampire #wizard #magic #acmetok #acmevillainsupport </content>
-    <link href="https://tiktok.com/@villainsupport/video/7286579816801815839" rel="alternate"/>
-    <published>2023-10-05T20:51:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@villainsupport/video/7286904443914734878</id>
     <title>[no title]</title>
@@ -91,5 +83,13 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@villainsupport/video/7294011123152506154" rel="alternate"/>
     <published>2023-10-25T21:28:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@villainsupport/video/7294359642585566506</id>
+    <title>Link to get “Super Human” and any other @evancurriescifi books in my profile!</title>
+    <updated>2023-10-26T20:01:01+00:00</updated>
+    <content>Link to get “Super Human” and any other @evancurriescifi books in my profile!</content>
+    <link href="https://tiktok.com/@villainsupport/video/7294359642585566506" rel="alternate"/>
+    <published>2023-10-26T20:01:01+00:00</published>
   </entry>
 </feed>

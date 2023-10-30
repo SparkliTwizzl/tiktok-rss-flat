@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@transcendent_tess</id>
   <title>@transcendent_tess | TikTok</title>
-  <updated>2023-10-26T01:32:29+00:00</updated>
+  <updated>2023-10-30T18:11:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @transcendent_tess</subtitle>
-  <entry>
-    <id>https://tiktok.com/@transcendent_tess/video/7288675938110459182</id>
-    <title>Yo! Fit check! SHEESH! YO IM TOTALLY FINE. NO FOR REAL! IM GOOD. SUPER #drippy  #fresh #fitcheck #sheesh #supreme #truckerlife #truckerproblems #tripacs #thermoking #thisisfine #transtrucker #lgbttruckers #alphabetmafia🌈  #imfine #notstruggling #imlying #</title>
-    <updated>2023-10-11T12:25:35+00:00</updated>
-    <content>Yo! Fit check! SHEESH! YO IM TOTALLY FINE. NO FOR REAL! IM GOOD. SUPER #drippy  #fresh #fitcheck #sheesh #supreme #truckerlife #truckerproblems #tripacs #thermoking #thisisfine #transtrucker #lgbttruckers #alphabetmafia🌈  #imfine #notstruggling #imlying #imstruggling #ongod #thissucks #imcold #lesbiansoftiktok </content>
-    <link href="https://tiktok.com/@transcendent_tess/video/7288675938110459182" rel="alternate"/>
-    <published>2023-10-11T12:25:35+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@transcendent_tess/video/7288686155946593582</id>
-    <title>have we... been here before? for context: the Iowa rest area vid I did the other day #trucklife #trucker #dejavu #regionaldriver #driver #cdl #havewebeenherebefore #familiarplaces #trippy #mormingcoffee #transtrucker #imcold #lgbt🌈 </title>
-    <updated>2023-10-11T13:05:20+00:00</updated>
-    <content>have we... been here before? for context: the Iowa rest area vid I did the other day #trucklife #trucker #dejavu #regionaldriver #driver #cdl #havewebeenherebefore #familiarplaces #trippy #mormingcoffee #transtrucker #imcold #lgbt🌈 </content>
-    <link href="https://tiktok.com/@transcendent_tess/video/7288686155946593582" rel="alternate"/>
-    <published>2023-10-11T13:05:20+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@transcendent_tess/video/7288804332840013098</id>
-    <title>The tragic tale ends in more tragedy. thank you for hurting my feelings effect. #theaterkid #flunk #failedcollegestudent #imoldernow #fyp #funny </title>
-    <updated>2023-10-11T20:43:41+00:00</updated>
-    <content>The tragic tale ends in more tragedy. thank you for hurting my feelings effect. #theaterkid #flunk #failedcollegestudent #imoldernow #fyp #funny </content>
-    <link href="https://tiktok.com/@transcendent_tess/video/7288804332840013098" rel="alternate"/>
-    <published>2023-10-11T20:43:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@transcendent_tess/video/7289097309458091306</id>
     <title>I did manage to get some sleep. 😰 #trucker #truckerlife #truckerproblems #reefer #sleeperberth #transtrucker #lgbttruckers #lgbt🌈 #workingconditions </title>
@@ -91,5 +67,29 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@transcendent_tess/video/7294073987858976043" rel="alternate"/>
     <published>2023-10-26T01:32:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@transcendent_tess/video/7294408071332351274</id>
+    <title>[no title]</title>
+    <updated>2023-10-26T23:08:54+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@transcendent_tess/video/7294408071332351274" rel="alternate"/>
+    <published>2023-10-26T23:08:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@transcendent_tess/video/7294453100696571182</id>
+    <title>#stitch with @SKY MAJØR </title>
+    <updated>2023-10-27T02:03:38+00:00</updated>
+    <content>#stitch with @SKY MAJØR </content>
+    <link href="https://tiktok.com/@transcendent_tess/video/7294453100696571182" rel="alternate"/>
+    <published>2023-10-27T02:03:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@transcendent_tess/video/7295815623672679722</id>
+    <title>the sound of my for you Page lately... I can't help watching the train wreck sometimes... #parody #filter #fyp #xyzcba #funnyvideos #iqchallenge </title>
+    <updated>2023-10-30T18:11:09+00:00</updated>
+    <content>the sound of my for you Page lately... I can't help watching the train wreck sometimes... #parody #filter #fyp #xyzcba #funnyvideos #iqchallenge </content>
+    <link href="https://tiktok.com/@transcendent_tess/video/7295815623672679722" rel="alternate"/>
+    <published>2023-10-30T18:11:09+00:00</published>
   </entry>
 </feed>

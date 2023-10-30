@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@tracksuitsandredwine_</id>
   <title>@tracksuitsandredwine_ | TikTok</title>
-  <updated>2023-10-18T05:09:00+00:00</updated>
+  <updated>2023-10-29T09:27:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @tracksuitsandredwine_</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tracksuitsandredwine_/video/7273108237187026177</id>
-    <title>mickey tshirt ftw</title>
-    <updated>2023-08-30T13:34:38+00:00</updated>
-    <content>mickey tshirt ftw</content>
-    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7273108237187026177" rel="alternate"/>
-    <published>2023-08-30T13:34:38+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@tracksuitsandredwine_/video/7274406849842040065</id>
-    <title>new piercing 💪</title>
-    <updated>2023-09-03T01:33:58+00:00</updated>
-    <content>new piercing 💪</content>
-    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7274406849842040065" rel="alternate"/>
-    <published>2023-09-03T01:33:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tracksuitsandredwine_/video/7278995409631055106</id>
     <title>femme luffy #onepiece </title>
@@ -91,5 +75,21 @@
     <content>spooky</content>
     <link href="https://tiktok.com/@tracksuitsandredwine_/video/7291161111880142081" rel="alternate"/>
     <published>2023-10-18T05:09:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tracksuitsandredwine_/video/7295290484627459329</id>
+    <title>raven #halloween </title>
+    <updated>2023-10-29T08:13:06+00:00</updated>
+    <content>raven #halloween </content>
+    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7295290484627459329" rel="alternate"/>
+    <published>2023-10-29T08:13:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tracksuitsandredwine_/video/7295309615539981569</id>
+    <title>raven pt 2</title>
+    <updated>2023-10-29T09:27:19+00:00</updated>
+    <content>raven pt 2</content>
+    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7295309615539981569" rel="alternate"/>
+    <published>2023-10-29T09:27:19+00:00</published>
   </entry>
 </feed>
