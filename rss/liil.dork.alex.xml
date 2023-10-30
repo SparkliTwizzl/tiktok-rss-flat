@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@liil.dork.alex</id>
   <title>@liil.dork.alex | TikTok</title>
-  <updated>2023-10-29T15:45:46+00:00</updated>
+  <updated>2023-10-30T22:03:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @liil.dork.alex</subtitle>
-  <entry>
-    <id>https://tiktok.com/@liil.dork.alex/video/7290855486675504426</id>
-    <title>[no title]</title>
-    <updated>2023-10-17T09:23:31+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@liil.dork.alex/video/7290855486675504426" rel="alternate"/>
-    <published>2023-10-17T09:23:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@liil.dork.alex/video/7291110584228252974</id>
     <title>The stray hair hanging on for dear life </title>
@@ -91,5 +83,13 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@liil.dork.alex/video/7295407116444077343" rel="alternate"/>
     <published>2023-10-29T15:45:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@liil.dork.alex/video/7295875569269394719</id>
+    <title>Wow how sweet tik tok 😭</title>
+    <updated>2023-10-30T22:03:34+00:00</updated>
+    <content>Wow how sweet tik tok 😭</content>
+    <link href="https://tiktok.com/@liil.dork.alex/video/7295875569269394719" rel="alternate"/>
+    <published>2023-10-30T22:03:34+00:00</published>
   </entry>
 </feed>
