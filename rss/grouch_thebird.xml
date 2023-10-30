@@ -13,6 +13,14 @@
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @grouch_thebird</subtitle>
   <entry>
+    <id>https://tiktok.com/@grouch_thebird/video/7287762117430627614</id>
+    <title>I got a haircut</title>
+    <updated>2023-10-09T01:19:14+00:00</updated>
+    <content>I got a haircut</content>
+    <link href="https://tiktok.com/@grouch_thebird/video/7287762117430627614" rel="alternate"/>
+    <published>2023-10-09T01:19:14+00:00</published>
+  </entry>
+  <entry>
     <id>https://tiktok.com/@grouch_thebird/video/7287766082381794591</id>
     <title>[no title]</title>
     <updated>2023-10-09T01:34:38+00:00</updated>
@@ -67,14 +75,6 @@
     <content>womp womp</content>
     <link href="https://tiktok.com/@grouch_thebird/video/7291076240369372447" rel="alternate"/>
     <published>2023-10-17T23:39:41+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@grouch_thebird/video/7291142008930913566</id>
-    <title>[no title]</title>
-    <updated>2023-10-18T03:54:55+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@grouch_thebird/video/7291142008930913566" rel="alternate"/>
-    <published>2023-10-18T03:54:55+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@grouch_thebird/video/7291160584886701343</id>

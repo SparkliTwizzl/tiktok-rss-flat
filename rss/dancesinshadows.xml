@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-10-23T11:55:39+00:00</updated>
+  <updated>2023-10-30T13:56:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7287609700869311749</id>
-    <title>ill be at Frightmare in the Falls all 3 days at the end of the month. #witchcostume #countdowntohalloween </title>
-    <updated>2023-10-08T15:27:40+00:00</updated>
-    <content>ill be at Frightmare in the Falls all 3 days at the end of the month. #witchcostume #countdowntohalloween </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7287609700869311749" rel="alternate"/>
-    <published>2023-10-08T15:27:40+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7288318629140040966</id>
-    <title>It seems the app cut rhw rest of the vid? oh well.. song @Julia Riew  #maddamcure #miniseries </title>
-    <updated>2023-10-10T13:18:41+00:00</updated>
-    <content>It seems the app cut rhw rest of the vid? oh well.. song @Julia Riew  #maddamcure #miniseries </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7288318629140040966" rel="alternate"/>
-    <published>2023-10-10T13:18:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7289074044283014406</id>
     <title>*flash warning* Now that con season is over, it's time to focus more on my drag performances. I was a super shy kid, and cried at the thought of school plays. I do my best to face my fears, and so it's time to face this one as well 💙 #dragperformance #dra</title>
@@ -91,5 +75,21 @@
     <content>💙💙💙 #onthisday #maladytheclown #maladyandglum </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7293121343162240261" rel="alternate"/>
     <published>2023-10-23T11:55:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7295250217832615174</id>
+    <title>happy spooky season everyone! I'm busy at frightmare in the falls this weekend ❤️ #spookyseason #halloween </title>
+    <updated>2023-10-29T05:36:47+00:00</updated>
+    <content>happy spooky season everyone! I'm busy at frightmare in the falls this weekend ❤️ #spookyseason #halloween </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7295250217832615174" rel="alternate"/>
+    <published>2023-10-29T05:36:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7295750203431210245</id>
+    <title>I met soo many people over the last 3 days! It was truly the best con yet. just a few highlights: meeting Doug Jones and talking costumes, met the mua of the strain and so many shows I love, Carry Elwes melting over my treat bags, and my besties from Texa</title>
+    <updated>2023-10-30T13:56:59+00:00</updated>
+    <content>I met soo many people over the last 3 days! It was truly the best con yet. just a few highlights: meeting Doug Jones and talking costumes, met the mua of the strain and so many shows I love, Carry Elwes melting over my treat bags, and my besties from Texas chainsaw massacre! There is nothing like watching your kiddo play with horror movie icons all weekend! I made trick or treat bags for the celebs and their agents, out of the spirit...and the reactions I got were priceless. all around best weekend in ages ❤️🎈 #frightmareinthefalls #spookyseason #comiccon </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7295750203431210245" rel="alternate"/>
+    <published>2023-10-30T13:56:59+00:00</published>
   </entry>
 </feed>

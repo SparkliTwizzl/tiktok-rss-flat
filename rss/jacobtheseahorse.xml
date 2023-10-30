@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jacobtheseahorse</id>
   <title>@jacobtheseahorse | TikTok</title>
-  <updated>2023-10-25T18:51:14+00:00</updated>
+  <updated>2023-10-26T21:13:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jacobtheseahorse</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7285280688293547296</id>
-    <title>I love this quote by @Alexander Leon and  it impacts me in lots of ways.  so much of my childhood was performance and a relentless amount of my adulthood is finding out who I am. so many #lgbtq people are also #survivors and #neurodivergent, I'd love to h</title>
-    <updated>2023-10-02T08:50:02+00:00</updated>
-    <content>I love this quote by @Alexander Leon and  it impacts me in lots of ways.  so much of my childhood was performance and a relentless amount of my adulthood is finding out who I am. so many #lgbtq people are also #survivors and #neurodivergent, I'd love to hear from others who this resonates with #lgbt #queer #trans #childhoodtrama #healing #autistic #adhd #audhd #autism #perform #lgbtqia </content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7285280688293547296" rel="alternate"/>
-    <published>2023-10-02T08:50:02+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7286213044999310624</id>
-    <title>I have so much footage of myself from coming out to having chest surgery and beyond. it's kind of healing to share it, so I hope you enjoy it. I'll be releasing more as I go through it all! please do ask questions and I'll do my best to answer  #trans #tr</title>
-    <updated>2023-10-04T21:08:00+00:00</updated>
-    <content>I have so much footage of myself from coming out to having chest surgery and beyond. it's kind of healing to share it, so I hope you enjoy it. I'll be releasing more as I go through it all! please do ask questions and I'll do my best to answer  #trans #transition #back #memories #transgender #past #growth #beforeandafter #hormones #lgbtq #queer #lgbtqia #survivors </content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7286213044999310624" rel="alternate"/>
-    <published>2023-10-04T21:08:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jacobtheseahorse/video/7286494323976228129</id>
     <title>I bet you people please to the extent that it hurts you.  this is your reminder that "no" has power and value and you're worth it!  #peoplepleaser #no #lgtbq #audhd #cptsd #therapy #support </title>
@@ -91,5 +75,21 @@
     <content>thank you for your thoughtful comments, I appreciate your kindness. I absolutely agree where the fear is coming from, but I strongly feel it's not only misdirected, but that the fear itself is being created through disinformation by people who want to uphold patriarchy.  trans people are not only a useful scapegoat, but the arguments used to harm us also harm cis women (e.g. that there's a "right way" to be a women, and others). I hope we can continue to build bridges between us and fight to change the system together #trans #gender #feminism #feminist #transpregnancy #lgbt #birth #pregnancy </content>
     <link href="https://tiktok.com/@jacobtheseahorse/video/7293970600954006816" rel="alternate"/>
     <published>2023-10-25T18:51:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7294116233622900000</id>
+    <title>I felt like I was crying out to get support and all I received was rejection and misgendering.  this broke me, and set the course for the most difficult time of my life (and I say this as someone who has escaped DV and been homeless) I am so privileged to</title>
+    <updated>2023-10-26T04:16:29+00:00</updated>
+    <content>I felt like I was crying out to get support and all I received was rejection and misgendering.  this broke me, and set the course for the most difficult time of my life (and I say this as someone who has escaped DV and been homeless) I am so privileged to get to access therapy, it terrifies me what would have happened had I not found some way to get support.  #trans #transpregnancy #perinatalmentalhealth #pregnant #pregnancy #mentalhealth #nhs #midwifery #pmh #cmht </content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7294116233622900000" rel="alternate"/>
+    <published>2023-10-26T04:16:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7294378317052988705</id>
+    <title>I love this analogy #trans #analogy #transgender #LGBTQ </title>
+    <updated>2023-10-26T21:13:23+00:00</updated>
+    <content>I love this analogy #trans #analogy #transgender #LGBTQ </content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7294378317052988705" rel="alternate"/>
+    <published>2023-10-26T21:13:23+00:00</published>
   </entry>
 </feed>

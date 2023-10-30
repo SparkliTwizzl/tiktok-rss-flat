@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dannyphantom.exe</id>
   <title>@dannyphantom.exe | TikTok</title>
-  <updated>2023-10-26T02:17:28+00:00</updated>
+  <updated>2023-10-30T02:25:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,38 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dannyphantom.exe</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7292230616706239786</id>
-    <title>this is a draft from months ago I MISS MY BABYYYY</title>
-    <updated>2023-10-21T02:19:17+00:00</updated>
-    <content>this is a draft from months ago I MISS MY BABYYYY</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7292230616706239786" rel="alternate"/>
-    <published>2023-10-21T02:19:17+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7292230728027295022</id>
-    <title>✨PLUH✨</title>
-    <updated>2023-10-21T02:19:40+00:00</updated>
-    <content>✨PLUH✨</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7292230728027295022" rel="alternate"/>
-    <published>2023-10-21T02:19:40+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7292603183648771374</id>
-    <title>hmmm sharks :) </title>
-    <updated>2023-10-22T02:25:03+00:00</updated>
-    <content>hmmm sharks :) </content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7292603183648771374" rel="alternate"/>
-    <published>2023-10-22T02:25:03+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7292604027404094762</id>
-    <title>UR FATHER LOVES U VILLIAN… I THINK</title>
-    <updated>2023-10-22T02:28:21+00:00</updated>
-    <content>UR FATHER LOVES U VILLIAN… I THINK</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7292604027404094762" rel="alternate"/>
-    <published>2023-10-22T02:28:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dannyphantom.exe/video/7292975934779510059</id>
     <title>my followers arnt gonna get this joke but I think its funny</title>
@@ -77,19 +45,51 @@
     <published>2023-10-25T02:18:29+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7294085353248410922</id>
-    <title>heres a draft bc i couldnt thinknof anything today</title>
-    <updated>2023-10-26T02:16:37+00:00</updated>
-    <content>heres a draft bc i couldnt thinknof anything today</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7294085353248410922" rel="alternate"/>
-    <published>2023-10-26T02:16:37+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@dannyphantom.exe/video/7294085568462392622</id>
     <title>ONI-WAN WHY WOULD U DO THAT</title>
     <updated>2023-10-26T02:17:28+00:00</updated>
     <content>ONI-WAN WHY WOULD U DO THAT</content>
     <link href="https://tiktok.com/@dannyphantom.exe/video/7294085568462392622" rel="alternate"/>
     <published>2023-10-26T02:17:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7294456398514097454</id>
+    <title>Jax is cool but Cain is my favorite i love my silly goofy guy :) go wath TADC its rlly good#greenscreen </title>
+    <updated>2023-10-27T02:16:26+00:00</updated>
+    <content>Jax is cool but Cain is my favorite i love my silly goofy guy :) go wath TADC its rlly good#greenscreen </content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7294456398514097454" rel="alternate"/>
+    <published>2023-10-27T02:16:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7294827320190324014</id>
+    <title>tag ur beat friend </title>
+    <updated>2023-10-28T02:15:47+00:00</updated>
+    <content>tag ur beat friend </content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7294827320190324014" rel="alternate"/>
+    <published>2023-10-28T02:15:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7295198499505786155</id>
+    <title>tag ur best friend</title>
+    <updated>2023-10-29T02:16:15+00:00</updated>
+    <content>tag ur best friend</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7295198499505786155" rel="alternate"/>
+    <published>2023-10-29T02:16:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7295198622021340458</id>
+    <title>she knows</title>
+    <updated>2023-10-29T02:16:43+00:00</updated>
+    <content>she knows</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7295198622021340458" rel="alternate"/>
+    <published>2023-10-29T02:16:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7295572041413971242</id>
+    <title>missed opportunity- tag someone u ised to have a crush on</title>
+    <updated>2023-10-30T02:25:46+00:00</updated>
+    <content>missed opportunity- tag someone u ised to have a crush on</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7295572041413971242" rel="alternate"/>
+    <published>2023-10-30T02:25:46+00:00</published>
   </entry>
 </feed>
