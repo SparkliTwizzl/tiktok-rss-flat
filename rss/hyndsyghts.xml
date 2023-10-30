@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@hyndsyghts</id>
   <title>@hyndsyghts | TikTok</title>
-  <updated>2023-10-22T01:02:42+00:00</updated>
+  <updated>2023-10-29T21:25:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,54 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @hyndsyghts</subtitle>
-  <entry>
-    <id>https://tiktok.com/@hyndsyghts/video/7282171363404664095</id>
-    <title>got a mullet. I hate my curly hair tho 💔 #lgbtq #mullet </title>
-    <updated>2023-09-23T23:44:14+00:00</updated>
-    <content>got a mullet. I hate my curly hair tho 💔 #lgbtq #mullet </content>
-    <link href="https://tiktok.com/@hyndsyghts/video/7282171363404664095" rel="alternate"/>
-    <published>2023-09-23T23:44:14+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@hyndsyghts/video/7283290822005574942</id>
-    <title>#existentialanxiety #ocd #therapy #lgbtq </title>
-    <updated>2023-09-27T00:08:21+00:00</updated>
-    <content>#existentialanxiety #ocd #therapy #lgbtq </content>
-    <link href="https://tiktok.com/@hyndsyghts/video/7283290822005574942" rel="alternate"/>
-    <published>2023-09-27T00:08:21+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@hyndsyghts/video/7286541914961104171</id>
-    <title>#stitch with @Tré Vayne #actuallyautistic #hermit </title>
-    <updated>2023-10-05T18:24:23+00:00</updated>
-    <content>#stitch with @Tré Vayne #actuallyautistic #hermit </content>
-    <link href="https://tiktok.com/@hyndsyghts/video/7286541914961104171" rel="alternate"/>
-    <published>2023-10-05T18:24:23+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@hyndsyghts/video/7287670215167528234</id>
-    <title>i love being stared at tbh #lgbtq #wlw </title>
-    <updated>2023-10-08T19:22:38+00:00</updated>
-    <content>i love being stared at tbh #lgbtq #wlw </content>
-    <link href="https://tiktok.com/@hyndsyghts/video/7287670215167528234" rel="alternate"/>
-    <published>2023-10-08T19:22:38+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@hyndsyghts/video/7287721790950886699</id>
-    <title>#itgirl #lgbtq #wlw </title>
-    <updated>2023-10-08T22:42:45+00:00</updated>
-    <content>#itgirl #lgbtq #wlw </content>
-    <link href="https://tiktok.com/@hyndsyghts/video/7287721790950886699" rel="alternate"/>
-    <published>2023-10-08T22:42:45+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@hyndsyghts/video/7289964072332741931</id>
-    <title>#actuallyautistic #lgbtq </title>
-    <updated>2023-10-14T23:44:00+00:00</updated>
-    <content>#actuallyautistic #lgbtq </content>
-    <link href="https://tiktok.com/@hyndsyghts/video/7289964072332741931" rel="alternate"/>
-    <published>2023-10-14T23:44:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@hyndsyghts/video/7289965222008311083</id>
     <title>fall is hermit season #lgbtq </title>
@@ -91,5 +43,53 @@
     <content>Free Palestine </content>
     <link href="https://tiktok.com/@hyndsyghts/video/7292581958096325931" rel="alternate"/>
     <published>2023-10-22T01:02:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@hyndsyghts/video/7294477269966327082</id>
+    <title>comment if you want a tutorial on how to make these custom fangs #halloween #vampire #lgbtq </title>
+    <updated>2023-10-27T03:37:26+00:00</updated>
+    <content>comment if you want a tutorial on how to make these custom fangs #halloween #vampire #lgbtq </content>
+    <link href="https://tiktok.com/@hyndsyghts/video/7294477269966327082" rel="alternate"/>
+    <published>2023-10-27T03:37:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@hyndsyghts/video/7294802816764267818</id>
+    <title>#halloween #vampire #lgbtq </title>
+    <updated>2023-10-28T00:40:41+00:00</updated>
+    <content>#halloween #vampire #lgbtq </content>
+    <link href="https://tiktok.com/@hyndsyghts/video/7294802816764267818" rel="alternate"/>
+    <published>2023-10-28T00:40:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@hyndsyghts/video/7295077331398446379</id>
+    <title>fr tho #halloween #diy #queenofthedamned #lgbtq </title>
+    <updated>2023-10-28T18:26:07+00:00</updated>
+    <content>fr tho #halloween #diy #queenofthedamned #lgbtq </content>
+    <link href="https://tiktok.com/@hyndsyghts/video/7295077331398446379" rel="alternate"/>
+    <published>2023-10-28T18:26:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@hyndsyghts/video/7295410924976901418</id>
+    <title>#americanmary #halloween #lgbtq #horror </title>
+    <updated>2023-10-29T16:00:34+00:00</updated>
+    <content>#americanmary #halloween #lgbtq #horror </content>
+    <link href="https://tiktok.com/@hyndsyghts/video/7295410924976901418" rel="alternate"/>
+    <published>2023-10-29T16:00:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@hyndsyghts/video/7295433140787481899</id>
+    <title>sure is sweet #americanmary #halloween #lgbtq #horror #halloween2023 #soskasisters </title>
+    <updated>2023-10-29T17:26:44+00:00</updated>
+    <content>sure is sweet #americanmary #halloween #lgbtq #horror #halloween2023 #soskasisters </content>
+    <link href="https://tiktok.com/@hyndsyghts/video/7295433140787481899" rel="alternate"/>
+    <published>2023-10-29T17:26:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@hyndsyghts/video/7295494771957681450</id>
+    <title>#diy #bloodjewelry </title>
+    <updated>2023-10-29T21:25:56+00:00</updated>
+    <content>#diy #bloodjewelry </content>
+    <link href="https://tiktok.com/@hyndsyghts/video/7295494771957681450" rel="alternate"/>
+    <published>2023-10-29T21:25:56+00:00</published>
   </entry>
 </feed>

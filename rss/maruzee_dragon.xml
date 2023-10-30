@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maruzee_dragon</id>
   <title>@maruzee_dragon | TikTok</title>
-  <updated>2023-10-25T01:17:27+00:00</updated>
+  <updated>2023-10-30T01:33:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maruzee_dragon</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maruzee_dragon/video/7287776851500518662</id>
-    <title>Since you asked A LOT... here’s more lightsaber action for you!👀 #lightsaber #starwars #transition #martialarts </title>
-    <updated>2023-10-09T02:16:18+00:00</updated>
-    <content>Since you asked A LOT... here’s more lightsaber action for you!👀 #lightsaber #starwars #transition #martialarts </content>
-    <link href="https://tiktok.com/@maruzee_dragon/video/7287776851500518662" rel="alternate"/>
-    <published>2023-10-09T02:16:18+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@maruzee_dragon/video/7288135459283176709</id>
-    <title>Discover the newest Genshin Impact character, Neuvillette, and immerse yourself in the world of his elemental powers at NYCC! @GenshinImpact_En  #genshinimpact #Neuvillette #FontaineNYCC #NYCC </title>
-    <updated>2023-10-10T01:27:53+00:00</updated>
-    <content>Discover the newest Genshin Impact character, Neuvillette, and immerse yourself in the world of his elemental powers at NYCC! @GenshinImpact_En  #genshinimpact #Neuvillette #FontaineNYCC #NYCC </content>
-    <link href="https://tiktok.com/@maruzee_dragon/video/7288135459283176709" rel="alternate"/>
-    <published>2023-10-10T01:27:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@maruzee_dragon/video/7288506599524617478</id>
-    <title>Casual Harley Quinn transition cuz it's spooky season, ok byebye 👋🎃 #spookyseason #dccomics #harleyquinn #halloween #cosplay #transition #kick #villain </title>
-    <updated>2023-10-11T01:28:07+00:00</updated>
-    <content>Casual Harley Quinn transition cuz it's spooky season, ok byebye 👋🎃 #spookyseason #dccomics #harleyquinn #halloween #cosplay #transition #kick #villain </content>
-    <link href="https://tiktok.com/@maruzee_dragon/video/7288506599524617478" rel="alternate"/>
-    <published>2023-10-11T01:28:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maruzee_dragon/video/7289263841764986117</id>
     <title>Debating if Skarlet from MK should be my Halloween costume this year! Thoughts?🤔 #mk #transition #halloween #idea #cosplay #spookyseason #martialarts </title>
@@ -91,5 +67,29 @@
     <content>29 today! 🎂🎈🥲</content>
     <link href="https://tiktok.com/@maruzee_dragon/video/7293699048471596293" rel="alternate"/>
     <published>2023-10-25T01:17:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maruzee_dragon/video/7294454655612931333</id>
+    <title>⚠️FAKEBLOOD⚠️ Sorry but I HAD to post this video...Because, you know, it's spooky season!🎃👻  Should I do one with lightsabers next?! #martialarts #transition #halloween </title>
+    <updated>2023-10-27T02:09:35+00:00</updated>
+    <content>⚠️FAKEBLOOD⚠️ Sorry but I HAD to post this video...Because, you know, it's spooky season!🎃👻  Should I do one with lightsabers next?! #martialarts #transition #halloween </content>
+    <link href="https://tiktok.com/@maruzee_dragon/video/7294454655612931333" rel="alternate"/>
+    <published>2023-10-27T02:09:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maruzee_dragon/video/7294813869732547846</id>
+    <title>Cuz you asked for it 🤡🖤♦️ #transition  #harleyquinn #dccomics #joker #cosplay </title>
+    <updated>2023-10-28T01:23:32+00:00</updated>
+    <content>Cuz you asked for it 🤡🖤♦️ #transition  #harleyquinn #dccomics #joker #cosplay </content>
+    <link href="https://tiktok.com/@maruzee_dragon/video/7294813869732547846" rel="alternate"/>
+    <published>2023-10-28T01:23:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maruzee_dragon/video/7295558536887553285</id>
+    <title>😂😂...Thinking lightsabers next time...Or more kicks?! #martialarts  #hype #fyp </title>
+    <updated>2023-10-30T01:33:12+00:00</updated>
+    <content>😂😂...Thinking lightsabers next time...Or more kicks?! #martialarts  #hype #fyp </content>
+    <link href="https://tiktok.com/@maruzee_dragon/video/7295558536887553285" rel="alternate"/>
+    <published>2023-10-30T01:33:12+00:00</published>
   </entry>
 </feed>
