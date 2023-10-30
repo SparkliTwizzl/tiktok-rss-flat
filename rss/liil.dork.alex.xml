@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@liil.dork.alex</id>
   <title>@liil.dork.alex | TikTok</title>
-  <updated>2023-10-25T22:30:30+00:00</updated>
+  <updated>2023-10-29T15:45:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @liil.dork.alex</subtitle>
-  <entry>
-    <id>https://tiktok.com/@liil.dork.alex/video/7289216514555661610</id>
-    <title>Been tryin to get this down 😭</title>
-    <updated>2023-10-12T23:23:04+00:00</updated>
-    <content>Been tryin to get this down 😭</content>
-    <link href="https://tiktok.com/@liil.dork.alex/video/7289216514555661610" rel="alternate"/>
-    <published>2023-10-12T23:23:04+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@liil.dork.alex/video/7290369732950248746</id>
-    <title>Thank you @HAZEY for the change up. Got me feelin myself 💁🏼‍♀️</title>
-    <updated>2023-10-16T01:58:13+00:00</updated>
-    <content>Thank you @HAZEY for the change up. Got me feelin myself 💁🏼‍♀️</content>
-    <link href="https://tiktok.com/@liil.dork.alex/video/7290369732950248746" rel="alternate"/>
-    <published>2023-10-16T01:58:13+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@liil.dork.alex/video/7290855486675504426</id>
     <title>[no title]</title>
@@ -91,5 +75,21 @@
     <content>🦂tis the season </content>
     <link href="https://tiktok.com/@liil.dork.alex/video/7294027070823222558" rel="alternate"/>
     <published>2023-10-25T22:30:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@liil.dork.alex/video/7294410251867049246</id>
+    <title>Tryin the “stop smiling at dont” trend </title>
+    <updated>2023-10-26T23:17:21+00:00</updated>
+    <content>Tryin the “stop smiling at dont” trend </content>
+    <link href="https://tiktok.com/@liil.dork.alex/video/7294410251867049246" rel="alternate"/>
+    <published>2023-10-26T23:17:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@liil.dork.alex/video/7295407116444077343</id>
+    <title>[no title]</title>
+    <updated>2023-10-29T15:45:46+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@liil.dork.alex/video/7295407116444077343" rel="alternate"/>
+    <published>2023-10-29T15:45:46+00:00</published>
   </entry>
 </feed>

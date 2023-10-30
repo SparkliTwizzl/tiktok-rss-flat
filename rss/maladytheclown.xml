@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maladytheclown</id>
   <title>@maladytheclown | TikTok</title>
-  <updated>2023-10-18T12:31:03+00:00</updated>
+  <updated>2023-10-29T05:44:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maladytheclown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maladytheclown/video/7262888124383005957</id>
-    <title>welcome to fairly responsible airlines 😅😝 #onthisday #dancesinshadows #maladytheclown </title>
-    <updated>2023-08-03T00:35:19+00:00</updated>
-    <content>welcome to fairly responsible airlines 😅😝 #onthisday #dancesinshadows #maladytheclown </content>
-    <link href="https://tiktok.com/@maladytheclown/video/7262888124383005957" rel="alternate"/>
-    <published>2023-08-03T00:35:19+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@maladytheclown/video/7263182022938610950</id>
-    <title>planning on new steampink looks coming soon ❤️😅 like, real soon. I need promo pics for my merch shop relaunch featuring windup keys,wigs, jewelry, and more. #onthisday #steampunk #dancesinshadows #makeupartist </title>
-    <updated>2023-08-03T19:35:50+00:00</updated>
-    <content>planning on new steampink looks coming soon ❤️😅 like, real soon. I need promo pics for my merch shop relaunch featuring windup keys,wigs, jewelry, and more. #onthisday #steampunk #dancesinshadows #makeupartist </content>
-    <link href="https://tiktok.com/@maladytheclown/video/7263182022938610950" rel="alternate"/>
-    <published>2023-08-03T19:35:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maladytheclown/video/7267586270354869509</id>
     <title>Poor Glum. He's very confused and a tad terrified. voice/audio: @That's a Bad Idea #dragking #dancesinshadows #glumthesupernaturalhitman   </title>
@@ -91,5 +75,21 @@
     <content>all these updates but still no way to organize and keep drafts better 😅 feel free to duet #thornthevampire #vampire #helluvaboss </content>
     <link href="https://tiktok.com/@maladytheclown/video/7291275034771950854" rel="alternate"/>
     <published>2023-10-18T12:31:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maladytheclown/video/7295250743655714053</id>
+    <title>sorry I've been so busy 🩵 I've been doing alot of drag and coaplay events this month #maladytheclown </title>
+    <updated>2023-10-29T05:38:50+00:00</updated>
+    <content>sorry I've been so busy 🩵 I've been doing alot of drag and coaplay events this month #maladytheclown </content>
+    <link href="https://tiktok.com/@maladytheclown/video/7295250743655714053" rel="alternate"/>
+    <published>2023-10-29T05:38:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maladytheclown/video/7295252238165921030</id>
+    <title>feel free to duet ❤️ #maladytheclown #whatwedointheshadows </title>
+    <updated>2023-10-29T05:44:39+00:00</updated>
+    <content>feel free to duet ❤️ #maladytheclown #whatwedointheshadows </content>
+    <link href="https://tiktok.com/@maladytheclown/video/7295252238165921030" rel="alternate"/>
+    <published>2023-10-29T05:44:39+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@mikaelaistired</id>
   <title>@mikaelaistired | TikTok</title>
-  <updated>2023-10-18T11:29:46+00:00</updated>
+  <updated>2023-10-27T19:23:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @mikaelaistired</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mikaelaistired/video/7267621885909667115</id>
-    <title>The short version</title>
-    <updated>2023-08-15T18:44:50+00:00</updated>
-    <content>The short version</content>
-    <link href="https://tiktok.com/@mikaelaistired/video/7267621885909667115" rel="alternate"/>
-    <published>2023-08-15T18:44:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mikaelaistired/video/7267928029953887530</id>
     <title>I know this is silly but that crush i had makes so much sense now lmao</title>
@@ -91,5 +83,13 @@
     <content>Ily 💕</content>
     <link href="https://tiktok.com/@mikaelaistired/video/7291259208563952939" rel="alternate"/>
     <published>2023-10-18T11:29:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mikaelaistired/video/7294721029513956654</id>
+    <title>Hiddlestick lmao</title>
+    <updated>2023-10-27T19:23:20+00:00</updated>
+    <content>Hiddlestick lmao</content>
+    <link href="https://tiktok.com/@mikaelaistired/video/7294721029513956654" rel="alternate"/>
+    <published>2023-10-27T19:23:20+00:00</published>
   </entry>
 </feed>
