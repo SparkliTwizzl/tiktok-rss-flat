@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@juliafox038711</id>
   <title>@juliafox038711 | TikTok</title>
-  <updated>2023-10-24T06:52:38+00:00</updated>
+  <updated>2023-10-31T02:40:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juliafox038711</subtitle>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7292948304281849119</id>
-    <title>i would love to wear this dress more but it is ✨see through✨</title>
-    <updated>2023-10-23T00:44:19+00:00</updated>
-    <content>i would love to wear this dress more but it is ✨see through✨</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7292948304281849119" rel="alternate"/>
-    <published>2023-10-23T00:44:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@juliafox038711/video/7292953735360220446</id>
     <title>[no title]</title>
@@ -91,5 +83,13 @@
     <content>nova wanted to know what was going on #switch </content>
     <link href="https://tiktok.com/@juliafox038711/video/7293414292018318623" rel="alternate"/>
     <published>2023-10-24T06:52:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7295947002230132010</id>
+    <title>calm down girly, im just hungry </title>
+    <updated>2023-10-31T02:40:43+00:00</updated>
+    <content>calm down girly, im just hungry </content>
+    <link href="https://tiktok.com/@juliafox038711/video/7295947002230132010" rel="alternate"/>
+    <published>2023-10-31T02:40:43+00:00</published>
   </entry>
 </feed>
