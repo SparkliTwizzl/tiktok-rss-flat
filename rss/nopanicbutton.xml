@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@nopanicbutton</id>
   <title>@nopanicbutton | TikTok</title>
-  <updated>2023-10-27T19:20:56+00:00</updated>
+  <updated>2023-10-31T00:20:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @nopanicbutton</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nopanicbutton/video/7286979901201108267</id>
-    <title>The fat kid loves pantry purges! #yum #eatit #wastenotwantnot </title>
-    <updated>2023-10-06T22:43:55+00:00</updated>
-    <content>The fat kid loves pantry purges! #yum #eatit #wastenotwantnot </content>
-    <link href="https://tiktok.com/@nopanicbutton/video/7286979901201108267" rel="alternate"/>
-    <published>2023-10-06T22:43:55+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nopanicbutton/video/7288124669306211626</id>
     <title>The system is broken. </title>
@@ -91,5 +83,13 @@
     <content>The heat wars have begun! #thermostat #lightbill #dadsense </content>
     <link href="https://tiktok.com/@nopanicbutton/video/7294720402113318190" rel="alternate"/>
     <published>2023-10-27T19:20:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nopanicbutton/video/7295910987012771118</id>
+    <title>I actually had to have this conversation with someone. #wearedoomed #nohopeforhumanity #dontbreed </title>
+    <updated>2023-10-31T00:20:59+00:00</updated>
+    <content>I actually had to have this conversation with someone. #wearedoomed #nohopeforhumanity #dontbreed </content>
+    <link href="https://tiktok.com/@nopanicbutton/video/7295910987012771118" rel="alternate"/>
+    <published>2023-10-31T00:20:59+00:00</published>
   </entry>
 </feed>
