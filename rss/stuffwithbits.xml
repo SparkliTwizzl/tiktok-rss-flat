@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-10-30T22:40:52+00:00</updated>
+  <updated>2023-10-30T23:40:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7295162540235984170</id>
-    <title>Would y'all like a spoilery review as well? #solardidsystem #sszenith #fnaf #fivenightsatfreddys #moviereview </title>
-    <updated>2023-10-28T23:56:40+00:00</updated>
-    <content>Would y'all like a spoilery review as well? #solardidsystem #sszenith #fnaf #fivenightsatfreddys #moviereview </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7295162540235984170" rel="alternate"/>
-    <published>2023-10-28T23:56:40+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7295185231651556654</id>
-    <title>Yes hello I am a Swifty now #sszenith #solardidsystem #1989taylorsversion #nowthatwedonttalk </title>
-    <updated>2023-10-29T01:24:44+00:00</updated>
-    <content>Yes hello I am a Swifty now #sszenith #solardidsystem #1989taylorsversion #nowthatwedonttalk </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7295185231651556654" rel="alternate"/>
-    <published>2023-10-29T01:24:44+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7295187882132671787</id>
-    <title>She has so much to say #solardidsystem #ladybug </title>
-    <updated>2023-10-29T01:35:00+00:00</updated>
-    <content>She has so much to say #solardidsystem #ladybug </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7295187882132671787" rel="alternate"/>
-    <published>2023-10-29T01:35:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7295402194671553834</id>
     <title>Matt you sly, sly dog 😅 Also I love how childlike the giant animatronics are. That's something we don't get in the games and it was so cute! #solardidsystem #sszenith #moviereview #fivenightsatfreddys #fnaf #spoilers </title>
@@ -91,5 +67,29 @@
     <content>Replying to @testicularchin #reply this is not a fight you can win. I'm giving you the opportunity to bow out gracefully. You'd be wise to take it. #ssunknown #solardidsystem </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7295885188956163374" rel="alternate"/>
     <published>2023-10-30T22:40:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7295886254581763370</id>
+    <title>Replying to @louisiana_girl52 #reply the gfm is still live, still in the same place, and we still need help if you're at all able! #solardidsystem #ssunknown </title>
+    <updated>2023-10-30T22:45:00+00:00</updated>
+    <content>Replying to @louisiana_girl52 #reply the gfm is still live, still in the same place, and we still need help if you're at all able! #solardidsystem #ssunknown </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7295886254581763370" rel="alternate"/>
+    <published>2023-10-30T22:45:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7295894741034585387</id>
+    <title>Replying to @admgecko #reply domestic cats belong inside only! #solardidsystem #ssunknown </title>
+    <updated>2023-10-30T23:17:57+00:00</updated>
+    <content>Replying to @admgecko #reply domestic cats belong inside only! #solardidsystem #ssunknown </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7295894741034585387" rel="alternate"/>
+    <published>2023-10-30T23:17:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7295900585885175082</id>
+    <title>These are just thoughts with no evidence btw #solardidsystem #ssunknown #taylorswift </title>
+    <updated>2023-10-30T23:40:35+00:00</updated>
+    <content>These are just thoughts with no evidence btw #solardidsystem #ssunknown #taylorswift </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7295900585885175082" rel="alternate"/>
+    <published>2023-10-30T23:40:35+00:00</published>
   </entry>
 </feed>
