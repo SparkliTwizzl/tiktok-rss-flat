@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kit_the_beefcake</id>
   <title>@kit_the_beefcake | TikTok</title>
-  <updated>2023-10-30T05:29:08+00:00</updated>
+  <updated>2023-10-31T13:42:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kit_the_beefcake</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7292515514700533035</id>
-    <title>#onthisday </title>
-    <updated>2023-10-21T20:44:53+00:00</updated>
-    <content>#onthisday </content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7292515514700533035" rel="alternate"/>
-    <published>2023-10-21T20:44:53+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7293110456971988270</id>
     <title>[no title]</title>
@@ -91,5 +83,13 @@
     <content>Im choosing not to read into this 😂</content>
     <link href="https://tiktok.com/@kit_the_beefcake/video/7295619244421565739" rel="alternate"/>
     <published>2023-10-30T05:29:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7296117390658522414</id>
+    <title>My ADHD hates this</title>
+    <updated>2023-10-31T13:42:10+00:00</updated>
+    <content>My ADHD hates this</content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7296117390658522414" rel="alternate"/>
+    <published>2023-10-31T13:42:10+00:00</published>
   </entry>
 </feed>
