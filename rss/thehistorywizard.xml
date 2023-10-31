@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thehistorywizard</id>
   <title>@thehistorywizard | TikTok</title>
-  <updated>2023-10-30T13:44:25+00:00</updated>
+  <updated>2023-10-31T13:32:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thehistorywizard</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thehistorywizard/video/7293509240436591918</id>
-    <title>And now back to our regularly scheduled "literally anything other than this bullshit" #thehistorywizard #historytiktok #edutok #learnontiktok #greenscreen </title>
-    <updated>2023-10-24T13:01:00+00:00</updated>
-    <content>And now back to our regularly scheduled "literally anything other than this bullshit" #thehistorywizard #historytiktok #edutok #learnontiktok #greenscreen </content>
-    <link href="https://tiktok.com/@thehistorywizard/video/7293509240436591918" rel="alternate"/>
-    <published>2023-10-24T13:01:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thehistorywizard/video/7293869787967458602</id>
     <title>If you had actual concerns you could have tried messaging me instead of creating this circus. Enjoy the views I guess 🤷‍♂️ #thehistorywizard #historytiktok #edutok #learnontiktok #wizardcommunism </title>
@@ -91,5 +83,13 @@
     <content>Hourani's work is called "The Colours of the Palestinian Flag" #thehistorywizard #historytiktok #edutok #learnontiktok </content>
     <link href="https://tiktok.com/@thehistorywizard/video/7295746755717516590" rel="alternate"/>
     <published>2023-10-30T13:44:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thehistorywizard/video/7296114899003084078</id>
+    <title>Replying to @d..jonsson This country is 🗑 #thehistorywizard #historytiktok #edutok #learnontiktok </title>
+    <updated>2023-10-31T13:32:42+00:00</updated>
+    <content>Replying to @d..jonsson This country is 🗑 #thehistorywizard #historytiktok #edutok #learnontiktok </content>
+    <link href="https://tiktok.com/@thehistorywizard/video/7296114899003084078" rel="alternate"/>
+    <published>2023-10-31T13:32:42+00:00</published>
   </entry>
 </feed>
