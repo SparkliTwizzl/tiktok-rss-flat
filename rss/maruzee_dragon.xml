@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maruzee_dragon</id>
   <title>@maruzee_dragon | TikTok</title>
-  <updated>2023-10-30T01:33:12+00:00</updated>
+  <updated>2023-10-31T01:22:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maruzee_dragon</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maruzee_dragon/video/7289263841764986117</id>
-    <title>Debating if Skarlet from MK should be my Halloween costume this year! Thoughts?🤔 #mk #transition #halloween #idea #cosplay #spookyseason #martialarts </title>
-    <updated>2023-10-13T02:26:36+00:00</updated>
-    <content>Debating if Skarlet from MK should be my Halloween costume this year! Thoughts?🤔 #mk #transition #halloween #idea #cosplay #spookyseason #martialarts </content>
-    <link href="https://tiktok.com/@maruzee_dragon/video/7289263841764986117" rel="alternate"/>
-    <published>2023-10-13T02:26:36+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maruzee_dragon/video/7289629563817069829</id>
     <title>Halloween + MK = The perfect excuse to bring out my Kitana cosplay!💙 #mortalkombat #cosplay #action #videogames #mk #transition </title>
@@ -91,5 +83,13 @@
     <content>😂😂...Thinking lightsabers next time...Or more kicks?! #martialarts  #hype #fyp </content>
     <link href="https://tiktok.com/@maruzee_dragon/video/7295558536887553285" rel="alternate"/>
     <published>2023-10-30T01:33:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maruzee_dragon/video/7295926959639399686</id>
+    <title>⚠️FW⚠️ Got inspired by Mileena for this Halloween look👍🙃 #mk #mileena #martialarts #kicks #trainedprofessional #action #transition #kitana #videogames </title>
+    <updated>2023-10-31T01:22:53+00:00</updated>
+    <content>⚠️FW⚠️ Got inspired by Mileena for this Halloween look👍🙃 #mk #mileena #martialarts #kicks #trainedprofessional #action #transition #kitana #videogames </content>
+    <link href="https://tiktok.com/@maruzee_dragon/video/7295926959639399686" rel="alternate"/>
+    <published>2023-10-31T01:22:53+00:00</published>
   </entry>
 </feed>
