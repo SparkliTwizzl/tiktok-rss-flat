@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@juliafox038711</id>
   <title>@juliafox038711 | TikTok</title>
-  <updated>2023-10-31T02:40:43+00:00</updated>
+  <updated>2023-10-31T18:02:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juliafox038711</subtitle>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7292953735360220446</id>
-    <title>[no title]</title>
-    <updated>2023-10-23T01:05:22+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7292953735360220446" rel="alternate"/>
-    <published>2023-10-23T01:05:22+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7292974270529965342</id>
-    <title>had to hop on this trend before it was gone</title>
-    <updated>2023-10-23T02:25:03+00:00</updated>
-    <content>had to hop on this trend before it was gone</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7292974270529965342" rel="alternate"/>
-    <published>2023-10-23T02:25:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@juliafox038711/video/7293041008902769951</id>
     <title>i have pants on i swar</title>
@@ -91,5 +75,21 @@
     <content>calm down girly, im just hungry </content>
     <link href="https://tiktok.com/@juliafox038711/video/7295947002230132010" rel="alternate"/>
     <published>2023-10-31T02:40:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7296181768930004267</id>
+    <title>happy halloween !</title>
+    <updated>2023-10-31T17:51:57+00:00</updated>
+    <content>happy halloween !</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7296181768930004267" rel="alternate"/>
+    <published>2023-10-31T17:51:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7296184531424529706</id>
+    <title>idk man, i miss 2020 where rolling my eyes in the back of my head was cool</title>
+    <updated>2023-10-31T18:02:41+00:00</updated>
+    <content>idk man, i miss 2020 where rolling my eyes in the back of my head was cool</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7296184531424529706" rel="alternate"/>
+    <published>2023-10-31T18:02:41+00:00</published>
   </entry>
 </feed>

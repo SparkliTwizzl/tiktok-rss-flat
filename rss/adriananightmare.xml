@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@adriananightmare</id>
   <title>@adriananightmare | TikTok</title>
-  <updated>2023-10-30T17:06:18+00:00</updated>
+  <updated>2023-10-31T19:15:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @adriananightmare</subtitle>
-  <entry>
-    <id>https://tiktok.com/@adriananightmare/video/7286198203710573866</id>
-    <title>#stitch with @Fae </title>
-    <updated>2023-10-04T20:10:37+00:00</updated>
-    <content>#stitch with @Fae </content>
-    <link href="https://tiktok.com/@adriananightmare/video/7286198203710573866" rel="alternate"/>
-    <published>2023-10-04T20:10:37+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@adriananightmare/video/7286515488492997931</id>
-    <title>#güera </title>
-    <updated>2023-10-05T16:42:53+00:00</updated>
-    <content>#güera </content>
-    <link href="https://tiktok.com/@adriananightmare/video/7286515488492997931" rel="alternate"/>
-    <published>2023-10-05T16:42:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@adriananightmare/video/7286527737802607914</id>
-    <title>[no title]</title>
-    <updated>2023-10-05T17:29:37+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@adriananightmare/video/7286527737802607914" rel="alternate"/>
-    <published>2023-10-05T17:29:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@adriananightmare/video/7286979471641464107</id>
     <title>Please, educate yourself. This is only to name a few. </title>
@@ -91,5 +67,29 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@adriananightmare/video/7295798947321285931" rel="alternate"/>
     <published>2023-10-30T17:06:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@adriananightmare/video/7296190920075054378</id>
+    <title>duet me!</title>
+    <updated>2023-10-31T18:27:25+00:00</updated>
+    <content>duet me!</content>
+    <link href="https://tiktok.com/@adriananightmare/video/7296190920075054378" rel="alternate"/>
+    <published>2023-10-31T18:27:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@adriananightmare/video/7296197047521152299</id>
+    <title>[no title]</title>
+    <updated>2023-10-31T18:51:08+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@adriananightmare/video/7296197047521152299" rel="alternate"/>
+    <published>2023-10-31T18:51:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@adriananightmare/video/7296203432342342954</id>
+    <title>[no title]</title>
+    <updated>2023-10-31T19:15:58+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@adriananightmare/video/7296203432342342954" rel="alternate"/>
+    <published>2023-10-31T19:15:58+00:00</published>
   </entry>
 </feed>
