@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-10-31T14:42:33+00:00</updated>
+  <updated>2023-11-01T13:42:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7289583716278488325</id>
-    <title>More from the other night 💙#dancesinshadows #dragperformer #dragperformance </title>
-    <updated>2023-10-13T23:07:53+00:00</updated>
-    <content>More from the other night 💙#dancesinshadows #dragperformer #dragperformance </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7289583716278488325" rel="alternate"/>
-    <published>2023-10-13T23:07:53+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7289854851230534917</id>
     <title>upcoming events:  frightmare in the falls October 27 - 29th at booth 511 weekly drag shows at @ the well on Wednesday  #pirateharleyquinn #harleyquinn #harleyquinncosplay </title>
@@ -91,5 +83,13 @@
     <content>it's been a busy few weeks! I'll be around later tonight for spooky celebrations #halloween #seasonofthewitch </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7296133031897599237" rel="alternate"/>
     <published>2023-10-31T14:42:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7296488601951440133</id>
+    <title>my final look for Hallowren! had a great time hanging out in the live last night. another open sragebdrag show tonight #imaghost #spookyseason #halloween #skeleton </title>
+    <updated>2023-11-01T13:42:20+00:00</updated>
+    <content>my final look for Hallowren! had a great time hanging out in the live last night. another open sragebdrag show tonight #imaghost #spookyseason #halloween #skeleton </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7296488601951440133" rel="alternate"/>
+    <published>2023-11-01T13:42:20+00:00</published>
   </entry>
 </feed>
