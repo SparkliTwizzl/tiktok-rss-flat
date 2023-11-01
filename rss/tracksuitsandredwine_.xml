@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@tracksuitsandredwine_</id>
   <title>@tracksuitsandredwine_ | TikTok</title>
-  <updated>2023-10-29T09:27:19+00:00</updated>
+  <updated>2023-11-01T00:22:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @tracksuitsandredwine_</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tracksuitsandredwine_/video/7278995409631055106</id>
-    <title>femme luffy #onepiece </title>
-    <updated>2023-09-15T10:19:51+00:00</updated>
-    <content>femme luffy #onepiece </content>
-    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7278995409631055106" rel="alternate"/>
-    <published>2023-09-15T10:19:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tracksuitsandredwine_/video/7280518604116872449</id>
     <title>yr ago </title>
@@ -91,5 +83,13 @@
     <content>raven pt 2</content>
     <link href="https://tiktok.com/@tracksuitsandredwine_/video/7295309615539981569" rel="alternate"/>
     <published>2023-10-29T09:27:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tracksuitsandredwine_/video/7296282395882310914</id>
+    <title>YOURE A MESS </title>
+    <updated>2023-11-01T00:22:16+00:00</updated>
+    <content>YOURE A MESS </content>
+    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7296282395882310914" rel="alternate"/>
+    <published>2023-11-01T00:22:16+00:00</published>
   </entry>
 </feed>
