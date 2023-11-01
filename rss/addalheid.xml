@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@addalheid</id>
   <title>@addalheid | TikTok</title>
-  <updated>2023-10-31T12:54:00+00:00</updated>
+  <updated>2023-10-31T23:00:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @addalheid</subtitle>
-  <entry>
-    <id>https://tiktok.com/@addalheid/video/7259296796588002586</id>
-    <title>🥂 </title>
-    <updated>2023-07-24T08:19:19+00:00</updated>
-    <content>🥂 </content>
-    <link href="https://tiktok.com/@addalheid/video/7259296796588002586" rel="alternate"/>
-    <published>2023-07-24T08:19:19+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@addalheid/video/7259840512012700954</id>
-    <title>♾️</title>
-    <updated>2023-07-25T19:29:07+00:00</updated>
-    <content>♾️</content>
-    <link href="https://tiktok.com/@addalheid/video/7259840512012700954" rel="alternate"/>
-    <published>2023-07-25T19:29:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@addalheid/video/7267632554054815009</id>
     <title>[no title]</title>
@@ -91,5 +75,21 @@
     <content>The answer is no 🥺 #fy </content>
     <link href="https://tiktok.com/@addalheid/video/7296105045781794081" rel="alternate"/>
     <published>2023-10-31T12:54:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@addalheid/video/7296252779960470816</id>
+    <title>[no title]</title>
+    <updated>2023-10-31T22:27:16+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@addalheid/video/7296252779960470816" rel="alternate"/>
+    <published>2023-10-31T22:27:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@addalheid/video/7296261226730982688</id>
+    <title>🙅🏻‍♀️</title>
+    <updated>2023-10-31T23:00:06+00:00</updated>
+    <content>🙅🏻‍♀️</content>
+    <link href="https://tiktok.com/@addalheid/video/7296261226730982688" rel="alternate"/>
+    <published>2023-10-31T23:00:06+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-10-30T16:21:54+00:00</updated>
+  <updated>2023-10-31T23:53:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7292469643518692650</id>
-    <title>I would rather be where i am than where i started #gymtok #womenwholift </title>
-    <updated>2023-10-21T17:46:51+00:00</updated>
-    <content>I would rather be where i am than where i started #gymtok #womenwholift </content>
-    <link href="https://tiktok.com/@athena__cos/video/7292469643518692650" rel="alternate"/>
-    <published>2023-10-21T17:46:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7292819150152699182</id>
     <title>We need to cosplay these girls more @katarina #korra #korracosplay #asami #korrasami #avatarcosplay </title>
@@ -91,5 +83,13 @@
     <content>Who wore Revenant better?? 👀  #apexlegends #apex #sponsoredbyEA #revenant #revenantapex #revenantcosplay #closetcosplay #gamer #gaming #ad #revenantreborn </content>
     <link href="https://tiktok.com/@athena__cos/video/7295787494761581870" rel="alternate"/>
     <published>2023-10-30T16:21:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7296275073332301098</id>
+    <title>I have no regrets #gymtok #wonderwoman #cosplay #halloween </title>
+    <updated>2023-10-31T23:53:54+00:00</updated>
+    <content>I have no regrets #gymtok #wonderwoman #cosplay #halloween </content>
+    <link href="https://tiktok.com/@athena__cos/video/7296275073332301098" rel="alternate"/>
+    <published>2023-10-31T23:53:54+00:00</published>
   </entry>
 </feed>
