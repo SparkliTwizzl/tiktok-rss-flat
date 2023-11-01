@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@juliafox038711</id>
   <title>@juliafox038711 | TikTok</title>
-  <updated>2023-10-31T18:02:41+00:00</updated>
+  <updated>2023-11-01T01:26:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,38 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juliafox038711</subtitle>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7293041008902769951</id>
-    <title>i have pants on i swar</title>
-    <updated>2023-10-23T06:44:36+00:00</updated>
-    <content>i have pants on i swar</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7293041008902769951" rel="alternate"/>
-    <published>2023-10-23T06:44:36+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7293236642100317471</id>
-    <title>[no title]</title>
-    <updated>2023-10-23T19:23:14+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7293236642100317471" rel="alternate"/>
-    <published>2023-10-23T19:23:14+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7293256520270138654</id>
-    <title>friendly reminder, 2004 babies are turning 20 next year</title>
-    <updated>2023-10-23T20:40:23+00:00</updated>
-    <content>friendly reminder, 2004 babies are turning 20 next year</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7293256520270138654" rel="alternate"/>
-    <published>2023-10-23T20:40:23+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7293301111509880094</id>
-    <title>im only a fool for you</title>
-    <updated>2023-10-23T23:33:24+00:00</updated>
-    <content>im only a fool for you</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7293301111509880094" rel="alternate"/>
-    <published>2023-10-23T23:33:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@juliafox038711/video/7293329994682502430</id>
     <title>am i too late to this trend ?</title>
@@ -91,5 +59,37 @@
     <content>idk man, i miss 2020 where rolling my eyes in the back of my head was cool</content>
     <link href="https://tiktok.com/@juliafox038711/video/7296184531424529706" rel="alternate"/>
     <published>2023-10-31T18:02:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7296262742992784686</id>
+    <title>every year i do skull makeup, and this one of my favs</title>
+    <updated>2023-10-31T23:06:02+00:00</updated>
+    <content>every year i do skull makeup, and this one of my favs</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7296262742992784686" rel="alternate"/>
+    <published>2023-10-31T23:06:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7296266395094977835</id>
+    <title>this filter is actually insane</title>
+    <updated>2023-10-31T23:20:14+00:00</updated>
+    <content>this filter is actually insane</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7296266395094977835" rel="alternate"/>
+    <published>2023-10-31T23:20:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7296270654012149038</id>
+    <title>my phone do be on 1 rn</title>
+    <updated>2023-10-31T23:36:44+00:00</updated>
+    <content>my phone do be on 1 rn</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7296270654012149038" rel="alternate"/>
+    <published>2023-10-31T23:36:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7296298895687093550</id>
+    <title>take my makeup off with me! #happyhalloween #makeup #foryou </title>
+    <updated>2023-11-01T01:26:18+00:00</updated>
+    <content>take my makeup off with me! #happyhalloween #makeup #foryou </content>
+    <link href="https://tiktok.com/@juliafox038711/video/7296298895687093550" rel="alternate"/>
+    <published>2023-11-01T01:26:18+00:00</published>
   </entry>
 </feed>
