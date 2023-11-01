@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-10-31T20:18:37+00:00</updated>
+  <updated>2023-11-01T13:33:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7292555570031103238</id>
-    <title>We never want to let anyone down but we have to this time unfortunately.  Full statement:  Hi creeps,  It is with the heaviest heart that we have to postpone the remainder of this weeks shows.  On last nights show, I tore my meniscus in my knee doing one </title>
-    <updated>2023-10-21T23:20:11+00:00</updated>
-    <content>We never want to let anyone down but we have to this time unfortunately.  Full statement:  Hi creeps,  It is with the heaviest heart that we have to postpone the remainder of this weeks shows.  On last nights show, I tore my meniscus in my knee doing one too many bum drops - as one does for the people! I’ve been ordered to rest (aka ADHD torture) and not perform for the next few weeks while we wait to hear it if I need surgery.  We will announce the new make up dates as soon as possible.  I’m so so sorry, please send Jer all your condolences while he has to deal with me.  Tolerate you all ! Darcy and Jer  We will be back new york, washington, philly, albany, I promise. Xo </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7292555570031103238" rel="alternate"/>
-    <published>2023-10-21T23:20:11+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7292819083840474373</id>
     <title>Cupcakes are good but not as good as you all ❤️</title>
@@ -91,5 +83,13 @@
     <content>Happy adhd awareness month. As much S we joke about it on tbis oage, it reallt amazes me watching darcy take on something he knows nothing about and then all of a sudden hes an expert at it. #adhd #hyperfixation #celebratesuccess #adhdawarenessmonth #neurodivergent </content>
     <link href="https://tiktok.com/@thedarcymichael/video/7296219631159692549" rel="alternate"/>
     <published>2023-10-31T20:18:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7296486291053579526</id>
+    <title>His face at the end! #popquiz #manchild #comedy #adhd #marriedlife #couple #husbands #darcyandjer </title>
+    <updated>2023-11-01T13:33:22+00:00</updated>
+    <content>His face at the end! #popquiz #manchild #comedy #adhd #marriedlife #couple #husbands #darcyandjer </content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7296486291053579526" rel="alternate"/>
+    <published>2023-11-01T13:33:22+00:00</published>
   </entry>
 </feed>
