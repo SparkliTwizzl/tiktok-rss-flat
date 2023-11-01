@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-11-01T18:25:06+00:00</updated>
+  <updated>2023-11-01T22:02:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7292049190144986374</id>
-    <title>My 1st number from last weeks open stage. ♥️ #dancesinshadows #dragperformer #dragperformance #dragqueen </title>
-    <updated>2023-10-20T14:35:09+00:00</updated>
-    <content>My 1st number from last weeks open stage. ♥️ #dancesinshadows #dragperformer #dragperformance #dragqueen </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7292049190144986374" rel="alternate"/>
-    <published>2023-10-20T14:35:09+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7292455813543726341</id>
     <title>new flavors of ice-cream wigs are in the works! I finally had the time to sit down and make 3 more wigs. I plan to get some pics and post to my shop as soon as I can. this one is for this Wednesday's stage performance #icecream #icecreamwig #foamwig </title>
@@ -91,5 +83,13 @@
     <content>#duet with @The.Lupina.Kronicalz #spookyseason finally got around tonthisnduet 🙃❤️🎃 #skeleton #spookyscaryskeletons </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7296561466042289413" rel="alternate"/>
     <published>2023-11-01T18:25:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7296617618289659142</id>
+    <title>one of my favorite songs. just wish people would learn from it 💔 #zombie #skeleton #halloween </title>
+    <updated>2023-11-01T22:02:59+00:00</updated>
+    <content>one of my favorite songs. just wish people would learn from it 💔 #zombie #skeleton #halloween </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7296617618289659142" rel="alternate"/>
+    <published>2023-11-01T22:02:59+00:00</published>
   </entry>
 </feed>

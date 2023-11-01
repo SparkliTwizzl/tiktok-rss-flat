@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@nopanicbutton</id>
   <title>@nopanicbutton | TikTok</title>
-  <updated>2023-10-31T00:20:59+00:00</updated>
+  <updated>2023-11-01T20:16:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @nopanicbutton</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nopanicbutton/video/7288124669306211626</id>
-    <title>The system is broken. </title>
-    <updated>2023-10-10T00:46:13+00:00</updated>
-    <content>The system is broken. </content>
-    <link href="https://tiktok.com/@nopanicbutton/video/7288124669306211626" rel="alternate"/>
-    <published>2023-10-10T00:46:13+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nopanicbutton/video/7288798104885775662</id>
     <title>John finally let one pass by! </title>
@@ -91,5 +83,13 @@
     <content>I actually had to have this conversation with someone. #wearedoomed #nohopeforhumanity #dontbreed </content>
     <link href="https://tiktok.com/@nopanicbutton/video/7295910987012771118" rel="alternate"/>
     <published>2023-10-31T00:20:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nopanicbutton/video/7296590007190457646</id>
+    <title>Google is not always your friend.... </title>
+    <updated>2023-11-01T20:16:02+00:00</updated>
+    <content>Google is not always your friend.... </content>
+    <link href="https://tiktok.com/@nopanicbutton/video/7296590007190457646" rel="alternate"/>
+    <published>2023-11-01T20:16:02+00:00</published>
   </entry>
 </feed>
