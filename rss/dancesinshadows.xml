@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-11-01T13:42:20+00:00</updated>
+  <updated>2023-11-01T18:25:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7289854851230534917</id>
-    <title>upcoming events:  frightmare in the falls October 27 - 29th at booth 511 weekly drag shows at @ the well on Wednesday  #pirateharleyquinn #harleyquinn #harleyquinncosplay </title>
-    <updated>2023-10-14T16:39:59+00:00</updated>
-    <content>upcoming events:  frightmare in the falls October 27 - 29th at booth 511 weekly drag shows at @ the well on Wednesday  #pirateharleyquinn #harleyquinn #harleyquinncosplay </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7289854851230534917" rel="alternate"/>
-    <published>2023-10-14T16:39:59+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7292049190144986374</id>
     <title>My 1st number from last weeks open stage. ♥️ #dancesinshadows #dragperformer #dragperformance #dragqueen </title>
@@ -91,5 +83,13 @@
     <content>my final look for Hallowren! had a great time hanging out in the live last night. another open sragebdrag show tonight #imaghost #spookyseason #halloween #skeleton </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7296488601951440133" rel="alternate"/>
     <published>2023-11-01T13:42:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7296561466042289413</id>
+    <title>#duet with @The.Lupina.Kronicalz #spookyseason finally got around tonthisnduet 🙃❤️🎃 #skeleton #spookyscaryskeletons </title>
+    <updated>2023-11-01T18:25:06+00:00</updated>
+    <content>#duet with @The.Lupina.Kronicalz #spookyseason finally got around tonthisnduet 🙃❤️🎃 #skeleton #spookyscaryskeletons </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7296561466042289413" rel="alternate"/>
+    <published>2023-11-01T18:25:06+00:00</published>
   </entry>
 </feed>
