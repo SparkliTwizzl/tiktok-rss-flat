@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ohgobliin</id>
   <title>@ohgobliin | TikTok</title>
-  <updated>2023-11-01T02:40:30.722273+00:00</updated>
+  <updated>2023-10-25T16:07:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,4 +12,84 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ohgobliin</subtitle>
+  <entry>
+    <id>https://tiktok.com/@ohgobliin/video/7269843085431934241</id>
+    <title>[no title]</title>
+    <updated>2023-08-21T18:24:11+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@ohgobliin/video/7269843085431934241" rel="alternate"/>
+    <published>2023-08-21T18:24:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ohgobliin/video/7275711914565569824</id>
+    <title>[no title]</title>
+    <updated>2023-09-06T13:58:13+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@ohgobliin/video/7275711914565569824" rel="alternate"/>
+    <published>2023-09-06T13:58:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ohgobliin/video/7276823958941371681</id>
+    <title>SHINYYYY</title>
+    <updated>2023-09-09T13:53:32+00:00</updated>
+    <content>SHINYYYY</content>
+    <link href="https://tiktok.com/@ohgobliin/video/7276823958941371681" rel="alternate"/>
+    <published>2023-09-09T13:53:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ohgobliin/video/7286599383200632096</id>
+    <title>soz wet hair</title>
+    <updated>2023-10-05T22:07:17+00:00</updated>
+    <content>soz wet hair</content>
+    <link href="https://tiktok.com/@ohgobliin/video/7286599383200632096" rel="alternate"/>
+    <published>2023-10-05T22:07:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ohgobliin/video/7289796915020041505</id>
+    <title>well</title>
+    <updated>2023-10-14T12:55:14+00:00</updated>
+    <content>well</content>
+    <link href="https://tiktok.com/@ohgobliin/video/7289796915020041505" rel="alternate"/>
+    <published>2023-10-14T12:55:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ohgobliin/video/7289800165261643040</id>
+    <title>[no title]</title>
+    <updated>2023-10-14T13:07:49+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@ohgobliin/video/7289800165261643040" rel="alternate"/>
+    <published>2023-10-14T13:07:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ohgobliin/video/7289879604976799009</id>
+    <title>[no title]</title>
+    <updated>2023-10-14T18:16:05+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@ohgobliin/video/7289879604976799009" rel="alternate"/>
+    <published>2023-10-14T18:16:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ohgobliin/video/7290629604518251808</id>
+    <title>ladies</title>
+    <updated>2023-10-16T18:46:29+00:00</updated>
+    <content>ladies</content>
+    <link href="https://tiktok.com/@ohgobliin/video/7290629604518251808" rel="alternate"/>
+    <published>2023-10-16T18:46:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ohgobliin/video/7290709520693677345</id>
+    <title>take my phone away from me</title>
+    <updated>2023-10-16T23:57:03+00:00</updated>
+    <content>take my phone away from me</content>
+    <link href="https://tiktok.com/@ohgobliin/video/7290709520693677345" rel="alternate"/>
+    <published>2023-10-16T23:57:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ohgobliin/video/7293928449389890848</id>
+    <title>[no title]</title>
+    <updated>2023-10-25T16:07:40+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@ohgobliin/video/7293928449389890848" rel="alternate"/>
+    <published>2023-10-25T16:07:40+00:00</published>
+  </entry>
 </feed>
