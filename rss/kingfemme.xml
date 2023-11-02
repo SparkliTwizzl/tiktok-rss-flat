@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kingfemme</id>
   <title>@kingfemme | TikTok</title>
-  <updated>2023-10-18T18:17:45+00:00</updated>
+  <updated>2023-10-21T21:00:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kingfemme</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kingfemme/video/7282527328532450591</id>
-    <title>Replying to @🇱🇷🐘 #trans #hrt #BIPOC #fyp #lgbt #transmasc #blackmen #testosterone #ftm #nonbinary </title>
-    <updated>2023-09-24T22:45:32+00:00</updated>
-    <content>Replying to @🇱🇷🐘 #trans #hrt #BIPOC #fyp #lgbt #transmasc #blackmen #testosterone #ftm #nonbinary </content>
-    <link href="https://tiktok.com/@kingfemme/video/7282527328532450591" rel="alternate"/>
-    <published>2023-09-24T22:45:32+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kingfemme/video/7282912143886798110</id>
     <title>Replying to @Daniel M4842 #trans #hrt #fyp #transmasc #hrt #transman #nonbinary #mtf #ftx #doctor</title>
@@ -91,5 +83,13 @@
     <content>#fyp #drake #yeat #transmasc #femmeboy #nonbinary #ftm #trans #comedy </content>
     <link href="https://tiktok.com/@kingfemme/video/7291364352748244267" rel="alternate"/>
     <published>2023-10-18T18:17:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kingfemme/video/7292519514418285870</id>
+    <title>It just be like that #ITGIRL things #fyp #transmasc #trans #nonbinary #ftm #lgbt #comedy </title>
+    <updated>2023-10-21T21:00:27+00:00</updated>
+    <content>It just be like that #ITGIRL things #fyp #transmasc #trans #nonbinary #ftm #lgbt #comedy </content>
+    <link href="https://tiktok.com/@kingfemme/video/7292519514418285870" rel="alternate"/>
+    <published>2023-10-21T21:00:27+00:00</published>
   </entry>
 </feed>
