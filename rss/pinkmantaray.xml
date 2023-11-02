@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pinkmantaray</id>
   <title>@pinkmantaray | TikTok</title>
-  <updated>2023-10-26T02:37:11+00:00</updated>
+  <updated>2023-11-02T10:25:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @pinkmantaray</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pinkmantaray/video/7290664929512721706</id>
-    <title>TOMORROW IS LAUNCH DAY which means today is the last day to preorder and receive a free gift! HSTBook.com 💕🙏🏼 #transgender #transauthor #heshethey #gender </title>
-    <updated>2023-10-16T21:03:44+00:00</updated>
-    <content>TOMORROW IS LAUNCH DAY which means today is the last day to preorder and receive a free gift! HSTBook.com 💕🙏🏼 #transgender #transauthor #heshethey #gender </content>
-    <link href="https://tiktok.com/@pinkmantaray/video/7290664929512721706" rel="alternate"/>
-    <published>2023-10-16T21:03:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pinkmantaray/video/7290728940937760042</id>
     <title>A little running update! #running #bostonhalfmarathon #dryneedling #physicaltherapy #transathlete </title>
@@ -91,5 +83,13 @@
     <content>We made @USA TODAY's BEST-SELLING BOOKLIST!!! Get your copy at hstbook.com 💕🏳️‍⚧️ #transgender #trans #heshethey #booktok #bestseller #author </content>
     <link href="https://tiktok.com/@pinkmantaray/video/7294090631557762346" rel="alternate"/>
     <published>2023-10-26T02:37:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pinkmantaray/video/7296808816534883614</id>
+    <title>Running chronicles - two weeks out from the boston half marathon! @Cal Calamia thanks for coaching me through this!! #transathlete #transgender #running ##bostonhalfmarathon##halfmarathontraining</title>
+    <updated>2023-11-02T10:25:02+00:00</updated>
+    <content>Running chronicles - two weeks out from the boston half marathon! @Cal Calamia thanks for coaching me through this!! #transathlete #transgender #running ##bostonhalfmarathon##halfmarathontraining</content>
+    <link href="https://tiktok.com/@pinkmantaray/video/7296808816534883614" rel="alternate"/>
+    <published>2023-11-02T10:25:02+00:00</published>
   </entry>
 </feed>
