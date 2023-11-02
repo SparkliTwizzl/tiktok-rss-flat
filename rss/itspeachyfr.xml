@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@itspeachyfr</id>
   <title>@itspeachyfr | TikTok</title>
-  <updated>2023-10-31T18:25:03+00:00</updated>
+  <updated>2023-11-02T03:22:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,38 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @itspeachyfr</subtitle>
-  <entry>
-    <id>https://tiktok.com/@itspeachyfr/video/7268740714102607147</id>
-    <title>Bezzos is #1 </title>
-    <updated>2023-08-18T19:06:29+00:00</updated>
-    <content>Bezzos is #1 </content>
-    <link href="https://tiktok.com/@itspeachyfr/video/7268740714102607147" rel="alternate"/>
-    <published>2023-08-18T19:06:29+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@itspeachyfr/video/7268743820886543658</id>
-    <title>thats what she said </title>
-    <updated>2023-08-18T19:18:33+00:00</updated>
-    <content>thats what she said </content>
-    <link href="https://tiktok.com/@itspeachyfr/video/7268743820886543658" rel="alternate"/>
-    <published>2023-08-18T19:18:33+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@itspeachyfr/video/7285893810331176238</id>
-    <title>oh a kick with this song </title>
-    <updated>2023-10-04T00:29:22+00:00</updated>
-    <content>oh a kick with this song </content>
-    <link href="https://tiktok.com/@itspeachyfr/video/7285893810331176238" rel="alternate"/>
-    <published>2023-10-04T00:29:22+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@itspeachyfr/video/7285894443813637419</id>
-    <title>well go figure </title>
-    <updated>2023-10-04T00:31:44+00:00</updated>
-    <content>well go figure </content>
-    <link href="https://tiktok.com/@itspeachyfr/video/7285894443813637419" rel="alternate"/>
-    <published>2023-10-04T00:31:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@itspeachyfr/video/7294344026973605162</id>
     <title>[no title]</title>
@@ -91,5 +59,37 @@
     <content>cant put my finger on it </content>
     <link href="https://tiktok.com/@itspeachyfr/video/7296190319194836270" rel="alternate"/>
     <published>2023-10-31T18:25:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@itspeachyfr/video/7296694705008610606</id>
+    <title>[no title]</title>
+    <updated>2023-11-02T03:02:13+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@itspeachyfr/video/7296694705008610606" rel="alternate"/>
+    <published>2023-11-02T03:02:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@itspeachyfr/video/7296697442932722986</id>
+    <title>WHAT </title>
+    <updated>2023-11-02T03:12:51+00:00</updated>
+    <content>WHAT </content>
+    <link href="https://tiktok.com/@itspeachyfr/video/7296697442932722986" rel="alternate"/>
+    <published>2023-11-02T03:12:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@itspeachyfr/video/7296698186071018794</id>
+    <title>[no title]</title>
+    <updated>2023-11-02T03:15:42+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@itspeachyfr/video/7296698186071018794" rel="alternate"/>
+    <published>2023-11-02T03:15:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@itspeachyfr/video/7296699829302922539</id>
+    <title>LAST ONE I SWear </title>
+    <updated>2023-11-02T03:22:05+00:00</updated>
+    <content>LAST ONE I SWear </content>
+    <link href="https://tiktok.com/@itspeachyfr/video/7296699829302922539" rel="alternate"/>
+    <published>2023-11-02T03:22:05+00:00</published>
   </entry>
 </feed>

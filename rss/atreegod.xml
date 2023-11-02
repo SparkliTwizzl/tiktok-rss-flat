@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@atreegod</id>
   <title>@atreegod | TikTok</title>
-  <updated>2023-11-01T01:28:45+00:00</updated>
+  <updated>2023-11-02T02:01:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @atreegod</subtitle>
-  <entry>
-    <id>https://tiktok.com/@atreegod/video/7294074407884967211</id>
-    <title>I LOVE WINTERRRR #wlw #lgbtq #nyc </title>
-    <updated>2023-10-26T01:34:10+00:00</updated>
-    <content>I LOVE WINTERRRR #wlw #lgbtq #nyc </content>
-    <link href="https://tiktok.com/@atreegod/video/7294074407884967211" rel="alternate"/>
-    <published>2023-10-26T01:34:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@atreegod/video/7294725672684113195</id>
     <title>#wlw #nyc </title>
@@ -91,5 +83,13 @@
     <content>Enderman and pirate #wlw #halloween </content>
     <link href="https://tiktok.com/@atreegod/video/7296299529723186478" rel="alternate"/>
     <published>2023-11-01T01:28:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7296679050171518250</id>
+    <title>Alright alight #wlw #lgbtq #uh @E </title>
+    <updated>2023-11-02T02:01:27+00:00</updated>
+    <content>Alright alight #wlw #lgbtq #uh @E </content>
+    <link href="https://tiktok.com/@atreegod/video/7296679050171518250" rel="alternate"/>
+    <published>2023-11-02T02:01:27+00:00</published>
   </entry>
 </feed>
