@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@juliafox038711</id>
   <title>@juliafox038711 | TikTok</title>
-  <updated>2023-11-01T01:26:18+00:00</updated>
+  <updated>2023-11-02T02:07:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juliafox038711</subtitle>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7293329994682502430</id>
-    <title>am i too late to this trend ?</title>
-    <updated>2023-10-24T01:25:26+00:00</updated>
-    <content>am i too late to this trend ?</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7293329994682502430" rel="alternate"/>
-    <published>2023-10-24T01:25:26+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7293334763840998687</id>
-    <title>actually anything with his hands </title>
-    <updated>2023-10-24T01:43:55+00:00</updated>
-    <content>actually anything with his hands </content>
-    <link href="https://tiktok.com/@juliafox038711/video/7293334763840998687" rel="alternate"/>
-    <published>2023-10-24T01:43:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7293414292018318623</id>
-    <title>nova wanted to know what was going on #switch </title>
-    <updated>2023-10-24T06:52:38+00:00</updated>
-    <content>nova wanted to know what was going on #switch </content>
-    <link href="https://tiktok.com/@juliafox038711/video/7293414292018318623" rel="alternate"/>
-    <published>2023-10-24T06:52:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@juliafox038711/video/7295947002230132010</id>
     <title>calm down girly, im just hungry </title>
@@ -91,5 +67,29 @@
     <content>take my makeup off with me! #happyhalloween #makeup #foryou </content>
     <link href="https://tiktok.com/@juliafox038711/video/7296298895687093550" rel="alternate"/>
     <published>2023-11-01T01:26:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7296665858514996526</id>
+    <title>self control = 0</title>
+    <updated>2023-11-02T01:10:14+00:00</updated>
+    <content>self control = 0</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7296665858514996526" rel="alternate"/>
+    <published>2023-11-02T01:10:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7296675898063965482</id>
+    <title>[no title]</title>
+    <updated>2023-11-02T01:49:14+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7296675898063965482" rel="alternate"/>
+    <published>2023-11-02T01:49:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7296680711111626027</id>
+    <title>srry bby, doin my best</title>
+    <updated>2023-11-02T02:07:53+00:00</updated>
+    <content>srry bby, doin my best</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7296680711111626027" rel="alternate"/>
+    <published>2023-11-02T02:07:53+00:00</published>
   </entry>
 </feed>

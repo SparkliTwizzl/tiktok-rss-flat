@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dannyphantom.exe</id>
   <title>@dannyphantom.exe | TikTok</title>
-  <updated>2023-11-01T02:16:26+00:00</updated>
+  <updated>2023-11-02T02:16:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dannyphantom.exe</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7293714745859771690</id>
-    <title>this joke come from a genuine interaction my good friend had w someone. pls treat other people witht he same respect you want to be treated with. resepct ur trans homies 🏳️‍⚧️</title>
-    <updated>2023-10-25T02:18:29+00:00</updated>
-    <content>this joke come from a genuine interaction my good friend had w someone. pls treat other people witht he same respect you want to be treated with. resepct ur trans homies 🏳️‍⚧️</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7293714745859771690" rel="alternate"/>
-    <published>2023-10-25T02:18:29+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7294085568462392622</id>
-    <title>ONI-WAN WHY WOULD U DO THAT</title>
-    <updated>2023-10-26T02:17:28+00:00</updated>
-    <content>ONI-WAN WHY WOULD U DO THAT</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7294085568462392622" rel="alternate"/>
-    <published>2023-10-26T02:17:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dannyphantom.exe/video/7294456398514097454</id>
     <title>Jax is cool but Cain is my favorite i love my silly goofy guy :) go wath TADC its rlly good#greenscreen </title>
@@ -91,5 +75,21 @@
     <content>what dis u dress up as#greenscreen </content>
     <link href="https://tiktok.com/@dannyphantom.exe/video/7296311815770869035" rel="alternate"/>
     <published>2023-11-01T02:16:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7296682695478889770</id>
+    <title>tag someone you would send a risky text too</title>
+    <updated>2023-11-02T02:15:39+00:00</updated>
+    <content>tag someone you would send a risky text too</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7296682695478889770" rel="alternate"/>
+    <published>2023-11-02T02:15:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7296682819332394282</id>
+    <title>UKI has never used her kennel &gt;:(</title>
+    <updated>2023-11-02T02:16:03+00:00</updated>
+    <content>UKI has never used her kennel &gt;:(</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7296682819332394282" rel="alternate"/>
+    <published>2023-11-02T02:16:03+00:00</published>
   </entry>
 </feed>
