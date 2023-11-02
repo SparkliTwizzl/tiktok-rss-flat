@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@itspeachyfr</id>
   <title>@itspeachyfr | TikTok</title>
-  <updated>2023-11-02T03:22:05+00:00</updated>
+  <updated>2023-11-02T16:04:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @itspeachyfr</subtitle>
-  <entry>
-    <id>https://tiktok.com/@itspeachyfr/video/7285894443813637419</id>
-    <title>well go figure </title>
-    <updated>2023-10-04T00:31:44+00:00</updated>
-    <content>well go figure </content>
-    <link href="https://tiktok.com/@itspeachyfr/video/7285894443813637419" rel="alternate"/>
-    <published>2023-10-04T00:31:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@itspeachyfr/video/7294344026973605162</id>
     <title>[no title]</title>
@@ -91,5 +83,13 @@
     <content>LAST ONE I SWear </content>
     <link href="https://tiktok.com/@itspeachyfr/video/7296699829302922539" rel="alternate"/>
     <published>2023-11-02T03:22:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@itspeachyfr/video/7296896175272135979</id>
+    <title>[no title]</title>
+    <updated>2023-11-02T16:04:08+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@itspeachyfr/video/7296896175272135979" rel="alternate"/>
+    <published>2023-11-02T16:04:08+00:00</published>
   </entry>
 </feed>
