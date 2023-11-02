@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@liil.dork.alex</id>
   <title>@liil.dork.alex | TikTok</title>
-  <updated>2023-11-01T21:54:58+00:00</updated>
+  <updated>2023-11-02T13:46:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @liil.dork.alex</subtitle>
-  <entry>
-    <id>https://tiktok.com/@liil.dork.alex/video/7291194318986202414</id>
-    <title>@🪬Tito🪬  how could you 😭 what’s he got that i dont got </title>
-    <updated>2023-10-18T07:18:01+00:00</updated>
-    <content>@🪬Tito🪬  how could you 😭 what’s he got that i dont got </content>
-    <link href="https://tiktok.com/@liil.dork.alex/video/7291194318986202414" rel="alternate"/>
-    <published>2023-10-18T07:18:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@liil.dork.alex/video/7291873118631709998</id>
     <title>*special effects* 2 things 😏</title>
@@ -91,5 +83,13 @@
     <content>😮‍💨</content>
     <link href="https://tiktok.com/@liil.dork.alex/video/7296615524744563998" rel="alternate"/>
     <published>2023-11-01T21:54:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@liil.dork.alex/video/7296860797995797791</id>
+    <title>Will have you twinkling your toes all day </title>
+    <updated>2023-11-02T13:46:45+00:00</updated>
+    <content>Will have you twinkling your toes all day </content>
+    <link href="https://tiktok.com/@liil.dork.alex/video/7296860797995797791" rel="alternate"/>
+    <published>2023-11-02T13:46:45+00:00</published>
   </entry>
 </feed>
