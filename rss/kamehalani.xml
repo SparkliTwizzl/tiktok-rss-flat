@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kamehalani</id>
   <title>@kamehalani | TikTok</title>
-  <updated>2023-10-29T22:56:56+00:00</updated>
+  <updated>2023-11-03T17:56:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kamehalani</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kamehalani/video/7290730265431887134</id>
-    <title>Replying to @▪︎ please watch this whole video #jewishtiktok #jewtok #jewish #palestine </title>
-    <updated>2023-10-17T01:17:09+00:00</updated>
-    <content>Replying to @▪︎ please watch this whole video #jewishtiktok #jewtok #jewish #palestine </content>
-    <link href="https://tiktok.com/@kamehalani/video/7290730265431887134" rel="alternate"/>
-    <published>2023-10-17T01:17:09+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kamehalani/video/7293326299639188766</id>
     <title>My baby #wlw #lgbt </title>
@@ -91,5 +83,13 @@
     <content>Omg if you know me in real life -no you dont! </content>
     <link href="https://tiktok.com/@kamehalani/video/7295518236169293087" rel="alternate"/>
     <published>2023-10-29T22:56:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kamehalani/video/7297296166935432478</id>
+    <title>Replying to @user636451044652 #greenscreen also this comment is literally incoherent if you want to be hateful make sure its comprehesible #kanaka #hawaiiantiktok #jewishtiktok </title>
+    <updated>2023-11-03T17:56:22+00:00</updated>
+    <content>Replying to @user636451044652 #greenscreen also this comment is literally incoherent if you want to be hateful make sure its comprehesible #kanaka #hawaiiantiktok #jewishtiktok </content>
+    <link href="https://tiktok.com/@kamehalani/video/7297296166935432478" rel="alternate"/>
+    <published>2023-11-03T17:56:22+00:00</published>
   </entry>
 </feed>
