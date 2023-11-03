@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@liil.dork.alex</id>
   <title>@liil.dork.alex | TikTok</title>
-  <updated>2023-11-02T13:46:45+00:00</updated>
+  <updated>2023-11-03T17:09:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @liil.dork.alex</subtitle>
-  <entry>
-    <id>https://tiktok.com/@liil.dork.alex/video/7291873118631709998</id>
-    <title>*special effects* 2 things 😏</title>
-    <updated>2023-10-20T03:12:03+00:00</updated>
-    <content>*special effects* 2 things 😏</content>
-    <link href="https://tiktok.com/@liil.dork.alex/video/7291873118631709998" rel="alternate"/>
-    <published>2023-10-20T03:12:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@liil.dork.alex/video/7293722145459277098</id>
     <title>The buns takin me back man 😮‍💨 </title>
@@ -91,5 +83,13 @@
     <content>Will have you twinkling your toes all day </content>
     <link href="https://tiktok.com/@liil.dork.alex/video/7296860797995797791" rel="alternate"/>
     <published>2023-11-02T13:46:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@liil.dork.alex/video/7297284013209832735</id>
+    <title>Painting stream 👀</title>
+    <updated>2023-11-03T17:09:18+00:00</updated>
+    <content>Painting stream 👀</content>
+    <link href="https://tiktok.com/@liil.dork.alex/video/7297284013209832735" rel="alternate"/>
+    <published>2023-11-03T17:09:18+00:00</published>
   </entry>
 </feed>
