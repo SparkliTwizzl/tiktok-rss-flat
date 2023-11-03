@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@hyndsyghts</id>
   <title>@hyndsyghts | TikTok</title>
-  <updated>2023-11-01T02:26:44+00:00</updated>
+  <updated>2023-11-03T00:30:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @hyndsyghts</subtitle>
-  <entry>
-    <id>https://tiktok.com/@hyndsyghts/video/7294477269966327082</id>
-    <title>comment if you want a tutorial on how to make these custom fangs #halloween #vampire #lgbtq </title>
-    <updated>2023-10-27T03:37:26+00:00</updated>
-    <content>comment if you want a tutorial on how to make these custom fangs #halloween #vampire #lgbtq </content>
-    <link href="https://tiktok.com/@hyndsyghts/video/7294477269966327082" rel="alternate"/>
-    <published>2023-10-27T03:37:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@hyndsyghts/video/7294802816764267818</id>
     <title>#halloween #vampire #lgbtq </title>
@@ -91,5 +83,13 @@
     <content>#americanmary #soskasisters #halloween #lgbtq #horror </content>
     <link href="https://tiktok.com/@hyndsyghts/video/7296314467472723243" rel="alternate"/>
     <published>2023-11-01T02:26:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@hyndsyghts/video/7297026639043644715</id>
+    <title>pls give opinions #hair #lgbtq #wlw </title>
+    <updated>2023-11-03T00:30:19+00:00</updated>
+    <content>pls give opinions #hair #lgbtq #wlw </content>
+    <link href="https://tiktok.com/@hyndsyghts/video/7297026639043644715" rel="alternate"/>
+    <published>2023-11-03T00:30:19+00:00</published>
   </entry>
 </feed>
