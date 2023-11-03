@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@hyndsyghts</id>
   <title>@hyndsyghts | TikTok</title>
-  <updated>2023-11-03T00:30:19+00:00</updated>
+  <updated>2023-11-03T18:00:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @hyndsyghts</subtitle>
-  <entry>
-    <id>https://tiktok.com/@hyndsyghts/video/7294802816764267818</id>
-    <title>#halloween #vampire #lgbtq </title>
-    <updated>2023-10-28T00:40:41+00:00</updated>
-    <content>#halloween #vampire #lgbtq </content>
-    <link href="https://tiktok.com/@hyndsyghts/video/7294802816764267818" rel="alternate"/>
-    <published>2023-10-28T00:40:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@hyndsyghts/video/7295077331398446379</id>
     <title>fr tho #halloween #diy #queenofthedamned #lgbtq </title>
@@ -91,5 +83,13 @@
     <content>pls give opinions #hair #lgbtq #wlw </content>
     <link href="https://tiktok.com/@hyndsyghts/video/7297026639043644715" rel="alternate"/>
     <published>2023-11-03T00:30:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@hyndsyghts/video/7297297183383031082</id>
+    <title>I'm just the pilot in a shitty human body in a joke of a world and my model is missing standard features like autopilot </title>
+    <updated>2023-11-03T18:00:22+00:00</updated>
+    <content>I'm just the pilot in a shitty human body in a joke of a world and my model is missing standard features like autopilot </content>
+    <link href="https://tiktok.com/@hyndsyghts/video/7297297183383031082" rel="alternate"/>
+    <published>2023-11-03T18:00:22+00:00</published>
   </entry>
 </feed>
