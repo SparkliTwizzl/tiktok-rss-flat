@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-11-01T21:15:52+00:00</updated>
+  <updated>2023-11-03T17:29:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7295852118039170350</id>
-    <title>#duet with @Dheanasaur #fyp something WAS missing! 🤣🤣🤣 #solardidsystem #ssduets #fnaf #fivenightsatfreddys </title>
-    <updated>2023-10-30T20:32:36+00:00</updated>
-    <content>#duet with @Dheanasaur #fyp something WAS missing! 🤣🤣🤣 #solardidsystem #ssduets #fnaf #fivenightsatfreddys </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7295852118039170350" rel="alternate"/>
-    <published>2023-10-30T20:32:36+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7295878838096006442</id>
     <title>#solardidsystem #ladybug #ssunknown </title>
@@ -91,5 +83,13 @@
     <content>Replying to @archangel72577 #reply #solardidsystem #ssvesper We watched a doc about a cop in the Superdome, the prison that was abandoned by the police and started flooding with inmates still locked in cells, and of course, Closed For Storm. People were stranded for days at a time with no food/water/electricity while the president and governor argued about what to do. A mandatory evacuation was never given and as a result so many people chose to stay. </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7296605421056429354" rel="alternate"/>
     <published>2023-11-01T21:15:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7297289167279803694</id>
+    <title>I didn't wanna wake up 😭😭😭 #solardidsystem #ssquinn #taylorswift #reputationtaylorsversion @Taylor Swift </title>
+    <updated>2023-11-03T17:29:12+00:00</updated>
+    <content>I didn't wanna wake up 😭😭😭 #solardidsystem #ssquinn #taylorswift #reputationtaylorsversion @Taylor Swift </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7297289167279803694" rel="alternate"/>
+    <published>2023-11-03T17:29:12+00:00</published>
   </entry>
 </feed>
