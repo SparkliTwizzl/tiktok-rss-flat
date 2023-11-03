@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-10-29T18:14:43+00:00</updated>
+  <updated>2023-11-02T21:18:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7292136068231548203</id>
-    <title>So many fantastic things are happening in our lives right now, and I am extremely grateful for all of it. Thank you universe, thank you loved ones, thank you everything! #fyp #trans @Itsmedanibaby </title>
-    <updated>2023-10-20T20:12:25+00:00</updated>
-    <content>So many fantastic things are happening in our lives right now, and I am extremely grateful for all of it. Thank you universe, thank you loved ones, thank you everything! #fyp #trans @Itsmedanibaby </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7292136068231548203" rel="alternate"/>
-    <published>2023-10-20T20:12:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7292694585384373550</id>
     <title>#duet with @nbcnews #gaza #freePalestine </title>
@@ -91,5 +83,13 @@
     <content>White-Eyes by Mary Oliver #fyp </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7295445512415694123" rel="alternate"/>
     <published>2023-10-29T18:14:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7296977196374117675</id>
+    <title>This song was originally written for the d3ath of two children in the I R A b0mbing in 1993 by The Cranberries. Now, it speaks for thousands.  I will never condone the mass extinction of a human race, regardless of their religion, faith, or affiliation. I</title>
+    <updated>2023-11-02T21:18:28+00:00</updated>
+    <content>This song was originally written for the d3ath of two children in the I R A b0mbing in 1993 by The Cranberries. Now, it speaks for thousands.  I will never condone the mass extinction of a human race, regardless of their religion, faith, or affiliation. I don't care if they wouldn't approve of me being trans. I don't care if their country isn't the best. NO ONE PERSON in this world deserves to have their entire country b0mbed, and their entire families lost. This has to be stopped. #fyp #freepalestine🇵🇸❤️ </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7296977196374117675" rel="alternate"/>
+    <published>2023-11-02T21:18:28+00:00</published>
   </entry>
 </feed>
