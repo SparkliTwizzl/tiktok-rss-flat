@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-11-02T18:48:10+00:00</updated>
+  <updated>2023-11-03T13:34:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7292591366914247941</id>
-    <title>this month has really flown by so fast. I had so many plans for costumes, but so little time. I plan to bring this look to this Wednesdays open stage performance. #thisishalloween #icecream #clown </title>
-    <updated>2023-10-22T01:39:04+00:00</updated>
-    <content>this month has really flown by so fast. I had so many plans for costumes, but so little time. I plan to bring this look to this Wednesdays open stage performance. #thisishalloween #icecream #clown </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7292591366914247941" rel="alternate"/>
-    <published>2023-10-22T01:39:04+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7292806754243546374</id>
-    <title>this week's schedule: Wednesday: open stage at the Well Friday, Sat, Sun: Frightmare in the falls booth 511 co.e say hey if at either #identifyasaproblem #clownmakeup #maladytheclown </title>
-    <updated>2023-10-22T15:34:53+00:00</updated>
-    <content>this week's schedule: Wednesday: open stage at the Well Friday, Sat, Sun: Frightmare in the falls booth 511 co.e say hey if at either #identifyasaproblem #clownmakeup #maladytheclown </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7292806754243546374" rel="alternate"/>
-    <published>2023-10-22T15:34:53+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7293121343162240261</id>
     <title>💙💙💙 #onthisday #maladytheclown #maladyandglum </title>
@@ -91,5 +75,21 @@
     <content>The room was pretty empty the day after Halloween, but we still had fun. I'll be back next week as co-host. What a way to end my busy Halloweek!   #dragperformance #dragperformer #dancesinshadows </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7296938496126651654" rel="alternate"/>
     <published>2023-11-02T18:48:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7297223319865314565</id>
+    <title>My final Halloween form 🎃❤️🙃 October was intense. now to see what November brings #skeleton #spookyseason #skeletonmakeup </title>
+    <updated>2023-11-03T13:13:26+00:00</updated>
+    <content>My final Halloween form 🎃❤️🙃 October was intense. now to see what November brings #skeleton #spookyseason #skeletonmakeup </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7297223319865314565" rel="alternate"/>
+    <published>2023-11-03T13:13:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7297228657968336134</id>
+    <title>so much anxiety.lol. I like to bring only my best to each event, which results in alot of worry and stress while planning things out. and then, I get social anxiety while out 🙃😅 if I come across aloof, that's why #nervous #stressed #cosplay </title>
+    <updated>2023-11-03T13:34:08+00:00</updated>
+    <content>so much anxiety.lol. I like to bring only my best to each event, which results in alot of worry and stress while planning things out. and then, I get social anxiety while out 🙃😅 if I come across aloof, that's why #nervous #stressed #cosplay </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7297228657968336134" rel="alternate"/>
+    <published>2023-11-03T13:34:08+00:00</published>
   </entry>
 </feed>
