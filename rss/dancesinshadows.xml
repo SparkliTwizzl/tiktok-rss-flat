@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-11-03T13:34:08+00:00</updated>
+  <updated>2023-11-03T21:39:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7293121343162240261</id>
-    <title>💙💙💙 #onthisday #maladytheclown #maladyandglum </title>
-    <updated>2023-10-23T11:55:39+00:00</updated>
-    <content>💙💙💙 #onthisday #maladytheclown #maladyandglum </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7293121343162240261" rel="alternate"/>
-    <published>2023-10-23T11:55:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7295250217832615174</id>
     <title>happy spooky season everyone! I'm busy at frightmare in the falls this weekend ❤️ #spookyseason #halloween </title>
@@ -91,5 +83,13 @@
     <content>so much anxiety.lol. I like to bring only my best to each event, which results in alot of worry and stress while planning things out. and then, I get social anxiety while out 🙃😅 if I come across aloof, that's why #nervous #stressed #cosplay </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7297228657968336134" rel="alternate"/>
     <published>2023-11-03T13:34:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7297353733921312005</id>
+    <title>#spookyseason #skeletonmakeup #spookyscaryskeletons </title>
+    <updated>2023-11-03T21:39:31+00:00</updated>
+    <content>#spookyseason #skeletonmakeup #spookyscaryskeletons </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7297353733921312005" rel="alternate"/>
+    <published>2023-11-03T21:39:31+00:00</published>
   </entry>
 </feed>
