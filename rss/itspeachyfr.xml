@@ -13,14 +13,6 @@
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @itspeachyfr</subtitle>
   <entry>
-    <id>https://tiktok.com/@itspeachyfr/video/7285894443813637419</id>
-    <title>well go figure </title>
-    <updated>2023-10-04T00:31:44+00:00</updated>
-    <content>well go figure </content>
-    <link href="https://tiktok.com/@itspeachyfr/video/7285894443813637419" rel="alternate"/>
-    <published>2023-10-04T00:31:44+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@itspeachyfr/video/7294344026973605162</id>
     <title>[no title]</title>
     <updated>2023-10-26T19:00:22+00:00</updated>
@@ -43,6 +35,14 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@itspeachyfr/video/7294346874666978603" rel="alternate"/>
     <published>2023-10-26T19:11:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@itspeachyfr/video/7296109448584596778</id>
+    <title>[no title]</title>
+    <updated>2023-10-31T13:11:11+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@itspeachyfr/video/7296109448584596778" rel="alternate"/>
+    <published>2023-10-31T13:11:11+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@itspeachyfr/video/7296174846835215658</id>
