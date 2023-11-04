@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dannyphantom.exe</id>
   <title>@dannyphantom.exe | TikTok</title>
-  <updated>2023-11-03T02:15:34+00:00</updated>
+  <updated>2023-11-04T02:16:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dannyphantom.exe</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7295198499505786155</id>
-    <title>tag ur best friend</title>
-    <updated>2023-10-29T02:16:15+00:00</updated>
-    <content>tag ur best friend</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7295198499505786155" rel="alternate"/>
-    <published>2023-10-29T02:16:15+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7295198622021340458</id>
-    <title>she knows</title>
-    <updated>2023-10-29T02:16:43+00:00</updated>
-    <content>she knows</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7295198622021340458" rel="alternate"/>
-    <published>2023-10-29T02:16:43+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dannyphantom.exe/video/7295572041413971242</id>
     <title>missed opportunity- tag someone u ised to have a crush on</title>
@@ -91,5 +75,21 @@
     <content>tag someone u would send a risky text too</content>
     <link href="https://tiktok.com/@dannyphantom.exe/video/7297053776580463914" rel="alternate"/>
     <published>2023-11-03T02:15:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7297424929446808875</id>
+    <title>WAS THAT THE FIGHT OF ‘87???!!!</title>
+    <updated>2023-11-04T02:15:57+00:00</updated>
+    <content>WAS THAT THE FIGHT OF ‘87???!!!</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7297424929446808875" rel="alternate"/>
+    <published>2023-11-04T02:15:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7297425098422652202</id>
+    <title>tag someone with ADHD</title>
+    <updated>2023-11-04T02:16:32+00:00</updated>
+    <content>tag someone with ADHD</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7297425098422652202" rel="alternate"/>
+    <published>2023-11-04T02:16:32+00:00</published>
   </entry>
 </feed>
