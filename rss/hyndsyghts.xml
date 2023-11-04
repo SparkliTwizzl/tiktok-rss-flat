@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@hyndsyghts</id>
   <title>@hyndsyghts | TikTok</title>
-  <updated>2023-11-03T18:45:35+00:00</updated>
+  <updated>2023-11-04T02:45:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @hyndsyghts</subtitle>
-  <entry>
-    <id>https://tiktok.com/@hyndsyghts/video/7295410924976901418</id>
-    <title>#americanmary #halloween #lgbtq #horror </title>
-    <updated>2023-10-29T16:00:34+00:00</updated>
-    <content>#americanmary #halloween #lgbtq #horror </content>
-    <link href="https://tiktok.com/@hyndsyghts/video/7295410924976901418" rel="alternate"/>
-    <published>2023-10-29T16:00:34+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@hyndsyghts/video/7295433140787481899</id>
     <title>sure is sweet #americanmary #halloween #lgbtq #horror #halloween2023 #soskasisters </title>
@@ -91,5 +83,13 @@
     <content>why am I even there then #actuallyautistic #lgbtq #socialslight </content>
     <link href="https://tiktok.com/@hyndsyghts/video/7297308810169896235" rel="alternate"/>
     <published>2023-11-03T18:45:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@hyndsyghts/video/7297432628708396334</id>
+    <title>every time I leave my house #socialanxiety #lgbtq </title>
+    <updated>2023-11-04T02:45:49+00:00</updated>
+    <content>every time I leave my house #socialanxiety #lgbtq </content>
+    <link href="https://tiktok.com/@hyndsyghts/video/7297432628708396334" rel="alternate"/>
+    <published>2023-11-04T02:45:49+00:00</published>
   </entry>
 </feed>
