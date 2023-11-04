@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-11-03T19:33:38+00:00</updated>
+  <updated>2023-11-04T20:02:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7292704720752299307</id>
-    <title>#duet with @jamesissmiling Posting late in hopes of dodging the algorithm that has been silencing voices. #freepalestine🇵🇸❤️ </title>
-    <updated>2023-10-22T08:59:27+00:00</updated>
-    <content>#duet with @jamesissmiling Posting late in hopes of dodging the algorithm that has been silencing voices. #freepalestine🇵🇸❤️ </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7292704720752299307" rel="alternate"/>
-    <published>2023-10-22T08:59:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7292837545698790702</id>
     <title>From Florida to Colorado, and everything in-between then and now... It's been a wild ride. #fyp #trans </title>
@@ -91,5 +83,13 @@
     <content>#duet with @Adriana Nightmare Hahahaha. #fyp </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7297321215847517486" rel="alternate"/>
     <published>2023-11-03T19:33:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7297699709211266347</id>
+    <title>Replying to @verona_draven Thank you so much for bringing this up. This is my view on it. Nothing but love for you and everyone. One thing at a time. 🖤 #fyp </title>
+    <updated>2023-11-04T20:02:22+00:00</updated>
+    <content>Replying to @verona_draven Thank you so much for bringing this up. This is my view on it. Nothing but love for you and everyone. One thing at a time. 🖤 #fyp </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7297699709211266347" rel="alternate"/>
+    <published>2023-11-04T20:02:22+00:00</published>
   </entry>
 </feed>

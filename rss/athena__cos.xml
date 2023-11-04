@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-11-03T16:51:46+00:00</updated>
+  <updated>2023-11-04T19:50:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7293207121854827819</id>
-    <title>I would go there and back again with @Bella LeBaron and @Jackie O #ladyknight #knightcosplay #womeninarmor #knightcore #fantasycosplay #lotr </title>
-    <updated>2023-10-23T17:28:47+00:00</updated>
-    <content>I would go there and back again with @Bella LeBaron and @Jackie O #ladyknight #knightcosplay #womeninarmor #knightcore #fantasycosplay #lotr </content>
-    <link href="https://tiktok.com/@athena__cos/video/7293207121854827819" rel="alternate"/>
-    <published>2023-10-23T17:28:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7293614119079480618</id>
     <title>@Cup is perfect as Gojo</title>
@@ -91,5 +83,13 @@
     <content>@Dylanpool </content>
     <link href="https://tiktok.com/@athena__cos/video/7297279501384289579" rel="alternate"/>
     <published>2023-11-03T16:51:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7297696568369581358</id>
+    <title>What kind of gym content do you want to see from me? #gym #gymgirl #buffwomen #womenwholift </title>
+    <updated>2023-11-04T19:50:05+00:00</updated>
+    <content>What kind of gym content do you want to see from me? #gym #gymgirl #buffwomen #womenwholift </content>
+    <link href="https://tiktok.com/@athena__cos/video/7297696568369581358" rel="alternate"/>
+    <published>2023-11-04T19:50:05+00:00</published>
   </entry>
 </feed>
