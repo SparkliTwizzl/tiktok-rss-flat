@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thehistorywizard</id>
   <title>@thehistorywizard | TikTok</title>
-  <updated>2023-11-04T14:31:39+00:00</updated>
+  <updated>2023-11-04T16:42:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thehistorywizard</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thehistorywizard/video/7294691039464590638</id>
-    <title>#duet with @Shirley Chisholm Folding ChairBoost #thehistorywizard #learnontiktok #historytiktok #edutok </title>
-    <updated>2023-10-27T17:26:58+00:00</updated>
-    <content>#duet with @Shirley Chisholm Folding ChairBoost #thehistorywizard #learnontiktok #historytiktok #edutok </content>
-    <link href="https://tiktok.com/@thehistorywizard/video/7294691039464590638" rel="alternate"/>
-    <published>2023-10-27T17:26:58+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@thehistorywizard/video/7294739843500887339</id>
-    <title>Replying to @profluchifer Someone finally got it right! #thehistorywizard #historytiktok #edutok #learnontiktok </title>
-    <updated>2023-10-27T20:36:23+00:00</updated>
-    <content>Replying to @profluchifer Someone finally got it right! #thehistorywizard #historytiktok #edutok #learnontiktok </content>
-    <link href="https://tiktok.com/@thehistorywizard/video/7294739843500887339" rel="alternate"/>
-    <published>2023-10-27T20:36:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thehistorywizard/video/7295049824670453035</id>
     <title>#duet with @Gidon &amp; Julie All my love and support for you Gidon. #thehistorywizard #historytiktok #edutok #learnontiktok </title>
@@ -91,5 +75,21 @@
     <content>Please be patient. I'm doing my best. #thehistorywizard #historytiktok #edutok #learnontiktok </content>
     <link href="https://tiktok.com/@thehistorywizard/video/7297614491158695211" rel="alternate"/>
     <published>2023-11-04T14:31:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thehistorywizard/video/7297639836385660206</id>
+    <title>#duet with @brotherhood of evil gays Boost  #brotherhoodofevilgays #thehistorywizard </title>
+    <updated>2023-11-04T16:09:50+00:00</updated>
+    <content>#duet with @brotherhood of evil gays Boost  #brotherhoodofevilgays #thehistorywizard </content>
+    <link href="https://tiktok.com/@thehistorywizard/video/7297639836385660206" rel="alternate"/>
+    <published>2023-11-04T16:09:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thehistorywizard/video/7297648273408494891</id>
+    <title>#duet with @Nathan Evans  Have played this thing in years. Sorry the audio quality isn't great.  #thehistorywizard #historytiktok #edutok #learnontiktok #drums </title>
+    <updated>2023-11-04T16:42:44+00:00</updated>
+    <content>#duet with @Nathan Evans  Have played this thing in years. Sorry the audio quality isn't great.  #thehistorywizard #historytiktok #edutok #learnontiktok #drums </content>
+    <link href="https://tiktok.com/@thehistorywizard/video/7297648273408494891" rel="alternate"/>
+    <published>2023-11-04T16:42:44+00:00</published>
   </entry>
 </feed>

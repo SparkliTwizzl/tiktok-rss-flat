@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-11-03T15:38:39+00:00</updated>
+  <updated>2023-11-04T16:06:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7294350457605066015</id>
-    <title>Scared me </title>
-    <updated>2023-10-26T19:25:19+00:00</updated>
-    <content>Scared me </content>
-    <link href="https://tiktok.com/@punktoad/video/7294350457605066015" rel="alternate"/>
-    <published>2023-10-26T19:25:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7294796956101070110</id>
     <title>#stitch with @Stoneman 🎶🎵</title>
@@ -91,5 +83,13 @@
     <content>Replying to @blaine_paige6 morals, am I right? </content>
     <link href="https://tiktok.com/@punktoad/video/7297260666077875487" rel="alternate"/>
     <published>2023-11-03T15:38:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7297638993552854302</id>
+    <title>Im outtie </title>
+    <updated>2023-11-04T16:06:41+00:00</updated>
+    <content>Im outtie </content>
+    <link href="https://tiktok.com/@punktoad/video/7297638993552854302" rel="alternate"/>
+    <published>2023-11-04T16:06:41+00:00</published>
   </entry>
 </feed>

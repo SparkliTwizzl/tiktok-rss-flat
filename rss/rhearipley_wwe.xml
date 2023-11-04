@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@rhearipley_wwe</id>
   <title>@rhearipley_wwe | TikTok</title>
-  <updated>2023-10-26T18:57:51+00:00</updated>
+  <updated>2023-11-04T17:18:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @rhearipley_wwe</subtitle>
-  <entry>
-    <id>https://tiktok.com/@rhearipley_wwe/video/7269213263810923822</id>
-    <title>Cry about it 😈</title>
-    <updated>2023-08-20T01:40:13+00:00</updated>
-    <content>Cry about it 😈</content>
-    <link href="https://tiktok.com/@rhearipley_wwe/video/7269213263810923822" rel="alternate"/>
-    <published>2023-08-20T01:40:13+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@rhearipley_wwe/video/7270528089690508586</id>
     <title>Muscle MAMI 😈</title>
@@ -91,5 +83,13 @@
     <content>#WWECologne doesn’t deserve Mami and Dom Dom</content>
     <link href="https://tiktok.com/@rhearipley_wwe/video/7294343364516842794" rel="alternate"/>
     <published>2023-10-26T18:57:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@rhearipley_wwe/video/7297657569642843434</id>
+    <title>Mami’s night 😘😈 #WWECrownJewel </title>
+    <updated>2023-11-04T17:18:42+00:00</updated>
+    <content>Mami’s night 😘😈 #WWECrownJewel </content>
+    <link href="https://tiktok.com/@rhearipley_wwe/video/7297657569642843434" rel="alternate"/>
+    <published>2023-11-04T17:18:42+00:00</published>
   </entry>
 </feed>
