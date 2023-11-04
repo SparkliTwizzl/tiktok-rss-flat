@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@villainsupport</id>
   <title>@villainsupport | TikTok</title>
-  <updated>2023-11-01T22:13:01+00:00</updated>
+  <updated>2023-11-04T20:43:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @villainsupport</subtitle>
-  <entry>
-    <id>https://tiktok.com/@villainsupport/video/7289118964284689694</id>
-    <title>Short version</title>
-    <updated>2023-10-12T17:04:27+00:00</updated>
-    <content>Short version</content>
-    <link href="https://tiktok.com/@villainsupport/video/7289118964284689694" rel="alternate"/>
-    <published>2023-10-12T17:04:27+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@villainsupport/video/7289554704017804575</id>
-    <title>Pergax ordered some double miniature teacup mosquito dragons. They didn’t arrive. John needs to find out why.</title>
-    <updated>2023-10-13T21:15:30+00:00</updated>
-    <content>Pergax ordered some double miniature teacup mosquito dragons. They didn’t arrive. John needs to find out why.</content>
-    <link href="https://tiktok.com/@villainsupport/video/7289554704017804575" rel="alternate"/>
-    <published>2023-10-13T21:15:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@villainsupport/video/7290692607389338911</id>
     <title>Master Chief vs Ratchet and clank! Tournament of BAMF!! Ep 1! #gaming #halo #ratchetandclank #acmetok #acmevillainsupport </title>
@@ -91,5 +75,21 @@
     <content>A Newly-Turned Zombie Called Us for Help!</content>
     <link href="https://tiktok.com/@villainsupport/video/7296620186147228959" rel="alternate"/>
     <published>2023-11-01T22:13:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@villainsupport/video/7297665908376472863</id>
+    <title>These Designs Available Now!  Link in bio! #dndtiktok #acmetok #acmevillainsupport #alignment #dungeonmaster </title>
+    <updated>2023-11-04T17:51:04+00:00</updated>
+    <content>These Designs Available Now!  Link in bio! #dndtiktok #acmetok #acmevillainsupport #alignment #dungeonmaster </content>
+    <link href="https://tiktok.com/@villainsupport/video/7297665908376472863" rel="alternate"/>
+    <published>2023-11-04T17:51:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@villainsupport/video/7297710331537788191</id>
+    <title>Alignments shirts available now at the link in our bio!</title>
+    <updated>2023-11-04T20:43:26+00:00</updated>
+    <content>Alignments shirts available now at the link in our bio!</content>
+    <link href="https://tiktok.com/@villainsupport/video/7297710331537788191" rel="alternate"/>
+    <published>2023-11-04T20:43:26+00:00</published>
   </entry>
 </feed>
