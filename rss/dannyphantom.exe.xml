@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dannyphantom.exe</id>
   <title>@dannyphantom.exe | TikTok</title>
-  <updated>2023-11-04T02:16:32+00:00</updated>
+  <updated>2023-11-05T02:15:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dannyphantom.exe</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7295572041413971242</id>
-    <title>missed opportunity- tag someone u ised to have a crush on</title>
-    <updated>2023-10-30T02:25:46+00:00</updated>
-    <content>missed opportunity- tag someone u ised to have a crush on</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7295572041413971242" rel="alternate"/>
-    <published>2023-10-30T02:25:46+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dannyphantom.exe/video/7295940488262176043</id>
     <title>hes shy be nice</title>
@@ -91,5 +83,13 @@
     <content>tag someone with ADHD</content>
     <link href="https://tiktok.com/@dannyphantom.exe/video/7297425098422652202" rel="alternate"/>
     <published>2023-11-04T02:16:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7297795892977880363</id>
+    <title>that thing was on DEMON MODE I STG</title>
+    <updated>2023-11-05T02:15:28+00:00</updated>
+    <content>that thing was on DEMON MODE I STG</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7297795892977880363" rel="alternate"/>
+    <published>2023-11-05T02:15:28+00:00</published>
   </entry>
 </feed>
