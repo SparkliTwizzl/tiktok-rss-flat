@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-11-04T13:13:21+00:00</updated>
+  <updated>2023-11-05T01:46:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7292603132826127658</id>
-    <title>[no title]</title>
-    <updated>2023-10-22T02:24:51+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7292603132826127658" rel="alternate"/>
-    <published>2023-10-22T02:24:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7292604744588070190</id>
-    <title>Vegas</title>
-    <updated>2023-10-22T02:31:05+00:00</updated>
-    <content>Vegas</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7292604744588070190" rel="alternate"/>
-    <published>2023-10-22T02:31:05+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7292605329093840174</id>
-    <title>Ily guys </title>
-    <updated>2023-10-22T02:33:23+00:00</updated>
-    <content>Ily guys </content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7292605329093840174" rel="alternate"/>
-    <published>2023-10-22T02:33:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7292605742253641003</id>
     <title>Never back down never WHAT</title>
@@ -91,5 +67,29 @@
     <content>New hoodie new nails </content>
     <link href="https://tiktok.com/@kaylabutternut/video/7297594311061851438" rel="alternate"/>
     <published>2023-11-04T13:13:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7297755212285234478</id>
+    <title>Still true</title>
+    <updated>2023-11-04T23:37:40+00:00</updated>
+    <content>Still true</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7297755212285234478" rel="alternate"/>
+    <published>2023-11-04T23:37:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7297756374065368362</id>
+    <title>I almost fell</title>
+    <updated>2023-11-04T23:42:06+00:00</updated>
+    <content>I almost fell</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7297756374065368362" rel="alternate"/>
+    <published>2023-11-04T23:42:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7297788326482971950</id>
+    <title>I was sick during Halloween, should I still post my costumes </title>
+    <updated>2023-11-05T01:46:06+00:00</updated>
+    <content>I was sick during Halloween, should I still post my costumes </content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7297788326482971950" rel="alternate"/>
+    <published>2023-11-05T01:46:06+00:00</published>
   </entry>
 </feed>
