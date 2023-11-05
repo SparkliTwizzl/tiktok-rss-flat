@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@juliafox038711</id>
   <title>@juliafox038711 | TikTok</title>
-  <updated>2023-11-02T02:07:53+00:00</updated>
+  <updated>2023-11-05T00:24:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,38 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juliafox038711</subtitle>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7295947002230132010</id>
-    <title>calm down girly, im just hungry </title>
-    <updated>2023-10-31T02:40:43+00:00</updated>
-    <content>calm down girly, im just hungry </content>
-    <link href="https://tiktok.com/@juliafox038711/video/7295947002230132010" rel="alternate"/>
-    <published>2023-10-31T02:40:43+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7296181768930004267</id>
-    <title>happy halloween !</title>
-    <updated>2023-10-31T17:51:57+00:00</updated>
-    <content>happy halloween !</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7296181768930004267" rel="alternate"/>
-    <published>2023-10-31T17:51:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7296184531424529706</id>
-    <title>idk man, i miss 2020 where rolling my eyes in the back of my head was cool</title>
-    <updated>2023-10-31T18:02:41+00:00</updated>
-    <content>idk man, i miss 2020 where rolling my eyes in the back of my head was cool</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7296184531424529706" rel="alternate"/>
-    <published>2023-10-31T18:02:41+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7296262742992784686</id>
-    <title>every year i do skull makeup, and this one of my favs</title>
-    <updated>2023-10-31T23:06:02+00:00</updated>
-    <content>every year i do skull makeup, and this one of my favs</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7296262742992784686" rel="alternate"/>
-    <published>2023-10-31T23:06:02+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@juliafox038711/video/7296266395094977835</id>
     <title>this filter is actually insane</title>
@@ -91,5 +59,37 @@
     <content>srry bby, doin my best</content>
     <link href="https://tiktok.com/@juliafox038711/video/7296680711111626027" rel="alternate"/>
     <published>2023-11-02T02:07:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7297761758071098670</id>
+    <title>my hair is getting so long guyssss</title>
+    <updated>2023-11-05T00:03:04+00:00</updated>
+    <content>my hair is getting so long guyssss</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7297761758071098670" rel="alternate"/>
+    <published>2023-11-05T00:03:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7297762784685804846</id>
+    <title>i feel so pretty pretty 😘😘😘</title>
+    <updated>2023-11-05T00:07:00+00:00</updated>
+    <content>i feel so pretty pretty 😘😘😘</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7297762784685804846" rel="alternate"/>
+    <published>2023-11-05T00:07:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7297765541962501422</id>
+    <title>it took so many tried ti not say “iM cHiCa”</title>
+    <updated>2023-11-05T00:17:47+00:00</updated>
+    <content>it took so many tried ti not say “iM cHiCa”</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7297765541962501422" rel="alternate"/>
+    <published>2023-11-05T00:17:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7297767194048466219</id>
+    <title>ya</title>
+    <updated>2023-11-05T00:24:10+00:00</updated>
+    <content>ya</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7297767194048466219" rel="alternate"/>
+    <published>2023-11-05T00:24:10+00:00</published>
   </entry>
 </feed>
