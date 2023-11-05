@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thehistorywizard</id>
   <title>@thehistorywizard | TikTok</title>
-  <updated>2023-11-04T16:42:44+00:00</updated>
+  <updated>2023-11-05T15:56:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thehistorywizard</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thehistorywizard/video/7295049824670453035</id>
-    <title>#duet with @Gidon &amp; Julie All my love and support for you Gidon. #thehistorywizard #historytiktok #edutok #learnontiktok </title>
-    <updated>2023-10-28T16:39:21+00:00</updated>
-    <content>#duet with @Gidon &amp; Julie All my love and support for you Gidon. #thehistorywizard #historytiktok #edutok #learnontiktok </content>
-    <link href="https://tiktok.com/@thehistorywizard/video/7295049824670453035" rel="alternate"/>
-    <published>2023-10-28T16:39:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thehistorywizard/video/7295374992471002414</id>
     <title>This is my oldest party trick. #thehistorywizard #historytiktok #edutok #learnontiktok #lemondemon </title>
@@ -91,5 +83,13 @@
     <content>#duet with @Nathan Evans  Have played this thing in years. Sorry the audio quality isn't great.  #thehistorywizard #historytiktok #edutok #learnontiktok #drums </content>
     <link href="https://tiktok.com/@thehistorywizard/video/7297648273408494891" rel="alternate"/>
     <published>2023-11-04T16:42:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thehistorywizard/video/7298007538518330667</id>
+    <title>Never again is right now. #thehistorywizard #historytiktok #edutok #learnontiktok #china #uyghur </title>
+    <updated>2023-11-05T15:56:51+00:00</updated>
+    <content>Never again is right now. #thehistorywizard #historytiktok #edutok #learnontiktok #china #uyghur </content>
+    <link href="https://tiktok.com/@thehistorywizard/video/7298007538518330667" rel="alternate"/>
+    <published>2023-11-05T15:56:51+00:00</published>
   </entry>
 </feed>
