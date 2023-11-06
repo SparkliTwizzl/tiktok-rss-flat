@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ratatootle</id>
   <title>@ratatootle | TikTok</title>
-  <updated>2023-10-11T13:12:02+00:00</updated>
+  <updated>2023-11-06T16:47:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ratatootle</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ratatootle/video/7249864301538725166</id>
-    <title>Things are going so okay! But also @INNBEAUTY PROJECT saved the day i love u </title>
-    <updated>2023-06-28T22:16:20+00:00</updated>
-    <content>Things are going so okay! But also @INNBEAUTY PROJECT saved the day i love u </content>
-    <link href="https://tiktok.com/@ratatootle/video/7249864301538725166" rel="alternate"/>
-    <published>2023-06-28T22:16:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ratatootle/video/7251664118799813930</id>
     <title>Everything is so normal and fine here ft my new addition to my mornings :) @energybytes </title>
@@ -91,5 +83,13 @@
     <content>Merle didnt want the smoke smh</content>
     <link href="https://tiktok.com/@ratatootle/video/7288687873421872427" rel="alternate"/>
     <published>2023-10-11T13:12:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ratatootle/video/7298391765831224618</id>
+    <title>I dogsit a lot and theres nothin i love more than taking a few mins to say hi to my doggies. </title>
+    <updated>2023-11-06T16:47:57+00:00</updated>
+    <content>I dogsit a lot and theres nothin i love more than taking a few mins to say hi to my doggies. </content>
+    <link href="https://tiktok.com/@ratatootle/video/7298391765831224618" rel="alternate"/>
+    <published>2023-11-06T16:47:57+00:00</published>
   </entry>
 </feed>
