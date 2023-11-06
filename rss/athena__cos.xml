@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-11-04T19:50:05+00:00</updated>
+  <updated>2023-11-05T17:34:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7293614119079480618</id>
-    <title>@Cup is perfect as Gojo</title>
-    <updated>2023-10-24T19:48:03+00:00</updated>
-    <content>@Cup is perfect as Gojo</content>
-    <link href="https://tiktok.com/@athena__cos/video/7293614119079480618" rel="alternate"/>
-    <published>2023-10-24T19:48:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7293972333977537838</id>
     <title>Yuji wearing Jordans just feels right @Cup is Gojo! #jjk #jjkcosplay #gojousatoru #yujiitadori </title>
@@ -91,5 +83,13 @@
     <content>What kind of gym content do you want to see from me? #gym #gymgirl #buffwomen #womenwholift </content>
     <link href="https://tiktok.com/@athena__cos/video/7297696568369581358" rel="alternate"/>
     <published>2023-11-04T19:50:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7298032743907183915</id>
+    <title>@katarina we need to dance with them somewhere besides cons 😂💜💙 #korra #asami #korrasami #korracosplay #avatar #avatarcosplay </title>
+    <updated>2023-11-05T17:34:38+00:00</updated>
+    <content>@katarina we need to dance with them somewhere besides cons 😂💜💙 #korra #asami #korrasami #korracosplay #avatar #avatarcosplay </content>
+    <link href="https://tiktok.com/@athena__cos/video/7298032743907183915" rel="alternate"/>
+    <published>2023-11-05T17:34:38+00:00</published>
   </entry>
 </feed>
