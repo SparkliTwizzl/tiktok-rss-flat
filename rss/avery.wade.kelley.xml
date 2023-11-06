@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-11-04T20:02:22+00:00</updated>
+  <updated>2023-11-06T18:03:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7292837545698790702</id>
-    <title>From Florida to Colorado, and everything in-between then and now... It's been a wild ride. #fyp #trans </title>
-    <updated>2023-10-22T17:34:29+00:00</updated>
-    <content>From Florida to Colorado, and everything in-between then and now... It's been a wild ride. #fyp #trans </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7292837545698790702" rel="alternate"/>
-    <published>2023-10-22T17:34:29+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7294713938565025067</id>
     <title>3 Years Sober from Alcohol. It was hard. It was the hardest thing I've ever done. It was so hard in the beginning, and then it wasn't. Something switched in me in my first year of sobriety, and it told me that I can never drink alcohol again. And I'm prou</title>
@@ -91,5 +83,13 @@
     <content>Replying to @verona_draven Thank you so much for bringing this up. This is my view on it. Nothing but love for you and everyone. One thing at a time. 🖤 #fyp </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7297699709211266347" rel="alternate"/>
     <published>2023-11-04T20:02:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7298411213556354346</id>
+    <title>Trans Things.... #fyp #trans </title>
+    <updated>2023-11-06T18:03:23+00:00</updated>
+    <content>Trans Things.... #fyp #trans </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7298411213556354346" rel="alternate"/>
+    <published>2023-11-06T18:03:23+00:00</published>
   </entry>
 </feed>
