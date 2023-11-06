@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@nopanicbutton</id>
   <title>@nopanicbutton | TikTok</title>
-  <updated>2023-11-03T17:44:54+00:00</updated>
+  <updated>2023-11-06T18:29:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @nopanicbutton</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nopanicbutton/video/7289572929032113454</id>
-    <title>I annoy myself sometimes. #manlaw #mustbedone #canthelpmyself </title>
-    <updated>2023-10-13T22:26:13+00:00</updated>
-    <content>I annoy myself sometimes. #manlaw #mustbedone #canthelpmyself </content>
-    <link href="https://tiktok.com/@nopanicbutton/video/7289572929032113454" rel="alternate"/>
-    <published>2023-10-13T22:26:13+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nopanicbutton/video/7290619369720384814</id>
     <title>I'll make whatever you pay for! Opening up for orders next week!</title>
@@ -91,5 +83,13 @@
     <content>Hooray for German engineering! #frau #germanengineering #classicbeauty </content>
     <link href="https://tiktok.com/@nopanicbutton/video/7297293178800000302" rel="alternate"/>
     <published>2023-11-03T17:44:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nopanicbutton/video/7298417999134854446</id>
+    <title>That was actually pretty good. I ate the whole thing. #foodcrime </title>
+    <updated>2023-11-06T18:29:39+00:00</updated>
+    <content>That was actually pretty good. I ate the whole thing. #foodcrime </content>
+    <link href="https://tiktok.com/@nopanicbutton/video/7298417999134854446" rel="alternate"/>
+    <published>2023-11-06T18:29:39+00:00</published>
   </entry>
 </feed>
