@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thehistorywizard</id>
   <title>@thehistorywizard | TikTok</title>
-  <updated>2023-11-05T15:56:51+00:00</updated>
+  <updated>2023-11-06T14:25:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thehistorywizard</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thehistorywizard/video/7295374992471002414</id>
-    <title>This is my oldest party trick. #thehistorywizard #historytiktok #edutok #learnontiktok #lemondemon </title>
-    <updated>2023-10-29T13:41:10+00:00</updated>
-    <content>This is my oldest party trick. #thehistorywizard #historytiktok #edutok #learnontiktok #lemondemon </content>
-    <link href="https://tiktok.com/@thehistorywizard/video/7295374992471002414" rel="alternate"/>
-    <published>2023-10-29T13:41:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thehistorywizard/video/7295746755717516590</id>
     <title>Hourani's work is called "The Colours of the Palestinian Flag" #thehistorywizard #historytiktok #edutok #learnontiktok </title>
@@ -91,5 +83,13 @@
     <content>Never again is right now. #thehistorywizard #historytiktok #edutok #learnontiktok #china #uyghur </content>
     <link href="https://tiktok.com/@thehistorywizard/video/7298007538518330667" rel="alternate"/>
     <published>2023-11-05T15:56:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thehistorywizard/video/7298355052605902122</id>
+    <title>I love it #thehistorywizard #historytiktok #edutok #learnontiktok </title>
+    <updated>2023-11-06T14:25:29+00:00</updated>
+    <content>I love it #thehistorywizard #historytiktok #edutok #learnontiktok </content>
+    <link href="https://tiktok.com/@thehistorywizard/video/7298355052605902122" rel="alternate"/>
+    <published>2023-11-06T14:25:29+00:00</published>
   </entry>
 </feed>
