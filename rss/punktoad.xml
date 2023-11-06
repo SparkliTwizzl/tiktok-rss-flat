@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-11-04T16:06:41+00:00</updated>
+  <updated>2023-11-05T19:11:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7294796956101070110</id>
-    <title>#stitch with @Stoneman 🎶🎵</title>
-    <updated>2023-10-28T00:17:58+00:00</updated>
-    <content>#stitch with @Stoneman 🎶🎵</content>
-    <link href="https://tiktok.com/@punktoad/video/7294796956101070110" rel="alternate"/>
-    <published>2023-10-28T00:17:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7295109435108773150</id>
     <title>The whole gang is here </title>
@@ -91,5 +83,13 @@
     <content>Im outtie </content>
     <link href="https://tiktok.com/@punktoad/video/7297638993552854302" rel="alternate"/>
     <published>2023-11-04T16:06:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7298057681653320990</id>
+    <title>I miss Texas </title>
+    <updated>2023-11-05T19:11:18+00:00</updated>
+    <content>I miss Texas </content>
+    <link href="https://tiktok.com/@punktoad/video/7298057681653320990" rel="alternate"/>
+    <published>2023-11-05T19:11:18+00:00</published>
   </entry>
 </feed>
