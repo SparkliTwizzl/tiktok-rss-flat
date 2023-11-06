@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@juliafox038711</id>
   <title>@juliafox038711 | TikTok</title>
-  <updated>2023-11-05T00:24:10+00:00</updated>
+  <updated>2023-11-05T23:01:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juliafox038711</subtitle>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7296266395094977835</id>
-    <title>this filter is actually insane</title>
-    <updated>2023-10-31T23:20:14+00:00</updated>
-    <content>this filter is actually insane</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7296266395094977835" rel="alternate"/>
-    <published>2023-10-31T23:20:14+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7296270654012149038</id>
-    <title>my phone do be on 1 rn</title>
-    <updated>2023-10-31T23:36:44+00:00</updated>
-    <content>my phone do be on 1 rn</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7296270654012149038" rel="alternate"/>
-    <published>2023-10-31T23:36:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@juliafox038711/video/7296298895687093550</id>
     <title>take my makeup off with me! #happyhalloween #makeup #foryou </title>
@@ -91,5 +75,21 @@
     <content>ya</content>
     <link href="https://tiktok.com/@juliafox038711/video/7297767194048466219" rel="alternate"/>
     <published>2023-11-05T00:24:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7298111891946278190</id>
+    <title>GRWM in 22 sec and i forget to add in my lipstick</title>
+    <updated>2023-11-05T22:41:41+00:00</updated>
+    <content>GRWM in 22 sec and i forget to add in my lipstick</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7298111891946278190" rel="alternate"/>
+    <published>2023-11-05T22:41:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7298117041666526506</id>
+    <title>lets ignore that one transition i messed up</title>
+    <updated>2023-11-05T23:01:45+00:00</updated>
+    <content>lets ignore that one transition i messed up</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7298117041666526506" rel="alternate"/>
+    <published>2023-11-05T23:01:45+00:00</published>
   </entry>
 </feed>
