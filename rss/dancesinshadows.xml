@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-11-04T14:49:12+00:00</updated>
+  <updated>2023-11-07T14:05:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7295750203431210245</id>
-    <title>I met soo many people over the last 3 days! It was truly the best con yet. just a few highlights: meeting Doug Jones and talking costumes, met the mua of the strain and so many shows I love, Carry Elwes melting over my treat bags, and my besties from Texa</title>
-    <updated>2023-10-30T13:56:59+00:00</updated>
-    <content>I met soo many people over the last 3 days! It was truly the best con yet. just a few highlights: meeting Doug Jones and talking costumes, met the mua of the strain and so many shows I love, Carry Elwes melting over my treat bags, and my besties from Texas chainsaw massacre! There is nothing like watching your kiddo play with horror movie icons all weekend! I made trick or treat bags for the celebs and their agents, out of the spirit...and the reactions I got were priceless. all around best weekend in ages ❤️🎈 #frightmareinthefalls #spookyseason #comiccon </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7295750203431210245" rel="alternate"/>
-    <published>2023-10-30T13:56:59+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7296133031897599237</id>
     <title>it's been a busy few weeks! I'll be around later tonight for spooky celebrations #halloween #seasonofthewitch </title>
@@ -91,5 +83,13 @@
     <content>Still true 😝😂😘 #onthisday #maladytheclown #lifetruth #clown </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7297619081711193349" rel="alternate"/>
     <published>2023-11-04T14:49:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7298720967843384582</id>
+    <title>put together another cosplay  ❤️ song @Miss Cherry Delight 🍒🔪 Band  #samtrickrtreat #samcosplay #spookyseason </title>
+    <updated>2023-11-07T14:05:03+00:00</updated>
+    <content>put together another cosplay  ❤️ song @Miss Cherry Delight 🍒🔪 Band  #samtrickrtreat #samcosplay #spookyseason </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7298720967843384582" rel="alternate"/>
+    <published>2023-11-07T14:05:03+00:00</published>
   </entry>
 </feed>
