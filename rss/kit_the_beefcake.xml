@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kit_the_beefcake</id>
   <title>@kit_the_beefcake | TikTok</title>
-  <updated>2023-11-06T02:39:18+00:00</updated>
+  <updated>2023-11-07T13:54:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kit_the_beefcake</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7294427933647605035</id>
-    <title>[no title]</title>
-    <updated>2023-10-27T00:25:56+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7294427933647605035" rel="alternate"/>
-    <published>2023-10-27T00:25:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7294876582605376811</id>
     <title>[no title]</title>
@@ -91,5 +83,13 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@kit_the_beefcake/video/7298173130151906606" rel="alternate"/>
     <published>2023-11-06T02:39:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7298718113166544171</id>
+    <title>it's weird life I live and I like it :) </title>
+    <updated>2023-11-07T13:54:07+00:00</updated>
+    <content>it's weird life I live and I like it :) </content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7298718113166544171" rel="alternate"/>
+    <published>2023-11-07T13:54:07+00:00</published>
   </entry>
 </feed>
