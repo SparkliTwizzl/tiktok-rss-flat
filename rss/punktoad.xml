@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-11-06T19:14:13+00:00</updated>
+  <updated>2023-11-07T16:45:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7295550600173964575</id>
-    <title>#stitch with @briantylercohen</title>
-    <updated>2023-10-30T01:02:30+00:00</updated>
-    <content>#stitch with @briantylercohen</content>
-    <link href="https://tiktok.com/@punktoad/video/7295550600173964575" rel="alternate"/>
-    <published>2023-10-30T01:02:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7296102765934267678</id>
     <title>May the best man win </title>
@@ -91,5 +83,13 @@
     <content>Replying to @Kolton hope this helps </content>
     <link href="https://tiktok.com/@punktoad/video/7298429258563734815" rel="alternate"/>
     <published>2023-11-06T19:14:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7298762317506858271</id>
+    <title>I shouldn’t have left chicken bones in there </title>
+    <updated>2023-11-07T16:45:39+00:00</updated>
+    <content>I shouldn’t have left chicken bones in there </content>
+    <link href="https://tiktok.com/@punktoad/video/7298762317506858271" rel="alternate"/>
+    <published>2023-11-07T16:45:39+00:00</published>
   </entry>
 </feed>
