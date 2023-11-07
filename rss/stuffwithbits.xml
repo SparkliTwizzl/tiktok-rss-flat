@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-11-06T01:14:27+00:00</updated>
+  <updated>2023-11-07T21:21:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7295900585885175082</id>
-    <title>These are just thoughts with no evidence btw #solardidsystem #ssunknown #taylorswift </title>
-    <updated>2023-10-30T23:40:35+00:00</updated>
-    <content>These are just thoughts with no evidence btw #solardidsystem #ssunknown #taylorswift </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7295900585885175082" rel="alternate"/>
-    <published>2023-10-30T23:40:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7296206070593228075</id>
     <title>Replying to @archangel72577 #reply #solardidsystem #ssvesper </title>
@@ -91,5 +83,13 @@
     <content>#stitch with @Susi Not that it would have taken long to figure it out otherwise. Only 5 people knew the code to the safe. It was a really stupid crime. And he even had the audacity to ask if he could get his job back since he returned the money. Like no, actually, you should actually go to jail for larsony instead. #solardidsystem #sszyra #susistitch </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7298151238791826734" rel="alternate"/>
     <published>2023-11-06T01:14:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7298833413220420907</id>
+    <title>🇵🇸 #freepalestine </title>
+    <updated>2023-11-07T21:21:31+00:00</updated>
+    <content>🇵🇸 #freepalestine </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7298833413220420907" rel="alternate"/>
+    <published>2023-11-07T21:21:31+00:00</published>
   </entry>
 </feed>
