@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avocadosnaliens</id>
   <title>@avocadosnaliens | TikTok</title>
-  <updated>2023-11-02T16:20:28+00:00</updated>
+  <updated>2023-11-07T02:45:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avocadosnaliens</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avocadosnaliens/video/7292659952223653163</id>
-    <title>[no title]</title>
-    <updated>2023-10-22T06:05:31+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@avocadosnaliens/video/7292659952223653163" rel="alternate"/>
-    <published>2023-10-22T06:05:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avocadosnaliens/video/7293358637748112682</id>
     <title>Im home :(</title>
@@ -91,5 +83,13 @@
     <content>Im just gonna let the personalities shine and crack bad dad jokes…works everytime #lgbtqcouple #loveislove #couplesession #engagementshootideas #engagementshootideas #sacramentoengagementphotographer </content>
     <link href="https://tiktok.com/@avocadosnaliens/video/7296900380489764138" rel="alternate"/>
     <published>2023-11-02T16:20:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7298545943295593771</id>
+    <title>[no title]</title>
+    <updated>2023-11-07T02:45:57+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7298545943295593771" rel="alternate"/>
+    <published>2023-11-07T02:45:57+00:00</published>
   </entry>
 </feed>
