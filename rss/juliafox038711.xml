@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@juliafox038711</id>
   <title>@juliafox038711 | TikTok</title>
-  <updated>2023-11-06T04:38:22+00:00</updated>
+  <updated>2023-11-07T03:20:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juliafox038711</subtitle>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7296665858514996526</id>
-    <title>self control = 0</title>
-    <updated>2023-11-02T01:10:14+00:00</updated>
-    <content>self control = 0</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7296665858514996526" rel="alternate"/>
-    <published>2023-11-02T01:10:14+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7296675898063965482</id>
-    <title>[no title]</title>
-    <updated>2023-11-02T01:49:14+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7296675898063965482" rel="alternate"/>
-    <published>2023-11-02T01:49:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@juliafox038711/video/7296680711111626027</id>
     <title>srry bby, doin my best</title>
@@ -91,5 +75,21 @@
     <content>the white rabbit 🐇 </content>
     <link href="https://tiktok.com/@juliafox038711/video/7298203759887338798" rel="alternate"/>
     <published>2023-11-06T04:38:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7298542023567527211</id>
+    <title>but we said if we hit 30 and are still single well get married to eachother bestie boo</title>
+    <updated>2023-11-07T02:30:45+00:00</updated>
+    <content>but we said if we hit 30 and are still single well get married to eachother bestie boo</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7298542023567527211" rel="alternate"/>
+    <published>2023-11-07T02:30:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7298554955852533038</id>
+    <title>i could do this better but im tired 👋</title>
+    <updated>2023-11-07T03:20:55+00:00</updated>
+    <content>i could do this better but im tired 👋</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7298554955852533038" rel="alternate"/>
+    <published>2023-11-07T03:20:55+00:00</published>
   </entry>
 </feed>
