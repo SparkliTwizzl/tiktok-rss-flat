@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-11-05T20:44:57+00:00</updated>
+  <updated>2023-11-07T17:41:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7293512387041168645</id>
-    <title>Don't let that toxic ex ruin your day, find the support you need to keep the 'Daves' away with @NicoretteCA. #Nicorette Partner #SmokeFree NICORETTE® contains nicotine. Stop smoking aid. Always read and follow the label.</title>
-    <updated>2023-10-24T13:13:05+00:00</updated>
-    <content>Don't let that toxic ex ruin your day, find the support you need to keep the 'Daves' away with @NicoretteCA. #Nicorette Partner #SmokeFree NICORETTE® contains nicotine. Stop smoking aid. Always read and follow the label.</content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7293512387041168645" rel="alternate"/>
-    <published>2023-10-24T13:13:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7294005889713851654</id>
     <title>His name is baloo and we no longer have a backyard. </title>
@@ -91,5 +83,13 @@
     <content>Unfortunately his eyes got lost in the move #adhd #moving #couple #funny #marriedlife #eyesunavailable </content>
     <link href="https://tiktok.com/@thedarcymichael/video/7298081843545509126" rel="alternate"/>
     <published>2023-11-05T20:44:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7298776666006883590</id>
+    <title>Things are going well? #manchild #marriedlife #husbands #funny #comedy #couples </title>
+    <updated>2023-11-07T17:41:11+00:00</updated>
+    <content>Things are going well? #manchild #marriedlife #husbands #funny #comedy #couples </content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7298776666006883590" rel="alternate"/>
+    <published>2023-11-07T17:41:11+00:00</published>
   </entry>
 </feed>

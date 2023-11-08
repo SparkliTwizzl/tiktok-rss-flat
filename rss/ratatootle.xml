@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ratatootle</id>
   <title>@ratatootle | TikTok</title>
-  <updated>2023-11-06T16:47:57+00:00</updated>
+  <updated>2023-11-07T20:53:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ratatootle</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ratatootle/video/7251664118799813930</id>
-    <title>Everything is so normal and fine here ft my new addition to my mornings :) @energybytes </title>
-    <updated>2023-07-03T18:40:42+00:00</updated>
-    <content>Everything is so normal and fine here ft my new addition to my mornings :) @energybytes </content>
-    <link href="https://tiktok.com/@ratatootle/video/7251664118799813930" rel="alternate"/>
-    <published>2023-07-03T18:40:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ratatootle/video/7251947084025253166</id>
     <title>The world works in mysterious ways</title>
@@ -91,5 +83,13 @@
     <content>I dogsit a lot and theres nothin i love more than taking a few mins to say hi to my doggies. </content>
     <link href="https://tiktok.com/@ratatootle/video/7298391765831224618" rel="alternate"/>
     <published>2023-11-06T16:47:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ratatootle/video/7298826230286011690</id>
+    <title>Goin back to my roots of being a hater #booktok </title>
+    <updated>2023-11-07T20:53:38+00:00</updated>
+    <content>Goin back to my roots of being a hater #booktok </content>
+    <link href="https://tiktok.com/@ratatootle/video/7298826230286011690" rel="alternate"/>
+    <published>2023-11-07T20:53:38+00:00</published>
   </entry>
 </feed>
