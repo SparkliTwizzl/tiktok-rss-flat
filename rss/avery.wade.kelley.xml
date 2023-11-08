@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-11-06T18:03:23+00:00</updated>
+  <updated>2023-11-08T02:09:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7294713938565025067</id>
-    <title>3 Years Sober from Alcohol. It was hard. It was the hardest thing I've ever done. It was so hard in the beginning, and then it wasn't. Something switched in me in my first year of sobriety, and it told me that I can never drink alcohol again. And I'm prou</title>
-    <updated>2023-10-27T18:55:53+00:00</updated>
-    <content>3 Years Sober from Alcohol. It was hard. It was the hardest thing I've ever done. It was so hard in the beginning, and then it wasn't. Something switched in me in my first year of sobriety, and it told me that I can never drink alcohol again. And I'm proud of that voice. It has saved my life. It has saved my relationships, my body, and my mind.  I can remember what I do every day. I can control my emotions (somewhat), and I can take a look at myself and know that I am no longer drowning in a bottle. I can now look deeper within.  If you're struggling with the drink, take a second to ask yourself why you're doing it. Why it is so important to escape. And NEVER be afraid to reach out for help. There are Sober people EVERYWHERE, and we all know the struggle. We all know what it's like to feel alone and hopeless. You are NOT alone. I promise. #fyp #trans </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7294713938565025067" rel="alternate"/>
-    <published>2023-10-27T18:55:53+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7294733872976235818</id>
     <title>Self-Check-In! #fyp </title>
@@ -91,5 +83,13 @@
     <content>Trans Things.... #fyp #trans </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7298411213556354346" rel="alternate"/>
     <published>2023-11-06T18:03:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7298907747213397290</id>
+    <title>#duet with @judes Small thing to help a big problem. #fyp </title>
+    <updated>2023-11-08T02:09:58+00:00</updated>
+    <content>#duet with @judes Small thing to help a big problem. #fyp </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7298907747213397290" rel="alternate"/>
+    <published>2023-11-08T02:09:58+00:00</published>
   </entry>
 </feed>
