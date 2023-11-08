@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-11-07T17:41:11+00:00</updated>
+  <updated>2023-11-08T14:31:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7294005889713851654</id>
-    <title>His name is baloo and we no longer have a backyard. </title>
-    <updated>2023-10-25T21:08:10+00:00</updated>
-    <content>His name is baloo and we no longer have a backyard. </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7294005889713851654" rel="alternate"/>
-    <published>2023-10-25T21:08:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7294064375571287302</id>
     <title>Replying to @Ame Lia stay for jers rawr, its so worth it #bearwatch </title>
@@ -91,5 +83,13 @@
     <content>Things are going well? #manchild #marriedlife #husbands #funny #comedy #couples </content>
     <link href="https://tiktok.com/@thedarcymichael/video/7298776666006883590" rel="alternate"/>
     <published>2023-11-07T17:41:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7299098793553792262</id>
+    <title>Get your own personalized greeting card from Martin Short and so many others - with lots of customizations available, @AmericanGreetings.com SmashUps are a great way to give some birthday love. #ad #AmericanGreetings #ShareSmashUps</title>
+    <updated>2023-11-08T14:31:13+00:00</updated>
+    <content>Get your own personalized greeting card from Martin Short and so many others - with lots of customizations available, @AmericanGreetings.com SmashUps are a great way to give some birthday love. #ad #AmericanGreetings #ShareSmashUps</content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7299098793553792262" rel="alternate"/>
+    <published>2023-11-08T14:31:13+00:00</published>
   </entry>
 </feed>
