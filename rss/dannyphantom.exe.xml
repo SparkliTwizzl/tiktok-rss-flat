@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dannyphantom.exe</id>
   <title>@dannyphantom.exe | TikTok</title>
-  <updated>2023-11-07T03:15:55+00:00</updated>
+  <updated>2023-11-08T03:16:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dannyphantom.exe</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7296682819332394282</id>
-    <title>UKI has never used her kennel &gt;:(</title>
-    <updated>2023-11-02T02:16:03+00:00</updated>
-    <content>UKI has never used her kennel &gt;:(</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7296682819332394282" rel="alternate"/>
-    <published>2023-11-02T02:16:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dannyphantom.exe/video/7297053728228642090</id>
     <title>WHATS GOING ON</title>
@@ -91,5 +83,13 @@
     <content>lol guess who else is leaving 😐</content>
     <link href="https://tiktok.com/@dannyphantom.exe/video/7298553657354669354" rel="alternate"/>
     <published>2023-11-07T03:15:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7298924797747039530</id>
+    <title>NSN vs NNN</title>
+    <updated>2023-11-08T03:16:07+00:00</updated>
+    <content>NSN vs NNN</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7298924797747039530" rel="alternate"/>
+    <published>2023-11-08T03:16:07+00:00</published>
   </entry>
 </feed>
