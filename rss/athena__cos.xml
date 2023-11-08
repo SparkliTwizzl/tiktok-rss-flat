@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-11-05T17:34:38+00:00</updated>
+  <updated>2023-11-08T17:26:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7293972333977537838</id>
-    <title>Yuji wearing Jordans just feels right @Cup is Gojo! #jjk #jjkcosplay #gojousatoru #yujiitadori </title>
-    <updated>2023-10-25T18:58:14+00:00</updated>
-    <content>Yuji wearing Jordans just feels right @Cup is Gojo! #jjk #jjkcosplay #gojousatoru #yujiitadori </content>
-    <link href="https://tiktok.com/@athena__cos/video/7293972333977537838" rel="alternate"/>
-    <published>2023-10-25T18:58:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7294321455238581547</id>
     <title>Are you a goth muscle witch or a cottage core witch?  @Bella LeBaron #witchtok #witchcraft #witchesoftiktok #halloween </title>
@@ -91,5 +83,13 @@
     <content>@katarina we need to dance with them somewhere besides cons 😂💜💙 #korra #asami #korrasami #korracosplay #avatar #avatarcosplay </content>
     <link href="https://tiktok.com/@athena__cos/video/7298032743907183915" rel="alternate"/>
     <published>2023-11-05T17:34:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7299143836427636014</id>
+    <title>“don’t be a skinny b***” #legday #cbum #gym #gymtok #buffwomen </title>
+    <updated>2023-11-08T17:26:15+00:00</updated>
+    <content>“don’t be a skinny b***” #legday #cbum #gym #gymtok #buffwomen </content>
+    <link href="https://tiktok.com/@athena__cos/video/7299143836427636014" rel="alternate"/>
+    <published>2023-11-08T17:26:15+00:00</published>
   </entry>
 </feed>
