@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maladytheclown</id>
   <title>@maladytheclown | TikTok</title>
-  <updated>2023-11-04T14:20:55+00:00</updated>
+  <updated>2023-11-07T18:09:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maladytheclown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maladytheclown/video/7283493765480729861</id>
-    <title>voice @Steven Rodriguez  con season really got the best of me this year. lots of down time resting and recouping. but how that that'd done...let's resume, shall we? #glumthesupernaturalhitman #dragking #makeupartist </title>
-    <updated>2023-09-27T13:15:44+00:00</updated>
-    <content>voice @Steven Rodriguez  con season really got the best of me this year. lots of down time resting and recouping. but how that that'd done...let's resume, shall we? #glumthesupernaturalhitman #dragking #makeupartist </content>
-    <link href="https://tiktok.com/@maladytheclown/video/7283493765480729861" rel="alternate"/>
-    <published>2023-09-27T13:15:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maladytheclown/video/7283598888324451590</id>
     <title>best time of year ❤️ #onthisday #halloweencountdown </title>
@@ -91,5 +83,13 @@
     <content>#onthisday #maladytheclown </content>
     <link href="https://tiktok.com/@maladytheclown/video/7297611795093671173" rel="alternate"/>
     <published>2023-11-04T14:20:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maladytheclown/video/7298783877189995782</id>
+    <title>new cosplay! accessories from @Spirit Halloween  song @ashnikko #samtrickrtreat #samhalloween #samtrickrtreatcosplay </title>
+    <updated>2023-11-07T18:09:11+00:00</updated>
+    <content>new cosplay! accessories from @Spirit Halloween  song @ashnikko #samtrickrtreat #samhalloween #samtrickrtreatcosplay </content>
+    <link href="https://tiktok.com/@maladytheclown/video/7298783877189995782" rel="alternate"/>
+    <published>2023-11-07T18:09:11+00:00</published>
   </entry>
 </feed>
