@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maruzee_dragon</id>
   <title>@maruzee_dragon | TikTok</title>
-  <updated>2023-11-06T02:23:01+00:00</updated>
+  <updated>2023-11-08T02:13:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maruzee_dragon</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maruzee_dragon/video/7293699048471596293</id>
-    <title>29 today! 🎂🎈🥲</title>
-    <updated>2023-10-25T01:17:27+00:00</updated>
-    <content>29 today! 🎂🎈🥲</content>
-    <link href="https://tiktok.com/@maruzee_dragon/video/7293699048471596293" rel="alternate"/>
-    <published>2023-10-25T01:17:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maruzee_dragon/video/7294454655612931333</id>
     <title>⚠️FAKEBLOOD⚠️ Sorry but I HAD to post this video...Because, you know, it's spooky season!🎃👻  Should I do one with lightsabers next?! #martialarts #transition #halloween </title>
@@ -91,5 +83,13 @@
     <content>More kicks, just like you asked! 😁👍Pretend I'm not in my PJs, alright?😂 #martialarts #trainedprofessional #taekwondo #mma #sport #kick #flexible #gym </content>
     <link href="https://tiktok.com/@maruzee_dragon/video/7298168960304958726" rel="alternate"/>
     <published>2023-11-06T02:23:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maruzee_dragon/video/7298908558517636358</id>
+    <title>Final round with Mileena, I promise!🫡💜 #mk #mileena #kitana #videogames  #cosplay </title>
+    <updated>2023-11-08T02:13:01+00:00</updated>
+    <content>Final round with Mileena, I promise!🫡💜 #mk #mileena #kitana #videogames  #cosplay </content>
+    <link href="https://tiktok.com/@maruzee_dragon/video/7298908558517636358" rel="alternate"/>
+    <published>2023-11-08T02:13:01+00:00</published>
   </entry>
 </feed>
