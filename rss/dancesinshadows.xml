@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-11-09T05:54:24+00:00</updated>
+  <updated>2023-11-09T14:19:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7296617618289659142</id>
-    <title>one of my favorite songs. just wish people would learn from it 💔 #zombie #skeleton #halloween </title>
-    <updated>2023-11-01T22:02:59+00:00</updated>
-    <content>one of my favorite songs. just wish people would learn from it 💔 #zombie #skeleton #halloween </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7296617618289659142" rel="alternate"/>
-    <published>2023-11-01T22:02:59+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7296938496126651654</id>
     <title>The room was pretty empty the day after Halloween, but we still had fun. I'll be back next week as co-host. What a way to end my busy Halloweek!   #dragperformance #dragperformer #dancesinshadows </title>
@@ -91,5 +83,13 @@
     <content>Replying to @vonne317booklover </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7299336688856304902" rel="alternate"/>
     <published>2023-11-09T05:54:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7299466940647525638</id>
+    <title>week 6 of performing in person, on stage. I feel alot more confident and comfortable interacting upclose with people.  I made everything but the blue unitard that I found thrifting #thunderandlightning #dragperformance #glumthesupernaturalhitman </title>
+    <updated>2023-11-09T14:19:50+00:00</updated>
+    <content>week 6 of performing in person, on stage. I feel alot more confident and comfortable interacting upclose with people.  I made everything but the blue unitard that I found thrifting #thunderandlightning #dragperformance #glumthesupernaturalhitman </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7299466940647525638" rel="alternate"/>
+    <published>2023-11-09T14:19:50+00:00</published>
   </entry>
 </feed>
