@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maladytheclown</id>
   <title>@maladytheclown | TikTok</title>
-  <updated>2023-11-07T18:09:11+00:00</updated>
+  <updated>2023-11-09T15:28:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maladytheclown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maladytheclown/video/7283598888324451590</id>
-    <title>best time of year ❤️ #onthisday #halloweencountdown </title>
-    <updated>2023-09-27T20:03:42+00:00</updated>
-    <content>best time of year ❤️ #onthisday #halloweencountdown </content>
-    <link href="https://tiktok.com/@maladytheclown/video/7283598888324451590" rel="alternate"/>
-    <published>2023-09-27T20:03:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maladytheclown/video/7284640483928755462</id>
     <title>im waiting 🩵  #glumthesupernaturalhitman #makeupartist #dragking </title>
@@ -91,5 +83,13 @@
     <content>new cosplay! accessories from @Spirit Halloween  song @ashnikko #samtrickrtreat #samhalloween #samtrickrtreatcosplay </content>
     <link href="https://tiktok.com/@maladytheclown/video/7298783877189995782" rel="alternate"/>
     <published>2023-11-07T18:09:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maladytheclown/video/7299484759120416005</id>
+    <title>this was the most elaborate hand sewn costume yet 😅❤️#wonderland #whiterabbitcosplay #makeupartist </title>
+    <updated>2023-11-09T15:28:57+00:00</updated>
+    <content>this was the most elaborate hand sewn costume yet 😅❤️#wonderland #whiterabbitcosplay #makeupartist </content>
+    <link href="https://tiktok.com/@maladytheclown/video/7299484759120416005" rel="alternate"/>
+    <published>2023-11-09T15:28:57+00:00</published>
   </entry>
 </feed>
