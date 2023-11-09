@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@charlesthegr8</id>
   <title>@charlesthegr8 | TikTok</title>
-  <updated>2023-11-08T19:54:35+00:00</updated>
+  <updated>2023-11-09T12:35:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @charlesthegr8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7292027605975387434</id>
-    <title>Learn from your failures in order achieve better version of yourself!!! 🧐 ##iykyk##characterdevelopment##charlesthegr8</title>
-    <updated>2023-10-20T13:11:33+00:00</updated>
-    <content>Learn from your failures in order achieve better version of yourself!!! 🧐 ##iykyk##characterdevelopment##charlesthegr8</content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7292027605975387434" rel="alternate"/>
-    <published>2023-10-20T13:11:33+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@charlesthegr8/video/7292903218449861930</id>
     <title>Bro has all the confidence in the world lookin like that 😂  #bro #iykyk #charlesthegr8</title>
@@ -91,5 +83,13 @@
     <content>Its really just that simple!!! 😎 #iykyk #relatable #block #charlesthegr8 </content>
     <link href="https://tiktok.com/@charlesthegr8/video/7299182058826386731" rel="alternate"/>
     <published>2023-11-08T19:54:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7299439983201570094</id>
+    <title>To gain all that power, but at what cost? #iykyk #anime #sharingan #uchiha #naruto </title>
+    <updated>2023-11-09T12:35:23+00:00</updated>
+    <content>To gain all that power, but at what cost? #iykyk #anime #sharingan #uchiha #naruto </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7299439983201570094" rel="alternate"/>
+    <published>2023-11-09T12:35:23+00:00</published>
   </entry>
 </feed>
