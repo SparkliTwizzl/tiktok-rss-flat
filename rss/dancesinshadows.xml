@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-11-09T16:53:43+00:00</updated>
+  <updated>2023-11-09T19:47:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7297223319865314565</id>
-    <title>My final Halloween form 🎃❤️🙃 October was intense. now to see what November brings #skeleton #spookyseason #skeletonmakeup </title>
-    <updated>2023-11-03T13:13:26+00:00</updated>
-    <content>My final Halloween form 🎃❤️🙃 October was intense. now to see what November brings #skeleton #spookyseason #skeletonmakeup </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7297223319865314565" rel="alternate"/>
-    <published>2023-11-03T13:13:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7297228657968336134</id>
     <title>so much anxiety.lol. I like to bring only my best to each event, which results in alot of worry and stress while planning things out. and then, I get social anxiety while out 🙃😅 if I come across aloof, that's why #nervous #stressed #cosplay </title>
@@ -91,5 +83,13 @@
     <content>fun with filters.. I handmade the tombstone behind me 6 yrs ago using old boxes and tissue paper #trickrtreat #samtrickrtreat #trickrtreatcosplay </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7299506598630657285" rel="alternate"/>
     <published>2023-11-09T16:53:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7299551454644276486</id>
+    <title>my first performance of last night before I brought the light show later on #mommyissues #dragshow </title>
+    <updated>2023-11-09T19:47:48+00:00</updated>
+    <content>my first performance of last night before I brought the light show later on #mommyissues #dragshow </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7299551454644276486" rel="alternate"/>
+    <published>2023-11-09T19:47:48+00:00</published>
   </entry>
 </feed>
