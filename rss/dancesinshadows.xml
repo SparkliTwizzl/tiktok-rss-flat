@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-11-07T22:31:17+00:00</updated>
+  <updated>2023-11-09T05:54:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7296561466042289413</id>
-    <title>#duet with @The.Lupina.Kronicalz #spookyseason finally got around tonthisnduet 🙃❤️🎃 #skeleton #spookyscaryskeletons </title>
-    <updated>2023-11-01T18:25:06+00:00</updated>
-    <content>#duet with @The.Lupina.Kronicalz #spookyseason finally got around tonthisnduet 🙃❤️🎃 #skeleton #spookyscaryskeletons </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7296561466042289413" rel="alternate"/>
-    <published>2023-11-01T18:25:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7296617618289659142</id>
     <title>one of my favorite songs. just wish people would learn from it 💔 #zombie #skeleton #halloween </title>
@@ -91,5 +83,13 @@
     <content>made this look a few weeks back ❤️🩵 #icecream #rainbowicecream #foamwig</content>
     <link href="https://tiktok.com/@dancesinshadows/video/7298851417337433349" rel="alternate"/>
     <published>2023-11-07T22:31:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7299336688856304902</id>
+    <title>Replying to @vonne317booklover </title>
+    <updated>2023-11-09T05:54:24+00:00</updated>
+    <content>Replying to @vonne317booklover </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7299336688856304902" rel="alternate"/>
+    <published>2023-11-09T05:54:24+00:00</published>
   </entry>
 </feed>
