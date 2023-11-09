@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-11-07T21:21:31+00:00</updated>
+  <updated>2023-11-08T21:28:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7296206070593228075</id>
-    <title>Replying to @archangel72577 #reply #solardidsystem #ssvesper </title>
-    <updated>2023-10-31T19:26:14+00:00</updated>
-    <content>Replying to @archangel72577 #reply #solardidsystem #ssvesper </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7296206070593228075" rel="alternate"/>
-    <published>2023-10-31T19:26:14+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7296228033839566126</id>
-    <title>#solardidsystem </title>
-    <updated>2023-10-31T20:51:23+00:00</updated>
-    <content>#solardidsystem </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7296228033839566126" rel="alternate"/>
-    <published>2023-10-31T20:51:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7296595500436966699</id>
     <title>Replying to @acv19907 #reply #solardidsystem #ssvesper </title>
@@ -91,5 +75,21 @@
     <content>🇵🇸 #freepalestine </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7298833413220420907" rel="alternate"/>
     <published>2023-11-07T21:21:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7299201058990017834</id>
+    <title>Hide and Seek - Imogen Heap #solardidsystem #sszyra #freepalestine #solarsings </title>
+    <updated>2023-11-08T21:08:22+00:00</updated>
+    <content>Hide and Seek - Imogen Heap #solardidsystem #sszyra #freepalestine #solarsings </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7299201058990017834" rel="alternate"/>
+    <published>2023-11-08T21:08:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7299206314821995819</id>
+    <title>It's almost as if my identity is dissociated.... #solardidsystem #sszyra </title>
+    <updated>2023-11-08T21:28:43+00:00</updated>
+    <content>It's almost as if my identity is dissociated.... #solardidsystem #sszyra </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7299206314821995819" rel="alternate"/>
+    <published>2023-11-08T21:28:43+00:00</published>
   </entry>
 </feed>
