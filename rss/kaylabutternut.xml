@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-11-10T09:09:31+00:00</updated>
+  <updated>2023-11-10T13:24:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7292605742253641003</id>
-    <title>Never back down never WHAT</title>
-    <updated>2023-10-22T02:35:00+00:00</updated>
-    <content>Never back down never WHAT</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7292605742253641003" rel="alternate"/>
-    <published>2023-10-22T02:35:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7292606588395785518</id>
     <title>Peace and love</title>
@@ -85,11 +77,19 @@
     <published>2023-11-10T08:48:47+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7299758001295068458</id>
-    <title>What is his beef with mms</title>
-    <updated>2023-11-10T09:09:31+00:00</updated>
-    <content>What is his beef with mms</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7299758001295068458" rel="alternate"/>
-    <published>2023-11-10T09:09:31+00:00</published>
+    <id>https://tiktok.com/@kaylabutternut/video/7299822511229848875</id>
+    <title>Never omg but good morning!!!</title>
+    <updated>2023-11-10T13:19:44+00:00</updated>
+    <content>Never omg but good morning!!!</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7299822511229848875" rel="alternate"/>
+    <published>2023-11-10T13:19:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7299823639837379882</id>
+    <title>This sound is so nostalgic for me</title>
+    <updated>2023-11-10T13:24:08+00:00</updated>
+    <content>This sound is so nostalgic for me</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7299823639837379882" rel="alternate"/>
+    <published>2023-11-10T13:24:08+00:00</published>
   </entry>
 </feed>
