@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-11-10T16:05:53+00:00</updated>
+  <updated>2023-11-05T07:02:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,22 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7292603132826127658</id>
+    <title>[no title]</title>
+    <updated>2023-10-22T02:24:51+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7292603132826127658" rel="alternate"/>
+    <published>2023-10-22T02:24:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7292604744588070190</id>
+    <title>Vegas</title>
+    <updated>2023-10-22T02:31:05+00:00</updated>
+    <content>Vegas</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7292604744588070190" rel="alternate"/>
+    <published>2023-10-22T02:31:05+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7292605329093840174</id>
     <title>Ily guys </title>
@@ -45,14 +61,6 @@
     <published>2023-11-02T07:15:06+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7297571597185994026</id>
-    <title>This show was sooo good until something too weird would happen and than it was good again </title>
-    <updated>2023-11-04T11:45:43+00:00</updated>
-    <content>This show was sooo good until something too weird would happen and than it was good again </content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7297571597185994026" rel="alternate"/>
-    <published>2023-11-04T11:45:43+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7297594311061851438</id>
     <title>New hoodie new nails </title>
     <updated>2023-11-04T13:13:21+00:00</updated>
@@ -83,13 +91,5 @@
     <content>Cruella Deville or Sherlock Holmes for my costume tomorrow </content>
     <link href="https://tiktok.com/@kaylabutternut/video/7297869864096517418" rel="alternate"/>
     <published>2023-11-05T07:02:44+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7299865325812862254</id>
-    <title>[no title]</title>
-    <updated>2023-11-10T16:05:53+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7299865325812862254" rel="alternate"/>
-    <published>2023-11-10T16:05:53+00:00</published>
   </entry>
 </feed>
