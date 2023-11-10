@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-11-08T17:26:15+00:00</updated>
+  <updated>2023-11-09T19:14:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7294321455238581547</id>
-    <title>Are you a goth muscle witch or a cottage core witch?  @Bella LeBaron #witchtok #witchcraft #witchesoftiktok #halloween </title>
-    <updated>2023-10-26T17:32:49+00:00</updated>
-    <content>Are you a goth muscle witch or a cottage core witch?  @Bella LeBaron #witchtok #witchcraft #witchesoftiktok #halloween </content>
-    <link href="https://tiktok.com/@athena__cos/video/7294321455238581547" rel="alternate"/>
-    <published>2023-10-26T17:32:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7294686735525530922</id>
     <title>When the book starts to feel real 🤍  My fantasy adventurers are @Bella LeBaron @Jackie O @Raine Emery @🦊prototype fox #ladyknight #knightcosplay #womeninarmor #booktok #fantasy #fantasycosplay #daydreamer #fantasyworld </title>
@@ -91,5 +83,13 @@
     <content>“don’t be a skinny b***” #legday #cbum #gym #gymtok #buffwomen </content>
     <link href="https://tiktok.com/@athena__cos/video/7299143836427636014" rel="alternate"/>
     <published>2023-11-08T17:26:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7299542906656951598</id>
+    <title>Bear with me while i try to be more aesthetic #legday #gym #buffwomen #womenwholift #gyminspo #hardstyle </title>
+    <updated>2023-11-09T19:14:53+00:00</updated>
+    <content>Bear with me while i try to be more aesthetic #legday #gym #buffwomen #womenwholift #gyminspo #hardstyle </content>
+    <link href="https://tiktok.com/@athena__cos/video/7299542906656951598" rel="alternate"/>
+    <published>2023-11-09T19:14:53+00:00</published>
   </entry>
 </feed>
