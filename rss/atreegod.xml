@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@atreegod</id>
   <title>@atreegod | TikTok</title>
-  <updated>2023-11-09T01:58:14+00:00</updated>
+  <updated>2023-11-10T00:28:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @atreegod</subtitle>
-  <entry>
-    <id>https://tiktok.com/@atreegod/video/7295583186984422702</id>
-    <title>[no title]</title>
-    <updated>2023-10-30T03:09:07+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@atreegod/video/7295583186984422702" rel="alternate"/>
-    <published>2023-10-30T03:09:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@atreegod/video/7296299529723186478</id>
     <title>Enderman and pirate #wlw #halloween </title>
@@ -91,5 +83,13 @@
     <content>Bhad babbie supremacy #wlw #lgbt </content>
     <link href="https://tiktok.com/@atreegod/video/7299275797129448746" rel="alternate"/>
     <published>2023-11-09T01:58:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7299623711043259690</id>
+    <title>Walking home in little italy check #wlw #nyc </title>
+    <updated>2023-11-10T00:28:22+00:00</updated>
+    <content>Walking home in little italy check #wlw #nyc </content>
+    <link href="https://tiktok.com/@atreegod/video/7299623711043259690" rel="alternate"/>
+    <published>2023-11-10T00:28:22+00:00</published>
   </entry>
 </feed>
