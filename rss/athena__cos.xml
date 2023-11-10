@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-11-09T19:14:53+00:00</updated>
+  <updated>2023-11-10T20:05:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7294686735525530922</id>
-    <title>When the book starts to feel real 🤍  My fantasy adventurers are @Bella LeBaron @Jackie O @Raine Emery @🦊prototype fox #ladyknight #knightcosplay #womeninarmor #booktok #fantasy #fantasycosplay #daydreamer #fantasyworld </title>
-    <updated>2023-10-27T17:10:15+00:00</updated>
-    <content>When the book starts to feel real 🤍  My fantasy adventurers are @Bella LeBaron @Jackie O @Raine Emery @🦊prototype fox #ladyknight #knightcosplay #womeninarmor #booktok #fantasy #fantasycosplay #daydreamer #fantasyworld </content>
-    <link href="https://tiktok.com/@athena__cos/video/7294686735525530922" rel="alternate"/>
-    <published>2023-10-27T17:10:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7295097697109937451</id>
     <title>What if you could actually get pulled into a fantasy world? @Bella LeBaron @Jackie O @Raine Emery @🦊prototype fox #ladyknight #knightcosplay #womeninarmor #booktok #fantasycosplay #fantasy </title>
@@ -91,5 +83,13 @@
     <content>Bear with me while i try to be more aesthetic #legday #gym #buffwomen #womenwholift #gyminspo #hardstyle </content>
     <link href="https://tiktok.com/@athena__cos/video/7299542906656951598" rel="alternate"/>
     <published>2023-11-09T19:14:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7299927033327537451</id>
+    <title>It’s my cross to bear 😩</title>
+    <updated>2023-11-10T20:05:18+00:00</updated>
+    <content>It’s my cross to bear 😩</content>
+    <link href="https://tiktok.com/@athena__cos/video/7299927033327537451" rel="alternate"/>
+    <published>2023-11-10T20:05:18+00:00</published>
   </entry>
 </feed>
