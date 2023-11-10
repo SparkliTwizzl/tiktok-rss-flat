@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maruzee_dragon</id>
   <title>@maruzee_dragon | TikTok</title>
-  <updated>2023-11-08T02:13:01+00:00</updated>
+  <updated>2023-11-10T16:23:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maruzee_dragon</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maruzee_dragon/video/7294454655612931333</id>
-    <title>⚠️FAKEBLOOD⚠️ Sorry but I HAD to post this video...Because, you know, it's spooky season!🎃👻  Should I do one with lightsabers next?! #martialarts #transition #halloween </title>
-    <updated>2023-10-27T02:09:35+00:00</updated>
-    <content>⚠️FAKEBLOOD⚠️ Sorry but I HAD to post this video...Because, you know, it's spooky season!🎃👻  Should I do one with lightsabers next?! #martialarts #transition #halloween </content>
-    <link href="https://tiktok.com/@maruzee_dragon/video/7294454655612931333" rel="alternate"/>
-    <published>2023-10-27T02:09:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maruzee_dragon/video/7294813869732547846</id>
     <title>Cuz you asked for it 🤡🖤♦️ #transition  #harleyquinn #dccomics #joker #cosplay </title>
@@ -91,5 +83,13 @@
     <content>Final round with Mileena, I promise!🫡💜 #mk #mileena #kitana #videogames  #cosplay </content>
     <link href="https://tiktok.com/@maruzee_dragon/video/7298908558517636358" rel="alternate"/>
     <published>2023-11-08T02:13:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maruzee_dragon/video/7299869904235187462</id>
+    <title>Kick training in Gotham's shadows - prepping to be the next guardian in my Batman PJs. 😅🌃🦇 #martialarts #kick #taekwondo #mma #karate #training #fitness #flexible #split </title>
+    <updated>2023-11-10T16:23:31+00:00</updated>
+    <content>Kick training in Gotham's shadows - prepping to be the next guardian in my Batman PJs. 😅🌃🦇 #martialarts #kick #taekwondo #mma #karate #training #fitness #flexible #split </content>
+    <link href="https://tiktok.com/@maruzee_dragon/video/7299869904235187462" rel="alternate"/>
+    <published>2023-11-10T16:23:31+00:00</published>
   </entry>
 </feed>
