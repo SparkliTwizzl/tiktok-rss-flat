@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@juliafox038711</id>
   <title>@juliafox038711 | TikTok</title>
-  <updated>2023-11-10T14:48:22+00:00</updated>
+  <updated>2023-11-10T21:18:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juliafox038711</subtitle>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7297767194048466219</id>
-    <title>ya</title>
-    <updated>2023-11-05T00:24:10+00:00</updated>
-    <content>ya</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7297767194048466219" rel="alternate"/>
-    <published>2023-11-05T00:24:10+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7298111891946278190</id>
-    <title>GRWM in 22 sec and i forget to add in my lipstick</title>
-    <updated>2023-11-05T22:41:41+00:00</updated>
-    <content>GRWM in 22 sec and i forget to add in my lipstick</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7298111891946278190" rel="alternate"/>
-    <published>2023-11-05T22:41:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@juliafox038711/video/7298117041666526506</id>
     <title>lets ignore that one transition i messed up</title>
@@ -91,5 +75,21 @@
     <content>i mean i wasnt but i can if you would like</content>
     <link href="https://tiktok.com/@juliafox038711/video/7299845341187149099" rel="alternate"/>
     <published>2023-11-10T14:48:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7299944520609746219</id>
+    <title>one less problem without ya</title>
+    <updated>2023-11-10T21:13:17+00:00</updated>
+    <content>one less problem without ya</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7299944520609746219" rel="alternate"/>
+    <published>2023-11-10T21:13:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7299945962171075882</id>
+    <title>nova is in my lap</title>
+    <updated>2023-11-10T21:18:53+00:00</updated>
+    <content>nova is in my lap</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7299945962171075882" rel="alternate"/>
+    <published>2023-11-10T21:18:53+00:00</published>
   </entry>
 </feed>
