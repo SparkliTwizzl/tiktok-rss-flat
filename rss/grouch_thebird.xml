@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@grouch_thebird</id>
   <title>@grouch_thebird | TikTok</title>
-  <updated>2023-11-10T12:28:20.690364+00:00</updated>
+  <updated>2023-11-10T02:57:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,4 +12,84 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @grouch_thebird</subtitle>
+  <entry>
+    <id>https://tiktok.com/@grouch_thebird/video/7292672787385240863</id>
+    <title>#CapCut </title>
+    <updated>2023-10-22T06:55:29+00:00</updated>
+    <content>#CapCut </content>
+    <link href="https://tiktok.com/@grouch_thebird/video/7292672787385240863" rel="alternate"/>
+    <published>2023-10-22T06:55:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grouch_thebird/video/7296257131118955818</id>
+    <title>[no title]</title>
+    <updated>2023-10-31T22:44:20+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@grouch_thebird/video/7296257131118955818" rel="alternate"/>
+    <published>2023-10-31T22:44:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grouch_thebird/video/7296258779279084842</id>
+    <title>[no title]</title>
+    <updated>2023-10-31T22:50:43+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@grouch_thebird/video/7296258779279084842" rel="alternate"/>
+    <published>2023-10-31T22:50:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grouch_thebird/video/7296271015284329774</id>
+    <title>&gt;:3</title>
+    <updated>2023-10-31T23:38:03+00:00</updated>
+    <content>&gt;:3</content>
+    <link href="https://tiktok.com/@grouch_thebird/video/7296271015284329774" rel="alternate"/>
+    <published>2023-10-31T23:38:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grouch_thebird/video/7297385748448415022</id>
+    <title>[no title]</title>
+    <updated>2023-11-03T23:43:51+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@grouch_thebird/video/7297385748448415022" rel="alternate"/>
+    <published>2023-11-03T23:43:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grouch_thebird/video/7297387666906139947</id>
+    <title>[no title]</title>
+    <updated>2023-11-03T23:51:28+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@grouch_thebird/video/7297387666906139947" rel="alternate"/>
+    <published>2023-11-03T23:51:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grouch_thebird/video/7297388206901792042</id>
+    <title>[no title]</title>
+    <updated>2023-11-03T23:53:25+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@grouch_thebird/video/7297388206901792042" rel="alternate"/>
+    <published>2023-11-03T23:53:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grouch_thebird/video/7299658038879898926</id>
+    <title>[no title]</title>
+    <updated>2023-11-10T02:41:32+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@grouch_thebird/video/7299658038879898926" rel="alternate"/>
+    <published>2023-11-10T02:41:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grouch_thebird/video/7299658312658963758</id>
+    <title>[no title]</title>
+    <updated>2023-11-10T02:42:35+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@grouch_thebird/video/7299658312658963758" rel="alternate"/>
+    <published>2023-11-10T02:42:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@grouch_thebird/video/7299662181807738155</id>
+    <title>#psychward #nolaces #grippysocks #benadryldemon #trazedomed </title>
+    <updated>2023-11-10T02:57:38+00:00</updated>
+    <content>#psychward #nolaces #grippysocks #benadryldemon #trazedomed </content>
+    <link href="https://tiktok.com/@grouch_thebird/video/7299662181807738155" rel="alternate"/>
+    <published>2023-11-10T02:57:38+00:00</published>
+  </entry>
 </feed>
