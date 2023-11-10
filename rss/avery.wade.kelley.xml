@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-11-08T02:09:58+00:00</updated>
+  <updated>2023-11-10T14:07:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7294733872976235818</id>
-    <title>Self-Check-In! #fyp </title>
-    <updated>2023-10-27T20:13:12+00:00</updated>
-    <content>Self-Check-In! #fyp </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7294733872976235818" rel="alternate"/>
-    <published>2023-10-27T20:13:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7295026344834993450</id>
     <title>I can't believe we live here. #fyp #trans </title>
@@ -91,5 +83,13 @@
     <content>#duet with @judes Small thing to help a big problem. #fyp </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7298907747213397290" rel="alternate"/>
     <published>2023-11-08T02:09:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7299834852403318062</id>
+    <title>And before you ask, no, I don't have an icebrush yet. Lol. This Swamp Boy ain't used to this. #fyp </title>
+    <updated>2023-11-10T14:07:39+00:00</updated>
+    <content>And before you ask, no, I don't have an icebrush yet. Lol. This Swamp Boy ain't used to this. #fyp </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7299834852403318062" rel="alternate"/>
+    <published>2023-11-10T14:07:39+00:00</published>
   </entry>
 </feed>
