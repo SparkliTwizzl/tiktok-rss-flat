@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dannyphantom.exe</id>
   <title>@dannyphantom.exe | TikTok</title>
-  <updated>2023-11-09T03:15:45+00:00</updated>
+  <updated>2023-11-10T03:15:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dannyphantom.exe</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7297424929446808875</id>
-    <title>WAS THAT THE FIGHT OF ‘87???!!!</title>
-    <updated>2023-11-04T02:15:57+00:00</updated>
-    <content>WAS THAT THE FIGHT OF ‘87???!!!</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7297424929446808875" rel="alternate"/>
-    <published>2023-11-04T02:15:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dannyphantom.exe/video/7297425098422652202</id>
     <title>tag someone with ADHD</title>
@@ -85,11 +77,19 @@
     <published>2023-11-09T03:15:26+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7299295793746283818</id>
-    <title>😐</title>
-    <updated>2023-11-09T03:15:45+00:00</updated>
-    <content>😐</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7299295793746283818" rel="alternate"/>
-    <published>2023-11-09T03:15:45+00:00</published>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7299666857680932142</id>
+    <title>THE ORATRICE MECANI-</title>
+    <updated>2023-11-10T03:15:47+00:00</updated>
+    <content>THE ORATRICE MECANI-</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7299666857680932142" rel="alternate"/>
+    <published>2023-11-10T03:15:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7299666907626474794</id>
+    <title>tag ur siblings or mom (if ur brave)</title>
+    <updated>2023-11-10T03:15:55+00:00</updated>
+    <content>tag ur siblings or mom (if ur brave)</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7299666907626474794" rel="alternate"/>
+    <published>2023-11-10T03:15:55+00:00</published>
   </entry>
 </feed>
