@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-11-10T14:27:00+00:00</updated>
+  <updated>2023-11-11T17:20:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7297353733921312005</id>
-    <title>#spookyseason #skeletonmakeup #spookyscaryskeletons </title>
-    <updated>2023-11-03T21:39:31+00:00</updated>
-    <content>#spookyseason #skeletonmakeup #spookyscaryskeletons </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7297353733921312005" rel="alternate"/>
-    <published>2023-11-03T21:39:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7297619081711193349</id>
     <title>Still true 😝😂😘 #onthisday #maladytheclown #lifetruth #clown </title>
@@ -91,5 +83,13 @@
     <content>back when I had more time and energy to do full makeups 😅❤️ I'm still recouping from Wednesdays drag show. 🙃 #onthisday #dancesinshadows </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7299839876952886534" rel="alternate"/>
     <published>2023-11-10T14:27:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7300255548862123269</id>
+    <title>pt 2 of my final act from last Wednesday featuring @NSP  really channeled my inner Danny for this one 😅🤣 #lightningandthunder #nspband #glumthesupernaturalhitman </title>
+    <updated>2023-11-11T17:20:01+00:00</updated>
+    <content>pt 2 of my final act from last Wednesday featuring @NSP  really channeled my inner Danny for this one 😅🤣 #lightningandthunder #nspband #glumthesupernaturalhitman </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7300255548862123269" rel="alternate"/>
+    <published>2023-11-11T17:20:01+00:00</published>
   </entry>
 </feed>
