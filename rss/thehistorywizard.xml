@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thehistorywizard</id>
   <title>@thehistorywizard | TikTok</title>
-  <updated>2023-11-09T14:18:27+00:00</updated>
+  <updated>2023-11-10T14:57:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thehistorywizard</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thehistorywizard/video/7297614491158695211</id>
-    <title>Please be patient. I'm doing my best. #thehistorywizard #historytiktok #edutok #learnontiktok </title>
-    <updated>2023-11-04T14:31:39+00:00</updated>
-    <content>Please be patient. I'm doing my best. #thehistorywizard #historytiktok #edutok #learnontiktok </content>
-    <link href="https://tiktok.com/@thehistorywizard/video/7297614491158695211" rel="alternate"/>
-    <published>2023-11-04T14:31:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thehistorywizard/video/7297639836385660206</id>
     <title>#duet with @brotherhood of evil gays Boost  #brotherhoodofevilgays #thehistorywizard </title>
@@ -91,5 +83,13 @@
     <content>Be aware. Knowledge is power. #thehistorywizard #historytiktok #edutok #learnontiktok #myanmar #Rohingya </content>
     <link href="https://tiktok.com/@thehistorywizard/video/7299466551785229610" rel="alternate"/>
     <published>2023-11-09T14:18:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thehistorywizard/video/7299847609995300142</id>
+    <title>You are not alone. #thehistorywizard #historytiktok #edutok #learnontiktok </title>
+    <updated>2023-11-10T14:57:08+00:00</updated>
+    <content>You are not alone. #thehistorywizard #historytiktok #edutok #learnontiktok </content>
+    <link href="https://tiktok.com/@thehistorywizard/video/7299847609995300142" rel="alternate"/>
+    <published>2023-11-10T14:57:08+00:00</published>
   </entry>
 </feed>

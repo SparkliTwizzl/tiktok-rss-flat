@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-11-09T05:49:08+00:00</updated>
+  <updated>2023-11-11T01:42:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7297289167279803694</id>
-    <title>I didn't wanna wake up 😭😭😭 #solardidsystem #ssquinn #taylorswift #reputationtaylorsversion @Taylor Swift </title>
-    <updated>2023-11-03T17:29:12+00:00</updated>
-    <content>I didn't wanna wake up 😭😭😭 #solardidsystem #ssquinn #taylorswift #reputationtaylorsversion @Taylor Swift </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7297289167279803694" rel="alternate"/>
-    <published>2023-11-03T17:29:12+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7297344811785293099</id>
-    <title>The counter says 184 but it doesn't update right away so it could be less. #solardidsystem #ssquinn #ssupdate </title>
-    <updated>2023-11-03T21:05:02+00:00</updated>
-    <content>The counter says 184 but it doesn't update right away so it could be less. #solardidsystem #ssquinn #ssupdate </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7297344811785293099" rel="alternate"/>
-    <published>2023-11-03T21:05:02+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7297347217625451822</id>
     <title>[no title]</title>
@@ -91,5 +75,21 @@
     <content>#reply to @Trashcat ⏰⏰ can say all they want about being accessible but then the app crashes every time I edit captions 😑 #solardidsystem #sszyra #susipesto </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7299335292438449454" rel="alternate"/>
     <published>2023-11-09T05:49:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7300002121150221614</id>
+    <title>Crazy - Gnarls Barkley #solardidsystem #sszyra #solarsings </title>
+    <updated>2023-11-11T00:56:45+00:00</updated>
+    <content>Crazy - Gnarls Barkley #solardidsystem #sszyra #solarsings </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7300002121150221614" rel="alternate"/>
+    <published>2023-11-11T00:56:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7300013964392549675</id>
+    <title>it's me, hi #solardidsystem #sszyra </title>
+    <updated>2023-11-11T01:42:46+00:00</updated>
+    <content>it's me, hi #solardidsystem #sszyra </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7300013964392549675" rel="alternate"/>
+    <published>2023-11-11T01:42:46+00:00</published>
   </entry>
 </feed>
