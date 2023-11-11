@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@transcendent_tess</id>
   <title>@transcendent_tess | TikTok</title>
-  <updated>2023-10-30T18:11:09+00:00</updated>
+  <updated>2023-11-11T18:33:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @transcendent_tess</subtitle>
-  <entry>
-    <id>https://tiktok.com/@transcendent_tess/video/7288804332840013098</id>
-    <title>The tragic tale ends in more tragedy. thank you for hurting my feelings effect. #theaterkid #flunk #failedcollegestudent #imoldernow #fyp #funny </title>
-    <updated>2023-10-11T20:43:41+00:00</updated>
-    <content>The tragic tale ends in more tragedy. thank you for hurting my feelings effect. #theaterkid #flunk #failedcollegestudent #imoldernow #fyp #funny </content>
-    <link href="https://tiktok.com/@transcendent_tess/video/7288804332840013098" rel="alternate"/>
-    <published>2023-10-11T20:43:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@transcendent_tess/video/7289097309458091306</id>
     <title>I did manage to get some sleep. 😰 #trucker #truckerlife #truckerproblems #reefer #sleeperberth #transtrucker #lgbttruckers #lgbt🌈 #workingconditions </title>
@@ -91,5 +83,13 @@
     <content>the sound of my for you Page lately... I can't help watching the train wreck sometimes... #parody #filter #fyp #xyzcba #funnyvideos #iqchallenge </content>
     <link href="https://tiktok.com/@transcendent_tess/video/7295815623672679722" rel="alternate"/>
     <published>2023-10-30T18:11:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@transcendent_tess/video/7300274416460614955</id>
+    <title>NINTENDO did it again w/@Aurrekine </title>
+    <updated>2023-11-11T18:33:21+00:00</updated>
+    <content>NINTENDO did it again w/@Aurrekine </content>
+    <link href="https://tiktok.com/@transcendent_tess/video/7300274416460614955" rel="alternate"/>
+    <published>2023-11-11T18:33:21+00:00</published>
   </entry>
 </feed>
