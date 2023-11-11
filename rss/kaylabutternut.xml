@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-11-10T08:48:47+00:00</updated>
+  <updated>2023-11-11T05:20:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7292604744588070190</id>
-    <title>Vegas</title>
-    <updated>2023-10-22T02:31:05+00:00</updated>
-    <content>Vegas</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7292604744588070190" rel="alternate"/>
-    <published>2023-10-22T02:31:05+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7292605329093840174</id>
-    <title>Ily guys </title>
-    <updated>2023-10-22T02:33:23+00:00</updated>
-    <content>Ily guys </content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7292605329093840174" rel="alternate"/>
-    <published>2023-10-22T02:33:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7292605742253641003</id>
     <title>Never back down never WHAT</title>
@@ -91,5 +75,21 @@
     <content>Its 3 am </content>
     <link href="https://tiktok.com/@kaylabutternut/video/7299752675422276906" rel="alternate"/>
     <published>2023-11-10T08:48:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7300060587784949035</id>
+    <title>This transition is harder than it looks</title>
+    <updated>2023-11-11T04:43:43+00:00</updated>
+    <content>This transition is harder than it looks</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7300060587784949035" rel="alternate"/>
+    <published>2023-11-11T04:43:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7300070149762141483</id>
+    <title>The smile at the end </title>
+    <updated>2023-11-11T05:20:52+00:00</updated>
+    <content>The smile at the end </content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7300070149762141483" rel="alternate"/>
+    <published>2023-11-11T05:20:52+00:00</published>
   </entry>
 </feed>
