@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-11-11T05:20:52+00:00</updated>
+  <updated>2023-11-11T05:43:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7292605742253641003</id>
-    <title>Never back down never WHAT</title>
-    <updated>2023-10-22T02:35:00+00:00</updated>
-    <content>Never back down never WHAT</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7292605742253641003" rel="alternate"/>
-    <published>2023-10-22T02:35:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7292606588395785518</id>
     <title>Peace and love</title>
@@ -91,5 +83,13 @@
     <content>The smile at the end </content>
     <link href="https://tiktok.com/@kaylabutternut/video/7300070149762141483" rel="alternate"/>
     <published>2023-11-11T05:20:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7300076045242273070</id>
+    <title>NEVER GIVE UP</title>
+    <updated>2023-11-11T05:43:45+00:00</updated>
+    <content>NEVER GIVE UP</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7300076045242273070" rel="alternate"/>
+    <published>2023-11-11T05:43:45+00:00</published>
   </entry>
 </feed>
