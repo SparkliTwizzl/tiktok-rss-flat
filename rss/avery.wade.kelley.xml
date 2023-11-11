@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-11-10T14:07:39+00:00</updated>
+  <updated>2023-11-10T20:54:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7295026344834993450</id>
-    <title>I can't believe we live here. #fyp #trans </title>
-    <updated>2023-10-28T15:08:15+00:00</updated>
-    <content>I can't believe we live here. #fyp #trans </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7295026344834993450" rel="alternate"/>
-    <published>2023-10-28T15:08:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7295031618186595627</id>
     <title>It's been a while since a show has gotten me so excited. Definitely put this on your list. Warning: It is graphic. #fyp </title>
@@ -91,5 +83,13 @@
     <content>And before you ask, no, I don't have an icebrush yet. Lol. This Swamp Boy ain't used to this. #fyp </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7299834852403318062" rel="alternate"/>
     <published>2023-11-10T14:07:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7299939793729883438</id>
+    <title>I look so fuckin mean, man. AND I FEEL I DO THAT A LOT, OH NO. Lol. #fyp </title>
+    <updated>2023-11-10T20:54:59+00:00</updated>
+    <content>I look so fuckin mean, man. AND I FEEL I DO THAT A LOT, OH NO. Lol. #fyp </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7299939793729883438" rel="alternate"/>
+    <published>2023-11-10T20:54:59+00:00</published>
   </entry>
 </feed>
