@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-11-10T20:05:18+00:00</updated>
+  <updated>2023-11-11T17:05:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7295097697109937451</id>
-    <title>What if you could actually get pulled into a fantasy world? @Bella LeBaron @Jackie O @Raine Emery @🦊prototype fox #ladyknight #knightcosplay #womeninarmor #booktok #fantasycosplay #fantasy </title>
-    <updated>2023-10-28T19:45:06+00:00</updated>
-    <content>What if you could actually get pulled into a fantasy world? @Bella LeBaron @Jackie O @Raine Emery @🦊prototype fox #ladyknight #knightcosplay #womeninarmor #booktok #fantasycosplay #fantasy </content>
-    <link href="https://tiktok.com/@athena__cos/video/7295097697109937451" rel="alternate"/>
-    <published>2023-10-28T19:45:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7295457806524697898</id>
     <title>Replying to @Jasmin💚 I’ve come home 🤍⚔️ #knightcosplay #womeninarmor #ladyknight #fantasycosplay #booktok #fantasy </title>
@@ -91,5 +83,13 @@
     <content>It’s my cross to bear 😩</content>
     <link href="https://tiktok.com/@athena__cos/video/7299927033327537451" rel="alternate"/>
     <published>2023-11-10T20:05:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7300251816657292587</id>
+    <title>I am the main source of the “CLANK CLANK CLANK” 😂🤍  My other adventurers are @Bella LeBaron @Raine Emery @Jackie O  #fantasy #armor #womeninarmor #ladyknight #knightcore #knights #knightcosplay #fantasycosplay </title>
+    <updated>2023-11-11T17:05:43+00:00</updated>
+    <content>I am the main source of the “CLANK CLANK CLANK” 😂🤍  My other adventurers are @Bella LeBaron @Raine Emery @Jackie O  #fantasy #armor #womeninarmor #ladyknight #knightcore #knights #knightcosplay #fantasycosplay </content>
+    <link href="https://tiktok.com/@athena__cos/video/7300251816657292587" rel="alternate"/>
+    <published>2023-11-11T17:05:43+00:00</published>
   </entry>
 </feed>
