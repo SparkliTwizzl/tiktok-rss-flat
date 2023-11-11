@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@adriananightmare</id>
   <title>@adriananightmare | TikTok</title>
-  <updated>2023-11-09T18:14:35+00:00</updated>
+  <updated>2023-11-10T23:51:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @adriananightmare</subtitle>
-  <entry>
-    <id>https://tiktok.com/@adriananightmare/video/7286979471641464107</id>
-    <title>Please, educate yourself. This is only to name a few. </title>
-    <updated>2023-10-06T22:42:17+00:00</updated>
-    <content>Please, educate yourself. This is only to name a few. </content>
-    <link href="https://tiktok.com/@adriananightmare/video/7286979471641464107" rel="alternate"/>
-    <published>2023-10-06T22:42:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@adriananightmare/video/7287261242241076523</id>
     <title>[no title]</title>
@@ -91,5 +83,13 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@adriananightmare/video/7299527359722556718" rel="alternate"/>
     <published>2023-11-09T18:14:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@adriananightmare/video/7299985252892855598</id>
+    <title>These cold months always remind me of you, Jonny. I love you. I'm sorry. I'm sorry the anger and the pain poisoned you. I'm sorry you thought I didn't love you or that you were disposable to me. That was never the case. I hope you're resting, buddy. </title>
+    <updated>2023-11-10T23:51:22+00:00</updated>
+    <content>These cold months always remind me of you, Jonny. I love you. I'm sorry. I'm sorry the anger and the pain poisoned you. I'm sorry you thought I didn't love you or that you were disposable to me. That was never the case. I hope you're resting, buddy. </content>
+    <link href="https://tiktok.com/@adriananightmare/video/7299985252892855598" rel="alternate"/>
+    <published>2023-11-10T23:51:22+00:00</published>
   </entry>
 </feed>
