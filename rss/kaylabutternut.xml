@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-11-05T07:02:44+00:00</updated>
+  <updated>2023-11-10T08:48:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7292603132826127658</id>
-    <title>[no title]</title>
-    <updated>2023-10-22T02:24:51+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7292603132826127658" rel="alternate"/>
-    <published>2023-10-22T02:24:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7292604744588070190</id>
     <title>Vegas</title>
@@ -91,5 +83,13 @@
     <content>Cruella Deville or Sherlock Holmes for my costume tomorrow </content>
     <link href="https://tiktok.com/@kaylabutternut/video/7297869864096517418" rel="alternate"/>
     <published>2023-11-05T07:02:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7299752675422276906</id>
+    <title>Its 3 am </title>
+    <updated>2023-11-10T08:48:47+00:00</updated>
+    <content>Its 3 am </content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7299752675422276906" rel="alternate"/>
+    <published>2023-11-10T08:48:47+00:00</published>
   </entry>
 </feed>
