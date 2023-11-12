@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avocadosnaliens</id>
   <title>@avocadosnaliens | TikTok</title>
-  <updated>2023-11-11T19:48:03+00:00</updated>
+  <updated>2023-11-11T22:21:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avocadosnaliens</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avocadosnaliens/video/7295436343235120427</id>
-    <title>#weddingphotographer #engagementshoot #sanfrancisco #photographersoftiktok </title>
-    <updated>2023-10-29T17:39:10+00:00</updated>
-    <content>#weddingphotographer #engagementshoot #sanfrancisco #photographersoftiktok </content>
-    <link href="https://tiktok.com/@avocadosnaliens/video/7295436343235120427" rel="alternate"/>
-    <published>2023-10-29T17:39:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avocadosnaliens/video/7295816497304292650</id>
     <title>Elizabeth and Jake are some of the most kind, gentle, adorable, just DREAM clients you could ever wish for. Im excited to share more of my work on here-i shouldve been doing it this entire time but life…lifes you right up sometimes. That and my fear of no</title>
@@ -91,5 +83,13 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@avocadosnaliens/video/7300293635491302699" rel="alternate"/>
     <published>2023-11-11T19:48:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7300333074557062442</id>
+    <title>[no title]</title>
+    <updated>2023-11-11T22:21:03+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7300333074557062442" rel="alternate"/>
+    <published>2023-11-11T22:21:03+00:00</published>
   </entry>
 </feed>
