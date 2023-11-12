@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-11-12T10:46:19+00:00</updated>
+  <updated>2023-11-12T22:14:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7297755212285234478</id>
-    <title>Still true</title>
-    <updated>2023-11-04T23:37:40+00:00</updated>
-    <content>Still true</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7297755212285234478" rel="alternate"/>
-    <published>2023-11-04T23:37:40+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7297788326482971950</id>
-    <title>I was sick during Halloween, should I still post my costumes </title>
-    <updated>2023-11-05T01:46:06+00:00</updated>
-    <content>I was sick during Halloween, should I still post my costumes </content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7297788326482971950" rel="alternate"/>
-    <published>2023-11-05T01:46:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7297869864096517418</id>
     <title>Cruella Deville or Sherlock Holmes for my costume tomorrow </title>
@@ -91,5 +75,21 @@
     <content>You cant even tell that I’m wearing 120mm heels in this </content>
     <link href="https://tiktok.com/@kaylabutternut/video/7300524759480093995" rel="alternate"/>
     <published>2023-11-12T10:46:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7300685716013518126</id>
+    <title>Jean skirt or plaid skirt today</title>
+    <updated>2023-11-12T21:09:25+00:00</updated>
+    <content>Jean skirt or plaid skirt today</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7300685716013518126" rel="alternate"/>
+    <published>2023-11-12T21:09:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7300702549290749230</id>
+    <title>TT is being weird, lmk if you see this </title>
+    <updated>2023-11-12T22:14:54+00:00</updated>
+    <content>TT is being weird, lmk if you see this </content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7300702549290749230" rel="alternate"/>
+    <published>2023-11-12T22:14:54+00:00</published>
   </entry>
 </feed>
