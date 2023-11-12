@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-11-12T04:38:49+00:00</updated>
+  <updated>2023-11-12T10:46:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7297594311061851438</id>
-    <title>New hoodie new nails </title>
-    <updated>2023-11-04T13:13:21+00:00</updated>
-    <content>New hoodie new nails </content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7297594311061851438" rel="alternate"/>
-    <published>2023-11-04T13:13:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7297755212285234478</id>
     <title>Still true</title>
@@ -91,5 +83,13 @@
     <content>Are you sick of this outfit yet</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7300430413724437802" rel="alternate"/>
     <published>2023-11-12T04:38:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7300524759480093995</id>
+    <title>You cant even tell that I’m wearing 120mm heels in this </title>
+    <updated>2023-11-12T10:46:19+00:00</updated>
+    <content>You cant even tell that I’m wearing 120mm heels in this </content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7300524759480093995" rel="alternate"/>
+    <published>2023-11-12T10:46:19+00:00</published>
   </entry>
 </feed>
