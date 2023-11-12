@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-11-11T05:43:45+00:00</updated>
+  <updated>2023-11-12T00:00:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7292606588395785518</id>
-    <title>Peace and love</title>
-    <updated>2023-10-22T02:38:18+00:00</updated>
-    <content>Peace and love</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7292606588395785518" rel="alternate"/>
-    <published>2023-10-22T02:38:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7296759854566231339</id>
     <title>[no title]</title>
@@ -91,5 +83,13 @@
     <content>NEVER GIVE UP</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7300076045242273070" rel="alternate"/>
     <published>2023-11-11T05:43:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7300358688441716010</id>
+    <title>2 transitions in 1 video she’s elevating </title>
+    <updated>2023-11-12T00:00:25+00:00</updated>
+    <content>2 transitions in 1 video she’s elevating </content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7300358688441716010" rel="alternate"/>
+    <published>2023-11-12T00:00:25+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pinkmantaray</id>
   <title>@pinkmantaray | TikTok</title>
-  <updated>2023-11-02T10:25:02+00:00</updated>
+  <updated>2023-11-12T02:53:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @pinkmantaray</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pinkmantaray/video/7290728940937760042</id>
-    <title>A little running update! #running #bostonhalfmarathon #dryneedling #physicaltherapy #transathlete </title>
-    <updated>2023-10-17T01:12:03+00:00</updated>
-    <content>A little running update! #running #bostonhalfmarathon #dryneedling #physicaltherapy #transathlete </content>
-    <link href="https://tiktok.com/@pinkmantaray/video/7290728940937760042" rel="alternate"/>
-    <published>2023-10-17T01:12:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pinkmantaray/video/7291137918058417438</id>
     <title>HE/SHE/THEY LAUNCHES TODAY 💕🎉🏳️‍⚧️ order a signed copy now before they sell out again! HSTBook.com! #transgender #trans #gender #heshethey </title>
@@ -91,5 +83,13 @@
     <content>Running chronicles - two weeks out from the boston half marathon! @Cal Calamia thanks for coaching me through this!! #transathlete #transgender #running ##bostonhalfmarathon##halfmarathontraining</content>
     <link href="https://tiktok.com/@pinkmantaray/video/7296808816534883614" rel="alternate"/>
     <published>2023-11-02T10:25:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pinkmantaray/video/7300403303957941535</id>
+    <title>Tomorrow I'm running the #bostonhalfmarathon with @Cal Calamia, bib number 4053! Stay tuned 💕🏳️‍⚧️ #transathlete #transrunner #trans #halfmarathon </title>
+    <updated>2023-11-12T02:53:30+00:00</updated>
+    <content>Tomorrow I'm running the #bostonhalfmarathon with @Cal Calamia, bib number 4053! Stay tuned 💕🏳️‍⚧️ #transathlete #transrunner #trans #halfmarathon </content>
+    <link href="https://tiktok.com/@pinkmantaray/video/7300403303957941535" rel="alternate"/>
+    <published>2023-11-12T02:53:30+00:00</published>
   </entry>
 </feed>
