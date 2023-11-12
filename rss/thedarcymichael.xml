@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-11-08T14:31:13+00:00</updated>
+  <updated>2023-11-12T19:36:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7294064375571287302</id>
-    <title>Replying to @Ame Lia stay for jers rawr, its so worth it #bearwatch </title>
-    <updated>2023-10-26T00:55:07+00:00</updated>
-    <content>Replying to @Ame Lia stay for jers rawr, its so worth it #bearwatch </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7294064375571287302" rel="alternate"/>
-    <published>2023-10-26T00:55:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7294387185858530566</id>
     <title>Replying to @Emily bear watch 2023 gas ended, baloo left peacefully on his own last night. Darcy however has taken his place</title>
@@ -91,5 +83,13 @@
     <content>Get your own personalized greeting card from Martin Short and so many others - with lots of customizations available, @AmericanGreetings.com SmashUps are a great way to give some birthday love. #ad #AmericanGreetings #ShareSmashUps</content>
     <link href="https://tiktok.com/@thedarcymichael/video/7299098793553792262" rel="alternate"/>
     <published>2023-11-08T14:31:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7300661668722560261</id>
+    <title>Darcy dropping lots of theories here #manchild #newhouse #gardener #couple #comedy #funny #busydonkey </title>
+    <updated>2023-11-12T19:36:00+00:00</updated>
+    <content>Darcy dropping lots of theories here #manchild #newhouse #gardener #couple #comedy #funny #busydonkey </content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7300661668722560261" rel="alternate"/>
+    <published>2023-11-12T19:36:00+00:00</published>
   </entry>
 </feed>

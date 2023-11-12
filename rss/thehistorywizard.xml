@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thehistorywizard</id>
   <title>@thehistorywizard | TikTok</title>
-  <updated>2023-11-12T14:33:28+00:00</updated>
+  <updated>2023-11-12T20:45:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thehistorywizard</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thehistorywizard/video/7298007538518330667</id>
-    <title>Never again is right now. #thehistorywizard #historytiktok #edutok #learnontiktok #china #uyghur </title>
-    <updated>2023-11-05T15:56:51+00:00</updated>
-    <content>Never again is right now. #thehistorywizard #historytiktok #edutok #learnontiktok #china #uyghur </content>
-    <link href="https://tiktok.com/@thehistorywizard/video/7298007538518330667" rel="alternate"/>
-    <published>2023-11-05T15:56:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thehistorywizard/video/7298355052605902122</id>
     <title>I love it #thehistorywizard #historytiktok #edutok #learnontiktok </title>
@@ -91,5 +83,13 @@
     <content>Histoey is WILD. #thehistorywizard #historytiktok #edutok #learnontiktok #wizardcommunism </content>
     <link href="https://tiktok.com/@thehistorywizard/video/7300583623432949038" rel="alternate"/>
     <published>2023-11-12T14:33:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thehistorywizard/video/7300679638823554347</id>
+    <title>It's flowers. #thehistorywizard #historytiktok #edutok #learnontiktok </title>
+    <updated>2023-11-12T20:45:53+00:00</updated>
+    <content>It's flowers. #thehistorywizard #historytiktok #edutok #learnontiktok </content>
+    <link href="https://tiktok.com/@thehistorywizard/video/7300679638823554347" rel="alternate"/>
+    <published>2023-11-12T20:45:53+00:00</published>
   </entry>
 </feed>
