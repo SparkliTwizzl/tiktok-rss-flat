@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@juliafox038711</id>
   <title>@juliafox038711 | TikTok</title>
-  <updated>2023-11-11T02:09:19+00:00</updated>
+  <updated>2023-11-12T00:31:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juliafox038711</subtitle>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7298554955852533038</id>
-    <title>i could do this better but im tired 👋</title>
-    <updated>2023-11-07T03:20:55+00:00</updated>
-    <content>i could do this better but im tired 👋</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7298554955852533038" rel="alternate"/>
-    <published>2023-11-07T03:20:55+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@juliafox038711/video/7298922936256253226</id>
     <title>i didnt know what she meant back then but its still funny</title>
@@ -91,5 +83,13 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@juliafox038711/video/7300020801200491822" rel="alternate"/>
     <published>2023-11-11T02:09:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7300366573720669483</id>
+    <title>[no title]</title>
+    <updated>2023-11-12T00:31:01+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7300366573720669483" rel="alternate"/>
+    <published>2023-11-12T00:31:01+00:00</published>
   </entry>
 </feed>
