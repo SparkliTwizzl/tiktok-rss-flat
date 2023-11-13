@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dannyphantom.exe</id>
   <title>@dannyphantom.exe | TikTok</title>
-  <updated>2023-11-11T03:16:19+00:00</updated>
+  <updated>2023-11-13T03:17:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dannyphantom.exe</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7298182440416300331</id>
-    <title>tag someone u have a crush on</title>
-    <updated>2023-11-06T03:15:33+00:00</updated>
-    <content>tag someone u have a crush on</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7298182440416300331" rel="alternate"/>
-    <published>2023-11-06T03:15:33+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7298182700769348906</id>
-    <title>tag someone who SHOULD NOT have the force</title>
-    <updated>2023-11-06T03:16:32+00:00</updated>
-    <content>tag someone who SHOULD NOT have the force</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7298182700769348906" rel="alternate"/>
-    <published>2023-11-06T03:16:32+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dannyphantom.exe/video/7298553585330179370</id>
     <title>bayoneta cosplay?</title>
@@ -91,5 +75,21 @@
     <content>Platonic Beat Friend Vampire part 2 :)</content>
     <link href="https://tiktok.com/@dannyphantom.exe/video/7300038089852914987" rel="alternate"/>
     <published>2023-11-11T03:16:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7300780363310222634</id>
+    <title>i look the same lol</title>
+    <updated>2023-11-13T03:16:45+00:00</updated>
+    <content>i look the same lol</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7300780363310222634" rel="alternate"/>
+    <published>2023-11-13T03:16:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7300780538892258606</id>
+    <title>tag ur DM and comment their weirdest NPC</title>
+    <updated>2023-11-13T03:17:28+00:00</updated>
+    <content>tag ur DM and comment their weirdest NPC</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7300780538892258606" rel="alternate"/>
+    <published>2023-11-13T03:17:28+00:00</published>
   </entry>
 </feed>
