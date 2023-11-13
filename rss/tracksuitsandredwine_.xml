@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@tracksuitsandredwine_</id>
   <title>@tracksuitsandredwine_ | TikTok</title>
-  <updated>2023-11-03T05:59:02+00:00</updated>
+  <updated>2023-11-13T10:31:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @tracksuitsandredwine_</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tracksuitsandredwine_/video/7286368893780774145</id>
-    <title>binky cos</title>
-    <updated>2023-10-05T07:12:48+00:00</updated>
-    <content>binky cos</content>
-    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7286368893780774145" rel="alternate"/>
-    <published>2023-10-05T07:12:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tracksuitsandredwine_/video/7286370192777563393</id>
     <title>last one i promise xoxo</title>
@@ -91,5 +83,13 @@
     <content>IT’S WHAM SEASON</content>
     <link href="https://tiktok.com/@tracksuitsandredwine_/video/7297111378492476674" rel="alternate"/>
     <published>2023-11-03T05:59:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tracksuitsandredwine_/video/7300892352204246273</id>
+    <title>wrong leg shhh</title>
+    <updated>2023-11-13T10:31:11+00:00</updated>
+    <content>wrong leg shhh</content>
+    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7300892352204246273" rel="alternate"/>
+    <published>2023-11-13T10:31:11+00:00</published>
   </entry>
 </feed>
