@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@charlesthegr8</id>
   <title>@charlesthegr8 | TikTok</title>
-  <updated>2023-11-12T16:51:43+00:00</updated>
+  <updated>2023-11-13T01:16:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @charlesthegr8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7293216907430464814</id>
-    <title>@CharlesTheGr8: A pretty face and an ugly personality just makes you ugly 🤔 #iykyk #charlesthegr8 #philosophy </title>
-    <updated>2023-10-23T18:06:47+00:00</updated>
-    <content>@CharlesTheGr8: A pretty face and an ugly personality just makes you ugly 🤔 #iykyk #charlesthegr8 #philosophy </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7293216907430464814" rel="alternate"/>
-    <published>2023-10-23T18:06:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@charlesthegr8/video/7294131327115267371</id>
     <title>Your hearts worst enemy! #iykyk #charlesthegr8 #overthinking </title>
@@ -91,5 +83,13 @@
     <content>Loyal, with a sense of humor yeah, she’s a keeper!!! #iykyk #loyalty #relationship #charlesthegr8</content>
     <link href="https://tiktok.com/@charlesthegr8/video/7300619291488046379" rel="alternate"/>
     <published>2023-11-12T16:51:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7300749292480859434</id>
+    <title>Got everybody confused 😂😂😂 #iykyk #charlesthegr8 #daylightsavings </title>
+    <updated>2023-11-13T01:16:10+00:00</updated>
+    <content>Got everybody confused 😂😂😂 #iykyk #charlesthegr8 #daylightsavings </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7300749292480859434" rel="alternate"/>
+    <published>2023-11-13T01:16:10+00:00</published>
   </entry>
 </feed>
