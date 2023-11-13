@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-11-12T22:14:54+00:00</updated>
+  <updated>2023-11-13T09:42:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,38 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7297869864096517418</id>
-    <title>Cruella Deville or Sherlock Holmes for my costume tomorrow </title>
-    <updated>2023-11-05T07:02:44+00:00</updated>
-    <content>Cruella Deville or Sherlock Holmes for my costume tomorrow </content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7297869864096517418" rel="alternate"/>
-    <published>2023-11-05T07:02:44+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7299752675422276906</id>
-    <title>Its 3 am </title>
-    <updated>2023-11-10T08:48:47+00:00</updated>
-    <content>Its 3 am </content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7299752675422276906" rel="alternate"/>
-    <published>2023-11-10T08:48:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7300060587784949035</id>
-    <title>This transition is harder than it looks</title>
-    <updated>2023-11-11T04:43:43+00:00</updated>
-    <content>This transition is harder than it looks</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7300060587784949035" rel="alternate"/>
-    <published>2023-11-11T04:43:43+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7300070149762141483</id>
-    <title>The smile at the end </title>
-    <updated>2023-11-11T05:20:52+00:00</updated>
-    <content>The smile at the end </content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7300070149762141483" rel="alternate"/>
-    <published>2023-11-11T05:20:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7300076045242273070</id>
     <title>NEVER GIVE UP</title>
@@ -91,5 +59,37 @@
     <content>TT is being weird, lmk if you see this </content>
     <link href="https://tiktok.com/@kaylabutternut/video/7300702549290749230" rel="alternate"/>
     <published>2023-11-12T22:14:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7300824125658942762</id>
+    <title>Last one in this outfit </title>
+    <updated>2023-11-13T06:06:34+00:00</updated>
+    <content>Last one in this outfit </content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7300824125658942762" rel="alternate"/>
+    <published>2023-11-13T06:06:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7300858733528255790</id>
+    <title>Before or after</title>
+    <updated>2023-11-13T08:21:42+00:00</updated>
+    <content>Before or after</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7300858733528255790" rel="alternate"/>
+    <published>2023-11-13T08:21:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7300863525176593706</id>
+    <title>It’s not perfect, but I tried my best </title>
+    <updated>2023-11-13T08:40:15+00:00</updated>
+    <content>It’s not perfect, but I tried my best </content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7300863525176593706" rel="alternate"/>
+    <published>2023-11-13T08:40:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7300879625322843435</id>
+    <title>The only person I’m competing with is right in front of me</title>
+    <updated>2023-11-13T09:42:48+00:00</updated>
+    <content>The only person I’m competing with is right in front of me</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7300879625322843435" rel="alternate"/>
+    <published>2023-11-13T09:42:48+00:00</published>
   </entry>
 </feed>
