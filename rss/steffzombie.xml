@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@steffzombie</id>
   <title>@steffzombie | TikTok</title>
-  <updated>2023-10-13T01:10:19+00:00</updated>
+  <updated>2023-11-13T05:21:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @steffzombie</subtitle>
-  <entry>
-    <id>https://tiktok.com/@steffzombie/video/7282200260011658539</id>
-    <title>Wassup !? #pan</title>
-    <updated>2023-09-24T01:36:21+00:00</updated>
-    <content>Wassup !? #pan</content>
-    <link href="https://tiktok.com/@steffzombie/video/7282200260011658539" rel="alternate"/>
-    <published>2023-09-24T01:36:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@steffzombie/video/7283687866574671146</id>
     <title>Still wanna see ? #fy </title>
@@ -91,5 +83,13 @@
     <content>😆 🩰 #fy #ballet </content>
     <link href="https://tiktok.com/@steffzombie/video/7289244133141810478" rel="alternate"/>
     <published>2023-10-13T01:10:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@steffzombie/video/7300812487539166507</id>
+    <title>🫶🏾 🙏🏾 </title>
+    <updated>2023-11-13T05:21:38+00:00</updated>
+    <content>🫶🏾 🙏🏾 </content>
+    <link href="https://tiktok.com/@steffzombie/video/7300812487539166507" rel="alternate"/>
+    <published>2023-11-13T05:21:38+00:00</published>
   </entry>
 </feed>
