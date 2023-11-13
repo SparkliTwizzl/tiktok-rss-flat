@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@juliafox038711</id>
   <title>@juliafox038711 | TikTok</title>
-  <updated>2023-11-12T00:31:01+00:00</updated>
+  <updated>2023-11-13T01:34:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,54 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juliafox038711</subtitle>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7298922936256253226</id>
-    <title>i didnt know what she meant back then but its still funny</title>
-    <updated>2023-11-08T03:09:00+00:00</updated>
-    <content>i didnt know what she meant back then but its still funny</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7298922936256253226" rel="alternate"/>
-    <published>2023-11-08T03:09:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7298923703562161454</id>
-    <title>to say the least, he doesnt get it</title>
-    <updated>2023-11-08T03:11:55+00:00</updated>
-    <content>to say the least, he doesnt get it</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7298923703562161454" rel="alternate"/>
-    <published>2023-11-08T03:11:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7299677417625357610</id>
-    <title>im finna have a blast </title>
-    <updated>2023-11-10T03:56:47+00:00</updated>
-    <content>im finna have a blast </content>
-    <link href="https://tiktok.com/@juliafox038711/video/7299677417625357610" rel="alternate"/>
-    <published>2023-11-10T03:56:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7299845341187149099</id>
-    <title>i mean i wasnt but i can if you would like</title>
-    <updated>2023-11-10T14:48:22+00:00</updated>
-    <content>i mean i wasnt but i can if you would like</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7299845341187149099" rel="alternate"/>
-    <published>2023-11-10T14:48:22+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7299944520609746219</id>
-    <title>one less problem without ya</title>
-    <updated>2023-11-10T21:13:17+00:00</updated>
-    <content>one less problem without ya</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7299944520609746219" rel="alternate"/>
-    <published>2023-11-10T21:13:17+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7299945962171075882</id>
-    <title>nova is in my lap</title>
-    <updated>2023-11-10T21:18:53+00:00</updated>
-    <content>nova is in my lap</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7299945962171075882" rel="alternate"/>
-    <published>2023-11-10T21:18:53+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@juliafox038711/video/7300015146678619435</id>
     <title>thanks guys</title>
@@ -77,19 +29,67 @@
     <published>2023-11-11T01:57:54+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7300020801200491822</id>
-    <title>[no title]</title>
-    <updated>2023-11-11T02:09:19+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7300020801200491822" rel="alternate"/>
-    <published>2023-11-11T02:09:19+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@juliafox038711/video/7300366573720669483</id>
     <title>[no title]</title>
     <updated>2023-11-12T00:31:01+00:00</updated>
     <content>[no description]</content>
     <link href="https://tiktok.com/@juliafox038711/video/7300366573720669483" rel="alternate"/>
     <published>2023-11-12T00:31:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7300727116193238318</id>
+    <title>happy sunday</title>
+    <updated>2023-11-12T23:50:08+00:00</updated>
+    <content>happy sunday</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7300727116193238318" rel="alternate"/>
+    <published>2023-11-12T23:50:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7300728760549199150</id>
+    <title>im very bad at eye contact </title>
+    <updated>2023-11-12T23:56:30+00:00</updated>
+    <content>im very bad at eye contact </content>
+    <link href="https://tiktok.com/@juliafox038711/video/7300728760549199150" rel="alternate"/>
+    <published>2023-11-12T23:56:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7300736934719114538</id>
+    <title>and awful time but addicting </title>
+    <updated>2023-11-13T00:28:19+00:00</updated>
+    <content>and awful time but addicting </content>
+    <link href="https://tiktok.com/@juliafox038711/video/7300736934719114538" rel="alternate"/>
+    <published>2023-11-13T00:28:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7300739145767521582</id>
+    <title>its been over a year, i would just like to have people watch my stuff again :D #foryou #plzhelp #tiktok #shadowbanned #crying #throwingafit </title>
+    <updated>2023-11-13T00:36:50+00:00</updated>
+    <content>its been over a year, i would just like to have people watch my stuff again :D #foryou #plzhelp #tiktok #shadowbanned #crying #throwingafit </content>
+    <link href="https://tiktok.com/@juliafox038711/video/7300739145767521582" rel="alternate"/>
+    <published>2023-11-13T00:36:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7300744780055809326</id>
+    <title>i vibin #foryou </title>
+    <updated>2023-11-13T00:58:41+00:00</updated>
+    <content>i vibin #foryou </content>
+    <link href="https://tiktok.com/@juliafox038711/video/7300744780055809326" rel="alternate"/>
+    <published>2023-11-13T00:58:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7300751397874765102</id>
+    <title>and thats the story of why i cut my hair 3 years ago</title>
+    <updated>2023-11-13T01:24:22+00:00</updated>
+    <content>and thats the story of why i cut my hair 3 years ago</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7300751397874765102" rel="alternate"/>
+    <published>2023-11-13T01:24:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7300754132405701930</id>
+    <title>[no title]</title>
+    <updated>2023-11-13T01:34:57+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7300754132405701930" rel="alternate"/>
+    <published>2023-11-13T01:34:57+00:00</published>
   </entry>
 </feed>
