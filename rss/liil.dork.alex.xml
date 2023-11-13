@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@liil.dork.alex</id>
   <title>@liil.dork.alex | TikTok</title>
-  <updated>2023-11-09T14:35:59+00:00</updated>
+  <updated>2023-11-10T22:06:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @liil.dork.alex</subtitle>
-  <entry>
-    <id>https://tiktok.com/@liil.dork.alex/video/7294027070823222558</id>
-    <title>🦂tis the season </title>
-    <updated>2023-10-25T22:30:30+00:00</updated>
-    <content>🦂tis the season </content>
-    <link href="https://tiktok.com/@liil.dork.alex/video/7294027070823222558" rel="alternate"/>
-    <published>2023-10-25T22:30:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@liil.dork.alex/video/7294410251867049246</id>
     <title>Tryin the “stop smiling at dont” trend </title>
@@ -91,5 +83,13 @@
     <content>I will always love me some Miguel 😮‍💨</content>
     <link href="https://tiktok.com/@liil.dork.alex/video/7299471022732889386" rel="alternate"/>
     <published>2023-11-09T14:35:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@liil.dork.alex/video/7299958333061008683</id>
+    <title>All i wanna doooooo </title>
+    <updated>2023-11-10T22:06:49+00:00</updated>
+    <content>All i wanna doooooo </content>
+    <link href="https://tiktok.com/@liil.dork.alex/video/7299958333061008683" rel="alternate"/>
+    <published>2023-11-10T22:06:49+00:00</published>
   </entry>
 </feed>
