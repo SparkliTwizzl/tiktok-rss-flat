@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kit_the_beefcake</id>
   <title>@kit_the_beefcake | TikTok</title>
-  <updated>2023-11-12T05:47:08+00:00</updated>
+  <updated>2023-11-13T12:55:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kit_the_beefcake</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7296787303895338286</id>
-    <title>[no title]</title>
-    <updated>2023-11-02T09:01:37+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7296787303895338286" rel="alternate"/>
-    <published>2023-11-02T09:01:37+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7297488755215109418</id>
-    <title>[no title]</title>
-    <updated>2023-11-04T06:23:57+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7297488755215109418" rel="alternate"/>
-    <published>2023-11-04T06:23:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7297887025431301422</id>
     <title>[no title]</title>
@@ -91,5 +75,21 @@
     <content>I made my bed</content>
     <link href="https://tiktok.com/@kit_the_beefcake/video/7300447987270995243" rel="alternate"/>
     <published>2023-11-12T05:47:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7300762293288062250</id>
+    <title>[no title]</title>
+    <updated>2023-11-13T02:06:36+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7300762293288062250" rel="alternate"/>
+    <published>2023-11-13T02:06:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7300929527314664747</id>
+    <title>ew yuck help </title>
+    <updated>2023-11-13T12:55:33+00:00</updated>
+    <content>ew yuck help </content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7300929527314664747" rel="alternate"/>
+    <published>2023-11-13T12:55:33+00:00</published>
   </entry>
 </feed>

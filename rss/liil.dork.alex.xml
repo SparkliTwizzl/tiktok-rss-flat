@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@liil.dork.alex</id>
   <title>@liil.dork.alex | TikTok</title>
-  <updated>2023-11-10T22:06:49+00:00</updated>
+  <updated>2023-11-13T23:39:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @liil.dork.alex</subtitle>
-  <entry>
-    <id>https://tiktok.com/@liil.dork.alex/video/7294410251867049246</id>
-    <title>Tryin the “stop smiling at dont” trend </title>
-    <updated>2023-10-26T23:17:21+00:00</updated>
-    <content>Tryin the “stop smiling at dont” trend </content>
-    <link href="https://tiktok.com/@liil.dork.alex/video/7294410251867049246" rel="alternate"/>
-    <published>2023-10-26T23:17:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@liil.dork.alex/video/7295875569269394719</id>
     <title>Wow how sweet tik tok 😭</title>
@@ -77,19 +69,27 @@
     <published>2023-11-05T23:11:15+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@liil.dork.alex/video/7299471022732889386</id>
-    <title>I will always love me some Miguel 😮‍💨</title>
-    <updated>2023-11-09T14:35:59+00:00</updated>
-    <content>I will always love me some Miguel 😮‍💨</content>
-    <link href="https://tiktok.com/@liil.dork.alex/video/7299471022732889386" rel="alternate"/>
-    <published>2023-11-09T14:35:59+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@liil.dork.alex/video/7299958333061008683</id>
     <title>All i wanna doooooo </title>
     <updated>2023-11-10T22:06:49+00:00</updated>
     <content>All i wanna doooooo </content>
     <link href="https://tiktok.com/@liil.dork.alex/video/7299958333061008683" rel="alternate"/>
     <published>2023-11-10T22:06:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@liil.dork.alex/video/7301076232756710702</id>
+    <title>Ready for this to drop</title>
+    <updated>2023-11-13T22:24:54+00:00</updated>
+    <content>Ready for this to drop</content>
+    <link href="https://tiktok.com/@liil.dork.alex/video/7301076232756710702" rel="alternate"/>
+    <published>2023-11-13T22:24:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@liil.dork.alex/video/7301095537346891051</id>
+    <title>This song just does somethin to me 😅</title>
+    <updated>2023-11-13T23:39:48+00:00</updated>
+    <content>This song just does somethin to me 😅</content>
+    <link href="https://tiktok.com/@liil.dork.alex/video/7301095537346891051" rel="alternate"/>
+    <published>2023-11-13T23:39:48+00:00</published>
   </entry>
 </feed>
