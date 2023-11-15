@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thehistorywizard</id>
   <title>@thehistorywizard | TikTok</title>
-  <updated>2023-11-14T16:51:00+00:00</updated>
+  <updated>2023-11-15T14:36:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thehistorywizard</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thehistorywizard/video/7299235308015750446</id>
-    <title>No one cares. #thehistorywizard #historytiktok #edutok #learnontiktok </title>
-    <updated>2023-11-08T23:21:13+00:00</updated>
-    <content>No one cares. #thehistorywizard #historytiktok #edutok #learnontiktok </content>
-    <link href="https://tiktok.com/@thehistorywizard/video/7299235308015750446" rel="alternate"/>
-    <published>2023-11-08T23:21:13+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thehistorywizard/video/7299466551785229610</id>
     <title>Be aware. Knowledge is power. #thehistorywizard #historytiktok #edutok #learnontiktok #myanmar #Rohingya </title>
@@ -91,5 +83,13 @@
     <content>GROW UP! #thehistorywizard #historytiktok #edutok #learnontiktok </content>
     <link href="https://tiktok.com/@thehistorywizard/video/7301361199621442859" rel="alternate"/>
     <published>2023-11-14T16:51:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thehistorywizard/video/7301697751623028010</id>
+    <title>Replying to @sudan.maps Be aware. #thehistorywizard #historytiktok #edutok #learnontiktok #dogwhistle </title>
+    <updated>2023-11-15T14:36:42+00:00</updated>
+    <content>Replying to @sudan.maps Be aware. #thehistorywizard #historytiktok #edutok #learnontiktok #dogwhistle </content>
+    <link href="https://tiktok.com/@thehistorywizard/video/7301697751623028010" rel="alternate"/>
+    <published>2023-11-15T14:36:42+00:00</published>
   </entry>
 </feed>
