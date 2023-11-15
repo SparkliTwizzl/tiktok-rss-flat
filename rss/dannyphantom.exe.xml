@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dannyphantom.exe</id>
   <title>@dannyphantom.exe | TikTok</title>
-  <updated>2023-11-14T03:17:03+00:00</updated>
+  <updated>2023-11-15T03:16:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dannyphantom.exe</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7298553657354669354</id>
-    <title>lol guess who else is leaving 😐</title>
-    <updated>2023-11-07T03:15:55+00:00</updated>
-    <content>lol guess who else is leaving 😐</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7298553657354669354" rel="alternate"/>
-    <published>2023-11-07T03:15:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7298924797747039530</id>
-    <title>NSN vs NNN</title>
-    <updated>2023-11-08T03:16:07+00:00</updated>
-    <content>NSN vs NNN</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7298924797747039530" rel="alternate"/>
-    <published>2023-11-08T03:16:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dannyphantom.exe/video/7299295716990537003</id>
     <title>tag ur best friend</title>
@@ -91,5 +75,21 @@
     <content>tag someone w adhd</content>
     <link href="https://tiktok.com/@dannyphantom.exe/video/7301151546652233003" rel="alternate"/>
     <published>2023-11-14T03:17:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7301522310668750123</id>
+    <title>tag ur friend</title>
+    <updated>2023-11-15T03:15:47+00:00</updated>
+    <content>tag ur friend</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7301522310668750123" rel="alternate"/>
+    <published>2023-11-15T03:15:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7301522506651979054</id>
+    <title>tag a brat</title>
+    <updated>2023-11-15T03:16:33+00:00</updated>
+    <content>tag a brat</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7301522506651979054" rel="alternate"/>
+    <published>2023-11-15T03:16:33+00:00</published>
   </entry>
 </feed>
