@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-11-14T13:28:54+00:00</updated>
+  <updated>2023-11-15T13:53:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7298720967843384582</id>
-    <title>put together another cosplay  ❤️ song @Miss Cherry Delight 🍒🔪 Band  #samtrickrtreat #samcosplay #spookyseason </title>
-    <updated>2023-11-07T14:05:03+00:00</updated>
-    <content>put together another cosplay  ❤️ song @Miss Cherry Delight 🍒🔪 Band  #samtrickrtreat #samcosplay #spookyseason </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7298720967843384582" rel="alternate"/>
-    <published>2023-11-07T14:05:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7298821529809194245</id>
     <title>i see you 🎃 #samcosplay #samtrickrtreat #samtrickortreatcosplay </title>
@@ -91,5 +83,13 @@
     <content>a couple weeks break on seasonal stuff before I go into snow and glitter 😅❤️ #dancesinshadows #trickrtreatcosplay #samtrickrtreat </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7301309246615096581" rel="alternate"/>
     <published>2023-11-14T13:28:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7301686607659257093</id>
+    <title>forget about it... this is my actual everyday kind of look. not a character. not a coaplay #dancesinshadows #nonbinary </title>
+    <updated>2023-11-15T13:53:16+00:00</updated>
+    <content>forget about it... this is my actual everyday kind of look. not a character. not a coaplay #dancesinshadows #nonbinary </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7301686607659257093" rel="alternate"/>
+    <published>2023-11-15T13:53:16+00:00</published>
   </entry>
 </feed>
