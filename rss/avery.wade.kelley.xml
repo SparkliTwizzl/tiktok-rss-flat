@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-11-10T20:54:59+00:00</updated>
+  <updated>2023-11-15T00:36:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7295031618186595627</id>
-    <title>It's been a while since a show has gotten me so excited. Definitely put this on your list. Warning: It is graphic. #fyp </title>
-    <updated>2023-10-28T15:28:41+00:00</updated>
-    <content>It's been a while since a show has gotten me so excited. Definitely put this on your list. Warning: It is graphic. #fyp </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7295031618186595627" rel="alternate"/>
-    <published>2023-10-28T15:28:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7295058893170806058</id>
     <title>My sister sent me this song, I had forgotten about it, fell in love with it again, and learned it in 30 minutes. Toy Story is a strange thing for me, since my father sang the Spanish dub of it. But... Maybe this is what healing looks like... #fyp </title>
@@ -91,5 +83,13 @@
     <content>I look so fuckin mean, man. AND I FEEL I DO THAT A LOT, OH NO. Lol. #fyp </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7299939793729883438" rel="alternate"/>
     <published>2023-11-10T20:54:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7301481254896127275</id>
+    <title>#fyp </title>
+    <updated>2023-11-15T00:36:35+00:00</updated>
+    <content>#fyp </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7301481254896127275" rel="alternate"/>
+    <published>2023-11-15T00:36:35+00:00</published>
   </entry>
 </feed>

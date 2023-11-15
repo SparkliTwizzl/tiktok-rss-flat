@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@charlesthegr8</id>
   <title>@charlesthegr8 | TikTok</title>
-  <updated>2023-11-13T01:16:10+00:00</updated>
+  <updated>2023-11-14T18:45:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @charlesthegr8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7294131327115267371</id>
-    <title>Your hearts worst enemy! #iykyk #charlesthegr8 #overthinking </title>
-    <updated>2023-10-26T05:15:01+00:00</updated>
-    <content>Your hearts worst enemy! #iykyk #charlesthegr8 #overthinking </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7294131327115267371" rel="alternate"/>
-    <published>2023-10-26T05:15:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@charlesthegr8/video/7294154195307924778</id>
     <title>Those intrusive thoughts are dangerous!!! 😬 #iykyk #intrusivethoughts #charlesthegr8 #capcut </title>
@@ -91,5 +83,13 @@
     <content>Got everybody confused 😂😂😂 #iykyk #charlesthegr8 #daylightsavings </content>
     <link href="https://tiktok.com/@charlesthegr8/video/7300749292480859434" rel="alternate"/>
     <published>2023-11-13T01:16:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7301390821104880942</id>
+    <title>🔐 #iykyk #charlesthegr8 #relatable </title>
+    <updated>2023-11-14T18:45:49+00:00</updated>
+    <content>🔐 #iykyk #charlesthegr8 #relatable </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7301390821104880942" rel="alternate"/>
+    <published>2023-11-14T18:45:49+00:00</published>
   </entry>
 </feed>
