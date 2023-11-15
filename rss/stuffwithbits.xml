@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-11-15T00:36:35+00:00</updated>
+  <updated>2023-11-15T16:01:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7300090079371070766</id>
-    <title>#duet with @Jessie @dreambabynames #Stitch  I feel INCREDIBLY strongly about this one. KIDS ARE NOT CONTENT! #solardidsystem </title>
-    <updated>2023-11-11T06:38:22+00:00</updated>
-    <content>#duet with @Jessie @dreambabynames #Stitch  I feel INCREDIBLY strongly about this one. KIDS ARE NOT CONTENT! #solardidsystem </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7300090079371070766" rel="alternate"/>
-    <published>2023-11-11T06:38:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7300709134083640618</id>
     <title>[no title]</title>
@@ -91,5 +83,13 @@
     <content>End gen0cide now #ceasefirenow #freepalestine </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7301481290425994539" rel="alternate"/>
     <published>2023-11-15T00:36:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7301719651862629678</id>
+    <title>#solardidsystem #ladybug #cat #cats #catsoftiktok </title>
+    <updated>2023-11-15T16:01:47+00:00</updated>
+    <content>#solardidsystem #ladybug #cat #cats #catsoftiktok </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7301719651862629678" rel="alternate"/>
+    <published>2023-11-15T16:01:47+00:00</published>
   </entry>
 </feed>
