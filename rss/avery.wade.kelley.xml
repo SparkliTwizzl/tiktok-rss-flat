@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-11-15T00:36:35+00:00</updated>
+  <updated>2023-11-15T19:16:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7295058893170806058</id>
-    <title>My sister sent me this song, I had forgotten about it, fell in love with it again, and learned it in 30 minutes. Toy Story is a strange thing for me, since my father sang the Spanish dub of it. But... Maybe this is what healing looks like... #fyp </title>
-    <updated>2023-10-28T17:14:28+00:00</updated>
-    <content>My sister sent me this song, I had forgotten about it, fell in love with it again, and learned it in 30 minutes. Toy Story is a strange thing for me, since my father sang the Spanish dub of it. But... Maybe this is what healing looks like... #fyp </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7295058893170806058" rel="alternate"/>
-    <published>2023-10-28T17:14:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7295445512415694123</id>
     <title>White-Eyes by Mary Oliver #fyp </title>
@@ -91,5 +83,13 @@
     <content>#fyp </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7301481254896127275" rel="alternate"/>
     <published>2023-11-15T00:36:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7301769791206067502</id>
+    <title>#stitch with @Avery Wade Growing Pains include some things you think look good for you and then you look back and think "what in the actual fuck was I thinking." 😅 #fyp #trans </title>
+    <updated>2023-11-15T19:16:28+00:00</updated>
+    <content>#stitch with @Avery Wade Growing Pains include some things you think look good for you and then you look back and think "what in the actual fuck was I thinking." 😅 #fyp #trans </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7301769791206067502" rel="alternate"/>
+    <published>2023-11-15T19:16:28+00:00</published>
   </entry>
 </feed>
