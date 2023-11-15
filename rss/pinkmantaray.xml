@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pinkmantaray</id>
   <title>@pinkmantaray | TikTok</title>
-  <updated>2023-11-15T16:01:03+00:00</updated>
+  <updated>2023-11-15T22:38:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @pinkmantaray</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pinkmantaray/video/7291502934280490270</id>
-    <title>NYC book talk at @Greenlight Bookstore was packed with barely even any standing room... I stood up to speak nearly crying. This work is so difficult and joyful, so grief-stricken and hope-filled, and I am so grateful to be able to do it. Join in the fight</title>
-    <updated>2023-10-19T03:15:32+00:00</updated>
-    <content>NYC book talk at @Greenlight Bookstore was packed with barely even any standing room... I stood up to speak nearly crying. This work is so difficult and joyful, so grief-stricken and hope-filled, and I am so grateful to be able to do it. Join in the fight by grabbing a copy at HSTBook.com. There will be signed copies all over NYC by the end of the day tomorrow. #transgender #heshethey #transauthor </content>
-    <link href="https://tiktok.com/@pinkmantaray/video/7291502934280490270" rel="alternate"/>
-    <published>2023-10-19T03:15:32+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pinkmantaray/video/7291522110202154270</id>
     <title>A few other thoughts about the tears 💕 #transgender #trans #author #crying </title>
@@ -91,5 +83,13 @@
     <content>What better way to ring in #TransAwarenessWeek than grabbing a copy of @raquel willis book that launched today?! In this episode of Dear Schuyler, Raquel and I discuss her memoir, The Risk It Takes To Bloom - and especially her relationship with her parents. Throughout the episode and in her book, Raquel invites us into so much of her life and offers endless wisdom throughout. Don't miss this episode or her book! On a personal note, I'm so thankful for Raquel's work and example. She is the definition of poise and empowerment and I learn something from her every time I'm lucky to share space. Congratulations on your book launch, Raquel. May everyone read it 🙏🏼📘💕🏳️‍⚧️ #transgender #theriskittakestobloom #raquelwillis #dearschuyler</content>
     <link href="https://tiktok.com/@pinkmantaray/video/7301719371188112671" rel="alternate"/>
     <published>2023-11-15T16:01:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pinkmantaray/video/7301821886143434015</id>
+    <title>This work can be so difficult - messages like these always empower me to keep going. #transjoy #transpride #heshetheybook #author #booktok </title>
+    <updated>2023-11-15T22:38:28+00:00</updated>
+    <content>This work can be so difficult - messages like these always empower me to keep going. #transjoy #transpride #heshetheybook #author #booktok </content>
+    <link href="https://tiktok.com/@pinkmantaray/video/7301821886143434015" rel="alternate"/>
+    <published>2023-11-15T22:38:28+00:00</published>
   </entry>
 </feed>
