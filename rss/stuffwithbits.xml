@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-11-13T19:23:25+00:00</updated>
+  <updated>2023-11-15T00:36:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7299335292438449454</id>
-    <title>#reply to @Trashcat ⏰⏰ can say all they want about being accessible but then the app crashes every time I edit captions 😑 #solardidsystem #sszyra #susipesto </title>
-    <updated>2023-11-09T05:49:08+00:00</updated>
-    <content>#reply to @Trashcat ⏰⏰ can say all they want about being accessible but then the app crashes every time I edit captions 😑 #solardidsystem #sszyra #susipesto </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7299335292438449454" rel="alternate"/>
-    <published>2023-11-09T05:49:08+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7300002121150221614</id>
-    <title>Crazy - Gnarls Barkley #solardidsystem #sszyra #solarsings </title>
-    <updated>2023-11-11T00:56:45+00:00</updated>
-    <content>Crazy - Gnarls Barkley #solardidsystem #sszyra #solarsings </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7300002121150221614" rel="alternate"/>
-    <published>2023-11-11T00:56:45+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7300013964392549675</id>
-    <title>it's me, hi #solardidsystem #sszyra </title>
-    <updated>2023-11-11T01:42:46+00:00</updated>
-    <content>it's me, hi #solardidsystem #sszyra </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7300013964392549675" rel="alternate"/>
-    <published>2023-11-11T01:42:46+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7300090079371070766</id>
     <title>#duet with @Jessie @dreambabynames #Stitch  I feel INCREDIBLY strongly about this one. KIDS ARE NOT CONTENT! #solardidsystem </title>
@@ -91,5 +67,29 @@
     <content>Replying to @salmiakkiheidi #reply #solardidsystem #sstragedeigh </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7301029390157237546" rel="alternate"/>
     <published>2023-11-13T19:23:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7301458775532178731</id>
+    <title>weird how ⏰⏰ didn't want to just post it and we had to download it to get it to upload 🤔 #solardidsystem #sszenith #freepalestine #ceasefirenow </title>
+    <updated>2023-11-14T23:09:24+00:00</updated>
+    <content>weird how ⏰⏰ didn't want to just post it and we had to download it to get it to upload 🤔 #solardidsystem #sszenith #freepalestine #ceasefirenow </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7301458775532178731" rel="alternate"/>
+    <published>2023-11-14T23:09:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7301474470106008875</id>
+    <title>#freepalestine #ceasefirenow </title>
+    <updated>2023-11-15T00:10:07+00:00</updated>
+    <content>#freepalestine #ceasefirenow </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7301474470106008875" rel="alternate"/>
+    <published>2023-11-15T00:10:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7301481290425994539</id>
+    <title>End gen0cide now #ceasefirenow #freepalestine </title>
+    <updated>2023-11-15T00:36:35+00:00</updated>
+    <content>End gen0cide now #ceasefirenow #freepalestine </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7301481290425994539" rel="alternate"/>
+    <published>2023-11-15T00:36:35+00:00</published>
   </entry>
 </feed>
