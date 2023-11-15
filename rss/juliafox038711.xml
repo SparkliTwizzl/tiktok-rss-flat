@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@juliafox038711</id>
   <title>@juliafox038711 | TikTok</title>
-  <updated>2023-11-13T01:34:57+00:00</updated>
+  <updated>2023-11-15T00:12:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juliafox038711</subtitle>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7300015146678619435</id>
-    <title>thanks guys</title>
-    <updated>2023-11-11T01:47:20+00:00</updated>
-    <content>thanks guys</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7300015146678619435" rel="alternate"/>
-    <published>2023-11-11T01:47:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@juliafox038711/video/7300017857952369963</id>
     <title>when this song was the only song i listened to was a good time</title>
@@ -91,5 +83,13 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@juliafox038711/video/7300754132405701930" rel="alternate"/>
     <published>2023-11-13T01:34:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7301475078150032682</id>
+    <title>its someones birthday :))</title>
+    <updated>2023-11-15T00:12:29+00:00</updated>
+    <content>its someones birthday :))</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7301475078150032682" rel="alternate"/>
+    <published>2023-11-15T00:12:29+00:00</published>
   </entry>
 </feed>
