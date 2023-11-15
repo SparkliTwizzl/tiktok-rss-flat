@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avocadosnaliens</id>
   <title>@avocadosnaliens | TikTok</title>
-  <updated>2023-11-13T23:00:13+00:00</updated>
+  <updated>2023-11-15T03:35:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avocadosnaliens</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avocadosnaliens/video/7295915592324877611</id>
-    <title>[no title]</title>
-    <updated>2023-10-31T00:38:50+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@avocadosnaliens/video/7295915592324877611" rel="alternate"/>
-    <published>2023-10-31T00:38:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avocadosnaliens/video/7295986403962277166</id>
     <title>[no title]</title>
@@ -91,5 +83,13 @@
     <content>Eeeeee i hope yall like this video. Ask away in the comments #selfportraitphotography #howtotakeseflies #photographyeducation #selfportraitphotoshoot #redrock </content>
     <link href="https://tiktok.com/@avocadosnaliens/video/7301085334434221358" rel="alternate"/>
     <published>2023-11-13T23:00:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7301527501325782318</id>
+    <title>[no title]</title>
+    <updated>2023-11-15T03:35:56+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7301527501325782318" rel="alternate"/>
+    <published>2023-11-15T03:35:56+00:00</published>
   </entry>
 </feed>
