@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@villainsupport</id>
   <title>@villainsupport | TikTok</title>
-  <updated>2023-11-14T21:09:57+00:00</updated>
+  <updated>2023-11-15T01:59:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @villainsupport</subtitle>
-  <entry>
-    <id>https://tiktok.com/@villainsupport/video/7294359642585566506</id>
-    <title>Link to get “Super Human” and any other @evancurriescifi books in my profile!</title>
-    <updated>2023-10-26T20:01:01+00:00</updated>
-    <content>Link to get “Super Human” and any other @evancurriescifi books in my profile!</content>
-    <link href="https://tiktok.com/@villainsupport/video/7294359642585566506" rel="alternate"/>
-    <published>2023-10-26T20:01:01+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@villainsupport/video/7296225058479983902</id>
-    <title>Teaching monsters how to trick or treat #halloween </title>
-    <updated>2023-10-31T20:39:47+00:00</updated>
-    <content>Teaching monsters how to trick or treat #halloween </content>
-    <link href="https://tiktok.com/@villainsupport/video/7296225058479983902" rel="alternate"/>
-    <published>2023-10-31T20:39:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@villainsupport/video/7296620186147228959</id>
     <title>A Newly-Turned Zombie Called Us for Help!</title>
@@ -91,5 +75,21 @@
     <content>I yelled at Jabba the Hutt! #starwars #jabbathehutt #acmetok #acmevillainsupport </content>
     <link href="https://tiktok.com/@villainsupport/video/7301428001890176286" rel="alternate"/>
     <published>2023-11-14T21:09:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@villainsupport/video/7301445160175537439</id>
+    <title>#onthisday </title>
+    <updated>2023-11-14T22:16:43+00:00</updated>
+    <content>#onthisday </content>
+    <link href="https://tiktok.com/@villainsupport/video/7301445160175537439" rel="alternate"/>
+    <published>2023-11-14T22:16:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@villainsupport/video/7301502688057904414</id>
+    <title>#stitch with @thejamplan Nappa wants hair</title>
+    <updated>2023-11-15T01:59:39+00:00</updated>
+    <content>#stitch with @thejamplan Nappa wants hair</content>
+    <link href="https://tiktok.com/@villainsupport/video/7301502688057904414" rel="alternate"/>
+    <published>2023-11-15T01:59:39+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maruzee_dragon</id>
   <title>@maruzee_dragon | TikTok</title>
-  <updated>2023-11-10T16:23:31+00:00</updated>
+  <updated>2023-11-15T02:27:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maruzee_dragon</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maruzee_dragon/video/7294813869732547846</id>
-    <title>Cuz you asked for it 🤡🖤♦️ #transition  #harleyquinn #dccomics #joker #cosplay </title>
-    <updated>2023-10-28T01:23:32+00:00</updated>
-    <content>Cuz you asked for it 🤡🖤♦️ #transition  #harleyquinn #dccomics #joker #cosplay </content>
-    <link href="https://tiktok.com/@maruzee_dragon/video/7294813869732547846" rel="alternate"/>
-    <published>2023-10-28T01:23:32+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maruzee_dragon/video/7295558536887553285</id>
     <title>😂😂...Thinking lightsabers next time...Or more kicks?! #martialarts  #hype #fyp </title>
@@ -91,5 +83,13 @@
     <content>Kick training in Gotham's shadows - prepping to be the next guardian in my Batman PJs. 😅🌃🦇 #martialarts #kick #taekwondo #mma #karate #training #fitness #flexible #split </content>
     <link href="https://tiktok.com/@maruzee_dragon/video/7299869904235187462" rel="alternate"/>
     <published>2023-11-10T16:23:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maruzee_dragon/video/7301509888616828165</id>
+    <title>Which kick would work the best in a fight?!🧐 #training #martialarts #taekwondo #mma #sport #kick #karate #flexible #fitness </title>
+    <updated>2023-11-15T02:27:30+00:00</updated>
+    <content>Which kick would work the best in a fight?!🧐 #training #martialarts #taekwondo #mma #sport #kick #karate #flexible #fitness </content>
+    <link href="https://tiktok.com/@maruzee_dragon/video/7301509888616828165" rel="alternate"/>
+    <published>2023-11-15T02:27:30+00:00</published>
   </entry>
 </feed>
