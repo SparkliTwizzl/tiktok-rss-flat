@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-11-15T13:53:16+00:00</updated>
+  <updated>2023-11-16T17:16:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7298821529809194245</id>
-    <title>i see you 🎃 #samcosplay #samtrickrtreat #samtrickortreatcosplay </title>
-    <updated>2023-11-07T20:35:18+00:00</updated>
-    <content>i see you 🎃 #samcosplay #samtrickrtreat #samtrickortreatcosplay </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7298821529809194245" rel="alternate"/>
-    <published>2023-11-07T20:35:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7298851417337433349</id>
     <title>made this look a few weeks back ❤️🩵 #icecream #rainbowicecream #foamwig</title>
@@ -91,5 +83,13 @@
     <content>forget about it... this is my actual everyday kind of look. not a character. not a coaplay #dancesinshadows #nonbinary </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7301686607659257093" rel="alternate"/>
     <published>2023-11-15T13:53:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7302110138553421061</id>
+    <title>song by @NSP  I aim to do 1 NSP song every time I'm in guy drag at the Well. Many don't know the words, but have been enjoying the humor that comes with 😅🩵 oh, and I won this week's competition,  so I'm back co-hosting next week. #nspband #welcometomypare</title>
+    <updated>2023-11-16T17:16:47+00:00</updated>
+    <content>song by @NSP  I aim to do 1 NSP song every time I'm in guy drag at the Well. Many don't know the words, but have been enjoying the humor that comes with 😅🩵 oh, and I won this week's competition,  so I'm back co-hosting next week. #nspband #welcometomyparentshouse #dragperformance </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7302110138553421061" rel="alternate"/>
+    <published>2023-11-16T17:16:47+00:00</published>
   </entry>
 </feed>
