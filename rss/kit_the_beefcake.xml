@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kit_the_beefcake</id>
   <title>@kit_the_beefcake | TikTok</title>
-  <updated>2023-11-16T05:43:03+00:00</updated>
+  <updated>2023-11-16T21:59:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -13,20 +13,44 @@
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kit_the_beefcake</subtitle>
   <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7296787303895338286</id>
+    <title>[no title]</title>
+    <updated>2023-11-02T09:01:37+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7296787303895338286" rel="alternate"/>
+    <published>2023-11-02T09:01:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7297488755215109418</id>
+    <title>[no title]</title>
+    <updated>2023-11-04T06:23:57+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7297488755215109418" rel="alternate"/>
+    <published>2023-11-04T06:23:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7297887025431301422</id>
+    <title>[no title]</title>
+    <updated>2023-11-05T08:09:49+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7297887025431301422" rel="alternate"/>
+    <published>2023-11-05T08:09:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7298003169102073130</id>
+    <title>[no title]</title>
+    <updated>2023-11-05T15:39:53+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7298003169102073130" rel="alternate"/>
+    <published>2023-11-05T15:39:53+00:00</published>
+  </entry>
+  <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7298173130151906606</id>
     <title>[no title]</title>
     <updated>2023-11-06T02:39:18+00:00</updated>
     <content>[no description]</content>
     <link href="https://tiktok.com/@kit_the_beefcake/video/7298173130151906606" rel="alternate"/>
     <published>2023-11-06T02:39:18+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7298718113166544171</id>
-    <title>it's weird life I live and I like it :) </title>
-    <updated>2023-11-07T13:54:07+00:00</updated>
-    <content>it's weird life I live and I like it :) </content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7298718113166544171" rel="alternate"/>
-    <published>2023-11-07T13:54:07+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7299246533625793838</id>
@@ -45,30 +69,6 @@
     <published>2023-11-10T07:32:34+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7300015885941722414</id>
-    <title>Im still cold lmao </title>
-    <updated>2023-11-11T01:50:13+00:00</updated>
-    <content>Im still cold lmao </content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7300015885941722414" rel="alternate"/>
-    <published>2023-11-11T01:50:13+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7300447987270995243</id>
-    <title>I made my bed</title>
-    <updated>2023-11-12T05:47:08+00:00</updated>
-    <content>I made my bed</content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7300447987270995243" rel="alternate"/>
-    <published>2023-11-12T05:47:08+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7300762293288062250</id>
-    <title>[no title]</title>
-    <updated>2023-11-13T02:06:36+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7300762293288062250" rel="alternate"/>
-    <published>2023-11-13T02:06:36+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7301187924110904619</id>
     <title>Im so sorry for this</title>
     <updated>2023-11-14T05:38:16+00:00</updated>
@@ -85,11 +85,11 @@
     <published>2023-11-15T12:21:19+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7301931328159714603</id>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7302182983409126699</id>
     <title>[no title]</title>
-    <updated>2023-11-16T05:43:03+00:00</updated>
+    <updated>2023-11-16T21:59:35+00:00</updated>
     <content>[no description]</content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7301931328159714603" rel="alternate"/>
-    <published>2023-11-16T05:43:03+00:00</published>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7302182983409126699" rel="alternate"/>
+    <published>2023-11-16T21:59:35+00:00</published>
   </entry>
 </feed>
