@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kamehalani</id>
   <title>@kamehalani | TikTok</title>
-  <updated>2023-11-06T18:01:52+00:00</updated>
+  <updated>2023-11-16T20:30:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kamehalani</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kamehalani/video/7295040469778713886</id>
-    <title>#stitch with @Rhayne #greenscreen stay till the end. This is a draft #dollyparton #dolly #dollyseries </title>
-    <updated>2023-10-28T16:02:59+00:00</updated>
-    <content>#stitch with @Rhayne #greenscreen stay till the end. This is a draft #dollyparton #dolly #dollyseries </content>
-    <link href="https://tiktok.com/@kamehalani/video/7295040469778713886" rel="alternate"/>
-    <published>2023-10-28T16:02:59+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kamehalani/video/7295059284210076958</id>
-    <title>Ceasefire. #palestine #jewishtiktok #jewtok #jewish </title>
-    <updated>2023-10-28T17:16:00+00:00</updated>
-    <content>Ceasefire. #palestine #jewishtiktok #jewtok #jewish </content>
-    <link href="https://tiktok.com/@kamehalani/video/7295059284210076958" rel="alternate"/>
-    <published>2023-10-28T17:16:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kamehalani/video/7295136246488108318</id>
     <title>Every time tim is proven wrong… #corpsebride </title>
@@ -91,5 +75,21 @@
     <content>Replying to @spacegarnaal im dumb? #kanaka #hawaiiantiktok #jewishtiktok #palestine #jewtok </content>
     <link href="https://tiktok.com/@kamehalani/video/7298410837994163487" rel="alternate"/>
     <published>2023-11-06T18:01:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kamehalani/video/7302149862710103327</id>
+    <title>Honestly… i can finally post this now that we are off strike #chucky #tiffanyvalentine </title>
+    <updated>2023-11-16T19:51:11+00:00</updated>
+    <content>Honestly… i can finally post this now that we are off strike #chucky #tiffanyvalentine </content>
+    <link href="https://tiktok.com/@kamehalani/video/7302149862710103327" rel="alternate"/>
+    <published>2023-11-16T19:51:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kamehalani/video/7302159994948996383</id>
+    <title>My dms arent a safespace for antisemitism or Islamophobia #kanaka #hawaiiantiktok #palestine #jewtok #jewish </title>
+    <updated>2023-11-16T20:30:27+00:00</updated>
+    <content>My dms arent a safespace for antisemitism or Islamophobia #kanaka #hawaiiantiktok #palestine #jewtok #jewish </content>
+    <link href="https://tiktok.com/@kamehalani/video/7302159994948996383" rel="alternate"/>
+    <published>2023-11-16T20:30:27+00:00</published>
   </entry>
 </feed>
