@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ailaughatmyownjokes</id>
   <title>@ailaughatmyownjokes | TikTok</title>
-  <updated>2023-11-12T16:44:41+00:00</updated>
+  <updated>2023-11-16T16:05:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ailaughatmyownjokes</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ailaughatmyownjokes/video/7288762534419647776</id>
-    <title>Running in a cape is unsafe for me #harrypotter #sketch #comedy </title>
-    <updated>2023-10-11T18:01:16+00:00</updated>
-    <content>Running in a cape is unsafe for me #harrypotter #sketch #comedy </content>
-    <link href="https://tiktok.com/@ailaughatmyownjokes/video/7288762534419647776" rel="alternate"/>
-    <published>2023-10-11T18:01:16+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ailaughatmyownjokes/video/7290219187954257185</id>
     <title>No pasta was ever overcooked after this. #harrypotter #sketch #comedy </title>
@@ -91,5 +83,13 @@
     <content>@vicky boss Fred is a lucky man... jinkies #scoobydoo #sketch #comedy </content>
     <link href="https://tiktok.com/@ailaughatmyownjokes/video/7300617509781196065" rel="alternate"/>
     <published>2023-11-12T16:44:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ailaughatmyownjokes/video/7302091813291085089</id>
+    <title>Miss u ma boo @vicky boss  #sketch #comedy #couplegoals </title>
+    <updated>2023-11-16T16:05:44+00:00</updated>
+    <content>Miss u ma boo @vicky boss  #sketch #comedy #couplegoals </content>
+    <link href="https://tiktok.com/@ailaughatmyownjokes/video/7302091813291085089" rel="alternate"/>
+    <published>2023-11-16T16:05:44+00:00</published>
   </entry>
 </feed>
