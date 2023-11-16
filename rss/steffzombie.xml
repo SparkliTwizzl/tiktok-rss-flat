@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@steffzombie</id>
   <title>@steffzombie | TikTok</title>
-  <updated>2023-11-13T05:21:38+00:00</updated>
+  <updated>2023-11-16T02:46:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,38 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @steffzombie</subtitle>
-  <entry>
-    <id>https://tiktok.com/@steffzombie/video/7283687866574671146</id>
-    <title>Still wanna see ? #fy </title>
-    <updated>2023-09-28T01:49:00+00:00</updated>
-    <content>Still wanna see ? #fy </content>
-    <link href="https://tiktok.com/@steffzombie/video/7283687866574671146" rel="alternate"/>
-    <published>2023-09-28T01:49:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@steffzombie/video/7285195764739951915</id>
-    <title>No pain no gain? #scary #saw</title>
-    <updated>2023-10-02T03:20:34+00:00</updated>
-    <content>No pain no gain? #scary #saw</content>
-    <link href="https://tiktok.com/@steffzombie/video/7285195764739951915" rel="alternate"/>
-    <published>2023-10-02T03:20:34+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@steffzombie/video/7287351197017689386</id>
-    <title>Perfect time of the year for this dance. #lgbt #spooky </title>
-    <updated>2023-10-07T22:44:57+00:00</updated>
-    <content>Perfect time of the year for this dance. #lgbt #spooky </content>
-    <link href="https://tiktok.com/@steffzombie/video/7287351197017689386" rel="alternate"/>
-    <published>2023-10-07T22:44:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@steffzombie/video/7287671169904282922</id>
-    <title>Replying to @Bleeding heads  i have a drink in my hand? #fy </title>
-    <updated>2023-10-08T19:26:22+00:00</updated>
-    <content>Replying to @Bleeding heads  i have a drink in my hand? #fy </content>
-    <link href="https://tiktok.com/@steffzombie/video/7287671169904282922" rel="alternate"/>
-    <published>2023-10-08T19:26:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@steffzombie/video/7288013742753811755</id>
     <title>Replying to @Steph dont worry he wont bite…….. unless i tell him to #fy #spooky </title>
@@ -91,5 +59,37 @@
     <content>🫶🏾 🙏🏾 </content>
     <link href="https://tiktok.com/@steffzombie/video/7300812487539166507" rel="alternate"/>
     <published>2023-11-13T05:21:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@steffzombie/video/7301809449470299438</id>
+    <title>Blessed Be 🖤☠️ #lgbt #spiritual </title>
+    <updated>2023-11-15T21:50:16+00:00</updated>
+    <content>Blessed Be 🖤☠️ #lgbt #spiritual </content>
+    <link href="https://tiktok.com/@steffzombie/video/7301809449470299438" rel="alternate"/>
+    <published>2023-11-15T21:50:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@steffzombie/video/7301816409334566187</id>
+    <title>Replying to @Itsjustcrazytalk  cause this dance makes me feel seggsy 😮‍💨 </title>
+    <updated>2023-11-15T22:17:12+00:00</updated>
+    <content>Replying to @Itsjustcrazytalk  cause this dance makes me feel seggsy 😮‍💨 </content>
+    <link href="https://tiktok.com/@steffzombie/video/7301816409334566187" rel="alternate"/>
+    <published>2023-11-15T22:17:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@steffzombie/video/7301873209207541035</id>
+    <title>Fun time #uncannyvalley </title>
+    <updated>2023-11-16T01:57:29+00:00</updated>
+    <content>Fun time #uncannyvalley </content>
+    <link href="https://tiktok.com/@steffzombie/video/7301873209207541035" rel="alternate"/>
+    <published>2023-11-16T01:57:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@steffzombie/video/7301885972772343082</id>
+    <title>⚫️ 👄 ⚫️ #uncannyvalley #witch #goth #lgbt </title>
+    <updated>2023-11-16T02:46:59+00:00</updated>
+    <content>⚫️ 👄 ⚫️ #uncannyvalley #witch #goth #lgbt </content>
+    <link href="https://tiktok.com/@steffzombie/video/7301885972772343082" rel="alternate"/>
+    <published>2023-11-16T02:46:59+00:00</published>
   </entry>
 </feed>
