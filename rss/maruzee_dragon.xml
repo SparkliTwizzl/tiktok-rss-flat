@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maruzee_dragon</id>
   <title>@maruzee_dragon | TikTok</title>
-  <updated>2023-11-15T02:27:30+00:00</updated>
+  <updated>2023-11-16T03:08:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maruzee_dragon</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maruzee_dragon/video/7295558536887553285</id>
-    <title>😂😂...Thinking lightsabers next time...Or more kicks?! #martialarts  #hype #fyp </title>
-    <updated>2023-10-30T01:33:12+00:00</updated>
-    <content>😂😂...Thinking lightsabers next time...Or more kicks?! #martialarts  #hype #fyp </content>
-    <link href="https://tiktok.com/@maruzee_dragon/video/7295558536887553285" rel="alternate"/>
-    <published>2023-10-30T01:33:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maruzee_dragon/video/7295926959639399686</id>
     <title>⚠️FW⚠️ Got inspired by Mileena for this Halloween look👍🙃 #mk #mileena #martialarts #kicks #trainedprofessional #action #transition #kitana #videogames </title>
@@ -91,5 +83,13 @@
     <content>Which kick would work the best in a fight?!🧐 #training #martialarts #taekwondo #mma #sport #kick #karate #flexible #fitness </content>
     <link href="https://tiktok.com/@maruzee_dragon/video/7301509888616828165" rel="alternate"/>
     <published>2023-11-15T02:27:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maruzee_dragon/video/7301891605487734021</id>
+    <title>Who's up for more lightsaber moves in this outfit?!</title>
+    <updated>2023-11-16T03:08:46+00:00</updated>
+    <content>Who's up for more lightsaber moves in this outfit?!</content>
+    <link href="https://tiktok.com/@maruzee_dragon/video/7301891605487734021" rel="alternate"/>
+    <published>2023-11-16T03:08:46+00:00</published>
   </entry>
 </feed>
