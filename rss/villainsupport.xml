@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@villainsupport</id>
   <title>@villainsupport | TikTok</title>
-  <updated>2023-11-15T01:59:39+00:00</updated>
+  <updated>2023-11-16T21:22:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @villainsupport</subtitle>
-  <entry>
-    <id>https://tiktok.com/@villainsupport/video/7296620186147228959</id>
-    <title>A Newly-Turned Zombie Called Us for Help!</title>
-    <updated>2023-11-01T22:13:01+00:00</updated>
-    <content>A Newly-Turned Zombie Called Us for Help!</content>
-    <link href="https://tiktok.com/@villainsupport/video/7296620186147228959" rel="alternate"/>
-    <published>2023-11-01T22:13:01+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@villainsupport/video/7297665908376472863</id>
-    <title>These Designs Available Now!  Link in bio! #dndtiktok #acmetok #acmevillainsupport #alignment #dungeonmaster </title>
-    <updated>2023-11-04T17:51:04+00:00</updated>
-    <content>These Designs Available Now!  Link in bio! #dndtiktok #acmetok #acmevillainsupport #alignment #dungeonmaster </content>
-    <link href="https://tiktok.com/@villainsupport/video/7297665908376472863" rel="alternate"/>
-    <published>2023-11-04T17:51:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@villainsupport/video/7297710331537788191</id>
     <title>Alignments shirts available now at the link in our bio!</title>
@@ -91,5 +75,21 @@
     <content>#stitch with @thejamplan Nappa wants hair</content>
     <link href="https://tiktok.com/@villainsupport/video/7301502688057904414" rel="alternate"/>
     <published>2023-11-15T01:59:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@villainsupport/video/7302146226521132318</id>
+    <title>#onthisday #predator #avatarthelastairbender #katara #aang #acmetok #acmevillainsupport </title>
+    <updated>2023-11-16T19:37:07+00:00</updated>
+    <content>#onthisday #predator #avatarthelastairbender #katara #aang #acmetok #acmevillainsupport </content>
+    <link href="https://tiktok.com/@villainsupport/video/7302146226521132318" rel="alternate"/>
+    <published>2023-11-16T19:37:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@villainsupport/video/7302173422644202783</id>
+    <title>ALL THEY HAVE TO DO IS LISTEN!! *LISTEN*</title>
+    <updated>2023-11-16T21:22:34+00:00</updated>
+    <content>ALL THEY HAVE TO DO IS LISTEN!! *LISTEN*</content>
+    <link href="https://tiktok.com/@villainsupport/video/7302173422644202783" rel="alternate"/>
+    <published>2023-11-16T21:22:34+00:00</published>
   </entry>
 </feed>
