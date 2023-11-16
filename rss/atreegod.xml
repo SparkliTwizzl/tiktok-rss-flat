@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@atreegod</id>
   <title>@atreegod | TikTok</title>
-  <updated>2023-11-16T03:32:32+00:00</updated>
+  <updated>2023-11-11T23:02:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @atreegod</subtitle>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7297265632280710446</id>
+    <title>ITS ALMOST CHRISTMASSSSS #wlw #lgbtq </title>
+    <updated>2023-11-03T15:57:58+00:00</updated>
+    <content>ITS ALMOST CHRISTMASSSSS #wlw #lgbtq </content>
+    <link href="https://tiktok.com/@atreegod/video/7297265632280710446" rel="alternate"/>
+    <published>2023-11-03T15:57:58+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@atreegod/video/7297265998808370475</id>
     <title>U can see my snaggle toof at the end #wlw #lgbtq </title>
@@ -83,13 +91,5 @@
     <content>I stay chewing on words fr #wlw #lgbtq </content>
     <link href="https://tiktok.com/@atreegod/video/7300343697416277290" rel="alternate"/>
     <published>2023-11-11T23:02:21+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@atreegod/video/7301897701363387691</id>
-    <title>Sassy masc supremacy #wlw #lgbtq </title>
-    <updated>2023-11-16T03:32:32+00:00</updated>
-    <content>Sassy masc supremacy #wlw #lgbtq </content>
-    <link href="https://tiktok.com/@atreegod/video/7301897701363387691" rel="alternate"/>
-    <published>2023-11-16T03:32:32+00:00</published>
   </entry>
 </feed>
