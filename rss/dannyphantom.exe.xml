@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dannyphantom.exe</id>
   <title>@dannyphantom.exe | TikTok</title>
-  <updated>2023-11-16T03:16:07+00:00</updated>
+  <updated>2023-11-17T03:21:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dannyphantom.exe</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7299666907626474794</id>
-    <title>tag ur siblings or mom (if ur brave)</title>
-    <updated>2023-11-10T03:15:55+00:00</updated>
-    <content>tag ur siblings or mom (if ur brave)</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7299666907626474794" rel="alternate"/>
-    <published>2023-11-10T03:15:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dannyphantom.exe/video/7300037898886303018</id>
-    <title>god i love water</title>
-    <updated>2023-11-11T03:15:37+00:00</updated>
-    <content>god i love water</content>
-    <link href="https://tiktok.com/@dannyphantom.exe/video/7300037898886303018" rel="alternate"/>
-    <published>2023-11-11T03:15:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dannyphantom.exe/video/7300038089852914987</id>
     <title>Platonic Beat Friend Vampire part 2 :)</title>
@@ -91,5 +75,21 @@
     <content>IF I WAS A WORM WHAT WOULD U DO HERO</content>
     <link href="https://tiktok.com/@dannyphantom.exe/video/7301893472104074538" rel="alternate"/>
     <published>2023-11-16T03:16:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7302264905569389870</id>
+    <title>@Julia Maggio help me</title>
+    <updated>2023-11-17T03:17:27+00:00</updated>
+    <content>@Julia Maggio help me</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7302264905569389870" rel="alternate"/>
+    <published>2023-11-17T03:17:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dannyphantom.exe/video/7302265909840743723</id>
+    <title>hows gayer? lets kiss oit it and find out ;) - tag someone u wanna find out how gay they are</title>
+    <updated>2023-11-17T03:21:22+00:00</updated>
+    <content>hows gayer? lets kiss oit it and find out ;) - tag someone u wanna find out how gay they are</content>
+    <link href="https://tiktok.com/@dannyphantom.exe/video/7302265909840743723" rel="alternate"/>
+    <published>2023-11-17T03:21:22+00:00</published>
   </entry>
 </feed>

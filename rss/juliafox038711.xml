@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@juliafox038711</id>
   <title>@juliafox038711 | TikTok</title>
-  <updated>2023-11-15T00:12:29+00:00</updated>
+  <updated>2023-11-17T03:42:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,38 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juliafox038711</subtitle>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7300017857952369963</id>
-    <title>when this song was the only song i listened to was a good time</title>
-    <updated>2023-11-11T01:57:54+00:00</updated>
-    <content>when this song was the only song i listened to was a good time</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7300017857952369963" rel="alternate"/>
-    <published>2023-11-11T01:57:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7300366573720669483</id>
-    <title>[no title]</title>
-    <updated>2023-11-12T00:31:01+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7300366573720669483" rel="alternate"/>
-    <published>2023-11-12T00:31:01+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7300727116193238318</id>
-    <title>happy sunday</title>
-    <updated>2023-11-12T23:50:08+00:00</updated>
-    <content>happy sunday</content>
-    <link href="https://tiktok.com/@juliafox038711/video/7300727116193238318" rel="alternate"/>
-    <published>2023-11-12T23:50:08+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7300728760549199150</id>
-    <title>im very bad at eye contact </title>
-    <updated>2023-11-12T23:56:30+00:00</updated>
-    <content>im very bad at eye contact </content>
-    <link href="https://tiktok.com/@juliafox038711/video/7300728760549199150" rel="alternate"/>
-    <published>2023-11-12T23:56:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@juliafox038711/video/7300736934719114538</id>
     <title>and awful time but addicting </title>
@@ -91,5 +59,37 @@
     <content>its someones birthday :))</content>
     <link href="https://tiktok.com/@juliafox038711/video/7301475078150032682" rel="alternate"/>
     <published>2023-11-15T00:12:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7302261913294064942</id>
+    <title>i got mi nails done</title>
+    <updated>2023-11-17T03:05:49+00:00</updated>
+    <content>i got mi nails done</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7302261913294064942" rel="alternate"/>
+    <published>2023-11-17T03:05:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7302264726912814379</id>
+    <title>slpooy transitions </title>
+    <updated>2023-11-17T03:16:45+00:00</updated>
+    <content>slpooy transitions </content>
+    <link href="https://tiktok.com/@juliafox038711/video/7302264726912814379" rel="alternate"/>
+    <published>2023-11-17T03:16:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7302268190707567914</id>
+    <title>how was i suppose to know that one video would be what im known for😭</title>
+    <updated>2023-11-17T03:30:12+00:00</updated>
+    <content>how was i suppose to know that one video would be what im known for😭</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7302268190707567914" rel="alternate"/>
+    <published>2023-11-17T03:30:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7302271367821511979</id>
+    <title>ill pay</title>
+    <updated>2023-11-17T03:42:33+00:00</updated>
+    <content>ill pay</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7302271367821511979" rel="alternate"/>
+    <published>2023-11-17T03:42:33+00:00</published>
   </entry>
 </feed>
