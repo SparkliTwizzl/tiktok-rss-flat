@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@liil.dork.alex</id>
   <title>@liil.dork.alex | TikTok</title>
-  <updated>2023-11-15T02:42:03+00:00</updated>
+  <updated>2023-11-16T23:24:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @liil.dork.alex</subtitle>
-  <entry>
-    <id>https://tiktok.com/@liil.dork.alex/video/7296143141898390814</id>
-    <title>Grand rising loves 🥰</title>
-    <updated>2023-10-31T15:22:02+00:00</updated>
-    <content>Grand rising loves 🥰</content>
-    <link href="https://tiktok.com/@liil.dork.alex/video/7296143141898390814" rel="alternate"/>
-    <published>2023-10-31T15:22:02+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@liil.dork.alex/video/7296615524744563998</id>
     <title>😮‍💨</title>
@@ -91,5 +83,13 @@
     <content>I dont know why i came in so fast 😂</content>
     <link href="https://tiktok.com/@liil.dork.alex/video/7301513618888101163" rel="alternate"/>
     <published>2023-11-15T02:42:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@liil.dork.alex/video/7302204931665169707</id>
+    <title>The sass that came out 😂</title>
+    <updated>2023-11-16T23:24:50+00:00</updated>
+    <content>The sass that came out 😂</content>
+    <link href="https://tiktok.com/@liil.dork.alex/video/7302204931665169707" rel="alternate"/>
+    <published>2023-11-16T23:24:50+00:00</published>
   </entry>
 </feed>
