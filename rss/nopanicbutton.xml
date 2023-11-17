@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@nopanicbutton</id>
   <title>@nopanicbutton | TikTok</title>
-  <updated>2023-11-15T16:54:58+00:00</updated>
+  <updated>2023-11-17T18:03:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @nopanicbutton</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nopanicbutton/video/7293932189727640874</id>
-    <title>Bleach. Bleach everything. #kinktok #kinktokrelatable #whatamess #smellthat </title>
-    <updated>2023-10-25T16:22:23+00:00</updated>
-    <content>Bleach. Bleach everything. #kinktok #kinktokrelatable #whatamess #smellthat </content>
-    <link href="https://tiktok.com/@nopanicbutton/video/7293932189727640874" rel="alternate"/>
-    <published>2023-10-25T16:22:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nopanicbutton/video/7294720402113318190</id>
     <title>The heat wars have begun! #thermostat #lightbill #dadsense </title>
@@ -91,5 +83,13 @@
     <content>So something happened the other day... #findingjesus #alreadygettingphonecalls </content>
     <link href="https://tiktok.com/@nopanicbutton/video/7301733346017594667" rel="alternate"/>
     <published>2023-11-15T16:54:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nopanicbutton/video/7302493160540769578</id>
+    <title>John got throat punched. #kinktok #angrywife </title>
+    <updated>2023-11-17T18:03:28+00:00</updated>
+    <content>John got throat punched. #kinktok #angrywife </content>
+    <link href="https://tiktok.com/@nopanicbutton/video/7302493160540769578" rel="alternate"/>
+    <published>2023-11-17T18:03:28+00:00</published>
   </entry>
 </feed>
