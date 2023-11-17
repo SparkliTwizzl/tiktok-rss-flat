@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@villainsupport</id>
   <title>@villainsupport | TikTok</title>
-  <updated>2023-11-16T21:22:34+00:00</updated>
+  <updated>2023-11-17T15:13:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @villainsupport</subtitle>
-  <entry>
-    <id>https://tiktok.com/@villainsupport/video/7297710331537788191</id>
-    <title>Alignments shirts available now at the link in our bio!</title>
-    <updated>2023-11-04T20:43:26+00:00</updated>
-    <content>Alignments shirts available now at the link in our bio!</content>
-    <link href="https://tiktok.com/@villainsupport/video/7297710331537788191" rel="alternate"/>
-    <published>2023-11-04T20:43:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@villainsupport/video/7299192640522751262</id>
     <title>“Warning: Dungeon Master / Dangerous When Smiling” - get your hoodie now at the link in bio!</title>
@@ -91,5 +83,13 @@
     <content>ALL THEY HAVE TO DO IS LISTEN!! *LISTEN*</content>
     <link href="https://tiktok.com/@villainsupport/video/7302173422644202783" rel="alternate"/>
     <published>2023-11-16T21:22:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@villainsupport/video/7302449484695358751</id>
+    <title>#onthisday i love these memories #harrypotter #dementors #harrydresden #wizard</title>
+    <updated>2023-11-17T15:13:43+00:00</updated>
+    <content>#onthisday i love these memories #harrypotter #dementors #harrydresden #wizard</content>
+    <link href="https://tiktok.com/@villainsupport/video/7302449484695358751" rel="alternate"/>
+    <published>2023-11-17T15:13:43+00:00</published>
   </entry>
 </feed>
