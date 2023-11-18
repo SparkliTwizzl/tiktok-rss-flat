@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-11-17T16:21:05+00:00</updated>
+  <updated>2023-11-18T17:06:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7299336688856304902</id>
-    <title>Replying to @vonne317booklover </title>
-    <updated>2023-11-09T05:54:24+00:00</updated>
-    <content>Replying to @vonne317booklover </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7299336688856304902" rel="alternate"/>
-    <published>2023-11-09T05:54:24+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7299466940647525638</id>
-    <title>week 6 of performing in person, on stage. I feel alot more confident and comfortable interacting upclose with people.  I made everything but the blue unitard that I found thrifting #thunderandlightning #dragperformance #glumthesupernaturalhitman </title>
-    <updated>2023-11-09T14:19:50+00:00</updated>
-    <content>week 6 of performing in person, on stage. I feel alot more confident and comfortable interacting upclose with people.  I made everything but the blue unitard that I found thrifting #thunderandlightning #dragperformance #glumthesupernaturalhitman </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7299466940647525638" rel="alternate"/>
-    <published>2023-11-09T14:19:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7299506598630657285</id>
     <title>fun with filters.. I handmade the tombstone behind me 6 yrs ago using old boxes and tissue paper #trickrtreat #samtrickrtreat #trickrtreatcosplay </title>
@@ -91,5 +75,21 @@
     <content>spent most of yesterday doing lives and catching up ❤️  #magician #houdini #magic</content>
     <link href="https://tiktok.com/@dancesinshadows/video/7302466872891542789" rel="alternate"/>
     <published>2023-11-17T16:21:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7302823912960740614</id>
+    <title>this look came about after many years of collecting random thrifted pieces. #pirateharley #harleyquinn #pirate </title>
+    <updated>2023-11-18T15:26:35+00:00</updated>
+    <content>this look came about after many years of collecting random thrifted pieces. #pirateharley #harleyquinn #pirate </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7302823912960740614" rel="alternate"/>
+    <published>2023-11-18T15:26:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7302849581224660230</id>
+    <title>#onthisday #maladytheclown #maladyandglum #helpmehideabody </title>
+    <updated>2023-11-18T17:06:11+00:00</updated>
+    <content>#onthisday #maladytheclown #maladyandglum #helpmehideabody </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7302849581224660230" rel="alternate"/>
+    <published>2023-11-18T17:06:11+00:00</published>
   </entry>
 </feed>
