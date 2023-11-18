@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kamehalani</id>
   <title>@kamehalani | TikTok</title>
-  <updated>2023-11-16T20:30:27+00:00</updated>
+  <updated>2023-11-17T23:30:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kamehalani</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kamehalani/video/7295136246488108318</id>
-    <title>Every time tim is proven wrong… #corpsebride </title>
-    <updated>2023-10-28T22:14:35+00:00</updated>
-    <content>Every time tim is proven wrong… #corpsebride </content>
-    <link href="https://tiktok.com/@kamehalani/video/7295136246488108318" rel="alternate"/>
-    <published>2023-10-28T22:14:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kamehalani/video/7295139340324211999</id>
     <title>What did harry do though? </title>
@@ -91,5 +83,13 @@
     <content>My dms arent a safespace for antisemitism or Islamophobia #kanaka #hawaiiantiktok #palestine #jewtok #jewish </content>
     <link href="https://tiktok.com/@kamehalani/video/7302159994948996383" rel="alternate"/>
     <published>2023-11-16T20:30:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kamehalani/video/7302577357901090078</id>
+    <title>Replying to @Mars Kas #hawaiiantiktok #kanaka #palestine #jewtok #jewish #jewishtiktok </title>
+    <updated>2023-11-17T23:30:02+00:00</updated>
+    <content>Replying to @Mars Kas #hawaiiantiktok #kanaka #palestine #jewtok #jewish #jewishtiktok </content>
+    <link href="https://tiktok.com/@kamehalani/video/7302577357901090078" rel="alternate"/>
+    <published>2023-11-17T23:30:02+00:00</published>
   </entry>
 </feed>
