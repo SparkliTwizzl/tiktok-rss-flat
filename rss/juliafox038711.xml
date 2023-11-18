@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@juliafox038711</id>
   <title>@juliafox038711 | TikTok</title>
-  <updated>2023-11-17T03:42:33+00:00</updated>
+  <updated>2023-11-17T23:51:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juliafox038711</subtitle>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7300736934719114538</id>
-    <title>and awful time but addicting </title>
-    <updated>2023-11-13T00:28:19+00:00</updated>
-    <content>and awful time but addicting </content>
-    <link href="https://tiktok.com/@juliafox038711/video/7300736934719114538" rel="alternate"/>
-    <published>2023-11-13T00:28:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@juliafox038711/video/7300739145767521582</id>
     <title>its been over a year, i would just like to have people watch my stuff again :D #foryou #plzhelp #tiktok #shadowbanned #crying #throwingafit </title>
@@ -91,5 +83,13 @@
     <content>ill pay</content>
     <link href="https://tiktok.com/@juliafox038711/video/7302271367821511979" rel="alternate"/>
     <published>2023-11-17T03:42:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7302582951882067242</id>
+    <title>i have purple hair now ☺️</title>
+    <updated>2023-11-17T23:51:43+00:00</updated>
+    <content>i have purple hair now ☺️</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7302582951882067242" rel="alternate"/>
+    <published>2023-11-17T23:51:43+00:00</published>
   </entry>
 </feed>
