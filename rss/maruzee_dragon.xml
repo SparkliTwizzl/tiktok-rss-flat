@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maruzee_dragon</id>
   <title>@maruzee_dragon | TikTok</title>
-  <updated>2023-11-16T03:08:46+00:00</updated>
+  <updated>2023-11-18T03:08:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maruzee_dragon</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maruzee_dragon/video/7295926959639399686</id>
-    <title>⚠️FW⚠️ Got inspired by Mileena for this Halloween look👍🙃 #mk #mileena #martialarts #kicks #trainedprofessional #action #transition #kitana #videogames </title>
-    <updated>2023-10-31T01:22:53+00:00</updated>
-    <content>⚠️FW⚠️ Got inspired by Mileena for this Halloween look👍🙃 #mk #mileena #martialarts #kicks #trainedprofessional #action #transition #kitana #videogames </content>
-    <link href="https://tiktok.com/@maruzee_dragon/video/7295926959639399686" rel="alternate"/>
-    <published>2023-10-31T01:22:53+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maruzee_dragon/video/7296251799340682502</id>
     <title>Meet weapon fan with Kurumi 💛 and #NarakaBladepoint #SpookyFanSlayer </title>
@@ -91,5 +83,13 @@
     <content>Who's up for more lightsaber moves in this outfit?!</content>
     <link href="https://tiktok.com/@maruzee_dragon/video/7301891605487734021" rel="alternate"/>
     <published>2023-11-16T03:08:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maruzee_dragon/video/7302633725857107206</id>
+    <title>Mastering the art of the double life: hitting the books and pulling off sneaky heists. This necklace? For me, thievery is like solving a puzzle or proving a conjecture of security. They are always there waiting for me. #Reverse1999 #Reverse1999Melania #co</title>
+    <updated>2023-11-18T03:08:33+00:00</updated>
+    <content>Mastering the art of the double life: hitting the books and pulling off sneaky heists. This necklace? For me, thievery is like solving a puzzle or proving a conjecture of security. They are always there waiting for me. #Reverse1999 #Reverse1999Melania #cosplay </content>
+    <link href="https://tiktok.com/@maruzee_dragon/video/7302633725857107206" rel="alternate"/>
+    <published>2023-11-18T03:08:33+00:00</published>
   </entry>
 </feed>
