@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-11-16T05:19:28+00:00</updated>
+  <updated>2023-11-18T07:24:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7300685716013518126</id>
-    <title>Jean skirt or plaid skirt today</title>
-    <updated>2023-11-12T21:09:25+00:00</updated>
-    <content>Jean skirt or plaid skirt today</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7300685716013518126" rel="alternate"/>
-    <published>2023-11-12T21:09:25+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7300702549290749230</id>
-    <title>TT is being weird, lmk if you see this </title>
-    <updated>2023-11-12T22:14:54+00:00</updated>
-    <content>TT is being weird, lmk if you see this </content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7300702549290749230" rel="alternate"/>
-    <published>2023-11-12T22:14:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7300824125658942762</id>
     <title>Last one in this outfit </title>
@@ -91,5 +75,21 @@
     <content>Let’s bring this back</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7301925247123541291" rel="alternate"/>
     <published>2023-11-16T05:19:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7302690198759017770</id>
+    <title>1000 points if you recognize the clock</title>
+    <updated>2023-11-18T06:48:13+00:00</updated>
+    <content>1000 points if you recognize the clock</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7302690198759017770" rel="alternate"/>
+    <published>2023-11-18T06:48:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7302699594327084331</id>
+    <title>Insta loved this sound </title>
+    <updated>2023-11-18T07:24:40+00:00</updated>
+    <content>Insta loved this sound </content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7302699594327084331" rel="alternate"/>
+    <published>2023-11-18T07:24:40+00:00</published>
   </entry>
 </feed>
