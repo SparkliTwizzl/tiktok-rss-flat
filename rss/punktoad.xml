@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-11-16T20:17:04+00:00</updated>
+  <updated>2023-11-17T19:12:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7298057681653320990</id>
-    <title>I miss Texas </title>
-    <updated>2023-11-05T19:11:18+00:00</updated>
-    <content>I miss Texas </content>
-    <link href="https://tiktok.com/@punktoad/video/7298057681653320990" rel="alternate"/>
-    <published>2023-11-05T19:11:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7298429258563734815</id>
     <title>Replying to @Kolton hope this helps </title>
@@ -91,5 +83,13 @@
     <content>Unforgivable </content>
     <link href="https://tiktok.com/@punktoad/video/7302156519041289503" rel="alternate"/>
     <published>2023-11-16T20:17:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7302510925024693535</id>
+    <title>Every year 🤙</title>
+    <updated>2023-11-17T19:12:24+00:00</updated>
+    <content>Every year 🤙</content>
+    <link href="https://tiktok.com/@punktoad/video/7302510925024693535" rel="alternate"/>
+    <published>2023-11-17T19:12:24+00:00</published>
   </entry>
 </feed>
