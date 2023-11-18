@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-11-17T17:21:21+00:00</updated>
+  <updated>2023-11-18T14:58:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7294740460440997126</id>
-    <title>Objects in the trunk are now further than they appear #manchild #ram1500 #adhd #marriedlife #husbands #impulsebuy #couplegoals #thedarcymichael  @Darcy &amp; Jer </title>
-    <updated>2023-10-27T20:38:40+00:00</updated>
-    <content>Objects in the trunk are now further than they appear #manchild #ram1500 #adhd #marriedlife #husbands #impulsebuy #couplegoals #thedarcymichael  @Darcy &amp; Jer </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7294740460440997126" rel="alternate"/>
-    <published>2023-10-27T20:38:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7295444215650127110</id>
     <title>Yes he was a legendary talent, but to me more importantly, he was also kind. Rest easy Matthew #matthewperry </title>
@@ -91,5 +83,13 @@
     <content>He got so defensive at the end #adhd #husbands #gay #comedy  </content>
     <link href="https://tiktok.com/@thedarcymichael/video/7302482399705812229" rel="alternate"/>
     <published>2023-11-17T17:21:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7302816656747777285</id>
+    <title>Start the car! Start the car!</title>
+    <updated>2023-11-18T14:58:26+00:00</updated>
+    <content>Start the car! Start the car!</content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7302816656747777285" rel="alternate"/>
+    <published>2023-11-18T14:58:26+00:00</published>
   </entry>
 </feed>
