@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@atreegod</id>
   <title>@atreegod | TikTok</title>
-  <updated>2023-11-17T02:16:23+00:00</updated>
+  <updated>2023-11-18T01:16:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @atreegod</subtitle>
-  <entry>
-    <id>https://tiktok.com/@atreegod/video/7297265998808370475</id>
-    <title>U can see my snaggle toof at the end #wlw #lgbtq </title>
-    <updated>2023-11-03T15:59:31+00:00</updated>
-    <content>U can see my snaggle toof at the end #wlw #lgbtq </content>
-    <link href="https://tiktok.com/@atreegod/video/7297265998808370475" rel="alternate"/>
-    <published>2023-11-03T15:59:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@atreegod/video/7297266972121779499</id>
     <title>Ill never admit how much i loved this song when it was trending ⚠️admitting⚠️ #wlw #lgbtq </title>
@@ -91,5 +83,13 @@
     <content>I need an elbow piece bad so i can officially have a sleeve #wlw </content>
     <link href="https://tiktok.com/@atreegod/video/7302249184076238122" rel="alternate"/>
     <published>2023-11-17T02:16:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@atreegod/video/7302604811755867438</id>
+    <title>Bummed ab the tiktokification of prom but at least this mix is rlly good #wlw #lgbtq </title>
+    <updated>2023-11-18T01:16:38+00:00</updated>
+    <content>Bummed ab the tiktokification of prom but at least this mix is rlly good #wlw #lgbtq </content>
+    <link href="https://tiktok.com/@atreegod/video/7302604811755867438" rel="alternate"/>
+    <published>2023-11-18T01:16:38+00:00</published>
   </entry>
 </feed>
