@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kit_the_beefcake</id>
   <title>@kit_the_beefcake | TikTok</title>
-  <updated>2023-11-18T05:48:01+00:00</updated>
+  <updated>2023-11-19T01:33:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kit_the_beefcake</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7298003169102073130</id>
-    <title>[no title]</title>
-    <updated>2023-11-05T15:39:53+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7298003169102073130" rel="alternate"/>
-    <published>2023-11-05T15:39:53+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7298173130151906606</id>
     <title>[no title]</title>
@@ -91,5 +83,13 @@
     <content>wanna play with me?? :) </content>
     <link href="https://tiktok.com/@kit_the_beefcake/video/7302674736725724462" rel="alternate"/>
     <published>2023-11-18T05:48:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7302980254560177450</id>
+    <title>an oldie but a goodie</title>
+    <updated>2023-11-19T01:33:27+00:00</updated>
+    <content>an oldie but a goodie</content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7302980254560177450" rel="alternate"/>
+    <published>2023-11-19T01:33:27+00:00</published>
   </entry>
 </feed>
