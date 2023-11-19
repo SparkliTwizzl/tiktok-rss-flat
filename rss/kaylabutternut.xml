@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-11-19T03:42:09+00:00</updated>
+  <updated>2023-11-19T06:15:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7300879625322843435</id>
-    <title>The only person I’m competing with is right in front of me</title>
-    <updated>2023-11-13T09:42:48+00:00</updated>
-    <content>The only person I’m competing with is right in front of me</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7300879625322843435" rel="alternate"/>
-    <published>2023-11-13T09:42:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7301201726781066539</id>
     <title>Have you eaten today</title>
@@ -91,5 +83,13 @@
     <content>Can’t tell if this voice fits me</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7303013402027232554" rel="alternate"/>
     <published>2023-11-19T03:42:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7303052835384773934</id>
+    <title>Should I wear a black bodysuit or a black dress with tights tomorrow </title>
+    <updated>2023-11-19T06:15:27+00:00</updated>
+    <content>Should I wear a black bodysuit or a black dress with tights tomorrow </content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7303052835384773934" rel="alternate"/>
+    <published>2023-11-19T06:15:27+00:00</published>
   </entry>
 </feed>
