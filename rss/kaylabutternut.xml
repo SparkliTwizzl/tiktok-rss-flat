@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-11-18T21:25:49+00:00</updated>
+  <updated>2023-11-19T03:42:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7300863525176593706</id>
-    <title>It’s not perfect, but I tried my best </title>
-    <updated>2023-11-13T08:40:15+00:00</updated>
-    <content>It’s not perfect, but I tried my best </content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7300863525176593706" rel="alternate"/>
-    <published>2023-11-13T08:40:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7300879625322843435</id>
     <title>The only person I’m competing with is right in front of me</title>
@@ -91,5 +83,13 @@
     <content>Every time </content>
     <link href="https://tiktok.com/@kaylabutternut/video/7302916427030301995" rel="alternate"/>
     <published>2023-11-18T21:25:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7303013402027232554</id>
+    <title>Can’t tell if this voice fits me</title>
+    <updated>2023-11-19T03:42:09+00:00</updated>
+    <content>Can’t tell if this voice fits me</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7303013402027232554" rel="alternate"/>
+    <published>2023-11-19T03:42:09+00:00</published>
   </entry>
 </feed>
