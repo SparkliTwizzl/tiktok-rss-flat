@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-11-18T14:58:26+00:00</updated>
+  <updated>2023-11-19T02:29:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7295444215650127110</id>
-    <title>Yes he was a legendary talent, but to me more importantly, he was also kind. Rest easy Matthew #matthewperry </title>
-    <updated>2023-10-29T18:09:45+00:00</updated>
-    <content>Yes he was a legendary talent, but to me more importantly, he was also kind. Rest easy Matthew #matthewperry </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7295444215650127110" rel="alternate"/>
-    <published>2023-10-29T18:09:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7295769046421654789</id>
     <title>No matter how cold it gets this year, you’re better off without your ‘Daves’ @NicoretteCA. #NicorettePartner #SmokeFree NICORETTE ® contains nicotine. Stop smoking aid. Always read and follow the label.</title>
@@ -91,5 +83,13 @@
     <content>Start the car! Start the car!</content>
     <link href="https://tiktok.com/@thedarcymichael/video/7302816656747777285" rel="alternate"/>
     <published>2023-11-18T14:58:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7302994838419426566</id>
+    <title>Jer changed his tune pretty quick!  #husbandreacts #shoes #adhd #couples #relationships #funny </title>
+    <updated>2023-11-19T02:29:52+00:00</updated>
+    <content>Jer changed his tune pretty quick!  #husbandreacts #shoes #adhd #couples #relationships #funny </content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7302994838419426566" rel="alternate"/>
+    <published>2023-11-19T02:29:52+00:00</published>
   </entry>
 </feed>
