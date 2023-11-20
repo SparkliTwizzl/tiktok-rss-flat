@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@nopanicbutton</id>
   <title>@nopanicbutton | TikTok</title>
-  <updated>2023-11-17T18:03:28+00:00</updated>
+  <updated>2023-11-20T17:26:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @nopanicbutton</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nopanicbutton/video/7294720402113318190</id>
-    <title>The heat wars have begun! #thermostat #lightbill #dadsense </title>
-    <updated>2023-10-27T19:20:56+00:00</updated>
-    <content>The heat wars have begun! #thermostat #lightbill #dadsense </content>
-    <link href="https://tiktok.com/@nopanicbutton/video/7294720402113318190" rel="alternate"/>
-    <published>2023-10-27T19:20:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nopanicbutton/video/7295910987012771118</id>
     <title>I actually had to have this conversation with someone. #wearedoomed #nohopeforhumanity #dontbreed </title>
@@ -91,5 +83,13 @@
     <content>John got throat punched. #kinktok #angrywife </content>
     <link href="https://tiktok.com/@nopanicbutton/video/7302493160540769578" rel="alternate"/>
     <published>2023-11-17T18:03:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nopanicbutton/video/7303596880842247455</id>
+    <title>Knowing the law is an awesome thing! #hunting #dnr </title>
+    <updated>2023-11-20T17:26:21+00:00</updated>
+    <content>Knowing the law is an awesome thing! #hunting #dnr </content>
+    <link href="https://tiktok.com/@nopanicbutton/video/7303596880842247455" rel="alternate"/>
+    <published>2023-11-20T17:26:21+00:00</published>
   </entry>
 </feed>
