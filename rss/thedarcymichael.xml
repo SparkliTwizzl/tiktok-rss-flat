@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-11-19T02:29:52+00:00</updated>
+  <updated>2023-11-20T16:51:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7295769046421654789</id>
-    <title>No matter how cold it gets this year, you’re better off without your ‘Daves’ @NicoretteCA. #NicorettePartner #SmokeFree NICORETTE ® contains nicotine. Stop smoking aid. Always read and follow the label.</title>
-    <updated>2023-10-30T15:10:05+00:00</updated>
-    <content>No matter how cold it gets this year, you’re better off without your ‘Daves’ @NicoretteCA. #NicorettePartner #SmokeFree NICORETTE ® contains nicotine. Stop smoking aid. Always read and follow the label.</content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7295769046421654789" rel="alternate"/>
-    <published>2023-10-30T15:10:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7296219631159692549</id>
     <title>Happy adhd awareness month. As much S we joke about it on tbis oage, it reallt amazes me watching darcy take on something he knows nothing about and then all of a sudden hes an expert at it. #adhd #hyperfixation #celebratesuccess #adhdawarenessmonth #neur</title>
@@ -91,5 +83,13 @@
     <content>Jer changed his tune pretty quick!  #husbandreacts #shoes #adhd #couples #relationships #funny </content>
     <link href="https://tiktok.com/@thedarcymichael/video/7302994838419426566" rel="alternate"/>
     <published>2023-11-19T02:29:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7303588078881393925</id>
+    <title>Ding dong - jers little dance took me out here #standup #comedy #couples #relationships #darcyandjer #husbands </title>
+    <updated>2023-11-20T16:51:56+00:00</updated>
+    <content>Ding dong - jers little dance took me out here #standup #comedy #couples #relationships #darcyandjer #husbands </content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7303588078881393925" rel="alternate"/>
+    <published>2023-11-20T16:51:56+00:00</published>
   </entry>
 </feed>
