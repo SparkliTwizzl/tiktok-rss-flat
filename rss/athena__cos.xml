@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-11-19T17:46:56+00:00</updated>
+  <updated>2023-11-20T19:12:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7297696568369581358</id>
-    <title>What kind of gym content do you want to see from me? #gym #gymgirl #buffwomen #womenwholift </title>
-    <updated>2023-11-04T19:50:05+00:00</updated>
-    <content>What kind of gym content do you want to see from me? #gym #gymgirl #buffwomen #womenwholift </content>
-    <link href="https://tiktok.com/@athena__cos/video/7297696568369581358" rel="alternate"/>
-    <published>2023-11-04T19:50:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7298032743907183915</id>
     <title>@katarina we need to dance with them somewhere besides cons 😂💜💙 #korra #asami #korrasami #korracosplay #avatar #avatarcosplay </title>
@@ -91,5 +83,13 @@
     <content>@nevstudio has my heart 🖤🖤 #techwear #darkwear #nevstudiostreetwear #streetwear </content>
     <link href="https://tiktok.com/@athena__cos/video/7303231107644902698" rel="alternate"/>
     <published>2023-11-19T17:46:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7303624154308152618</id>
+    <title>And as always: SLEEP AND HYDRATE #gym #fitness #bodybuilding #buffwomen </title>
+    <updated>2023-11-20T19:12:11+00:00</updated>
+    <content>And as always: SLEEP AND HYDRATE #gym #fitness #bodybuilding #buffwomen </content>
+    <link href="https://tiktok.com/@athena__cos/video/7303624154308152618" rel="alternate"/>
+    <published>2023-11-20T19:12:11+00:00</published>
   </entry>
 </feed>

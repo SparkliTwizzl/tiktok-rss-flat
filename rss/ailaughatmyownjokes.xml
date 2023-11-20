@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ailaughatmyownjokes</id>
   <title>@ailaughatmyownjokes | TikTok</title>
-  <updated>2023-11-16T16:05:44+00:00</updated>
+  <updated>2023-11-20T17:32:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ailaughatmyownjokes</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ailaughatmyownjokes/video/7290219187954257185</id>
-    <title>No pasta was ever overcooked after this. #harrypotter #sketch #comedy </title>
-    <updated>2023-10-15T16:13:51+00:00</updated>
-    <content>No pasta was ever overcooked after this. #harrypotter #sketch #comedy </content>
-    <link href="https://tiktok.com/@ailaughatmyownjokes/video/7290219187954257185" rel="alternate"/>
-    <published>2023-10-15T16:13:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ailaughatmyownjokes/video/7292081167950466336</id>
     <title>Zendaya, if you see this... how can we rewrite the stars?  #sketch #comedy </title>
@@ -91,5 +83,13 @@
     <content>Miss u ma boo @vicky boss  #sketch #comedy #couplegoals </content>
     <link href="https://tiktok.com/@ailaughatmyownjokes/video/7302091813291085089" rel="alternate"/>
     <published>2023-11-16T16:05:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ailaughatmyownjokes/video/7303598594764967201</id>
+    <title>Smh don't even get me started on Crabbe #harrypotter #sketch #comedy </title>
+    <updated>2023-11-20T17:32:48+00:00</updated>
+    <content>Smh don't even get me started on Crabbe #harrypotter #sketch #comedy </content>
+    <link href="https://tiktok.com/@ailaughatmyownjokes/video/7303598594764967201" rel="alternate"/>
+    <published>2023-11-20T17:32:48+00:00</published>
   </entry>
 </feed>
