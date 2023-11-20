@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@villainsupport</id>
   <title>@villainsupport | TikTok</title>
-  <updated>2023-11-18T17:06:50+00:00</updated>
+  <updated>2023-11-19T22:27:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @villainsupport</subtitle>
-  <entry>
-    <id>https://tiktok.com/@villainsupport/video/7299229841356901663</id>
-    <title>Broke Vampire Part 14</title>
-    <updated>2023-11-08T22:59:58+00:00</updated>
-    <content>Broke Vampire Part 14</content>
-    <link href="https://tiktok.com/@villainsupport/video/7299229841356901663" rel="alternate"/>
-    <published>2023-11-08T22:59:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@villainsupport/video/7300363868709063967</id>
     <title>#onthisday I can FINALLY start reposting/sharing our old content again!! THE PREDATORS ARE BACK BABY!</title>
@@ -91,5 +83,13 @@
     <content>#onthisday so glad to be able to share these older videos wirh newer fans!</content>
     <link href="https://tiktok.com/@villainsupport/video/7302849699826978079" rel="alternate"/>
     <published>2023-11-18T17:06:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@villainsupport/video/7303303358591323423</id>
+    <title>Warpedsoap.com and use discount code “Villain” ! Let’s make this a reality!</title>
+    <updated>2023-11-19T22:27:14+00:00</updated>
+    <content>Warpedsoap.com and use discount code “Villain” ! Let’s make this a reality!</content>
+    <link href="https://tiktok.com/@villainsupport/video/7303303358591323423" rel="alternate"/>
+    <published>2023-11-19T22:27:14+00:00</published>
   </entry>
 </feed>
