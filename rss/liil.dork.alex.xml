@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@liil.dork.alex</id>
   <title>@liil.dork.alex | TikTok</title>
-  <updated>2023-11-18T23:11:47+00:00</updated>
+  <updated>2023-11-20T03:27:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @liil.dork.alex</subtitle>
-  <entry>
-    <id>https://tiktok.com/@liil.dork.alex/video/7298119516960181534</id>
-    <title>This song will always be a go too😏</title>
-    <updated>2023-11-05T23:11:15+00:00</updated>
-    <content>This song will always be a go too😏</content>
-    <link href="https://tiktok.com/@liil.dork.alex/video/7298119516960181534" rel="alternate"/>
-    <published>2023-11-05T23:11:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@liil.dork.alex/video/7299958333061008683</id>
     <title>All i wanna doooooo </title>
@@ -91,5 +83,13 @@
     <content>That new new 💁🏼‍♀️</content>
     <link href="https://tiktok.com/@liil.dork.alex/video/7302943734344256811" rel="alternate"/>
     <published>2023-11-18T23:11:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@liil.dork.alex/video/7303380591334968618</id>
+    <title>Forgot to post this 😅</title>
+    <updated>2023-11-20T03:27:02+00:00</updated>
+    <content>Forgot to post this 😅</content>
+    <link href="https://tiktok.com/@liil.dork.alex/video/7303380591334968618" rel="alternate"/>
+    <published>2023-11-20T03:27:02+00:00</published>
   </entry>
 </feed>
