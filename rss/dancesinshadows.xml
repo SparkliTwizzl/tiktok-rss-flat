@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-11-18T17:06:11+00:00</updated>
+  <updated>2023-11-20T07:11:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7299506598630657285</id>
-    <title>fun with filters.. I handmade the tombstone behind me 6 yrs ago using old boxes and tissue paper #trickrtreat #samtrickrtreat #trickrtreatcosplay </title>
-    <updated>2023-11-09T16:53:43+00:00</updated>
-    <content>fun with filters.. I handmade the tombstone behind me 6 yrs ago using old boxes and tissue paper #trickrtreat #samtrickrtreat #trickrtreatcosplay </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7299506598630657285" rel="alternate"/>
-    <published>2023-11-09T16:53:43+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7299551454644276486</id>
     <title>my first performance of last night before I brought the light show later on #mommyissues #dragshow </title>
@@ -91,5 +83,13 @@
     <content>#onthisday #maladytheclown #maladyandglum #helpmehideabody </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7302849581224660230" rel="alternate"/>
     <published>2023-11-18T17:06:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7303438380287773957</id>
+    <title>keep an eye out for a live this Monday afternoon (est). I'll be catching everyone up with what I've been up to from live shows to future plans. and as usual, music and some performance too. #glumthesupernaturalhitman #dragperformance #dancesinshadows  #li</title>
+    <updated>2023-11-20T07:11:04+00:00</updated>
+    <content>keep an eye out for a live this Monday afternoon (est). I'll be catching everyone up with what I've been up to from live shows to future plans. and as usual, music and some performance too. #glumthesupernaturalhitman #dragperformance #dancesinshadows  #lifeupdate #livestream </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7303438380287773957" rel="alternate"/>
+    <published>2023-11-20T07:11:04+00:00</published>
   </entry>
 </feed>

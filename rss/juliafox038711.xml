@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@juliafox038711</id>
   <title>@juliafox038711 | TikTok</title>
-  <updated>2023-11-19T20:56:01+00:00</updated>
+  <updated>2023-11-20T04:19:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juliafox038711</subtitle>
-  <entry>
-    <id>https://tiktok.com/@juliafox038711/video/7300744780055809326</id>
-    <title>i vibin #foryou </title>
-    <updated>2023-11-13T00:58:41+00:00</updated>
-    <content>i vibin #foryou </content>
-    <link href="https://tiktok.com/@juliafox038711/video/7300744780055809326" rel="alternate"/>
-    <published>2023-11-13T00:58:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@juliafox038711/video/7300751397874765102</id>
     <title>and thats the story of why i cut my hair 3 years ago</title>
@@ -91,5 +83,13 @@
     <content>yes thats bill clinton playing the saxaphone</content>
     <link href="https://tiktok.com/@juliafox038711/video/7303279829099662638" rel="alternate"/>
     <published>2023-11-19T20:56:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@juliafox038711/video/7303394004517784874</id>
+    <title>draft that should prob stay a draft but its so good</title>
+    <updated>2023-11-20T04:19:02+00:00</updated>
+    <content>draft that should prob stay a draft but its so good</content>
+    <link href="https://tiktok.com/@juliafox038711/video/7303394004517784874" rel="alternate"/>
+    <published>2023-11-20T04:19:02+00:00</published>
   </entry>
 </feed>
