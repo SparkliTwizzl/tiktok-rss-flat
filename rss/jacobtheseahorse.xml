@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jacobtheseahorse</id>
   <title>@jacobtheseahorse | TikTok</title>
-  <updated>2023-11-10T17:17:59+00:00</updated>
+  <updated>2023-11-20T13:09:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jacobtheseahorse</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7287968101772168481</id>
-    <title>Replying to @princessyasmine12 I didn't breastfeed, I did lactate and make a small amount of milk for my babies because human bodies are amazing. what's also amazing is that people who haven't given birth can also lactate and make milk for their babies. m</title>
-    <updated>2023-10-09T14:38:32+00:00</updated>
-    <content>Replying to @princessyasmine12 I didn't breastfeed, I did lactate and make a small amount of milk for my babies because human bodies are amazing. what's also amazing is that people who haven't given birth can also lactate and make milk for their babies. many trans women breastfeed their babies, which is such a beautiful thing to be able to do. #trans #breastfeeding #chestfeeding #infantfeeding #milk #humanmilk #lgbt </content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7287968101772168481" rel="alternate"/>
-    <published>2023-10-09T14:38:32+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jacobtheseahorse/video/7288295987683101985</id>
     <title>@Trans Pride Manchester see you there! to everyone who's thinking of coming, stay safe and stay hydrated. say hi if you see me! if you can't make it, please share/repost.  and to my trans family - you matter and we will get through this 💜🏳️‍⚧️ #trans #pea</title>
@@ -91,5 +83,13 @@
     <content>small things you can do: 1. like/share/repost this video (I'm donating anything I make on it to doctors without borders) 2. make a video with the filter - even if it's a private video 3. follow the filter creator for updates  ♥️🖤💚🤍 #free #makeadifference #peace #watermelonfilter #filterforgood #freepalestine🇵🇸❤️ </content>
     <link href="https://tiktok.com/@jacobtheseahorse/video/7299883926447852833" rel="alternate"/>
     <published>2023-11-10T17:17:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7303530718250962209</id>
+    <title>stay safe as we remember our dead. I especially want to mention that Black trans women are at the highest risk of violence. I say the names of all our sisters and siblings who have died this year. #tdor #transgender #dayofremembrance #trans #lgbtq </title>
+    <updated>2023-11-20T13:09:27+00:00</updated>
+    <content>stay safe as we remember our dead. I especially want to mention that Black trans women are at the highest risk of violence. I say the names of all our sisters and siblings who have died this year. #tdor #transgender #dayofremembrance #trans #lgbtq </content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7303530718250962209" rel="alternate"/>
+    <published>2023-11-20T13:09:27+00:00</published>
   </entry>
 </feed>
