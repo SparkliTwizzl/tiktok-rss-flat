@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@liil.dork.alex</id>
   <title>@liil.dork.alex | TikTok</title>
-  <updated>2023-11-21T13:47:37+00:00</updated>
+  <updated>2023-11-21T20:31:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @liil.dork.alex</subtitle>
-  <entry>
-    <id>https://tiktok.com/@liil.dork.alex/video/7298119516960181534</id>
-    <title>This song will always be a go too😏</title>
-    <updated>2023-11-05T23:11:15+00:00</updated>
-    <content>This song will always be a go too😏</content>
-    <link href="https://tiktok.com/@liil.dork.alex/video/7298119516960181534" rel="alternate"/>
-    <published>2023-11-05T23:11:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@liil.dork.alex/video/7301076232756710702</id>
     <title>Ready for this to drop</title>
@@ -91,5 +83,13 @@
     <content>Goodmorning 🥰 hope yall have a great day </content>
     <link href="https://tiktok.com/@liil.dork.alex/video/7303911630490848543" rel="alternate"/>
     <published>2023-11-21T13:47:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@liil.dork.alex/video/7304015784601292075</id>
+    <title>Idk what it is about car lighting😮‍💨</title>
+    <updated>2023-11-21T20:31:54+00:00</updated>
+    <content>Idk what it is about car lighting😮‍💨</content>
+    <link href="https://tiktok.com/@liil.dork.alex/video/7304015784601292075" rel="alternate"/>
+    <published>2023-11-21T20:31:54+00:00</published>
   </entry>
 </feed>
