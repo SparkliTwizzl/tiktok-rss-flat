@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@tracksuitsandredwine_</id>
   <title>@tracksuitsandredwine_ | TikTok</title>
-  <updated>2023-11-18T09:23:09+00:00</updated>
+  <updated>2023-11-21T07:33:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @tracksuitsandredwine_</subtitle>
-  <entry>
-    <id>https://tiktok.com/@tracksuitsandredwine_/video/7288565867850288385</id>
-    <title>last buggy draft #halloweenmakeup #buggy </title>
-    <updated>2023-10-11T05:18:09+00:00</updated>
-    <content>last buggy draft #halloweenmakeup #buggy </content>
-    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7288565867850288385" rel="alternate"/>
-    <published>2023-10-11T05:18:09+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@tracksuitsandredwine_/video/7289704137934032129</id>
     <title>siren makeup #halloween2023 #sfx </title>
@@ -91,5 +83,13 @@
     <content>recreating my fav vid</content>
     <link href="https://tiktok.com/@tracksuitsandredwine_/video/7302730248653769992" rel="alternate"/>
     <published>2023-11-18T09:23:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@tracksuitsandredwine_/video/7303815297092308232</id>
+    <title>personality hire only after 10am</title>
+    <updated>2023-11-21T07:33:39+00:00</updated>
+    <content>personality hire only after 10am</content>
+    <link href="https://tiktok.com/@tracksuitsandredwine_/video/7303815297092308232" rel="alternate"/>
+    <published>2023-11-21T07:33:39+00:00</published>
   </entry>
 </feed>
