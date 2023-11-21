@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-11-20T13:12:19+00:00</updated>
+  <updated>2023-11-21T01:12:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7299892257723927838</id>
-    <title>A few letters came with luggage </title>
-    <updated>2023-11-10T17:50:25+00:00</updated>
-    <content>A few letters came with luggage </content>
-    <link href="https://tiktok.com/@punktoad/video/7299892257723927838" rel="alternate"/>
-    <published>2023-11-10T17:50:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7300997781253066015</id>
     <title>Please do not harrass either if the creators tagged (@Vinny LoCasto @Lil Demon😈🐾🐺🌈🦄 ) </title>
@@ -91,5 +83,13 @@
     <content>And im just getting started </content>
     <link href="https://tiktok.com/@punktoad/video/7303531390946069791" rel="alternate"/>
     <published>2023-11-20T13:12:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7303717043944131870</id>
+    <title>Comfiest seat in the house </title>
+    <updated>2023-11-21T01:12:29+00:00</updated>
+    <content>Comfiest seat in the house </content>
+    <link href="https://tiktok.com/@punktoad/video/7303717043944131870" rel="alternate"/>
+    <published>2023-11-21T01:12:29+00:00</published>
   </entry>
 </feed>
