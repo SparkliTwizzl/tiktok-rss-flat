@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-11-20T19:12:11+00:00</updated>
+  <updated>2023-11-21T18:37:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7298032743907183915</id>
-    <title>@katarina we need to dance with them somewhere besides cons 😂💜💙 #korra #asami #korrasami #korracosplay #avatar #avatarcosplay </title>
-    <updated>2023-11-05T17:34:38+00:00</updated>
-    <content>@katarina we need to dance with them somewhere besides cons 😂💜💙 #korra #asami #korrasami #korracosplay #avatar #avatarcosplay </content>
-    <link href="https://tiktok.com/@athena__cos/video/7298032743907183915" rel="alternate"/>
-    <published>2023-11-05T17:34:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7299143836427636014</id>
     <title>“don’t be a skinny b***” #legday #cbum #gym #gymtok #buffwomen </title>
@@ -91,5 +83,13 @@
     <content>And as always: SLEEP AND HYDRATE #gym #fitness #bodybuilding #buffwomen </content>
     <link href="https://tiktok.com/@athena__cos/video/7303624154308152618" rel="alternate"/>
     <published>2023-11-20T19:12:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7303986275135278382</id>
+    <title>Average teenage boy build #bjj #mma </title>
+    <updated>2023-11-21T18:37:25+00:00</updated>
+    <content>Average teenage boy build #bjj #mma </content>
+    <link href="https://tiktok.com/@athena__cos/video/7303986275135278382" rel="alternate"/>
+    <published>2023-11-21T18:37:25+00:00</published>
   </entry>
 </feed>
