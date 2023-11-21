@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@adriananightmare</id>
   <title>@adriananightmare | TikTok</title>
-  <updated>2023-11-21T20:09:32+00:00</updated>
+  <updated>2023-11-21T21:56:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @adriananightmare</subtitle>
-  <entry>
-    <id>https://tiktok.com/@adriananightmare/video/7299527359722556718</id>
-    <title>[no title]</title>
-    <updated>2023-11-09T18:14:35+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@adriananightmare/video/7299527359722556718" rel="alternate"/>
-    <published>2023-11-09T18:14:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@adriananightmare/video/7301390573825461547</id>
     <title>tell people you love them.</title>
@@ -91,5 +83,13 @@
     <content>THE MOST LATINA I HAVE EVER LOOKED THANK YOU?</content>
     <link href="https://tiktok.com/@adriananightmare/video/7304010034197859627" rel="alternate"/>
     <published>2023-11-21T20:09:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@adriananightmare/video/7304037484697177390</id>
+    <title>[no title]</title>
+    <updated>2023-11-21T21:56:05+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@adriananightmare/video/7304037484697177390" rel="alternate"/>
+    <published>2023-11-21T21:56:05+00:00</published>
   </entry>
 </feed>
