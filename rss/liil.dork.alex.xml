@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@liil.dork.alex</id>
   <title>@liil.dork.alex | TikTok</title>
-  <updated>2023-11-20T03:27:02+00:00</updated>
+  <updated>2023-11-21T13:47:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @liil.dork.alex</subtitle>
-  <entry>
-    <id>https://tiktok.com/@liil.dork.alex/video/7297614364192804126</id>
-    <title>All girl party 🫡</title>
-    <updated>2023-11-04T14:31:05+00:00</updated>
-    <content>All girl party 🫡</content>
-    <link href="https://tiktok.com/@liil.dork.alex/video/7297614364192804126" rel="alternate"/>
-    <published>2023-11-04T14:31:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@liil.dork.alex/video/7298119516960181534</id>
     <title>This song will always be a go too😏</title>
@@ -91,5 +83,13 @@
     <content>Forgot to post this 😅</content>
     <link href="https://tiktok.com/@liil.dork.alex/video/7303380591334968618" rel="alternate"/>
     <published>2023-11-20T03:27:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@liil.dork.alex/video/7303911630490848543</id>
+    <title>Goodmorning 🥰 hope yall have a great day </title>
+    <updated>2023-11-21T13:47:37+00:00</updated>
+    <content>Goodmorning 🥰 hope yall have a great day </content>
+    <link href="https://tiktok.com/@liil.dork.alex/video/7303911630490848543" rel="alternate"/>
+    <published>2023-11-21T13:47:37+00:00</published>
   </entry>
 </feed>
