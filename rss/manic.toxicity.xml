@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@manic.toxicity</id>
   <title>@manic.toxicity | TikTok</title>
-  <updated>2023-11-10T22:44:22+00:00</updated>
+  <updated>2023-11-21T18:12:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @manic.toxicity</subtitle>
-  <entry>
-    <id>https://tiktok.com/@manic.toxicity/video/7289926716384988458</id>
-    <title>‼️FAKE SMOKE ‼️ IT IS NOT REAL‼️PAY NO ATTENTION‼️ #fyp #foryou </title>
-    <updated>2023-10-14T21:19:05+00:00</updated>
-    <content>‼️FAKE SMOKE ‼️ IT IS NOT REAL‼️PAY NO ATTENTION‼️ #fyp #foryou </content>
-    <link href="https://tiktok.com/@manic.toxicity/video/7289926716384988458" rel="alternate"/>
-    <published>2023-10-14T21:19:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@manic.toxicity/video/7290291181425003822</id>
     <title>baby i gotcha money #fyp #foryou </title>
@@ -91,5 +83,13 @@
     <content>who am i kidding? #fyp #foryou </content>
     <link href="https://tiktok.com/@manic.toxicity/video/7299968004920462638" rel="alternate"/>
     <published>2023-11-10T22:44:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@manic.toxicity/video/7303979821212896558</id>
+    <title>i saw people doing this to show off their eye color, so here ya go #fyp #foryou #browneyes </title>
+    <updated>2023-11-21T18:12:24+00:00</updated>
+    <content>i saw people doing this to show off their eye color, so here ya go #fyp #foryou #browneyes </content>
+    <link href="https://tiktok.com/@manic.toxicity/video/7303979821212896558" rel="alternate"/>
+    <published>2023-11-21T18:12:24+00:00</published>
   </entry>
 </feed>
