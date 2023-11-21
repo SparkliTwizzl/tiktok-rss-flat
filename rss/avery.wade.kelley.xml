@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-11-15T19:16:28+00:00</updated>
+  <updated>2023-11-21T19:14:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7295445512415694123</id>
-    <title>White-Eyes by Mary Oliver #fyp </title>
-    <updated>2023-10-29T18:14:43+00:00</updated>
-    <content>White-Eyes by Mary Oliver #fyp </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7295445512415694123" rel="alternate"/>
-    <published>2023-10-29T18:14:43+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7296977196374117675</id>
-    <title>This song was originally written for the d3ath of two children in the I R A b0mbing in 1993 by The Cranberries. Now, it speaks for thousands.  I will never condone the mass extinction of a human race, regardless of their religion, faith, or affiliation. I</title>
-    <updated>2023-11-02T21:18:28+00:00</updated>
-    <content>This song was originally written for the d3ath of two children in the I R A b0mbing in 1993 by The Cranberries. Now, it speaks for thousands.  I will never condone the mass extinction of a human race, regardless of their religion, faith, or affiliation. I don't care if they wouldn't approve of me being trans. I don't care if their country isn't the best. NO ONE PERSON in this world deserves to have their entire country b0mbed, and their entire families lost. This has to be stopped. #fyp #freepalestine🇵🇸❤️ </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7296977196374117675" rel="alternate"/>
-    <published>2023-11-02T21:18:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7297321215847517486</id>
     <title>#duet with @Adriana Nightmare Hahahaha. #fyp </title>
@@ -91,5 +75,21 @@
     <content>#stitch with @Avery Wade Growing Pains include some things you think look good for you and then you look back and think "what in the actual fuck was I thinking." 😅 #fyp #trans </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7301769791206067502" rel="alternate"/>
     <published>2023-11-15T19:16:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7303968490388524330</id>
+    <title>Some of these are big jumps in time, but it's been such a wild process to notice my body change every day. The further I get, the more I love it. Celebrate Trans Joy. #fyp #trans </title>
+    <updated>2023-11-21T17:28:24+00:00</updated>
+    <content>Some of these are big jumps in time, but it's been such a wild process to notice my body change every day. The further I get, the more I love it. Celebrate Trans Joy. #fyp #trans </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7303968490388524330" rel="alternate"/>
+    <published>2023-11-21T17:28:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7303995809790528811</id>
+    <title>Ahaha. #fyp #trans </title>
+    <updated>2023-11-21T19:14:15+00:00</updated>
+    <content>Ahaha. #fyp #trans </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7303995809790528811" rel="alternate"/>
+    <published>2023-11-21T19:14:15+00:00</published>
   </entry>
 </feed>
