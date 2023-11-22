@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-11-20T06:20:23+00:00</updated>
+  <updated>2023-11-22T02:34:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7301248056253500718</id>
-    <title>I just realized that you guys haven’t seen my new bedroom</title>
-    <updated>2023-11-14T09:31:39+00:00</updated>
-    <content>I just realized that you guys haven’t seen my new bedroom</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7301248056253500718" rel="alternate"/>
-    <published>2023-11-14T09:31:39+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7301851843766832426</id>
-    <title>Pov: you leave hate comments about women</title>
-    <updated>2023-11-16T00:34:33+00:00</updated>
-    <content>Pov: you leave hate comments about women</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7301851843766832426" rel="alternate"/>
-    <published>2023-11-16T00:34:33+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7301925247123541291</id>
     <title>Let’s bring this back</title>
@@ -91,5 +75,21 @@
     <content>Where are my silly geese </content>
     <link href="https://tiktok.com/@kaylabutternut/video/7303425214556228910" rel="alternate"/>
     <published>2023-11-20T06:20:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7304080882619403563</id>
+    <title>Watch the laundry move in the back</title>
+    <updated>2023-11-22T00:44:26+00:00</updated>
+    <content>Watch the laundry move in the back</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7304080882619403563" rel="alternate"/>
+    <published>2023-11-22T00:44:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7304109209619139882</id>
+    <title>Feeling like myself again</title>
+    <updated>2023-11-22T02:34:31+00:00</updated>
+    <content>Feeling like myself again</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7304109209619139882" rel="alternate"/>
+    <published>2023-11-22T02:34:31+00:00</published>
   </entry>
 </feed>
