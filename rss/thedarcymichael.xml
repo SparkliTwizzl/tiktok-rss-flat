@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-11-20T16:51:56+00:00</updated>
+  <updated>2023-11-21T18:04:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7296219631159692549</id>
-    <title>Happy adhd awareness month. As much S we joke about it on tbis oage, it reallt amazes me watching darcy take on something he knows nothing about and then all of a sudden hes an expert at it. #adhd #hyperfixation #celebratesuccess #adhdawarenessmonth #neur</title>
-    <updated>2023-10-31T20:18:37+00:00</updated>
-    <content>Happy adhd awareness month. As much S we joke about it on tbis oage, it reallt amazes me watching darcy take on something he knows nothing about and then all of a sudden hes an expert at it. #adhd #hyperfixation #celebratesuccess #adhdawarenessmonth #neurodivergent </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7296219631159692549" rel="alternate"/>
-    <published>2023-10-31T20:18:37+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7296486291053579526</id>
-    <title>His face at the end! #popquiz #manchild #comedy #adhd #marriedlife #couple #husbands #darcyandjer </title>
-    <updated>2023-11-01T13:33:22+00:00</updated>
-    <content>His face at the end! #popquiz #manchild #comedy #adhd #marriedlife #couple #husbands #darcyandjer </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7296486291053579526" rel="alternate"/>
-    <published>2023-11-01T13:33:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7298081843545509126</id>
     <title>Unfortunately his eyes got lost in the move #adhd #moving #couple #funny #marriedlife #eyesunavailable </title>
@@ -91,5 +75,21 @@
     <content>Ding dong - jers little dance took me out here #standup #comedy #couples #relationships #darcyandjer #husbands </content>
     <link href="https://tiktok.com/@thedarcymichael/video/7303588078881393925" rel="alternate"/>
     <published>2023-11-20T16:51:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7303975134115728645</id>
+    <title>#stitch with @annie </title>
+    <updated>2023-11-21T17:53:54+00:00</updated>
+    <content>#stitch with @annie </content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7303975134115728645" rel="alternate"/>
+    <published>2023-11-21T17:53:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7303977895322520838</id>
+    <title>I dont like ganging up with hot takes too often but im also like hey, if you want some good comedy theres other places to get it and were one of them. #mattrife #standup #comedy </title>
+    <updated>2023-11-21T18:04:38+00:00</updated>
+    <content>I dont like ganging up with hot takes too often but im also like hey, if you want some good comedy theres other places to get it and were one of them. #mattrife #standup #comedy </content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7303977895322520838" rel="alternate"/>
+    <published>2023-11-21T18:04:38+00:00</published>
   </entry>
 </feed>
