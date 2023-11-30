@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avocadosnaliens</id>
   <title>@avocadosnaliens | TikTok</title>
-  <updated>2023-11-19T22:19:37+00:00</updated>
+  <updated>2023-11-30T01:15:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avocadosnaliens</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avocadosnaliens/video/7298545943295593771</id>
-    <title>[no title]</title>
-    <updated>2023-11-07T02:45:57+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@avocadosnaliens/video/7298545943295593771" rel="alternate"/>
-    <published>2023-11-07T02:45:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@avocadosnaliens/video/7300060005443587374</id>
-    <title>[no title]</title>
-    <updated>2023-11-11T04:41:25+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@avocadosnaliens/video/7300060005443587374" rel="alternate"/>
-    <published>2023-11-11T04:41:25+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@avocadosnaliens/video/7300293635491302699</id>
-    <title>[no title]</title>
-    <updated>2023-11-11T19:48:03+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@avocadosnaliens/video/7300293635491302699" rel="alternate"/>
-    <published>2023-11-11T19:48:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avocadosnaliens/video/7300333074557062442</id>
     <title>[no title]</title>
@@ -91,5 +67,29 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@avocadosnaliens/video/7303301390938639662" rel="alternate"/>
     <published>2023-11-19T22:19:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7304127356333985066</id>
+    <title>[no title]</title>
+    <updated>2023-11-22T03:44:48+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7304127356333985066" rel="alternate"/>
+    <published>2023-11-22T03:44:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7305487775464262955</id>
+    <title>Amphitheater of the Redwoods-Pema Osel Lina Retreat  #weddinginspo #californiawedding #californiaweddingphotographer #brideinspo </title>
+    <updated>2023-11-25T19:43:56+00:00</updated>
+    <content>Amphitheater of the Redwoods-Pema Osel Lina Retreat  #weddinginspo #californiawedding #californiaweddingphotographer #brideinspo </content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7305487775464262955" rel="alternate"/>
+    <published>2023-11-25T19:43:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7307057474970946858</id>
+    <title>#🍉🍉🍉 </title>
+    <updated>2023-11-30T01:15:13+00:00</updated>
+    <content>#🍉🍉🍉 </content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7307057474970946858" rel="alternate"/>
+    <published>2023-11-30T01:15:13+00:00</published>
   </entry>
 </feed>
