@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@adriananightmare</id>
   <title>@adriananightmare | TikTok</title>
-  <updated>2023-11-21T21:56:05+00:00</updated>
+  <updated>2023-11-28T21:45:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,70 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @adriananightmare</subtitle>
-  <entry>
-    <id>https://tiktok.com/@adriananightmare/video/7301390573825461547</id>
-    <title>tell people you love them.</title>
-    <updated>2023-11-14T18:44:53+00:00</updated>
-    <content>tell people you love them.</content>
-    <link href="https://tiktok.com/@adriananightmare/video/7301390573825461547" rel="alternate"/>
-    <published>2023-11-14T18:44:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@adriananightmare/video/7301398992800320814</id>
-    <title>this is so dumb hahaha</title>
-    <updated>2023-11-14T19:17:30+00:00</updated>
-    <content>this is so dumb hahaha</content>
-    <link href="https://tiktok.com/@adriananightmare/video/7301398992800320814" rel="alternate"/>
-    <published>2023-11-14T19:17:30+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@adriananightmare/video/7302493928282950958</id>
-    <title>#uncannyvalley Idk which is better.</title>
-    <updated>2023-11-17T18:06:23+00:00</updated>
-    <content>#uncannyvalley Idk which is better.</content>
-    <link href="https://tiktok.com/@adriananightmare/video/7302493928282950958" rel="alternate"/>
-    <published>2023-11-17T18:06:23+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@adriananightmare/video/7302500478292725035</id>
-    <title>don't. </title>
-    <updated>2023-11-17T18:31:47+00:00</updated>
-    <content>don't. </content>
-    <link href="https://tiktok.com/@adriananightmare/video/7302500478292725035" rel="alternate"/>
-    <published>2023-11-17T18:31:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@adriananightmare/video/7303318850907524398</id>
-    <title>[no title]</title>
-    <updated>2023-11-19T23:27:20+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@adriananightmare/video/7303318850907524398" rel="alternate"/>
-    <published>2023-11-19T23:27:20+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@adriananightmare/video/7303979168386010410</id>
-    <title>[no title]</title>
-    <updated>2023-11-21T18:09:48+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@adriananightmare/video/7303979168386010410" rel="alternate"/>
-    <published>2023-11-21T18:09:48+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@adriananightmare/video/7303990273569328427</id>
-    <title>[no title]</title>
-    <updated>2023-11-21T18:53:06+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@adriananightmare/video/7303990273569328427" rel="alternate"/>
-    <published>2023-11-21T18:53:06+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@adriananightmare/video/7303996937961803051</id>
-    <title>[no title]</title>
-    <updated>2023-11-21T19:18:48+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@adriananightmare/video/7303996937961803051" rel="alternate"/>
-    <published>2023-11-21T19:18:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@adriananightmare/video/7304010034197859627</id>
     <title>THE MOST LATINA I HAVE EVER LOOKED THANK YOU?</title>
@@ -91,5 +27,69 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@adriananightmare/video/7304037484697177390" rel="alternate"/>
     <published>2023-11-21T21:56:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@adriananightmare/video/7305458547989450027</id>
+    <title>idk i call bull</title>
+    <updated>2023-11-25T17:50:30+00:00</updated>
+    <content>idk i call bull</content>
+    <link href="https://tiktok.com/@adriananightmare/video/7305458547989450027" rel="alternate"/>
+    <published>2023-11-25T17:50:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@adriananightmare/video/7306126916119956778</id>
+    <title>rizz? nah</title>
+    <updated>2023-11-27T13:04:24+00:00</updated>
+    <content>rizz? nah</content>
+    <link href="https://tiktok.com/@adriananightmare/video/7306126916119956778" rel="alternate"/>
+    <published>2023-11-27T13:04:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@adriananightmare/video/7306607168998903083</id>
+    <title>#freecongo </title>
+    <updated>2023-11-28T20:07:44+00:00</updated>
+    <content>#freecongo </content>
+    <link href="https://tiktok.com/@adriananightmare/video/7306607168998903083" rel="alternate"/>
+    <published>2023-11-28T20:07:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@adriananightmare/video/7306609894839405870</id>
+    <title>#freepalestine </title>
+    <updated>2023-11-28T20:18:20+00:00</updated>
+    <content>#freepalestine </content>
+    <link href="https://tiktok.com/@adriananightmare/video/7306609894839405870" rel="alternate"/>
+    <published>2023-11-28T20:18:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@adriananightmare/video/7306615862612757806</id>
+    <title>[no title]</title>
+    <updated>2023-11-28T20:41:35+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@adriananightmare/video/7306615862612757806" rel="alternate"/>
+    <published>2023-11-28T20:41:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@adriananightmare/video/7306617548915821870</id>
+    <title>[no title]</title>
+    <updated>2023-11-28T20:48:09+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@adriananightmare/video/7306617548915821870" rel="alternate"/>
+    <published>2023-11-28T20:48:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@adriananightmare/video/7306620064814435627</id>
+    <title>i can't remember the good without the bad. #healingjourney </title>
+    <updated>2023-11-28T20:57:53+00:00</updated>
+    <content>i can't remember the good without the bad. #healingjourney </content>
+    <link href="https://tiktok.com/@adriananightmare/video/7306620064814435627" rel="alternate"/>
+    <published>2023-11-28T20:57:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@adriananightmare/video/7306632300404657454</id>
+    <title>[no title]</title>
+    <updated>2023-11-28T21:45:23+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@adriananightmare/video/7306632300404657454" rel="alternate"/>
+    <published>2023-11-28T21:45:23+00:00</published>
   </entry>
 </feed>
