@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-11-21T18:04:38+00:00</updated>
+  <updated>2023-11-29T23:41:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7298081843545509126</id>
-    <title>Unfortunately his eyes got lost in the move #adhd #moving #couple #funny #marriedlife #eyesunavailable </title>
-    <updated>2023-11-05T20:44:57+00:00</updated>
-    <content>Unfortunately his eyes got lost in the move #adhd #moving #couple #funny #marriedlife #eyesunavailable </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7298081843545509126" rel="alternate"/>
-    <published>2023-11-05T20:44:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7298776666006883590</id>
-    <title>Things are going well? #manchild #marriedlife #husbands #funny #comedy #couples </title>
-    <updated>2023-11-07T17:41:11+00:00</updated>
-    <content>Things are going well? #manchild #marriedlife #husbands #funny #comedy #couples </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7298776666006883590" rel="alternate"/>
-    <published>2023-11-07T17:41:11+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7299098793553792262</id>
-    <title>Get your own personalized greeting card from Martin Short and so many others - with lots of customizations available, @AmericanGreetings.com SmashUps are a great way to give some birthday love. #ad #AmericanGreetings #ShareSmashUps</title>
-    <updated>2023-11-08T14:31:13+00:00</updated>
-    <content>Get your own personalized greeting card from Martin Short and so many others - with lots of customizations available, @AmericanGreetings.com SmashUps are a great way to give some birthday love. #ad #AmericanGreetings #ShareSmashUps</content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7299098793553792262" rel="alternate"/>
-    <published>2023-11-08T14:31:13+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7300661668722560261</id>
     <title>Darcy dropping lots of theories here #manchild #newhouse #gardener #couple #comedy #funny #busydonkey </title>
@@ -77,19 +53,43 @@
     <published>2023-11-20T16:51:56+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7303975134115728645</id>
-    <title>#stitch with @annie </title>
-    <updated>2023-11-21T17:53:54+00:00</updated>
-    <content>#stitch with @annie </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7303975134115728645" rel="alternate"/>
-    <published>2023-11-21T17:53:54+00:00</published>
+    <id>https://tiktok.com/@thedarcymichael/video/7304653792186862854</id>
+    <title>No hands were hurt in the making of this tiktok #standup #darcyandjer #comedy #couples #marriedlife </title>
+    <updated>2023-11-23T13:47:27+00:00</updated>
+    <content>No hands were hurt in the making of this tiktok #standup #darcyandjer #comedy #couples #marriedlife </content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7304653792186862854" rel="alternate"/>
+    <published>2023-11-23T13:47:27+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7303977895322520838</id>
-    <title>I dont like ganging up with hot takes too often but im also like hey, if you want some good comedy theres other places to get it and were one of them. #mattrife #standup #comedy </title>
-    <updated>2023-11-21T18:04:38+00:00</updated>
-    <content>I dont like ganging up with hot takes too often but im also like hey, if you want some good comedy theres other places to get it and were one of them. #mattrife #standup #comedy </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7303977895322520838" rel="alternate"/>
-    <published>2023-11-21T18:04:38+00:00</published>
+    <id>https://tiktok.com/@thedarcymichael/video/7305106472881409286</id>
+    <title>Yall this tour cotinues to blow us away, sold out shows across the east coast - we’re having the time of our lives. Thanks for coming to hang out woth us fredericton!</title>
+    <updated>2023-11-24T19:04:06+00:00</updated>
+    <content>Yall this tour cotinues to blow us away, sold out shows across the east coast - we’re having the time of our lives. Thanks for coming to hang out woth us fredericton!</content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7305106472881409286" rel="alternate"/>
+    <published>2023-11-24T19:04:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7306144891925449990</id>
+    <title>The owners of this rental we’re so nosy! #rentalreview #couples #marriedlife #funny #darcyandjer </title>
+    <updated>2023-11-27T14:13:40+00:00</updated>
+    <content>The owners of this rental we’re so nosy! #rentalreview #couples #marriedlife #funny #darcyandjer </content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7306144891925449990" rel="alternate"/>
+    <published>2023-11-27T14:13:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7306738956882791686</id>
+    <title>Ohhhhhhhh</title>
+    <updated>2023-11-29T04:38:58+00:00</updated>
+    <content>Ohhhhhhhh</content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7306738956882791686" rel="alternate"/>
+    <published>2023-11-29T04:38:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7307033332800392454</id>
+    <title>It’s a rhetorical question, we all know it’s normal behaviour #plants #plantdaddy #gardenvibes </title>
+    <updated>2023-11-29T23:41:21+00:00</updated>
+    <content>It’s a rhetorical question, we all know it’s normal behaviour #plants #plantdaddy #gardenvibes </content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7307033332800392454" rel="alternate"/>
+    <published>2023-11-29T23:41:21+00:00</published>
   </entry>
 </feed>
