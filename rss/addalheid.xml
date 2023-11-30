@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@addalheid</id>
   <title>@addalheid | TikTok</title>
-  <updated>2023-11-27T20:02:34+00:00</updated>
+  <updated>2023-11-30T19:06:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @addalheid</subtitle>
-  <entry>
-    <id>https://tiktok.com/@addalheid/video/7299176255419665697</id>
-    <title>[no title]</title>
-    <updated>2023-11-08T19:31:52+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@addalheid/video/7299176255419665697" rel="alternate"/>
-    <published>2023-11-08T19:31:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@addalheid/video/7299207497733180704</id>
     <title>NO, bye </title>
@@ -91,5 +83,13 @@
     <content>This effect is 🔥#CapCut #fy </content>
     <link href="https://tiktok.com/@addalheid/video/7306234790137564449" rel="alternate"/>
     <published>2023-11-27T20:02:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@addalheid/video/7307333700230876448</id>
+    <title>Hi there </title>
+    <updated>2023-11-30T19:06:54+00:00</updated>
+    <content>Hi there </content>
+    <link href="https://tiktok.com/@addalheid/video/7307333700230876448" rel="alternate"/>
+    <published>2023-11-30T19:06:54+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@charlesthegr8</id>
   <title>@charlesthegr8 | TikTok</title>
-  <updated>2023-11-30T17:20:26+00:00</updated>
+  <updated>2023-11-30T21:51:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @charlesthegr8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@charlesthegr8/video/7296206534063689002</id>
-    <title>The best type of fighting 😏 #iykyk #relatable #charlesthegr8 </title>
-    <updated>2023-10-31T19:27:56+00:00</updated>
-    <content>The best type of fighting 😏 #iykyk #relatable #charlesthegr8 </content>
-    <link href="https://tiktok.com/@charlesthegr8/video/7296206534063689002" rel="alternate"/>
-    <published>2023-10-31T19:27:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@charlesthegr8/video/7298384232945175851</id>
     <title>And just like that the interest is gone!!! #iykyk #charlesthegr8 #boundaries </title>
@@ -91,5 +83,13 @@
     <content>Yeh ok buddy 🤡 #iykyk #relatable #charlesthegr8 </content>
     <link href="https://tiktok.com/@charlesthegr8/video/7307306158249889070" rel="alternate"/>
     <published>2023-11-30T17:20:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@charlesthegr8/video/7307376119848946990</id>
+    <title>Is that a promise🤞🏾 #iykyk #relatable #charlesthegr8 </title>
+    <updated>2023-11-30T21:51:38+00:00</updated>
+    <content>Is that a promise🤞🏾 #iykyk #relatable #charlesthegr8 </content>
+    <link href="https://tiktok.com/@charlesthegr8/video/7307376119848946990" rel="alternate"/>
+    <published>2023-11-30T21:51:38+00:00</published>
   </entry>
 </feed>
