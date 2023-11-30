@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@villainsupport</id>
   <title>@villainsupport | TikTok</title>
-  <updated>2023-11-29T22:27:26+00:00</updated>
+  <updated>2023-11-30T20:20:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @villainsupport</subtitle>
-  <entry>
-    <id>https://tiktok.com/@villainsupport/video/7305212035644607774</id>
-    <title>#onthisday #vecna #dndtiktok #acmetok #acmevillainsupport </title>
-    <updated>2023-11-25T01:53:50+00:00</updated>
-    <content>#onthisday #vecna #dndtiktok #acmetok #acmevillainsupport </content>
-    <link href="https://tiktok.com/@villainsupport/video/7305212035644607774" rel="alternate"/>
-    <published>2023-11-25T01:53:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@villainsupport/video/7305431848115588383</id>
-    <title>#stitch with @Twan LET’S MAKE VILLAIN SUPPORT SOAP HAPPEN!</title>
-    <updated>2023-11-25T16:06:56+00:00</updated>
-    <content>#stitch with @Twan LET’S MAKE VILLAIN SUPPORT SOAP HAPPEN!</content>
-    <link href="https://tiktok.com/@villainsupport/video/7305431848115588383" rel="alternate"/>
-    <published>2023-11-25T16:06:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@villainsupport/video/7305507954076175647</id>
     <title>Get one if you want one, don’t if you don’t.  This is to make them more accessible, not to pressure anyone into a purchase.</title>
@@ -91,5 +75,21 @@
     <content>#duet with @Twan #soap ONE MORE DAY TO ENSURE WE GET VILLAIN SUPPORT SOAP! #warpedsoap #acmetok #acmevillainsupport </content>
     <link href="https://tiktok.com/@villainsupport/video/7307014238697016606" rel="alternate"/>
     <published>2023-11-29T22:27:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@villainsupport/video/7307312941504662814</id>
+    <title>#onthisday #ghostrider #lobo #predator #motorcycle #acmetok #acmevillainsupport </title>
+    <updated>2023-11-30T17:46:33+00:00</updated>
+    <content>#onthisday #ghostrider #lobo #predator #motorcycle #acmetok #acmevillainsupport </content>
+    <link href="https://tiktok.com/@villainsupport/video/7307312941504662814" rel="alternate"/>
+    <published>2023-11-30T17:46:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@villainsupport/video/7307352515509603614</id>
+    <title>MORE. MIMICS. #mimic #nappa #dbz #acmetok #acmevillainsupport </title>
+    <updated>2023-11-30T20:20:12+00:00</updated>
+    <content>MORE. MIMICS. #mimic #nappa #dbz #acmetok #acmevillainsupport </content>
+    <link href="https://tiktok.com/@villainsupport/video/7307352515509603614" rel="alternate"/>
+    <published>2023-11-30T20:20:12+00:00</published>
   </entry>
 </feed>
