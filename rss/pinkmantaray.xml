@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pinkmantaray</id>
   <title>@pinkmantaray | TikTok</title>
-  <updated>2023-11-19T21:04:20+00:00</updated>
+  <updated>2023-11-28T21:04:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @pinkmantaray</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pinkmantaray/video/7293983804258225454</id>
-    <title>Mythbusting detransition rhetoric! For citations, visit pinkmantaray.com/facts and for a full breakdown of this topic, read my book: HSTBook.com! FACTS: ▪️Detransition is significantly uncommon. ▪️Most people detransition because of transphobia, not becau</title>
-    <updated>2023-10-25T19:42:39+00:00</updated>
-    <content>Mythbusting detransition rhetoric! For citations, visit pinkmantaray.com/facts and for a full breakdown of this topic, read my book: HSTBook.com! FACTS: ▪️Detransition is significantly uncommon. ▪️Most people detransition because of transphobia, not because they are not actually trans. ▪️Detransition is not usually experienced as harmful when parents and society are supportive of exploration. ▪️When medical mistakes happen, we should not ban medical care, we should work to improve it. ▪️Gender-affirming care has been approved by every major medical association as appropriate and even often lifesaving. Don't let anti-trans rhetoric trick you! #transgender #trans #heshethey #genderaffirmingcare #transkids</content>
-    <link href="https://tiktok.com/@pinkmantaray/video/7293983804258225454" rel="alternate"/>
-    <published>2023-10-25T19:42:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pinkmantaray/video/7294024563237702955</id>
     <title>We made @USA TODAY's BEST-SELLING BOOKLIST!!! Get your copy at hstbook.com 💕🏳️‍⚧️ #transgender #trans #heshethey #booktok #bestseller #author </title>
@@ -91,5 +83,13 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@pinkmantaray/video/7303281997630246174" rel="alternate"/>
     <published>2023-11-19T21:04:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pinkmantaray/video/7306621684042206494</id>
+    <title>Tune in for a critical episode of #DearSchuyler with attorney @ChaseStrangio. Chase has been a longtime comrade of mine - his work is saving lives, fighting the anti-trans legislation that has plagued our country. Take a listen to learn more about why the</title>
+    <updated>2023-11-28T21:04:06+00:00</updated>
+    <content>Tune in for a critical episode of #DearSchuyler with attorney @ChaseStrangio. Chase has been a longtime comrade of mine - his work is saving lives, fighting the anti-trans legislation that has plagued our country. Take a listen to learn more about why there are so many anti-trans bills. Why so many? Why now?? Chase, thank you so much for what you do. We are all indebted to you 💕🏳️‍⚧️ #transgender #podcast #antitranslegislation </content>
+    <link href="https://tiktok.com/@pinkmantaray/video/7306621684042206494" rel="alternate"/>
+    <published>2023-11-28T21:04:06+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@lactoseintolerantcharlie</id>
   <title>@lactoseintolerantcharlie | TikTok</title>
-  <updated>2023-09-10T05:25:23+00:00</updated>
+  <updated>2023-11-25T05:03:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lactoseintolerantcharlie</subtitle>
-  <entry>
-    <id>https://tiktok.com/@lactoseintolerantcharlie/video/7182939017850342702</id>
-    <title>Remember this trend? 😎</title>
-    <updated>2022-12-30T13:52:43+00:00</updated>
-    <content>Remember this trend? 😎</content>
-    <link href="https://tiktok.com/@lactoseintolerantcharlie/video/7182939017850342702" rel="alternate"/>
-    <published>2022-12-30T13:52:43+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@lactoseintolerantcharlie/video/7183747860821953838</id>
     <title>… And a Happy New Year! 😘</title>
@@ -43,14 +35,6 @@
     <content>Ok but… how much wood DOES a woodchuck chuck? 🤔</content>
     <link href="https://tiktok.com/@lactoseintolerantcharlie/video/7202381729531743531" rel="alternate"/>
     <published>2023-02-20T23:19:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@lactoseintolerantcharlie/video/7213789500802338094</id>
-    <title>Guess who got a haircut!🤗✨</title>
-    <updated>2023-03-23T17:07:46+00:00</updated>
-    <content>Guess who got a haircut!🤗✨</content>
-    <link href="https://tiktok.com/@lactoseintolerantcharlie/video/7213789500802338094" rel="alternate"/>
-    <published>2023-03-23T17:07:46+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@lactoseintolerantcharlie/video/7217895009759087914</id>
@@ -91,5 +75,21 @@
     <content>🎶THROUGH MY HEART🎶</content>
     <link href="https://tiktok.com/@lactoseintolerantcharlie/video/7277064063442488619" rel="alternate"/>
     <published>2023-09-10T05:25:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@lactoseintolerantcharlie/video/7305259838865509663</id>
+    <title>Making my semi-aunal appearance on this account hehe😋 </title>
+    <updated>2023-11-25T04:59:26+00:00</updated>
+    <content>Making my semi-aunal appearance on this account hehe😋 </content>
+    <link href="https://tiktok.com/@lactoseintolerantcharlie/video/7305259838865509663" rel="alternate"/>
+    <published>2023-11-25T04:59:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@lactoseintolerantcharlie/video/7305261020161772831</id>
+    <title>Loving the hair tho🤩</title>
+    <updated>2023-11-25T05:03:57+00:00</updated>
+    <content>Loving the hair tho🤩</content>
+    <link href="https://tiktok.com/@lactoseintolerantcharlie/video/7305261020161772831" rel="alternate"/>
+    <published>2023-11-25T05:03:57+00:00</published>
   </entry>
 </feed>
