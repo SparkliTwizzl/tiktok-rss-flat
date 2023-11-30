@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@addalheid</id>
   <title>@addalheid | TikTok</title>
-  <updated>2023-11-21T16:51:39+00:00</updated>
+  <updated>2023-11-27T20:02:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @addalheid</subtitle>
-  <entry>
-    <id>https://tiktok.com/@addalheid/video/7275801720242883873</id>
-    <title>♾️</title>
-    <updated>2023-09-06T19:46:43+00:00</updated>
-    <content>♾️</content>
-    <link href="https://tiktok.com/@addalheid/video/7275801720242883873" rel="alternate"/>
-    <published>2023-09-06T19:46:43+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@addalheid/video/7299176255419665697</id>
     <title>[no title]</title>
@@ -85,11 +77,19 @@
     <published>2023-11-21T11:33:59+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@addalheid/video/7303959075753119009</id>
-    <title>You looking ? 🙃</title>
-    <updated>2023-11-21T16:51:39+00:00</updated>
-    <content>You looking ? 🙃</content>
-    <link href="https://tiktok.com/@addalheid/video/7303959075753119009" rel="alternate"/>
-    <published>2023-11-21T16:51:39+00:00</published>
+    <id>https://tiktok.com/@addalheid/video/7304353430259141921</id>
+    <title>Who are you ? </title>
+    <updated>2023-11-22T18:22:05+00:00</updated>
+    <content>Who are you ? </content>
+    <link href="https://tiktok.com/@addalheid/video/7304353430259141921" rel="alternate"/>
+    <published>2023-11-22T18:22:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@addalheid/video/7306234790137564449</id>
+    <title>This effect is 🔥#CapCut #fy </title>
+    <updated>2023-11-27T20:02:34+00:00</updated>
+    <content>This effect is 🔥#CapCut #fy </content>
+    <link href="https://tiktok.com/@addalheid/video/7306234790137564449" rel="alternate"/>
+    <published>2023-11-27T20:02:34+00:00</published>
   </entry>
 </feed>
