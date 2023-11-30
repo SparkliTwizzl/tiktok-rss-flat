@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-11-17T02:29:44+00:00</updated>
+  <updated>2023-11-28T19:36:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,38 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7300709134083640618</id>
-    <title>[no title]</title>
-    <updated>2023-11-12T22:40:24+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7300709134083640618" rel="alternate"/>
-    <published>2023-11-12T22:40:24+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7300737483736632618</id>
-    <title>#solardidsystem #ssdelta </title>
-    <updated>2023-11-13T00:30:16+00:00</updated>
-    <content>#solardidsystem #ssdelta </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7300737483736632618" rel="alternate"/>
-    <published>2023-11-13T00:30:16+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7300975499814112555</id>
-    <title>Sleepy kitty has a dream 🥰 #solardidsystem #ladybug #cat #cats #catsoftiktok </title>
-    <updated>2023-11-13T15:54:06+00:00</updated>
-    <content>Sleepy kitty has a dream 🥰 #solardidsystem #ladybug #cat #cats #catsoftiktok </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7300975499814112555" rel="alternate"/>
-    <published>2023-11-13T15:54:06+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7300989840454061355</id>
-    <title>@Tally Mark System best sound 😄 #solardidsystem #sswillow </title>
-    <updated>2023-11-13T16:49:48+00:00</updated>
-    <content>@Tally Mark System best sound 😄 #solardidsystem #sswillow </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7300989840454061355" rel="alternate"/>
-    <published>2023-11-13T16:49:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7301011871593827630</id>
     <title>Replying to @monicawhere #reply #solardidsystem #sswillow </title>
@@ -91,5 +59,37 @@
     <content>#mood #solardidsystem #sszyra </content>
     <link href="https://tiktok.com/@stuffwithbits/video/7302252605579824426" rel="alternate"/>
     <published>2023-11-17T02:29:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7304827933611412766</id>
+    <title>[no title]</title>
+    <updated>2023-11-24T01:03:21+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7304827933611412766" rel="alternate"/>
+    <published>2023-11-24T01:03:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7305771725277367582</id>
+    <title>Because we were on leave, we won't get a paycheck from work for two more weeks :/ #solardidsystem #ssvegas </title>
+    <updated>2023-11-26T14:05:56+00:00</updated>
+    <content>Because we were on leave, we won't get a paycheck from work for two more weeks :/ #solardidsystem #ssvegas </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7305771725277367582" rel="alternate"/>
+    <published>2023-11-26T14:05:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7305940642096598303</id>
+    <title>[no title]</title>
+    <updated>2023-11-27T01:01:18+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7305940642096598303" rel="alternate"/>
+    <published>2023-11-27T01:01:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7306599174739348767</id>
+    <title>Follow the FTC guidelines and we're good #solardidsystem #ssncw </title>
+    <updated>2023-11-28T19:36:53+00:00</updated>
+    <content>Follow the FTC guidelines and we're good #solardidsystem #ssncw </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7306599174739348767" rel="alternate"/>
+    <published>2023-11-28T19:36:53+00:00</published>
   </entry>
 </feed>

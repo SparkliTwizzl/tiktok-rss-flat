@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-11-29T00:44:30+00:00</updated>
+  <updated>2023-11-30T21:59:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7302156519041289503</id>
-    <title>Unforgivable </title>
-    <updated>2023-11-16T20:17:04+00:00</updated>
-    <content>Unforgivable </content>
-    <link href="https://tiktok.com/@punktoad/video/7302156519041289503" rel="alternate"/>
-    <published>2023-11-16T20:17:04+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7302510925024693535</id>
-    <title>Every year 🤙</title>
-    <updated>2023-11-17T19:12:24+00:00</updated>
-    <content>Every year 🤙</content>
-    <link href="https://tiktok.com/@punktoad/video/7302510925024693535" rel="alternate"/>
-    <published>2023-11-17T19:12:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7302857933035998494</id>
     <title>The audio </title>
@@ -91,5 +75,21 @@
     <content>Replying to @rissbass91 you gotta try it </content>
     <link href="https://tiktok.com/@punktoad/video/7306678503984942366" rel="alternate"/>
     <published>2023-11-29T00:44:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7307376212282723614</id>
+    <title>Australian snacks slap </title>
+    <updated>2023-11-30T21:52:02+00:00</updated>
+    <content>Australian snacks slap </content>
+    <link href="https://tiktok.com/@punktoad/video/7307376212282723614" rel="alternate"/>
+    <published>2023-11-30T21:52:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7307378088814398750</id>
+    <title>They really do </title>
+    <updated>2023-11-30T21:59:23+00:00</updated>
+    <content>They really do </content>
+    <link href="https://tiktok.com/@punktoad/video/7307378088814398750" rel="alternate"/>
+    <published>2023-11-30T21:59:23+00:00</published>
   </entry>
 </feed>
