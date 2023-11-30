@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@manic.toxicity</id>
   <title>@manic.toxicity | TikTok</title>
-  <updated>2023-11-21T18:12:24+00:00</updated>
+  <updated>2023-11-30T22:23:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,38 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @manic.toxicity</subtitle>
-  <entry>
-    <id>https://tiktok.com/@manic.toxicity/video/7290291181425003822</id>
-    <title>baby i gotcha money #fyp #foryou </title>
-    <updated>2023-10-15T20:53:20+00:00</updated>
-    <content>baby i gotcha money #fyp #foryou </content>
-    <link href="https://tiktok.com/@manic.toxicity/video/7290291181425003822" rel="alternate"/>
-    <published>2023-10-15T20:53:20+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@manic.toxicity/video/7291340067245739307</id>
-    <title>heres dessert… ##fyp##foryou</title>
-    <updated>2023-10-18T16:43:32+00:00</updated>
-    <content>heres dessert… ##fyp##foryou</content>
-    <link href="https://tiktok.com/@manic.toxicity/video/7291340067245739307" rel="alternate"/>
-    <published>2023-10-18T16:43:32+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@manic.toxicity/video/7291759385511021866</id>
-    <title>knowing that you likely have more mental illnesses than youre diagnosed with sucks. but you also dont want to be evaluated and diagnosed because, well, then it all becomes real. </title>
-    <updated>2023-10-19T19:50:49+00:00</updated>
-    <content>knowing that you likely have more mental illnesses than youre diagnosed with sucks. but you also dont want to be evaluated and diagnosed because, well, then it all becomes real. </content>
-    <link href="https://tiktok.com/@manic.toxicity/video/7291759385511021866" rel="alternate"/>
-    <published>2023-10-19T19:50:49+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@manic.toxicity/video/7292168928443256110</id>
-    <title>i could tell a sick joke #fyp #foryou </title>
-    <updated>2023-10-20T22:19:59+00:00</updated>
-    <content>i could tell a sick joke #fyp #foryou </content>
-    <link href="https://tiktok.com/@manic.toxicity/video/7292168928443256110" rel="alternate"/>
-    <published>2023-10-20T22:19:59+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@manic.toxicity/video/7293645186440154411</id>
     <title>that transition was not as clean as i wnated it to be, but i didnt wanna get outta bed #fyp #foryou </title>
@@ -91,5 +59,37 @@
     <content>i saw people doing this to show off their eye color, so here ya go #fyp #foryou #browneyes </content>
     <link href="https://tiktok.com/@manic.toxicity/video/7303979821212896558" rel="alternate"/>
     <published>2023-11-21T18:12:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@manic.toxicity/video/7304786127620214062</id>
+    <title>you think im pretty? 🥹🫶🏼 #foryou #fyp</title>
+    <updated>2023-11-23T22:21:04+00:00</updated>
+    <content>you think im pretty? 🥹🫶🏼 #foryou #fyp</content>
+    <link href="https://tiktok.com/@manic.toxicity/video/7304786127620214062" rel="alternate"/>
+    <published>2023-11-23T22:21:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@manic.toxicity/video/7305112306315234602</id>
+    <title>when you was fuckin round w her #fyp #foryou</title>
+    <updated>2023-11-24T19:26:54+00:00</updated>
+    <content>when you was fuckin round w her #fyp #foryou</content>
+    <link href="https://tiktok.com/@manic.toxicity/video/7305112306315234602" rel="alternate"/>
+    <published>2023-11-24T19:26:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@manic.toxicity/video/7306597476486696235</id>
+    <title>like you 🫶🏼 #fyp #foryou</title>
+    <updated>2023-11-28T19:30:14+00:00</updated>
+    <content>like you 🫶🏼 #fyp #foryou</content>
+    <link href="https://tiktok.com/@manic.toxicity/video/7306597476486696235" rel="alternate"/>
+    <published>2023-11-28T19:30:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@manic.toxicity/video/7307384280148086062</id>
+    <title>was u 🫶🏼 #fyp #foryou</title>
+    <updated>2023-11-30T22:23:17+00:00</updated>
+    <content>was u 🫶🏼 #fyp #foryou</content>
+    <link href="https://tiktok.com/@manic.toxicity/video/7307384280148086062" rel="alternate"/>
+    <published>2023-11-30T22:23:17+00:00</published>
   </entry>
 </feed>
