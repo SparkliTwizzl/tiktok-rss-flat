@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@sam_breaking_sad</id>
   <title>@sam_breaking_sad | TikTok</title>
-  <updated>2023-11-15T01:12:40+00:00</updated>
+  <updated>2023-11-26T00:41:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @sam_breaking_sad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@sam_breaking_sad/video/7194492786312252678</id>
-    <title>🍷</title>
-    <updated>2023-01-30T17:06:30+00:00</updated>
-    <content>🍷</content>
-    <link href="https://tiktok.com/@sam_breaking_sad/video/7194492786312252678" rel="alternate"/>
-    <published>2023-01-30T17:06:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@sam_breaking_sad/video/7215294034279959813</id>
     <title>Watch till the end #fyp </title>
@@ -91,5 +83,13 @@
     <content>🐈‍⬛</content>
     <link href="https://tiktok.com/@sam_breaking_sad/video/7301490603416784133" rel="alternate"/>
     <published>2023-11-15T01:12:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@sam_breaking_sad/video/7305564572759428357</id>
+    <title>Sweet</title>
+    <updated>2023-11-26T00:41:45+00:00</updated>
+    <content>Sweet</content>
+    <link href="https://tiktok.com/@sam_breaking_sad/video/7305564572759428357" rel="alternate"/>
+    <published>2023-11-26T00:41:45+00:00</published>
   </entry>
 </feed>

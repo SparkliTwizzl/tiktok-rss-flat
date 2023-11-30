@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@steffzombie</id>
   <title>@steffzombie | TikTok</title>
-  <updated>2023-11-17T06:28:28+00:00</updated>
+  <updated>2023-11-25T19:47:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @steffzombie</subtitle>
+  <entry>
+    <id>https://tiktok.com/@steffzombie/video/7288013742753811755</id>
+    <title>Replying to @Steph dont worry he wont bite…….. unless i tell him to #fy #spooky </title>
+    <updated>2023-10-09T17:35:41+00:00</updated>
+    <content>Replying to @Steph dont worry he wont bite…….. unless i tell him to #fy #spooky </content>
+    <link href="https://tiktok.com/@steffzombie/video/7288013742753811755" rel="alternate"/>
+    <published>2023-10-09T17:35:41+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@steffzombie/video/7288052140679941418</id>
     <title>Replying to @Puffilicius  do you like em tall and spooky ? 😉 🎪 @HALLOWEEN MAZE </title>
@@ -45,28 +53,12 @@
     <published>2023-10-13T01:10:19+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@steffzombie/video/7300812487539166507</id>
-    <title>🫶🏾 🙏🏾 </title>
-    <updated>2023-11-13T05:21:38+00:00</updated>
-    <content>🫶🏾 🙏🏾 </content>
-    <link href="https://tiktok.com/@steffzombie/video/7300812487539166507" rel="alternate"/>
-    <published>2023-11-13T05:21:38+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@steffzombie/video/7301809449470299438</id>
     <title>Blessed Be 🖤☠️ #lgbt #spiritual </title>
     <updated>2023-11-15T21:50:16+00:00</updated>
     <content>Blessed Be 🖤☠️ #lgbt #spiritual </content>
     <link href="https://tiktok.com/@steffzombie/video/7301809449470299438" rel="alternate"/>
     <published>2023-11-15T21:50:16+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@steffzombie/video/7301816409334566187</id>
-    <title>Replying to @Itsjustcrazytalk  cause this dance makes me feel seggsy 😮‍💨 </title>
-    <updated>2023-11-15T22:17:12+00:00</updated>
-    <content>Replying to @Itsjustcrazytalk  cause this dance makes me feel seggsy 😮‍💨 </content>
-    <link href="https://tiktok.com/@steffzombie/video/7301816409334566187" rel="alternate"/>
-    <published>2023-11-15T22:17:12+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@steffzombie/video/7301873209207541035</id>
@@ -77,19 +69,27 @@
     <published>2023-11-16T01:57:29+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@steffzombie/video/7301885972772343082</id>
-    <title>⚫️ 👄 ⚫️ #uncannyvalley #witch #goth #lgbt </title>
-    <updated>2023-11-16T02:46:59+00:00</updated>
-    <content>⚫️ 👄 ⚫️ #uncannyvalley #witch #goth #lgbt </content>
-    <link href="https://tiktok.com/@steffzombie/video/7301885972772343082" rel="alternate"/>
-    <published>2023-11-16T02:46:59+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@steffzombie/video/7302314102079409454</id>
     <title>Cause they never do me dirty 😞 #fy </title>
     <updated>2023-11-17T06:28:28+00:00</updated>
     <content>Cause they never do me dirty 😞 #fy </content>
     <link href="https://tiktok.com/@steffzombie/video/7302314102079409454" rel="alternate"/>
     <published>2023-11-17T06:28:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@steffzombie/video/7304435167366516014</id>
+    <title>Get gon then babe. #fy </title>
+    <updated>2023-11-22T23:39:15+00:00</updated>
+    <content>Get gon then babe. #fy </content>
+    <link href="https://tiktok.com/@steffzombie/video/7304435167366516014" rel="alternate"/>
+    <published>2023-11-22T23:39:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@steffzombie/video/7305488752762195243</id>
+    <title>Forever growing mentally spiritually physically and creatively. #bday </title>
+    <updated>2023-11-25T19:47:41+00:00</updated>
+    <content>Forever growing mentally spiritually physically and creatively. #bday </content>
+    <link href="https://tiktok.com/@steffzombie/video/7305488752762195243" rel="alternate"/>
+    <published>2023-11-25T19:47:41+00:00</published>
   </entry>
 </feed>
