@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-11-30T18:54:43+00:00</updated>
+  <updated>2023-11-30T23:41:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7306622029564824875</id>
-    <title>The heels are the most important part of the outfit, even if you only see them for 1/2 a second </title>
-    <updated>2023-11-28T21:05:26+00:00</updated>
-    <content>The heels are the most important part of the outfit, even if you only see them for 1/2 a second </content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7306622029564824875" rel="alternate"/>
-    <published>2023-11-28T21:05:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7306709348489661738</id>
     <title>Listen to me</title>
@@ -91,5 +83,13 @@
     <content>Wait for it obviously </content>
     <link href="https://tiktok.com/@kaylabutternut/video/7307330516393430314" rel="alternate"/>
     <published>2023-11-30T18:54:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7307404377793269038</id>
+    <title>My favorite tt from yesterday </title>
+    <updated>2023-11-30T23:41:18+00:00</updated>
+    <content>My favorite tt from yesterday </content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7307404377793269038" rel="alternate"/>
+    <published>2023-11-30T23:41:18+00:00</published>
   </entry>
 </feed>
