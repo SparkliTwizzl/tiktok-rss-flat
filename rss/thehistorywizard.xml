@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thehistorywizard</id>
   <title>@thehistorywizard | TikTok</title>
-  <updated>2023-11-29T14:15:51+00:00</updated>
+  <updated>2023-11-30T15:30:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thehistorywizard</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thehistorywizard/video/7304672223191764267</id>
-    <title>Replying to @rainbopagn Restorative justice or bust. #thehistorywizard #historytiktok #edutok #learnontiktok </title>
-    <updated>2023-11-23T14:59:17+00:00</updated>
-    <content>Replying to @rainbopagn Restorative justice or bust. #thehistorywizard #historytiktok #edutok #learnontiktok </content>
-    <link href="https://tiktok.com/@thehistorywizard/video/7304672223191764267" rel="alternate"/>
-    <published>2023-11-23T14:59:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thehistorywizard/video/7304744690232986922</id>
     <title>Character growth? In this economy? #thehistorywizard #historytiktok #edutok #learnontiktok </title>
@@ -91,5 +83,13 @@
     <content>Replying to @franklinsheraldust one more thing to be aware of.  #thehistorywizard #historytiktok #edutok #learnontiktok </content>
     <link href="https://tiktok.com/@thehistorywizard/video/7306887458359217451" rel="alternate"/>
     <published>2023-11-29T14:15:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thehistorywizard/video/7307277751059369258</id>
+    <title>Rest in Piss #thehistorywizard #historytiktok #edutok #learnontiktok </title>
+    <updated>2023-11-30T15:30:11+00:00</updated>
+    <content>Rest in Piss #thehistorywizard #historytiktok #edutok #learnontiktok </content>
+    <link href="https://tiktok.com/@thehistorywizard/video/7307277751059369258" rel="alternate"/>
+    <published>2023-11-30T15:30:11+00:00</published>
   </entry>
 </feed>
