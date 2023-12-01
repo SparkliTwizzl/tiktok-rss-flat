@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jacobtheseahorse</id>
   <title>@jacobtheseahorse | TikTok</title>
-  <updated>2023-11-30T22:56:50+00:00</updated>
+  <updated>2023-11-27T12:56:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jacobtheseahorse</subtitle>
+  <entry>
+    <id>https://tiktok.com/@jacobtheseahorse/video/7293530856226868513</id>
+    <title>Replying to @ali_wooxx of course women and mothers are women and mothers. nobody is taking away your words or your identity. if you have been wronged and had something taken from you, let me know and I'll ready the troops! we fight for autonomy and consen</title>
+    <updated>2023-10-24T14:24:49+00:00</updated>
+    <content>Replying to @ali_wooxx of course women and mothers are women and mothers. nobody is taking away your words or your identity. if you have been wronged and had something taken from you, let me know and I'll ready the troops! we fight for autonomy and consent in these parts. #consent #language #trans #gender #pregnancy #birth </content>
+    <link href="https://tiktok.com/@jacobtheseahorse/video/7293530856226868513" rel="alternate"/>
+    <published>2023-10-24T14:24:49+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@jacobtheseahorse/video/7293970600954006816</id>
     <title>thank you for your thoughtful comments, I appreciate your kindness. I absolutely agree where the fear is coming from, but I strongly feel it's not only misdirected, but that the fear itself is being created through disinformation by people who want to uph</title>
@@ -83,13 +91,5 @@
     <content>use code SLAY10 for 10% off! who is your favourite person on tiktok who is a trans ally? give them a tag! thanks folks, it's makes a difference #trans #lgbt #inclusion #transgender #christmas #queerchristmas #dragqueen #drag #slay #xmas #merch </content>
     <link href="https://tiktok.com/@jacobtheseahorse/video/7306124978632658209" rel="alternate"/>
     <published>2023-11-27T12:56:31+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jacobtheseahorse/video/7307392930728168737</id>
-    <title>I can't stop thinking about how painful it must have been to have your 3yo asking over and over when their sibling is coming home 😔 I'm processing some big stuff in this one, sorry it's a long one but it gives some back story 💜🏳️‍⚧️ I don't have a positiv</title>
-    <updated>2023-11-30T22:56:50+00:00</updated>
-    <content>I can't stop thinking about how painful it must have been to have your 3yo asking over and over when their sibling is coming home 😔 I'm processing some big stuff in this one, sorry it's a long one but it gives some back story 💜🏳️‍⚧️ I don't have a positive relationship with my mum and we've been NC for a while, but I can hold space for just how much trauma she has been through, while also holding safe boundaries for myself.  #storytime #childhood #adopted #kidnapped #taken #narcissist #lgbtq #trans </content>
-    <link href="https://tiktok.com/@jacobtheseahorse/video/7307392930728168737" rel="alternate"/>
-    <published>2023-11-30T22:56:50+00:00</published>
   </entry>
 </feed>
