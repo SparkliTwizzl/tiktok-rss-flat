@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avocadosnaliens</id>
   <title>@avocadosnaliens | TikTok</title>
-  <updated>2023-11-30T23:03:37+00:00</updated>
+  <updated>2023-12-01T20:24:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avocadosnaliens</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avocadosnaliens/video/7301527501325782318</id>
-    <title>[no title]</title>
-    <updated>2023-11-15T03:35:56+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@avocadosnaliens/video/7301527501325782318" rel="alternate"/>
-    <published>2023-11-15T03:35:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avocadosnaliens/video/7302223015989742891</id>
     <title>[no title]</title>
@@ -91,5 +83,13 @@
     <content>I tried to duet this 15 times but tt wasnt having it. Duet with @nemahsis 🫶</content>
     <link href="https://tiktok.com/@avocadosnaliens/video/7307394670475087147" rel="alternate"/>
     <published>2023-11-30T23:03:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7307724837919788330</id>
+    <title>#stitch with @sean iser its all jokes you guys CHILL. You just need to CHILL. Youre acting craaaazy just calm DOWN</title>
+    <updated>2023-12-01T20:24:53+00:00</updated>
+    <content>#stitch with @sean iser its all jokes you guys CHILL. You just need to CHILL. Youre acting craaaazy just calm DOWN</content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7307724837919788330" rel="alternate"/>
+    <published>2023-12-01T20:24:53+00:00</published>
   </entry>
 </feed>

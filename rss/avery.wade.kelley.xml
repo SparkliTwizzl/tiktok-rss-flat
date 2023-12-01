@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-11-29T22:31:29+00:00</updated>
+  <updated>2023-12-01T19:33:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7301769791206067502</id>
-    <title>#stitch with @Avery Wade Growing Pains include some things you think look good for you and then you look back and think "what in the actual fuck was I thinking." 😅 #fyp #trans </title>
-    <updated>2023-11-15T19:16:28+00:00</updated>
-    <content>#stitch with @Avery Wade Growing Pains include some things you think look good for you and then you look back and think "what in the actual fuck was I thinking." 😅 #fyp #trans </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7301769791206067502" rel="alternate"/>
-    <published>2023-11-15T19:16:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7303968490388524330</id>
     <title>Some of these are big jumps in time, but it's been such a wild process to notice my body change every day. The further I get, the more I love it. Celebrate Trans Joy. #fyp #trans </title>
@@ -91,5 +83,13 @@
     <content>Brain Shit. #fyp </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7307015297947438378" rel="alternate"/>
     <published>2023-11-29T22:31:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7307711625899953450</id>
+    <title>It still hurts, but different. One day, I'll tell you my story of "Yo Soy Tu Amigo Fiel." #fyp </title>
+    <updated>2023-12-01T19:33:41+00:00</updated>
+    <content>It still hurts, but different. One day, I'll tell you my story of "Yo Soy Tu Amigo Fiel." #fyp </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7307711625899953450" rel="alternate"/>
+    <published>2023-12-01T19:33:41+00:00</published>
   </entry>
 </feed>
