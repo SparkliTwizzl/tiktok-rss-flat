@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ailaughatmyownjokes</id>
   <title>@ailaughatmyownjokes | TikTok</title>
-  <updated>2023-11-27T17:28:08+00:00</updated>
+  <updated>2023-12-01T15:37:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ailaughatmyownjokes</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ailaughatmyownjokes/video/7295407259742473505</id>
-    <title>I'm no longer allowed to give treats to kids  #halloween #trickortreat #comedy #sketch </title>
-    <updated>2023-10-29T15:46:14+00:00</updated>
-    <content>I'm no longer allowed to give treats to kids  #halloween #trickortreat #comedy #sketch </content>
-    <link href="https://tiktok.com/@ailaughatmyownjokes/video/7295407259742473505" rel="alternate"/>
-    <published>2023-10-29T15:46:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ailaughatmyownjokes/video/7296539814659165472</id>
     <title>Just cancel Voldy. Problem solved smh. #harrypotter #sketch #comedy </title>
@@ -91,5 +83,13 @@
     <content>Hehe deez-- #sketch #comedy </content>
     <link href="https://tiktok.com/@ailaughatmyownjokes/video/7306194987526524192" rel="alternate"/>
     <published>2023-11-27T17:28:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ailaughatmyownjokes/video/7307650800837283105</id>
+    <title>Snow can land on top of me #hungergames #sketch #comedy </title>
+    <updated>2023-12-01T15:37:26+00:00</updated>
+    <content>Snow can land on top of me #hungergames #sketch #comedy </content>
+    <link href="https://tiktok.com/@ailaughatmyownjokes/video/7307650800837283105" rel="alternate"/>
+    <published>2023-12-01T15:37:26+00:00</published>
   </entry>
 </feed>
