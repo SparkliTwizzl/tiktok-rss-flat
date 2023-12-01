@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-11-30T23:41:18+00:00</updated>
+  <updated>2023-12-01T04:09:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7306709348489661738</id>
-    <title>Listen to me</title>
-    <updated>2023-11-29T02:44:19+00:00</updated>
-    <content>Listen to me</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7306709348489661738" rel="alternate"/>
-    <published>2023-11-29T02:44:19+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7306778082097089835</id>
-    <title>[no title]</title>
-    <updated>2023-11-29T07:11:30+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7306778082097089835" rel="alternate"/>
-    <published>2023-11-29T07:11:30+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7307043917319425323</id>
-    <title>Thinking about the best way to make a grilled cheese</title>
-    <updated>2023-11-30T00:22:31+00:00</updated>
-    <content>Thinking about the best way to make a grilled cheese</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7307043917319425323" rel="alternate"/>
-    <published>2023-11-30T00:22:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7307082436989619502</id>
     <title>Top comment wins</title>
@@ -91,5 +67,29 @@
     <content>My favorite tt from yesterday </content>
     <link href="https://tiktok.com/@kaylabutternut/video/7307404377793269038" rel="alternate"/>
     <published>2023-11-30T23:41:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7307462365572844842</id>
+    <title>Replying to @urus you try it on </title>
+    <updated>2023-12-01T03:26:15+00:00</updated>
+    <content>Replying to @urus you try it on </content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7307462365572844842" rel="alternate"/>
+    <published>2023-12-01T03:26:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7307467023750040878</id>
+    <title>Uhhhhhh</title>
+    <updated>2023-12-01T03:44:19+00:00</updated>
+    <content>Uhhhhhh</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7307467023750040878" rel="alternate"/>
+    <published>2023-12-01T03:44:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7307473635869084971</id>
+    <title>Glasses or no glasses</title>
+    <updated>2023-12-01T04:09:59+00:00</updated>
+    <content>Glasses or no glasses</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7307473635869084971" rel="alternate"/>
+    <published>2023-12-01T04:09:59+00:00</published>
   </entry>
 </feed>
