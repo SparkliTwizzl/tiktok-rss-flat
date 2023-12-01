@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@lactoseintolerantcharlie</id>
   <title>@lactoseintolerantcharlie | TikTok</title>
-  <updated>2023-11-25T05:03:57+00:00</updated>
+  <updated>2023-12-01T09:44:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lactoseintolerantcharlie</subtitle>
-  <entry>
-    <id>https://tiktok.com/@lactoseintolerantcharlie/video/7183747860821953838</id>
-    <title>… And a Happy New Year! 😘</title>
-    <updated>2023-01-01T18:10:53+00:00</updated>
-    <content>… And a Happy New Year! 😘</content>
-    <link href="https://tiktok.com/@lactoseintolerantcharlie/video/7183747860821953838" rel="alternate"/>
-    <published>2023-01-01T18:10:53+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@lactoseintolerantcharlie/video/7200410406228135210</id>
     <title>My valentine 🥰  #bitiktok </title>
@@ -91,5 +83,13 @@
     <content>Loving the hair tho🤩</content>
     <link href="https://tiktok.com/@lactoseintolerantcharlie/video/7305261020161772831" rel="alternate"/>
     <published>2023-11-25T05:03:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@lactoseintolerantcharlie/video/7307559777075219743</id>
+    <title>YAY ITS CHRISTMAS TIME! </title>
+    <updated>2023-12-01T09:44:23+00:00</updated>
+    <content>YAY ITS CHRISTMAS TIME! </content>
+    <link href="https://tiktok.com/@lactoseintolerantcharlie/video/7307559777075219743" rel="alternate"/>
+    <published>2023-12-01T09:44:23+00:00</published>
   </entry>
 </feed>

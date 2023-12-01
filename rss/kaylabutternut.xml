@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-12-01T04:09:59+00:00</updated>
+  <updated>2023-12-01T12:13:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7307082436989619502</id>
-    <title>Top comment wins</title>
-    <updated>2023-11-30T02:52:05+00:00</updated>
-    <content>Top comment wins</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7307082436989619502" rel="alternate"/>
-    <published>2023-11-30T02:52:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7307089753025989934</id>
     <title>Replying to @Tie </title>
@@ -91,5 +83,13 @@
     <content>Glasses or no glasses</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7307473635869084971" rel="alternate"/>
     <published>2023-12-01T04:09:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7307598330811616558</id>
+    <title>Volume up ears open eyes on me</title>
+    <updated>2023-12-01T12:13:56+00:00</updated>
+    <content>Volume up ears open eyes on me</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7307598330811616558" rel="alternate"/>
+    <published>2023-12-01T12:13:56+00:00</published>
   </entry>
 </feed>
