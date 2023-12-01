@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thehistorywizard</id>
   <title>@thehistorywizard | TikTok</title>
-  <updated>2023-12-01T15:52:09+00:00</updated>
+  <updated>2023-12-01T21:38:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thehistorywizard</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thehistorywizard/video/7305031665481551150</id>
-    <title>Never again is right now. #thehistorywizard #historytiktok #edutok #learnontiktok #israel #palestine </title>
-    <updated>2023-11-24T14:14:17+00:00</updated>
-    <content>Never again is right now. #thehistorywizard #historytiktok #edutok #learnontiktok #israel #palestine </content>
-    <link href="https://tiktok.com/@thehistorywizard/video/7305031665481551150" rel="alternate"/>
-    <published>2023-11-24T14:14:17+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@thehistorywizard/video/7305407392802491691</id>
-    <title>Replying to @imnotsuperman__ Get it? #thehistorywizard #historytiktok #edutok #learnontiktok </title>
-    <updated>2023-11-25T14:32:10+00:00</updated>
-    <content>Replying to @imnotsuperman__ Get it? #thehistorywizard #historytiktok #edutok #learnontiktok </content>
-    <link href="https://tiktok.com/@thehistorywizard/video/7305407392802491691" rel="alternate"/>
-    <published>2023-11-25T14:32:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thehistorywizard/video/7305543269302209835</id>
     <title>Replying to @eastofedin Bye bye now. #thehistorywizard #historytiktok #edutok #learnontiktok </title>
@@ -91,5 +75,21 @@
     <content>Have some fun today. Be a little goofy. Take care of yourselves. #thehistorywizard #circus #juggling #poi #flow #historytiktok #selfcare </content>
     <link href="https://tiktok.com/@thehistorywizard/video/7307654585085087019" rel="alternate"/>
     <published>2023-12-01T15:52:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thehistorywizard/video/7307717479487245611</id>
+    <title>Hate is not logical. #thehistorywizard #historytiktok #edutok #learnontiktok </title>
+    <updated>2023-12-01T19:56:17+00:00</updated>
+    <content>Hate is not logical. #thehistorywizard #historytiktok #edutok #learnontiktok </content>
+    <link href="https://tiktok.com/@thehistorywizard/video/7307717479487245611" rel="alternate"/>
+    <published>2023-12-01T19:56:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thehistorywizard/video/7307743812837969198</id>
+    <title>Gender! #thehistorywizard #historytiktok #edutok #learnontiktok #gender #transgender </title>
+    <updated>2023-12-01T21:38:35+00:00</updated>
+    <content>Gender! #thehistorywizard #historytiktok #edutok #learnontiktok #gender #transgender </content>
+    <link href="https://tiktok.com/@thehistorywizard/video/7307743812837969198" rel="alternate"/>
+    <published>2023-12-01T21:38:35+00:00</published>
   </entry>
 </feed>
