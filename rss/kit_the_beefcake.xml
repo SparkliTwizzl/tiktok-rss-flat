@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kit_the_beefcake</id>
   <title>@kit_the_beefcake | TikTok</title>
-  <updated>2023-12-01T08:36:07+00:00</updated>
+  <updated>2023-12-02T15:26:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -61,22 +61,6 @@
     <published>2023-11-28T11:10:41+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7306500287852825899</id>
-    <title>#greenscreen </title>
-    <updated>2023-11-28T13:13:24+00:00</updated>
-    <content>#greenscreen </content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7306500287852825899" rel="alternate"/>
-    <published>2023-11-28T13:13:24+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7306824120946199851</id>
-    <title>[no title]</title>
-    <updated>2023-11-29T10:10:15+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7306824120946199851" rel="alternate"/>
-    <published>2023-11-29T10:10:15+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7307118810094488874</id>
     <title>[no title]</title>
     <updated>2023-11-30T05:13:21+00:00</updated>
@@ -91,5 +75,21 @@
     <content>Its true they loved dragons and swords ive just combined the two</content>
     <link href="https://tiktok.com/@kit_the_beefcake/video/7307542192929901870" rel="alternate"/>
     <published>2023-12-01T08:36:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7307929833923824942</id>
+    <title>[no title]</title>
+    <updated>2023-12-02T09:41:00+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7307929833923824942" rel="alternate"/>
+    <published>2023-12-02T09:41:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7308019023831207210</id>
+    <title>#onthisday still one of my most viral tik toks :) </title>
+    <updated>2023-12-02T15:26:31+00:00</updated>
+    <content>#onthisday still one of my most viral tik toks :) </content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7308019023831207210" rel="alternate"/>
+    <published>2023-12-02T15:26:31+00:00</published>
   </entry>
 </feed>
