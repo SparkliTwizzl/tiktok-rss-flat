@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-12-02T07:49:08+00:00</updated>
+  <updated>2023-12-02T18:59:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7307462365572844842</id>
-    <title>Replying to @urus you try it on </title>
-    <updated>2023-12-01T03:26:15+00:00</updated>
-    <content>Replying to @urus you try it on </content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7307462365572844842" rel="alternate"/>
-    <published>2023-12-01T03:26:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7307467023750040878</id>
     <title>Uhhhhhh</title>
@@ -91,5 +83,13 @@
     <content>I had such a good night </content>
     <link href="https://tiktok.com/@kaylabutternut/video/7307901085262384427" rel="alternate"/>
     <published>2023-12-02T07:49:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7308073927232834858</id>
+    <title>Still trying to figure out what the stick is called </title>
+    <updated>2023-12-02T18:59:32+00:00</updated>
+    <content>Still trying to figure out what the stick is called </content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7308073927232834858" rel="alternate"/>
+    <published>2023-12-02T18:59:32+00:00</published>
   </entry>
 </feed>
