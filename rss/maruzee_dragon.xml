@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maruzee_dragon</id>
   <title>@maruzee_dragon | TikTok</title>
-  <updated>2023-12-01T03:03:17+00:00</updated>
+  <updated>2023-12-02T03:41:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maruzee_dragon</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maruzee_dragon/video/7298908558517636358</id>
-    <title>Final round with Mileena, I promise!🫡💜 #mk #mileena #kitana #videogames  #cosplay </title>
-    <updated>2023-11-08T02:13:01+00:00</updated>
-    <content>Final round with Mileena, I promise!🫡💜 #mk #mileena #kitana #videogames  #cosplay </content>
-    <link href="https://tiktok.com/@maruzee_dragon/video/7298908558517636358" rel="alternate"/>
-    <published>2023-11-08T02:13:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maruzee_dragon/video/7299869904235187462</id>
     <title>Kick training in Gotham's shadows - prepping to be the next guardian in my Batman PJs. 😅🌃🦇 #martialarts #kick #taekwondo #mma #karate #training #fitness #flexible #split </title>
@@ -91,5 +83,13 @@
     <content>Late night kicks training😴</content>
     <link href="https://tiktok.com/@maruzee_dragon/video/7307456468972817669" rel="alternate"/>
     <published>2023-12-01T03:03:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maruzee_dragon/video/7307837356986486021</id>
+    <title>You asked for a Spider-Man version, well, here it is! 😁🕷🕸 #spiderman #transition #marvel </title>
+    <updated>2023-12-02T03:41:20+00:00</updated>
+    <content>You asked for a Spider-Man version, well, here it is! 😁🕷🕸 #spiderman #transition #marvel </content>
+    <link href="https://tiktok.com/@maruzee_dragon/video/7307837356986486021" rel="alternate"/>
+    <published>2023-12-02T03:41:20+00:00</published>
   </entry>
 </feed>
