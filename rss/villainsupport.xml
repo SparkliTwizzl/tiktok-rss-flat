@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@villainsupport</id>
   <title>@villainsupport | TikTok</title>
-  <updated>2023-12-01T17:03:42+00:00</updated>
+  <updated>2023-12-02T14:22:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @villainsupport</subtitle>
-  <entry>
-    <id>https://tiktok.com/@villainsupport/video/7305826879217388830</id>
-    <title>HELP US MAKE VILLAIN SUPPORT SOAP A REALITY! #soap #krampus #christmas #acmetok #acmevillainsupport </title>
-    <updated>2023-11-26T17:39:50+00:00</updated>
-    <content>HELP US MAKE VILLAIN SUPPORT SOAP A REALITY! #soap #krampus #christmas #acmetok #acmevillainsupport </content>
-    <link href="https://tiktok.com/@villainsupport/video/7305826879217388830" rel="alternate"/>
-    <published>2023-11-26T17:39:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@villainsupport/video/7305931784573799710</id>
-    <title>#onthisday we’re still working on how to bring a Critter on the Sh***er product to you. The plushie fell through.</title>
-    <updated>2023-11-27T00:26:52+00:00</updated>
-    <content>#onthisday we’re still working on how to bring a Critter on the Sh***er product to you. The plushie fell through.</content>
-    <link href="https://tiktok.com/@villainsupport/video/7305931784573799710" rel="alternate"/>
-    <published>2023-11-27T00:26:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@villainsupport/video/7306258188817550623</id>
     <title>Broke Vampire Part 16 #vampire #acmetok #acmevillainsupport </title>
@@ -91,5 +75,21 @@
     <content>Nappa’s Late for Work #nappa #dbz #mimic #acmetok #acmevillainsupport </content>
     <link href="https://tiktok.com/@villainsupport/video/7307673013686701342" rel="alternate"/>
     <published>2023-12-01T17:03:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@villainsupport/video/7307730956570479902</id>
+    <title>#onthisday #predator #addamsfamily #wednesday #acmetok #acmevillainsupport </title>
+    <updated>2023-12-01T20:48:43+00:00</updated>
+    <content>#onthisday #predator #addamsfamily #wednesday #acmetok #acmevillainsupport </content>
+    <link href="https://tiktok.com/@villainsupport/video/7307730956570479902" rel="alternate"/>
+    <published>2023-12-01T20:48:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@villainsupport/video/7308002596055272734</id>
+    <title>#onthisday #dresdenfiles #harrypotter #wizard </title>
+    <updated>2023-12-02T14:22:54+00:00</updated>
+    <content>#onthisday #dresdenfiles #harrypotter #wizard </content>
+    <link href="https://tiktok.com/@villainsupport/video/7308002596055272734" rel="alternate"/>
+    <published>2023-12-02T14:22:54+00:00</published>
   </entry>
 </feed>
