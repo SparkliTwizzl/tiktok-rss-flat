@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@nopanicbutton</id>
   <title>@nopanicbutton | TikTok</title>
-  <updated>2023-11-29T21:45:31+00:00</updated>
+  <updated>2023-12-01T23:53:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @nopanicbutton</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nopanicbutton/video/7299211839567695147</id>
-    <title>So he *does* have a hard limit!</title>
-    <updated>2023-11-08T21:50:13+00:00</updated>
-    <content>So he *does* have a hard limit!</content>
-    <link href="https://tiktok.com/@nopanicbutton/video/7299211839567695147" rel="alternate"/>
-    <published>2023-11-08T21:50:13+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nopanicbutton/video/7299965891729509675</id>
     <title>Maybe I'm just a bit worried...</title>
@@ -91,5 +83,13 @@
     <content>Must give better instructions.... #myfault  #noonetoblamebutmyself #damnit </content>
     <link href="https://tiktok.com/@nopanicbutton/video/7307003425848364330" rel="alternate"/>
     <published>2023-11-29T21:45:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nopanicbutton/video/7307778658956135726</id>
+    <title>I'm so bloated! #lactoseintolerant #revenge #gonnaburnhisnosehair </title>
+    <updated>2023-12-01T23:53:42+00:00</updated>
+    <content>I'm so bloated! #lactoseintolerant #revenge #gonnaburnhisnosehair </content>
+    <link href="https://tiktok.com/@nopanicbutton/video/7307778658956135726" rel="alternate"/>
+    <published>2023-12-01T23:53:42+00:00</published>
   </entry>
 </feed>
