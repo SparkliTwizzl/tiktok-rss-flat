@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-11-30T21:59:23+00:00</updated>
+  <updated>2023-12-01T17:14:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7302857933035998494</id>
-    <title>The audio </title>
-    <updated>2023-11-18T17:38:47+00:00</updated>
-    <content>The audio </content>
-    <link href="https://tiktok.com/@punktoad/video/7302857933035998494" rel="alternate"/>
-    <published>2023-11-18T17:38:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7303531390946069791</id>
     <title>And im just getting started </title>
@@ -91,5 +83,13 @@
     <content>They really do </content>
     <link href="https://tiktok.com/@punktoad/video/7307378088814398750" rel="alternate"/>
     <published>2023-11-30T21:59:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7307675916719639838</id>
+    <title>This is for kissing my mom </title>
+    <updated>2023-12-01T17:14:58+00:00</updated>
+    <content>This is for kissing my mom </content>
+    <link href="https://tiktok.com/@punktoad/video/7307675916719639838" rel="alternate"/>
+    <published>2023-12-01T17:14:58+00:00</published>
   </entry>
 </feed>
