@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@liil.dork.alex</id>
   <title>@liil.dork.alex | TikTok</title>
-  <updated>2023-12-01T02:18:40+00:00</updated>
+  <updated>2023-12-01T23:11:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @liil.dork.alex</subtitle>
-  <entry>
-    <id>https://tiktok.com/@liil.dork.alex/video/7304652112166702378</id>
-    <title>When she 🖕🏼instead of ✌🏼 </title>
-    <updated>2023-11-23T13:41:26+00:00</updated>
-    <content>When she 🖕🏼instead of ✌🏼 </content>
-    <link href="https://tiktok.com/@liil.dork.alex/video/7304652112166702378" rel="alternate"/>
-    <published>2023-11-23T13:41:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@liil.dork.alex/video/7304782237856353582</id>
     <title>My moms backseat passenger never loses a staring contest 🫡</title>
@@ -91,5 +83,13 @@
     <content>Like just stay out of the kitchen please and thank you 😂</content>
     <link href="https://tiktok.com/@liil.dork.alex/video/7307444915582078250" rel="alternate"/>
     <published>2023-12-01T02:18:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@liil.dork.alex/video/7307767746966621482</id>
+    <title>🌅 </title>
+    <updated>2023-12-01T23:11:21+00:00</updated>
+    <content>🌅 </content>
+    <link href="https://tiktok.com/@liil.dork.alex/video/7307767746966621482" rel="alternate"/>
+    <published>2023-12-01T23:11:21+00:00</published>
   </entry>
 </feed>
