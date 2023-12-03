@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avocadosnaliens</id>
   <title>@avocadosnaliens | TikTok</title>
-  <updated>2023-12-01T20:24:53+00:00</updated>
+  <updated>2023-12-03T06:25:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avocadosnaliens</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avocadosnaliens/video/7302223015989742891</id>
-    <title>[no title]</title>
-    <updated>2023-11-17T00:34:59+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@avocadosnaliens/video/7302223015989742891" rel="alternate"/>
-    <published>2023-11-17T00:34:59+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@avocadosnaliens/video/7302499596704451882</id>
-    <title>[no title]</title>
-    <updated>2023-11-17T18:28:27+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@avocadosnaliens/video/7302499596704451882" rel="alternate"/>
-    <published>2023-11-17T18:28:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avocadosnaliens/video/7302560264384220458</id>
     <title>I could seriosuly make a million videos showing yall my closet so if you wanna see more just lmk!🤍🫶#greenscreenvideo #momtok #whattowear #momfashion </title>
@@ -91,5 +75,21 @@
     <content>#stitch with @sean iser its all jokes you guys CHILL. You just need to CHILL. Youre acting craaaazy just calm DOWN</content>
     <link href="https://tiktok.com/@avocadosnaliens/video/7307724837919788330" rel="alternate"/>
     <published>2023-12-01T20:24:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7308154820953951534</id>
+    <title>Share/like/repost/comment for more recipes and makeup tutorials🫶🍉 #🍉🍉🍉🍉🍉 #free🇵🇸 </title>
+    <updated>2023-12-03T00:13:30+00:00</updated>
+    <content>Share/like/repost/comment for more recipes and makeup tutorials🫶🍉 #🍉🍉🍉🍉🍉 #free🇵🇸 </content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7308154820953951534" rel="alternate"/>
+    <published>2023-12-03T00:13:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7308250657054641450</id>
+    <title>#stitch with @Sincerely Awa </title>
+    <updated>2023-12-03T06:25:23+00:00</updated>
+    <content>#stitch with @Sincerely Awa </content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7308250657054641450" rel="alternate"/>
+    <published>2023-12-03T06:25:23+00:00</published>
   </entry>
 </feed>
