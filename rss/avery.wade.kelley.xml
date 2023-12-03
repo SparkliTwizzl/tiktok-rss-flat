@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-12-02T23:56:08+00:00</updated>
+  <updated>2023-12-03T16:52:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7305106507329277230</id>
-    <title>Just really wanted to use this sound, but also, true story. #fyp #trans </title>
-    <updated>2023-11-24T19:04:25+00:00</updated>
-    <content>Just really wanted to use this sound, but also, true story. #fyp #trans </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7305106507329277230" rel="alternate"/>
-    <published>2023-11-24T19:04:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7305855572019055918</id>
     <title>Just my thoughts. #fyp </title>
@@ -91,5 +83,13 @@
     <content>She's still there after taking T, and I've accepted that I have both energies, and they both get to come out equally. #fyp #trans </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7308150359044803882" rel="alternate"/>
     <published>2023-12-02T23:56:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7308412367866547499</id>
+    <title>Replying to @trans_valkyrie Welp... Get in the water. #fyp #trans </title>
+    <updated>2023-12-03T16:52:50+00:00</updated>
+    <content>Replying to @trans_valkyrie Welp... Get in the water. #fyp #trans </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7308412367866547499" rel="alternate"/>
+    <published>2023-12-03T16:52:50+00:00</published>
   </entry>
 </feed>
