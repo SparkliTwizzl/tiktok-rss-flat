@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@villainsupport</id>
   <title>@villainsupport | TikTok</title>
-  <updated>2023-12-02T14:22:54+00:00</updated>
+  <updated>2023-12-03T15:57:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @villainsupport</subtitle>
-  <entry>
-    <id>https://tiktok.com/@villainsupport/video/7306258188817550623</id>
-    <title>Broke Vampire Part 16 #vampire #acmetok #acmevillainsupport </title>
-    <updated>2023-11-27T21:33:34+00:00</updated>
-    <content>Broke Vampire Part 16 #vampire #acmetok #acmevillainsupport </content>
-    <link href="https://tiktok.com/@villainsupport/video/7306258188817550623" rel="alternate"/>
-    <published>2023-11-27T21:33:34+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@villainsupport/video/7306355015222824222</id>
-    <title>#duet with @Twan My dog says buy soap. Lets EMPTY HIS STOC and make him SHAVE HIS BEARD!!</title>
-    <updated>2023-11-28T03:49:12+00:00</updated>
-    <content>#duet with @Twan My dog says buy soap. Lets EMPTY HIS STOC and make him SHAVE HIS BEARD!!</content>
-    <link href="https://tiktok.com/@villainsupport/video/7306355015222824222" rel="alternate"/>
-    <published>2023-11-28T03:49:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@villainsupport/video/7306595625485765918</id>
     <title>#onthisday they never listen #predator #punisher #acmetok #acmevillainsupport </title>
@@ -91,5 +75,21 @@
     <content>#onthisday #dresdenfiles #harrypotter #wizard </content>
     <link href="https://tiktok.com/@villainsupport/video/7308002596055272734" rel="alternate"/>
     <published>2023-12-02T14:22:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@villainsupport/video/7308380851199282462</id>
+    <title>#onthisday i *know* the language is called Shyriiwook. But a lot more people don’t than do. Calling it “Wookiee” lets more people enjoy the video without being confused from the very start. #starwars #wookiee #acmetok #acmevillainsupport </title>
+    <updated>2023-12-03T14:50:42+00:00</updated>
+    <content>#onthisday i *know* the language is called Shyriiwook. But a lot more people don’t than do. Calling it “Wookiee” lets more people enjoy the video without being confused from the very start. #starwars #wookiee #acmetok #acmevillainsupport </content>
+    <link href="https://tiktok.com/@villainsupport/video/7308380851199282462" rel="alternate"/>
+    <published>2023-12-03T14:50:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@villainsupport/video/7308398028652629279</id>
+    <title>Frieza Goes to Namek Part 12</title>
+    <updated>2023-12-03T15:57:16+00:00</updated>
+    <content>Frieza Goes to Namek Part 12</content>
+    <link href="https://tiktok.com/@villainsupport/video/7308398028652629279" rel="alternate"/>
+    <published>2023-12-03T15:57:16+00:00</published>
   </entry>
 </feed>
