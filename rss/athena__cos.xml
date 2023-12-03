@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-12-02T16:02:23+00:00</updated>
+  <updated>2023-12-03T15:47:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7304706624864767274</id>
-    <title>Quick lift with @Ray Ray Griffin before the feast begins #thanksgiving #turkey #protein #gym #siblings </title>
-    <updated>2023-11-23T17:12:35+00:00</updated>
-    <content>Quick lift with @Ray Ray Griffin before the feast begins #thanksgiving #turkey #protein #gym #siblings </content>
-    <link href="https://tiktok.com/@athena__cos/video/7304706624864767274" rel="alternate"/>
-    <published>2023-11-23T17:12:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7305140883576409390</id>
     <title>Had LOTS of you ladies asking for my routine, so lets hit back and tris together! And some poses My outfit is from @Nike  and @BuckedUp #gym #buffwomen #lifting #bodybuilding #women #thickthighessaveslive #musclemommy </title>
@@ -91,5 +83,13 @@
     <content>Some Christmae Catradora for your feed #christmas #adora #shera #catradora #catracosplay #adoracosplay @Bella LeBaron </content>
     <link href="https://tiktok.com/@athena__cos/video/7308028287471652138" rel="alternate"/>
     <published>2023-12-02T16:02:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7308395420424670506</id>
+    <title>Being disciplined in the kitchen is 100 times harder than the gym itself #gym #womenwholift #gymtok </title>
+    <updated>2023-12-03T15:47:06+00:00</updated>
+    <content>Being disciplined in the kitchen is 100 times harder than the gym itself #gym #womenwholift #gymtok </content>
+    <link href="https://tiktok.com/@athena__cos/video/7308395420424670506" rel="alternate"/>
+    <published>2023-12-03T15:47:06+00:00</published>
   </entry>
 </feed>
