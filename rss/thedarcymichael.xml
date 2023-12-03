@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-11-29T23:41:21+00:00</updated>
+  <updated>2023-12-02T22:57:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7300661668722560261</id>
-    <title>Darcy dropping lots of theories here #manchild #newhouse #gardener #couple #comedy #funny #busydonkey </title>
-    <updated>2023-11-12T19:36:00+00:00</updated>
-    <content>Darcy dropping lots of theories here #manchild #newhouse #gardener #couple #comedy #funny #busydonkey </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7300661668722560261" rel="alternate"/>
-    <published>2023-11-12T19:36:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7302482399705812229</id>
     <title>He got so defensive at the end #adhd #husbands #gay #comedy  </title>
@@ -91,5 +83,13 @@
     <content>It’s a rhetorical question, we all know it’s normal behaviour #plants #plantdaddy #gardenvibes </content>
     <link href="https://tiktok.com/@thedarcymichael/video/7307033332800392454" rel="alternate"/>
     <published>2023-11-29T23:41:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7308135336532528390</id>
+    <title>Wait til you see the back of this card!  #fail #holidaycards #marriedlife #manchild #adhd #funny </title>
+    <updated>2023-12-02T22:57:38+00:00</updated>
+    <content>Wait til you see the back of this card!  #fail #holidaycards #marriedlife #manchild #adhd #funny </content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7308135336532528390" rel="alternate"/>
+    <published>2023-12-02T22:57:38+00:00</published>
   </entry>
 </feed>

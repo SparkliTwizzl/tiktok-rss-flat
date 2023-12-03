@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thehistorywizard</id>
   <title>@thehistorywizard | TikTok</title>
-  <updated>2023-12-01T21:38:35+00:00</updated>
+  <updated>2023-12-03T13:55:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thehistorywizard</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thehistorywizard/video/7305543269302209835</id>
-    <title>Replying to @eastofedin Bye bye now. #thehistorywizard #historytiktok #edutok #learnontiktok </title>
-    <updated>2023-11-25T23:19:14+00:00</updated>
-    <content>Replying to @eastofedin Bye bye now. #thehistorywizard #historytiktok #edutok #learnontiktok </content>
-    <link href="https://tiktok.com/@thehistorywizard/video/7305543269302209835" rel="alternate"/>
-    <published>2023-11-25T23:19:14+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@thehistorywizard/video/7305775450318753070</id>
-    <title>Replying to @suplexthetrain I won't hold my breath though. #thehistorywizard #historytiktok #edutok #learnontiktok #israel #palestine </title>
-    <updated>2023-11-26T14:20:21+00:00</updated>
-    <content>Replying to @suplexthetrain I won't hold my breath though. #thehistorywizard #historytiktok #edutok #learnontiktok #israel #palestine </content>
-    <link href="https://tiktok.com/@thehistorywizard/video/7305775450318753070" rel="alternate"/>
-    <published>2023-11-26T14:20:21+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@thehistorywizard/video/7305780946534534442</id>
-    <title>Grow up. All of you. #thehistorywizard #historytiktok #edutok #learnontiktok #israel #palestine </title>
-    <updated>2023-11-26T14:41:52+00:00</updated>
-    <content>Grow up. All of you. #thehistorywizard #historytiktok #edutok #learnontiktok #israel #palestine </content>
-    <link href="https://tiktok.com/@thehistorywizard/video/7305780946534534442" rel="alternate"/>
-    <published>2023-11-26T14:41:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thehistorywizard/video/7306161507220393258</id>
     <title>Replying to @cesar.worships.god2 OK bye now. #thehistorywizard #historytiktok #edutok #learnontiktok </title>
@@ -91,5 +67,29 @@
     <content>Gender! #thehistorywizard #historytiktok #edutok #learnontiktok #gender #transgender </content>
     <link href="https://tiktok.com/@thehistorywizard/video/7307743812837969198" rel="alternate"/>
     <published>2023-12-01T21:38:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thehistorywizard/video/7307995697721183530</id>
+    <title>Don't stop talking about this. #thehistorywizard #historytiktok #edutok #learnontiktok </title>
+    <updated>2023-12-02T13:56:07+00:00</updated>
+    <content>Don't stop talking about this. #thehistorywizard #historytiktok #edutok #learnontiktok </content>
+    <link href="https://tiktok.com/@thehistorywizard/video/7307995697721183530" rel="alternate"/>
+    <published>2023-12-02T13:56:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thehistorywizard/video/7308042861235260714</id>
+    <title>Don't stop talking about this. #thehistorywizard #historytiktok #edutok #learnontiktok </title>
+    <updated>2023-12-02T16:58:57+00:00</updated>
+    <content>Don't stop talking about this. #thehistorywizard #historytiktok #edutok #learnontiktok </content>
+    <link href="https://tiktok.com/@thehistorywizard/video/7308042861235260714" rel="alternate"/>
+    <published>2023-12-02T16:58:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thehistorywizard/video/7308366584517643562</id>
+    <title>Replying to @malcontentnews Wanna Try A Different Lie? #thehistorywizard #historytiktok #edutok #learnontiktok </title>
+    <updated>2023-12-03T13:55:25+00:00</updated>
+    <content>Replying to @malcontentnews Wanna Try A Different Lie? #thehistorywizard #historytiktok #edutok #learnontiktok </content>
+    <link href="https://tiktok.com/@thehistorywizard/video/7308366584517643562" rel="alternate"/>
+    <published>2023-12-03T13:55:25+00:00</published>
   </entry>
 </feed>
