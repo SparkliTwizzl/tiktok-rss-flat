@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@athena__cos</id>
   <title>@athena__cos | TikTok</title>
-  <updated>2023-11-30T19:25:22+00:00</updated>
+  <updated>2023-12-02T16:02:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @athena__cos</subtitle>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7303231107644902698</id>
-    <title>@nevstudio has my heart 🖤🖤 #techwear #darkwear #nevstudiostreetwear #streetwear </title>
-    <updated>2023-11-19T17:46:56+00:00</updated>
-    <content>@nevstudio has my heart 🖤🖤 #techwear #darkwear #nevstudiostreetwear #streetwear </content>
-    <link href="https://tiktok.com/@athena__cos/video/7303231107644902698" rel="alternate"/>
-    <published>2023-11-19T17:46:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7303624154308152618</id>
-    <title>And as always: SLEEP AND HYDRATE #gym #fitness #bodybuilding #buffwomen </title>
-    <updated>2023-11-20T19:12:11+00:00</updated>
-    <content>And as always: SLEEP AND HYDRATE #gym #fitness #bodybuilding #buffwomen </content>
-    <link href="https://tiktok.com/@athena__cos/video/7303624154308152618" rel="alternate"/>
-    <published>2023-11-20T19:12:11+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@athena__cos/video/7303986275135278382</id>
-    <title>Average teenage boy build #bjj #mma </title>
-    <updated>2023-11-21T18:37:25+00:00</updated>
-    <content>Average teenage boy build #bjj #mma </content>
-    <link href="https://tiktok.com/@athena__cos/video/7303986275135278382" rel="alternate"/>
-    <published>2023-11-21T18:37:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@athena__cos/video/7304706624864767274</id>
     <title>Quick lift with @Ray Ray Griffin before the feast begins #thanksgiving #turkey #protein #gym #siblings </title>
@@ -91,5 +67,29 @@
     <content>What better way to start the Christmas season than with Christmas Shera?? @Bella LeBaron #shera #catra #catracosplay #adora #adoracosplay #catradora </content>
     <link href="https://tiktok.com/@athena__cos/video/7307338391715220782" rel="alternate"/>
     <published>2023-11-30T19:25:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7307680959933992238</id>
+    <title>Its my favorite color to wear to…everything #gymoutfit #gojosatoru #gyminspo </title>
+    <updated>2023-12-01T17:34:37+00:00</updated>
+    <content>Its my favorite color to wear to…everything #gymoutfit #gojosatoru #gyminspo </content>
+    <link href="https://tiktok.com/@athena__cos/video/7307680959933992238" rel="alternate"/>
+    <published>2023-12-01T17:34:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7307723265391250731</id>
+    <title>Some of my thoughts as a cosplay and gym creator #gym #gymtok #womenwholift </title>
+    <updated>2023-12-01T20:18:45+00:00</updated>
+    <content>Some of my thoughts as a cosplay and gym creator #gym #gymtok #womenwholift </content>
+    <link href="https://tiktok.com/@athena__cos/video/7307723265391250731" rel="alternate"/>
+    <published>2023-12-01T20:18:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@athena__cos/video/7308028287471652138</id>
+    <title>Some Christmae Catradora for your feed #christmas #adora #shera #catradora #catracosplay #adoracosplay @Bella LeBaron </title>
+    <updated>2023-12-02T16:02:23+00:00</updated>
+    <content>Some Christmae Catradora for your feed #christmas #adora #shera #catradora #catracosplay #adoracosplay @Bella LeBaron </content>
+    <link href="https://tiktok.com/@athena__cos/video/7308028287471652138" rel="alternate"/>
+    <published>2023-12-02T16:02:23+00:00</published>
   </entry>
 </feed>
