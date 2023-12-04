@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-12-03T16:09:34+00:00</updated>
+  <updated>2023-12-04T16:37:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7303898529121029407</id>
-    <title>Unacceptable </title>
-    <updated>2023-11-21T12:56:47+00:00</updated>
-    <content>Unacceptable </content>
-    <link href="https://tiktok.com/@punktoad/video/7303898529121029407" rel="alternate"/>
-    <published>2023-11-21T12:56:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7304373653276265759</id>
     <title>My ears are unreliable </title>
@@ -91,5 +83,13 @@
     <content>Try again, buster </content>
     <link href="https://tiktok.com/@punktoad/video/7308401204046859551" rel="alternate"/>
     <published>2023-12-03T16:09:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7308779419068370206</id>
+    <title>Men no use dainty straw. @Jesse Watters</title>
+    <updated>2023-12-04T16:37:24+00:00</updated>
+    <content>Men no use dainty straw. @Jesse Watters</content>
+    <link href="https://tiktok.com/@punktoad/video/7308779419068370206" rel="alternate"/>
+    <published>2023-12-04T16:37:24+00:00</published>
   </entry>
 </feed>
