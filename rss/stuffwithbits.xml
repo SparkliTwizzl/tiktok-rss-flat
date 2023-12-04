@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stuffwithbits</id>
   <title>@stuffwithbits | TikTok</title>
-  <updated>2023-12-02T03:30:05+00:00</updated>
+  <updated>2023-12-04T22:29:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @stuffwithbits</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7301458775532178731</id>
-    <title>weird how ⏰⏰ didn't want to just post it and we had to download it to get it to upload 🤔 #solardidsystem #sszenith #freepalestine #ceasefirenow </title>
-    <updated>2023-11-14T23:09:24+00:00</updated>
-    <content>weird how ⏰⏰ didn't want to just post it and we had to download it to get it to upload 🤔 #solardidsystem #sszenith #freepalestine #ceasefirenow </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7301458775532178731" rel="alternate"/>
-    <published>2023-11-14T23:09:24+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stuffwithbits/video/7301474470106008875</id>
-    <title>#freepalestine #ceasefirenow </title>
-    <updated>2023-11-15T00:10:07+00:00</updated>
-    <content>#freepalestine #ceasefirenow </content>
-    <link href="https://tiktok.com/@stuffwithbits/video/7301474470106008875" rel="alternate"/>
-    <published>2023-11-15T00:10:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stuffwithbits/video/7301719651862629678</id>
     <title>#solardidsystem #ladybug #cat #cats #catsoftiktok </title>
@@ -91,5 +75,21 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@stuffwithbits/video/7307834423423126815" rel="alternate"/>
     <published>2023-12-02T03:30:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7308855551570578718</id>
+    <title>Replying to @dr.adamsmithph.d #reply here you go 🧯 #solardidsystem #ssquinn </title>
+    <updated>2023-12-04T21:32:42+00:00</updated>
+    <content>Replying to @dr.adamsmithph.d #reply here you go 🧯 #solardidsystem #ssquinn </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7308855551570578718" rel="alternate"/>
+    <published>2023-12-04T21:32:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stuffwithbits/video/7308870217340423455</id>
+    <title>Filter asks, "Why are you so exhausted?" Roulette ends on "You keep fighting for relationships that sap your energy instead of letting them go." #solardidsystem #ssquinn </title>
+    <updated>2023-12-04T22:29:36+00:00</updated>
+    <content>Filter asks, "Why are you so exhausted?" Roulette ends on "You keep fighting for relationships that sap your energy instead of letting them go." #solardidsystem #ssquinn </content>
+    <link href="https://tiktok.com/@stuffwithbits/video/7308870217340423455" rel="alternate"/>
+    <published>2023-12-04T22:29:36+00:00</published>
   </entry>
 </feed>
