@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maruzee_dragon</id>
   <title>@maruzee_dragon | TikTok</title>
-  <updated>2023-12-02T03:41:20+00:00</updated>
+  <updated>2023-12-04T02:21:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maruzee_dragon</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maruzee_dragon/video/7299869904235187462</id>
-    <title>Kick training in Gotham's shadows - prepping to be the next guardian in my Batman PJs. 😅🌃🦇 #martialarts #kick #taekwondo #mma #karate #training #fitness #flexible #split </title>
-    <updated>2023-11-10T16:23:31+00:00</updated>
-    <content>Kick training in Gotham's shadows - prepping to be the next guardian in my Batman PJs. 😅🌃🦇 #martialarts #kick #taekwondo #mma #karate #training #fitness #flexible #split </content>
-    <link href="https://tiktok.com/@maruzee_dragon/video/7299869904235187462" rel="alternate"/>
-    <published>2023-11-10T16:23:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maruzee_dragon/video/7301891605487734021</id>
     <title>Who's up for more lightsaber moves in this outfit?!</title>
@@ -91,5 +83,13 @@
     <content>You asked for a Spider-Man version, well, here it is! 😁🕷🕸 #spiderman #transition #marvel </content>
     <link href="https://tiktok.com/@maruzee_dragon/video/7307837356986486021" rel="alternate"/>
     <published>2023-12-02T03:41:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maruzee_dragon/video/7308559064445897990</id>
+    <title>Couldn't wait to share this!!🥹🌊💙 I took inspiration from @A-Ni 🫶 #avatarthelastairbender #katara #cosplay #transition </title>
+    <updated>2023-12-04T02:21:56+00:00</updated>
+    <content>Couldn't wait to share this!!🥹🌊💙 I took inspiration from @A-Ni 🫶 #avatarthelastairbender #katara #cosplay #transition </content>
+    <link href="https://tiktok.com/@maruzee_dragon/video/7308559064445897990" rel="alternate"/>
+    <published>2023-12-04T02:21:56+00:00</published>
   </entry>
 </feed>

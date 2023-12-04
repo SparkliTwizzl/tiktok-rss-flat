@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@manic.toxicity</id>
   <title>@manic.toxicity | TikTok</title>
-  <updated>2023-11-30T22:23:17+00:00</updated>
+  <updated>2023-12-03T17:38:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @manic.toxicity</subtitle>
-  <entry>
-    <id>https://tiktok.com/@manic.toxicity/video/7293645186440154411</id>
-    <title>that transition was not as clean as i wnated it to be, but i didnt wanna get outta bed #fyp #foryou </title>
-    <updated>2023-10-24T21:48:36+00:00</updated>
-    <content>that transition was not as clean as i wnated it to be, but i didnt wanna get outta bed #fyp #foryou </content>
-    <link href="https://tiktok.com/@manic.toxicity/video/7293645186440154411" rel="alternate"/>
-    <published>2023-10-24T21:48:36+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@manic.toxicity/video/7295864178152049962</id>
     <title>R-I-D-I-C-U-L-O-U-S #fyp #foryou #alternative </title>
@@ -91,5 +83,13 @@
     <content>was u 🫶🏼 #fyp #foryou</content>
     <link href="https://tiktok.com/@manic.toxicity/video/7307384280148086062" rel="alternate"/>
     <published>2023-11-30T22:23:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@manic.toxicity/video/7308424084864421162</id>
+    <title>VIP #fyp #foryou</title>
+    <updated>2023-12-03T17:38:20+00:00</updated>
+    <content>VIP #fyp #foryou</content>
+    <link href="https://tiktok.com/@manic.toxicity/video/7308424084864421162" rel="alternate"/>
+    <published>2023-12-03T17:38:20+00:00</published>
   </entry>
 </feed>
