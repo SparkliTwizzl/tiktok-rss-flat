@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-12-03T16:52:50+00:00</updated>
+  <updated>2023-12-03T23:18:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7305855572019055918</id>
-    <title>Just my thoughts. #fyp </title>
-    <updated>2023-11-26T19:31:10+00:00</updated>
-    <content>Just my thoughts. #fyp </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7305855572019055918" rel="alternate"/>
-    <published>2023-11-26T19:31:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7307007921123118382</id>
     <title>DISCOUNT CODE: Avery Yup, it's just my name. Haha. Head over to my linktree in my bio to check it out! #fyp </title>
@@ -91,5 +83,13 @@
     <content>Replying to @trans_valkyrie Welp... Get in the water. #fyp #trans </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7308412367866547499" rel="alternate"/>
     <published>2023-12-03T16:52:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7308511711399660843</id>
+    <title>Just had to get this awesome neon sign. #fyp #trans </title>
+    <updated>2023-12-03T23:18:22+00:00</updated>
+    <content>Just had to get this awesome neon sign. #fyp #trans </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7308511711399660843" rel="alternate"/>
+    <published>2023-12-03T23:18:22+00:00</published>
   </entry>
 </feed>
