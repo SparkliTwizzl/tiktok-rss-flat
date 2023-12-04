@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-12-03T18:01:49+00:00</updated>
+  <updated>2023-12-04T13:46:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7303438380287773957</id>
-    <title>keep an eye out for a live this Monday afternoon (est). I'll be catching everyone up with what I've been up to from live shows to future plans. and as usual, music and some performance too. #glumthesupernaturalhitman #dragperformance #dancesinshadows  #li</title>
-    <updated>2023-11-20T07:11:04+00:00</updated>
-    <content>keep an eye out for a live this Monday afternoon (est). I'll be catching everyone up with what I've been up to from live shows to future plans. and as usual, music and some performance too. #glumthesupernaturalhitman #dragperformance #dancesinshadows  #lifeupdate #livestream </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7303438380287773957" rel="alternate"/>
-    <published>2023-11-20T07:11:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7304674294926216454</id>
     <title>my final act from the night. I made all the props in under 2 days 😅 song @NSP  #dancesinshadows #glumthesupernaturalhitman #dragperformance #nspband </title>
@@ -91,5 +83,13 @@
     <content>throwback ❤️❤️❤️ #onthisday #wouldyoulikeapepermint #peppermint </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7308430190642777350" rel="alternate"/>
     <published>2023-12-03T18:01:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7308735534887734534</id>
+    <title>tree is up...and so is minn... #tabbycatsoftiktok #egyptianmau #tabbycat #funnycat </title>
+    <updated>2023-12-04T13:46:42+00:00</updated>
+    <content>tree is up...and so is minn... #tabbycatsoftiktok #egyptianmau #tabbycat #funnycat </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7308735534887734534" rel="alternate"/>
+    <published>2023-12-04T13:46:42+00:00</published>
   </entry>
 </feed>
