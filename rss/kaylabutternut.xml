@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-12-04T01:34:31+00:00</updated>
+  <updated>2023-12-04T13:29:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,62 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7307771821611371819</id>
-    <title>Meta glasses secured</title>
-    <updated>2023-12-01T23:27:11+00:00</updated>
-    <content>Meta glasses secured</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7307771821611371819" rel="alternate"/>
-    <published>2023-12-01T23:27:11+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7307786311744752942</id>
-    <title>What do you think ab the quality though its kinda mid</title>
-    <updated>2023-12-02T00:23:23+00:00</updated>
-    <content>What do you think ab the quality though its kinda mid</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7307786311744752942" rel="alternate"/>
-    <published>2023-12-02T00:23:23+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7307834050843102510</id>
-    <title>I was almost too late </title>
-    <updated>2023-12-02T03:28:38+00:00</updated>
-    <content>I was almost too late </content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7307834050843102510" rel="alternate"/>
-    <published>2023-12-02T03:28:38+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7307844145509453099</id>
-    <title>STOP I JUST REALIZED THE PHONE CASE MATCHES</title>
-    <updated>2023-12-02T04:07:51+00:00</updated>
-    <content>STOP I JUST REALIZED THE PHONE CASE MATCHES</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7307844145509453099" rel="alternate"/>
-    <published>2023-12-02T04:07:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7307901085262384427</id>
-    <title>I had such a good night </title>
-    <updated>2023-12-02T07:49:08+00:00</updated>
-    <content>I had such a good night </content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7307901085262384427" rel="alternate"/>
-    <published>2023-12-02T07:49:08+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7308073927232834858</id>
-    <title>Still trying to figure out what the stick is called </title>
-    <updated>2023-12-02T18:59:32+00:00</updated>
-    <content>Still trying to figure out what the stick is called </content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7308073927232834858" rel="alternate"/>
-    <published>2023-12-02T18:59:32+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7308169161673280811</id>
-    <title>I was so happy at the end </title>
-    <updated>2023-12-03T01:09:00+00:00</updated>
-    <content>I was so happy at the end </content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7308169161673280811" rel="alternate"/>
-    <published>2023-12-03T01:09:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7308243598149979435</id>
     <title>Actually so true </title>
@@ -91,5 +35,61 @@
     <content>I feel like these nails are so short compared to my usual ones but they look good with both outfits</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7308546803564301614" rel="alternate"/>
     <published>2023-12-04T01:34:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7308619601838099758</id>
+    <title>Black or red</title>
+    <updated>2023-12-04T06:17:13+00:00</updated>
+    <content>Black or red</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7308619601838099758" rel="alternate"/>
+    <published>2023-12-04T06:17:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7308632407526116651</id>
+    <title>Name the plushie and I’ll marry you</title>
+    <updated>2023-12-04T07:06:54+00:00</updated>
+    <content>Name the plushie and I’ll marry you</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7308632407526116651" rel="alternate"/>
+    <published>2023-12-04T07:06:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7308638583047327018</id>
+    <title>LMAOOOOOOOOOOO WHAT IS THIS SOUND</title>
+    <updated>2023-12-04T07:30:57+00:00</updated>
+    <content>LMAOOOOOOOOOOO WHAT IS THIS SOUND</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7308638583047327018" rel="alternate"/>
+    <published>2023-12-04T07:30:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7308659329081609515</id>
+    <title>Is the chain too much?</title>
+    <updated>2023-12-04T08:51:31+00:00</updated>
+    <content>Is the chain too much?</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7308659329081609515" rel="alternate"/>
+    <published>2023-12-04T08:51:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7308667108827663658</id>
+    <title>Replying to @FPS </title>
+    <updated>2023-12-04T09:21:55+00:00</updated>
+    <content>Replying to @FPS </content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7308667108827663658" rel="alternate"/>
+    <published>2023-12-04T09:21:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7308685032544062763</id>
+    <title>Rate the camerawork </title>
+    <updated>2023-12-04T10:32:00+00:00</updated>
+    <content>Rate the camerawork </content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7308685032544062763" rel="alternate"/>
+    <published>2023-12-04T10:32:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7308730911317839150</id>
+    <title>Life was never the same after I discovered this trend</title>
+    <updated>2023-12-04T13:29:19+00:00</updated>
+    <content>Life was never the same after I discovered this trend</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7308730911317839150" rel="alternate"/>
+    <published>2023-12-04T13:29:19+00:00</published>
   </entry>
 </feed>
