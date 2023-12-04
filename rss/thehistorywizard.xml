@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thehistorywizard</id>
   <title>@thehistorywizard | TikTok</title>
-  <updated>2023-12-03T13:55:25+00:00</updated>
+  <updated>2023-12-04T14:50:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thehistorywizard</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thehistorywizard/video/7306161507220393258</id>
-    <title>Replying to @cesar.worships.god2 OK bye now. #thehistorywizard #historytiktok #edutok #learnontiktok </title>
-    <updated>2023-11-27T15:18:40+00:00</updated>
-    <content>Replying to @cesar.worships.god2 OK bye now. #thehistorywizard #historytiktok #edutok #learnontiktok </content>
-    <link href="https://tiktok.com/@thehistorywizard/video/7306161507220393258" rel="alternate"/>
-    <published>2023-11-27T15:18:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thehistorywizard/video/7306576532271680810</id>
     <title>Fuck you @TikTok #thehistorywizard #historytiktok #edutok #learnontiktok </title>
@@ -91,5 +83,13 @@
     <content>Replying to @malcontentnews Wanna Try A Different Lie? #thehistorywizard #historytiktok #edutok #learnontiktok </content>
     <link href="https://tiktok.com/@thehistorywizard/video/7308366584517643562" rel="alternate"/>
     <published>2023-12-03T13:55:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thehistorywizard/video/7308751846552915246</id>
+    <title>I apologize for nothing. #thehistorywizard #historytiktok #edutok #learnontiktok #pun </title>
+    <updated>2023-12-04T14:50:28+00:00</updated>
+    <content>I apologize for nothing. #thehistorywizard #historytiktok #edutok #learnontiktok #pun </content>
+    <link href="https://tiktok.com/@thehistorywizard/video/7308751846552915246" rel="alternate"/>
+    <published>2023-12-04T14:50:28+00:00</published>
   </entry>
 </feed>

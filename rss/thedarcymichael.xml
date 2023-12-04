@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-12-04T01:42:54+00:00</updated>
+  <updated>2023-12-04T14:32:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7302816656747777285</id>
-    <title>Start the car! Start the car!</title>
-    <updated>2023-11-18T14:58:26+00:00</updated>
-    <content>Start the car! Start the car!</content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7302816656747777285" rel="alternate"/>
-    <published>2023-11-18T14:58:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7302994838419426566</id>
     <title>Jer changed his tune pretty quick!  #husbandreacts #shoes #adhd #couples #relationships #funny </title>
@@ -91,5 +83,13 @@
     <content>I cant wait - what a gift getting old i going to be - im going to make the best little old man garden gnome. </content>
     <link href="https://tiktok.com/@thedarcymichael/video/7308549005821250822" rel="alternate"/>
     <published>2023-12-04T01:42:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7308747269514333445</id>
+    <title>The last one is ✨ART✨ #husbands #prank #couplecomedy #darcyandjer #surprisingmyhusband </title>
+    <updated>2023-12-04T14:32:14+00:00</updated>
+    <content>The last one is ✨ART✨ #husbands #prank #couplecomedy #darcyandjer #surprisingmyhusband </content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7308747269514333445" rel="alternate"/>
+    <published>2023-12-04T14:32:14+00:00</published>
   </entry>
 </feed>
