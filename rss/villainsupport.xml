@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@villainsupport</id>
   <title>@villainsupport | TikTok</title>
-  <updated>2023-12-03T15:57:16+00:00</updated>
+  <updated>2023-12-04T03:41:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @villainsupport</subtitle>
-  <entry>
-    <id>https://tiktok.com/@villainsupport/video/7306595625485765918</id>
-    <title>#onthisday they never listen #predator #punisher #acmetok #acmevillainsupport </title>
-    <updated>2023-11-28T19:23:05+00:00</updated>
-    <content>#onthisday they never listen #predator #punisher #acmetok #acmevillainsupport </content>
-    <link href="https://tiktok.com/@villainsupport/video/7306595625485765918" rel="alternate"/>
-    <published>2023-11-28T19:23:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@villainsupport/video/7306889146138627358</id>
     <title>#onthisday Le Sigh #predator #terminator #arnoldschwarzenneger #acmetok #acmevillainsupport </title>
@@ -91,5 +83,13 @@
     <content>Frieza Goes to Namek Part 12</content>
     <link href="https://tiktok.com/@villainsupport/video/7308398028652629279" rel="alternate"/>
     <published>2023-12-03T15:57:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@villainsupport/video/7308579542363376926</id>
+    <title>#stitch with @Twan </title>
+    <updated>2023-12-04T03:41:32+00:00</updated>
+    <content>#stitch with @Twan </content>
+    <link href="https://tiktok.com/@villainsupport/video/7308579542363376926" rel="alternate"/>
+    <published>2023-12-04T03:41:32+00:00</published>
   </entry>
 </feed>
