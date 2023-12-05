@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@liil.dork.alex</id>
   <title>@liil.dork.alex | TikTok</title>
-  <updated>2023-12-03T23:25:57+00:00</updated>
+  <updated>2023-12-05T17:54:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @liil.dork.alex</subtitle>
-  <entry>
-    <id>https://tiktok.com/@liil.dork.alex/video/7304782237856353582</id>
-    <title>My moms backseat passenger never loses a staring contest 🫡</title>
-    <updated>2023-11-23T22:06:01+00:00</updated>
-    <content>My moms backseat passenger never loses a staring contest 🫡</content>
-    <link href="https://tiktok.com/@liil.dork.alex/video/7304782237856353582" rel="alternate"/>
-    <published>2023-11-23T22:06:01+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@liil.dork.alex/video/7305526232400071979</id>
-    <title>Still getting more 🫡</title>
-    <updated>2023-11-25T22:13:09+00:00</updated>
-    <content>Still getting more 🫡</content>
-    <link href="https://tiktok.com/@liil.dork.alex/video/7305526232400071979" rel="alternate"/>
-    <published>2023-11-25T22:13:09+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@liil.dork.alex/video/7305539376199585066</id>
     <title>That gay panic be getting in the way 😂</title>
@@ -91,5 +75,21 @@
     <content>Animals just make life so much better 😩</content>
     <link href="https://tiktok.com/@liil.dork.alex/video/7308513662262660398" rel="alternate"/>
     <published>2023-12-03T23:25:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@liil.dork.alex/video/7308998781108899115</id>
+    <title>P!nk got me thru some stuff 😅</title>
+    <updated>2023-12-05T06:48:25+00:00</updated>
+    <content>P!nk got me thru some stuff 😅</content>
+    <link href="https://tiktok.com/@liil.dork.alex/video/7308998781108899115" rel="alternate"/>
+    <published>2023-12-05T06:48:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@liil.dork.alex/video/7309170486447967530</id>
+    <title>Really need to get my shoulder fixed so i can get back to it 😩</title>
+    <updated>2023-12-05T17:54:52+00:00</updated>
+    <content>Really need to get my shoulder fixed so i can get back to it 😩</content>
+    <link href="https://tiktok.com/@liil.dork.alex/video/7309170486447967530" rel="alternate"/>
+    <published>2023-12-05T17:54:52+00:00</published>
   </entry>
 </feed>
