@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avocadosnaliens</id>
   <title>@avocadosnaliens | TikTok</title>
-  <updated>2023-12-03T06:25:23+00:00</updated>
+  <updated>2023-12-04T21:01:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avocadosnaliens</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avocadosnaliens/video/7302560264384220458</id>
-    <title>I could seriosuly make a million videos showing yall my closet so if you wanna see more just lmk!🤍🫶#greenscreenvideo #momtok #whattowear #momfashion </title>
-    <updated>2023-11-17T22:23:42+00:00</updated>
-    <content>I could seriosuly make a million videos showing yall my closet so if you wanna see more just lmk!🤍🫶#greenscreenvideo #momtok #whattowear #momfashion </content>
-    <link href="https://tiktok.com/@avocadosnaliens/video/7302560264384220458" rel="alternate"/>
-    <published>2023-11-17T22:23:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avocadosnaliens/video/7303301390938639662</id>
     <title>[no title]</title>
@@ -91,5 +83,13 @@
     <content>#stitch with @Sincerely Awa </content>
     <link href="https://tiktok.com/@avocadosnaliens/video/7308250657054641450" rel="alternate"/>
     <published>2023-12-03T06:25:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7308847629432114474</id>
+    <title>#greenscreenvideo #greenscreen dont forger the soliders need their gluten free bread!!!!!</title>
+    <updated>2023-12-04T21:01:57+00:00</updated>
+    <content>#greenscreenvideo #greenscreen dont forger the soliders need their gluten free bread!!!!!</content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7308847629432114474" rel="alternate"/>
+    <published>2023-12-04T21:01:57+00:00</published>
   </entry>
 </feed>
