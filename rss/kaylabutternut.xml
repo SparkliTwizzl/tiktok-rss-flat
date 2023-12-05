@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-12-04T13:29:19+00:00</updated>
+  <updated>2023-12-05T05:35:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,46 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7308243598149979435</id>
-    <title>Actually so true </title>
-    <updated>2023-12-03T05:57:53+00:00</updated>
-    <content>Actually so true </content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7308243598149979435" rel="alternate"/>
-    <published>2023-12-03T05:57:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7308323380162350378</id>
-    <title>How many years have I been complaining about my sleep schedule </title>
-    <updated>2023-12-03T11:08:17+00:00</updated>
-    <content>How many years have I been complaining about my sleep schedule </content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7308323380162350378" rel="alternate"/>
-    <published>2023-12-03T11:08:17+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7308546803564301614</id>
-    <title>I feel like these nails are so short compared to my usual ones but they look good with both outfits</title>
-    <updated>2023-12-04T01:34:31+00:00</updated>
-    <content>I feel like these nails are so short compared to my usual ones but they look good with both outfits</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7308546803564301614" rel="alternate"/>
-    <published>2023-12-04T01:34:31+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7308619601838099758</id>
-    <title>Black or red</title>
-    <updated>2023-12-04T06:17:13+00:00</updated>
-    <content>Black or red</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7308619601838099758" rel="alternate"/>
-    <published>2023-12-04T06:17:13+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7308632407526116651</id>
-    <title>Name the plushie and I’ll marry you</title>
-    <updated>2023-12-04T07:06:54+00:00</updated>
-    <content>Name the plushie and I’ll marry you</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7308632407526116651" rel="alternate"/>
-    <published>2023-12-04T07:06:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7308638583047327018</id>
     <title>LMAOOOOOOOOOOO WHAT IS THIS SOUND</title>
@@ -91,5 +51,45 @@
     <content>Life was never the same after I discovered this trend</content>
     <link href="https://tiktok.com/@kaylabutternut/video/7308730911317839150" rel="alternate"/>
     <published>2023-12-04T13:29:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7308835572884393262</id>
+    <title>[no title]</title>
+    <updated>2023-12-04T20:15:16+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7308835572884393262" rel="alternate"/>
+    <published>2023-12-04T20:15:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7308885296739781930</id>
+    <title>First try how’d I do</title>
+    <updated>2023-12-04T23:28:00+00:00</updated>
+    <content>First try how’d I do</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7308885296739781930" rel="alternate"/>
+    <published>2023-12-04T23:28:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7308954396593835310</id>
+    <title>Happy Holidays &lt;3</title>
+    <updated>2023-12-05T03:56:06+00:00</updated>
+    <content>Happy Holidays &lt;3</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7308954396593835310" rel="alternate"/>
+    <published>2023-12-05T03:56:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7308978243254930734</id>
+    <title>Fingers crossed</title>
+    <updated>2023-12-05T05:28:42+00:00</updated>
+    <content>Fingers crossed</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7308978243254930734" rel="alternate"/>
+    <published>2023-12-05T05:28:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7308980102384094506</id>
+    <title>@MistyRenn </title>
+    <updated>2023-12-05T05:35:55+00:00</updated>
+    <content>@MistyRenn </content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7308980102384094506" rel="alternate"/>
+    <published>2023-12-05T05:35:55+00:00</published>
   </entry>
 </feed>
