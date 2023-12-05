@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-12-04T16:37:24+00:00</updated>
+  <updated>2023-12-05T15:05:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7304373653276265759</id>
-    <title>My ears are unreliable </title>
-    <updated>2023-11-22T19:40:33+00:00</updated>
-    <content>My ears are unreliable </content>
-    <link href="https://tiktok.com/@punktoad/video/7304373653276265759" rel="alternate"/>
-    <published>2023-11-22T19:40:33+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7304713496854269214</id>
     <title>We love our host/hostess’s </title>
@@ -91,5 +83,13 @@
     <content>Men no use dainty straw. @Jesse Watters</content>
     <link href="https://tiktok.com/@punktoad/video/7308779419068370206" rel="alternate"/>
     <published>2023-12-04T16:37:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7309126842210864414</id>
+    <title>I need that Kohl’s cash </title>
+    <updated>2023-12-05T15:05:17+00:00</updated>
+    <content>I need that Kohl’s cash </content>
+    <link href="https://tiktok.com/@punktoad/video/7309126842210864414" rel="alternate"/>
+    <published>2023-12-05T15:05:17+00:00</published>
   </entry>
 </feed>
