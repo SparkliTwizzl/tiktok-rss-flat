@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-12-04T22:30:59+00:00</updated>
+  <updated>2023-12-05T13:48:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7305537943559474438</id>
-    <title>love my floor baby ❤️🤣 #bigroundeyescat #bigroundeyesfilter #tabbycat </title>
-    <updated>2023-11-25T22:58:27+00:00</updated>
-    <content>love my floor baby ❤️🤣 #bigroundeyescat #bigroundeyesfilter #tabbycat </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7305537943559474438" rel="alternate"/>
-    <published>2023-11-25T22:58:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7305542764698094853</id>
     <title>new look for Maddam Cure. this year has been a chaotic ride. I hope to get back to my story soon ❤️ with all new looks for many of my Ocs #dancesinshadows #maddamcure #maladytheclown </title>
@@ -91,5 +83,13 @@
     <content>watch out, he's on his way... do you have any xmas song suggestions? drop your ideas below ❤️ #zombiesanta #santacosplay #santa </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7308870638129777925" rel="alternate"/>
     <published>2023-12-04T22:30:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7309107199337467142</id>
+    <title>zombie santa for the #mehronhauntedholidays contest by @Mehron Makeup   #mehronmakeup Products used Mehron clown white Mehron setting piwder cliwn white Mehron Makeup Paradise AQ Face &amp; Body Paint 8 Color Palette (pastel)  #zombiemakeup #zombiesantaclaus</title>
+    <updated>2023-12-05T13:48:56+00:00</updated>
+    <content>zombie santa for the #mehronhauntedholidays contest by @Mehron Makeup   #mehronmakeup Products used Mehron clown white Mehron setting piwder cliwn white Mehron Makeup Paradise AQ Face &amp; Body Paint 8 Color Palette (pastel)  #zombiemakeup #zombiesantaclaus</content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7309107199337467142" rel="alternate"/>
+    <published>2023-12-05T13:48:56+00:00</published>
   </entry>
 </feed>
