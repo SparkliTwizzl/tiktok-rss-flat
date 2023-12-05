@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kit_the_beefcake</id>
   <title>@kit_the_beefcake | TikTok</title>
-  <updated>2023-12-04T09:16:35+00:00</updated>
+  <updated>2023-12-04T22:25:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kit_the_beefcake</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7304626344476953898</id>
-    <title>[no title]</title>
-    <updated>2023-11-23T12:01:57+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7304626344476953898" rel="alternate"/>
-    <published>2023-11-23T12:01:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7305000897233308974</id>
     <title>#onthisday one year ago 😂😂</title>
@@ -91,5 +83,13 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@kit_the_beefcake/video/7308665725332278571" rel="alternate"/>
     <published>2023-12-04T09:16:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7308869113261133099</id>
+    <title>even if he isn't he is in your mind 😂🫶🏼</title>
+    <updated>2023-12-04T22:25:14+00:00</updated>
+    <content>even if he isn't he is in your mind 😂🫶🏼</content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7308869113261133099" rel="alternate"/>
+    <published>2023-12-04T22:25:14+00:00</published>
   </entry>
 </feed>
