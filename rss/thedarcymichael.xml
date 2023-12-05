@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thedarcymichael</id>
   <title>@thedarcymichael | TikTok</title>
-  <updated>2023-12-04T14:32:14+00:00</updated>
+  <updated>2023-12-05T16:03:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thedarcymichael</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thedarcymichael/video/7302482399705812229</id>
-    <title>He got so defensive at the end #adhd #husbands #gay #comedy  </title>
-    <updated>2023-11-17T17:21:21+00:00</updated>
-    <content>He got so defensive at the end #adhd #husbands #gay #comedy  </content>
-    <link href="https://tiktok.com/@thedarcymichael/video/7302482399705812229" rel="alternate"/>
-    <published>2023-11-17T17:21:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thedarcymichael/video/7302816656747777285</id>
     <title>Start the car! Start the car!</title>
@@ -91,5 +83,13 @@
     <content>The last one is ✨ART✨ #husbands #prank #couplecomedy #darcyandjer #surprisingmyhusband </content>
     <link href="https://tiktok.com/@thedarcymichael/video/7308747269514333445" rel="alternate"/>
     <published>2023-12-04T14:32:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thedarcymichael/video/7309141979349159173</id>
+    <title>It's called Tangents for a reason - see you tomorrow for an hour filled with side quests 😅@Tyler and Todd </title>
+    <updated>2023-12-05T16:03:54+00:00</updated>
+    <content>It's called Tangents for a reason - see you tomorrow for an hour filled with side quests 😅@Tyler and Todd </content>
+    <link href="https://tiktok.com/@thedarcymichael/video/7309141979349159173" rel="alternate"/>
+    <published>2023-12-05T16:03:54+00:00</published>
   </entry>
 </feed>
