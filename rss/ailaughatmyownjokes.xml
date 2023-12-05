@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ailaughatmyownjokes</id>
   <title>@ailaughatmyownjokes | TikTok</title>
-  <updated>2023-12-03T13:15:11+00:00</updated>
+  <updated>2023-12-05T18:31:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ailaughatmyownjokes</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ailaughatmyownjokes/video/7297651555329723681</id>
-    <title>Spoiler: I die  #horror #sketch #comedy </title>
-    <updated>2023-11-04T16:55:15+00:00</updated>
-    <content>Spoiler: I die  #horror #sketch #comedy </content>
-    <link href="https://tiktok.com/@ailaughatmyownjokes/video/7297651555329723681" rel="alternate"/>
-    <published>2023-11-04T16:55:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ailaughatmyownjokes/video/7298800020512345377</id>
     <title>Snape broke his back twice that day. #harrypotter #sketch #comedy </title>
@@ -91,5 +83,13 @@
     <content>Not me being gratefulll🙈🙈 omg I'm so goofy🤪 ok but jokes aside, I am in love with filming videos (of your mom and I) and I get to do this as a job. I can't even express how grateful I am. You guys have been so supportive and you can't imagine how much that means to me😍 I love you(r moms)❤</content>
     <link href="https://tiktok.com/@ailaughatmyownjokes/video/7308356313547853089" rel="alternate"/>
     <published>2023-12-03T13:15:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ailaughatmyownjokes/video/7309179887066139936</id>
+    <title>When Potter uses your own spells against you &gt;:c #harrypotter #sketch #comedy </title>
+    <updated>2023-12-05T18:31:04+00:00</updated>
+    <content>When Potter uses your own spells against you &gt;:c #harrypotter #sketch #comedy </content>
+    <link href="https://tiktok.com/@ailaughatmyownjokes/video/7309179887066139936" rel="alternate"/>
+    <published>2023-12-05T18:31:04+00:00</published>
   </entry>
 </feed>
