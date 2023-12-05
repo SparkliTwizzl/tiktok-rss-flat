@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-12-04T13:46:42+00:00</updated>
+  <updated>2023-12-04T22:30:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7304674294926216454</id>
-    <title>my final act from the night. I made all the props in under 2 days 😅 song @NSP  #dancesinshadows #glumthesupernaturalhitman #dragperformance #nspband </title>
-    <updated>2023-11-23T15:07:00+00:00</updated>
-    <content>my final act from the night. I made all the props in under 2 days 😅 song @NSP  #dancesinshadows #glumthesupernaturalhitman #dragperformance #nspband </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7304674294926216454" rel="alternate"/>
-    <published>2023-11-23T15:07:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7305537943559474438</id>
     <title>love my floor baby ❤️🤣 #bigroundeyescat #bigroundeyesfilter #tabbycat </title>
@@ -91,5 +83,13 @@
     <content>tree is up...and so is minn... #tabbycatsoftiktok #egyptianmau #tabbycat #funnycat </content>
     <link href="https://tiktok.com/@dancesinshadows/video/7308735534887734534" rel="alternate"/>
     <published>2023-12-04T13:46:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7308870638129777925</id>
+    <title>watch out, he's on his way... do you have any xmas song suggestions? drop your ideas below ❤️ #zombiesanta #santacosplay #santa </title>
+    <updated>2023-12-04T22:30:59+00:00</updated>
+    <content>watch out, he's on his way... do you have any xmas song suggestions? drop your ideas below ❤️ #zombiesanta #santacosplay #santa </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7308870638129777925" rel="alternate"/>
+    <published>2023-12-04T22:30:59+00:00</published>
   </entry>
 </feed>
