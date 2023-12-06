@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@adriananightmare</id>
   <title>@adriananightmare | TikTok</title>
-  <updated>2023-11-28T21:45:23+00:00</updated>
+  <updated>2023-12-05T20:29:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @adriananightmare</subtitle>
-  <entry>
-    <id>https://tiktok.com/@adriananightmare/video/7304010034197859627</id>
-    <title>THE MOST LATINA I HAVE EVER LOOKED THANK YOU?</title>
-    <updated>2023-11-21T20:09:32+00:00</updated>
-    <content>THE MOST LATINA I HAVE EVER LOOKED THANK YOU?</content>
-    <link href="https://tiktok.com/@adriananightmare/video/7304010034197859627" rel="alternate"/>
-    <published>2023-11-21T20:09:32+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@adriananightmare/video/7304037484697177390</id>
     <title>[no title]</title>
@@ -91,5 +83,13 @@
     <content>[no description]</content>
     <link href="https://tiktok.com/@adriananightmare/video/7306632300404657454" rel="alternate"/>
     <published>2023-11-28T21:45:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@adriananightmare/video/7309210240493374763</id>
+    <title>i drew my Roblox avatar. don't come at me, the games are cute and relaxing.</title>
+    <updated>2023-12-05T20:29:08+00:00</updated>
+    <content>i drew my Roblox avatar. don't come at me, the games are cute and relaxing.</content>
+    <link href="https://tiktok.com/@adriananightmare/video/7309210240493374763" rel="alternate"/>
+    <published>2023-12-05T20:29:08+00:00</published>
   </entry>
 </feed>
