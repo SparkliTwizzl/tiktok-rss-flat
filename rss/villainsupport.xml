@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@villainsupport</id>
   <title>@villainsupport | TikTok</title>
-  <updated>2023-12-06T14:03:31+00:00</updated>
+  <updated>2023-12-06T20:02:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @villainsupport</subtitle>
-  <entry>
-    <id>https://tiktok.com/@villainsupport/video/7307352515509603614</id>
-    <title>MORE. MIMICS. #mimic #nappa #dbz #acmetok #acmevillainsupport </title>
-    <updated>2023-11-30T20:20:12+00:00</updated>
-    <content>MORE. MIMICS. #mimic #nappa #dbz #acmetok #acmevillainsupport </content>
-    <link href="https://tiktok.com/@villainsupport/video/7307352515509603614" rel="alternate"/>
-    <published>2023-11-30T20:20:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@villainsupport/video/7307673013686701342</id>
     <title>Nappa’s Late for Work #nappa #dbz #mimic #acmetok #acmevillainsupport </title>
@@ -91,5 +83,13 @@
     <content>#onthisday #deadpool #ban #sevendeadlysins #acmetok #acmevillainsupport </content>
     <link href="https://tiktok.com/@villainsupport/video/7309482011587005727" rel="alternate"/>
     <published>2023-12-06T14:03:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@villainsupport/video/7309574458170182942</id>
+    <title>VILLAIN SUPPORT SOAP IS GONNA BE A THING!! #soap #warpedlegacy #churchoffckry #acmetok #acmevillainsupport  @Villain Support </title>
+    <updated>2023-12-06T20:02:24+00:00</updated>
+    <content>VILLAIN SUPPORT SOAP IS GONNA BE A THING!! #soap #warpedlegacy #churchoffckry #acmetok #acmevillainsupport  @Villain Support </content>
+    <link href="https://tiktok.com/@villainsupport/video/7309574458170182942" rel="alternate"/>
+    <published>2023-12-06T20:02:24+00:00</published>
   </entry>
 </feed>
