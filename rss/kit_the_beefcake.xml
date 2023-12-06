@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kit_the_beefcake</id>
   <title>@kit_the_beefcake | TikTok</title>
-  <updated>2023-12-04T22:25:14+00:00</updated>
+  <updated>2023-12-06T22:03:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kit_the_beefcake</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7305000897233308974</id>
-    <title>#onthisday one year ago 😂😂</title>
-    <updated>2023-11-24T12:15:13+00:00</updated>
-    <content>#onthisday one year ago 😂😂</content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7305000897233308974" rel="alternate"/>
-    <published>2023-11-24T12:15:13+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kit_the_beefcake/video/7305694714370559275</id>
-    <title>[no title]</title>
-    <updated>2023-11-26T09:07:21+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@kit_the_beefcake/video/7305694714370559275" rel="alternate"/>
-    <published>2023-11-26T09:07:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kit_the_beefcake/video/7306046069530479914</id>
     <title>[no title]</title>
@@ -91,5 +75,21 @@
     <content>even if he isn't he is in your mind 😂🫶🏼</content>
     <link href="https://tiktok.com/@kit_the_beefcake/video/7308869113261133099" rel="alternate"/>
     <published>2023-12-04T22:25:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7309454022958845230</id>
+    <title>this form of cuddle is elite for buddies </title>
+    <updated>2023-12-06T12:14:57+00:00</updated>
+    <content>this form of cuddle is elite for buddies </content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7309454022958845230" rel="alternate"/>
+    <published>2023-12-06T12:14:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kit_the_beefcake/video/7309605597274541355</id>
+    <title>Shameless plug #lordoftherings #hobbit #nerdy</title>
+    <updated>2023-12-06T22:03:20+00:00</updated>
+    <content>Shameless plug #lordoftherings #hobbit #nerdy</content>
+    <link href="https://tiktok.com/@kit_the_beefcake/video/7309605597274541355" rel="alternate"/>
+    <published>2023-12-06T22:03:20+00:00</published>
   </entry>
 </feed>
