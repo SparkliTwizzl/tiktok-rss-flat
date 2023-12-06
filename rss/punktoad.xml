@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-12-05T15:05:17+00:00</updated>
+  <updated>2023-12-06T00:20:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7304713496854269214</id>
-    <title>We love our host/hostess’s </title>
-    <updated>2023-11-23T17:39:15+00:00</updated>
-    <content>We love our host/hostess’s </content>
-    <link href="https://tiktok.com/@punktoad/video/7304713496854269214" rel="alternate"/>
-    <published>2023-11-23T17:39:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7305463952241069342</id>
     <title>Learning is fun </title>
@@ -91,5 +83,13 @@
     <content>I need that Kohl’s cash </content>
     <link href="https://tiktok.com/@punktoad/video/7309126842210864414" rel="alternate"/>
     <published>2023-12-05T15:05:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7309269891343830303</id>
+    <title>We have a bond  </title>
+    <updated>2023-12-06T00:20:29+00:00</updated>
+    <content>We have a bond  </content>
+    <link href="https://tiktok.com/@punktoad/video/7309269891343830303" rel="alternate"/>
+    <published>2023-12-06T00:20:29+00:00</published>
   </entry>
 </feed>
