@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@punktoad</id>
   <title>@punktoad | TikTok</title>
-  <updated>2023-12-06T14:44:02+00:00</updated>
+  <updated>2023-12-06T22:30:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @punktoad</subtitle>
-  <entry>
-    <id>https://tiktok.com/@punktoad/video/7306678503984942366</id>
-    <title>Replying to @rissbass91 you gotta try it </title>
-    <updated>2023-11-29T00:44:30+00:00</updated>
-    <content>Replying to @rissbass91 you gotta try it </content>
-    <link href="https://tiktok.com/@punktoad/video/7306678503984942366" rel="alternate"/>
-    <published>2023-11-29T00:44:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@punktoad/video/7307376212282723614</id>
     <title>Australian snacks slap </title>
@@ -91,5 +83,13 @@
     <content>Im resting </content>
     <link href="https://tiktok.com/@punktoad/video/7309492449838140703" rel="alternate"/>
     <published>2023-12-06T14:44:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@punktoad/video/7309612745123581215</id>
+    <title>Oogly boogly </title>
+    <updated>2023-12-06T22:30:57+00:00</updated>
+    <content>Oogly boogly </content>
+    <link href="https://tiktok.com/@punktoad/video/7309612745123581215" rel="alternate"/>
+    <published>2023-12-06T22:30:57+00:00</published>
   </entry>
 </feed>
