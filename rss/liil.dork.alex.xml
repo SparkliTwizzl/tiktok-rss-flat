@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@liil.dork.alex</id>
   <title>@liil.dork.alex | TikTok</title>
-  <updated>2023-12-06T01:40:41+00:00</updated>
+  <updated>2023-12-06T14:16:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @liil.dork.alex</subtitle>
-  <entry>
-    <id>https://tiktok.com/@liil.dork.alex/video/7305539376199585066</id>
-    <title>That gay panic be getting in the way 😂</title>
-    <updated>2023-11-25T23:04:13+00:00</updated>
-    <content>That gay panic be getting in the way 😂</content>
-    <link href="https://tiktok.com/@liil.dork.alex/video/7305539376199585066" rel="alternate"/>
-    <published>2023-11-25T23:04:13+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@liil.dork.alex/video/7306973203392466206</id>
     <title>🌊🌊</title>
@@ -91,5 +83,13 @@
     <content>Theyre everywhere 😂</content>
     <link href="https://tiktok.com/@liil.dork.alex/video/7309290571364093230" rel="alternate"/>
     <published>2023-12-06T01:40:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@liil.dork.alex/video/7309485370654182699</id>
+    <title>Just gotta feel the feels 😂</title>
+    <updated>2023-12-06T14:16:35+00:00</updated>
+    <content>Just gotta feel the feels 😂</content>
+    <link href="https://tiktok.com/@liil.dork.alex/video/7309485370654182699" rel="alternate"/>
+    <published>2023-12-06T14:16:35+00:00</published>
   </entry>
 </feed>
