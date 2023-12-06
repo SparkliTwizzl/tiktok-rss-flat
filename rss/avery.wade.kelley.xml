@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avery.wade.kelley</id>
   <title>@avery.wade.kelley | TikTok</title>
-  <updated>2023-12-03T23:18:22+00:00</updated>
+  <updated>2023-12-05T21:48:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avery.wade.kelley</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avery.wade.kelley/video/7307007921123118382</id>
-    <title>DISCOUNT CODE: Avery Yup, it's just my name. Haha. Head over to my linktree in my bio to check it out! #fyp </title>
-    <updated>2023-11-29T22:02:53+00:00</updated>
-    <content>DISCOUNT CODE: Avery Yup, it's just my name. Haha. Head over to my linktree in my bio to check it out! #fyp </content>
-    <link href="https://tiktok.com/@avery.wade.kelley/video/7307007921123118382" rel="alternate"/>
-    <published>2023-11-29T22:02:53+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avery.wade.kelley/video/7307015297947438378</id>
     <title>Brain Shit. #fyp </title>
@@ -91,5 +83,13 @@
     <content>Just had to get this awesome neon sign. #fyp #trans </content>
     <link href="https://tiktok.com/@avery.wade.kelley/video/7308511711399660843" rel="alternate"/>
     <published>2023-12-03T23:18:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avery.wade.kelley/video/7309230830063209770</id>
+    <title>Normalize practicing and fucking up. You'll just end up seeing how far you've come. 1.5 years on T, and this is the extent of my range so far. Hope you like it! I apologize again for my phone mic busting. #fyp #trans </title>
+    <updated>2023-12-05T21:48:54+00:00</updated>
+    <content>Normalize practicing and fucking up. You'll just end up seeing how far you've come. 1.5 years on T, and this is the extent of my range so far. Hope you like it! I apologize again for my phone mic busting. #fyp #trans </content>
+    <link href="https://tiktok.com/@avery.wade.kelley/video/7309230830063209770" rel="alternate"/>
+    <published>2023-12-05T21:48:54+00:00</published>
   </entry>
 </feed>

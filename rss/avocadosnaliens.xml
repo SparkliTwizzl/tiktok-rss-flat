@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@avocadosnaliens</id>
   <title>@avocadosnaliens | TikTok</title>
-  <updated>2023-12-04T21:01:57+00:00</updated>
+  <updated>2023-12-06T01:43:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @avocadosnaliens</subtitle>
-  <entry>
-    <id>https://tiktok.com/@avocadosnaliens/video/7303301390938639662</id>
-    <title>[no title]</title>
-    <updated>2023-11-19T22:19:37+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://tiktok.com/@avocadosnaliens/video/7303301390938639662" rel="alternate"/>
-    <published>2023-11-19T22:19:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@avocadosnaliens/video/7304127356333985066</id>
     <title>[no title]</title>
@@ -91,5 +83,13 @@
     <content>#greenscreenvideo #greenscreen dont forger the soliders need their gluten free bread!!!!!</content>
     <link href="https://tiktok.com/@avocadosnaliens/video/7308847629432114474" rel="alternate"/>
     <published>2023-12-04T21:01:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@avocadosnaliens/video/7309291316876201258</id>
+    <title>🍉I am rarely brought to tears by a song but wow this is moving. Watch the original video: @rubymarygill youre so talented. </title>
+    <updated>2023-12-06T01:43:36+00:00</updated>
+    <content>🍉I am rarely brought to tears by a song but wow this is moving. Watch the original video: @rubymarygill youre so talented. </content>
+    <link href="https://tiktok.com/@avocadosnaliens/video/7309291316876201258" rel="alternate"/>
+    <published>2023-12-06T01:43:36+00:00</published>
   </entry>
 </feed>
