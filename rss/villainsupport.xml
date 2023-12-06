@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@villainsupport</id>
   <title>@villainsupport | TikTok</title>
-  <updated>2023-12-04T21:41:25+00:00</updated>
+  <updated>2023-12-06T00:55:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @villainsupport</subtitle>
-  <entry>
-    <id>https://tiktok.com/@villainsupport/video/7307014238697016606</id>
-    <title>#duet with @Twan #soap ONE MORE DAY TO ENSURE WE GET VILLAIN SUPPORT SOAP! #warpedsoap #acmetok #acmevillainsupport </title>
-    <updated>2023-11-29T22:27:26+00:00</updated>
-    <content>#duet with @Twan #soap ONE MORE DAY TO ENSURE WE GET VILLAIN SUPPORT SOAP! #warpedsoap #acmetok #acmevillainsupport </content>
-    <link href="https://tiktok.com/@villainsupport/video/7307014238697016606" rel="alternate"/>
-    <published>2023-11-29T22:27:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@villainsupport/video/7307312941504662814</id>
     <title>#onthisday #ghostrider #lobo #predator #motorcycle #acmetok #acmevillainsupport </title>
@@ -91,5 +83,13 @@
     <content>#onthisday I completely forgot about this one! Hat tip to @Steven Steiner </content>
     <link href="https://tiktok.com/@villainsupport/video/7308857802783575326" rel="alternate"/>
     <published>2023-12-04T21:41:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@villainsupport/video/7309278958451838238</id>
+    <title>#duet with @D&amp;D #dnd #mimic #dndtiktok #acmetok #acmevillainsupport </title>
+    <updated>2023-12-06T00:55:40+00:00</updated>
+    <content>#duet with @D&amp;D #dnd #mimic #dndtiktok #acmetok #acmevillainsupport </content>
+    <link href="https://tiktok.com/@villainsupport/video/7309278958451838238" rel="alternate"/>
+    <published>2023-12-06T00:55:40+00:00</published>
   </entry>
 </feed>
