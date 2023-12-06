@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dancesinshadows</id>
   <title>@dancesinshadows | TikTok</title>
-  <updated>2023-12-05T13:48:56+00:00</updated>
+  <updated>2023-12-06T13:35:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @dancesinshadows</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dancesinshadows/video/7305542764698094853</id>
-    <title>new look for Maddam Cure. this year has been a chaotic ride. I hope to get back to my story soon ❤️ with all new looks for many of my Ocs #dancesinshadows #maddamcure #maladytheclown </title>
-    <updated>2023-11-25T23:17:09+00:00</updated>
-    <content>new look for Maddam Cure. this year has been a chaotic ride. I hope to get back to my story soon ❤️ with all new looks for many of my Ocs #dancesinshadows #maddamcure #maladytheclown </content>
-    <link href="https://tiktok.com/@dancesinshadows/video/7305542764698094853" rel="alternate"/>
-    <published>2023-11-25T23:17:09+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dancesinshadows/video/7305824177670376710</id>
     <title>outfit is handmade from foam ❤️ #maladytheclown #icecream  #candy </title>
@@ -91,5 +83,13 @@
     <content>zombie santa for the #mehronhauntedholidays contest by @Mehron Makeup   #mehronmakeup Products used Mehron clown white Mehron setting piwder cliwn white Mehron Makeup Paradise AQ Face &amp; Body Paint 8 Color Palette (pastel)  #zombiemakeup #zombiesantaclaus</content>
     <link href="https://tiktok.com/@dancesinshadows/video/7309107199337467142" rel="alternate"/>
     <published>2023-12-05T13:48:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dancesinshadows/video/7309474707143707909</id>
+    <title>Glum had a bisy schedule this month. He has 2 events on top of the usual wednesday at the well #onthisday #xmas #glumthesupernaturalhitman </title>
+    <updated>2023-12-06T13:35:04+00:00</updated>
+    <content>Glum had a bisy schedule this month. He has 2 events on top of the usual wednesday at the well #onthisday #xmas #glumthesupernaturalhitman </content>
+    <link href="https://tiktok.com/@dancesinshadows/video/7309474707143707909" rel="alternate"/>
+    <published>2023-12-06T13:35:04+00:00</published>
   </entry>
 </feed>
