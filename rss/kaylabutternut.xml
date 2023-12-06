@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kaylabutternut</id>
   <title>@kaylabutternut | TikTok</title>
-  <updated>2023-12-05T05:35:55+00:00</updated>
+  <updated>2023-12-06T00:52:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,38 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kaylabutternut</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7308638583047327018</id>
-    <title>LMAOOOOOOOOOOO WHAT IS THIS SOUND</title>
-    <updated>2023-12-04T07:30:57+00:00</updated>
-    <content>LMAOOOOOOOOOOO WHAT IS THIS SOUND</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7308638583047327018" rel="alternate"/>
-    <published>2023-12-04T07:30:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7308659329081609515</id>
-    <title>Is the chain too much?</title>
-    <updated>2023-12-04T08:51:31+00:00</updated>
-    <content>Is the chain too much?</content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7308659329081609515" rel="alternate"/>
-    <published>2023-12-04T08:51:31+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7308667108827663658</id>
-    <title>Replying to @FPS </title>
-    <updated>2023-12-04T09:21:55+00:00</updated>
-    <content>Replying to @FPS </content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7308667108827663658" rel="alternate"/>
-    <published>2023-12-04T09:21:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7308685032544062763</id>
-    <title>Rate the camerawork </title>
-    <updated>2023-12-04T10:32:00+00:00</updated>
-    <content>Rate the camerawork </content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7308685032544062763" rel="alternate"/>
-    <published>2023-12-04T10:32:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kaylabutternut/video/7308730911317839150</id>
     <title>Life was never the same after I discovered this trend</title>
@@ -85,11 +53,43 @@
     <published>2023-12-05T05:28:42+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@kaylabutternut/video/7308980102384094506</id>
-    <title>@MistyRenn </title>
-    <updated>2023-12-05T05:35:55+00:00</updated>
-    <content>@MistyRenn </content>
-    <link href="https://tiktok.com/@kaylabutternut/video/7308980102384094506" rel="alternate"/>
-    <published>2023-12-05T05:35:55+00:00</published>
+    <id>https://tiktok.com/@kaylabutternut/video/7309017380871490859</id>
+    <title>Its funny bc I have 4</title>
+    <updated>2023-12-05T08:00:32+00:00</updated>
+    <content>Its funny bc I have 4</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7309017380871490859" rel="alternate"/>
+    <published>2023-12-05T08:00:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7309044302699597102</id>
+    <title>Butterflies every time</title>
+    <updated>2023-12-05T09:45:02+00:00</updated>
+    <content>Butterflies every time</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7309044302699597102" rel="alternate"/>
+    <published>2023-12-05T09:45:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7309129483288644906</id>
+    <title>Girl why</title>
+    <updated>2023-12-05T15:15:33+00:00</updated>
+    <content>Girl why</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7309129483288644906" rel="alternate"/>
+    <published>2023-12-05T15:15:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7309168489585970475</id>
+    <title>These are the most expensive heels I own but they make me feel powerful </title>
+    <updated>2023-12-05T17:47:05+00:00</updated>
+    <content>These are the most expensive heels I own but they make me feel powerful </content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7309168489585970475" rel="alternate"/>
+    <published>2023-12-05T17:47:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kaylabutternut/video/7309278187895409966</id>
+    <title>Replying to @JMG omg neverrrrrr</title>
+    <updated>2023-12-06T00:52:39+00:00</updated>
+    <content>Replying to @JMG omg neverrrrrr</content>
+    <link href="https://tiktok.com/@kaylabutternut/video/7309278187895409966" rel="alternate"/>
+    <published>2023-12-06T00:52:39+00:00</published>
   </entry>
 </feed>

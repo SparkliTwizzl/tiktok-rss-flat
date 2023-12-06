@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pinkmantaray</id>
   <title>@pinkmantaray | TikTok</title>
-  <updated>2023-11-28T21:04:06+00:00</updated>
+  <updated>2023-12-05T22:10:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @pinkmantaray</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pinkmantaray/video/7294024563237702955</id>
-    <title>We made @USA TODAY's BEST-SELLING BOOKLIST!!! Get your copy at hstbook.com 💕🏳️‍⚧️ #transgender #trans #heshethey #booktok #bestseller #author </title>
-    <updated>2023-10-25T22:20:45+00:00</updated>
-    <content>We made @USA TODAY's BEST-SELLING BOOKLIST!!! Get your copy at hstbook.com 💕🏳️‍⚧️ #transgender #trans #heshethey #booktok #bestseller #author </content>
-    <link href="https://tiktok.com/@pinkmantaray/video/7294024563237702955" rel="alternate"/>
-    <published>2023-10-25T22:20:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pinkmantaray/video/7294090631557762346</id>
     <title>We made @USA TODAY's BEST-SELLING BOOKLIST!!! Get your copy at hstbook.com 💕🏳️‍⚧️ #transgender #trans #heshethey #booktok #bestseller #author </title>
@@ -91,5 +83,13 @@
     <content>Tune in for a critical episode of #DearSchuyler with attorney @ChaseStrangio. Chase has been a longtime comrade of mine - his work is saving lives, fighting the anti-trans legislation that has plagued our country. Take a listen to learn more about why there are so many anti-trans bills. Why so many? Why now?? Chase, thank you so much for what you do. We are all indebted to you 💕🏳️‍⚧️ #transgender #podcast #antitranslegislation </content>
     <link href="https://tiktok.com/@pinkmantaray/video/7306621684042206494" rel="alternate"/>
     <published>2023-11-28T21:04:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pinkmantaray/video/7309236436451069214</id>
+    <title>On my run this morning I found myself thinking about all the ridiculous comments people make about "trans woman domination" with regards to sports - so I thought I'd share some numbers that might be helpful. Consider the following: ▪️Trans athletes have b</title>
+    <updated>2023-12-05T22:10:41+00:00</updated>
+    <content>On my run this morning I found myself thinking about all the ridiculous comments people make about "trans woman domination" with regards to sports - so I thought I'd share some numbers that might be helpful. Consider the following: ▪️Trans athletes have been permitted to compete in the category aligned with their gender identity since 2003. ▪️Only one trans woman has ever competed in the women's Olympic category. ▪️5,000 women compete in the Olympics each Olympic cycle. Trans people make up 1% of the population; we should have 50 trans women competing each Olympics. ▪️480,000 athletes compete in the NCAA yearly. ▪️2 trans women have women national championships in the NCAA, ever. Trans athletes and trans women in particular do NOT threaten sport. Transphobia does. For a full breakdown, and a special interview with Lia Thomas (one of the aforementioned two trans women who've won an NCAA title), check out my book, He/She/They: How We Talk About Gender and Why It Matters. #transgender #transathlete #trans </content>
+    <link href="https://tiktok.com/@pinkmantaray/video/7309236436451069214" rel="alternate"/>
+    <published>2023-12-05T22:10:41+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@maladytheclown</id>
   <title>@maladytheclown | TikTok</title>
-  <updated>2023-11-09T15:28:57+00:00</updated>
+  <updated>2023-11-14T14:26:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @maladytheclown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@maladytheclown/video/7284640483928755462</id>
-    <title>im waiting 🩵  #glumthesupernaturalhitman #makeupartist #dragking </title>
-    <updated>2023-09-30T15:25:35+00:00</updated>
-    <content>im waiting 🩵  #glumthesupernaturalhitman #makeupartist #dragking </content>
-    <link href="https://tiktok.com/@maladytheclown/video/7284640483928755462" rel="alternate"/>
-    <published>2023-09-30T15:25:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@maladytheclown/video/7284644860697644294</id>
     <title>a general mood of late. I've worked so hard these last few years, only to feel used and abandoned by so called friends #maladytheclown </title>
@@ -91,5 +83,13 @@
     <content>this was the most elaborate hand sewn costume yet 😅❤️#wonderland #whiterabbitcosplay #makeupartist </content>
     <link href="https://tiktok.com/@maladytheclown/video/7299484759120416005" rel="alternate"/>
     <published>2023-11-09T15:28:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@maladytheclown/video/7301324122481511686</id>
+    <title>back when I was blonde 🙃 got a few random drafts to post song @Aqua   #makeupartist #maladytheclown #rosesarered </title>
+    <updated>2023-11-14T14:26:38+00:00</updated>
+    <content>back when I was blonde 🙃 got a few random drafts to post song @Aqua   #makeupartist #maladytheclown #rosesarered </content>
+    <link href="https://tiktok.com/@maladytheclown/video/7301324122481511686" rel="alternate"/>
+    <published>2023-11-14T14:26:38+00:00</published>
   </entry>
 </feed>
