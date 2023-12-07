@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@nopanicbutton</id>
   <title>@nopanicbutton | TikTok</title>
-  <updated>2023-12-04T18:08:45+00:00</updated>
+  <updated>2023-12-06T17:55:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.uselesslesbians.gay/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @nopanicbutton</subtitle>
-  <entry>
-    <id>https://tiktok.com/@nopanicbutton/video/7300991171826945326</id>
-    <title>I never thought of witches as being so deviously practical. #witchtok #witchcraft #hunt #respectyourkill </title>
-    <updated>2023-11-13T16:54:57+00:00</updated>
-    <content>I never thought of witches as being so deviously practical. #witchtok #witchcraft #hunt #respectyourkill </content>
-    <link href="https://tiktok.com/@nopanicbutton/video/7300991171826945326" rel="alternate"/>
-    <published>2023-11-13T16:54:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@nopanicbutton/video/7301733346017594667</id>
     <title>So something happened the other day... #findingjesus #alreadygettingphonecalls </title>
@@ -91,5 +83,13 @@
     <content>Pride cometh before a fall. #holidayroadkill #murphyslaw </content>
     <link href="https://tiktok.com/@nopanicbutton/video/7308802995615960362" rel="alternate"/>
     <published>2023-12-04T18:08:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@nopanicbutton/video/7309541687729212714</id>
+    <title>Is there a quinkster version of fear factor I don't know about? #scaroused #kinktok #ouch #wedoingthis </title>
+    <updated>2023-12-06T17:55:10+00:00</updated>
+    <content>Is there a quinkster version of fear factor I don't know about? #scaroused #kinktok #ouch #wedoingthis </content>
+    <link href="https://tiktok.com/@nopanicbutton/video/7309541687729212714" rel="alternate"/>
+    <published>2023-12-06T17:55:10+00:00</published>
   </entry>
 </feed>
